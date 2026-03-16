@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>ﺪﻴﻨﺠﺗ</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>. ﻪﺘﻣﻭﺎﻘﻣ ﻞﻴﻠﻘﺘﻟ ﻥﻮﻧﺎﺠﺴﻟﺍ ﻪﻴﻟﺇ ﺙﺪﺤﺘﻴﺴﻓ ،ﻡﻭﺎﻘﻳ ﻝﺍﺰﻳ ﻻ ﻦﻴﺠﺴﻟﺍ ﻥﺎﻛ ﺍﺫﺇﻭ ،ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﻥﻮﻧﺎﺠﺴﻟﺍ ﻝﻭﺎﺤﻴﺳ</AttemptRecruit.description>
+  
+  <!-- EN: execute -->
+  <Execution.label>ﻡﺍﺪﻋﺇ</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>. ﻦﻳﺮﺧﻵﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍﻭ ﺀﺎﻨﺠﺴﻟﺍ ﺕﺎﻳﻮﻨﻌﻣ ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻳ ﻥﺃ ﻦﻜﻤﻳ. ﻊﻄﻘﻟﺎﺑ ﻝﺎﺤﻟﺍ ﻲﻓ ﻦﻴﺠﺴﻟﺍ ﻰﻠﻋ ﻡﺍﺪﻋﻹﺍ ﻥﺎﺠﺴﻟﺍ ﺬﻔﻨﻴﺳ</Execution.description>
+  
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>ﻂﻘﻓ ﻅﺎﻔﺤﻟﺍ</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>. ﺮﺧﺁ ﻞﻋﺎﻔﺗ ﻱﺃ ﺔﻟﻭﺎﺤﻣ ﻥﻭﺩ ،ﺔﻴﺳﺎﺳﻷﺍ ﻪﺗﺎﺟﺎﻴﺘﺣﺍ ﻪﻟ ﺭّﻓﻭﻭ ﻦﻴﺠﺴﻟﺍ ﻢﻌﻃﺃ</MaintainOnly.description>
+  
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>ﻂﻘﻓ ﺔﻣﻭﺎﻘﻤﻟﺍ ﻞﻴﻠﻘﺗ</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>. ﺪﻴﻨﺠﺘﻠﻟ ﺕﻻﻭﺎﺤﻣ ﻱﺃ ﻝﺬﺑُﺗ ﻦﻟﻭ ،ﺎﻬﻠﻴﻠﻘﺘﻟ ﺱﺍﺮﺤﻟﺍ ﻪﻌﻣ ﺙﺪﺤﺘﻳ ﻑﻮﺴﻓ ،ﺔﻴﻘﺒﺘﻣ ﺔﻣﻭﺎﻘﻣ ﻦﻴﺠﺴﻟﺍ ﻯﺪﻟ ﻥﺎﻛ ﺍﺫﺇ</ReduceResistance.description>
+  
+  <!-- EN: release -->
+  <Release.label>ﺡﺍﺮﺳ ﻕﻼﻃﺇ</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>. ﻦﻴﺠﺴﻟﺍ ﺡﺍﺮﺳ ﻥﺎﺠﺴﻟﺍ ﻖﻠﻄﻴﺳ</Release.description>
+  
+</LanguageData>

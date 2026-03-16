@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats. -->
+  <CynapseCustomAdulthood.description>{PAWN_gender ? . ﺎﻬﺘﻋﺎﺑﻭ ﻞﺋﺎﺳﺮﻟﺍ ﻥﺍﺮﺌﻓ ﺖﺑﺭﺩ ،ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ. ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻦﻋ ًﺓﺪﻴﻌﺑ ،ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺎﻬﺘﻗﻭ ﻢﻈﻌﻣ [PAWN_nameDef] ﺖﻀﻗ : . ﺎﻬﻋﺎﺑﻭ ﻞﺋﺎﺳﺮﻟﺍ ﻥﺍﺮﺌﻓ ﺏّﺭﺩ ،ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ. ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ ،ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻪﺘﻗﻭ ﻢﻈﻌﻣ [PAWN_nameDef] ﻰﻀﻗ}</CynapseCustomAdulthood.description>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.title>ﻝﺰﻌﻨﻣ</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleFemale>ﺔﻟﺰﻌﻨﻣ</CynapseCustomAdulthood.titleFemale>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.titleShort>ﺪﺣﻮﺘﻣ ﻝﺰﻌﻨﻣ</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomAdulthood.titleShortFemale>ﺓﺪﺣﻮﺘﻣ ﺔﻟﺰﻌﻨﻣ</CynapseCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] time disassembling and reassembling electronic devices in order to figure out how they function. [PAWN_nameDef] became so preoccupied with [PAWN_possessive] tinkering that [PAWN_pronoun] forgot to develop social relationships with other humans. -->
+  <CynapseCustomChildhood.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻊﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺕﺎﻗﻼﻋ ﺮﻳﻮﻄﺗ ﺖﻴﺴﻧ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺎﻬﺘﻳﺍﻮﻬﺑ [PAWN_nameDef] ﺖﻠﻐﺸﻧﺍ. ﺎﻬﻠﻤﻋ ﺔﻘﻳﺮﻃ ﻢﻬﻔﻟ ﺔﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﺓﺰﻬﺟﻷﺍ ﻊﻴﻤﺠﺗ ﺓﺩﺎﻋﺇﻭ ﻚﻴﻜﻔﺗ ﻲﻓ ﺎﻬﺘﻗﻭ ﻢﻈﻌﻣ [PAWN_nameDef] ﺖﻀﻗ : . ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻊﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺕﺎﻗﻼﻋ ﺮﻳﻮﻄﺗ ﻲﺴﻧ ﻪﻧﺃ ﺔﺟﺭﺪﻟ ﻪﺗﻼﻳﺪﻌﺘﺑ ﺍًﺳﻭﻮﻬﻣ [PAWN_nameDef] ﺢﺒﺻﺃ. ﺎﻬﻠﻤﻋ ﺔﻴﻔﻴﻛ ﻢﻬﻓ ﻞﺟﺃ ﻦﻣ ﺔﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﺓﺰﻬﺟﻷﺍ ﻊﻴﻤﺠﺗ ﺓﺩﺎﻋﺇﻭ ﻚﻴﻜﻔﺗ ﻲﻓ ﻪﺘﻗﻭ ﻢﻈﻌﻣ [PAWN_nameDef] ﻰﻀﻗ}</CynapseCustomChildhood.description>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.title>{PAWN_gender ? ﺓﺭِﻛَﺘﺑُﻣ ﺔﺣِﻠﺻُﻣ : ﺭِﻛَﺘﺑُﻣ ﺡِﻠﺻُﻣ}</CynapseCustomChildhood.title>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.titleShort>{PAWN_gender ? ﺔﻋِﺭَﺗْﺧُﻣ : ﻉِﺭَﺗْﺧُﻣ}</CynapseCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
+  <FeyCustomAdulthood.description>{PAWN_gender ? . ﺎﻬﺼﺼﻗﻭ ﺎﻬﻤﻟﺎﻋ ﺀﺎﻨﺑ ﻥﻭﺮﺧﻵﺍ ﻥﻮﺒﻋﻼﻟﺍ ﺐﺣﺃ ﺎﻣ ﺍًﻤﺋﺍﺩﻭ ،ﻡﺎﻋ ﻞﻛ ﺮﻴﻐﺘﺗ ﺔﺒﻌﻠﻟﺍ ﺖﻧﺎﻛ. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﺻﺍﻮﺘﻠﻟ ﺔﻠﻴﺳﻮﻛ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺭﺍﻭﺩﻷﺍ ﺺﻤﻘﺗ ﺏﺎﻌﻟﺃ ﺓﺭﺍﺩﺇ ﻲﻓ ﺎﻬﺘﻗﻭ ﻞﻛ [PAWN_nameDef] ﺖﻀﻗ : . ﻪﺼﺼﻗﻭ ﻪﻤﻟﺎﻋ ﺀﺎﻨﺑ ﻥﻭﺮﺧﻵﺍ ﻥﻮﺒﻋﻼﻟﺍ ﺐﺣﺃ ﺎﻣ ﺍًﻤﺋﺍﺩﻭ ،ﻡﺎﻋ ﻞﻛ ﺮﻴﻐﺘﺗ ﺔﺒﻌﻠﻟﺍ ﺖﻧﺎﻛ. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﺻﺍﻮﺘﻠﻟ ﺔﻠﻴﺳﻮﻛ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺭﺍﻭﺩﻷﺍ ﺺﻤﻘﺗ ﺏﺎﻌﻟﺃ ﺓﺭﺍﺩﺇ ﻲﻓ ﻪﺘﻗﻭ ﻞﻛ [PAWN_nameDef] ﻰﻀﻗ}</FeyCustomAdulthood.description>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.title>ﺔﺒﻌﻠﻟﺍ ﺪﻴﺳ</FeyCustomAdulthood.title>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.titleShort>ﺔﺒﻌﻠﻟﺍ ﺮﻳﺪﻣ</FeyCustomAdulthood.titleShort>
+  
+  <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
+  <FeyCustomChildhood.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻰﻠﻋ ﺎﻬﺗﺪﻋﺎﺳ ﺎﻬﻧﺃ ﻻﺇ ،ﺎﻬﺴﻔﻧ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺍًﺪﺟ ﺓﺮﻫﺎﻣ ﻦﻜﺗ ﻢﻟ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻤﺴﺠﻤﻟﺍ ﻢﺳﺭﻭ ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺐﻌﻠﺑ ﺎﻬﻫﺎﺒﺘﻧﺍ ﺖﺘﺸﺗ ﺖﻧﺎﻛﻭ ،ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﻲﻓ ﻱﺭﺎﻤﻌﻣ ﻞﻜﻴﻫ ﻞﺧﺍﺩ ﺔﻟﺰﻋ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻰﻠﻋ ﻪﺗﺪﻋﺎﺳ ﺎﻬﻧﺃ ﻻﺇ ،ﺎﻬﺴﻔﻧ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺍًﺪﺟ ﺍًﺮﻫﺎﻣ ﻦﻜﻳ ﻢﻟ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻪﻫﺎﺒﺘﻧﺍ ﺖﻴﺘﺸﺘﻟ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻤﺴﺠﻤﻟﺍ ﻢﺳﺭﻭ ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺐﻌﻠﺑ ﻮﻬﻠﻳ ﻥﺎﻛﻭ ،ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﻲﻓ ﻱﺭﺎﻤﻌﻣ ﻞﻜﻴﻫ ﻞﺧﺍﺩ ﺔﻟﺰﻋ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</FeyCustomChildhood.description>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.title>ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺱﻭﻮﻬﻣ</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleFemale>ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺔﻳﻭﺎﻫ</FeyCustomChildhood.titleFemale>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.titleShort>ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺱﻭﻮﻬﻣ</FeyCustomChildhood.titleShort>
+  <FeyCustomChildhood.titleShortFemale>ﺏﺮﺤﻟﺍ ﺏﺎﻌﻟﺃ ﺔﻳﻭﺎﻫ</FeyCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a hobbyist game developer who lived in an endless cycle of unfinished projects and lofty ideas. -->
+  <JoeCustomAdulthood.description>{PAWN_gender ? . ﺔﺣﻮﻤﻄﻟﺍ ﺭﺎﻜﻓﻷﺍﻭ ﺔﻠﻤﺘﻜﻤﻟﺍ ﺮﻴﻏ ﻊﻳﺭﺎﺸﻤﻟﺍ ﻦﻣ ﻲﻬﺘﻨﺗ ﻻ ﺔﻘﻠﺣ ﻲﻓ ﺖﺷﺎﻋ ًﺔﻳﻭﺎﻫ ﺏﺎﻌﻟﺃ ﺓﺭﻮﻄﻣ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﺣﻮﻤﻄﻟﺍ ﺭﺎﻜﻓﻷﺍﻭ ﺔﻠﻤﺘﻜﻤﻟﺍ ﺮﻴﻏ ﻊﻳﺭﺎﺸﻤﻟﺍ ﻦﻣ ﺔﻏﺮﻔﻣ ﺔﻘﻠﺣ ﻲﻓ ﺵﺎﻋ ٍﻭﺎﻫ ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ [PAWN_nameDef] ﻥﺎﻛ}</JoeCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <JoeCustomAdulthood.title>ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleFemale>ﺏﺎﻌﻟﺃ ﺓﺭِّﻮﻃُﻣ</JoeCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <JoeCustomAdulthood.titleShort>ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ</JoeCustomAdulthood.titleShort>
+  <JoeCustomAdulthood.titleShortFemale>ﺏﺎﻌﻟﺃ ﺓﺭِّﻮﻃُﻣ</JoeCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a family of musicians. When hard times came, [PAWN_pronoun] was forced to play the drum in a traveling band. -->
+  <JoeCustomChildhood.description>{PAWN_gender ? . ﺔﻟﻮﺠﺘﻣ ﺔﻗﺮﻓ ﻲﻓ ﻝﻮﺒﻄﻟﺍ ﻰﻠﻋ ﻑﺰﻌﻟﺍ ﻰﻟﺇ ﺕﺮﻄﺿﺍ ،ﺔﺒﻌﺼﻟﺍ ﺕﺎﻗﻭﻷﺍ ﺖﻠﺣ ﺎﻣﺪﻨﻋ. ﻦﻴﻴﻘﻴﺳﻮﻤﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻋ ﻲﻓ [PAWN_nameDef] ﺕﺪﻟُﻭ : . ﺔﻟﻮﺠﺘﻣ ﺔﻗﺮﻓ ﻲﻓ ﻝﻮﺒﻄﻟﺍ ﻰﻠﻋ ﻑﺰﻌﻟﺍ ﻰﻟﺇ ﺮﻄﺿﺍ ،ﺔﺒﻌﺼﻟﺍ ﺕﺎﻗﻭﻷﺍ ﺖﻠﺣ ﺎﻣﺪﻨﻋ. ﻦﻴﻴﻘﻴﺳﻮﻤﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻋ ﻲﻓ [PAWN_nameDef] ﺪﻟُﻭ}</JoeCustomChildhood.description>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.title>ﻝﺎﺒﻃ</JoeCustomChildhood.title>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.titleShort>ﻝﺍّﺒﻃ</JoeCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
+  <LiamCustomAdulthood.description>{PAWN_gender ? . ﺔﻴﻌﻗﺍﻮﻟﺍ ﺔﻘﺋﺎﻓ ﺏﺮﺣ ﻢﺋﺍﺮﺟ ﺓﺎﻛﺎﺤﻣ ﺞﻣﺍﺮﺑ ﺮﻳﻮﻄﺘﻟ ﻢﻟﺎﺴﻣ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻴﻌﻗﺍﻮﻟﺍ ﺔﻘﺋﺎﻓ ﺏﺮﺣ ﻢﺋﺍﺮﺟ ﺓﺎﻛﺎﺤﻣ ﺞﻣﺍﺮﺑ ﺮﻳﻮﻄﺘﻟ ﻢﻟﺎﺴﻣ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ}</LiamCustomAdulthood.description>
+  <!-- EN: simulation developer -->
+  <LiamCustomAdulthood.title>ﺓﺎﻛﺎﺤﻣ ﺭﻮﻄﻣ</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleFemale>ﺓﺎﻛﺎﺣُﻣ ﺓﺭِّﻮﻃُﻣ</LiamCustomAdulthood.titleFemale>
+  <!-- EN: sim dev -->
+  <LiamCustomAdulthood.titleShort>ﺓﺎﻛﺎﺤﻣ ﺭﻮﻄﻣ</LiamCustomAdulthood.titleShort>
+  <LiamCustomAdulthood.titleShortFemale>ﺓﺎﻛﺎﺤﻣ ﺓﺭِّﻮﻃُﻣ</LiamCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
+  <LiamCustomChildhood.description>{PAWN_gender ? . ﺎﻬﺑ ًﺔﻠﺼﺘﻣ ﺍًﺪﺟ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﺖﻀﻗ ﺚﻴﺣ ،ﺓﺎﻛﺎﺤﻤﻟﺍ ﺞﻣﺍﺮﺒﺑ ﺔﺳﻭﻮﻬﻣ [PAWN_nameDef] ﺖﻧﺎﻛﻭ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ ﺕﺄﺸﻧﻭ ﺕﺪﻟُﻭ : . ﺎﻬﺑ ًﻼﺼﺘﻣ ﺍًﺪﺟ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻰﻀﻗ ﺚﻴﺣ ،ﺓﺎﻛﺎﺤﻤﻟﺍ ﺞﻣﺍﺮﺒﺑ ﺍًﺳﻭﻮﻬﻣ ﻥﺎﻛﻭ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧﻭ ﺪﻟُﻭ}</LiamCustomChildhood.description>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.title>ﺓﺎﻛﺎﺤﻣ ﻦﻣﺪﻣ</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleFemale>ﺓﺎﻛﺎﺤﻣ ﺔﻨﻣﺪﻣ</LiamCustomChildhood.titleFemale>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.titleShort>ﺓﺎﻛﺎﺤﻣ ﻦﻣﺪﻣ</LiamCustomChildhood.titleShort>
+  <LiamCustomChildhood.titleShortFemale>ﺓﺎﻛﺎﺤﻣ ﺔﻨﻣﺪﻣ</LiamCustomChildhood.titleShortFemale>
+  
+  <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
+  <MateCustomAdulthood.description>{PAWN_gender ? . ﻝﻮﺤﻜﻟﺍ ﻥﺎﻣﺩﺇ ﺢﻓﺎﻜﺗ ﺔﻄﺒﺤﻣ ﺕﺍﻮﻨﺳ ﺓﺪﻋ ﺖﻀﻗ ،ﺐﻛﺍﻮﻜﻟﺍ ﻦﻴﺑ ﺔﻗﻼﻤﻋ ﺔﻛﺮﺷ ﻦﻣ [PAWN_nameDef] ﺕﺩﺭُﻃ ﻥﺃ ﺪﻌﺑ\n\n. ﺪﻴﻌﺒﻟﺍ ﻲﺿﺎﻤﻟﺍ ﻦﻣ ﺔﻴﺒﻌﺸﻟﺍﻭ ﺯﻮﻠﺒﻟﺍ ﻲﻧﺎﻏﺄﺑ ﻢﻗﺎﻄﻟﺍ ﻱّﻠﺴﺗﻭ ﺉﺮﺘﻬﻣ ﺭﺎﺘﻴﻏ ﻰﻠﻋ ﻑﺰﻌﺗ ،ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﻲﻓ ﻑﺰﻌﻟﺎﺑ ﺮﻣﻷﺍ ﺎﻬﺑ ﻰﻬﺘﻧﺍ : . ﻝﻮﺤﻜﻟﺍ ﻥﺎﻣﺩﺇ ﺢﻓﺎﻜﻳ ﺍًﻄﺒﺤﻣ ﺕﺍﻮﻨﺳ ﺓﺪﻋ ﻰﻀﻣﺃ ،ﺐﻛﺍﻮﻜﻟﺍ ﻦﻴﺑ ﺔﻗﻼﻤﻋ ﺔﻛﺮﺷ ﻦﻣ [PAWN_nameDef] ﺩﺭُﻃ ﻥﺃ ﺪﻌﺑ\n\n. ﺪﻴﻌﺒﻟﺍ ﻲﺿﺎﻤﻟﺍ ﻦﻣ ﺔﻴﺒﻌﺸﻟﺍﻭ ﺯﻮﻠﺒﻟﺍ ﻲﻧﺎﻏﺄﺑ ﺔﻨﻴﻔﺴﻟﺍ ﻢﻗﺎﻃ ﻲﻠﺴﻳﻭ ﺉﺮﺘﻬﻣ ﺭﺎﺘﻴﻏ ﻰﻠﻋ ﻑﺰﻌﻳ ،ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﻲﻓ ﻑﺰﻌﻟﺎﺑ ﺮﻣﻷﺍ ﻪﺑ ﻰﻬﺘﻧﺍ}</MateCustomAdulthood.description>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.title>ﻉﺭﺍﻮﺸﻟﺍ ﻲﻘﻴﺳﻮﻣ ﻝﻮﺴﺘﻣ</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleFemale>ﻉﺭﺍﻮﺸﻟﺍ ﺔﻴﻘﻴﺳﻮﻣ ﺔﻟﻮﺴﺘﻣ</MateCustomAdulthood.titleFemale>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.titleShort>ﻉﺭﺎﺸﻟﺍ ﻥﺎﻨﻓ ﻝﻮﺴﺘﻣ</MateCustomAdulthood.titleShort>
+  <MateCustomAdulthood.titleShortFemale>ﺔﻟﻮﺠﺘﻣ ﺔﻓﺯﺎﻋ</MateCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood dreaming of becoming a famous artist who could impress people with [PAWN_possessive] creations. -->
+  <MateCustomChildhood.description>{PAWN_gender ? . ﺎﻬﺗﺎﻋﺍﺪﺑﺈﺑ ﺱﺎﻨﻟﺍ ﺶﻫﺪﺗ ﻥﺃ ﺎﻬﻨﻜﻤﻳ ﺓﺭﻮﻬﺸﻣ ﺔﻧﺎﻨﻓ ﺢﺒﺼﺗ ﻥﺄﺑ ﻢﻠﺤﺗ ﺎﻬﺘﻟﻮﻔﻃ ﻢﻈﻌﻣ [PAWN_nameDef] ﺖﻀﻗ : . ﻪﺗﺎﻋﺍﺪﺑﺈﺑ ﺱﺎﻨﻟﺍ ﺭﺎﻬﺑﺇ ﻪﻨﻜﻤﻳ ﺍًﺭﻮﻬﺸﻣ ﺍًﻧﺎﻨﻓ ﺢﺒﺼﻳ ﻥﺄﺑ ﻢﻠﺤﻳ ﻪﺘﻟﻮﻔﻃ ﻢﻈﻌﻣ [PAWN_nameDef] ﻰﻀﻗ}</MateCustomChildhood.description>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.title>ﻲﻟﻮﻀﻓ ﻞﻔﻃ</MateCustomChildhood.title>
+  <MateCustomChildhood.titleFemale>ﺔﻴﻟﻮﻀﻓ ﺓﺎﺘﻓ</MateCustomChildhood.titleFemale>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.titleShort>ﻲﻟﻮﻀﻓ ﻞﻔﻃ</MateCustomChildhood.titleShort>
+  <MateCustomChildhood.titleShortFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻟﻮﻀﻓ ﺓﺎﺘﻓ</MateCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <NathanCustomAdulthood.description>{PAWN_gender ? . ﻑﻮﻬﻜﻟﺍ ﻥﺍﺭﺪﺟ ﻡّﻋﺪﺗﻭ ﺭﻮﺨﺼﻟﺍ ﻲﻘﺘﻨﺗ ﻲﻫﻭ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﺗ ﻥﺃ ﺖﻤﻠﻌﺗ. ﻝﺎﺒﺠﻟﺍﻭ ﻝﻼﺘﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺖﺟﺮﺨﺘﺳﺍﻭ ﺔﻴﺸﻴﻌﻣ ﺕﺎﺣﺎﺴﻣ [PAWN_nameDef] ﺖﺘﺤﻧ : . ﻑﻮﻬﻜﻟﺍ ﻥﺍﺭﺪﺟ ﻢﻴﻋﺪﺗﻭ ﺭﻮﺨﺼﻟﺍ ﺀﺎﻘﺘﻧﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﻳ ﻥﺃ ﻢﻠﻌﺗ. ﻝﺎﺒﺠﻟﺍﻭ ﻝﻼﺘﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﻥﺩﺎﻌﻣ ﺝﺮﺨﺘﺳﺍﻭ ﺔﻴﺸﻴﻌﻣ ﺕﺎﺣﺎﺴﻣ [PAWN_nameDef] ﺖﺤﻧ}</NathanCustomAdulthood.description>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.title>ﺭﺍّﻔﺣ</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleFemale>ﺓﺭﺍّﻔﺣ</NathanCustomAdulthood.titleFemale>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.titleShort>ﻢﺟﺎﻨﻣ ﺭﺍّﻔﺣ</NathanCustomAdulthood.titleShort>
+  <NathanCustomAdulthood.titleShortFemale>ﺓﺭﺍّﻔﺣ</NathanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <NathanCustomChildhood.description>{PAWN_gender ? . ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻦﻴﺴﺤﺗﻭ ﺔﻧﺎﻴﺻ ﻲﻓ ﺭﺎﺒﻜﻟﺍ ﺕﺪﻋﺎﺳ. ﻞﺒﺟ ﺐﻧﺎﺟ ﻲﻓ ﺍًﻘﻴﻤﻋ ﺪﺘﻤﻳ ﺪﻘﻌﻣﻭ ﺮﻴﺒﻛ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ ﺮﻳﻮﻄﺗﻭ ﺔﻧﺎﻴﺻ ﻲﻓ ﺭﺎﺒﻜﻟﺍ ﺪﻋﺎﺳ. ﻞﺒﺟ ﺐﻧﺎﺟ ﻲﻓ ﺍًﻘﻴﻤﻋ ﺪﺘﻤﻳ ﺪﻘﻌﻣﻭ ﻊﺳﺍﻭ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</NathanCustomChildhood.description>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.title>ﻒﻬﻜﻟﺍ ﻞﻔﻃ</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleFemale>ﻒﻬﻜﻟﺍ ﺔﻠﻔﻃ</NathanCustomChildhood.titleFemale>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.titleShort>ﻒﻬﻜﻟﺍ ﻞﻔﻃ</NathanCustomChildhood.titleShort>
+  <NathanCustomChildhood.titleShortFemale>ﻒﻬﻜﻟﺍ ﺔﻠﻔﻃ</NathanCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good. -->
+  <OskarCustomAdulthood.description>{PAWN_gender ? . ﺔﻴﻣﺎﻣﻷﺍ ﻁﻮﻄﺨﻟﺍ ﻲﻓ ﺩﻮﻨﺠﻠﻟ ﺔﻴﻟﺎﺘﻗ ﺕﻼﻳﺪﻌﺗ [PAWN_nameDef] ﺖﻤﻤﺻ\n\n. ﺮﻴﺨﻟﺍ ﻞﻌﻓ ﻲﻓ ﺎﻬﺗﺍﺭﺎﻬﻣ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺔﻳﺩﻭﺪﺤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻰﻟﺇ ﺮﻔﺴﻟﺍ ﺕﺭﺮﻗ. ﺎﻬﻠﻤﻋ ﺐﺒﺴﺑ ﺍﻮﻠﺗُﻗ ﻦﻳﺬﻟﺍ ﺀﺎﺴﻨﻟﺍﻭ ﻝﺎﺟﺮﻟﺍ ﻊﻴﻤﺟ [PAWN_nameDef] ﺖﻬﺟﺍﻭ ،ﺱﻮﺑﺎﻛ ﻲﻓﻭ ،ﻲﻟﺎﻴﻠﻟﺍ ﻦﻣ ﺔﻠﻴﻟ ﻲﻓ : . ﺔﻴﻣﺎﻣﻷﺍ ﻁﻮﻄﺨﻟﺍ ﻲﻓ ﺩﻮﻨﺠﻠﻟ ﺔﻴﻟﺎﺘﻗ ﺕﻼﻳﺪﻌﺗ [PAWN_nameDef] ﻢﻤﺻ\n\n. ﺮﻴﺨﻟﺍ ﻞﻌﻓ ﻲﻓ ﻪﺗﺍﺭﺎﻬﻣ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺔﻳﺩﻭﺪﺤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻰﻟﺇ ﺮﻔﺴﻟﺍ ﺭﺮﻗ. ﻪﻠﻤﻋ ﺐﺒﺴﺑ ﺍﻮﻠﺗُﻗ ﻦﻳﺬﻟﺍ ﺀﺎﺴﻨﻟﺍﻭ ﻝﺎﺟﺮﻟﺍ ﻊﻴﻤﺟ [PAWN_nameDef] ﻪﺟﺍﻭ ،ﺱﻮﺑﺎﻛ ﻲﻓ ،ﺎﻣ ﺔﻠﻴﻟ ﻲﻓ}</OskarCustomAdulthood.description>
+  <!-- EN: mod designer -->
+  <OskarCustomAdulthood.title>ﺕﻼﻳﺪﻌﺗ ﻢﻤﺼﻣ</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleFemale>ﺕﻼﻳﺪﻌﺗ ﺔﻤﻤﺼﻣ</OskarCustomAdulthood.titleFemale>
+  <!-- EN: modder -->
+  <OskarCustomAdulthood.titleShort>{PAWN_gender ? ﺔﻟِّﺪﻋُﻣ : ﻝِّﺪﻋُﻣ}</OskarCustomAdulthood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
+  <OskarCustomChildhood.description>{PAWN_gender ? . ﺓﺪﺒﻌﺘﺴﻣ ﺔﻧﺎﻨﻔﻛ ﻲﻠﺤﻣ ﺪﻴﺳ ﻰﻟﺇ ﺎﻫﺪﻟﺍﻭ ﺎﻬﻋﺎﺑ ،ﻝﺍﺪﺟ ﺪﻌﺑ. ﺍًﻴﺋﺎﻣ ﻞﻔﻘﻣ ﻱﺮﻀﺣ ﻢﻟﺎﻌﻟ ﺔﻤﻠﻈﻤﻟﺍ ﺔﻓﺎﺤﻟﺍ ﻰﻠﻋ [PAWN_nameDef] ﺕﺪﻟُﻭ\n\n. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺕﺎﻗﻼﻋ ﻦﻳﻮﻜﺗ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﺖﺤﺒﺻﺃﻭ ﺖﺒﺤﺴﻧﺍ ،ﺏﺎﻘﻌﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻭﺃ ﻲﻨﻔﻟﺍ ﻉﺍﺪﺑﻹﺍ ﻰﻠﻋ ﺓﺮﺒﺟُﻣ : . ﺪﺒﻋ ﻥﺎﻨﻔﻛ ﻲﻠﺤﻣ ﺔﻘﻄﻨﻣ ﺪﻴﺳ ﻰﻟﺇ ﻩﺪﻟﺍﻭ ﻪﻋﺎﺑ ،ﻝﺍﺪﺟ ﺪﻌﺑ. ﺍًﻴﺋﺎﻣ ﻞﻔﻘﻣ ﻱﺮﻀﺣ ﻢﻟﺎﻌﻟ ﺔﻤﻠﻈﻤﻟﺍ ﺔﻓﺎﺤﻟﺍ ﻰﻠﻋ [PAWN_nameDef] ﺪﻟُﻭ\n\n. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺕﺎﻗﻼﻋ ﻦﻳﻮﻜﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﺢﺒﺻﺃﻭ ﻯﻭﺰﻧﺎﻓ ،ﺏﺎﻘﻌﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻭﺃ ﻦﻔﻟﺍ ﺀﺎﺸﻧﺇ ﻰﻠﻋ ﺮﺒﺟُﺃ}</OskarCustomChildhood.description>
+  <!-- EN: art slave -->
+  <OskarCustomChildhood.title>ﺩَﺒﻌﺘﺴﻣ ﻥﺎﻨﻓ ﺪﺒﻋ</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleFemale>ﺓﺩَﺒﻌﺘﺴﻣ ﺔﻧﺎﻨﻓ ﺔﻘﻴﻗﺭ</OskarCustomChildhood.titleFemale>
+  <!-- EN: artist -->
+  <OskarCustomChildhood.titleShort>{PAWN_gender ? ﺔﻧﺎﻨﻓ : ﻥﺎﻨﻓ}</OskarCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
+  <TynanCustomAdulthood.description>{PAWN_gender ? . ﺔﻠﻘﺘﺴﻣ ﺏﺎﻌﻟﺃ ﺓﺭﻮﻄﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﻞﺸﻔﻟﺎﺑ ﺕﺀﺎﺑ ﻲﺘﻟﺍ ﺔﺴﺋﺎﻴﻟﺍ ﺔﻴﺋﺎﻋﺪﻟﺍ ﻞﻴﺤﻟﺍﻭ ،ﺔﻠﺷﺎﻔﻟﺍ ﺕﺎﻘﻔﺼﻟﺍﻭ ،ﺔﻠﻠﻀﻤﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻦﻣ ﻙﺮﻴﺳ ﻰﻟﺇ ﺔﻋﺮﺴﺑ ﺔﻴﻨﻬﻤﻟﺍ ﺎﻬﺗﺮﻴﺴﻣ ﺕﺭﺪﺤﻧﺍ ،ﺮﻜﺒﻣ ﺡﺎﺠﻧ ﺪﻌﺑ : . ﺍًﻠﻘﺘﺴﻣ ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﺔﻠﺷﺎﻔﻟﺍﻭ ﺔﺴﺋﺎﻴﻟﺍ ﺔﻴﺋﺎﻋﺪﻟﺍ ﻞﻴﺤﻟﺍﻭ ،ﺔﻠﺷﺎﻔﻟﺍ ﺕﺎﻘﻔﺼﻟﺍﻭ ،ﺔﺌﻃﺎﺨﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻦﻣ ﻙﺮﻴﺳ ﻰﻟﺇ ﺔﻋﺮﺴﺑ ﺔﻴﻨﻬﻤﻟﺍ ﻪﺗﺮﻴﺴﻣ ﺕﺭﻮﻫﺪﺗ ،ﺮﻜﺒﻣ ﺡﺎﺠﻧ ﺪﻌﺑ}</TynanCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <TynanCustomAdulthood.title>ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleFemale>ﺏﺎﻌﻟﺃ ﺓﺭِّﻮﻃُﻣ</TynanCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <TynanCustomAdulthood.titleShort>ﺏﺎﻌﻟﺃ ﺭﻮﻄﻣ</TynanCustomAdulthood.titleShort>
+  <TynanCustomAdulthood.titleShortFemale>ﺏﺎﻌﻟﺃ ﺓﺭِّﻮﻃُﻣ</TynanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
+  <TynanCustomChildhood.description>{PAWN_gender ? . ﺐﺸﻌﻟﺍ ﺕﺎﺻﺎﺼﻘﺑ ﺔﺌﻴﻠﻣ ﺍًﺒﻟﺎﻏ ﺮﺋﺎﺠﺴﻟﺍ ﻚﻠﺗ ﺖﻧﺎﻛﻭ ،ﺍًﻣﺎﻋ 15 ﺮﻤﻌﻟﺍ ﻦﻣ ﻥﻮﻐﻠﺒﻳ ﻦﻤﻟ ﺓﺪﻠﻘﻣ ﺮﺋﺎﺠﺳ ﻊﻴﺑ ﻲﻓ ﺎﻬﺘﻟﻮﻔﻃ [PAWN_nameDef] ﺖﻀﻗ : . ﺐﺸﻌﻟﺍ ﺕﺎﺻﺎﺼﻘﺑ ﺔﺌﻴﻠﻣ ﺍًﺒﻟﺎﻏ ﺮﺋﺎﺠﺴﻟﺍ ﺖﻧﺎﻛﻭ ،ﺍًﻣﺎﻋ 15 ﺮﻤﻌﻟﺍ ﻦﻣ ﻥﻮﻐﻠﺒﻳ ﻦﻤﻟ ﺓﺪﻠﻘﻣ ﺮﺋﺎﺠﺳ ﻊﻴﺑ ﻲﻓ ﻪﺘﻟﻮﻔﻃ [PAWN_nameDef] ﻰﻀﻗ}</TynanCustomChildhood.description>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.title>ﻙﻭﺭ ﺩﺮﻤﺘﻣ</TynanCustomChildhood.title>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.titleShort>{PAWN_gender ? ﺓﺩﺮﻤﺘﻣ : ﺩﺮﻤﺘﻣ}</TynanCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
+  <WillCustomAdulthood.description>{PAWN_gender ? . ﺍًﺒﻳﺮﻘﺗ ﺮﺧﺁ ﺀﻴﺷ ﻲﻓ ﺮﻜﻔﺗ ﻻ ،ﻥﻵﺍ ﻰﺘﺣﻭ. ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﺔﺒﺨﻨﻟ ﺓﺪﻘﻌﻣ ﺔﻴﻬﻴﻓﺮﺗ ﺕﺎﻫﺎﺘﻣ [PAWN_nameDef] ﺖﻤﻤﺻ : . ﺍًﺒﻳﺮﻘﺗ ﺮﺧﺁ ﺀﻴﺷ ﻲﻓ ﺮﻜﻔﻳ ﻻ ،ﻥﻵﺍ ﻰﺘﺣﻭ. ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﺔﺒﺨﻨﻟ ﺓﺪﻘﻌﻣ ﺔﻴﻬﻴﻓﺮﺗ ﺕﺎﻫﺎﺘﻣ [PAWN_nameDef] ﻢﻤﺻ}</WillCustomAdulthood.description>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.title>ﺕﺎﻫﺎﺘﻣ ﻊﻧﺎﺻ</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleFemale>ﺕﺎﻫﺎﺘﻣ ﺔﻌﻧﺎﺻ</WillCustomAdulthood.titleFemale>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.titleShort>ﺕﺎﻫﺎﺘﻣ ﻊﻧﺎﺻ</WillCustomAdulthood.titleShort>
+  <WillCustomAdulthood.titleShortFemale>ﺕﺎﻫﺎﺘﻣ ﺔﻌﻧﺎﺻ</WillCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
+  <WillCustomChildhood.description>{PAWN_gender ? . ﺎﻬﻋﺪﺑﺃ ﺎﻤﺑﺭ ﻱﺬﻟﺍ ﺐﻳﺮﻐﻟﺍ ﻥﺎﻴﻜﻟﺍ ﻦﻋ ًﺔﻠﺋﺎﺴﺘﻣ ،ﻕﺎﻔﻧﻷﺍ ﻚﻠﺗ ﻲﻓ ﻝﻮﺠﺘﺗ ﺎﻬﺘﻗﻭ ﻢﻈﻌﻣ ﺖﻀﻗ. ﺐﻛﻮﻜﻟﺍ ﺓﺮﺸﻗ ﺖﺤﺗ ﺔﻀﻣﺎﻐﻟﺍ ﺔﻴﻫﺎﺘﻤﻟﺍ ﺕﺎﻨﻳﻮﻜﺘﻟﺍ ﻥﺎﺳﺭﺪﻳ ﺔﻴﻜﻠﻓ ﺀﺎﻴﺣﺃ ﺀﺎﻤﻠﻋ ﺎﻫﺍﺪﻟﺍﻭ ﻥﺎﻛ. ﺖﻴﻣ ﺐﻛﻮﻛ ﻰﻠﻋ ﺙﺎﺤﺑﺃ ﺮﻜﺴﻌﻣ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﺎﻬﻋﺪﺑﺃ ﺎﻤﺑﺭ ﻱﺬﻟﺍ ﺐﻳﺮﻐﻟﺍ ﻥﺎﻴﻜﻟﺍ ﻦﻋ ًﻼﺋﺎﺴﺘﻣ ،ﻕﺎﻔﻧﻷﺍ ﻚﻠﺗ ﻲﻓ ﻝﻮﺠﺘﻳ ﻪﺘﻗﻭ ﻢﻈﻌﻣ ﻰﻀﻗ. ﺐﻛﻮﻜﻟﺍ ﺓﺮﺸﻗ ﺖﺤﺗ ﺔﻀﻣﺎﻐﻟﺍ ﺔﻴﻫﺎﺘﻤﻟﺍ ﺕﺎﻨﻳﻮﻜﺘﻟﺍ ﻥﺎﺳﺭﺪﻳ ﺔﻴﻜﻠﻓ ﺀﺎﻴﺣﺃ ﺀﺎﻤﻠﻋ ﻩﺍﺪﻟﺍﻭ ﻥﺎﻛ. ﺖﻴﻣ ﺐﻛﻮﻛ ﻰﻠﻋ ﺙﺎﺤﺑﺃ ﺮﻜﺴﻌﻣ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</WillCustomChildhood.description>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.title>ﺔﻫﺎﺘﻣ ﻞﻔﻃ</WillCustomChildhood.title>
+  <WillCustomChildhood.titleFemale>ﺔﻫﺎﺘﻣ ﺓﺎﺘﻓ</WillCustomChildhood.titleFemale>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.titleShort>ﺔﻫﺎﺘﻣ ﻞﻔﻃ</WillCustomChildhood.titleShort>
+  <WillCustomChildhood.titleShortFemale>ﺔﻫﺎﺘﻣ ﺓﺎﺘﻓ</WillCustomChildhood.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar --><!-- EN: puma -->
+  <Cougar.label>ﺎﻣﻭُﺑ</Cougar.label><!-- EN: pumas -->
+  <Cougar.labelPlural>ﺯﺍًﻣﻮﺑ</Cougar.labelPlural><!-- EN: cría de puma -->
+  <Cougar.lifeStages.0.label>ﺎﻣﻮﺒﻟﺍ ﺭﺎﻐﺻ</Cougar.lifeStages.0.label><!-- EN: cría de puma -->
+  <Cougar.lifeStages.0.labelPlural>ﺎﻣﻮﺒﻟﺍ ﺭﺎﻐﺻ</Cougar.lifeStages.0.labelPlural><!-- EN: cachorro de puma -->
+  <Cougar.lifeStages.1.label>ﺎﻣﻮﺑ ﺮﻴﻐﺻ</Cougar.lifeStages.1.label><!-- EN: cachorros de puma -->
+  <Cougar.lifeStages.1.labelPlural>ﺎﻣﻮﺒﻟﺍ ﺭﺎﻐﺻ</Cougar.lifeStages.1.labelPlural><!-- EN: puma -->
+  <Cougar.lifeStages.2.label>ﺎﻣﻭُﺑ</Cougar.lifeStages.2.label><!-- EN: pumas -->
+  <Cougar.lifeStages.2.labelPlural>ﺲﻣﻮﺑ</Cougar.lifeStages.2.labelPlural>
+  
+  <!-- EN: lynx --><!-- EN: lince -->
+  <Lynx.label>ﻕَﺷَﻭ</Lynx.label>
+  <!-- EN: lynx --><!-- EN: linces -->
+  <Lynx.labelPlural>ﻕﻮﺷُﻭ</Lynx.labelPlural>
+  <!-- EN: lynx kitten --><!-- EN: cría de lince -->
+  <Lynx.lifeStages.lynx_kitten.label>ﻕَﺷَﻮﻟﺍ ﺮﻴﻐﺻ</Lynx.lifeStages.lynx_kitten.label><!-- EN: crías de lince -->
+  <Lynx.lifeStages.lynx_kitten.labelPlural>ﻕَﺷَﻮﻟﺍ ﺭﺎﻐﺻ</Lynx.lifeStages.lynx_kitten.labelPlural><!-- EN: cachorro de lince -->
+  <Lynx.lifeStages.1.label>ﻕَﺷَﻮﻟﺍ ﻭﺮﺟ</Lynx.lifeStages.1.label><!-- EN: cachorros de lince -->
+  <Lynx.lifeStages.1.labelPlural>ﻕَﺷَﻮﻟﺍ ﺭﺎﻐﺻ</Lynx.lifeStages.1.labelPlural><!-- EN: lince -->
+  <Lynx.lifeStages.2.label>ﻕَﺷَﻭ</Lynx.lifeStages.2.label><!-- EN: linces -->
+  <Lynx.lifeStages.2.labelPlural>ﻕﻮﺷُﻭ</Lynx.lifeStages.2.labelPlural>
+  
+  <!-- EN: panther --><!-- EN: pantera -->
+  <Panther.label>ﺩﻮﺳﺃ ﺮﻤﻧ</Panther.label><!-- EN: panteras -->
+  <Panther.labelPlural>ﺀﺍﺩﻮﺳ ﺭﻮﻤﻧ</Panther.labelPlural><!-- EN: cría de pantera -->
+  <Panther.lifeStages.0.label>ﺩﻮﺳﻷﺍ ﺮﻤﻨﻟﺍ ﺮﻴﻐﺻ</Panther.lifeStages.0.label><!-- EN: crías de pantera -->
+  <Panther.lifeStages.0.labelPlural>ﺩﻮﺳﻷﺍ ﺮﻤﻨﻟﺍ ﺭﺎﻐﺻ</Panther.lifeStages.0.labelPlural><!-- EN: cachorro de pantera -->
+  <Panther.lifeStages.1.label>ﺪﻬﻔﻟﺍ ﻭﺮﺟ</Panther.lifeStages.1.label><!-- EN: cachorros de pantera -->
+  <Panther.lifeStages.1.labelPlural>ﺩﻮﺳﻷﺍ ﺮﻤﻨﻟﺍ ﺭﺎﻐﺻ</Panther.lifeStages.1.labelPlural><!-- EN: pantera -->
+  <Panther.lifeStages.2.label>ﺩﻮﺳﺃ ﺮﻤﻧ</Panther.lifeStages.2.label><!-- EN: panteras -->
+  <Panther.lifeStages.2.labelPlural>ﺀﺍﺩﻮﺳ ﺭﻮﻤﻧ</Panther.lifeStages.2.labelPlural>
+  
+</LanguageData>

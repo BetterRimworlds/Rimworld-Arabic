@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat --><!-- EN: gato -->
+  <Cat.label>ﺔﻄﻗ</Cat.label><!-- EN: gata -->
+  <Cat.labelFemale>ﺔﻄﻗ</Cat.labelFemale><!-- EN: gatas -->
+  <Cat.labelFemalePlural>ﻂﻄﻗ</Cat.labelFemalePlural><!-- EN: gato -->
+  <Cat.labelMale>ﻂﻗ</Cat.labelMale><!-- EN: gatos -->
+  <Cat.labelMalePlural>ﻂﻄﻗ</Cat.labelMalePlural><!-- EN: gatos -->
+  <Cat.labelPlural>ﻂﻄﻗ</Cat.labelPlural>
+  <!-- EN: kitten --><!-- EN: cachorro de gato -->
+  <Cat.lifeStages.kitten.label>ﺔﻄﻗ ﻭﺮﺟ</Cat.lifeStages.kitten.label><!-- EN: cachorros de gato -->
+  <Cat.lifeStages.kitten.labelPlural>ﻂﻄﻘﻟﺍ ﺭﺎﻐﺻ</Cat.lifeStages.kitten.labelPlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.label>ﺮﻴﻐﺻ ﻂﻗ</Cat.lifeStages.1.label><!-- EN: gata joven -->
+  <Cat.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻄﻗ</Cat.lifeStages.1.labelFemale><!-- EN: gatas jóvenes -->
+  <Cat.lifeStages.1.labelFemalePlural>ﺔﻌﻓﺎﻳ ﺓﺮﻴﻐﺻ ﻂﻄﻗ</Cat.lifeStages.1.labelFemalePlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻂﻗ</Cat.lifeStages.1.labelMale><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﻂﻄﻗ</Cat.lifeStages.1.labelMalePlural><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻂﻄﻗ</Cat.lifeStages.1.labelPlural><!-- EN: gato -->
+  <Cat.lifeStages.2.label>ﺔﻄﻗ</Cat.lifeStages.2.label><!-- EN: gata -->
+  <Cat.lifeStages.2.labelFemale>ﺔﻄﻗ</Cat.lifeStages.2.labelFemale><!-- EN: gatas -->
+  <Cat.lifeStages.2.labelFemalePlural>ﻂﻄﻗ</Cat.lifeStages.2.labelFemalePlural><!-- EN: gato -->
+  <Cat.lifeStages.2.labelMale>ﻂﻗ</Cat.lifeStages.2.labelMale><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelMalePlural>ﻂﻄﻗ</Cat.lifeStages.2.labelMalePlural><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelPlural>ﻂﻄﻗ</Cat.lifeStages.2.labelPlural>
+  
+  <!-- EN: guinea pig --><!-- EN: cobaya -->
+  <GuineaPig.label>ﺎﻳﺎﺑﻮﻛ</GuineaPig.label><!-- EN: cobayas -->
+  <GuineaPig.labelPlural>ﺕﺍﻭﺎﻳﺎﺑﻮﻛ</GuineaPig.labelPlural><!-- EN: cría de cobaya -->
+  <GuineaPig.lifeStages.0.label>ﺎﻳﺎﺑﻮﻜﻟﺍ ﺮﻴﻐﺻ</GuineaPig.lifeStages.0.label><!-- EN: crías de cobaya -->
+  <GuineaPig.lifeStages.0.labelPlural>ﺎﻳﺎﺑﻮﻜﻟﺍ ﺭﺎﻐﺻ</GuineaPig.lifeStages.0.labelPlural><!-- EN: cobaya joven -->
+  <GuineaPig.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺎﻳﺎﺑﻮﻛ</GuineaPig.lifeStages.1.label><!-- EN: cobayas jóvenes -->
+  <GuineaPig.lifeStages.1.labelPlural>ﺎﻳﺎﺑﻮﻜﻟﺍ ﺭﺎﻐﺻ</GuineaPig.lifeStages.1.labelPlural><!-- EN: cobaya -->
+  <GuineaPig.lifeStages.2.label>ﺎﻳﺎﺑﻮﻛ</GuineaPig.lifeStages.2.label><!-- EN: cobayas -->
+  <GuineaPig.lifeStages.2.labelPlural>ﺕﺍﻭﺎﻳﺎﺑﻮﻛ</GuineaPig.lifeStages.2.labelPlural>
+  
+  <!-- EN: husky --><!-- EN: husky -->
+  <Husky.label>ﻲﻜﺳﺎﻫ</Husky.label>
+  <!-- EN: huskies --><!-- EN: huskies -->
+  <Husky.labelPlural>ﺰﻴﻜﺳﺎﻫ</Husky.labelPlural>
+  <!-- EN: husky puppy --><!-- EN: cachorro de husky -->
+  <Husky.lifeStages.husky_puppy.label>ﻲﻜﺳﺎﻫ ﻭﺮﺟ</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies --><!-- EN: cachorros de husky -->
+  <Husky.lifeStages.husky_puppy.labelPlural>ﻲﻜﺳﺎﻫ ﺭﺎﻐﺻ</Husky.lifeStages.husky_puppy.labelPlural><!-- EN: husky joven -->
+  <Husky.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﻜﺳﺎﻫ</Husky.lifeStages.1.label><!-- EN: huskies jóvenes -->
+  <Husky.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺰﻴﻜﺴﻫ</Husky.lifeStages.1.labelPlural><!-- EN: husky -->
+  <Husky.lifeStages.2.label>ﻲﻜﺳﺎﻫ</Husky.lifeStages.2.label><!-- EN: huskies -->
+  <Husky.lifeStages.2.labelPlural>ﺰﻴﻜﺳﺎﻫ</Husky.lifeStages.2.labelPlural>
+  
+  <!-- EN: labrador retriever --><!-- EN: labrador retriever -->
+  <LabradorRetriever.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.labelPlural>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.labelPlural>
+  <!-- EN: labrador puppy --><!-- EN: cachorro de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>ﺭﻭﺩﺍﺮﺑﻻ ﻭﺮﺟ</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies --><!-- EN: cachorros de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>ﺭﻭﺩﺍﺮﺑﻻ ﺀﺍﺮﺟ</LabradorRetriever.lifeStages.labrador_puppy.labelPlural><!-- EN: labrador joven -->
+  <LabradorRetriever.lifeStages.1.label>ﺭﻭﺩﺍﺮﺑﻻ ﻭﺮﺟ</LabradorRetriever.lifeStages.1.label><!-- EN: labradores retriever jóvenes -->
+  <LabradorRetriever.lifeStages.1.labelPlural>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ ﻭﺮﺟ</LabradorRetriever.lifeStages.1.labelPlural><!-- EN: labrador retriever -->
+  <LabradorRetriever.lifeStages.2.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.lifeStages.2.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.lifeStages.2.labelPlural>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.lifeStages.2.labelPlural>
+  
+  <!-- EN: monkey --><!-- EN: mono -->
+  <Monkey.label>ﺩﺮﻗ</Monkey.label><!-- EN: mona -->
+  <Monkey.labelFemale>ﺓﺩﺮﻗ</Monkey.labelFemale><!-- EN: monas -->
+  <Monkey.labelFemalePlural>ﺕﺍﺩﺮﻗ</Monkey.labelFemalePlural><!-- EN: mono -->
+  <Monkey.labelMale>ﺩﺮﻗ</Monkey.labelMale><!-- EN: monos -->
+  <Monkey.labelMalePlural>ﺓﺩﺮﻗ</Monkey.labelMalePlural><!-- EN: monos -->
+  <Monkey.labelPlural>ﺓﺩﺮﻗ</Monkey.labelPlural><!-- EN: cría de mono -->
+  <Monkey.lifeStages.0.label>ﺩﺮﻘﻟﺍ ﺮﻴﻐﺻ</Monkey.lifeStages.0.label><!-- EN: cría de mona -->
+  <Monkey.lifeStages.0.labelFemale>ﺓﺩﺮﻘﻟﺍ ﺓﺮﻴﻐﺻ</Monkey.lifeStages.0.labelFemale><!-- EN: crías de mona -->
+  <Monkey.lifeStages.0.labelFemalePlural>ﺕﺍﺩﺮﻘﻟﺍ ﺭﺎﻐﺻ</Monkey.lifeStages.0.labelFemalePlural><!-- EN: crías de mono -->
+  <Monkey.lifeStages.0.labelPlural>ﺓﺩﺮﻘﻟﺍ ﺭﺎﻐﺻ</Monkey.lifeStages.0.labelPlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.label>ﺮﻴﻐﺻ ﺩﺮﻗ</Monkey.lifeStages.1.label><!-- EN: mona joven -->
+  <Monkey.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺓﺩﺮﻗ</Monkey.lifeStages.1.labelFemale><!-- EN: monas jóvenes -->
+  <Monkey.lifeStages.1.labelFemalePlural>ﺕﺍﺮﻴﻐﺻ ﺕﺍﺩﺮﻗ</Monkey.lifeStages.1.labelFemalePlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺩﺮﻗ</Monkey.lifeStages.1.labelMale><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelMalePlural>ﺭﺎﻐﺻ ﺓﺩﺮﻗ</Monkey.lifeStages.1.labelMalePlural><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺓﺩﺮﻗ</Monkey.lifeStages.1.labelPlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.label>ﺩﺮﻗ</Monkey.lifeStages.2.label><!-- EN: mona -->
+  <Monkey.lifeStages.2.labelFemale>ﺓﺩﺮﻗ</Monkey.lifeStages.2.labelFemale><!-- EN: monas -->
+  <Monkey.lifeStages.2.labelFemalePlural>ﺕﺍﺩﺮﻗ</Monkey.lifeStages.2.labelFemalePlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.labelMale>ﺩﺮﻗ</Monkey.lifeStages.2.labelMale><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelMalePlural>ﺓﺩﺮﻗ</Monkey.lifeStages.2.labelMalePlural><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelPlural>ﺓﺩﺮﻗ</Monkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: yorkshire terrier --><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.labelPlural>ﺯﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.labelPlural>
+  <!-- EN: yorkshire terrier puppy --><!-- EN: cachorro de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>ﺮﻳﺮﻴﺗ ﻭﺮﺟ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies --><!-- EN: cachorros de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>ﺮﻳﺮﻴﺗ ﺀﺍﺮﺟ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural><!-- EN: yorkshire terrier joven -->
+  <YorkshireTerrier.lifeStages.1.label>ﺏﺎﺷ ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.lifeStages.1.label><!-- EN: yorkshire terrier jóvenes -->
+  <YorkshireTerrier.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺮﻴﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.lifeStages.1.labelPlural><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.lifeStages.2.label>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.lifeStages.2.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.lifeStages.2.labelPlural>ﺯﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.lifeStages.2.labelPlural>
+  
+</LanguageData>

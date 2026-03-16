@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->[desc_pawn] [Character] ﺪﻴﺣﻭ</li>
+    <li>image->[desc_pawn_Fem] [Character_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>image->[TerrainFeatureIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [desc_pawn] ﺪﻴﺣﻭ [Character_Human] ﺪﺣﺍﻭ</li>
+    <li>image->[CommunityIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [desc_pawn] [Character] ﺪﺣﺍﻭ</li>
+    <li>image->[CharacterEnemyPlural] ـﺏ ﻁﺎﺤﻣ [desc_pawn] [Character] ﺐﻌﻠﻳ</li>
+    <li>image->{replace: a [GameDef]; "a el "-"al "} ﺐﻌﻠﻳ [Character_Human] ﺪﺣﺍﻭ</li>
+    <li>image->s[Character_Human] [Quantity_adjphrase] ﻊﻣ {replace: a [GameDef]; "a el "-"al "} ﻞﻤﺤﻳ [desc_pawn] [Character_Human] ﺪﺣﺍﻭ</li>
+    <li>image->[WeaponCacIndef] ﻞﻛﺄﻳ [desc_pawn] [Character] ﺪﺣﺍﻭ</li>
+    <li>image->[VegetableAny] ﻞﻛﺄﻳ [desc_pawn] [Character] ﻭ</li>
+    <li>image->ﺎًﻌﻣ[VegetableAny] ﻞﻛﺄﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
+    <li>image->[desc_pawn] [NamePerson] ﺎﻬﻤﺳﺍ ﺎًﻴﻠﺤﻣ ﺓﺭﻮﻬﺸﻣ ﺔﻴﺼﺨﺷ</li>
+    <li>image->[desc_pawn] [ApparelIndef] ﻱﺪﺗﺮﻳ [Character_Human] ﺪﺣﺍﻭ</li>
+    <li>image->[CommunityIndef]</li>
+    <li>image->[TerrainFeatureIndef]</li>
+    <li>image->[WeaponIndef]</li>
+    <li>image->[TreeTypeAny] ﺓﺮﺠﺷ</li>
+    <li>image->[NaturalObjectDef]</li>
+    <li>image->[Quantity_adjphrase] [WeaponPlAny]</li>
+    <li>image->[ملابس] ﺪﺟﻮﻳ ﺎﻟ[VegetableAny] [Quantity_adjphrase]</li>
+    <li>image->[ApparelIndef]</li>
+    <li>image->[ShapeDef]</li>
+    <li>image->[TerrainFeatureIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [ShapeDef]</li>
+    <li>image(p=0.5)->[ConceptAnyDef] ـﻝ ﺩﺮﺠﻣ ﺮﻴﺴﻔﺗ</li>
+    <li>image->[AdjectiveAnyIndef] ﺲﻜﻌﻳ ﺩﺮﺠﻣ ﻞﻜﺷ</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺮﻴﻄﻳ</li>
+    <li>desc_pawn->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺎًﻘﻠﻌﻣ</li>
+    <li>desc_pawn->ﺔﻟﻭﺎﻃ ﻰﻠﻋ</li>
+    <li>desc_pawn->ﺭﺎﺴﻴﻟﺍ ﻰﻟﺇ ﻞﻘﺘﻨﻳ</li>
+    <li>desc_pawn->ﻦﻴﻤﻴﻟﺍ ﻰﻟﺇ ﻙﺮﺤﺘﻳ</li>
+    <li>desc_pawn->ٍﺓﺁْﺮِﻣ ِﻝﺎَﻠِﺧ ْﻦِﻣ ٌﺪَﻫﺎَﺸُﻣ</li>
+    <li>desc_pawn->ٍّﻞِﻇ ﻲﻓ ٌﺭَّﻮَﺼُﻣ</li>
+    <li>desc_pawn->[Animal] ﻰﻠﻋ ﺎًﺒﻛﺍﺭ</li>
+    <li>desc_pawn->[Animal_Fem] ﻰﻠﻋ ﺔﺒﻛﺮﻣ</li>
+    <li>desc_pawn->[AdjectiveAnyIndef] ﻲﻓ ًﺎﺴﻜﻌﻨﻣ</li>
+    <li>desc_pawn->[Gore_Plural] ـﺏ ﻰﻄﻐﻣ</li>
+    <li>desc_pawn_Fem(p=12)-></li>
+    <li>desc_pawn_Fem->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺭﺎﻃ</li>
+    <li>desc_pawn_Fem->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺎًﻤﺋﺎﻋ</li>
+    <li>desc_pawn_Fem->ﺔﻟﻭﺎﻃ ﻰﻠﻋ</li>
+    <li>desc_pawn_Fem->ﺭﺎﺴﻴﻟﺍ ﻰﻟﺇ ﻙﺮﺤﺘﻳ</li>
+    <li>desc_pawn_Fem->ﻦﻴﻤﻴﻟﺍ ﻰﻟﺇ ﻙﺮﺤﺘﻳ</li>
+    <li>desc_pawn_Fem->ﺓﺁﺮﻣ ﻝﺎﻠﺧ ﻦﻣ ﺮﻈﻨﻣ</li>
+    <li>desc_pawn_Fem->ٍّﻲِّﻠِﻇ ٍﻞْﻜَﺸِﺑ ٌﺓَﺭَّﻮَﺼُﻣ</li>
+    <li>desc_pawn_Fem->[Animal] ﻰﻠﻋ ﺎًﺒَّﻛﺮُﻣ</li>
+    <li>desc_pawn_Fem->[Animal_Fem] ﺮﻬﻇ ﻰﻠﻋ ﺔﻴﻄﺘﻤﻣ</li>
+    <li>desc_pawn_Fem->[AdjectiveAnyIndef] ﻲﻓ ﺔﺴﻜﻌﻨﻣ</li>
+    <li>desc_pawn_Fem->[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

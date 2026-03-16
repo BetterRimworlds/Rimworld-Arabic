@@ -1,0 +1,1704 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cama (animal) (anteproyecto) -->
+  <Blueprint_AnimalBed.label>)ﺓﺩﻮﺴﻣ (ﻲﻧﺍﻮﻴﺣ ﺮﻳﺮﺳ</Blueprint_AnimalBed.label>
+  
+  <!-- EN: cajón de dormir (anteproyecto) -->
+  <Blueprint_AnimalSleepingBox.label>)ﺓﺩﻮﺴﻣ (ﻡﻮﻧ ﻕﻭﺪﻨﺻ</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: lugar para dormir (animal) (anteproyecto) -->
+  <Blueprint_AnimalSleepingSpot.label>)ﺓﺩﻮﺴﻣ (ﻥﺍﻮﻴﺣ ﻡﻮﻧ ﻥﺎﻜﻣ</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: sillón (anteproyecto) -->
+  <Blueprint_Armchair.label>)ﺓﺩﻮﺴﻣ (ﻲﺳﺮﻛ</Blueprint_Armchair.label>
+  
+  <!-- EN: puerta automática (anteproyecto) -->
+  <Blueprint_Autodoor.label>)ﺓﺩﻮﺴﻣ (ﻲﻟﺁ ﺏﺎﺑ</Blueprint_Autodoor.label>
+  
+  <!-- EN: batería (anteproyecto) -->
+  <Blueprint_Battery.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺭﺎﻄﺑ</Blueprint_Battery.label>
+  
+  <!-- EN: cama (anteproyecto) -->
+  <Blueprint_Bed.label>)ﺓﺩﻮﺴﻣ (ﺮﻳﺮﺳ</Blueprint_Bed.label>
+  
+  <!-- EN: saco de dormir (anteproyecto) -->
+  <Blueprint_Bedroll.label>)ﺓﺩﻮﺴﻣ (ﻡﻮﻧ ﺲﻴﻛ</Blueprint_Bedroll.label>
+  
+  <!-- EN: saco de dormir doble (anteproyecto) -->
+  <Blueprint_BedrollDouble.label>)ﺓﺩﻮﺴﻣ (ﺝﻭﺩﺰﻣ ﻡﻮﻧ ﺲﻴﻛ</Blueprint_BedrollDouble.label>
+  
+  <!-- EN: mesa de billar (anteproyecto) -->
+  <Blueprint_BilliardsTable.label>)ﺓﺩﻮﺴﻣ (ﻭﺩﺭﺎﻴﻠﺑ ﺔﻟﻭﺎﻃ</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: refinería de biocombustible (anteproyecto) -->
+  <Blueprint_BiofuelRefinery.label>)ﺓﺩﻮﺴﻣ (ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﺓﺎﻔﺼﻣ</Blueprint_BiofuelRefinery.label>
+  
+  <!-- EN: cervecería (anteproyecto) -->
+  <Blueprint_Brewery.label>)ﺓﺩﻮﺴﻣ (ﺔﻌﺟ ﻊﻨﺼﻣ</Blueprint_Brewery.label>
+  
+  <!-- EN: plataforma (anteproyecto) -->
+  <Blueprint_Bridge.label>)ﺓﺩﻮﺴﻣ (ﺔﺼﻨﻣ</Blueprint_Bridge.label>
+  
+  <!-- EN: punto de despiece (anteproyecto) -->
+  <Blueprint_ButcherSpot.label>)ﺓﺩﻮﺴﻣ (ﻚﻴﻜﻔﺗ ﺔﻄﻘﻧ</Blueprint_ButcherSpot.label>
+  
+  <!-- EN: hoguera (anteproyecto) -->
+  <Blueprint_Campfire.label>)ﺓﺩﻮﺴﻣ (ﻱﺭﺎﻧ ﺪﻗﻮﻣ</Blueprint_Campfire.label>
+  
+  <!-- EN: punto de carga para caravanas (anteproyecto) -->
+  <Blueprint_CaravanPackingSpot.label>)ﺓﺩﻮﺴﻣ (ﺕﻼﻓﺎﻘﻠﻟ ﻦﺤﺷ ﺔﻄﻘﻧ</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: generador de biocombustible (anteproyecto) -->
+  <Blueprint_ChemfuelPoweredGenerator.label>)ﺓﺩﻮﺴﻣ (ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﺪﻟﻮﻣ</Blueprint_ChemfuelPoweredGenerator.label>
+  
+  <!-- EN: mesa de ajedrez (anteproyecto) -->
+  <Blueprint_ChessTable.label>)ﺓﺩﻮﺴﻣ (ﺞﻧﺮﻄﺷ ﺔﻟﻭﺎﻃ</Blueprint_ChessTable.label>
+  
+  <!-- EN: consola de comunicaciones (anteproyecto) -->
+  <Blueprint_CommsConsole.label>)ﺓﺩﻮﺴﻣ (ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ</Blueprint_CommsConsole.label>
+  
+  <!-- EN: cemento (anteproyecto) -->
+  <Blueprint_Concrete.label>)ﺓﺩﻮﺴﻣ (ﺖﻨﻤﺳﺃ</Blueprint_Concrete.label>
+  
+  <!-- EN: refrigerador (anteproyecto) -->
+  <Blueprint_Cooler.label>)ﺓﺩﻮﺴﻣ (ﺩﺮﺒﻣ</Blueprint_Cooler.label>
+  
+  <!-- EN: punto de artesanía (anteproyecto) -->
+  <Blueprint_CraftingSpot.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﻓﺮﺣ ﺔﻄﻘﻧ</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: sarcófago de criptosueño (anteproyecto) -->
+  <Blueprint_CryptosleepCasket.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻔﺸﺘﻟﺍ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: taladro de profundidad (anteproyecto) -->
+  <Blueprint_DeepDrill.label>)ﺓﺩﻮﺴﻣ (ﻖﻤﻋ ﺐﻘﺜﻣ</Blueprint_DeepDrill.label>
+  
+  <!-- EN: silla de comedor (anteproyecto) -->
+  <Blueprint_DiningChair.label>)ﺓﺩﻮﺴﻣ (ﻡﺎﻌﻃ ﻲﺳﺮﻛ</Blueprint_DiningChair.label>
+  
+  <!-- EN: puerta (anteproyecto) -->
+  <Blueprint_Door.label>)ﺓﺩﻮﺴﻣ (ﺏﺎﺑ</Blueprint_Door.label>
+  
+  <!-- EN: cama doble (anteproyecto) -->
+  <Blueprint_DoubleBed.label>)ﺓﺩﻮﺴﻣ (ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Blueprint_DoubleBed.label>
+  
+  <!-- EN: lugar doble para dormir (anteproyecto) -->
+  <Blueprint_DoubleSleepingSpot.label>)ﺓﺩﻮﺴﻣ (ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Blueprint_DoubleSleepingSpot.label>
+  
+  <!-- EN: cómoda (anteproyecto) -->
+  <Blueprint_Dresser.label>)ﺓﺩﻮﺴﻣ (ﺔﻧﺍﺰﺧ</Blueprint_Dresser.label>
+  
+  <!-- EN: laboratorio de drogas (anteproyecto) -->
+  <Blueprint_DrugLab.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﻭﺩﺃ ﺮﺒﺘﺨﻣ</Blueprint_DrugLab.label>
+  
+  <!-- EN: crematorio eléctrico (anteproyecto) -->
+  <Blueprint_ElectricCrematorium.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﻕﺮﺤﻣ</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: fundición eléctrica (anteproyecto) -->
+  <Blueprint_ElectricSmelter.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ّﺐﺼﻣ</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: forja eléctrica (anteproyecto) -->
+  <Blueprint_ElectricSmithy.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﻚﺒﺴﻣ</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: cocina eléctrica (anteproyecto) -->
+  <Blueprint_ElectricStove.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﺪﻗﻮﻣ</Blueprint_ElectricStove.label>
+  
+  <!-- EN: mesa de sastrería eléctrica (anteproyecto) -->
+  <Blueprint_ElectricTailoringBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻃﺎﻴﺧ ﺓﺪﻀﻨﻣ</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: mesilla de noche (anteproyecto) -->
+  <Blueprint_EndTable.label>)ﺓﺩﻮﺴﻣ (ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺔﻟﻭﺎﻃ</Blueprint_EndTable.label>
+  
+  <!-- EN: mesa de ensamblaje (anteproyecto) -->
+  <Blueprint_FabricationBench.label>)ﺓﺩﻮﺴﻣ (ﻊﻴﻤﺠﺗ ﺓﺪﻀﻨﻣ</Blueprint_FabricationBench.label>
+  
+  <!-- EN: barril de fermentado (anteproyecto) -->
+  <Blueprint_FermentingBarrel.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻤﺨﺗ ﻞﻴﻣﺮﺑ</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: lanzador de espuma cortafuegos (anteproyecto) -->
+  <Blueprint_FirefoamPopper.label>)ﺓﺩﻮﺴﻣ (ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﻑﺫﺎﻗ</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: baldosa de piedra de granito (anteproyecto) -->
+  <Blueprint_FlagstoneGranite.label>)ﺓﺩﻮﺴﻣ (ﺖﻴﻧﺍﺮﺟ ﺔﻃﻼﺑ</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: baldosa de piedra caliza (anteproyecto) -->
+  <Blueprint_FlagstoneLimestone.label>)ﺓﺩﻮﺴﻣ (ﻱﺮﻴﺟ ﺮﺠﺣ ﺔﻃﻼﺑ</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: baldosa de piedra de mármol (anteproyecto) -->
+  <Blueprint_FlagstoneMarble.label>)ﺓﺩﻮﺴﻣ (ﻡﺎﺧﺭ ﺔﻃﻼﺑ</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: baldosa de piedra arenisca (anteproyecto) -->
+  <Blueprint_FlagstoneSandstone.label>)ﺓﺩﻮﺴﻣ (ﻲﻠﻣﺭ ﺮﺠﺣ ﺔﻃﻼﺑ</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: baldosa de piedra pizarra (anteproyecto) -->
+  <Blueprint_FlagstoneSlate.label>)ﺓﺩﻮﺴﻣ (ﻱﺮﺠﺣ ﺖﺴﺷ ﻁﻼﺑ</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: televisión de pantalla plana (anteproyecto) -->
+  <Blueprint_FlatscreenTelevision.label>)ﺓﺩﻮﺴﻣ (ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﻥﻮﻳﺰﻔﻠﺗ</Blueprint_FlatscreenTelevision.label>
+  
+  <!-- EN: forja de leña (anteproyecto) -->
+  <Blueprint_FueledSmithy.label>)ﺓﺩﻮﺴﻣ (ﺓﺩﺍﺪﺣ ﺔﺷﺭﻭ</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: cocina de leña (anteproyecto) -->
+  <Blueprint_FueledStove.label>)ﺓﺩﻮﺴﻣ (ﺐﻄﺣ ﺪﻗﻮﻣ</Blueprint_FueledStove.label>
+  
+  <!-- EN: tablero de juego de Ur (anteproyecto) -->
+  <Blueprint_GameOfUrBoard.label>)ﺓﺩﻮﺴﻣ (ﺭﻭﺃ ﺔﺒﻌﻟ ﺔﺣﻮﻟ</Blueprint_GameOfUrBoard.label>
+  
+  <!-- EN: generador geotérmico (anteproyecto) -->
+  <Blueprint_GeothermalGenerator.label>)ﺓﺩﻮﺴﻣ (ﻲﺿﺭﺃ ﻱﺭﺍﺮﺣ ﺪﻟﻮﻣ</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: baldosa de oro (anteproyecto) -->
+  <Blueprint_GoldTile.label>)ﺓﺩﻮﺴﻣ (ﻲﺒﻫﺫ ﻁﻼﺑ</Blueprint_GoldTile.label>
+  
+  <!-- EN: tumba (anteproyecto) -->
+  <Blueprint_Grave.label>)ﺓﺩﻮﺴﻣ (ﺮﺒﻗ</Blueprint_Grave.label>
+  
+  <!-- EN: escáner de profundidad (anteproyecto) -->
+  <Blueprint_GroundPenetratingScanner.label>)ﺓﺩﻮﺴﻣ (ﻖﻤﻌﻟﺍ ﺢﺳﺎﻣ</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: mesa de sastrería (anteproyecto) -->
+  <Blueprint_HandTailoringBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻃﺎﻴﺧ ﺔﻟﻭﺎﻃ</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: calefactor (anteproyecto) -->
+  <Blueprint_Heater.label>)ﺓﺩﻮﺴﻣ (ﺓﺄﻓﺪﻣ</Blueprint_Heater.label>
+  
+  <!-- EN: mesa de investigación avanzada (anteproyecto) -->
+  <Blueprint_HiTechResearchBench.label>)ﺓﺩﻮﺴﻣ (ﻡﺪﻘﺘﻣ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: vara de tiro al aro (anteproyecto) -->
+  <Blueprint_HoopstoneRing.label>)ﺓﺩﻮﺴﻣ (ﺕﺎﻘﻠﺣ ﻑﺫﺎﻗ</Blueprint_HoopstoneRing.label>
+  
+  <!-- EN: tolva (anteproyecto) -->
+  <Blueprint_Hopper.label>)ﺔﻴﻟﻭﺃ ﺓﺩﻮﺴﻣ (ﺎﻔﻟﻮﺗ</Blueprint_Hopper.label>
+  
+  <!-- EN: vara para herraduras (anteproyecto) -->
+  <Blueprint_HorseshoesPin.label>)ﺓﺩﻮﺴﻣ (ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﺐﻟﺎﻗ</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: cama hospitalaria (anteproyecto) -->
+  <Blueprint_HospitalBed.label>)ﺓﺩﻮﺴﻣ (ﻰﻔﺸﺘﺴﻣ ﺮﻳﺮﺳ</Blueprint_HospitalBed.label>
+  
+  <!-- EN: contenedor hidropónico (anteproyecto) -->
+  <Blueprint_HydroponicsBasin.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺋﺎﻣ ﺔﻳﻭﺎﺣ</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: cama (animal) (anteproyecto) -->
+  <Blueprint_Install_AnimalBed.label>)ﺓﺩﻮﺴﻣ (ﻥﺍﻮﻴﺣ ﺮﻳﺮﺳ</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: cajón de dormir (anteproyecto) -->
+  <Blueprint_Install_AnimalSleepingBox.label>)ﺓﺩﻮﺴﻣ (ﻡﻮﻧ ﻕﻭﺪﻨﺻ</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: sillón (anteproyecto) -->
+  <Blueprint_Install_Armchair.label>)ﺓﺩﻮﺴﻣ (ﻲﺳﺮﻛ</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: batería (anteproyecto) -->
+  <Blueprint_Install_Battery.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺭﺎﻄﺑ</Blueprint_Install_Battery.label>
+  
+  <!-- EN: cama (anteproyecto) -->
+  <Blueprint_Install_Bed.label>)ﺓﺩﻮﺴﻣ (ﺮﻳﺮﺳ</Blueprint_Install_Bed.label>
+  
+  <!-- EN: saco de dormir (anteproyecto) -->
+  <Blueprint_Install_Bedroll.label>)ﺓﺩﻮﺴﻣ (ﻡﻮﻧ ﺲﻴﻛ</Blueprint_Install_Bedroll.label>
+  
+  <!-- EN: saco de dormir doble (anteproyecto) -->
+  <Blueprint_Install_BedrollDouble.label>)ﺓﺩﻮﺴﻣ (ﺝﻭﺩﺰﻣ ﻡﻮﻧ ﺲﻴﻛ</Blueprint_Install_BedrollDouble.label>
+  
+  <!-- EN: mesa de billar (anteproyecto) -->
+  <Blueprint_Install_BilliardsTable.label>)ﺓﺩﻮﺴﻣ (ﻭﺩﺭﺎﻴﻠﺑ ﺔﻟﻭﺎﻃ</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: cervecería (anteproyecto) -->
+  <Blueprint_Install_Brewery.label>)ﺓﺩﻮﺴﻣ (ﺔﻌﺟ ﻊﻨﺼﻣ</Blueprint_Install_Brewery.label>
+  
+  <!-- EN: mesa de ajedrez (anteproyecto) -->
+  <Blueprint_Install_ChessTable.label>)ﺓﺩﻮﺴﻣ (ﺞﻧﺮﻄﺷ ﺔﻟﻭﺎﻃ</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: taladro de profundidad (anteproyecto) -->
+  <Blueprint_Install_DeepDrill.label>)ﺓﺩﻮﺴﻣ (ﻖﻤﻋ ﺐﻘﺜﻣ</Blueprint_Install_DeepDrill.label>
+  
+  <!-- EN: silla de comedor (anteproyecto) -->
+  <Blueprint_Install_DiningChair.label>)ﺓﺩﻮﺴﻣ (ﻡﺎﻌﻃ ﻲﺳﺮﻛ</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: cama doble (anteproyecto) -->
+  <Blueprint_Install_DoubleBed.label>)ﺓﺩﻮﺴﻣ (ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: cómoda (anteproyecto) -->
+  <Blueprint_Install_Dresser.label>)ﺓﺩﻮﺴﻣ (ﺔﻧﺍﺰﺧ</Blueprint_Install_Dresser.label>
+  
+  <!-- EN: laboratorio de drogas (anteproyecto) -->
+  <Blueprint_Install_DrugLab.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﻭﺩﺃ ﺮﺒﺘﺨﻣ</Blueprint_Install_DrugLab.label>
+  
+  <!-- EN: fundición eléctrica (anteproyecto) -->
+  <Blueprint_Install_ElectricSmelter.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ّﺐﺼﻣ</Blueprint_Install_ElectricSmelter.label>
+  
+  <!-- EN: forja eléctrica (anteproyecto) -->
+  <Blueprint_Install_ElectricSmithy.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﻚﺒﺴﻣ</Blueprint_Install_ElectricSmithy.label>
+  
+  <!-- EN: cocina eléctrica (anteproyecto) -->
+  <Blueprint_Install_ElectricStove.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﺪﻗﻮﻣ</Blueprint_Install_ElectricStove.label>
+  
+  <!-- EN: mesa de sastrería eléctrica (anteproyecto) -->
+  <Blueprint_Install_ElectricTailoringBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻃﺎﻴﺧ ﺓﺪﻀﻨﻣ</Blueprint_Install_ElectricTailoringBench.label>
+  
+  <!-- EN: mesilla de noche (anteproyecto) -->
+  <Blueprint_Install_EndTable.label>)ﺓﺩﻮﺴﻣ (ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺔﻟﻭﺎﻃ</Blueprint_Install_EndTable.label>
+  
+  <!-- EN: barril de fermentado (anteproyecto) -->
+  <Blueprint_Install_FermentingBarrel.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻤﺨﺗ ﻞﻴﻣﺮﺑ</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: lanzador de espuma cortafuegos (anteproyecto) -->
+  <Blueprint_Install_FirefoamPopper.label>)ﺓﺩﻮﺴﻣ (ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﻑﺫﺎﻗ</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: televisión de pantalla plana (anteproyecto) -->
+  <Blueprint_Install_FlatscreenTelevision.label>)ﺓﺩﻮﺴﻣ (ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﻥﻮﻳﺰﻔﻠﺗ</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: forja de leña (anteproyecto) -->
+  <Blueprint_Install_FueledSmithy.label>)ﺓﺩﻮﺴﻣ (ﺓﺩﺍﺪﺣ ﺔﺷﺭﻭ</Blueprint_Install_FueledSmithy.label>
+  
+  <!-- EN: cocina de leña (anteproyecto) -->
+  <Blueprint_Install_FueledStove.label>)ﺓﺩﻮﺴﻣ (ﺐﻄﺣ ﺪﻗﻮﻣ</Blueprint_Install_FueledStove.label>
+  
+  <!-- EN: tablero de juego de Ur (anteproyecto) -->
+  <Blueprint_Install_GameOfUrBoard.label>)ﺓﺩﻮﺴﻣ (ﺭﻭﺃ ﺔﺒﻌﻟ ﺔﺣﻮﻟ</Blueprint_Install_GameOfUrBoard.label>
+  
+  <!-- EN: vaina brillante (anteproyecto) -->
+  <Blueprint_Install_GlowPod.label>)ﺓﺩﻮﺴﻣ (ﻊﻣﻻ ﺀﺎﻋﻭ</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: mesa de sastrería (anteproyecto) -->
+  <Blueprint_Install_HandTailoringBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻃﺎﻴﺧ ﺔﻟﻭﺎﻃ</Blueprint_Install_HandTailoringBench.label>
+  
+  <!-- EN: calefactor (anteproyecto) -->
+  <Blueprint_Install_Heater.label>)ﺓﺩﻮﺴﻣ (ﺓﺄﻓﺪﻣ</Blueprint_Install_Heater.label>
+  
+  <!-- EN: vara de tiro al aro (anteproyecto) -->
+  <Blueprint_Install_HoopstoneRing.label>)ﺓﺩﻮﺴﻣ (ﺕﺎﻘﻠﺣ ﻑﺫﺎﻗ</Blueprint_Install_HoopstoneRing.label>
+  
+  <!-- EN: vara para herraduras (anteproyecto) -->
+  <Blueprint_Install_HorseshoesPin.label>)ﺓﺩﻮﺴﻣ (ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﺐﻟﺎﻗ</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: cama hospitalaria (anteproyecto) -->
+  <Blueprint_Install_HospitalBed.label>)ﺓﺩﻮﺴﻣ (ﻰﻔﺸﺘﺴﻣ ﺮﻳﺮﺳ</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: quimiorreactor infinito (anteproyecto) -->
+  <Blueprint_Install_InfiniteChemreactor.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﻬﻧﻻ ﻲﺋﺎﻴﻤﻴﻛ ﻞﻋﺎﻔﻣ</Blueprint_Install_InfiniteChemreactor.label>
+  
+  <!-- EN: megapantalla de televisión (anteproyecto) -->
+  <Blueprint_Install_MegascreenTelevision.label>)ﺓﺩﻮﺴﻣ (ﺔﻗﻼﻤﻋ ﻥﻮﻳﺰﻔﻠﺗ ﺔﺷﺎﺷ</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: multi-analizador (anteproyecto) -->
+  <Blueprint_Install_MultiAnalyzer.label>)ﺓﺩﻮﺴﻣ (ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: baliza de comercio orbital (anteproyecto) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: maceta (anteproyecto) -->
+  <Blueprint_Install_PlantPot.label>)ﺓﺩﻮﺴﻣ (ﺀﺎﻋﻭ</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: mesa de póker (anteproyecto) -->
+  <Blueprint_Install_PokerTable.label>)ﺓﺩﻮﺴﻣ (ﺮﻛﻮﺑ ﺔﻟﻭﺎﻃ</Blueprint_Install_PokerTable.label>
+  
+  <!-- EN: emanador psíquico (anteproyecto) -->
+  <Blueprint_Install_PsychicEmanator.label>)ﺓﺩﻮﺴﻣ (ﻲﺴﻔﻧ ﻊﺒﻨﻣ</Blueprint_Install_PsychicEmanator.label>
+  
+  <!-- EN: cama real (anteproyecto) -->
+  <Blueprint_Install_RoyalBed.label>)ﺓﺩﻮﺴﻣ (ﺮﺧﺎﻓ ﺮﻳﺮﺳ</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: escultura enorme (anteproyecto) -->
+  <Blueprint_Install_SculptureGrand.label>)ﺓﺩﻮﺴﻣ (ﻢﺨﺿ ﻝﺎﺜﻤﺗ</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: escultura grande (anteproyecto) -->
+  <Blueprint_Install_SculptureLarge.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﺒﻛ ﻝﺎﺜﻤﺗ</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: escultura pequeña (anteproyecto) -->
+  <Blueprint_Install_SculptureSmall.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻐﺻ ﻝﺎﺜﻤﺗ</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: estantería (anteproyecto) -->
+  <Blueprint_Install_Shelf.label>)ﺓﺩﻮﺴﻣ (ﺐﺘﻛ ﻑﺭ</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: mesa de investigación básica (anteproyecto) -->
+  <Blueprint_Install_SimpleResearchBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺳﺎﺳﺃ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</Blueprint_Install_SimpleResearchBench.label>
+  
+  <!-- EN: lámpara de pie (anteproyecto) -->
+  <Blueprint_Install_StandingLamp.label>)ﺓﺩﻮﺴﻣ (ﻲﺿﺭﺃ ﺡﺎﺒﺼﻣ</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: taburete (anteproyecto) -->
+  <Blueprint_Install_Stool.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻐﺻ ﻲﺳﺮﻛ</Blueprint_Install_Stool.label>
+  
+  <!-- EN: lámpara solar (anteproyecto) -->
+  <Blueprint_Install_SunLamp.label>)ﺓﺩﻮﺴﻣ (ﻲﺴﻤﺷ ﺡﺎﺒﺼﻣ</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: mesa (1x2) (anteproyecto) -->
+  <Blueprint_Install_Table1x2c.label>)ﺓﺩﻮﺴﻣ 1x2) ( (ﺔﻟﻭﺎﻃ</Blueprint_Install_Table1x2c.label>
+  
+  <!-- EN: mesa (2x2) (anteproyecto) -->
+  <Blueprint_Install_Table2x2c.label>)ﺓﺩﻮﺴﻣ 2x2) ( (ﺔﻟﻭﺎﻃ</Blueprint_Install_Table2x2c.label>
+  
+  <!-- EN: mesa (2x4) (anteproyecto) -->
+  <Blueprint_Install_Table2x4c.label>)ﺓﺩﻮﺴﻣ 2x4) ( (ﺔﻟﻭﺎﻃ</Blueprint_Install_Table2x4c.label>
+  
+  <!-- EN: mesa (3x3) (anteproyecto) -->
+  <Blueprint_Install_Table3x3c.label>)ﺓﺩﻮﺴﻣ 3x3) ( (ﺔﻟﻭﺎﻃ</Blueprint_Install_Table3x3c.label>
+  
+  <!-- EN: mesa de carnicero (anteproyecto) -->
+  <Blueprint_Install_TableButcher.label>)ﺓﺩﻮﺴﻣ (ﺭﺍﺰﺟ ﺔﻟﻭﺎﻃ</Blueprint_Install_TableButcher.label>
+  
+  <!-- EN: mesa de maquinado (anteproyecto) -->
+  <Blueprint_Install_TableMachining.label>)ﺓﺩﻮﺴﻣ (ﻞﻴﻜﺸﺗ ﺔﻟﻭﺎﻃ</Blueprint_Install_TableMachining.label>
+  
+  <!-- EN: mesa de escultor (anteproyecto) -->
+  <Blueprint_Install_TableSculpting.label>)ﺓﺩﻮﺴﻣ (ﺖﺤﻧ ﺓﺪﻀﻨﻣ</Blueprint_Install_TableSculpting.label>
+  
+  <!-- EN: mesa de cantería (anteproyecto) -->
+  <Blueprint_Install_TableStonecutter.label>)ﺓﺩﻮﺴﻣ (ﺓﺭﺎﺠﺤﻟﺍ ﻊﻄﻗ ﺔﻟﻭﺎﻃ</Blueprint_Install_TableStonecutter.label>
+  
+  <!-- EN: telescopio (anteproyecto) -->
+  <Blueprint_Install_Telescope.label>)ﺓﺩﻮﺴﻣ (ﺏﻮﻜﺴﻠﺗ</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: armario de herramientas (anteproyecto) -->
+  <Blueprint_Install_ToolCabinet.label>)ﺓﺩﻮﺴﻣ (ﺕﺍﻭﺩﺃ ﺔﻧﺍﺰﺧ</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: televisión de tubo (anteproyecto) -->
+  <Blueprint_Install_TubeTelevision.label>)ﺓﺩﻮﺴﻣ (ﻲﺑﻮﺒﻧﺃ ﻥﻮﻳﺰﻔﻠﺗ</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: minitorreta (anteproyecto) -->
+  <Blueprint_Install_Turret_MiniTurret.label>)ﺔﻴﻟﻭﺃ ﺔﻔﻳﺬﻗ (ﺎﺘﻳﺭﻮﺘﻴﻨﻣ</Blueprint_Install_Turret_MiniTurret.label>
+  
+  <!-- EN: mortero (anteproyecto) -->
+  <Blueprint_Install_Turret_Mortar.label>)ﺓﺩﻮﺴﻣ (ﻥﻭﺎﻫ</Blueprint_Install_Turret_Mortar.label>
+  
+  <!-- EN: célula de energía vanométrica (anteproyecto) -->
+  <Blueprint_Install_VanometricPowerCell.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺮﺘﻣﻮﻧﺎﻓ ﺔﻗﺎﻃ ﺔﻴﻠﺧ</Blueprint_Install_VanometricPowerCell.label>
+  
+  <!-- EN: monitor de signos vitales (anteproyecto) -->
+  <Blueprint_Install_VitalsMonitor.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﻮﻴﺣ ﺕﺎﻣﻼﻋ ﺔﺷﺎﺷ</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: escáner de minerales de largo alcance (anteproyecto) -->
+  <Blueprint_LongRangeMineralScanner.label>)ﺓﺩﻮﺴﻣ (ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻣ ﺢﺳﺎﻣ</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: altar matrimonial (anteproyecto) -->
+  <Blueprint_MarriageSpot.label>)ﺓﺩﻮﺴﻣ (ﺝﺍﻭﺯ ﺢﺑﺬﻣ</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: baldosa metálicas (anteproyecto) -->
+  <Blueprint_MetalTile.label>)ﺓﺩﻮﺴﻣ (ﻲﻧﺪﻌﻣ ﻁﻼﺑ</Blueprint_MetalTile.label>
+  
+  <!-- EN: bomba de humedad (anteproyecto) -->
+  <Blueprint_MoisturePump.label>)ﺓﺩﻮﺴﻣ (ﺔﺑﻮﻃﺭ ﺔﺨﻀﻣ</Blueprint_MoisturePump.label>
+  
+  <!-- EN: multi-analizador (anteproyecto) -->
+  <Blueprint_MultiAnalyzer.label>)ﺓﺩﻮﺴﻣ (ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: dispensador de pasta nutritiva (anteproyecto) -->
+  <Blueprint_NutrientPasteDispenser.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻉﺯﻮﻣ</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: baliza de comercio orbital (anteproyecto) -->
+  <Blueprint_OrbitalTradeBeacon.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: punto de fiestas (anteproyecto) -->
+  <Blueprint_PartySpot.label>)ﺓﺩﻮﺴﻣ (ﺕﻻﺎﻔﺘﺣﺍ ﺔﻘﻄﻨﻣ</Blueprint_PartySpot.label>
+  
+  <!-- EN: refrigerador pasivo (anteproyecto) -->
+  <Blueprint_PassiveCooler.label>)ﺓﺩﻮﺴﻣ (ﻲﺒﻠﺳ ﺩﺮﺒﻣ</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: baldosa de cemento (anteproyecto) -->
+  <Blueprint_PavedTile.label>)ﺓﺩﻮﺴﻣ (ﺖﻨﻤﺳﺃ ﺔﻃﻼﺑ</Blueprint_PavedTile.label>
+  
+  <!-- EN: maceta (anteproyecto) -->
+  <Blueprint_PlantPot.label>)ﺓﺩﻮﺴﻣ (ﺕﺎﺒﻧ ﺀﺎﻋﻭ</Blueprint_PlantPot.label>
+  
+  <!-- EN: lanzadera de cápsulas (anteproyecto) -->
+  <Blueprint_PodLauncher.label>)ﺓﺩﻮﺴﻣ (ﺕﻻﻮﺴﺒﻛ ﺔﻓﺫﺎﻗ</Blueprint_PodLauncher.label>
+  
+  <!-- EN: mesa de póker (anteproyecto) -->
+  <Blueprint_PokerTable.label>)ﺓﺩﻮﺴﻣ (ﺮﻛﻮﺑ ﺔﻟﻭﺎﻃ</Blueprint_PokerTable.label>
+  
+  <!-- EN: conducto eléctrico (anteproyecto) -->
+  <Blueprint_PowerConduit.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</Blueprint_PowerConduit.label>
+  
+  <!-- EN: interruptor (anteproyecto) -->
+  <Blueprint_PowerSwitch.label>)ﺓﺩﻮﺴﻣ (ﻲﺋﺎﺑﺮﻬﻛ ﺡﺎﺘﻔﻣ</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: cama real (anteproyecto) -->
+  <Blueprint_RoyalBed.label>)ﺓﺩﻮﺴﻣ (ﺮﺧﺎﻓ ﺮﻳﺮﺳ</Blueprint_RoyalBed.label>
+  
+  <!-- EN: sacos de arena (anteproyecto) -->
+  <Blueprint_Sandbags.label>)ﺓﺩﻮﺴﻣ (ﻞﻣﺭ ﺱﺎﻴﻛﺃ</Blueprint_Sandbags.label>
+  
+  <!-- EN: sarcófago (anteproyecto) -->
+  <Blueprint_Sarcophagus.label>)ﺓﺩﻮﺴﻣ (ﺕﻮﺑﺎﺗ</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: estantería (anteproyecto) -->
+  <Blueprint_Shelf.label>)ﺓﺩﻮﺴﻣ (ﻑﻮﻓﺭ</Blueprint_Shelf.label>
+  
+  <!-- EN: viga estructural de nave (anteproyecto) -->
+  <Blueprint_Ship_Beam.label>)ﺓﺩﻮﺴﻣ (ﺔﻨﻴﻔﺴﻠﻟ ﺔﻴﻠﻜﻴﻫ ﺔﻣﺎﻋﺩ</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: ordenador central de nave (anteproyecto) -->
+  <Blueprint_Ship_ComputerCore.label>)ﺓﺩﻮﺴﻣ (ﺔﻨﻴﻔﺴﻠﻟ ﻱﺰﻛﺮﻣ ﺯﺎﻬﺟ</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: sarcófago de criptosueño de nave (anteproyecto) -->
+  <Blueprint_Ship_CryptosleepCasket.label>)ﺓﺩﻮﺴﻣ (ﺔﻨﻴﻔﺴﻠﻟ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: motor de nave (anteproyecto) -->
+  <Blueprint_Ship_Engine.label>)ﺓﺩﻮﺴﻣ (ﺔﻨﻴﻔﺳ ﻙﺮﺤﻣ</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: reactor de nave (anteproyecto) -->
+  <Blueprint_Ship_Reactor.label>)ﺓﺩﻮﺴﻣ (ﺔﻨﻴﻔﺳ ﻞﻋﺎﻔﻣ</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: módulo de sensores (anteproyecto) -->
+  <Blueprint_Ship_SensorCluster.label>)ﺓﺩﻮﺴﻣ (ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</Blueprint_Ship_SensorCluster.label>
+  
+  <!-- EN: baldosa de plata (anteproyecto) -->
+  <Blueprint_SilverTile.label>)ﺓﺩﻮﺴﻣ (ﻲﻀﻓ ﻁﻼﺑ</Blueprint_SilverTile.label>
+  
+  <!-- EN: mesa de investigación básica (anteproyecto) -->
+  <Blueprint_SimpleResearchBench.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺳﺎﺳﺃ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: lugar para dormir (anteproyecto) -->
+  <Blueprint_SleepingSpot.label>)ﺓﺩﻮﺴﻣ (ﻡﻮﻧ ﻊﺿﻮﻣ</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: panel solar (anteproyecto) -->
+  <Blueprint_SolarGenerator.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺴﻤﺷ ﺔﺣﻮﻟ</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: lámpara de pie (anteproyecto) -->
+  <Blueprint_StandingLamp.label>)ﺓﺩﻮﺴﻣ (ﻲﺿﺭﺃ ﺡﺎﺒﺼﻣ</Blueprint_StandingLamp.label>
+  
+  <!-- EN: baldosa estéril (anteproyecto) -->
+  <Blueprint_SterileTile.label>)ﺓﺩﻮﺴﻣ (ﺔﻤﻘﻌﻣ ﺔﻃﻼﺑ</Blueprint_SterileTile.label>
+  
+  <!-- EN: taburete (anteproyecto) -->
+  <Blueprint_Stool.label>)ﺓﺩﻮﺴﻣ (ﺮﻴﻐﺻ ﻲﺳﺮﻛ</Blueprint_Stool.label>
+  
+  <!-- EN: lámpara solar (anteproyecto) -->
+  <Blueprint_SunLamp.label>)ﺓﺩﻮﺴﻣ (ﻲﺴﻤﺷ ﺡﺎﺒﺼﻣ</Blueprint_SunLamp.label>
+  
+  <!-- EN: mesa (1x2) (anteproyecto) -->
+  <Blueprint_Table1x2c.label>)ﺓﺩﻮﺴﻣ 1x2) ( (ﺔﻟﻭﺎﻃ</Blueprint_Table1x2c.label>
+  
+  <!-- EN: mesa (2x2) (anteproyecto) -->
+  <Blueprint_Table2x2c.label>)ﺓﺩﻮﺴﻣ 2x2) ( (ﺔﻟﻭﺎﻃ</Blueprint_Table2x2c.label>
+  
+  <!-- EN: mesa (2x4) (anteproyecto) -->
+  <Blueprint_Table2x4c.label>)ﺓﺩﻮﺴﻣ 2x4) ( (ﺔﻟﻭﺎﻃ</Blueprint_Table2x4c.label>
+  
+  <!-- EN: mesa (3x3) (anteproyecto) -->
+  <Blueprint_Table3x3c.label>)ﺓﺩﻮﺴﻣ 3x3) ( (ﺔﻟﻭﺎﻃ</Blueprint_Table3x3c.label>
+  
+  <!-- EN: mesa de carnicero (anteproyecto) -->
+  <Blueprint_TableButcher.label>)ﺓﺩﻮﺴﻣ (ﺭﺍﺰﺟ ﺔﻟﻭﺎﻃ</Blueprint_TableButcher.label>
+  
+  <!-- EN: mesa de maquinado (anteproyecto) -->
+  <Blueprint_TableMachining.label>)ﺓﺩﻮﺴﻣ (ﻞﻴﻜﺸﺗ ﺔﻟﻭﺎﻃ</Blueprint_TableMachining.label>
+  
+  <!-- EN: mesa de escultor (anteproyecto) -->
+  <Blueprint_TableSculpting.label>)ﺓﺩﻮﺴﻣ (ﺖﺤﻧ ﺓﺪﻀﻨﻣ</Blueprint_TableSculpting.label>
+  
+  <!-- EN: mesa de cantería (anteproyecto) -->
+  <Blueprint_TableStonecutter.label>)ﺓﺩﻮﺴﻣ (ﺓﺭﺎﺠﺤﻟﺍ ﻊﻄﻗ ﺔﻟﻭﺎﻃ</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: baldosa de granito (anteproyecto) -->
+  <Blueprint_TileGranite.label>)ﺓﺩﻮﺴﻣ (ﺖﻴﻧﺍﺮﺟ ﺔﻃﻼﺑ</Blueprint_TileGranite.label>
+  
+  <!-- EN: baldosa de caliza (anteproyecto) -->
+  <Blueprint_TileLimestone.label>)ﺓﺩﻮﺴﻣ (ﻱﺮﻴﺟ ﺮﺠﺣ ﺔﻃﻼﺑ</Blueprint_TileLimestone.label>
+  
+  <!-- EN: baldosa de mármol (anteproyecto) -->
+  <Blueprint_TileMarble.label>)ﺓﺩﻮﺴﻣ (ﻡﺎﺧﺭ ﺔﻃﻼﺑ</Blueprint_TileMarble.label>
+  
+  <!-- EN: baldosa de arenisca (anteproyecto) -->
+  <Blueprint_TileSandstone.label>)ﺓﺩﻮﺴﻣ (ﻲﻠﻣﺭ ﺮﺠﺣ ﺔﻃﻼﺑ</Blueprint_TileSandstone.label>
+  
+  <!-- EN: baldosa de pizarra (anteproyecto) -->
+  <Blueprint_TileSlate.label>)ﺓﺩﻮﺴﻣ (ﺯﺍﻭﺩﺭﺃ ﺔﻃﻼﺑ</Blueprint_TileSlate.label>
+  
+  <!-- EN: armario de herramientas (anteproyecto) -->
+  <Blueprint_ToolCabinet.label>)ﺓﺩﻮﺴﻣ (ﺕﺍﻭﺩﺃ ﺔﻧﺍﺰﺧ</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: antorcha (anteproyecto) -->
+  <Blueprint_TorchLamp.label>)ﺓﺩﻮﺴﻣ (ﺔﻠﻌﺷ</Blueprint_TorchLamp.label>
+  
+  <!-- EN: cápsula de transporte (anteproyecto) -->
+  <Blueprint_TransportPod.label>)ﺓﺩﻮﺴﻣ (ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ</Blueprint_TransportPod.label>
+  
+  <!-- EN: trampa de mina de antimateria (anteproyecto) -->
+  <Blueprint_TrapIED_AntigrainWarhead.label>)ﺓﺩﻮﺴﻣ (ﺓﺩﺎﻤﻠﻟ ﺩﺎﻀﻣ ﻲﺑﺮﺣ ﺱﺃﺭ ﻢﻐﻟ ﺦﻓ</Blueprint_TrapIED_AntigrainWarhead.label>
+  
+  <!-- EN: trampa de mina PEM (anteproyecto) -->
+  <Blueprint_TrapIED_EMP.label>)ﺓﺩﻮﺴﻣ (ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﻢﻐﻟ ﺦﻓ</Blueprint_TrapIED_EMP.label>
+  
+  <!-- EN: trampa de mina de espuma cortafuegos (anteproyecto) -->
+  <Blueprint_TrapIED_Firefoam.label>)ﺓﺩﻮﺴﻣ (ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﻢﻐﻟ ﺦﻓ</Blueprint_TrapIED_Firefoam.label>
+  
+  <!-- EN: trampa de mina explosiva (anteproyecto) -->
+  <Blueprint_TrapIED_HighExplosive.label>)ﺓﺩﻮﺴﻣ (ﺮﺠﻔﺘﻣ ﻢﻐﻟ ﺦﻓ</Blueprint_TrapIED_HighExplosive.label>
+  
+  <!-- EN: trampa de mina incendiaria (anteproyecto) -->
+  <Blueprint_TrapIED_Incendiary.label>)ﺓﺩﻮﺴﻣ (ﻕﺭﺎﺣ ﻢﻐﻟ ﺦﻓ</Blueprint_TrapIED_Incendiary.label>
+  
+  <!-- EN: televisión de tubo (anteproyecto) -->
+  <Blueprint_TubeTelevision.label>)ﺓﺩﻮﺴﻣ (ﻲﺑﻮﺒﻧﺃ ﻥﻮﻳﺰﻔﻠﺗ</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: torreta de cañón automático (anteproyecto) -->
+  <Blueprint_Turret_Autocannon.label>)ﺓﺩﻮﺴﻣ (ﻲﻟﺁ ﻊﻓﺪﻣ ﺝﺮﺑ</Blueprint_Turret_Autocannon.label>
+  
+  <!-- EN: minitorreta (anteproyecto) -->
+  <Blueprint_Turret_MiniTurret.label>)ﺔﻴﻟﻭﺃ ﺔﻔﻳﺬﻗ (ﺎﺘﻳﺭﻮﺘﻴﻨﻣ</Blueprint_Turret_MiniTurret.label>
+  
+  <!-- EN: mortero (anteproyecto) -->
+  <Blueprint_Turret_Mortar.label>)ﺔﻴﻟﻭﺃ ﺔﻔﻳﺬﻗ (ﻥﻭﺎﻫ</Blueprint_Turret_Mortar.label>
+  
+  <!-- EN: cañón de uranio (anteproyecto) -->
+  <Blueprint_Turret_Sniper.label>)ﻲﻟﻭﺃ ﺝﺫﻮﻤﻧ (ﻡﻮﻴﻧﺍﺭﻮﻳ ﻊﻓﺪﻣ</Blueprint_Turret_Sniper.label>
+  
+  <!-- EN: conducto de ventilación (anteproyecto) -->
+  <Blueprint_Vent.label>)ﺓﺩﻮﺴﻣ (ﺔﻳﻮﻬﺗ ﺓﺎﻨﻗ</Blueprint_Vent.label>
+  
+  <!-- EN: monitor de signos vitales (anteproyecto) -->
+  <Blueprint_VitalsMonitor.label>)ﻲﻟﻭﺃ ﺝﺫﻮﻤﻧ (ﺔﻳﻮﻴﺣ ﺕﺎﻣﻼﻋ ﺔﺷﺎﺷ</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: muro (anteproyecto) -->
+  <Blueprint_Wall.label>ﺓﺩَّﻭَﺳُﻣ</Blueprint_Wall.label>
+  
+  <!-- EN: generador hidroeléctrico (anteproyecto) -->
+  <Blueprint_WatermillGenerator.label>)ﻲﻟﻭﺃ ﺝﺫﻮﻤﻧ (ﺔﻴﺋﺎﻣ ﺔﻗﺎﻃ ﺪﻟﻮﻣ</Blueprint_WatermillGenerator.label>
+  
+  <!-- EN: conducto impermeable (anteproyecto) -->
+  <Blueprint_WaterproofConduit.label>)ﺔﻴﻟﻭﺃ ﺓﺩﻮﺴﻣ (ﺔﻟﺯﺎﻋ ﺓﺎﻨﻗ</Blueprint_WaterproofConduit.label>
+  
+  <!-- EN: aeroturbina (anteproyecto) -->
+  <Blueprint_WindTurbine.label>)ﻲﻟﻭﺃ ﺝﺫﻮﻤﻧ (ﻱﻮﺟ ﻦﻴﺑﺭﻮﺗ</Blueprint_WindTurbine.label>
+  
+  <!-- EN: generador a leña (anteproyecto) -->
+  <Blueprint_WoodFiredGenerator.label>)ﻲﻟﻭﺃ ﺝﺫﻮﻤﻧ (ﺐﻄﺣ ﺪﻟﻮﻣ</Blueprint_WoodFiredGenerator.label>
+  
+  <!-- EN: suelo de madera (anteproyecto) -->
+  <Blueprint_WoodPlankFloor.label>)ﺓﺩﻮﺴﻣ (ﺔﻴﺒﺸﺧ ﺔﻴﺿﺭﺃ</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: Cadáver de alpaca -->
+  <Corpse_Alpaca.label>ﺔﻜﺒﻟﻷﺍ ﺔﺜﺟ</Corpse_Alpaca.label>
+  <!-- EN: El cuerpo sin vida de una alpaca. -->
+  <Corpse_Alpaca.description>. ﺔﻜﺒﻟﻷ ﺔﻴﺣ ﺮﻴﻏ ﺔﺜﺟ</Corpse_Alpaca.description>
+  
+  <!-- EN: Cadáver de alfacastor -->
+  <Corpse_Alphabeaver.label>ﺎﻔﻟﺃ ﺱﺪﻨﻗ ﺔﺜﺟ</Corpse_Alphabeaver.label>
+  <!-- EN: El cuerpo sin vida de un alfacastor. -->
+  <Corpse_Alphabeaver.description>. ﺓﺎﻴﺣ ﻼﺑ ﺎﻔﻟﺃ ﺱﺪﻨﻗ ﺔﺜﺟ</Corpse_Alphabeaver.description>
+  
+  <!-- EN: Cadáver de oso pardo -->
+  <Corpse_Bear_Grizzly.label>ﻲﻨﺑ ﺏﺩ ﺔﺜﺟ</Corpse_Bear_Grizzly.label>
+  <!-- EN: El cuerpo sin vida de un oso pardo. -->
+  <Corpse_Bear_Grizzly.description>. ﺓﺪﻣﺎﻫ ﻲﻨﺑ ﺏﺩ ﺔﺜﺟ</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: Cadáver de oso polar -->
+  <Corpse_Bear_Polar.label>ﻲﺒﻄﻗ ﺏﺩ ﺔﺜﺟ</Corpse_Bear_Polar.label>
+  <!-- EN: El cuerpo sin vida de un oso polar. -->
+  <Corpse_Bear_Polar.description>. ﺓﺎﻴﺣ ﻼﺑ ﻲﺒﻄﻗ ﺏﺩ ﺔﺜﺟ</Corpse_Bear_Polar.description>
+  
+  <!-- EN: Cadáver de bumalope -->
+  <Corpse_Boomalope.label>ﺏﻮﻟﺎﻣﻮﺑ ﺔﺜﺟ</Corpse_Boomalope.label>
+  <!-- EN: El cuerpo sin vida de un bumalope. -->
+  <Corpse_Boomalope.description>. ﺏﻮﻟﺎﻣﻮﺑ ﻥﺍﻮﻴﺤﻟ ﺓﺎﻴﺣ ﻼﺑ ﺔﺜﺟ</Corpse_Boomalope.description>
+  
+  <!-- EN: Cadáver de ratabum -->
+  <Corpse_Boomrat.label>ﻡﻮﺑﺎﺗﺭ ﺔﺜﺟ</Corpse_Boomrat.label>
+  <!-- EN: El cuerpo sin vida de una ratabum. -->
+  <Corpse_Boomrat.description>. ﻡﻮﺑﺎﺗﺍﺭ ﻥﺍﻮﻴﺤﻟ ﺓﺪﻣﺎﻫ ﺔﺜﺟ</Corpse_Boomrat.description>
+  
+  <!-- EN: Cadáver de capibara -->
+  <Corpse_Capybara.label>ﺍﺭﺎﺒﻴﺑﺎﻛ ﺔﺜﺟ</Corpse_Capybara.label>
+  <!-- EN: El cuerpo sin vida de un capibara. -->
+  <Corpse_Capybara.description>. ﺔﺘﻴﻣ ﻲﺋﺎﻣ ﺱﺪﻨﻗ ﺔﺜﺟ</Corpse_Capybara.description>
+  
+  <!-- EN: Cadáver de caribú -->
+  <Corpse_Caribou.label>ﻮﺒﻳﺭﺎﻛ ﺔﺜﺟ</Corpse_Caribou.label>
+  <!-- EN: El cuerpo sin vida de un caribú. -->
+  <Corpse_Caribou.description>. ﺓﺎﻴﺣ ﻼﺑ ﻮﺒﻳﺭﺎﻛ ﺔﺜﺟ</Corpse_Caribou.description>
+  
+  <!-- EN: Cadáver de casuario -->
+  <Corpse_Cassowary.label>ﺭﺍﻮﺳﺎﻛ ﺔﺜﺟ</Corpse_Cassowary.label>
+  <!-- EN: El cuerpo sin vida de un casuario. -->
+  <Corpse_Cassowary.description>. ﺓﺪﻣﺎﻫ ﺭﺍﻮﺳﺎﻛ ﺔﺜﺟ</Corpse_Cassowary.description>
+  
+  <!-- EN: Cadáver de gato -->
+  <Corpse_Cat.label>ﻂﻗ ﺔﺜﺟ</Corpse_Cat.label>
+  <!-- EN: El cuerpo sin vida de un gato. -->
+  <Corpse_Cat.description>. ﺔﺘﻴﻣ ﻂﻗ ﺔﺜﺟ</Corpse_Cat.description>
+  
+  <!-- EN: Cadáver de pollo -->
+  <Corpse_Chicken.label>ﺔﺟﺎﺟﺩ ﺔﺜﺟ</Corpse_Chicken.label>
+  <!-- EN: El cuerpo sin vida de un pollo. -->
+  <Corpse_Chicken.description>. ﺓﺎﻴﺣ ﻼﺑ ﺔﺟﺎﺟﺩ ﺔﺜﺟ</Corpse_Chicken.description>
+  
+  <!-- EN: Cadáver de chinchilla -->
+  <Corpse_Chinchilla.label>ﺔﻠﻴﺸﻨﺷ ﺔﺜﺟ</Corpse_Chinchilla.label>
+  <!-- EN: El cuerpo sin vida de una chinchilla. -->
+  <Corpse_Chinchilla.description>. ﺓﺎﻴﺣ ﻼﺑ ﺔﻠﻴﺸﻨﺷ ﻥﺍﻮﻴﺣ ﺔﺜﺟ</Corpse_Chinchilla.description>
+  
+  <!-- EN: Cadáver de cobra -->
+  <Corpse_Cobra.label>ﺍﺮﺑﻮﻛ ﺔﺜﺟ</Corpse_Cobra.label>
+  <!-- EN: El cuerpo sin vida de una cobra. -->
+  <Corpse_Cobra.description>. ﺓﺎﻴﺣ ﻼﺑ ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ ﺔﺜﺟ</Corpse_Cobra.description>
+  
+  <!-- EN: Cadáver de puma -->
+  <Corpse_Cougar.label>ﺎﻣﻮﺑ ﺔﺜﺟ</Corpse_Cougar.label>
+  <!-- EN: El cuerpo sin vida de un puma. -->
+  <Corpse_Cougar.description>. ﺓﺎﻴﺣ ﻼﺑ ﻞﺒﺟ ﺪﺳﺃ ﺔﺜﺟ</Corpse_Cougar.description>
+  
+  <!-- EN: Cadáver de vaca -->
+  <Corpse_Cow.label>ﺓﺮﻘﺑ ﺔﺜﺟ</Corpse_Cow.label>
+  <!-- EN: El cuerpo sin vida de una vaca. -->
+  <Corpse_Cow.description>. ﺓﺪﻣﺎﻫ ﺓﺮﻘﺑ ﺔﺜﺟ</Corpse_Cow.description>
+  
+  <!-- EN: Cadáver de ciervo -->
+  <Corpse_Deer.label>ﻝﺍﺰﻏ ﺔﺜﺟ</Corpse_Deer.label>
+  <!-- EN: El cuerpo sin vida de un ciervo. -->
+  <Corpse_Deer.description>. ﺓﺎﻴﺣ ﻼﺑ ﻝﺍﺰﻏ ﺔﺜﺟ</Corpse_Deer.description>
+  
+  <!-- EN: Cadáver de dromedario -->
+  <Corpse_Dromedary.label>ﻞﻤﺟ ﺔﺜﺟ</Corpse_Dromedary.label>
+  <!-- EN: El cuerpo sin vida de un dromedario. -->
+  <Corpse_Dromedary.description>. ﺓﺎﻘﻠﻣ ﺪﺣﺍﻭ ﻞﻤﺟ ﺔﺜﺟ</Corpse_Dromedary.description>
+  
+  <!-- EN: Cadáver de elefante -->
+  <Corpse_Elephant.label>ﻞﻴﻓ ﺔﺜﺟ</Corpse_Elephant.label>
+  <!-- EN: El cuerpo sin vida de un elefante. -->
+  <Corpse_Elephant.description>. ﺔﺘﻴﻣ ﻞﻴﻓ ﺔﺜﺟ</Corpse_Elephant.description>
+  
+  <!-- EN: Cadáver de alce -->
+  <Corpse_Elk.label>ﻞﻳﺃ ﺔﺜﺟ</Corpse_Elk.label>
+  <!-- EN: El cuerpo sin vida de un alce. -->
+  <Corpse_Elk.description>. ﺔﺘﻴﻣ ﻞﻳﺃ ﺔﺜﺟ</Corpse_Elk.description>
+  
+  <!-- EN: Cadáver de emú -->
+  <Corpse_Emu.label>ﻮﻤﻳﺇ ﺔﺜﺟ</Corpse_Emu.label>
+  <!-- EN: El cuerpo sin vida de un emú. -->
+  <Corpse_Emu.description>. ﺓﺎﻴﺣ ﻼﺑ ﻮﻤﻳﺇ ﺔﺜﺟ</Corpse_Emu.description>
+  
+  <!-- EN: Cadáver de zorro ártico -->
+  <Corpse_Fox_Arctic.label>ﻲﺒﻄﻗ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Arctic.label>
+  <!-- EN: El cuerpo sin vida de un zorro ártico. -->
+  <Corpse_Fox_Arctic.description>. ﺓﺎﻴﺣ ﻼﺑ ﻲﺒﻄﻗ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: Cadáver de fénec -->
+  <Corpse_Fox_Fennec.label>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Fennec.label>
+  <!-- EN: El cuerpo sin vida de un fénec. -->
+  <Corpse_Fox_Fennec.description>. ﺓﺎﻴﺣ ﻼﺑ ﻚﻨﻓ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: Cadáver de zorro rojo -->
+  <Corpse_Fox_Red.label>ﺮﻤﺣﺃ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Red.label>
+  <!-- EN: El cuerpo sin vida de un zorro rojo. -->
+  <Corpse_Fox_Red.description>. ﺓﺎﻴﺣ ﻼﺑ ﺮﻤﺣﺃ ﺐﻠﻌﺛ ﺔﺜﺟ</Corpse_Fox_Red.description>
+  
+  <!-- EN: Cadáver de gacela -->
+  <Corpse_Gazelle.label>ﻝﺍﺰﻏ ﺔﺜﺟ</Corpse_Gazelle.label>
+  <!-- EN: El cuerpo sin vida de una gacela. -->
+  <Corpse_Gazelle.description>. ﺓﺪﻣﺎﻫ ﻝﺍﺰﻏ ﺔﺜﺟ</Corpse_Gazelle.description>
+  
+  <!-- EN: Cadáver de liebre -->
+  <Corpse_Hare.label>ﺐﻧﺭﺃ ﺔﺜﺟ</Corpse_Hare.label>
+  <!-- EN: El cuerpo sin vida de una liebre. -->
+  <Corpse_Hare.description>. ﺔﺘﻴﻣ ﺐﻧﺭﺃ ﺔﺜﺟ</Corpse_Hare.description>
+  
+  <!-- EN: Cadáver de humano -->
+  <Corpse_Human.label>ﻥﺎﺴﻧﺇ ﺔﺜﺟ</Corpse_Human.label>
+  <!-- EN: El cuerpo sin vida de un humano. -->
+  <Corpse_Human.description>. ﺓﺎﻴﺤﻟﺍ ﺔﻗﺭﺎﻓ ﻥﺎﺴﻧﺇ ﺔﺜﺟ</Corpse_Human.description>
+  
+  <!-- EN: Cadáver de husky -->
+  <Corpse_Husky.label>ﻲﻜﺳﺎﻬﻟﺍ ﺐﻠﻛ ﺔﺜﺟ</Corpse_Husky.label>
+  <!-- EN: El cuerpo sin vida de un husky. -->
+  <Corpse_Husky.description>. ﺓﺎﻴﺣ ﻼﺑ ﻲﻜﺳﺎﻫ ﺐﻠﻛ ﺔﺜﺟ</Corpse_Husky.description>
+  
+  <!-- EN: Cadáver de cabra montés -->
+  <Corpse_Ibex.label>ﻲﻠﺒﺟ ﺰﻋﺎﻣ ﺔﺜﺟ</Corpse_Ibex.label>
+  <!-- EN: El cuerpo sin vida de una cabra montés. -->
+  <Corpse_Ibex.description>. ﻱﺮﺑ ﺰﻋﺎﻣ ﺔﺜﺟ</Corpse_Ibex.description>
+  
+  <!-- EN: Cadáver de iguana -->
+  <Corpse_Iguana.label>ﺎﻧﺍﻮﻏﺇ ﺔﺜﺟ</Corpse_Iguana.label>
+  <!-- EN: El cuerpo sin vida de una iguana. -->
+  <Corpse_Iguana.description>. ﺓﺎﻴﺣ ﻼﺑ ﺎﻧﺍﻮﻏﺇ ﺔﺜﺟ</Corpse_Iguana.description>
+  
+  <!-- EN: Cadáver de labrador -->
+  <Corpse_LabradorRetriever.label>ﺭﻭﺩﺍﺮﺑﻻ ﺔﺜﺟ</Corpse_LabradorRetriever.label>
+  <!-- EN: El cuerpo sin vida de un labrador. -->
+  <Corpse_LabradorRetriever.description>. ﺓﺎﻴﺣ ﻼﺑ ﺭﻭﺩﺍﺮﺑﻻ ﺐﻠﻛ ﺔﺜﺟ</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: Cadáver de lince -->
+  <Corpse_Lynx.label>ﻖﺷﻭ ﺔﺜﺟ</Corpse_Lynx.label>
+  <!-- EN: El cuerpo sin vida de un lince. -->
+  <Corpse_Lynx.description>. ﺔﺘﻴﻣ ﻖﺷﻭ ﺔﺜﺟ</Corpse_Lynx.description>
+  
+  <!-- EN: Cadáver de centípedo destructor -->
+  <Corpse_Mech_CentipedeBlaster.label>ﺭّﺠﻔﻣ ﺪﻴﺒﻴﺘﻨﺳ ﺔﺜﺟ</Corpse_Mech_CentipedeBlaster.label>
+  <!-- EN: El cuerpo sin vida de un centípedo destructor. -->
+  <Corpse_Mech_CentipedeBlaster.description>. ﺓﺎﻴﺣ ﻼﺑ ﺭّﺠﻔﻣ ﺪﻴﺒﻴﺘﻨﺳ ﺔﺜﺟ</Corpse_Mech_CentipedeBlaster.description>
+  
+  <!-- EN: Cadáver de lancero -->
+  <Corpse_Mech_Lancer.label>ﺢﻣﺍﺭ ﺔﺜﺟ</Corpse_Mech_Lancer.label>
+  <!-- EN: El cuerpo sin vida de un lancero. -->
+  <Corpse_Mech_Lancer.description>. ﺓﺎﻴﺣ ﻼﺑ ﺢﻣﺍﺭ ﺔﺜﺟ</Corpse_Mech_Lancer.description>
+  
+  <!-- EN: Cadáver de segador -->
+  <Corpse_Mech_Scyther.label>ﺪﺻﺎﺣ ﺔﺜﺟ</Corpse_Mech_Scyther.label>
+  <!-- EN: El cuerpo sin vida de un segador. -->
+  <Corpse_Mech_Scyther.description>. ﺓﺎﻴﺣ ﻼﺑ ﺪﺻﺎﻗ ﺔﺜﺟ</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: Cadáver de megascarabajo -->
+  <Corpse_Megascarab.label>ﺔﻗﻼﻤﻋ ﺀﺎﺴﻔﻨﺧ ﺔﺜﺟ</Corpse_Megascarab.label>
+  <!-- EN: El cuerpo sin vida de un megascarabajo. -->
+  <Corpse_Megascarab.description>. ﺔﺘﻴﻣ ﺏﺍﺭﺎﻜﺳﺎﻐﻴﻣ ﺔﺜﺟ</Corpse_Megascarab.description>
+  
+  <!-- EN: Cadáver de megaperezoso -->
+  <Corpse_Megasloth.label>ﺚﻴﻟﺎﻐﻴﻣ ﺔﺜﺟ</Corpse_Megasloth.label>
+  <!-- EN: El cuerpo sin vida de un megaperezoso. -->
+  <Corpse_Megasloth.description>. ﻥﻼﺴﻜﻟ ﺔﻤﺨﺿ ﺔﺜﺟ</Corpse_Megasloth.description>
+  
+  <!-- EN: Cadáver de megaraña -->
+  <Corpse_Megaspider.label>ﻢﺨﺿ ﺕﻮﺒﻜﻨﻋ ﺔﺜﺟ</Corpse_Megaspider.label>
+  <!-- EN: El cuerpo sin vida de una megaraña. -->
+  <Corpse_Megaspider.description>. ﺖﻴﻣ ﻕﻼﻤﻋ ﺕﻮﺒﻜﻨﻋ ﺔﺜﺟ</Corpse_Megaspider.description>
+  
+  <!-- EN: Cadáver de mono -->
+  <Corpse_Monkey.label>ﺩﺮﻗ ﺔﺜﺟ</Corpse_Monkey.label>
+  <!-- EN: El cuerpo sin vida de un mono. -->
+  <Corpse_Monkey.description>. ﺔﺘﻴﻣ ﺩﺮﻗ ﺔﺜﺟ</Corpse_Monkey.description>
+  
+  <!-- EN: Cadáver de múfalo -->
+  <Corpse_Muffalo.label>ﻮﻟﺎﻓُﻣ ﺔﺜﺟ</Corpse_Muffalo.label>
+  <!-- EN: El cuerpo sin vida de un múfalo. -->
+  <Corpse_Muffalo.description>. ﺓﺎﻴﺣ ﻼﺑ ﻮﻟﺎﻓﻮﻤﻟﺍ ﻥﺍﻮﻴﺣ ﺔﺜﺟ</Corpse_Muffalo.description>
+  
+  <!-- EN: Cadáver de avestruz -->
+  <Corpse_Ostrich.label>ﺔﻣﺎﻌﻧ ﺔﺜﺟ</Corpse_Ostrich.label>
+  <!-- EN: El cuerpo sin vida de un avestruz. -->
+  <Corpse_Ostrich.description>. ﺓﺎﻴﺣ ﻼﺑ ﺔﻣﺎﻌﻧ ﺔﺜﺟ</Corpse_Ostrich.description>
+  
+  <!-- EN: Cadáver de pantera -->
+  <Corpse_Panther.label>ﺮﻤﻧ ﺔﺜﺟ</Corpse_Panther.label>
+  <!-- EN: El cuerpo sin vida de una pantera. -->
+  <Corpse_Panther.description>. ﺪﻬﻔﻟﺍ ﻥﺍﻮﻴﺤﻟ ﺓﺎﻓﻮﺘﻣ ﺔﺜﺟ</Corpse_Panther.description>
+  
+  <!-- EN: Cadáver de cerdo -->
+  <Corpse_Pig.label>ﺮﻳﺰﻨﺧ ﺔﺜﺟ</Corpse_Pig.label>
+  <!-- EN: El cuerpo sin vida de un cerdo. -->
+  <Corpse_Pig.description>. ﺓﺎﻴﺣ ﻼﺑ ﺮﻳﺰﻨﺧ ﺔﺜﺟ</Corpse_Pig.description>
+  
+  <!-- EN: Cadáver de mapache -->
+  <Corpse_Raccoon.label>ﻥﻮﻛﺍﺭ ﺔﺜﺟ</Corpse_Raccoon.label>
+  <!-- EN: El cuerpo sin vida de un mapache. -->
+  <Corpse_Raccoon.description>. ﺓﺎﻴﺣ ﻼﺑ ﻥﻮﻛﺍﺭ ﺔﺜﺟ</Corpse_Raccoon.description>
+  
+  <!-- EN: Cadáver de rata -->
+  <Corpse_Rat.label>ﺭﺄﻓ ﺔﺜﺟ</Corpse_Rat.label>
+  <!-- EN: El cuerpo sin vida de una rata. -->
+  <Corpse_Rat.description>. ﺔﺘﻴﻣ ﺭﺄﻓ ﺔﺜﺟ</Corpse_Rat.description>
+  
+  <!-- EN: Cadáver de rinoceronte -->
+  <Corpse_Rhinoceros.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ ﺔﺜﺟ</Corpse_Rhinoceros.label>
+  <!-- EN: El cuerpo sin vida de un rinoceronte. -->
+  <Corpse_Rhinoceros.description>. ﺓﺎﻴﺣ ﻼﺑ ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ ﻥﺍﻮﻴﺣ ﺔﺜﺟ</Corpse_Rhinoceros.description>
+  
+  <!-- EN: Cadáver de liebre polar -->
+  <Corpse_Snowhare.label>ﻲﺒﻄﻗ ﺐﻧﺭﺃ ﺔﺜﺟ</Corpse_Snowhare.label>
+  <!-- EN: El cuerpo sin vida de una liebre polar. -->
+  <Corpse_Snowhare.description>. ﺓﺎﻴﺣ ﻼﺑ ﻲﺒﻄﻗ ﺐﻧﺭﺃ ﺔﺜﺟ</Corpse_Snowhare.description>
+  
+  <!-- EN: Cadáver de espelópedo -->
+  <Corpse_Spelopede.label>ﺪﻴﺑﻮﻠﻴﺒﺳ ﺔﺜﺟ</Corpse_Spelopede.label>
+  <!-- EN: El cuerpo sin vida de un espelópedo. -->
+  <Corpse_Spelopede.description>. ﺓﺎﻴﺣ ﻼﺑ ﺪﻴﺑﻮﻠﻴﺒﺳ ﺔﺜﺟ</Corpse_Spelopede.description>
+  
+  <!-- EN: Cadáver de ardilla -->
+  <Corpse_Squirrel.label>ﺏﺎﺠﻨﺳ ﺔﺜﺟ</Corpse_Squirrel.label>
+  <!-- EN: El cuerpo sin vida de una ardilla. -->
+  <Corpse_Squirrel.description>. ﺓﺎﻴﺣ ﻼﺑ ﺏﺎﺠﻨﺳ ﺔﺜﺟ</Corpse_Squirrel.description>
+  
+  <!-- EN: Cadáver de trumbo -->
+  <Corpse_Thrumbo.label>ﻮﺒﻣﻭﺮﺗ ﺔﺜﺟ</Corpse_Thrumbo.label>
+  <!-- EN: El cuerpo sin vida de un trumbo. -->
+  <Corpse_Thrumbo.description>. ﺓﺎﻴﺣ ﻼﺑ ﻮﺒﻣﻭﺮﺗ ﺔﺜﺟ</Corpse_Thrumbo.description>
+  
+  <!-- EN: Cadáver de tortuga -->
+  <Corpse_Tortoise.label>ﺓﺎﻔﺤﻠﺳ ﺔﺜﺟ</Corpse_Tortoise.label>
+  <!-- EN: El cuerpo sin vida de una tortuga. -->
+  <Corpse_Tortoise.description>. ﺓﺎﻴﺣ ﻼﺑ ﺓﺎﻔﺤﻠﺳ ﺔﺜﺟ</Corpse_Tortoise.description>
+  
+  <!-- EN: Cadáver de pavo -->
+  <Corpse_Turkey.label>ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﺜﺟ</Corpse_Turkey.label>
+  <!-- EN: El cuerpo sin vida de un pavo. -->
+  <Corpse_Turkey.description>. ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﺜﺟ</Corpse_Turkey.description>
+  
+  <!-- EN: Cadáver de wargo -->
+  <Corpse_Warg.label>ﻍﺭﺍﻭ ﺔﺜﺟ</Corpse_Warg.label>
+  <!-- EN: El cuerpo sin vida de un wargo. -->
+  <Corpse_Warg.description>. ﺓﺎﻴﺣ ﻼﺑ ﻍﺭﺍﻭ ﺔﺜﺟ</Corpse_Warg.description>
+  
+  <!-- EN: Cadáver de jabalí -->
+  <Corpse_WildBoar.label>ﻱﺮﺑ ﺮﻳﺰﻨﺧ ﺔﺜﺟ</Corpse_WildBoar.label>
+  <!-- EN: El cuerpo sin vida de un jabalí. -->
+  <Corpse_WildBoar.description>. ﺓﺪﻣﺎﻫ ﻱﺮﺑ ﺮﻳﺰﻨﺧ ﺔﺜﺟ</Corpse_WildBoar.description>
+  
+  <!-- EN: Cadáver de lobo ártico -->
+  <Corpse_Wolf_Arctic.label>ﻲﺒﻄﻗ ﺐﺋﺫ ﺔﺜﺟ</Corpse_Wolf_Arctic.label>
+  <!-- EN: El cuerpo sin vida de un lobo ártico. -->
+  <Corpse_Wolf_Arctic.description>. ﺓﺎﻴﺣ ﻼﺑ ﻲﺒﻄﻗ ﺐﺋﺫ ﺔﺜﺟ</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: Cadáver de lobo pardo -->
+  <Corpse_Wolf_Timber.label>ﻲﻨﺑ ﺐﺋﺫ ﺔﺜﺟ</Corpse_Wolf_Timber.label>
+  <!-- EN: El cuerpo sin vida de un lobo pardo. -->
+  <Corpse_Wolf_Timber.description>. ﻥﻮﻠﻟﺍ ﻲﻨﺑ ﺐﺋﺫ ﺔﺜﺟ</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: Cadáver de yorkshire -->
+  <Corpse_YorkshireTerrier.label>ﺮﻳﺎﺸﻛﺭﻮﻳ ﺔﺜﺟ</Corpse_YorkshireTerrier.label>
+  <!-- EN: El cuerpo sin vida de un yorkshire. -->
+  <Corpse_YorkshireTerrier.description>. ﺓﺎﻴﺣ ﻼﺑ ﺮﻳﺎﺸﻛﺭﻮﻳ ﺐﻠﻛ ﺔﺜﺟ</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: cama (animal) (en construcción) -->
+  <Frame_AnimalBed.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻥﺍﻮﻴﺣ ﺮﻳﺮﺳ</Frame_AnimalBed.label>
+  <!-- EN: Una cama suave para animales. Cabe cualquier animal. -->
+  <Frame_AnimalBed.description>. ﻥﺍﻮﻴﺣ ﻱﻷ ﻊﺴﺘﻳ ،ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻢﻋﺎﻧ ﺮﻳﺮﺳ</Frame_AnimalBed.description>
+  
+  <!-- EN: cajón de dormir (en construcción) -->
+  <Frame_AnimalSleepingBox.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﻮﻧ ﻕﻭﺪﻨﺻ</Frame_AnimalSleepingBox.label>
+  <!-- EN: Una cajita donde puede dormir un animal. Caben animales pequeños como pollos, gatos o perros pequeños. -->
+  <Frame_AnimalSleepingBox.description>. ﺓﺮﻴﻐﺼﻟﺍ ﺏﻼﻜﻟﺍ ﻭﺃ ﻂﻄﻘﻟﺍ ﻭﺃ ﺝﺎﺟﺪﻟﺍ ﻞﺜﻣ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻊﺴﺘﻳ. ﻪﻴﻓ ﻡﺎﻨﺗ ﻥﺃ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ ﺮﻴﻐﺻ ﻕﻭﺪﻨﺻ</Frame_AnimalSleepingBox.description>
+  
+  <!-- EN: lugar para dormir (animal) (en construcción) -->
+  <Frame_AnimalSleepingSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) (ﻥﺍﻮﻴﺣ (ﻡﻮﻧ ﻥﺎﻜﻣ</Frame_AnimalSleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde dormirá un animal domesticado. -->
+  <Frame_AnimalSleepingSpot.description>. ﺽَّﻭﺭُﻣ ٌﻥﺍﻮﻴﺣ ِﻪﻴﻓ َﻡﺎﻨﻴﻟ ِﺽﺭﻷﺍ ﻰﻠﻋ ٌﻥﺎﻜﻣ ُﺩَّﺪﺣُﻳ</Frame_AnimalSleepingSpot.description>
+  
+  <!-- EN: sillón (en construcción) -->
+  <Frame_Armchair.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺳﺮﻛ</Frame_Armchair.label>
+  <!-- EN: Un asiento grande, suave y cómodo. Excelente para relajarse. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
+  <Frame_Armchair.description>. ﺎﻫﺮﻴﻏﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺀﺎﺧﺮﺘﺳﻼﻟ ﻲﻟﺎﺜﻣ. ﺢﻳﺮﻣﻭ ﻢﻋﺎﻧ ،ﺮﻴﺒﻛ ﺪﻌﻘﻣ</Frame_Armchair.description>
+  
+  <!-- EN: puerta automática (en construcción) -->
+  <Frame_Autodoor.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﻟﺁ ﺔﺑﺍﻮﺑ</Frame_Autodoor.label>
+  <!-- EN: Separa habitaciones. La automatización de esta puerta permite a la gente pasar a traves de ella sin ser ralentizados. -->
+  <Frame_Autodoor.description>. ﺆﻃﺎﺒﺗ ﻥﻭﺩ ﻪﻟﻼﺧ ﻦﻣ ﺭﻭﺮﻤﻟﺎﺑ ﺩﺍﺮﻓﻸﻟ ﺏﺎﺒﻟﺍ ﺍﺬﻫ ﺔﺘﻤﺗﺃ ﺢﻤﺴﺗ. ﻑﺮﻐﻟﺍ ﻞﺼﻔﻳ</Frame_Autodoor.description>
+  
+  <!-- EN: batería (en construcción) -->
+  <Frame_Battery.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﺭﺎﻄﺑ</Frame_Battery.label>
+  <!-- EN: Almacena electricidad para uso posterior. Las baterías cargadas explotan cuando se incendian o se mojan. -->
+  <Frame_Battery.description>. ﺀﺎﻤﻠﻟ ﺎﻬﺿﺮﻌﺗ ﻭﺃ ﺎﻬﻟﺎﻌﺘﺷﺍ ﺪﻨﻋ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﺮﺠﻔﻨﺗﻭ ،ﻖﺣﻼﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻥﺰﺨﻳ</Frame_Battery.description>
+  
+  <!-- EN: cama (en construcción) -->
+  <Frame_Bed.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻳﺮﺳ</Frame_Bed.label>
+  <!-- EN: Un acogedor colchón con sábanas sobre una estructura para descansar. -->
+  <Frame_Bed.description>. ﺔﺣﺍﺮﻠﻟ ﻞﻜﻴﻫ ﻕﻮﻓ ﺔﻴﻄﻏﺃﻭ ﺵﺮﻔﺑ ﺢﻳﺮﻣ ﺮﻳﺮﺳ</Frame_Bed.description>
+  
+  <!-- EN: saco de dormir (en construcción) -->
+  <Frame_Bedroll.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﻮﻧ ﺲﻴﻛ</Frame_Bedroll.label>
+  <!-- EN: Una cama simple que se coloca en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. Las caravanas pueden usar sacos de dormir mientras se mueven para dormir mejor. -->
+  <Frame_Bedroll.description>. ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻡﻮﻨﻠﻟ ﻞﻘﻨﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻡﻮﻨﻟﺍ ﺱﺎﻴﻛﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻞﻓﺍﻮﻘﻠﻟ ﻦﻜﻤﻳ. ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻞﺜﻣ ﺍًﺤﻳﺮﻣ ﺲﻴﻟ ﻪﻨﻜﻟﻭ ،ﻪﻠﻘﻧ ﻞﻴﻬﺴﺘﻟ ﻪﻔﻟ ﻦﻜﻤﻳﻭ ﻥﺯﻮﻟﺍ ﻒﻴﻔﺧ ﻪﻧﺇ. ﻭﺮﻔﻟﺎﺑ ﺍًﻨﻄﺒﻣ ﻥﻮﻜﻳ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ،ﺪﻠﺠﻟﺍ ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺍًﻋﻮﻨﺼﻣ ﻥﻮﻜﻳ ﺎﻣ ﺓﺩﺎﻋﻭ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻊﺿﻮﻳ ﻂﻴﺴﺑ ﺮﻳﺮﺳ</Frame_Bedroll.description>
+  
+  <!-- EN: saco de dormir doble (en construcción) -->
+  <Frame_BedrollDouble.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺝﻭﺩﺰﻣ ﻡﻮﻧ ﺲﻴﻛ</Frame_BedrollDouble.label>
+  <!-- EN: Una simple cama doble que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica.Las caravanas pueden usar sacos de dormir mientras se mueven para dormir mejor. -->
+  <Frame_BedrollDouble.description>. ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻡﻮﻨﻠﻟ ﻞﻘﻨﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻡﻮﻨﻟﺍ ﺱﺎﻴﻛﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻞﻓﺍﻮﻘﻠﻟ ﻦﻜﻤﻳ. ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻞﺜﻣ ﺍًﺤﻳﺮﻣ ﺲﻴﻟ ﻪﻨﻜﻟﻭ ،ﻪﻠﻘﻧ ﻞﻴﻬﺴﺘﻟ ﻪﻔﻟ ﻦﻜﻤﻳﻭ ﻥﺯﻮﻟﺍ ﻒﻴﻔﺧ ﻪﻧﺇ. ﻭﺮﻔﻟﺎﺑ ﺍًﻨﻄﺒﻣ ﻥﻮﻜﻳ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ،ﺪﻠﺠﻟﺍ ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺍًﻋﻮﻨﺼﻣ ﻥﻮﻜﻳ ﺎﻣ ﺓﺩﺎﻋﻭ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﺲﻠﺠﻳ ﻂﻴﺴﺑ ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Frame_BedrollDouble.description>
+  
+  <!-- EN: mesa de billar (en construcción) -->
+  <Frame_BilliardsTable.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻭﺩﺭﺎﻴﻠﺑ ﺔﻟﻭﺎﻃ</Frame_BilliardsTable.label>
+  <!-- EN: Una mesa con un suave tapete para jugar a múltiples variantes de juegos de billar. Permite entrenar la habilidad de disparo. -->
+  <Frame_BilliardsTable.description>. ﺐﻳﻮﺼﺘﻟﺍ ﺓﺭﺎﻬﻣ ﻰﻠﻋ ﺐﻳﺭﺪﺘﻟﺍ ﺢﻴﺘﺗﻭ ،ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺏﺎﻌﻟﺃ ﻦﻣ ﺓﺩﺪﻌﺘﻣ ﻉﺍﻮﻧﺃ ﺐﻌﻠﻟ ﻢﻋﺎﻧ ﺢﻄﺳ ﺕﺍﺫ ﺔﻟﻭﺎﻃ</Frame_BilliardsTable.description>
+  
+  <!-- EN: refinería de biocombustible (en construcción) -->
+  <Frame_BiofuelRefinery.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﺓﺎﻔﺼﻣ</Frame_BiofuelRefinery.label>
+  <!-- EN: Refina materia biológica como la madera o la materia vegetal en biocombustible. -->
+  <Frame_BiofuelRefinery.description>. ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﻰﻟﺇ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻭﺃ ﺐﺸﺨﻟﺍ ﻞﺜﻣ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺭّﺮﻛُﻳ</Frame_BiofuelRefinery.description>
+  
+  <!-- EN: cervecería (en construcción) -->
+  <Frame_Brewery.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻌﺟ ﻊﻨﺼﻣ</Frame_Brewery.label>
+  <!-- EN: Una estación de trabajo con todo el equipo necesario para mezclar mosto para la producción de cerveza. El mosto debe fermentarse para que finalmente se convierta en cerveza. -->
+  <Frame_Brewery.description>. ﺔﻌﺟ ﻰﻟﺇ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻝﻮﺤﺘﻴﻟ ﻲﺳﺎﺳﻷﺍ ﺏﺍﺮﺸﻟﺍ ﺮﻴﻤﺨﺗ ﺐﺠﻳﻭ ،ﺔﻌﺠﻟﺍ ﺝﺎﺘﻧﻹ ﻲﺳﺎﺳﻷﺍ ﺏﺍﺮﺸﻟﺍ ﻂﻠﺨﻟ ﺔﻣﺯﻼﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻞﻤﻋ ﺔﻄﺤﻣ</Frame_Brewery.description>
+  
+  <!-- EN: plataforma (en construcción) -->
+  <Frame_Bridge.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﺼﻨﻣ</Frame_Bridge.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Bridge.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_Bridge.description>
+  
+  <!-- EN: punto de despiece (en construcción) -->
+  <Frame_ButcherSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻚﻴﻜﻔﺗ ﺔﻄﻘﻧ</Frame_ButcherSpot.label>
+  <!-- EN: Un lugar para descuartizar animales. Debido a la falta de equipo, la carnicería solo produce el 70% de la carne y el cuero de cada criatura. -->
+  <Frame_ButcherSpot.description>. ﻕﻮﻠﺨﻣ ﻞﻜﻟ ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻦﻣ ﻂﻘﻓ ٪ 70 ﺦﻠﺴﻤﻟﺍ ﺞﺘﻨﻳ ،ﺕﺍﺪﻌﻤﻟﺍ ﺺﻘﻧ ﺐﺒﺴﺑ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺋﺰﺠﺘﻟ ﻥﺎﻜﻣ</Frame_ButcherSpot.description>
+  
+  <!-- EN: hoguera (en construcción) -->
+  <Frame_Campfire.label>ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ ﺭﺎﻧ</Frame_Campfire.label>
+  <!-- EN: Cocina alimentos y produce calor, y se agota después de unos días. Como con todas las fuentes de calor, debe ser ubicada en interiores para que pueda calentar un espacio cerrado. Reabastecible. -->
+  <Frame_Campfire.description>. ﺔﺌﺒﻌﺘﻟﺍ ﺓﺩﺎﻋﻹ ﻞﺑﺎﻗ. ﺔﻘﻠﻐﻣ ﺔﺣﺎﺴﻣ ﻦﻴﺨﺴﺗ ﻦﻣ ﻦﻜﻤﺘﻳ ﻰﺘﺣ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻪﻌﺿﻭ ﺐﺠﻳ ،ﺓﺭﺍﺮﺤﻟﺍ ﺭﺩﺎﺼﻣ ﻊﻴﻤﺟ ﻊﻣ ﻝﺎﺤﻟﺍ ﻮﻫ ﺎﻤﻛ. ﻡﺎﻳﺃ ﺔﻌﻀﺑ ﺪﻌﺑ ﺪﻔﻨﻳﻭ ،ﺓﺭﺍﺮﺣ ﺞﺘﻨﻳﻭ ﻡﺎﻌﻄﻟﺍ ﺦﺒﻄﻳ</Frame_Campfire.description>
+  
+  <!-- EN: punto de carga para caravanas (en construcción) -->
+  <Frame_CaravanPackingSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻞﻓﺍﻮﻘﻠﻟ ﻦﺤﺷ ﺔﻄﻘﻧ</Frame_CaravanPackingSpot.label>
+  <!-- EN: Designa un punto donde se formarán las caravanas. Ponlo cerca de tus provisiones para acelerar el proceso de carga. -->
+  <Frame_CaravanPackingSpot.description>. ﻞﻴﻤﺤﺘﻟﺍ ﺔﻴﻠﻤﻋ ﻊﻳﺮﺴﺘﻟ ﻚﻧﻭﺆﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺎﻬﻌﺿ. ﻞﻓﺍﻮﻘﻟﺍ ﻞﻴﻜﺸﺘﻟ ﺔﻄﻘﻧ ﺩﺪﺣ</Frame_CaravanPackingSpot.description>
+  
+  <!-- EN: generador de biocombustible (en construcción) -->
+  <Frame_ChemfuelPoweredGenerator.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﺪﻟﻮﻣ</Frame_ChemfuelPoweredGenerator.label>
+  <!-- EN: Produce energía consumiendo biocombustible. Debe ser reabastecido a mano periódicamente. -->
+  <Frame_ChemfuelPoweredGenerator.description>. ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺔﻳﻭﺪﻳ ﺔﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﺐﻠﻄﺘﻳﻭ ،ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﻙﻼﻬﺘﺳﺎﺑ ﺔﻗﺎﻃ ﺞﺘﻨﻳ</Frame_ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: mesa de ajedrez (en construcción) -->
+  <Frame_ChessTable.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺞﻧﺮﻄﺷ ﺔﻌﻗﺭ</Frame_ChessTable.label>
+  <!-- EN: El antiguo juego de los reyes. Divertido durante unas horas de vez en cuando, incluso jugando solo. Permite entrenar la habilidad intelectual. -->
+  <Frame_ChessTable.description>. ﺔﻴﻨﻫﺬﻟﺍ ﺕﺍﺭﺪﻘﻟﺍ ﺐﻳﺭﺪﺘﺑ ﺢﻤﺴﺗ. ﻙﺩﺮﻔﻤﺑ ﺐﻌﻠﻟﺍ ﺪﻨﻋ ﻰﺘﺣ ،ﺮﺧﻵ ﻦﻴﺣ ﻦﻣ ﺕﺎﻋﺎﺳ ﻊﻀﺒﻟ ﺔﻴﻠﺴﻣ. ﺀﻼﺒﻨﻠﻟ ﺔﻤﻳﺪﻗ ﺔﺒﻌﻟ</Frame_ChessTable.description>
+  
+  <!-- EN: consola de comunicaciones (en construcción) -->
+  <Frame_CommsConsole.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ</Frame_CommsConsole.label>
+  <!-- EN: Permite el contacto con otras facciones y comerciantes en órbita. -->
+  <Frame_CommsConsole.description>. ﺭﺍﺪﻤﻟﺍ ﻲﻓ ﻦﻳﺮﺧﻵﺍ ﺭﺎﺠﺘﻟﺍﻭ ﻞﺋﺎﺼﻔﻟﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻦﻣ ﻥّﻜﻣُﻳ</Frame_CommsConsole.description>
+  
+  <!-- EN: cemento (en construcción) -->
+  <Frame_Concrete.label>)ﺀﺎﻨﺑ (ﺖﻨﻤﺳﺃ</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_Concrete.description>
+  
+  <!-- EN: refrigerador (en construcción) -->
+  <Frame_Cooler.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺩﺮﺒﻣ</Frame_Cooler.label>
+  <!-- EN: Un máquina de enfriamento del aire que puede ser empotrada en un muro. El aire frío sale por un lado, mientras que el tubo de escape produce mucho calor en el opuesto. Puede utilizarse para enfriar habitaciones durante el verano o para crear una habitación frigorífica. -->
+  <Frame_Cooler.description>. ﺪﻳﺮﺒﺗ ﺔﻓﺮﻏ ﺀﺎﺸﻧﻹ ﻭﺃ ﻒﻴﺼﻟﺍ ﻝﻼﺧ ﻑﺮﻐﻟﺍ ﺪﻳﺮﺒﺘﻟ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﻞﺑﺎﻘﻤﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻲﻓ ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻡﺩﺎﻌﻟﺍ ﺏﻮﺒﻧﺃ ﺞﺘﻨﻳ ﺎﻤﻨﻴﺑ ،ﺐﻧﺎﺟ ﻦﻣ ﺩﺭﺎﺒﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺝﺮﺨﻳ. ﻂﺋﺎﺤﻟﺍ ﻲﻓ ﻪﺒﻴﻛﺮﺗ ﻦﻜﻤﻳ ﺀﺍﻮﻫ ﺪﻳﺮﺒﺗ ﺯﺎﻬﺟ</Frame_Cooler.description>
+  
+  <!-- EN: punto de artesanía (en construcción) -->
+  <Frame_CraftingSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﻓﺮﺣ ﺔﻄﻘﻧ</Frame_CraftingSpot.label>
+  <!-- EN: Un lugar donde se pueden crear objetos simples como arcos y cuchillos. La producción aquí es lenta debido a la falta de herramientas. -->
+  <Frame_CraftingSpot.description>. ﺕﺍﻭﺩﻷﺍ ﺺﻘﻧ ﺐﺒﺴﺑ ﺀﻴﻄﺑ ﺎﻨﻫ ﺝﺎﺘﻧﻹﺍﻭ ،ﻦﻴﻛﺎﻜﺴﻟﺍﻭ ﺱﺍﻮﻗﻷﺍ ﻞﺜﻣ ﺔﻄﻴﺴﺑ ﺀﺎﻴﺷﺃ ﻊﻨﺻ ﻪﻴﻓ ﻦﻜﻤﻳ ﻥﺎﻜﻣ</Frame_CraftingSpot.description>
+  
+  <!-- EN: sarcófago de criptosueño (en construcción) -->
+  <Frame_CryptosleepCasket.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻴﻔﺸﺘﻟﺍ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Frame_CryptosleepCasket.label>
+  <!-- EN: Un sarcófago autoalimentado y diseñado para mantener a una persona en un estado de animación suspendida durante muchos años. -->
+  <Frame_CryptosleepCasket.description>. ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ﻖﻠﻌﻣ ﺕﺎﺒﺳ ﺔﻟﺎﺣ ﻲﻓ ﺺﺨﺷ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﻢﻤﺼﻣﻭ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﺕﻮﺑﺎﺗ</Frame_CryptosleepCasket.description>
+  
+  <!-- EN: taladro de profundidad (en construcción) -->
+  <Frame_DeepDrill.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻖﻤﻋ ﺐﻘﺜﻣ</Frame_DeepDrill.label>
+  <!-- EN: Un taladro montado capaz de perforar corteza terrestre para extraer minerales de las profundidades. Usa un escáner de profundidad para detectar los recursos. Este taladro obtendrá pedazos de piedra de no haber otros recursos. Puede ser recolocado a voluntad. -->
+  <Frame_DeepDrill.description>. ﺔﺒﻏﺮﻟﺍ ﺐﺴﺣ ﺎﻬﻌﺿﻭ ﺓﺩﺎﻋﺇ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺩﺭﺍﻮﻣ ﺩﻮﺟﻭ ﻡﺪﻋ ﺔﻟﺎﺣ ﻲﻓ ﺮﺠﺤﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻠﻋ ﺓﺭﺎﻔﺤﻟﺍ ﻩﺬﻫ ﻞﺼﺤﺘﺳ. ﺩﺭﺍﻮﻤﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﻖﻤﻌﻠﻟ ﺍًﺤﺳﺎﻣ ﻡﺪﺨﺘﺴﺗ. ﻕﺎﻤﻋﻷﺍ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﺔﻴﺿﺭﻷﺍ ﺓﺮﺸﻘﻟﺍ ﺮﻔﺣ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻴﺒﻴﻛﺮﺗ ﺓﺭﺎﻔﺣ</Frame_DeepDrill.description>
+  
+  <!-- EN: silla de comedor (en construcción) -->
+  <Frame_DiningChair.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﺎﻌﻃ ﻲﺳﺮﻛ</Frame_DiningChair.label>
+  <!-- EN: Una silla cómoda y agradable. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
+  <Frame_DiningChair.description>. ﺎﻫﺮﻴﻏﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺏﺍﺬﺟﻭ ﺢﻳﺮﻣ ﻲﺳﺮﻛ</Frame_DiningChair.description>
+  
+  <!-- EN: puerta (en construcción) -->
+  <Frame_Door.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﺑﺍﻮﺑ</Frame_Door.label>
+  <!-- EN: Separa habitaciones. Debe ser abierta y cerrada manualmente, lo que ralentizará el paso de la gente dependiendo del material del que esté hecha. -->
+  <Frame_Door.description>. ﺎﻬﻨﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﻰﻠﻋ ﺍًﺩﺎﻤﺘﻋﺍ ﺹﺎﺨﺷﻷﺍ ﺔﻛﺮﺣ ﺊﻄﺒﻳ ﺎﻤﻣ ،ﺍًﻳﻭﺪﻳ ﻪﻗﻼﻏﺇﻭ ﻪﺤﺘﻓ ﺐﺠﻳ. ﻑﺮﻐﻟﺍ ﻞﺼﻔﻳ</Frame_Door.description>
+  
+  <!-- EN: cama doble (en construcción) -->
+  <Frame_DoubleBed.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Frame_DoubleBed.label>
+  <!-- EN: Una simple cama matrimonial para dos personas. -->
+  <Frame_DoubleBed.description>. ﻦﻴﺼﺨﺸﻟ ﻂﻴﺴﺑ ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Frame_DoubleBed.description>
+  
+  <!-- EN: lugar doble para dormir (en construcción) -->
+  <Frame_DoubleSleepingSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Frame_DoubleSleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde dos personas deben dormir juntas. No es cómodo. -->
+  <Frame_DoubleSleepingSpot.description>. ﺢﻳﺮﻣ ﺮﻴﻏ ﻮﻫﻭ ،ﺍًﻌﻣ ﻥﺎﺼﺨﺷ ﻪﻴﻓ ﻡﺎﻨﻴﻟ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﺎﻜﻣ ﺩَّﺪﺣُﻳ</Frame_DoubleSleepingSpot.description>
+  
+  <!-- EN: cómoda (en construcción) -->
+  <Frame_Dresser.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺲﺑﻼﻣ ﺔﻧﺍﺰﺧ</Frame_Dresser.label>
+  <!-- EN: Da una pequeña bonificación de comodidad a todas las camas cercanas. Colocar más de una cómoda cerca de la misma cama no tendrá ningún efecto. -->
+  <Frame_Dresser.description>. ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﻥﻮﻜﻳ ﻦﻟ ﺮﻳﺮﺴﻟﺍ ﺲﻔﻧ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺓﺪﺣﺍﻭ ﺲﺑﻼﻣ ﺔﻧﺍﺰﺧ ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ. ﺔﺒﻳﺮﻘﻟﺍ ﺓّﺮﺳﻷﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﺔﻴﻓﺎﺿﻹﺍ ﺔﺣﺍﺮﻟﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻲﻔﺿُﻳ</Frame_Dresser.description>
+  
+  <!-- EN: laboratorio de drogas (en construcción) -->
+  <Frame_DrugLab.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﻭﺩﺃ ﺮﺒﺘﺨﻣ</Frame_DrugLab.label>
+  <!-- EN: Una mesa de trabajo equipada con instrumentos de medición, quemadores y diversos contenedores para producir variedad de drogas. -->
+  <Frame_DrugLab.description>. ﺕﺍﺭﺪﺨﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺝﺎﺘﻧﻹ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻳﻭﺎﺣﻭ ﺪﻗﺍﻮﻣﻭ ﺱﺎﻴﻗ ﺕﺍﻭﺩﺄﺑ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_DrugLab.description>
+  
+  <!-- EN: crematorio eléctrico (en construcción) -->
+  <Frame_ElectricCrematorium.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺋﺎﺑﺮﻬﻛ ﻕﺮﺤﻣ</Frame_ElectricCrematorium.label>
+  <!-- EN: Un enorme crematorio de piedra que vaporiza cadáveres al alcanzar temperaturas extremadamente altas. -->
+  <Frame_ElectricCrematorium.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻴﻟﺎﻋ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻨﻋ ﺚﺜﺠﻟﺍ ﺮﺨﺒﺗ ﺔﻤﺨﺿ ﺔﻳﺮﺨﺻ ﺔﻗﺮﺤﻣ</Frame_ElectricCrematorium.description>
+  
+  <!-- EN: fundición eléctrica (en construcción) -->
+  <Frame_ElectricSmelter.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺋﺎﺑﺮﻬﻛ ﺓَﺭَﻫْﺻَﻣ</Frame_ElectricSmelter.label>
+  <!-- EN: Extrae metales aprovechables de pedazos de chatarra y otros objetos metálicos. Consume mucha energía. -->
+  <Frame_ElectricSmelter.description>. ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻚﻠﻬﺘﺴﻳﻭ ،ﻯﺮﺧﻷﺍ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺀﺎﻴﺷﻷﺍﻭ ﺓﺩﺮﺨﻟﺍ ﻊﻄﻗ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﻥﺩﺎﻌﻣ ﺝﺮﺨﺘﺴﻳ</Frame_ElectricSmelter.description>
+  
+  <!-- EN: forja eléctrica (en construcción) -->
+  <Frame_ElectricSmithy.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺓﺩﺍﺪﺣ ﺔﺷﺭﻭ</Frame_ElectricSmithy.label>
+  <!-- EN: Una estación alimentada por electricidad para forjar armas y herramientas no mecánicas. -->
+  <Frame_ElectricSmithy.description>. ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺼﻟ ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻄﺤﻣ</Frame_ElectricSmithy.description>
+  
+  <!-- EN: cocina eléctrica (en construcción) -->
+  <Frame_ElectricStove.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺋﺎﺑﺮﻬﻛ ﺪﻗﻮﻣ</Frame_ElectricStove.label>
+  <!-- EN: Una cocina eléctrica con horno y encimera integrada para preparar alimentos. -->
+  <Frame_ElectricStove.description>. ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﻹ ﻞﻣﺎﻜﺘﻣ ﺢﻄﺳﻭ ﻥﺮﻔﺑ ﻲﺋﺎﺑﺮﻬﻛ ﺦﺒﻄﻣ</Frame_ElectricStove.description>
+  
+  <!-- EN: mesa de sastrería eléctrica (en construcción) -->
+  <Frame_ElectricTailoringBench.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻃﺎﻴﺧ ﺓﺪﻀﻨﻣ</Frame_ElectricTailoringBench.label>
+  <!-- EN: Una mesa de trabajo con una máquina de coser para confeccionar ropas rápidamente. Puede trabajar sin electricidad al 50% de la velocidad normal. -->
+  <Frame_ElectricTailoringBench.description>. ﺔﻳﺩﺎﻌﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻦﻣ ٪ 50 ﺔﺒﺴﻨﺑ ﺀﺎﺑﺮﻬﻛ ﻥﻭﺪﺑ ﻞﻤﻌﻟﺍ ﺎﻬﻨﻜﻤﻳ. ﺔﻋﺮﺴﺑ ﺲﺑﻼﻤﻟﺍ ﻊﻴﻨﺼﺘﻟ ﺔﻃﺎﻴﺧ ﺔﻟﺂﺑ ﺓﺩﻭﺰﻣ ﻞﻤﻋ ﺔﻟﻭﺎﻃ</Frame_ElectricTailoringBench.description>
+  
+  <!-- EN: mesilla de noche (en construcción) -->
+  <Frame_EndTable.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺔﻟﻭﺎﻃ</Frame_EndTable.label>
+  <!-- EN: Una pequeña mesa de noche que hace que las camas cercanas sean un poco más cómodas. Debe ser colocada directamente junto a la cabecera de la cama. Colocar más de una mesilla cerca de la misma cama no tendrá ningún efecto. -->
+  <Frame_EndTable.description>. ﺮﻴﺛﺄﺗ ﻱﺃ ﻰﻟﺇ ﺮﻳﺮﺴﻟﺍ ﺲﻔﻧ ﺐﻧﺎﺠﺑ ﺓﺪﺣﺍﻭ ﺔﻟﻭﺎﻃ ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ ﻱﺩﺆﻳ ﻻﻭ ،ﺮﻳﺮﺴﻟﺍ ﺱﺃﺭ ﺐﻧﺎﺠﺑ ًﺓﺮﺷﺎﺒﻣ ﺎﻬﻌﺿﻭ ﺐﺠﻳﻭ ،ﺀﻴﺸﻟﺍ ﺾﻌﺑ ًﺔﺣﺍﺭ ﺮﺜﻛﺃ ﺔﺒﻳﺮﻘﻟﺍ ﺓﺮﺳﻷﺍ ﻞﻌﺠﺗ ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺓﺮﻴﻐﺻ ﺔﻟﻭﺎﻃ</Frame_EndTable.description>
+  
+  <!-- EN: mesa de ensamblaje (en construcción) -->
+  <Frame_FabricationBench.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻊﻴﻤﺠﺗ ﺓﺪﻀﻨﻣ</Frame_FabricationBench.label>
+  <!-- EN: Una mesa de trabajo equipada con herramientas avanzadas para producir maravillas tecnológicas a partir de materiales más sencillos. -->
+  <Frame_FabricationBench.description>. ﻂﺴﺑﺃ ﺩﺍﻮﻣ ﻦﻣ ﺔﻴﻨﻘﺗ ﻊﺋﺍﻭﺭ ﺝﺎﺘﻧﻹ ﺓﺭﻮﻄﺘﻣ ﺕﺍﻭﺩﺄﺑ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_FabricationBench.description>
+  
+  <!-- EN: barril de fermentado (en construcción) -->
+  <Frame_FermentingBarrel.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻴﻤﺨﺗ ﻞﻴﻣﺮﺑ</Frame_FermentingBarrel.label>
+  <!-- EN: Un barril para fermentar el mosto en bruto y convertirlo en cerveza. -->
+  <Frame_FermentingBarrel.description>. ﺓﺮﻴﺑ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﺮﻴﺼﻌﻟﺍ ﺮﻴﻤﺨﺘﻟ ﻞﻴﻣﺮﺑ</Frame_FermentingBarrel.description>
+  
+  <!-- EN: lanzador de espuma cortafuegos (en construcción) -->
+  <Frame_FirefoamPopper.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﻑﺫﺎﻗ</Frame_FirefoamPopper.label>
+  <!-- EN: Cuando detecta un fuego, este dispositivo de seguridad revienta y llena de espuma cortafuegos una superficie circular a su alrededor. También puede activarse manualmente. -->
+  <Frame_FirefoamPopper.description>. ﺍًﻀﻳﺃ ﺍًﻳﻭﺪﻳ ﻪﻠﻴﻌﻔﺗ ﻦﻜﻤﻳﻭ ،ﻖﻳﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﺓﻮﻏﺮﺑ ﻪﻟﻮﺣ ﺔﻳﺮﺋﺍﺩ ﺔﻘﻄﻨﻣ ﻸﻤﻳﻭ ﻲﻨﻣﻷﺍ ﺯﺎﻬﺠﻟﺍ ﺍﺬﻫ ﺮﺠﻔﻨﻳ ،ﺍًﻘﻳﺮﺣ ﻒﺸﺘﻜﻳ ﺎﻣﺪﻨﻋ</Frame_FirefoamPopper.description>
+  
+  <!-- EN: baldosa de piedra de granito (en construcción) -->
+  <Frame_FlagstoneGranite.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺖﻴﻧﺍﺮﺟ ﺔﻃﻼﺑ</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: baldosa de piedra caliza (en construcción) -->
+  <Frame_FlagstoneLimestone.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻱﺮﻴﺟ ﺮﺠﺣ ﺔﻃﻼﺑ</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: baldosa de piedra de mármol (en construcción) -->
+  <Frame_FlagstoneMarble.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﺎﺧﺭ ﺔﻃﻼﺑ</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: baldosa de piedra arenisca (en construcción) -->
+  <Frame_FlagstoneSandstone.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻠﻣﺭ ﺮﺠﺣ ﺔﻃﻼﺑ</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: baldosa de piedra pizarra (en construcción) -->
+  <Frame_FlagstoneSlate.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺯﺍﻭﺩﺭﺃ ﻁﻼﺑ</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: televisión de pantalla plana (en construcción) -->
+  <Frame_FlatscreenTelevision.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﻥﻮﻳﺰﻔﻠﺗ</Frame_FlatscreenTelevision.label>
+  <!-- EN: Un televisor de pantalla plana de alta tecnología con una imagen nítida y un color intenso. Capta transmisiones de satélites antiguos y tarjetas de datos ubícuas. -->
+  <Frame_FlatscreenTelevision.description>. ﺓﺮﺸﺘﻨﻤﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺕﺎﻗﺎﻄﺑﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﻦﻣ ﺍًﻗﻮﺜﺑ ﻞﺒﻘﺘﺴﺗ ،ﺔﻴﻫﺍﺯ ﻥﺍﻮﻟﺃﻭ ﺔﺤﺿﺍﻭ ﺓﺭﻮﺻ ﺕﺍﺫ ﺓﺭﻮﻄﺘﻣ ﺔﺤﻄﺴﻣ ﻥﻮﻳﺰﻔﻠﺗ ﺔﺷﺎﺷ</Frame_FlatscreenTelevision.description>
+  
+  <!-- EN: forja de leña (en construcción) -->
+  <Frame_FueledSmithy.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺓﺩﺍﺪﺣ ﺔﺷﺭﻭ</Frame_FueledSmithy.label>
+  <!-- EN: Una estación alimentada por quema de madera para forjar armas y herramientas no mecánicas. -->
+  <Frame_FueledSmithy.description>. ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺼﻟ ﺐﺸﺨﻟﺍ ﻕﺮﺤﺑ ﻞﻤﻌﺗ ﺔﻄﺤﻣ</Frame_FueledSmithy.description>
+  
+  <!-- EN: cocina de leña (en construcción) -->
+  <Frame_FueledStove.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺐﻄﺣ ﺪﻗﻮﻣ</Frame_FueledStove.label>
+  <!-- EN: Un horno y unas parrilas, alimentados por madera, para preparar alimentos. -->
+  <Frame_FueledStove.description>. ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﻹ ،ﺐﻄﺤﻟﺎﺑ ﻞﻤﻌﺗ ،ﺕﺎﻳﺍﻮﺷﻭ ﻥﺮﻓ</Frame_FueledStove.description>
+  
+  <!-- EN: tablero de juego de Ur (en construcción) -->
+  <Frame_GameOfUrBoard.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺭﻭﺃ ﺐﻌﻟ ﺔﺣﻮﻟ</Frame_GameOfUrBoard.label>
+  <!-- EN: Fechado en el año 2500 a.C., este emocionante aunque exasperante juego de mesa puede ser jugado por una o dos personas. Permite entrenar la habilidad intelectual. -->
+  <Frame_GameOfUrBoard.description>. ﺔﻳﺮﻜﻔﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺐﻳﺭﺪﺘﺑ ﺢﻤﺴﺗﻭ ،ﻦﻴﺼﺨﺷ ﻭﺃ ﺺﺨﺷ ﺔﻄﺳﺍﻮﺑ ﺎﻬﺒﻌﻟ ﻦﻜﻤﻳ ﺔﻄﺒﺣُﻣ ﺖﻧﺎﻛ ﻥﺇﻭ ﺔﺠﻬﺒﻤﻟﺍ ﺔﻴﺣﻮﻠﻟﺍ ﺔﺒﻌﻠﻟﺍ ﻩﺬﻫ ،ﺩﻼﻴﻤﻟﺍ ﻞﺒﻗ 2500 ﻡﺎﻌﻟﺍ ﻲﻓ ﺞﺘﻧُﺃ</Frame_GameOfUrBoard.description>
+  
+  <!-- EN: generador geotérmico (en construcción) -->
+  <Frame_GeothermalGenerator.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺿﺭﺃ ﻱﺭﺍﺮﺣ ﺪﻟﻮﻣ</Frame_GeothermalGenerator.label>
+  <!-- EN: Produce electricidad mediante géiseres de vapor. Debe ser construido sobre un géiser de vápor. -->
+  <Frame_GeothermalGenerator.description>. ﺭﺎﺨﺑ ﻉﻮﺒﻨﻳ ﻕﻮﻓ ﻩﺅﺎﻨﺑ ﺐﺠﻳ. ﺭﺎﺨﺒﻟﺍ ﻊﻴﺑﺎﻨﻳ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺞﺘﻨﻳ</Frame_GeothermalGenerator.description>
+  
+  <!-- EN: baldosa de oro (en construcción) -->
+  <Frame_GoldTile.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺒﻫﺫ ﻁﻼﺑ</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_GoldTile.description>
+  
+  <!-- EN: tumba (en construcción) -->
+  <Frame_Grave.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﺒﻗ</Frame_Grave.label>
+  <!-- EN: Un lugar decente para descansar en paz. Los colonos visitarán las tumbas ocupadas para divertirse a través de la meditación. -->
+  <Frame_Grave.description>. ﻞﻣﺄﺘﻟﺍ ﻝﻼﺧ ﻦﻣ ﻉﺎﺘﻤﺘﺳﻼﻟ ﺔﻟﻮﻐﺸﻤﻟﺍ ﺭﻮﺒﻘﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﻭﺰﻴﺳ. ﻡﻼﺴﺑ ﺔﺣﺍﺮﻠﻟ ﻖﺋﻻ ﻥﺎﻜﻣ</Frame_Grave.description>
+  
+  <!-- EN: escáner de profundidad (en construcción) -->
+  <Frame_GroundPenetratingScanner.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻖﻤﻌﻟﺍ ﺢﺳﺎﻣ</Frame_GroundPenetratingScanner.label>
+  <!-- EN: Un radar dirigido a las profundidades de la tierra, equipado con sonar y un sensor de imágenes magnético. Permite detectar (aunque no identificar) vetas minerales escondidas bajo tierra. Requiere muchísima energía. -->
+  <Frame_GroundPenetratingScanner.description>. ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻫ ﺔﻴﻤﻛ ﺐﻠﻄﺘﻳ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻴﻔﺨﻤﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻕﻭﺮﻋ) ﺪﻳﺪﺤﺗ ﺲﻴﻟﻭ (ﻑﺎﺸﺘﻛﺎﺑ ﺢﻤﺴﻳ. ﻲﺴﻴﻃﺎﻨﻐﻣ ﺮﻳﻮﺼﺗ ﺮﻌﺸﺘﺴﻣﻭ ﺭﺎﻧﻮﺴﺑ ﺩﻭﺰﻣ ،ﺽﺭﻷﺍ ﻕﺎﻤﻋﺃ ﻮﺤﻧ ﻪﺟﻮﻣ ﺭﺍﺩﺍﺭ</Frame_GroundPenetratingScanner.description>
+  
+  <!-- EN: mesa de sastrería (en construcción) -->
+  <Frame_HandTailoringBench.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻃﺎﻴﺧ ﺔﻟﻭﺎﻃ</Frame_HandTailoringBench.label>
+  <!-- EN: Una mesa de trabajo para confeccionar ropa a mano. Trabaja al 50% de la velocidad que la mesa eléctrica. -->
+  <Frame_HandTailoringBench.description>. ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﺪﻀﻨﻤﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ٪ ٥٠ ﺔﺒﺴﻨﺑ ﻞﻤﻌﺗ. ﺲﺑﻼﻤﻟﺍ ﻞﻴﺼﻔﺘﻟ ﺔﻳﻭﺪﻳ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_HandTailoringBench.description>
+  
+  <!-- EN: calefactor (en construcción) -->
+  <Frame_Heater.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺓﺄﻓﺪﻣ</Frame_Heater.label>
+  <!-- EN: Un dispositivo que convierte la electricidad en calor. Puede apagarse o encenderse automáticamente cuando se alcance la temperatura deseada. -->
+  <Frame_Heater.description>. ﺔﺑﻮﻠﻄﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻨﻋ ﺍًﻴﺋﺎﻘﻠﺗ ﻪﻠﻴﻐﺸﺗ ﻭﺃ ﻪﻓﺎﻘﻳﺇ ﻦﻜﻤﻳﻭ ،ﺓﺭﺍﺮﺣ ﻰﻟﺇ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻝﻮﺤﻳ ﺯﺎﻬﺟ</Frame_Heater.description>
+  
+  <!-- EN: mesa de investigación avanzada (en construcción) -->
+  <Frame_HiTechResearchBench.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﺪﻘﺘﻣ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</Frame_HiTechResearchBench.label>
+  <!-- EN: Una mesa de trabajo de alta tecnología con ordenadores y equipo de medición electrónico. Permite una investigación más rápida, y desbloquea proyectos de investigación avanzados. -->
+  <Frame_HiTechResearchBench.description>. ﺔﻣﺪﻘﺘﻣ ﺔﻴﺜﺤﺑ ﻊﻳﺭﺎﺸﻣ ﺢﺘﻔﺗﻭ ،ﻉﺮﺳﺃ ﺙﺎﺤﺑﺃ ﺀﺍﺮﺟﺈﺑ ﺢﻤﺴﺗ. ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺱﺎﻴﻗ ﺕﺍﺪﻌﻣﻭ ﺮﺗﻮﻴﺒﻤﻛ ﺓﺰﻬﺟﺄﺑ ﺓﺩﻭﺰﻣ ﺓﺭﻮﻄﺘﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_HiTechResearchBench.description>
+  
+  <!-- EN: vara de tiro al aro (en construcción) -->
+  <Frame_HoopstoneRing.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻑﺪﻬﻟﺍ ﺐﻳﻮﺼﺗ ﺱﻮﻗ</Frame_HoopstoneRing.label>
+  <!-- EN: Un simple y antiguo juego consistente en unas pocas piedras y gran anillo en el suelo. Los jugadores lanzan las piedras desde una distancia e intentan que caigan dentro del aro. Es relajante, y permite entrenar la habilidad de disparo. -->
+  <Frame_HoopstoneRing.description>. ﺐﻳﻮﺼﺘﻟﺍ ﺓﺭﺎﻬﻣ ﺐﻳﺭﺪﺘﺑ ﺢﻤﺴﺗﻭ ،ﺔﺤﻳﺮﻣ ﺎﻬﻧﺇ. ﺔﻘﻠﺤﻟﺍ ﻞﺧﺍﺩ ﺎﻬﻃﺎﻘﺳﺇ ﻥﻮﻟﻭﺎﺤﻳﻭ ﺔﻓﺎﺴﻣ ﻦﻣ ﺓﺭﺎﺠﺤﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ ﻲﻣﺮﻳ. ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺮﻴﺒﻛ ﺔﻘﻠﺣﻭ ﺓﺭﺎﺠﺤﻟﺍ ﻦﻣ ﻞﻴﻠﻗ ﺩﺪﻋ ﻦﻣ ﻥﻮﻜﺘﺗ ﺔﻤﻳﺪﻗﻭ ﺔﻄﻴﺴﺑ ﺔﺒﻌﻟ</Frame_HoopstoneRing.description>
+  
+  <!-- EN: tolva (en construcción) -->
+  <Frame_Hopper.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺎﻔﻟﻮﺗ</Frame_Hopper.label>
+  <!-- EN: Contiene las materias primas listas para su uso en máquinas como los dispensadores de pasta nutritiva. -->
+  <Frame_Hopper.description>. ﺔﻳﺬﻐﻤﻟﺍ ﺔﻨﻴﺠﻌﻟﺍ ﺕﺎﻋﺯﻮﻣ ﻞﺜﻣ ﺕﻻﻵﺍ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺓﺰﻫﺎﺠﻟﺍ ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</Frame_Hopper.description>
+  
+  <!-- EN: vara para herraduras (en construcción) -->
+  <Frame_HorseshoesPin.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﺩﻮﻤﻋ</Frame_HorseshoesPin.label>
+  <!-- EN: Un simple juego antiguo consistente en unas herraduras y un palo largo clavado en el suelo. Los jugadores lanzan las herraduras desde lejos e intentan que aterricen en el palo. Es relajante, y permite entrenar la habilidad de disparo. -->
+  <Frame_HorseshoesPin.description>. ﺐﻳﻮﺼﺘﻟﺍ ﺓﺭﺎﻬﻣ ﺐﻳﺭﺪﺘﺑ ﺢﻤﺴﺗﻭ ،ﺔﺤﻳﺮﻣ ﺎﻬﻧﺇ. ﺎﺼﻌﻟﺍ ﻰﻠﻋ ﻂﺒﻬﺗ ﺎﻬﻠﻌﺟ ﻥﻮﻟﻭﺎﺤﻳﻭ ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺕﺍﻭﺪﺤﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ ﻲﻣﺮﻳ. ﺽﺭﻷﺍ ﻲﻓ ﺔﺳﻭﺮﻐﻣ ﺔﻠﻳﻮﻃ ﺎﺼﻋﻭ ﻞﻴﺧ ﺕﺍﻭﺪﺣ ﻦﻣ ﻥﻮﻜﺘﺗ ﺔﻤﻳﺪﻗ ﺔﻄﻴﺴﺑ ﺔﺒﻌﻟ</Frame_HorseshoesPin.description>
+  
+  <!-- EN: cama hospitalaria (en construcción) -->
+  <Frame_HospitalBed.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻰﻔﺸﺘﺴﻣ ﺮﻳﺮﺳ</Frame_HospitalBed.label>
+  <!-- EN: Una cama designada específicamente para su uso en hospitales. Se ajusta al paciente y dispone de equipamiento adecuado, mejorando las posibilidades de un tratamiento médico exitoso. -->
+  <Frame_HospitalBed.description>. ﺢﺟﺎﻨﻟﺍ ﻲﺒﻄﻟﺍ ﺝﻼﻌﻟﺍ ﺹﺮﻓ ﻦﺴﺤﻳ ﺎﻤﻣ ،ﺔﺒﺳﺎﻨﻤﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﺮﻓﻮﻳﻭ ﺾﻳﺮﻤﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻳﻭ ،ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺍًﺼﻴﺼﺧ ﻢﻤﺼﻣ ﺮﻳﺮﺳ</Frame_HospitalBed.description>
+  
+  <!-- EN: contenedor hidropónico (en construcción) -->
+  <Frame_HydroponicsBasin.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺋﺎﻣ ﺔﻳﻭﺎﺣ</Frame_HydroponicsBasin.label>
+  <!-- EN: Un baño de nutrientes artificiales para el crecimiento vegetal. El bombeo de nutrientes debe funcionar continuamente; las plantas morirán si se corta la energía. -->
+  <Frame_HydroponicsBasin.description>. ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﺭﺎﻴﺘﻟﺍ ﻊﻄﻘﻧﺍ ﺍﺫﺇ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻞﺑﺬﺘﺴﻓ ؛ﺭﺍﺮﻤﺘﺳﺎﺑ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺦﺿ ﻞﻤﻌﻳ ﻥﺃ ﺐﺠﻳ. ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺮﺻﺎﻨﻌﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻡﺎﻤﺣ</Frame_HydroponicsBasin.description>
+  
+  <!-- EN: escáner de minerales de largo alcance (en construcción) -->
+  <Frame_LongRangeMineralScanner.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻣ ﺢﺳﺎﻣ</Frame_LongRangeMineralScanner.label>
+  <!-- EN: Puede ser utilizado por los investigadores para detectar un tipo específico de mineral en todo el planeta. El tiempo requerido para encontrar el recurso es algo aleatorio, y depende de la habilidad del investigador. -->
+  <Frame_LongRangeMineralScanner.description>. ﺚﺣﺎﺒﻟﺍ ﺓﺭﺎﻬﻣ ﻰﻠﻋ ﺪﻤﺘﻌﻳﻭ ،ﺎﻣ ﺪﺣ ﻰﻟﺇ ﻲﺋﺍﻮﺸﻋ ﺩﺭﻮﻤﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻠﻟ ﺏﻮﻠﻄﻤﻟﺍ ﺖﻗﻮﻟﺍ. ﺐﻛﻮﻜﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻧ ﻦﻋ ﻒﺸﻜﻠﻟ ﻦﻴﺜﺣﺎﺒﻟﺍ ﻞﺒﻗ ﻦﻣ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ</Frame_LongRangeMineralScanner.description>
+  
+  <!-- EN: altar matrimonial (en construcción) -->
+  <Frame_MarriageSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺝﺍﻭﺯ ﺢﺑﺬﻣ</Frame_MarriageSpot.label>
+  <!-- EN: Designa un lugar donde las ceremonias de matrimonio se llevarán a cabo. El público observará desde todos lados. -->
+  <Frame_MarriageSpot.description>. ﺕﺎﻬﺠﻟﺍ ﻞﻛ ﻦﻣ ﺭﻮﻬﻤﺠﻟﺍ ﺐﻗﺍﺮﻴﺳﻭ ،ﺝﺍﻭﺰﻟﺍ ﺕﻻﺎﻔﺘﺣﺍ ﺔﻣﺎﻗﻹ ٌﻥﺎﻜﻣ ﻡِّﻣُﺻ</Frame_MarriageSpot.description>
+  
+  <!-- EN: baldosa metálicas (en construcción) -->
+  <Frame_MetalTile.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻧﺪﻌﻣ ﻁﻼﺑ</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_MetalTile.description>
+  
+  <!-- EN: bomba de humedad (en construcción) -->
+  <Frame_MoisturePump.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﺑﻮﻃﺭ ﺔﺨﻀﻣ</Frame_MoisturePump.label>
+  <!-- EN: Suprime muy lentamente la humedad del terreno cercano, convirtiendo ciénagas y aguas poco profundas en suelo seco, y la arena blanda en arena normal. No afecta a aguas profundas. -->
+  <Frame_MoisturePump.description>. ﺔﻘﻴﻤﻌﻟﺍ ﻩﺎﻴﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ. ﻱﺩﺎﻋ ﻞﻣﺭ ﻰﻟﺇ ﻢﻋﺎﻨﻟﺍ ﻞﻣﺮﻟﺍﻭ ،ﺔﻓﺎﺟ ﺽﺭﺃ ﻰﻟﺇ ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍﻭ ﺕﺎﻌﻘﻨﺘﺴﻤﻟﺍ ﺍًﻟﻮﺤﻣ ،ﺔﺒﻳﺮﻘﻟﺍ ﺽﺭﻷﺍ ﺔﺑﻮﻃﺭ ﻦﻣ ﺀﻄﺒﺑ ﻞﻠﻘﻳ</Frame_MoisturePump.description>
+  
+  <!-- EN: multi-analizador (en construcción) -->
+  <Frame_MultiAnalyzer.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ</Frame_MultiAnalyzer.label>
+  <!-- EN: Aumenta la velocidad de la investigación al colocacarse al lado de una mesa de la investigación, y desbloquea nuevos proyectos de investigación. Cada mesa de investigación solo puede beneficiarse de un multi-analizador. -->
+  <Frame_MultiAnalyzer.description>. ﻂﻘﻓ ﺪﺣﺍﻭ ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ ﻦﻣ ﺓﺩﺎﻔﺘﺳﻻﺍ ﺚﺤﺑ ﺔﻟﻭﺎﻃ ﻞﻜﻟ ﻦﻜﻤﻳ. ﺓﺪﻳﺪﺟ ﺚﺤﺑ ﻊﻳﺭﺎﺸﻣ ﺢﺘﻔﻳﻭ ،ﺚﺤﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺐﻧﺎﺠﺑ ﻪﻌﺿﻭ ﺪﻨﻋ ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺪﻳﺰﻳ</Frame_MultiAnalyzer.description>
+  
+  <!-- EN: dispensador de pasta nutritiva (en construcción) -->
+  <Frame_NutrientPasteDispenser.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻉﺯﻮﻣ</Frame_NutrientPasteDispenser.label>
+  <!-- EN: Una máquina que sintetiza una pasta nutritiva potable a partir de materias primas orgánicas en tolvas adyacentes. Consume menos ingredientes y tiempo que cualquier otro método de producción de comidas, pero a nadie le gusta comer pasta nutritiva. Acepta comida cruda, pero no materia vegetal como el heno. -->
+  <Frame_NutrientPasteDispenser.description>. ﺶﻘﻟﺍ ﻞﺜﻣ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺩﺎﻤﻟﺍ ﻞﺒﻘﺗ ﻻ ﻦﻜﻟﻭ ،ﺀﻴﻨﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻞﺒﻘﺗ. ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻝﻭﺎﻨﺗ ﺐﺤﻳ ﺪﺣﺃ ﻻ ﻦﻜﻟ ،ﻡﺎﻌﻄﻟﺍ ﺝﺎﺘﻧﻹ ﻯﺮﺧﺃ ﺔﻘﻳﺮﻃ ﻱﺃ ﻦﻣ ﻞﻗﺃ ﺍًﺘﻗﻭﻭ ﺕﺎﻧﻮﻜﻣ ﻚﻠﻬﺘﺴﺗ. ﺓﺭﻭﺎﺠﻣ ﺕﺎﻌﻤﻗ ﻲﻓ ﺔﻳﻮﻀﻋ ﻡﺎﺧ ﺩﺍﻮﻣ ﻦﻣ ﺏﺮﺸﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻊﻨﺼﺗ ﺔﻟﺁ</Frame_NutrientPasteDispenser.description>
+  
+  <!-- EN: baliza de comercio orbital (en construcción) -->
+  <Frame_OrbitalTradeBeacon.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ</Frame_OrbitalTradeBeacon.label>
+  <!-- EN: Necesaria para el comercio orbital. Solo puedes vender bienes que estan cerca de una baliza de comercio orbital. Puede situarse en interiores. -->
+  <Frame_OrbitalTradeBeacon.description>. ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ. ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﻦﻣ ﺔﺒﻳﺮﻘﻟﺍ ﻂﻘﻓ ﻊﺋﺎﻀﺒﻟﺍ ﻊﻴﺑ ﻚﻨﻜﻤﻳ. ﺔﻳﺭﺍﺪﻤﻟﺍ ﺓﺭﺎﺠﺘﻠﻟ ﺔﻳﺭﻭﺮﺿ</Frame_OrbitalTradeBeacon.description>
+  
+  <!-- EN: punto de fiestas (en construcción) -->
+  <Frame_PartySpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺕﻻﺎﻔﺘﺣﺍ ﺔﻄﻘﻧ</Frame_PartySpot.label>
+  <!-- EN: Designa un lugar alrededor del cual se celebrarán las fiestas. -->
+  <Frame_PartySpot.description>. ﺕﻻﺎﻔﺘﺣﻻﺍ ﻪﻴﻓ ﻡﺎﻗُﺗ ﺍًﻌﻗﻮﻣ ﻥّﻴﻋ</Frame_PartySpot.description>
+  
+  <!-- EN: refrigerador pasivo (en construcción) -->
+  <Frame_PassiveCooler.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺒﻠﺳ ﺩﺮﺒﻣ</Frame_PassiveCooler.label>
+  <!-- EN: Un refrigerador tradicional sin uso de energía, que funciona por evaporación de agua. Debe reabastecerse con madera regularmente. No es lo bastante eficiente para refrigerar los alimentos. -->
+  <Frame_PassiveCooler.description>. ﻡﺎﻌﻄﻟﺍ ﺪﻳﺮﺒﺘﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻟﺎﻌﻓ ﺖﺴﻴﻟﻭ ،ﻢﻈﺘﻨﻣ ﻞﻜﺸﺑ ﺐﺸﺨﻟﺎﺑ ﺎﻬﺘﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﺐﻠﻄﺘﻳﻭ ،ﻲﺋﺎﻤﻟﺍ ﺮﻴﺨﺒﺘﻟﺎﺑ ﻞﻤﻌﺗ ،ﺔﻗﺎﻄﻟﺍ ﻡﺪﺨﺘﺴﺗ ﻻ ﺔﻳﺪﻴﻠﻘﺗ ﺔﺟﻼﺛ</Frame_PassiveCooler.description>
+  
+  <!-- EN: baldosa de cemento (en construcción) -->
+  <Frame_PavedTile.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺘﻨﻤﺳﺃ ﺔﻃﻼﺑ</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_PavedTile.description>
+  
+  <!-- EN: maceta (en construcción) -->
+  <Frame_PlantPot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺀﺎﻋﻭ</Frame_PlantPot.label>
+  <!-- EN: Planta flores decorativas aquí para mejorar el humor de los colonos que se encuentren cerca. -->
+  <Frame_PlantPot.description>. ﻦﻴﺒﻳﺮﻘﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ ﻦﻴﺴﺤﺘﻟ ﺎﻨﻫ ﺔﻨﻳﺰﻟﺍ ﺕﺎﺗﺎﺒﻧ ﻉﺭﺯﺍ</Frame_PlantPot.description>
+  
+  <!-- EN: lanzadera de cápsulas (en construcción) -->
+  <Frame_PodLauncher.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺕﻻﻮﺴﺒﻛ ﺔﻓﺫﺎﻗ</Frame_PodLauncher.label>
+  <!-- EN: Un puerto para el abastecimiento y despegue de una cápsula de transporte. Las lanzaderas pueden lanzar las cápsulas como un grupo, pero para ello deben ser construidas adyacentes entre sí. -->
+  <Frame_PodLauncher.description>. ﻚﻟﺫ ﻖﻴﻘﺤﺘﻟ ﺓﺭﻭﺎﺠﺘﻣ ﺎﻫﺅﺎﻨﺑ ﺐﺠﻳ ﻦﻜﻟﻭ ،ﺔﻋﻮﻤﺠﻤﻛ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻕﻼﻃﺇ ﻙﻮﻜﻤﻠﻟ ﻦﻜﻤﻳ. ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻕﻼﻃﺇﻭ ﺪﻳﻭﺰﺘﻟ ﺔﺼﻨﻣ</Frame_PodLauncher.description>
+  
+  <!-- EN: mesa de póker (en construcción) -->
+  <Frame_PokerTable.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻛﻮﺑ ﺔﻟﻭﺎﻃ</Frame_PokerTable.label>
+  <!-- EN: Una mesa diseñada para juegos de cartas como el póker. Una gran manera de probar tus habilidades estratégicas y algo de suerte. -->
+  <Frame_PokerTable.description>. ﻆﺤﻟﺍ ﻦﻣ ﻞﻴﻠﻗﻭ ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻚﺗﺍﺭﺎﻬﻣ ﺭﺎﺒﺘﺧﻻ ﺔﻌﺋﺍﺭ ﺔﻘﻳﺮﻃ ﻲﻫﻭ ،ﺮﻛﻮﺒﻟﺍ ﻞﺜﻣ ﻕﺭﻮﻟﺍ ﺏﺎﻌﻟﻷ ﺔﻤﻤﺼﻣ ﺔﻟﻭﺎﻃ</Frame_PokerTable.description>
+  
+  <!-- EN: conducto eléctrico (en construcción) -->
+  <Frame_PowerConduit.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</Frame_PowerConduit.label>
+  <!-- EN: Un conjunto de cables eléctricos que llevan energía. Se puede colocar debajo de paredes y otros edificios. -->
+  <Frame_PowerConduit.description>. ﻯﺮﺧﻷﺍ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﺖﺤﺗ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ. ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﺗ ﻲﺘﻟﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺕﻼﺑﺎﻜﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ</Frame_PowerConduit.description>
+  
+  <!-- EN: interruptor (en construcción) -->
+  <Frame_PowerSwitch.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻉِّﻃَﻗُﻣ</Frame_PowerSwitch.label>
+  <!-- EN: Permite encender o apagar la electricidad. -->
+  <Frame_PowerSwitch.description>. ﺀﺎﺑﺮﻬﻜﻟﺍ ﻑﺎﻘﻳﺇ ﻭﺃ ﻞﻴﻐﺸﺘﺑ ﺢﻤﺴﻳ</Frame_PowerSwitch.description>
+  
+  <!-- EN: cama real (en construcción) -->
+  <Frame_RoyalBed.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﺧﺎﻓ ﺮﻳﺮﺳ</Frame_RoyalBed.label>
+  <!-- EN: Una lujosa cama con acabados de oro, digna de la nobleza. Muy cómoda y hermosa, es una obra de arte en sí misma. Espacio para dos. -->
+  <Frame_RoyalBed.description>. ﻦﻴﺼﺨﺸﻟ ﻊﺴﺘﻳ. ﻪﺗﺍﺫ ﺪﺤﺑ ﺔﻴﻨﻓ ﺔﻔﺤﺗ ﻪﻧﺇ ،ﺔﻳﺎﻐﻠﻟ ﻞﻴﻤﺟﻭ ﺢﻳﺮﻣ. ﺀﻼﺒﻨﻟﺎﺑ ﻖﻴﻠﻳ ،ﺔﻴﺒﻫﺫ ﺕﺎﺴﻤﻠﺑ ﺮﺧﺎﻓ ﺮﻳﺮﺳ</Frame_RoyalBed.description>
+  
+  <!-- EN: sacos de arena (en construcción) -->
+  <Frame_Sandbags.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻞﻣﺭ ﺱﺎﻴﻛﺃ</Frame_Sandbags.label>
+  <!-- EN: Sacos de tierra o arena, apilados para usarse como cobertura. Los sacos de arena son feos, pero proporcionan mejor cobertura que otros objetos más bajos. -->
+  <Frame_Sandbags.description>. ﺍًﻋﺎﻔﺗﺭﺍ ﻞﻗﻷﺍ ﻯﺮﺧﻷﺍ ﺀﺎﻴﺷﻷﺍ ﻦﻣ ﻞﻀﻓﺃ ًﺀﺎﻄﻏ ﺮﻓﻮﺗ ﺎﻬﻨﻜﻟ ،ﺔﺤﻴﺒﻗ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ. ٍﻕﺍﻭ ﺀﺎﻄﻐﻛ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﺳﺪﻜﻣ ،ﻞﻣﺮﻟﺍ ﻭﺃ ﺏﺍﺮﺘﻟﺍ ﻦﻣ ﺱﺎﻴﻛﺃ</Frame_Sandbags.description>
+  
+  <!-- EN: sarcófago (en construcción) -->
+  <Frame_Sarcophagus.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺕﻮﺑﺎﺗ</Frame_Sarcophagus.label>
+  <!-- EN: Un lugar de descanso final bellamente decorado para los muertos honrados dignos de ello. -->
+  <Frame_Sarcophagus.description>. ﻪﻧﻮﻘﺤﺘﺴﻳ ﻦﻳﺬﻟﺍ ﻦﻴﻣﺮﻜﻤﻟﺍ ﺕﺍﻮﻣﻸﻟ ﻞﻴﻤﺟ ﻞﻜﺸﺑ ﻦﻳﺰﻣ ﻲﺋﺎﻬﻧ ﺔﺣﺍﺭ ﻥﺎﻜﻣ</Frame_Sarcophagus.description>
+  
+  <!-- EN: estantería (en construcción) -->
+  <Frame_Shelf.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻑﺭ</Frame_Shelf.label>
+  <!-- EN: Una estantería que puede contener tres veces más objetos que el suelo vacío. Los objetos almacenados en su interior nunca se deteriorarán y no afectarán a la belleza del entorno.\n\nDado que el espacio en los estantes es limitado, no pueden contener fragmentos, edificios, plantas y cadáveres grandes. -->
+  <Frame_Shelf.description>. ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻦﻟﻭ ﺍًﺪﺑﺃ ﺭﻮﻫﺪﺘﺗ ﻦﻟ ﻪﻠﺧﺍﺪﺑ ﺔﻧﺰﺨﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ. ﺔﻏﺭﺎﻔﻟﺍ ﺽﺭﻷﺍ ﺎﻬﺒﻋﻮﺘﺴﻳ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﺏﺎﻌﻴﺘﺳﺍ ﻪﻨﻜﻤﻳ ﻑﺭ\n\n. ﺓﺮﻴﺒﻛ ﺚﺜﺟ ﻭﺃ ﺕﺎﺗﺎﺒﻧ ﻭﺃ ٍﻥﺎﺒﻣ ﻭﺃ ﺎﻳﺎﻈﺷ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﻪﻧﺈﻓ ،ﻑﻮﻓﺮﻟﺍ ﻰﻠﻋ ﺔﺣﺎﺴﻤﻟﺍ ﺔﻳﺩﻭﺪﺤﻤﻟ ﺍًﺮﻈﻧ</Frame_Shelf.description>
+  
+  <!-- EN: viga estructural de nave (en construcción) -->
+  <Frame_Ship_Beam.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻨﻴﻔﺴﻠﻟ ﺔﻴﻠﻜﻴﻫ ﺔﻣﺎﻋﺩ</Frame_Ship_Beam.label>
+  <!-- EN: Una viga estructural alrededor de la cual se puede contruir una nave espacial. Incluye todos los conductos y díodos de tránsito necesarios para comunicación, energía y transporte de materiales. -->
+  <Frame_Ship_Beam.description>. ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧﻭ ﺔﻗﺎﻄﻟﺍﻭ ﺕﻻﺎﺼﺗﻼﻟ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺋﺎﻨﺜﻟﺍ ﺕﺎﻣﺎﻤﺼﻟﺍﻭ ﺕﺍﻮﻨﻘﻟﺍ ﻊﻴﻤﺟ ﻞﻤﺸﻳﻭ ،ﺔﻴﺋﺎﻀﻓ ﺔﺒﻛﺮﻣ ﻪﻟﻮﺣ ﺀﺎﻨﺒﻟﺍ ﻦﻜﻤﻳ ﻲﻠﻜﻴﻫ ﺩﻮﻤﻋ</Frame_Ship_Beam.description>
+  
+  <!-- EN: ordenador central de nave (en construcción) -->
+  <Frame_Ship_ComputerCore.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻨﻴﻔﺴﻠﻟ ﻱﺰﻛﺮﻣ ﺯﺎﻬﺟ</Frame_Ship_ComputerCore.label>
+  <!-- EN: El núcleo de un ordenador capaz de albergar una IA de inteligencia sobrehumana que podrá guiar a la nave por el espacio estelar durante décadas, a pesar de cualquier dificultad. -->
+  <Frame_Ship_ComputerCore.description>. ﺕﺎﺑﻮﻌﺻ ﻱﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺩﻮﻘﻌﻟ ﻲﻤﺠﻨﻟﺍ ﺀﺎﻀﻔﻟﺍ ﺮﺒﻋ ﺔﻨﻴﻔﺴﻟﺍ ﻪﻴﺟﻮﺗ ﻪﻨﻜﻤﻳ ﻖﺋﺎﻓ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺫ ﺔﻓﺎﻀﺘﺳﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻘﻟﺍ ﺔﻴﺑﻮﺳﺎﺤﻟﺍ ﺓﺍﻮﻨﻟﺍ</Frame_Ship_ComputerCore.description>
+  
+  <!-- EN: sarcófago de criptosueño de nave (en construcción) -->
+  <Frame_Ship_CryptosleepCasket.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻨﻴﻔﺳ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Frame_Ship_CryptosleepCasket.label>
+  <!-- EN: Un sarcófago de criptosueño reforzado contra los peligros del espacio. Capaz de mantener a una persona en criptosueño durante siglos y capaz de sobrevivir una reentrada atmosférica. -->
+  <Frame_Ship_CryptosleepCasket.description>. ﻱﻮﺠﻟﺍ ﻝﻮﺧﺪﻟﺍ ﻦﻣ ﺓﺎﺠﻨﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗﻭ ﻥﻭﺮﻘﻟ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﻲﻓ ﺺﺨﺷ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ. ﺀﺎﻀﻔﻟﺍ ﺭﺎﻄﺧﺃ ﺪﺿ ﺯﺰﻌﻣ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Frame_Ship_CryptosleepCasket.description>
+  
+  <!-- EN: motor de nave (en construcción) -->
+  <Frame_Ship_Engine.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻨﻴﻔﺳ ﻙﺮﺤﻣ</Frame_Ship_Engine.label>
+  <!-- EN: Un motor de propulsión Johnson-Tanaka sin reacción capaz de poner a una nave en órbita y en vastas trayectorias insterestelares. -->
+  <Frame_Ship_Engine.description>. ﺔﻌﺳﺍﻭ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺕﺍﺭﺎﺴﻣﻭ ﺭﺍﺪﻣ ﻲﻓ ﺔﺒﻛﺮﻣ ﻊﺿﻭ ﻰﻠﻋ ﺭﺩﺎﻗ ﺩﺍﺪﺗﺭﺍ ﻥﻭﺪﺑ ﺎﻛﺎﻧﺎﺗ- ﻥﻮﺴﻧﻮﺟ ﻊﻓﺩ ﻙﺮﺤﻣ</Frame_Ship_Engine.description>
+  
+  <!-- EN: reactor de nave (en construcción) -->
+  <Frame_Ship_Reactor.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻨﻴﻔﺳ ﻞﻋﺎﻔﻣ</Frame_Ship_Reactor.label>
+  <!-- EN: Abastece una nave durante su viaje entre las estrellas. El despegue requiere un largo proceso de encendido que probablemente atraerá a saqueadores. -->
+  <Frame_Ship_Reactor.description>. ﺓﺍﺰﻐﻟﺍ ﺏﺬﺠﺗ ﻥﺃ ﺢﺟﺮﻤﻟﺍ ﻦﻣ ﺔﻠﻳﻮﻃ ﻝﺎﻌﺷﺇ ﺔﻴﻠﻤﻋ ﻉﻼﻗﻹﺍ ﺐﻠﻄﺘﻳ. ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺎﻬﺘﻠﺣﺭ ﻝﻼﺧ ﺔﻨﻴﻔﺳ ﺩﻭﺰﻳ</Frame_Ship_Reactor.description>
+  
+  <!-- EN: módulo de sensores (en construcción) -->
+  <Frame_Ship_SensorCluster.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</Frame_Ship_SensorCluster.label>
+  <!-- EN: Un módulo de sensor multi-funcional. Puede escanear a través del vacío comunicaciones, amenazas, interferencias y servir a otros propósitos. -->
+  <Frame_Ship_SensorCluster.description>. ﻯﺮﺧﺃ ﺽﺍﺮﻏﺃ ﺔﻣﺪﺧﻭ ﺕﻼﺧﺍﺪﺘﻟﺍﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍﻭ ﺕﻻﺎﺼﺗﻻﺍ ﻦﻋ ﺍًﺜﺤﺑ ﻍﺍﺮﻔﻟﺍ ﺢﺴﻣ ﺎﻬﻨﻜﻤﻳ. ﻒﺋﺎﻇﻮﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</Frame_Ship_SensorCluster.description>
+  
+  <!-- EN: baldosa de plata (en construcción) -->
+  <Frame_SilverTile.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻀﻓ ﻁﻼﺑ</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_SilverTile.description>
+  
+  <!-- EN: mesa de investigación básica (en construcción) -->
+  <Frame_SimpleResearchBench.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺳﺎﺳﺃ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</Frame_SimpleResearchBench.label>
+  <!-- EN: Una mesa de trabajo con utensilios para escribir y dispositivos de medición simples. Los investigadores trabajan aquí para descubrir cosas nuevas. -->
+  <Frame_SimpleResearchBench.description>. ﺓﺪﻳﺪﺟ ﺀﺎﻴﺷﺃ ﻑﺎﺸﺘﻛﻻ ﻥﻮﺜﺣﺎﺒﻟﺍ ﺎﻬﺑ ﻞﻤﻌﻳﻭ ،ﺔﻄﻴﺴﺑ ﺱﺎﻴﻗ ﺓﺰﻬﺟﺃﻭ ﺔﺑﺎﺘﻛ ﺕﺍﻭﺩﺃ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_SimpleResearchBench.description>
+  
+  <!-- EN: lugar para dormir (en construcción) -->
+  <Frame_SleepingSpot.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﻮﻧ ﻥﺎﻜﻣ</Frame_SleepingSpot.label>
+  <!-- EN: Designa un lugar en el suelo donde la gente dormirá. No es cómodo. -->
+  <Frame_SleepingSpot.description>. ﺢﻳﺮﻣ ﺮﻴﻏ ﻮﻫﻭ ،ﺱﺎﻨﻟﺍ ﻪﻴﻓ ﻡﺎﻨﻳ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﺎﻜﻣ ﺩَّﺪﺣُﻳ</Frame_SleepingSpot.description>
+  
+  <!-- EN: panel solar (en construcción) -->
+  <Frame_SolarGenerator.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺴﻤﺷ ﺔﺣﻮﻟ</Frame_SolarGenerator.label>
+  <!-- EN: Produce electricidad mediante luz solar. No funciona en la oscuridad o bajo luz artificial. -->
+  <Frame_SolarGenerator.description>. ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﻮﻀﻟﺍ ﺖﺤﺗ ﻭﺃ ﻡﻼﻈﻟﺍ ﻲﻓ ﻞﻤﻌﻳ ﻻ. ﺲﻤﺸﻟﺍ ﺀﻮﺿ ﻡﺍﺪﺨﺘﺳﺎﺑ ًﺀﺎﺑﺮﻬﻛ ﺞﺘﻨﻳ</Frame_SolarGenerator.description>
+  
+  <!-- EN: lámpara de pie (en construcción) -->
+  <Frame_StandingLamp.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺿﺭﺃ ﺡﺎﺒﺼﻣ</Frame_StandingLamp.label>
+  <!-- EN: Una lámpara de pie que ilumina un área. La gente necesita luz para caminar y trabajar a mayor velocidad. -->
+  <Frame_StandingLamp.description>. ﺮﺒﻛﺃ ﺔﻋﺮﺴﺑ ﻞﻤﻌﻟﺍﻭ ﻲﺸﻤﻠﻟ ﺀﻮﻀﻟﺍ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳ ﺱﺎﻨﻟﺍﻭ ،ﺎﻣ ًﺔﻘﻄﻨﻣ ﺀﻴﻀﻳ ﻲﺿﺭﺃ ﺡﺎﺒﺼﻣ</Frame_StandingLamp.description>
+  
+  <!-- EN: baldosa estéril (en construcción) -->
+  <Frame_SterileTile.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻤﻘﻌﻣ ﺔﻃﻼﺑ</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_SterileTile.description>
+  
+  <!-- EN: taburete (en construcción) -->
+  <Frame_Stool.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺪﻌﻘﻣ</Frame_Stool.label>
+  <!-- EN: Una sencilla plataforma para sentarse. No es muy cómoda, pero es mejor que nada. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
+  <Frame_Stool.description>. ﺎﻫﺮﻴﻏﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺀﻴﺷ ﻻ ﻦﻣ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﻳﺎﻐﻠﻟ ﺔﺤﻳﺮﻣ ﺖﺴﻴﻟ. ﺔﻄﻴﺴﺑ ﺱﻮﻠﺟ ﺔﺼﻨﻣ</Frame_Stool.description>
+  
+  <!-- EN: lámpara solar (en construcción) -->
+  <Frame_SunLamp.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺴﻤﺷ ﺡﺎﺒﺼﻣ</Frame_SunLamp.label>
+  <!-- EN: Una lámpara industrial que ilumina brillantamente un área lo suficiente como para que crezcan plantas, pero consume muchísima energía. Se apaga automáticamente por la noche. -->
+  <Frame_SunLamp.description>. ﻞﻴﻠﻟﺍ ﻲﻓ ﺍًﻴﺋﺎﻘﻠﺗ ﺊﻔﻄﻨﻳ. ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻫ ﺔﻴﻤﻛ ﻚﻠﻬﺘﺴﻳ ﻪﻨﻜﻟ ،ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ٍﻑﺎﻛ ﻕﺍﺮﺷﺈﺑ ﺔﻘﻄﻨﻣ ﺀﻴﻀﻳ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﺡﺎﺒﺼﻣ</Frame_SunLamp.description>
+  
+  <!-- EN: mesa (1x2) (en construcción) -->
+  <Frame_Table1x2c.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ 1x2) ( (ﺔﻟﻭﺎﻃ</Frame_Table1x2c.label>
+  <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table1x2c.description>. ﺎﻬﻣﺎﻣﺃ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻭ ﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Frame_Table1x2c.description>
+  
+  <!-- EN: mesa (2x2) (en construcción) -->
+  <Frame_Table2x2c.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ 2x2) ( (ﺔﻟﻭﺎﻃ</Frame_Table2x2c.label>
+  <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table2x2c.description>. ﺎﻬﻣﺎﻣﺃ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻭ ﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Frame_Table2x2c.description>
+  
+  <!-- EN: mesa (2x4) (en construcción) -->
+  <Frame_Table2x4c.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ 2x4) ( (ﺔﻟﻭﺎﻃ</Frame_Table2x4c.label>
+  <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table2x4c.description>. ﺎﻬﻣﺎﻣﺃ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻭ ﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Frame_Table2x4c.description>
+  
+  <!-- EN: mesa (3x3) (en construcción) -->
+  <Frame_Table3x3c.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ 3x3) ( (ﺔﻟﻭﺎﻃ</Frame_Table3x3c.label>
+  <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
+  <Frame_Table3x3c.description>. ﺎﻬﻣﺎﻣﺃ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻭ ﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Frame_Table3x3c.description>
+  
+  <!-- EN: mesa de carnicero (en construcción) -->
+  <Frame_TableButcher.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺭﺍﺰﺟ ﺓﺪﻀﻨﻣ</Frame_TableButcher.label>
+  <!-- EN: Una mesa pesada para despiezar criaturas muertas en trozos de carne cruda. -->
+  <Frame_TableButcher.description>. ﺀﻴﻨﻟﺍ ﻢﺤﻠﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻟﺇ ﺔﺘﻴﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺢﻳﺮﺸﺘﻟ ﺔﻠﻴﻘﺛ ﺓﺪﻀﻨﻣ</Frame_TableButcher.description>
+  
+  <!-- EN: mesa de maquinado (en construcción) -->
+  <Frame_TableMachining.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻊﻴﻨﺼﺗ ﺓﺪﻀﻨﻣ</Frame_TableMachining.label>
+  <!-- EN: Un banco de trabajo para el ensamblaje de maquinaria como armas de fuego y munición, o desmontar mecanoides desactivados. -->
+  <Frame_TableMachining.description>. ﺔﻠﻄﻌﻤﻟﺍ ﺕﺍﺩﻮﻧﺎﻜﻴﻤﻟﺍ ﻚﻴﻜﻔﺗ ﻭﺃ ،ﺓﺮﻴﺧﺬﻟﺍﻭ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻞﺜﻣ ﺕﻻﻵﺍ ﻊﻴﻤﺠﺘﻟ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_TableMachining.description>
+  
+  <!-- EN: mesa de escultor (en construcción) -->
+  <Frame_TableSculpting.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺖﺤﻧ ﺓﺪﻀﻨﻣ</Frame_TableSculpting.label>
+  <!-- EN: Una mesa de trabajo equipada para la escultura artística. -->
+  <Frame_TableSculpting.description>. ﻲﻨﻔﻟﺍ ﺖﺤﻨﻠﻟ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_TableSculpting.description>
+  
+  <!-- EN: mesa de cantería (en construcción) -->
+  <Frame_TableStonecutter.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺓﺭﺎﺠﺤﻟﺍ ﻊﻄﻗ ﺓﺪﻀﻨﻣ</Frame_TableStonecutter.label>
+  <!-- EN: Una mesa de trabajo con sierras y cinceles para labrar trozos de roca hasta obtener bloques de piedra utilizables. -->
+  <Frame_TableStonecutter.description>. ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺔﻳﺮﺠﺣ ﺕﺎﺒﻌﻜﻣ ﻰﻟﺇ ﺎﻬﻠﻳﻮﺤﺗﻭ ﺭﻮﺨﺼﻟﺍ ﻞﺘﻛ ﺖﺤﻨﻟ ﻕﺭﺎﻄﻣﻭ ﺭﺎﺸﻨﻤﺑ ﺓﺩﻭﺰﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</Frame_TableStonecutter.description>
+  
+  <!-- EN: baldosa de granito (en construcción) -->
+  <Frame_TileGranite.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺖﻴﻧﺍﺮﺟ ﻁﻼﺑ</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_TileGranite.description>
+  
+  <!-- EN: baldosa de caliza (en construcción) -->
+  <Frame_TileLimestone.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻱﺮﻴﺟ ﺮﺠﺣ ﺔﻃﻼﺑ</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_TileLimestone.description>
+  
+  <!-- EN: baldosa de mármol (en construcción) -->
+  <Frame_TileMarble.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻣﺎﺧﺭ ﻁﻼﺑ</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_TileMarble.description>
+  
+  <!-- EN: baldosa de arenisca (en construcción) -->
+  <Frame_TileSandstone.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻠﻣﺭ ﺮﺠﺣ ﺔﻃﻼﺑ</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_TileSandstone.description>
+  
+  <!-- EN: baldosa de pizarra (en construcción) -->
+  <Frame_TileSlate.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺯﺍﻭﺩﺭﺃ ﻁﻼﺑ</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_TileSlate.description>
+  
+  <!-- EN: armario de herramientas (en construcción) -->
+  <Frame_ToolCabinet.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺕﺍﻭﺩﺃ ﺔﻧﺍﺰﺧ</Frame_ToolCabinet.label>
+  <!-- EN: Aumenta la velocidad de trabajo al colocarse cerca de una mesa de trabajo. Cada mesa de trabajo puede usar hasta dos armarios de herramientas. -->
+  <Frame_ToolCabinet.description>. ﺕﺍﻭﺩﺃ ﻲﺘﻧﺍﺰﺧ ﻰﻟﺇ ﻞﺼﻳ ﺎﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻞﻤﻋ ﺔﻟﻭﺎﻃ ﻞﻜﻟ ﻦﻜﻤﻳ. ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﻞﻤﻋ ﺔﻟﻭﺎﻃ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺎﻬﻌﺿﻭ ﺪﻳﺰﻳ</Frame_ToolCabinet.description>
+  
+  <!-- EN: antorcha (en construcción) -->
+  <Frame_TorchLamp.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻠﻌﺷ</Frame_TorchLamp.label>
+  <!-- EN: Una antorcha de madera que ilumina un área. La gente necesita luz para moverse y trabajar a velocidad normal. Puede ser automáticamente reabastecida con madera. Genera una pequeña cantidad de calor. -->
+  <Frame_TorchLamp.description>. ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻴﻤﻛ ﺪﻟﻮﺗ. ﺍًﻴﺋﺎﻘﻠﺗ ﺐﺸﺨﻟﺎﺑ ﺎﻬﺘﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﻦﻜﻤﻳ. ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻋﺮﺴﻟﺎﺑ ﻞﻤﻌﻟﺍﻭ ﻞﻘﻨﺘﻠﻟ ﺀﻮﻀﻟﺍ ﻰﻟﺇ ﺱﺎﻨﻟﺍ ﺝﺎﺘﺤﻳ. ﺎﻣ ًﺔﻘﻄﻨﻣ ﺀﻴﻀﺗ ﺔﻴﺒﺸﺧ ﺔﻠﻌﺷ</Frame_TorchLamp.description>
+  
+  <!-- EN: cápsula de transporte (en construcción) -->
+  <Frame_TransportPod.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ</Frame_TransportPod.label>
+  <!-- EN: Una cápsula de transporte capaz de transportar personas, animales y objetos. Puede ser usada para enviar regalos, transportar gente o suministros, ataques sorpresa o para mandar refuerzos a una batalla. -->
+  <Frame_TransportPod.description>. ﺔﻛﺮﻌﻣ ﻰﻟﺇ ﺕﺍﺰﻳﺰﻌﺗ ﻝﺎﺳﺭﺇ ﻭﺃ ﺔﺌﺟﺎﻔﻣ ﺕﺎﻤﺠﻫ ﻦﺷ ﻭﺃ ﺕﺍﺩﺍﺪﻣﺇ ﻭﺃ ﺩﺍﺮﻓﺃ ﻞﻘﻧ ﻭﺃ ﺎﻳﺍﺪﻫ ﻝﺎﺳﺭﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳﻭ ،ﺀﺎﻴﺷﺃﻭ ﺕﺎﻧﺍﻮﻴﺣﻭ ﺹﺎﺨﺷﺃ ﻞﻤﺣ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ</Frame_TransportPod.description>
+  
+  <!-- EN: trampa de mina de antimateria (en construcción) -->
+  <Frame_TrapIED_AntigrainWarhead.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺓﺩﺎﻀﻣ ﺓﺩﺎﻣ ﺦﻓ</Frame_TrapIED_AntigrainWarhead.label>
+  <!-- EN: Una cabeza alimentada por antimateria conectada a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_AntigrainWarhead.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻩﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺪﺋﺎﺼﻣ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﻪﺋﺎﻔﺧﻹ ﺍًﺮﻈﻧﻭ. ﺏﺭﺎﻘﺗ ﻞﻐﺸﻤﺑ ﻞﺼﺘﻣ ﺓﺩﺎﻀﻣ ﺓﺩﺎﻤﺑ ﻡﻮﻋﺪﻣ ﺱﺃﺭ</Frame_TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: trampa de mina PEM (en construcción) -->
+  <Frame_TrapIED_EMP.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ PEM ( ﻡﺎﻐﻟﺃ ﺓﺪﻴﺼﻣ</Frame_TrapIED_EMP.label>
+  <!-- EN: Un par de granadas PEM conectadas a un disparador por proximidad. La explosión puede paralizar mecanoides durante unos cuantos segundos. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_EMP.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺮﻌﺸﺘﺴﺗ ﻥﺃ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﻷﺍ ﺥﺎﺨﻔﻟﺍ ﺐﻧﺎﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﻲﻧﺍﻮﺜﻟﺍ ﻦﻣ ﺓﺮﺘﻔﻟ ﺕﻻﻵﺍ ﻞﻄﻌﻳ ﻥﺃ ﺭﺎﺠﻔﻧﻼﻟ ﻦﻜﻤﻳ. ﺏﺭﺎﻘﺗ ﻞﻐﺸﻤﺑ ﺔﻠﺼﺘﻣ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﻞﺑﺎﻨﻘﻟﺍ ﻦﻣ ﺝﻭﺯ</Frame_TrapIED_EMP.description>
+  
+  <!-- EN: trampa de mina de espuma cortafuegos (en construcción) -->
+  <Frame_TrapIED_Firefoam.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻖﻳﺮﺤﻠﻟ ﻊﻃﺎﻗ ﻱﻮﻏﺭ ﺦﻓ</Frame_TrapIED_Firefoam.label>
+  <!-- EN: Un par de granadas de espuma cortafuegos conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_Firefoam.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﺏﺭﺎﻘﺗ ﻞﻐﺸﻤﺑ ﺔﻠﺼﺘﻣ ﻖﻳﺮﺤﻠﻟ ﺔﻣﻭﺎﻘﻤﻟﺍ ﺔﻳﻮﻏﺮﻟﺍ ﻞﺑﺎﻨﻘﻟﺍ ﻦﻣ ﺝﻭﺯ</Frame_TrapIED_Firefoam.description>
+  
+  <!-- EN: trampa de mina explosiva (en construcción) -->
+  <Frame_TrapIED_HighExplosive.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﺠﻔﺘﻣ ﺦﻓ</Frame_TrapIED_HighExplosive.label>
+  <!-- EN: Un par de granadas altamente explosivas conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_HighExplosive.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻬﺑ ﺭﻮﻌﺸﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﺏﺭﺎﻘﺗ ﻞﻐﺸﻤﺑ ﺔﻠﺼﺘﻣ ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﻞﺑﺎﻨﻘﻟﺍ ﻦﻣ ﺝﻭﺯ</Frame_TrapIED_HighExplosive.description>
+  
+  <!-- EN: trampa de mina incendiaria (en construcción) -->
+  <Frame_TrapIED_Incendiary.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻕﺭﺎﺣ ﻢﻐﻟ ﺦﻓ</Frame_TrapIED_Incendiary.label>
+  <!-- EN: Un par de granadas incendiarias conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
+  <Frame_TrapIED_Incendiary.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺮﻌﺸﺘﺴﺗ ﻥﺃ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﺏﺭﺎﻘﺗ ﻞﻐﺸﻤﺑ ﺔﻠﺼﺘﻣ ﺔﻗﺭﺎﺤﻟﺍ ﻞﺑﺎﻨﻘﻟﺍ ﻦﻣ ﺝﻭﺯ</Frame_TrapIED_Incendiary.description>
+  
+  <!-- EN: televisión de tubo (en construcción) -->
+  <Frame_TubeTelevision.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺑﻮﺒﻧﺃ ﻥﻮﻳﺰﻔﻠﺗ</Frame_TubeTelevision.label>
+  <!-- EN: Un tubo de rayos catódicos para mostrar imágenes en movimiento con sonido. Incluso en los mundos limítrofes normalmente hay un viejo transmisor emitiendo algo medianamente interesante. -->
+  <Frame_TubeTelevision.description>. ﺔﻟﻮﻘﻌﻣ ﺔﻴﻤﻫﺃ ﺍﺫ ﺍًﺌﻴﺷ ﺚﺒﻳ ﻢﻳﺪﻗ ﻝﺎﺳﺭﺇ ﺯﺎﻬﺟ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ ،ﺔﻴﺋﺎﻨﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ﻰﺘﺣ. ﺕﻮﺼﻟﺍ ﻊﻣ ﺔﻛﺮﺤﺘﻤﻟﺍ ﺭﻮﺼﻟﺍ ﺽﺮﻌﻟ ﺩﻮﺛﺎﻜﻟﺍ ﺔﻌﺷﺃ ﺏﻮﺒﻧﺃ</Frame_TubeTelevision.description>
+  
+  <!-- EN: torreta de cañón automático (en construcción) -->
+  <Frame_Turret_Autocannon.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﻟﺁ ﻊﻓﺪﻣ ﺝﺮﺑ</Frame_Turret_Autocannon.label>
+  <!-- EN: Una torreta automática pesada. Sus proyectiles de gran calibre causan grandes daños a distancias considerables, pero su cañón debe ser reemplazado tras cada uso. No puede disparar a objetivos cercanos, y puede explotar cuando está dañada. -->
+  <Frame_Turret_Autocannon.description>. ﺭﺮﻀﺘﻳ ﺎﻣﺪﻨﻋ ﺮﺠﻔﻨﻳ ﺪﻗﻭ ،ﺔﺒﻳﺮﻘﻟﺍ ﻑﺍﺪﻫﻷﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻪﻨﻜﻤﻳ ﻻ. ﻡﺍﺪﺨﺘﺳﺍ ﻞﻛ ﺪﻌﺑ ﻪﺗﺭﻮﺳﺎﻣ ﻝﺍﺪﺒﺘﺳﺍ ﺐﺠﻳ ﻦﻜﻟ ،ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻦﻣ ﺔﻤﻴﺴﺟ ﺭﺍﺮﺿﺃ ﻲﻓ ﺮﻴﺒﻜﻟﺍ ﺭﺎﻴﻌﻟﺍ ﺕﺍﺫ ﻪﺗﺎﻓﻭﺬﻘﻣ ﺐﺒﺴﺘﺗ. ﻞﻴﻘﺛ ﻲﻟﺁ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Frame_Turret_Autocannon.description>
+  
+  <!-- EN: minitorreta (en construcción) -->
+  <Frame_Turret_MiniTurret.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺮﻴﻐﺻ ﺔﺳﺍﺮﺣ ﺝﺮﺑ</Frame_Turret_MiniTurret.label>
+  <!-- EN: Una torreta automática portátil. Requiere que el cañón de acero sea reemplazado después de un uso intenso. Puede explotar si resulta dañada. Su estúpida IA no puede controlarse directamente, así que ten cuidado con el fuego amigo. -->
+  <Frame_Turret_MiniTurret.description>. ﺔﻘﻳﺪﺼﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ ﻦﻣ ﺭﺬﺣﺍ ﺍﺬﻟ ،ًﺓﺮﺷﺎﺒﻣ ﻲﺒﻐﻟﺍ ﻲﻋﺎﻨﻄﺻﻻﺍ ﻪﺋﺎﻛﺫ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻦﻜﻤﻳ ﻻ. ﻒﻠﺘﻠﻟ ﺽﺮﻌﺗ ﺍﺫﺇ ﺮﺠﻔﻨﻳ ﺪﻗ. ﻒﺜﻜﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﻻﺍ ﺪﻌﺑ ﺫﻻﻮﻔﻟﺍ ﺓﺭﻮﺳﺎﻣ ﻝﺍﺪﺒﺘﺳﺍ ﺐﻠﻄﺘﻳ. ﻝﻮﻤﺤﻣ ﻲﻟﺁ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Frame_Turret_MiniTurret.description>
+  
+  <!-- EN: mortero (en construcción) -->
+  <Frame_Turret_Mortar.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻥﻭﺎﻫ</Frame_Turret_Mortar.label>
+  <!-- EN: Un mortero que lanza todo tipo de proyectiles. Aunque puede causar daños devastadores, la imprecisión inherente del mortero lo hace más útil para atacar grandes fortificaciones que grupos de enemigos en el campo. -->
+  <Frame_Turret_Mortar.description>. ﻥﺍﺪﻴﻤﻟﺍ ﻲﻓ ﺀﺍﺪﻋﻷﺍ ﺕﺎﻋﻮﻤﺠﻣ ﻦﻣ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺎﻨﻴﺼﺤﺘﻟﺍ ﺔﻤﺟﺎﻬﻣ ﻲﻓ ﺓﺪﺋﺎﻓ ﺮﺜﻛﺃ ﻪﻠﻌﺠﻳ ﻞﺻﺄﺘﻤﻟﺍ ﻪﺘﻗﺩ ﻡﺪﻋ ﻥﺈﻓ ،ﺓﺮﻣﺪﻣ ﺭﺍﺮﺿﺃ ﺙﺍﺪﺣﺇ ﻰﻠﻋ ﻪﺗﺭﺪﻗ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺕﺎﻓﻭﺬﻘﻤﻟﺍ ﻉﺍﻮﻧﺃ ﻊﻴﻤﺟ ﻖﻠﻄﻳ ﻥﻭﺎﻫ</Frame_Turret_Mortar.description>
+  
+  <!-- EN: cañón de uranio (en construcción) -->
+  <Frame_Turret_Sniper.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻡﻮﻴﻧﺍﺭﻮﻳ ﻊﻓﺪﻣ</Frame_Turret_Sniper.label>
+  <!-- EN: Una torreta perfora-blindajes de muy largo alcance. Sus ultra-densos proyectiles de uranio pueden penetrar blindaje pesado a gran distancia, pero requiere la recarga de nuevas balas de uranio después de cada uso. Es más precisa a gran distancia, y no puede disparar a objetivos cercanos. Puede explotar al ser dañada. -->
+  <Frame_Turret_Sniper.description>. ﻩﺭﺮﻀﺗ ﺪﻨﻋ ﺮﺠﻔﻨﻳ ﺪﻗ. ﺔﺒﻳﺮﻘﻟﺍ ﻑﺍﺪﻫﻷﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻪﻨﻜﻤﻳ ﻻﻭ ،ﺔﻠﻳﻮﻄﻟﺍ ﺕﺎﻓﺎﺴﻤﻟﺍ ﻰﻠﻋ ﻰﻠﻋﺃ ﺔﻗﺪﺑ ﻊﺘﻤﺘﻳ. ﻡﺍﺪﺨﺘﺳﺍ ﻞﻛ ﺪﻌﺑ ﺓﺪﻳﺪﺟ ﻡﻮﻴﻧﺍﺭﻮﻳ ﺕﺎﺻﺎﺻﺭ ﻞﻴﻤﺤﺗ ﺓﺩﺎﻋﺇ ﺐﻠﻄﺘﻳ ﻪﻨﻜﻟ ،ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻠﻴﻘﺜﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺔﻓﺎﺜﻜﻟﺍ ﺔﻘﺋﺎﻓ ﺔﻴﻣﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻪﺗﺎﻓﻭﺬﻘﻤﻟ ﻦﻜﻤﻳ. ًﺍﺪﺟ ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻉﻭﺭﺪﻠﻟ ﺐﻗﺎﺛ ﺝﺮﺑ</Frame_Turret_Sniper.description>
+  
+  <!-- EN: conducto de ventilación (en construcción) -->
+  <Frame_Vent.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﻮﻬﺗ ﺓﺎﻨﻗ</Frame_Vent.label>
+  <!-- EN: Un sencillo respiradero para equilibrar la temperatura entre dos habitaciones sin permitir que la gente pase de una a otra. -->
+  <Frame_Vent.description>. ﻯﺮﺧﻷﺍ ﻰﻟﺇ ﺎﻤﻫﺍﺪﺣﺇ ﻦﻣ ﺹﺎﺨﺷﻷﺍ ﺭﻭﺮﻤﺑ ﺡﺎﻤﺴﻟﺍ ﻥﻭﺩ ﻦﻴﺘﻓﺮﻏ ﻦﻴﺑ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺔﻧﺯﺍﻮﻤﻟ ﺔﻄﻴﺴﺑ ﺔﻳﻮﻬﺗ ﺔﺤﺘﻓ</Frame_Vent.description>
+  
+  <!-- EN: monitor de signos vitales (en construcción) -->
+  <Frame_VitalsMonitor.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻳﻮﻴﺤﻟﺍ ﺕﺎﻣﻼﻌﻟﺍ ﺐﻗﺍﺮﻣ</Frame_VitalsMonitor.label>
+  <!-- EN: Mejora la calidad del tratamiento médico, la probabilidad del éxito en cirugías, y la velocidad de inmunización si se sitúa adyacente a una cama hospitalaria. Solo funciona para camas de hospital, no para camas normales. Colocar más de un monitor de signos vitales a la misma cama no tendrá ningún efecto adicional. -->
+  <Frame_VitalsMonitor.description>. ﻲﻓﺎﺿﺇ ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﻥﻮﻜﻳ ﻦﻟ ﺮﻳﺮﺴﻟﺍ ﺲﻔﻧ ﺭﺍﻮﺠﺑ ﺔﻳﻮﻴﺤﻟﺍ ﺕﺎﻣﻼﻌﻟﺍ ﺔﺒﻗﺍﺮﻣ ﺯﺎﻬﺟ ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ. ﺔﻳﺩﺎﻌﻟﺍ ﺓﺮﺳﻷﺍ ﺲﻴﻟﻭ ،ﺔﻴﺒﻄﻟﺍ ﺓﺮﺳﻷﺍ ﻊﻣ ﻂﻘﻓ ﻞﻤﻌﻳ. ﻲﺒﻃ ﺮﻳﺮﺳ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﺪﻨﻋ ﻦﻴﺼﺤﺘﻟﺍ ﺔﻋﺮﺳﻭ ،ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺡﺎﺠﻧ ﺔﻴﻟﺎﻤﺘﺣﺍﻭ ،ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺓﺩﻮﺟ ﻦﺴﺤﻳ</Frame_VitalsMonitor.description>
+  
+  <!-- EN: muro (en construcción) -->
+  <Frame_Wall.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺭﺍﺪﺟ</Frame_Wall.label>
+  <!-- EN: Un muro infranqueable. Capaz de soportar un techo. -->
+  <Frame_Wall.description>. ﻒﻘﺳ ﻢﻋﺩ ﻰﻠﻋ ﺭﺩﺎﻗ. ﻕﺍﺮﺘﺧﻼﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﺭﺍﺪﺟ</Frame_Wall.description>
+  
+  <!-- EN: generador hidroeléctrico (en construcción) -->
+  <Frame_WatermillGenerator.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺋﺎﻣ ﺔﻗﺎﻃ ﺪﻟﻮﻣ</Frame_WatermillGenerator.label>
+  <!-- EN: Produce electricidad mediante la corriente de un río. Debe colocarse con la rueda en el agua corriente. Si varios generadores hidroeléctricos se colocan demasiado cerca, la turbulencia que generan interferirá y reducirá la generación de energía. -->
+  <Frame_WatermillGenerator.description>. ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺗ ﻦﻣ ﻞﻠﻘﻳﻭ ﻞﺧﺍﺪﺘﻴﺳ ﻪﺛﺪﺤﺗ ﻱﺬﻟﺍ ﺏﺍﺮﻄﺿﻻﺍ ﻥﺈﻓ ،ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺍًﺪﺟ ﺔﺒﻳﺮﻗ ﺔﻴﺋﺎﻣﻭﺮﻬﻛ ﺕﺍﺪﻟﻮﻣ ﺓﺪﻋ ﺖﻌﺿُﻭ ﺍﺫﺇ. ﻱﺭﺎﺠﻟﺍ ﺀﺎﻤﻟﺍ ﻲﻓ ﺔﻠﺠﻌﻟﺍ ﻊﻣ ﻪﻌﺿﻭ ﺐﺠﻳ. ﺮﻬﻧ ﺭﺎﻴﺗ ﻝﻼﺧ ﻦﻣ ًﺀﺎﺑﺮﻬﻛ ﺞﺘﻨﻳ</Frame_WatermillGenerator.description>
+  
+  <!-- EN: conducto impermeable (en construcción) -->
+  <Frame_WaterproofConduit.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺀﺎﻤﻠﻟ ﺔﻟﺯﺎﻋ ﺓﺎﻨﻗ</Frame_WaterproofConduit.label>
+  <!-- EN: Cables eléctricos aislados para conducir electricidad bajo aguas poco profundas. -->
+  <Frame_WaterproofConduit.description>. ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍ ﺖﺤﺗ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻞﻴﺻﻮﺘﻟ ﺔﻟﻭﺰﻌﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﻼﺑﺎﻛ</Frame_WaterproofConduit.description>
+  
+  <!-- EN: aeroturbina (en construcción) -->
+  <Frame_WindTurbine.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﻲﺋﺍﻮﻫ ﻦﻴﺑﺭﻮﺗ</Frame_WindTurbine.label>
+  <!-- EN: Un generador de electricidad accionado por el viento. Para conseguir un flujo de aire óptimo necesita un gran espacio libre delante y detrás. -->
+  <Frame_WindTurbine.description>. ﻪﻔﻠﺧﻭ ﻪﻣﺎﻣﺃ ﺓﺮﻴﺒﻛ ﺔﻴﻟﺎﺧ ﺔﺣﺎﺴﻣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ،ﻲﻟﺎﺜﻣ ﺀﺍﻮﻫ ﻖﻓﺪﺗ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ. ﺔﻴﺤﻳﺮﻟﺍ ﺔﻗﺎﻄﻟﺎﺑ ﻞﻤﻌﻳ ﺀﺎﺑﺮﻬﻛ ﺪﻟﻮﻣ</Frame_WindTurbine.description>
+  
+  <!-- EN: generador a leña (en construcción) -->
+  <Frame_WoodFiredGenerator.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺐﻄﺣ ﺪﻟﻮﻣ</Frame_WoodFiredGenerator.label>
+  <!-- EN: Produce energía consumiendo madera. Debe ser reabastecido a mano con madera periódicamente. -->
+  <Frame_WoodFiredGenerator.description>. ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺐﺸﺨﻟﺎﺑ ﺍًﻳﻭﺪﻳ ﻪﺘﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﺐﺠﻳ. ﺐﺸﺨﻟﺍ ﻙﻼﻬﺘﺳﺎﺑ ﺔﻗﺎﻃ ﺞﺘﻨﻳ</Frame_WoodFiredGenerator.description>
+  
+  <!-- EN: suelo de madera (en construcción) -->
+  <Frame_WoodPlankFloor.label>)ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ (ﺔﻴﺒﺸﺧ ﺔﻴﺿﺭﺃ</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻨﺑ ﻱﺮﺠﻳ</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: Carne de alpaca -->
+  <Meat_Alpaca.label>ﺔﻜﺒﻟﻷﺍ ﻢﺤﻟ</Meat_Alpaca.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Alpaca.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Alpaca.description>
+  
+  <!-- EN: Carne de alfacastor -->
+  <Meat_Alphabeaver.label>ﺎﻔﻟﺃ ﺱﺪﻨﻗ ﻢﺤﻟ</Meat_Alphabeaver.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Alphabeaver.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Alphabeaver.description>
+  
+  <!-- EN: carne de oso -->
+  <Meat_Bear_Grizzly.label>ﺏﺪﻟﺍ ﻢﺤﻟ</Meat_Bear_Grizzly.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Bear_Grizzly.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: Carne de bumalope -->
+  <Meat_Boomalope.label>ﺏﻮﻟﺎﻣﻮﺒﻟﺍ ﻢﺤﻟ</Meat_Boomalope.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Boomalope.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Boomalope.description>
+  
+  <!-- EN: Carne de ratabum -->
+  <Meat_Boomrat.label>ﻡﻮﺑﺎﺗﺭ ﻢﺤﻟ</Meat_Boomrat.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Boomrat.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Boomrat.description>
+  
+  <!-- EN: Carne de capibara -->
+  <Meat_Capybara.label>ﺓﺮﺒﻴﺑﺎﻛ ﻢﺤﻟ</Meat_Capybara.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Capybara.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Capybara.description>
+  
+  <!-- EN: Carne de caribú -->
+  <Meat_Caribou.label>ﺔﻧﺮﻟﺍ ﻢﺤﻟ</Meat_Caribou.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Caribou.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Caribou.description>
+  
+  <!-- EN: carne de pájaro -->
+  <Meat_Cassowary.label>ﺮﺋﺎﻃ ﻢﺤﻟ</Meat_Cassowary.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Cassowary.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Cassowary.description>
+  
+  <!-- EN: Carne de gato -->
+  <Meat_Cat.label>ﻂﻄﻗ ﻢﺤﻟ</Meat_Cat.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Cat.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Cat.description>
+  
+  <!-- EN: Carne de pollo -->
+  <Meat_Chicken.label>ﺝﺎﺟﺩ ﻢﺤﻟ</Meat_Chicken.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Chicken.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Chicken.description>
+  
+  <!-- EN: Carne de chinchilla -->
+  <Meat_Chinchilla.label>ﺔﻠﻴﺸﻨﺸﻟﺍ ﻢﺤﻟ</Meat_Chinchilla.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Chinchilla.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Chinchilla.description>
+  
+  <!-- EN: carne de cobra -->
+  <Meat_Cobra.label>ﺍﺮﺑﻮﻜﻟﺍ ﻢﺤﻟ</Meat_Cobra.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Cobra.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Cobra.description>
+  
+  <!-- EN: Carne de puma -->
+  <Meat_Cougar.label>ﺎﻣﻮﺑ ﻢﺤﻟ</Meat_Cougar.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Cougar.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Cougar.description>
+  
+  <!-- EN: carne vacuna -->
+  <Meat_Cow.label>ﻱﺮﻘﺑ ﻢﺤﻟ</Meat_Cow.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Cow.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Cow.description>
+  
+  <!-- EN: carne de venado -->
+  <Meat_Deer.label>ﻞﻳﻷﺍ ﻢﺤﻟ</Meat_Deer.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Deer.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Deer.description>
+  
+  <!-- EN: Carne de dromedario -->
+  <Meat_Dromedary.label>ﻞﻤﺟ ﻢﺤﻟ</Meat_Dromedary.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Dromedary.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Dromedary.description>
+  
+  <!-- EN: Carne de elefante -->
+  <Meat_Elephant.label>ﻞﻴﻓ ﻢﺤﻟ</Meat_Elephant.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Elephant.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Elephant.description>
+  
+  <!-- EN: Carne de alce -->
+  <Meat_Elk.label>ﻞﻳﻷﺍ ﻢﺤﻟ</Meat_Elk.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Elk.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Elk.description>
+  
+  <!-- EN: carne de zorro -->
+  <Meat_Fox_Fennec.label>ﺐﻠﻌﺛ ﻢﺤﻟ</Meat_Fox_Fennec.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Fox_Fennec.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Fox_Fennec.description>
+  
+  <!-- EN: Carne de gacela -->
+  <Meat_Gazelle.label>ﻝﺍﺰﻏ ﻢﺤﻟ</Meat_Gazelle.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Gazelle.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Gazelle.description>
+  
+  <!-- EN: Carne de liebre -->
+  <Meat_Hare.label>ﺐﻧﺭﺃ ﻢﺤﻟ</Meat_Hare.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Hare.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Hare.description>
+  
+  <!-- EN: Carne de humano -->
+  <Meat_Human.label>ﻱﺮﺸﺑ ﻢﺤﻟ</Meat_Human.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda, aunque a la mayoría de humanos no les guste esa idea. -->
+  <Meat_Human.description>. ﻚﻟﺫ ﻥﻮﻠﻀﻔﻳ ﻻ ﺮﺸﺒﻟﺍ ﻢﻈﻌﻣ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Human.description>
+  
+  <!-- EN: Carne de husky -->
+  <Meat_Husky.label>ﻲﻜﺳﺎﻬﻟﺍ ﺐﻠﻛ ﻢﺤﻟ</Meat_Husky.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Husky.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Husky.description>
+  
+  <!-- EN: Carne de cabra montés -->
+  <Meat_Ibex.label>ﻲﻠﺒﺟ ﺰﻋﺎﻣ ﻢﺤﻟ</Meat_Ibex.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Ibex.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Ibex.description>
+  
+  <!-- EN: Carne de iguana -->
+  <Meat_Iguana.label>ﺎﻧﺍﻮﻏﻹﺍ ﻢﺤﻟ</Meat_Iguana.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Iguana.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Iguana.description>
+  
+  <!-- EN: Carne de labrador -->
+  <Meat_LabradorRetriever.label>ﺭﻭﺩﺍﺮﺑﻻ ﺐﻠﻛ ﻢﺤﻟ</Meat_LabradorRetriever.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_LabradorRetriever.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_LabradorRetriever.description>
+  
+  <!-- EN: Carne de lince -->
+  <Meat_Lynx.label>ﻖﺷﻮﻟﺍ ﻢﺤﻟ</Meat_Lynx.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Lynx.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Lynx.description>
+  
+  <!-- EN: Carne de megaperezoso -->
+  <Meat_Megasloth.label>ﻭﺯﻭﺰﻳﺮﻴﺑﺎﻐﻴﻤﻟﺍ ﻢﺤﻟ</Meat_Megasloth.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Megasloth.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Megasloth.description>
+  
+  <!-- EN: carne de insecto -->
+  <Meat_Megaspider.label>ﺕﺍﺮﺸﺣ ﻢﺤﻟ</Meat_Megaspider.label>
+  <!-- EN: Carne cruda. Si es necesario, puede cocinarse para hacer comida, o incluso consumirse cruda. Extremadamente poco apetecible. -->
+  <Meat_Megaspider.description>. ﺔﻳﺎﻐﻠﻟ ﻲﻬﺷ ﺮﻴﻏ. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻰﺘﺣ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ ،ﺮﻣﻷﺍ ﻡﺰﻟ ﺍﺫﺇ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Megaspider.description>
+  
+  <!-- EN: Carne de mono -->
+  <Meat_Monkey.label>ﺩﺮﻗ ﻢﺤﻟ</Meat_Monkey.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Monkey.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Monkey.description>
+  
+  <!-- EN: Carne de múfalo -->
+  <Meat_Muffalo.label>ﻮﻟﺎﻓﻮﻤﻟﺍ ﻢﺤﻟ</Meat_Muffalo.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Muffalo.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Muffalo.description>
+  
+  <!-- EN: Carne de pantera -->
+  <Meat_Panther.label>ﺩﻮﺳﻷﺍ ﺮﻤﻨﻟﺍ ﻢﺤﻟ</Meat_Panther.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Panther.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Panther.description>
+  
+  <!-- EN: carne porcina -->
+  <Meat_Pig.label>ﺮﻳﺰﻨﺧ ﻢﺤﻟ</Meat_Pig.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Pig.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Pig.description>
+  
+  <!-- EN: Carne de mapache -->
+  <Meat_Raccoon.label>ﻥﻮﻛﺍﺮﻟﺍ ﻢﺤﻟ</Meat_Raccoon.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Raccoon.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Raccoon.description>
+  
+  <!-- EN: Carne de rata -->
+  <Meat_Rat.label>ﺫﺮﺟ ﻢﺤﻟ</Meat_Rat.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Rat.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Rat.description>
+  
+  <!-- EN: Carne de rinoceronte -->
+  <Meat_Rhinoceros.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ ﻢﺤﻟ</Meat_Rhinoceros.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Rhinoceros.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Rhinoceros.description>
+  
+  <!-- EN: Carne de ardilla -->
+  <Meat_Squirrel.label>ﺏﺎﺠﻨﺴﻟﺍ ﻢﺤﻟ</Meat_Squirrel.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Squirrel.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Squirrel.description>
+  
+  <!-- EN: Carne de trumbo -->
+  <Meat_Thrumbo.label>ﻮﺒﻣﻭﺮﺗ ﻢﺤﻟ</Meat_Thrumbo.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Thrumbo.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Thrumbo.description>
+  
+  <!-- EN: Carne de tortuga -->
+  <Meat_Tortoise.label>ﺓﺎﻔﺤﻠﺳ ﻢﺤﻟ</Meat_Tortoise.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Tortoise.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Tortoise.description>
+  
+  <!-- EN: Carne de pavo -->
+  <Meat_Turkey.label>ﻲﻣﻭﺭ ﻚﻳﺩ ﻢﺤﻟ</Meat_Turkey.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Turkey.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻊﻨﺼﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Turkey.description>
+  
+  <!-- EN: Carne de wargo -->
+  <Meat_Warg.label>ﻮﻏﺭﺍﻭ ﻢﺤﻟ</Meat_Warg.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Warg.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻃ ﻞﻤﻌﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Warg.description>
+  
+  <!-- EN: carne de lobo -->
+  <Meat_Wolf_Timber.label>ﺐﺋﺫ ﻢﺤﻟ</Meat_Wolf_Timber.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_Wolf_Timber.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_Wolf_Timber.description>
+  
+  <!-- EN: Carne de yorkshire -->
+  <Meat_YorkshireTerrier.label>ﺮﻴﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ ﻢﺤﻟ</Meat_YorkshireTerrier.label>
+  <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
+  <Meat_YorkshireTerrier.description>. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺘﻟ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺀﻴﻧ ﻢﺤﻟ</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

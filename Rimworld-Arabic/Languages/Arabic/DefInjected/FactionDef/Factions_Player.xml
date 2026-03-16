@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>ﺩﺪﺟ ﻥﻭﺪﻓﺍﻭ</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>. ﺐﻛﻮﻜﻟﺍ ﺝﺭﺎﺧ ﻦﻣ ﻝﻮﺻﻮﻟﺍ ﻲﺜﻳﺪﺣ ﻦﻣ ﺓﺮﻤﻌﺘﺴﻣ</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>ﺪﺋﺎﻗ</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﺕﺍﻮﻗ ﻢﺟﺎﻬﺗ</PlayerColony.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>ﻦﻃﻮﺘﺴﻣ</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>ﻥﻭﺮﻤﻌﺘﺴﻣ</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>ﺓﺪﻳﺪﺟ ﺔﻠﻴﺒﻗ</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>. ﺓﺮﻴﻐﺻ ﺔﻠﻴﺒﻗ</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>ﺪﺋﺎﻗ</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﺕﺍﻮﻗ ﻢﺟﺎﻬﺗ</PlayerTribe.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>ﺔﻠﻴﺒﻘﻟﺍ ﻞﺟﺭ</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>ﻞﺋﺎﺒﻘﻟﺍ ﺀﺎﻨﺑﺃ</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

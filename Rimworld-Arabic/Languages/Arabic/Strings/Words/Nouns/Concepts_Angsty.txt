@@ -1,0 +1,37 @@
+﻿//Conceptos de "angustia" para los descripciones de arte. 
+//Género masculino para poder coordinar con el artículo (EL).
+//El trabajo está empapado con la idea del [vacío] y está hecho en un estilo poco original (Zerstrick, 05-08-2020)
+ضيق
+عزلة
+اشتياق
+نهاية العالم
+كارثة
+إنهاك
+فقدان الحماية
+اضطراب
+حزن
+إحباط
+انهيار
+تفريغ
+نفي
+زوال
+ألم
+حزن
+كسوف
+منفى
+وفاة
+فشل
+رعب
+شؤم
+استشهاد
+غرق
+أفل
+نسيان
+ذعر
+حقد
+دمار
+صمت
+شيطاني
+معاناة
+عذاب
+فراغ

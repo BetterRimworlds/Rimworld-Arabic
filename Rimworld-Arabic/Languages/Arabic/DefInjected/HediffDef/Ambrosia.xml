@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia addiction -->
+  <AmbrosiaAddiction.label>ﺎﻳﺯﻭﺮﺒﻣﺃ ﻥﺎﻣﺩﺇ</AmbrosiaAddiction.label>
+  <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AmbrosiaAddiction.description>. ﺭﺎﻘﻌﻟﺍ ﺍﺬﻫ ﻥﻭﺪﺑ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻍﺎﻣﺪﻟﺍ ﻞﻌﺠﻳ ﺎﻤﻣ ،ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻴﻐﺗ ﻰﻟﺇ ﻞﻳﻮﻄﻟﺍ ﻯﺪﻤﻟﺍ ﻰﻠﻋ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺩﻮﺟﻭ ﻯﺩﺃ. ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻥﺎﻣﺩﺇ\n\n. ﻥﺎﻣﺩﻹﺍ ﺔﻠﻜﺸﻣ ﻞﺤﻳ ﺎﻤﻣ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻟﺎﺣ ﻊﻣ ﻯﺮﺧﺃ ﺓﺮﻣ ﻒﻴﻜﺘﻟﺍ ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ ﺮﺒﺠﻴﺳ ﻝﻮﻄﻤﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ ﻥﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺏﺎﺤﺴﻧﻻﺍ ﺽﺍﺮﻋﺃ ﺃﺪﺒﺘﺳ ،ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﻦﻣ ﺔﻤﻈﺘﻨﻣ ﺕﺎﻋﺮﺟ ﻥﻭﺪﺑ</AmbrosiaAddiction.description>
+  <!-- EN: withdrawal -->
+  <AmbrosiaAddiction.stages.withdrawal.label>ﺏﺎﺤﺴﻧﺍ</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>ﺎﻳﺯﻭﺮﺒﻣﺃ ﺀﻓﺩ</AmbrosiaHigh.label>
+  <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
+  <AmbrosiaHigh.description>. ﺝﺍﺰﻤﻟﺍ ﻊﻓﺮﺗ ﻲﻫﻭ ،ﻡﺪﻟﺍ ﻯﺮﺠﻣ ﻲﻓ ﺎﻳﺯﻭﺮﺒﻣﺃ ﺩﺍﻮﻣ</AmbrosiaHigh.description>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>ﺎﻳﺯﻭﺮﺒﻣﺃ ﻞﻤﺤﺗ</AmbrosiaTolerance.label>
+  <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
+  <AmbrosiaTolerance.description>. ﺮﻴﺛﺄﺘﻟﺍ ﺲﻔﻧ ﻖﻴﻘﺤﺘﻟ ﺔﻣﺯﻼﻟﺍ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺔﻴﻤﻛ ﺕﺩﺍﺯ ،ﻞﻤﺤﺘﻟﺍ ﺍﺬﻫ ﺩﺍﺯ ﺎﻤﻠﻛ. ﺎﻳﺯﻭﺮﺒﻣﻸﻟ ﻞﻤﺤﺗ ﻢﻛﺍﺮﺗ</AmbrosiaTolerance.description>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small.label>ﺮﻴﻐﺻ</AmbrosiaTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>ﺮﻴﺒﻛ</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>ﻢﺨﺿ</AmbrosiaTolerance.stages.massive.label>
+  
+</LanguageData>

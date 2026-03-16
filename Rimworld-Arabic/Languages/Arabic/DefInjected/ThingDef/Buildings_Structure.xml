@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>ﺕﺎﻧﺍﻮﻴﺣ ﺏﺎﺑ</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>. ﻡﻮﻨﻠﻟ ﺔﺳﻮﺒﺤﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻯﻭﺄﻣ ﻥﺎﻜﻣ ﺮﻴﻓﻮﺘﻟ ﺔﻴﺷﺎﻤﻟﺍ ﺮﺋﺎﻈﺤﻟ ﺏﺍﻮﺑﺄﻛ ًﺓﺩﺎﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺮﺋﺎﺘﺳ ﻡﺪﺨﺘﺳُﺗ. ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻊﻣ ﺭﻭﺮﻤﻟﺎﺑ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺢﻤﺴﺗ. ﺪﻠﺠﻟﺍ ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺔﻠﺧﺍﺪﺘﻣ ﺔﻜﻴﻤﺳ ﻂﺋﺍﺮﺸﺑ ﺔﻘﻠﻌﻣ ﺔﺤﺘﻓ</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>ﻲﺋﺎﻘﻠﺗ ﺏﺎﺑ</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>. ﺆﻃﺎﺒﺗ ﻥﻭﺩ ﺏﺎﺒﻟﺍ ﺮﺒﻋ ﺭﻭﺮﻤﻟﺎﺑ ﺹﺎﺨﺷﻸﻟ ﺢﻤﺴﻳ ﺔﻗﺎﻄﻟﺎﺑ ﻞﻴﻐﺸﺘﻟﺍ. ﻑﺮﻐﻟﺍ ﻢﺴﻘﻳ</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>ﺩﻮﻤﻋ</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>. ﺔﻳﺎﻐﻠﻟ ًﻼﻴﻤﺟ ﻭﺪﺒﻳﻭ ،ﺔﻛﺮﺤﻟﺍ ﻭﺃ ﺔﻳﺅﺮﻟﺍ ﺐﺠﺤﻳ ﻻﻭ ،ﻒﻘﺳ ﻞﻤﺤﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺩﻮﻤﻋ</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>ﺏﺎﺑ</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>. ﺏﺎﺒﻟﺍ ﻊﻨﺻ ﺓﺩﺎﻣ ﻰﻠﻋ ﺆﻃﺎﺒﺘﻟﺍ ﺭﺍﺪﻘﻣ ﺪﻤﺘﻌﻳ. ﺹﺎﺨﺷﻷﺍ ﺔﻛﺮﺣ ﺊﻄﺒﻳ ﺎﻤﻣ ،ﺍًﻳﻭﺪﻳ ﺔﻄﻴﺴﺒﻟﺍ ﺏﺍﻮﺑﻷﺍ ﺢﺘﻓ ﺐﺠﻳ. ﻑﺮﻐﻟﺍ ﻢﺴﻘﻳ</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>ﺝﺎﻴﺳ</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>. ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻝﻮﺠﺘﺗ ﺪﻗ ﻦﻜﻟﻭ ،ﺝﺎﻴﺴﻟﺍ ﻦﻣ ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻄﺼﻳ ﻦﻟﻭ ،ﺝﺎﻴﺴﻟﺍ ﺯﻭﺎﺠﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺒﻟ ﻦﻜﻤﻳﻭ ،ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻨﻴﻌﻣ ﻉﺍﻮﻧﻷ ﺮﺋﺎﻈﺣ ﺀﺎﻨﺒﻟ ﻡﺪﺨﺘﺴﻳ ﺔﻴﺿﺮﻋ ﺽﺭﺍﻮﻌﺑ ﺔﻠﺼﺘﻣ ﺓﺪﻤﻋﺃ ﻦﻣ ﻉﻮﻨﺼﻣ ﺝﺎﻴﺳ</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>ﺝﺎﻴﺳ ﺔﺑﺍﻮﺑ</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>. ﺕﺎﺑﺍﻮﺒﻟﺍ ﻩﺬﻫ ﻝﻼﺧ ﻦﻣ ﺓﺮﻴﻈﺤﻟﺍ ﺝﺭﺎﺧﻭ ﻞﺧﺍﺩ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺩﺎﻴﻗ ﻦﻴﻠﻣﺎﻌﺘﻤﻠﻟ ﻦﻜﻤﻳ. ﺝﺎﻴﺴﻟﺍ ﻞﺜﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﻖﻴﻌﺗ ﺎﻬﻧﺇ. ﺽﺭﺍﻮﻋﻭ ﺓﺪﻤﻋﺃ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺔﻄﻴﺴﺑ ﺔﺑﺍﻮﺑ</FenceGate.description>
+  
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>ﻑﺮﺧﺰﻣ ﺏﺎﺑ</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>. ﻞﻤﻌﻴﻟ ﺓﺭﻭﺎﺠﻣ ﺍًﻧﺍﺭﺪﺟ ﻞﻴﻘﺜﻟﺍﻭ ﺮﻴﺒﻜﻟﺍ ﺏﺎﺒﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ. ﺐﻫﺬﻟﺎﺑ ﻦﻳﺰﻣ ،ﺪﻘﻌﻣ ﻞﻜﺸﺑ ﺕﻮﺤﻨﻣ ﺏﺎﺑ. ﻑﺮﻐﻟﺍ ﻢﺴﻘﻳ</OrnateDoor.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>ﺭﺍﺪﺟ</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>. ﻒﻘﺳ ﻢﻋﺩ ﻰﻠﻋ ﺭﺩﺎﻗ. ﻕﺍﺮﺘﺧﻼﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﻂﺋﺎﺣ</Wall.description>
+  
+</LanguageData>

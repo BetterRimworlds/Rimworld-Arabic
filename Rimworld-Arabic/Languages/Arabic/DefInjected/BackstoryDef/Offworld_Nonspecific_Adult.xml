@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.description>{PAWN_gender ? . ﺎﻬﻟ ﺖﻴﻄﻋُﺃ ﻲﺘﻟﺍ ﻚﻠﺗ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻣ ﺍًﻟﺪﺑ ﺎﻬﺴﻔﻨﺑ ﺀﺎﻳﺯﻷﺍﻭ ﻢﺋﺎﻋﺪﻟﺍ ﺖﻌﻨﺻﻭ ،ﺔﻴﻟﺎﻤﻛ ﺖﻧﺎﻛ. ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺔﺒﺤﻣ ﺮﻴﻫﺎﻤﺟﻭ ﺔﻈﺘﻜﻣ ﺡﺭﺎﺴﻣ ﻲﻓ ﺍًﺿﻭﺮﻋ ﺖﻣﺪﻗﻭ ،ﺔﻴﻠﻴﺜﻤﺗ ﺔﻗﺮﻓ ﻊﻣ [PAWN_nameDef] ﺕﺮﻓﺎﺳ : . ﻪﻟ ﺖﻴﻄﻋُﺃ ﻲﺘﻟﺍ ﻚﻠﺗ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻣ ﺍًﻟﺪﺑ ﻪﺴﻔﻨﺑ ﺀﺎﻳﺯﻷﺍﻭ ﻢﺋﺎﻋﺪﻟﺍ ﻊﻨﺻﻭ ،ًﺎﻴﻟﺎﻤﻛ ﻥﺎﻛ. ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺔﺒﺤﻣ ﺮﻴﻫﺎﻤﺟﻭ ﺔﻈﺘﻜﻣ ﺡﺭﺎﺴﻣ ﻲﻓ ﺍًﺿﻭﺮﻋ ﻡﺪﻗﻭ ،ﺔﻴﻠﻴﺜﻤﺗ ﺔﻗﺮﻓ ﻊﻣ [PAWN_nameDef] ﺮﻓﺎﺳ}</Actor72.description>
+  <!-- EN: actor -->
+  <Actor72.title>ﻞﺜﻤﻣ</Actor72.title>
+  <Actor72.titleFemale>ﺔﻠﺜﻤﻣ</Actor72.titleFemale>
+  <!-- EN: actor -->
+  <Actor72.titleShort>ﻞﺜﻤﻣ</Actor72.titleShort>
+  <Actor72.titleShortFemale>ﺔﻠﺜﻤﻣ</Actor72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
+  <AnimalFarmer21.description>{PAWN_gender ? . ﺪﻠﺠﻟﺍﻭ ﺾﻴﺒﻟﺍﻭ ﺐﻴﻠﺤﻟﺍﻭ ﻡﻮﺤﻠﻟﺍ ﺮﻴﻓﻮﺘﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﺍًﻋﺍﻮﻧﺃ [PAWN_nameDef] ﺕّﺑﺭ : . ﺪﻠﺠﻟﺍﻭ ﺾﻴﺒﻟﺍﻭ ﺐﻴﻠﺤﻟﺍﻭ ﻡﻮﺤﻠﻟﺍ ﺮﻴﻓﻮﺘﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﺔﻴﺑﺮﺘﺑ [PAWN_nameDef] ﻡﺎﻗ}</AnimalFarmer21.description>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.title>ﺕﺎﻧﺍﻮﻴﺣ ﻉﺭﺍﺰﻣ</AnimalFarmer21.title>
+  <AnimalFarmer21.titleFemale>ﺕﺎﻧﺍﻮﻴﺣ ﺔﻳّﺑﺭُﻣ</AnimalFarmer21.titleFemale>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.titleShort>ﺕﺎﻧﺍﻮﻴﺣ ﻱّﺑﺭُﻣ</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShortFemale>ﺕﺎﻧﺍﻮﻴﺣ ﺔﻳّﺑﺭُﻣ</AnimalFarmer21.titleShortFemale>
+  
+  <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
+  <AsceticPriest84.description>{PAWN_gender ? . ﺉﺩﺎﻬﻟﺍ ﻞﻣﺄﺘﻟﺍ ﻲﻓ ﺎﻬﻣﺎﻳﺃ ﺀﺎﻀﻘﻟ ﺮﻳﺩ ﻰﻟﺇ [PAWN_nameDef] ﺖﻤﻀﻧﺍ ،ﺖﻤﺼﻟﺍ ﻰﻠﻋ ﺖﻤﺴﻗﺃ ﻥﺃ ﺪﻌﺑ\n\n. ﺮﻳﺪﻟﺍ ﺔﻴﺒﻗﺃ ﻲﻓ ﻦﺒﺠﻟﺍ ﻊﻨﺻﻭ ﺔﻘﻳﺪﺤﻟﺍ ﻲﻓ ﺕﺍﻭﺮﻀﺨﻟﺍ ﺔﻋﺍﺭﺯ ﻲﻓ ﺎﻬﺗﺩﺎﻌﺳ ﺕﺪﺟﻭ : . ﺉﺩﺎﻬﻟﺍ ﻞﻣﺄﺘﻟﺍ ﻲﻓ ﻪﻣﺎﻳﺃ ﺀﺎﻀﻘﻟ ﺮﻳﺩ ﻰﻟﺇ ﻢﻀﻧﺍ ،ﺖﻤﺼﻟﺎﺑ ﺍًﻤﺴﻗ [PAWN_nameDef] ﺬﺧﺃ ﻥﺃ ﺪﻌﺑ\n\n. ﺮﻳﺪﻟﺍ ﺔﻴﺒﻗﺃ ﻲﻓ ﻦﺒﺠﻟﺍ ﻊﻨﺻﻭ ﺔﻘﻳﺪﺤﻟﺍ ﻲﻓ ﺕﺍﻭﺮﻀﺨﻟﺍ ﺔﻋﺍﺭﺯ ﻲﻓ ﺓﺩﺎﻌﺴﻟﺍ ﺪﺟﻭ}</AsceticPriest84.description>
+  <!-- EN: ascetic priest -->
+  <AsceticPriest84.title>ﺪﻫﺍﺯ ﻦﻫﺎﻛ</AsceticPriest84.title>
+  <AsceticPriest84.titleFemale>ﺓﺪﻫﺍﺯ ﺔﺒﻫﺍﺭ</AsceticPriest84.titleFemale>
+  <!-- EN: priest -->
+  <AsceticPriest84.titleShort>ّﺲﻗ</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShortFemale>ﺔﻨﻫﺎﻛ</AsceticPriest84.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
+  <Bartender62.description>{PAWN_gender ? . ﺱﻭﺅﺭ ﻢﻴﻄﺤﺗ ﺀﺰﺟﻭ ،ﺔﻴﺳﺎﻣﻮﻠﺑﺩ ﺀﺰﺟﻭ ،ﺕﺎﺑﻭﺮﺸﻣ ﻂﻠﺧ ﺀﺰﺟ ﻦﻋ ﺓﺭﺎﺒﻋ ﻞﻤﻌﻟﺍ ﻥﺎﻛ. ﺔﻫﻮﺒﺸﻣ ﺔﻧﺎﺣ ﻲﻓ ﺔﻟﺩﺎﻨﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺱﻭﺅﺭ ﻢﻴﻄﺤﺗ ﺀﺰﺟﻭ ،ﺔﻴﺳﺎﻣﻮﻠﺑﺩ ﺀﺰﺟﻭ ،ﺕﺎﺑﻭﺮﺸﻣ ﻂﻠﺧ ﺀﺰﺟ ﻦﻋ ﺓﺭﺎﺒﻋ ﻞﻤﻌﻟﺍ ﻥﺎﻛ. ﺔﻫﻮﺒﺸﻣ ﺔﻧﺎﺣ ﻲﻓ ﻝﺩﺎﻨﻛ [PAWN_nameDef] ﻞﻤﻋ}</Bartender62.description>
+  <!-- EN: bartender -->
+  <Bartender62.title>ﻝﺩﺎﻧ</Bartender62.title>
+  <Bartender62.titleFemale>ﺔﻟﺩﺎﻧ</Bartender62.titleFemale>
+  <!-- EN: barkeep -->
+  <Bartender62.titleShort>ﺔﻧﺎﺣ ﻝﺩﺎﻧ</Bartender62.titleShort>
+  <Bartender62.titleShortFemale>ﺔﻧﺎﺣ ﺔﻟﺩﺎﻧ</Bartender62.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
+  <Bodyguard58.description>{PAWN_gender ? . ﺎﻬﻴﻠﻋ ﺃﺮﺠﺗ ﻦﻣ ﻩﺎﺠﺗ ﺎﻬﺗﻮﺴﻘﺑ ﺔﻓﻭﺮﻌﻣ ﺖﻧﺎﻛﻭ ،ﺔﻔﻠﺘﺨﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻝﺎﻜﺷﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺓﺀﺎﻔﻛ ﺖﺒﺴﺘﻛﺍ. ﺎﻬﻟ ﻊﻓﺪﻳ ﻦﻣ ﺔﻳﺎﻤﺣ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﻪﻴﻠﻋ ﺃﺮﺠﺗ ﻦﻣ ﻩﺎﺠﺗ ﻪﺗﻮﺴﻘﺑ ﺍًﻓﻭﺮﻌﻣ ﻥﺎﻛﻭ ،ﺔﻔﻠﺘﺨﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻝﺎﻜﺷﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺍًﻧﺎﻘﺗﺇ ﺐﺴﺘﻛﺍ. ﻪﻟ ﻊﻓﺪﻳ ﻦﻣ ﺔﻳﺎﻤﺣ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ}</Bodyguard58.description>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.title>ﻲﺼﺨﺷ ﺱﺭﺎﺣ</Bodyguard58.title>
+  <Bodyguard58.titleFemale>ﺔﻴﺼﺨﺷ ﺔﺳﺭﺎﺣ</Bodyguard58.titleFemale>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.titleShort>ﻲﺼﺨﺷ ﺱﺭﺎﺣ</Bodyguard58.titleShort>
+  <Bodyguard58.titleShortFemale>ﺔﻴﺼﺨﺷ ﺔﺳﺭﺎﺣ</Bodyguard58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
+  <CaveExplorer45.description>{PAWN_gender ? . ﺍًﺪﻴﺟ ﻥﺎﻛ ﺮﺟﻷﺍ ﻦﻜﻟ ،ﺔﻳﺎﻐﻠﻟ ﺍًﺮﻴﻄﺧ ﺎﻬﻠﻤﻋ ﻥﺎﻛﻭ ،ﺔﻨﻴﻤﺜﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻋ ﺍًﺜﺤﺑ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺐﻌﺼﻳ ﻲﺘﻟﺍ ﻕﻮﻘﺸﻟﺍﻭ ﺔﻤﻠﻈﻤﻟﺍ ﻕﺎﻔﻧﻸﻟ ﻂﺋﺍﺮﺧ ﻢﺳﺭ ﻝﻼﺧ ﻦﻣ ﺎﻬﻗﺯﺭ ﺐﺴﻛ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺍًﺪﻴﺟ ﻥﺎﻛ ﺮﺟﻷﺍ ﻦﻜﻟ ،ﺔﻳﺎﻐﻠﻟ ﺍًﺮﻄﺧ ﻪﻠﻤﻋ ﻥﺎﻛﻭ ،ﺔﻨﻴﻤﺜﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻋ ﺍًﺜﺤﺑ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺐﻌﺼﻳ ﻲﺘﻟﺍ ﻕﻮﻘﺸﻟﺍﻭ ﺔﻤﻠﻈﻤﻟﺍ ﻕﺎﻔﻧﻸﻟ ﻂﺋﺍﺮﺧ ﻢﺳﺭ ﻝﻼﺧ ﻦﻣ ﻪﻗﺯﺭ ﺐﺴﻛ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ}</CaveExplorer45.description>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.title>ﻑﻮﻬﻛ ﻒﺸﻜﺘﺴﻣ</CaveExplorer45.title>
+  <CaveExplorer45.titleFemale>ﻑﻮﻬﻛ ﺔﻔﺸﻜﺘﺴﻣ</CaveExplorer45.titleFemale>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.titleShort>ﻑﻮﻬﻛ ﻒﺸﻜﺘﺴﻣ</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShortFemale>ﻑﻮﻬﻛ ﺔﻔﺸﻜﺘﺴﻣ</CaveExplorer45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work. -->
+  <Chef52.description>{PAWN_gender ? . ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻸﻟ ﻱﺩﺎﻌﻟﺍ ﺎﻫﺀﺍﺭﺩﺯﺎﺑ ﺦﺒﻄﻤﻟﺍ ﻲﻔﻇﻮﻣ ﻦﻴﺑ ﺓﺭﻮﻬﺸﻣﻭ ،ﺓﺮﻜﺘﺒﻤﻟﺍ ﺔﻴﻴﻬﻄﻟﺍ ﺎﻬﺗﺎﺼﺼﺨﺘﺑ ﻦﺋﺎﺑﺰﻟﺍ ﻦﻴﺑ ﺓﺭﻮﻬﺸﻣ ﺖﻧﺎﻛ. ﺔﻴﺳﺎﺳﻷﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ٍﻕﺍﺭ ﻢﻌﻄﻣ ﻲﻓ ﺔﻤﺠﻨﻟﺍ ﻒﻴﺸﻟﺍ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻸﻟ ﻱﺩﺎﻌﻟﺍ ﻪﺋﺍﺭﺩﺯﺎﺑ ﺦﺒﻄﻤﻟﺍ ﻲﻔﻇﻮﻣ ﻦﻴﺑ ﺍًﺭﻮﻬﺸﻣﻭ ،ﺔﻴﻋﺍﺪﺑﻹﺍ ﺔﻴﻴﻬﻄﻟﺍ ﻪﺗﺎﺼﺼﺨﺘﺑ ﻦﺋﺎﺑﺰﻟﺍ ﻦﻴﺑ ﺍًﺭﻮﻬﺸﻣ ﻥﺎﻛ. ﺔﻴﺳﺎﺳﻷﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ٍﻕﺍﺭ ﻢﻌﻄﻣ ﻲﻓ ﻢﺠﻨﻟﺍ ﻲﻫﺎﻄﻟﺍ [PAWN_nameDef] ﻥﺎﻛ}</Chef52.description>
+  <!-- EN: chef -->
+  <Chef52.title>ﻲﻫﺎﻃ</Chef52.title>
+  <Chef52.titleFemale>ﺔﻴﻫﺎﻃ</Chef52.titleFemale>
+  <!-- EN: chef -->
+  <Chef52.titleShort>ﻲﻫﺎﻃ</Chef52.titleShort>
+  <Chef52.titleShortFemale>ﺓﺮﻫﺎﻣ ﺔﻴﻫﺎﻃ</Chef52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
+  <CivilServant2.description>{PAWN_gender ? . ﺔﻴﺒﺘﻜﻤﻟﺍ ﺔﺳﺎﻴﺴﻟﺍ ﺐﻌﻟﻭ ﺓﺪﻘﻌﻤﻟﺍ ﻕﺍﺭﻭﻷﺍ ﺀﻠﻣ ﺪﻨﻋ ﺮﺒﻛﻷﺍ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﺗ ﻲﻫﻭ ،ﺓﺮﻀﺘﺤﻣ ﺔﻴﻣﻮﻜﺣ ﺔﻴﻃﺍﺮﻗﻭﺮﻴﺑ ﻲﻓ ﺔﺒﺗﺮﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺔﻟﻭﺆﺴﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻴﺒﺘﻜﻤﻟﺍ ﺔﺳﺎﻴﺴﻟﺍ ﺐﻌﻟﻭ ﺓﺪﻘﻌﻤﻟﺍ ﻕﺍﺭﻭﻷﺍ ﺀﻠﻣ ﺪﻨﻋ ﺮﺒﻛﻷﺍ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﻳ ﻮﻫﻭ ،ﺓﺮﻀﺘﺤﻣ ﺔﻴﻣﻮﻜﺣ ﺔﻴﻃﺍﺮﻗﻭﺮﻴﺑ ﻲﻓ ﺔﺒﺗﺮﻟﺍ ﺾﻔﺨﻨﻣ ﻱﺭﺍﺩﺈﻛ [PAWN_nameDef] ﻞﻤﻋ}</CivilServant2.description>
+  <!-- EN: civil servant -->
+  <CivilServant2.title>ﺔﻴﻧﺪﻣ ﺔﻣﺪﺧ ﻒﻇﻮﻣ</CivilServant2.title>
+  <CivilServant2.titleFemale>ﺔﻴﻧﺪﻣ ﺔﻣﺪﺧ ﺔﻔﻇﻮﻣ</CivilServant2.titleFemale>
+  <!-- EN: bureaucrat -->
+  <CivilServant2.titleShort>ﻱﺭﺍﺩﺇ ﻒﻇﻮﻣ</CivilServant2.titleShort>
+  <CivilServant2.titleShortFemale>ﺔﻳﺭﺍﺩﺇ ﺔﻔﻇﻮﻣ</CivilServant2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
+  <ConArtist80.description>{PAWN_gender ? . ﻥﻭﺮﺧﻵﺍ ﻩﺄﺸﻧﺃ ﺎﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺓﺮﻄﻔﻟﺎﺑ ﺔﺑﻮﻫﻮﻣ ﺎﻬﻧﺃ ﺖﺘﺒﺛﺃ ﺎﻬﻨﻜﻟﻭ ،ﻂﻗ ﺎﻬﺗﺎﻴﺣ ﻲﻓ ﺀﻴﺷ ﻱﺃ [PAWN_nameDef] ﻖﻠﺨﺗ ﻢﻟ : . ﻥﻭﺮﺧﻵﺍ ﻩﺄﺸﻧﺃ ﺎﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺓﺮﻄﻔﻟﺎﺑ ﺏﻮﻫﻮﻣ ﻪﻧﺃ ﺖﺒﺛﺃ ﻪﻨﻜﻟ ،ﺍًﺪﺑﺃ ﻪﺗﺎﻴﺣ ﻲﻓ ﺀﻴﺷ ﻱﺃ [PAWN_nameDef] ﻖﻠﺨﻳ ﻢﻟ}</ConArtist80.description>
+  <!-- EN: con artist -->
+  <ConArtist80.title>ﻝﺎﺘﺤﻣ</ConArtist80.title>
+  <ConArtist80.titleFemale>ﺔﻟﺎﺘﺤﻣ</ConArtist80.titleFemale>
+  <!-- EN: con artist -->
+  <ConArtist80.titleShort>ﻝﺎﺘﺤﻣ</ConArtist80.titleShort>
+  <ConArtist80.titleShortFemale>ﺔﻟﺎﺘﺤﻣ</ConArtist80.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.description>{PAWN_gender ? . ﺔﻴﻋﺍﺪﺑﻹﺍﻭ ﺓﺪﻳﺮﻔﻟﺍ ﺔﻴﻤﻴﻫﺎﻔﻤﻟﺍ ﺔﻴﻨﻔﻟﺍ ﺎﻬﻟﺎﻤﻋﻷ ﻡﻷﺍ ﺎﻬﻤﻟﺎﻋ ﻰﻠﻋ ﺔﻴﻨﻔﻟﺍ ﻁﺎﺳﻭﻷﺍ ﻲﻓ ﺍًﺪﻴﺟ ًﺔﻓﻭﺮﻌﻣ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﻊﻤﺠﻟﺍ ﺓﺍﻮﻫ ﻯﺪﻟ ﺔﻴﻟﺎﻋ ﺔﻤﻴﻗ ﺕﺍﺫ ﺖﻧﺎﻛ ﺎﻬﻟﺎﻤﻋﺃ ﻦﻜﻟ ،ﻪﻠﻴﺻﻮﺗ ﻝﻭﺎﺤﺗ ﺖﻧﺎﻛ ﺎﻤﻣ ﺍًﻣﺎﻤﺗ ﺍًﺪﻛﺄﺘﻣ ﺪﺣﺃ ﻦﻜﻳ ﻢﻟ : . ﺔﻴﻋﺍﺪﺑﻹﺍﻭ ﺓﺪﻳﺮﻔﻟﺍ ﺔﻴﻤﻴﻫﺎﻔﻤﻟﺍ ﺔﻴﻨﻔﻟﺍ ﻪﻟﺎﻤﻋﻷ ﻡﻷﺍ ﻪﻤﻟﺎﻋ ﻰﻠﻋ ﺔﻴﻨﻔﻟﺍ ﻁﺎﺳﻭﻷﺍ ﻲﻓ ﺍًﺪﻴﺟ ﺍًﻓﻭﺮﻌﻣ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻊﻤﺠﻟﺍ ﺓﺍﻮﻫ ﻯﺪﻟ ﺔﻴﻟﺎﻋ ﺔﻤﻴﻗ ﺕﺍﺫ ﺖﻧﺎﻛ ﻪﻟﺎﻤﻋﺃ ﻦﻜﻟ ،ﻪﻠﻴﺻﻮﺗ ﻝﻭﺎﺤﻳ ﻥﺎﻛ ﺎﻤﻣ ﺍًﻣﺎﻤﺗ ﺍًﺪﻛﺄﺘﻣ ﺪﺣﺃ ﻦﻜﻳ ﻢﻟ}</ConceptualArtist39.description>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>ﻲﻤﻴﻫﺎﻔﻣ ﻥﺎﻨﻓ</ConceptualArtist39.title>
+  <ConceptualArtist39.titleFemale>ﺔﻴﻤﻴﻫﺎﻔﻣ ﺔﻧﺎﻨﻓ</ConceptualArtist39.titleFemale>
+  <!-- EN: artist -->
+  <ConceptualArtist39.titleShort>ﻥﺎﻨﻓ</ConceptualArtist39.titleShort>
+  <ConceptualArtist39.titleShortFemale>ﺔﻧﺎﻨﻓ</ConceptualArtist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
+  <ConstructionEngineer32.description>{PAWN_gender ? . ﺕﺎﻴﺋﺍﺭﺪﺗﺎﻜﻟﺍ ﻰﻟﺇ ﺔﻴﺒﺘﻜﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﻰﻨﺑ ﺍًﻘﻳﺮﻓ ﺕﺩﺎﻗﻭ ،ﺀﺎﻨﺑ ﺔﻠﻣﺎﻋ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﺍًﺪﺑﺃ ﺎﻬﺴﻔﻨﻟ ﺦﺒﻄﺗ ﻢﻟ ،ﺔﺒﻳﺮﻘﻟﺍ ﺔﻌﻳﺮﺴﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﻢﻋﺎﻄﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍﻭ ﻢﺣﺩﺰﻤﻟﺍ ﺎﻬﻠﻤﻋ ﺐﺒﺴﺑ : . ﺕﺎﻴﺋﺍﺭﺪﺗﺎﻜﻟﺍ ﻰﻟﺇ ﺔﻴﺒﺘﻜﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﻰﻨﺑ ﺍًﻘﻳﺮﻓ ﺩﺎﻗ. ﺀﺎﻨﺑ ﻞﻣﺎﻋ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﺍًﺪﺑﺃ ﻪﺴﻔﻨﻟ ﺦﺒﻄﻳ ﻢﻟ ﻪﻧﺃ ﻲﻨﻌﺗ ﺔﺒﻳﺮﻘﻟﺍ ﺔﻌﻳﺮﺴﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﻢﻋﺎﻄﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍﻭ ﺔﻤﺣﺩﺰﻤﻟﺍ ﻪﺘﻔﻴﻇﻭ ﺖﻧﺎﻛ}</ConstructionEngineer32.description>
+  <!-- EN: construction engineer -->
+  <ConstructionEngineer32.title>ﺀﺎﻨﺑ ﺱﺪﻨﻬﻣ</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleFemale>ﺀﺎﻨﺑ ﺔﺳﺪﻨﻬﻣ</ConstructionEngineer32.titleFemale>
+  <!-- EN: builder -->
+  <ConstructionEngineer32.titleShort>ﻲﻧﺎﺑ</ConstructionEngineer32.titleShort>
+  <ConstructionEngineer32.titleShortFemale>ﺔﻴﻧﺎﺑ</ConstructionEngineer32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
+  <ContractMiner86.description>{PAWN_gender ? . ًﺎﻳﺰﺟُﻣ ﻪﺗﺪﺟﻭ ﺎﻬﻨﻜﻟ ،ﺍًﺨﺴﺘﻣﻭ ﺍًﻗﺎﺷ ﻞﻤﻌﻟﺍ ﻥﺎﻛ. ﺔﻓﻮﺸﻜﻤﻟﺍ ﻢﺟﺎﻨﻤﻟﺍﻭ ﻕﺎﻔﻧﻷﺍ ﻲﻓ ﺔﻤﻳﺪﻘﻟﺍ ﻒﺤﺘﻟﺍﻭ ﻥﺩﺎﻌﻤﻟﺍ ﺖﺟﺮﺨﺘﺳﺍﻭ ،ﻯﺮﺧﺃ ﻰﻟﺇ ﺔﻔﻴﻇﻭ ﻦﻣ [PAWN_nameDef] ﺖﻠﻘﻨﺗ : . ًﺔﻌﺘﻣ ﻪﻴﻓ ﺪﺟﻭ ﻪﻨﻜﻟ ،ﺍًﺨﺴﺘﻣﻭ ﺍًﻗﺎﺷ ﻞﻤﻌﻟﺍ ﻥﺎﻛ. ﺔﻓﻮﺸﻜﻤﻟﺍ ﻢﺟﺎﻨﻤﻟﺍﻭ ﻕﺎﻔﻧﻷﺍ ﻲﻓ ﺔﻤﻳﺪﻘﻟﺍ ﻒﺤﺘﻟﺍﻭ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺮﺨﺘﺳﺍﻭ ،ﻯﺮﺧﺃ ﻰﻟﺇ ﺔﻔﻴﻇﻭ ﻦﻣ [PAWN_nameDef] ﻞﻘﻨﺗ}</ContractMiner86.description>
+  <!-- EN: contract miner -->
+  <ContractMiner86.title>ﺪﻗﺎﻌﺘﻣ ﻢﺠﻨﻣ ﻞﻣﺎﻋ</ContractMiner86.title>
+  <ContractMiner86.titleFemale>ﺓﺪﻗﺎﻌﺘﻣ ﻢﺠﻨﻣ ﺔﻠﻣﺎﻋ</ContractMiner86.titleFemale>
+  <!-- EN: contract miner -->
+  <ContractMiner86.titleShort>ﺪﻗﺎﻌﺘﻣ ﻢﺠﻨﻣ ﻞﻣﺎﻋ</ContractMiner86.titleShort>
+  <ContractMiner86.titleShortFemale>ﺓﺪﻗﺎﻌﺘﻣ ﻢﺠﻨﻣ ﺔﻠﻣﺎﻋ</ContractMiner86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
+  <CorporateManager76.description>{PAWN_gender ? . ﻥﺎﻴﺣﻷﺍ ﺐﻠﻏﺃ ﻲﻓ ﻢﻬﻣﺎﻬﻤﺑ ﻦﻴﻣﺰﺘﻠﻣ ﺍﻮﻠﻇ ﻝﺎﻤﻌﻟﺍ ﻦﻣ ﺎﻬﻘﻳﺮﻓ ﻥﺃ ﻦﻣ ﺪﻛﺄﺘﺗ ﺖﻧﺎﻛﻭ ،ﻢﺨﺿ ﺡﻮﺘﻔﻣ ﺐﺘﻜﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺍًﺒﻳﺮﻘﺗ ﺺﺨﺷ ﻱﺃ ﻩﺰﺠﻧﺃ ﻱﺬﻟﺍ ﻞﻤﻌﻟﺍ ﻲﻓ ﻞﻀﻔﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﺚﻴﺤﺑ ﺭﻮﻣﻷﺍ ﺮﺑﺪﺗ ﻒﻴﻛ [PAWN_nameDef] ﺖﻤﻠﻌﺗ ،ﻡﺪﻘﺘﻟﺍ ﻞﺟﺃ ﻦﻣ. ﺔﻴﺳﺎﻴﺴﻟﺍ ﺪﻳﺪﺷ ﻞﻤﻌﻟﺍ ﻥﺎﻛ : . ﻥﺎﻴﺣﻷﺍ ﺐﻠﻏﺃ ﻲﻓ ﻢﻬﻣﺎﻬﻤﺑ ﻦﻴﻣﺰﺘﻠﻣ ﺍﻮﻠﻇ ﻝﺎﻤﻌﻟﺍ ﻦﻣ ﻦﻴﻌﻤﻟﺍ ﻪﻘﻳﺮﻓ ﻥﺃ ﻚﻟﺫ ﻦﻤﺿﻭ ،ﺡﻮﺘﻔﻣ ﻢﺨﺿ ﺐﺘﻜﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﺍًﺒﻳﺮﻘﺗ ﺺﺨﺷ ﻱﺃ ﻩﺰﺠﻧﺃ ﻱﺬﻟﺍ ﻞﻤﻌﻟﺍ ﻲﻓ ﻞﻀﻔﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻣ ﻦﻜﻤﺘﻳ ﺚﻴﺤﺑ ﺭﻮﻣﻷﺍ ﺐﺗﺮﻳ ﻒﻴﻛ [PAWN_nameDef] ﻢﻠﻌﺗ ،ﻡﺪﻘﺘﻟﺍ ﻞﺟﺃ ﻦﻣ. ﺔﻳﺎﻐﻠﻟ ﺔﻴﺳﺎﻴﺳ ﺔﻔﻴﻇﻮﻟﺍ ﺖﻧﺎﻛ}</CorporateManager76.description>
+  <!-- EN: corporate manager -->
+  <CorporateManager76.title>ﺔﻛﺮﺷ ﺮﻳﺪﻣ</CorporateManager76.title>
+  <CorporateManager76.titleFemale>ﺕﺎﻛﺮﺷ ﺓﺮﻳﺪﻣ</CorporateManager76.titleFemale>
+  <!-- EN: manager -->
+  <CorporateManager76.titleShort>ﺮﻳﺪﻣ</CorporateManager76.titleShort>
+  <CorporateManager76.titleShortFemale>ﺓﺮﻳﺪﻣ</CorporateManager76.titleShortFemale>
+  
+  <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
+  <Counselor26.description>{PAWN_gender ? . ﺔﻴﻔﻃﺎﻌﻟﺍ ﻢﻬﻠﻛﺎﺸﻣ ﻰﻠﻋ ﺐﻠﻐﺘﻟﺍ ﻰﻠﻋ ﻦﻳﺮﺧﻵﺍ ﺓﺪﻋﺎﺴﻤﻟ ﺓﺪﻳﺪﺠﻟﺍ ﺎﻬﺗﺍﺭﺎﻬﻣ ﻡﺍﺪﺨﺘﺳﺍ ﺕﺭﺮﻗﻭ ،ﻡﺎﻌﻄﻟﺍ ﻊﻣ ﺮﺜﻛﺃ ﺔﻴﺤﺻ ﺔﻗﻼﻋ ﺀﺎﻨﺑ ﺖﻤﻠﻌﺗ ،ﺓﺭﺎﺸﺘﺳﻻﺍ ﻝﻼﺧ ﻦﻣ. ﺩﺎﺣ ﻞﻛﺃ ﺏﺍﺮﻄﺿﺎﺑ ﺎﻬﺘﺑﺎﺻﺇ ﻲﻓ ﺖﺒﺒﺴﺗ ﺔﺑﺎﺷ ﺖﻧﺎﻛ ﺎﻣﺪﻨﻋ [PAWN_nameDef] ﺎﻬﻟ ﺖﺿﺮﻌﺗ ﺔﺒﻋﺮﻣ ﺔﻣﺪﺻ : . ﺔﻴﻔﻃﺎﻌﻟﺍ ﻢﻬﻠﻛﺎﺸﻣ ﻰﻠﻋ ﺐﻠﻐﺘﻟﺍ ﻰﻠﻋ ﻦﻳﺮﺧﻵﺍ ﺓﺪﻋﺎﺴﻤﻟ ﺓﺪﻳﺪﺠﻟﺍ ﻪﺗﺍﺭﺎﻬﻣ ﻡﺪﺨﺘﺴﻳ ﻥﺃ ﺭﺮﻗﻭ ،ﻡﺎﻌﻄﻟﺎﺑ ﺔﻴﺤﺻ ﺔﻗﻼﻋ ﻥّﻮﻜﻳ ﻒﻴﻛ ﻢﻠﻌﺗ ،ﻲﺴﻔﻨﻟﺍ ﺝﻼﻌﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺎﺑﻭ. ﻞﻛﻷﺍ ﻲﻓ ﺮﻴﻄﺧ ﺏﺍﺮﻄﺿﺎﺑ ﻪﺘﺑﺎﺻﺇ ﻰﻟﺇ ﻯﺩﺃ ﺎﻤﻣ ،ﻪﺑﺎﺒﺷ ﺓﺮﺘﻓ ﻲﻓ ﺔﻋﻭﺮﻣ ﺔﻣﺪﺻ [PAWN_nameDef] ﺖﺑﺎﺻﺃ}</Counselor26.description>
+  <!-- EN: counselor -->
+  <Counselor26.title>ﺭﺎﺸﺘﺴﻣ</Counselor26.title>
+  <Counselor26.titleFemale>ﺔﻴﺴﻔﻧ ﺓﺭﺎﺸﺘﺴﻣ</Counselor26.titleFemale>
+  <!-- EN: counselor -->
+  <Counselor26.titleShort>ﻲﺴﻔﻧ ﺭﺎﺸﺘﺴﻣ</Counselor26.titleShort>
+  <Counselor26.titleShortFemale>ﺔﻴﺴﻔﻧ ﺓﺭﺎﺸﺘﺴﻣ</Counselor26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
+  <CropFarmer17.description>{PAWN_gender ? . ﺔﻌﺳﺎﺸﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻝﻮﻘﺣ ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ ﻦﻴﺴﺤﺘﻟ ﺭﺎﻌﺳﻷﺍ ﺕﺎﻫﺎﺠﺗﺍﻭ ﺲﻘﻄﻟﺍ ﻁﺎﻤﻧﺃﻭ ﺔﻴﻋﺍﺭﺰﻟﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺔﺑﺮﺘﻟﺍ ﺖﻠﻠﺣ. ﻞﻴﺻﺎﺤﻤﻠﻟ ًﺔﻋﺭﺍﺰﻣ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻌﺳﺎﺸﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻝﻮﻘﺣ ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ ﻦﻴﺴﺤﺘﻟ ﺭﺎﻌﺳﻷﺍ ﺕﺎﻫﺎﺠﺗﺍﻭ ﺲﻘﻄﻟﺍ ﻁﺎﻤﻧﺃﻭ ﺔﻴﻋﺍﺭﺰﻟﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺔﺑﺮﺘﻟﺍ ﻝّﻠﺣ. ﻞﻴﺻﺎﺤﻤﻠﻟ ﺍًﻋﺭﺍﺰﻣ [PAWN_nameDef] ﻞﻤﻋ}</CropFarmer17.description>
+  <!-- EN: crop farmer -->
+  <CropFarmer17.title>ﻞﻴﺻﺎﺤﻣ ﻉﺭﺍﺰﻣ</CropFarmer17.title>
+  <CropFarmer17.titleFemale>ﻞﻴﺻﺎﺤﻣ ﺔﻋﺭﺍﺰﻣ</CropFarmer17.titleFemale>
+  <!-- EN: farmer -->
+  <CropFarmer17.titleShort>ﻉﺭﺍﺰﻣ</CropFarmer17.titleShort>
+  <CropFarmer17.titleShortFemale>ﺔﻋﺭﺍﺰﻣ</CropFarmer17.titleShortFemale>
+  
+  <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
+  <Defector78.description>{PAWN_gender ? . ﺎﻬﺘﻘﺣﻼﻤﻟ ﺀﻼﻤﻋ ﺖﻠﺳﺭُﺃﻭ ،ﺍًﺪﻴﺟ ﺍًﻟﺎﺒﻘﺘﺳﺍ ﺎﻬﻗﺎﻘﺸﻧﺍ ﻞﺒﻘﺘﺳُﻳ ﻢﻟ. ﺎﻬﻴﻓ ﺶﻴﻌﺗ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺔﻴﻌﻤﻘﻟﺍ ﺔﻳﺭﻮﺗﺎﺘﻜﻳﺪﻟﺍ ﻙﺮﺘﺗ ﻥﺃ [PAWN_nameDef] ﺕﺭﺮﻗ ،ﺎﻬﺑﺎﺒﺷ ﻞﺒﺘﻘﻣ ﻲﻓ\n\n. ﺔﻘﺜﻟﺍ ﺔﻤﻳﺪﻋﻭ ًﺓّﺭُﻣ ﺔﻨﺤﻤﻟﺍ ﺎﻬﺘﻠﻌﺟ. ﺎﻬﺘﻧﺎﻴﺧ ﻦﻣ ﺐﻴﺒﻃ ﻦﻜﻤﺘﻳ ﻻ ﻰﺘﺣ ﺎﻬﺴﻔﻨﺑ ﺎﻬﺣﻭﺮﺟ ﺞﻟﺎﻌﺗ ،ﺏﺮﻬﺗ ﻲﻫﻭ ﺕﺍﻮﻨﺳ ﺖﻀﻗ : . ﻪﺗﺩﺭﺎﻄﻤﻟ ﺀﻼﻤﻋ ﺖﻠﺳﺭُﺃﻭ ،ﺍًﺪﻴﺟ ﺍًﻟﺎﺒﻘﺘﺳﺍ ﻪﻗﺎﻘﺸﻧﺍ ﻞﺒﻘﺘﺳُﻳ ﻢﻟ. ﺎﻬﻴﻓ ﺶﻴﻌﻳ ﻥﺎﻛ ﻲﺘﻟﺍ ﺔﻴﻌﻤﻘﻟﺍ ﺔﻳﺭﻮﺗﺎﺘﻜﻳﺪﻟﺍ ﻙﺮﺗ [PAWN_nameDef] ﺭﺮﻗ ،ﻪﺑﺎﺒﺷ ﻞﺋﺍﻭﺃ ﻲﻓ\n\n. ﺔﻘﺜﻟﺍ ﻢﻳﺪﻋﻭ ﺍًﺮﻣ ﺔﻨﺤﻤﻟﺍ ﻪﺘﻠﻌﺟ. ﻪﺘﻧﺎﻴﺧ ﻦﻣ ﺐﻴﺒﻃ ﻦﻜﻤﺘﻳ ﻻ ﻰﺘﺣ ﻪﺴﻔﻨﺑ ﻪﺣﻭﺮﺟ ﺞﻟﺎﻌﻳ ،ﺭﺍﺮﻓ ﺔﻟﺎﺣ ﻲﻓ ﻮﻫﻭ ﺕﺍﻮﻨﺳ ﻰﻀﻗ}</Defector78.description>
+  <!-- EN: defector -->
+  <Defector78.title>ﻖﺸﻨﻣ</Defector78.title>
+  <Defector78.titleFemale>ﺔﻘﺸﻨﻣ</Defector78.titleFemale>
+  <!-- EN: defector -->
+  <Defector78.titleShort>ﻖﺸﻨﻣ</Defector78.titleShort>
+  <Defector78.titleShortFemale>ﺔﻘﺸﻨﻣ</Defector78.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] traveled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.description>{PAWN_gender ? . ﺎﻬﺗﺪﺟﻭ ﺎﻤﻨﻳﺃ ﺔﻴﺿﺮﻋ ﺍًﻟﺎﻤﻋﺃ ﺖﻠﺒﻘﺗﻭ ،ﺍًﺮﻴﺜﻛ ﺕﺮﻓﺎﺳ. ﺎﻬﺗﺎﻴﺤﺑ ﻪﻠﻌﻔﺗ ﻥﺃ ﺐﺠﻳ ﻱﺬﻟﺍ ﺎﻣ ﺍًﺪﺑﺃ [PAWN_nameDef] ﻢﻬﻔﺗ ﻢﻟ\n\n. ﺍًﻤﺘﻬﻣ ﺍًﺮﺷﺎﻧ ﺪﺠﺗ ﻥﺃ ﺩﺮﺠﻤﺑ - ﺍًﻌﻴﺒﻣ ﺮﺜﻛﻷﺍ ﺢﺒﺼﺘﺳ ﺎﻬﻧﺃ ﻢﻠﻌﺗ ﺖﻧﺎﻛ ﺔﻳﺍﻭﺭ ﻰﻠﻋ ﺍًﻧﺎﻴﺣﺃ ﺖﻠﻤﻋ ﺎﻤﻛ : . ﺎﻫﺪﺟﻭ ﺎﻤﻨﻳﺃ ﺔﻴﺿﺮﻌﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻞﺒﻘﺗﻭ ،ﺍًﺮﻴﺜﻛ ﺮﻓﺎﺳ. ﻪﺗﺎﻴﺤﺑ ﻪﻠﻌﻔﻳ ﻥﺃ ﺐﺠﻳ ﻱﺬﻟﺍ ﺎﻣ ﺔﻓﺮﻌﻣ ﻦﻣ ﺍًﺪﺑﺃ [PAWN_nameDef] ﻦﻜﻤﺘﻳ ﻢﻟ\n\n. ﻢﺘﻬﻣ ﺮﺷﺎﻧ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻣ ﻦﻜﻤﺘﻳ ﻥﺃ ﺩﺮﺠﻤﺑ - ﺍًﻌﻴﺒﻣ ﺮﺜﻛﻷﺍ ﺢﺒﺼﺘﺳ ﺎﻬﻧﺃ ﻢﻠﻌﻳ ﻥﺎﻛ ﺔﻳﺍﻭﺭ ﻰﻠﻋ ﺍًﻧﺎﻴﺣﺃ ﻞﻤﻋ ﺎﻤﻛ}</Drifter67.description>
+  <!-- EN: drifter -->
+  <Drifter67.title>ﺩﺮﺸﺘﻣ</Drifter67.title>
+  <Drifter67.titleFemale>ﺓﺩﺮﺸﺘﻣ</Drifter67.titleFemale>
+  <!-- EN: drifter -->
+  <Drifter67.titleShort>ﺩﺮﺸﺘﻣ</Drifter67.titleShort>
+  <Drifter67.titleShortFemale>ﺓﺩﺮﺸﺘﻣ</Drifter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
+  <EscapedConvict90.description>{PAWN_gender ? . ﺔﻟﺪﻌﻣ ﺓﺪﺋﺎﻣ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻂﻴﺤﻤﻟﺍ ﺖﺤﺗ ﻖﻔﻧ ﺮﻔﺣ ﻖﻳﺮﻃ ﻦﻋ ﺖﺑﺮﻫ ﺪﻗﻭ ،ﺔﻴﺸﺣﻭ ﺔﻴﺑﺎﻘﻋ ﺓﺮﻤﻌﺘﺴﻣ ﻲﻓ ﺎﻬﻨﺠﺳ ﻰﻟﺇ ﺕﺩﺃ ﻲﺘﻟﺍ ﻢﺋﺍﺮﺠﻟﺍ ﻲﻓ ﺎﻬﻃﺭﻮﺗ [PAWN_nameDef] ﺮﻜﻨﺗ : . ﺔﻟﺪﻌﻣ ﺓﺪﺋﺎﻣ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻂﻴﺤﻤﻟﺍ ﺖﺤﺗ ﻖﻔﻧ ﺮﻔﺣ ﻖﻳﺮﻃ ﻦﻋ ﺏﺮﻫ ﺪﻗﻭ ،ﺔﻴﺸﺣﻭ ﺔﻴﺑﺎﻘﻋ ﺓﺮﻤﻌﺘﺴﻣ ﻲﻓ ﻪﻨﺠﺳ ﻰﻟﺇ ﺕﺩﺃ ﻲﺘﻟﺍ ﻢﺋﺍﺮﺠﻟﺍ ﻲﻓ ﻪﻃﺭﻮﺗ [PAWN_nameDef] ﺮﻜﻨﻳ}</EscapedConvict90.description>
+  <!-- EN: escaped convict -->
+  <EscapedConvict90.title>ﺏﺭﺎﻫ ﻦﻴﺠﺳ</EscapedConvict90.title>
+  <EscapedConvict90.titleFemale>ﺔﺑﺭﺎﻫ ﺔﻨﻴﺠﺳ</EscapedConvict90.titleFemale>
+  <!-- EN: escapee -->
+  <EscapedConvict90.titleShort>ﺏﺭﺎﻫ</EscapedConvict90.titleShort>
+  <EscapedConvict90.titleShortFemale>ﺔﺑﺭﺎﻫ</EscapedConvict90.titleShortFemale>
+  
+  <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
+  <Evangelist39.description>{PAWN_gender ? . ﺔﻳﺩﺎﻌﻟﺍ ﺮﻴﻏ ﺔﻴﺒﻄﻟﺍ ﻩﺪﻴﻟﺎﻘﺗﻭ ،ﻪﺘﻓﺎﻘﺛ ﻝﺎﻤﺟﻭ ،ﺎﻬﻬﻟﺇ ﺔﻤﻠﻛ ﺮﺸﻧ ﻲﻓ ﺎﻬﺗﺎﻴﺣ ﺔﻴﻘﺑ ﻲﻀﻘﺗ ﻥﺃ ﺕﺭﺮﻗ. ﺔﻴﻨﻳﺩ ﺔﻈﻘﻳ [PAWN_nameDef] ﺕﺮﺒﺘﺧﺍ ،ﺎﻬﺑﺎﺒﺷ ﻲﻓ : . ﺔﻳﺩﺎﻌﻟﺍ ﺮﻴﻏ ﺔﻴﺒﻄﻟﺍ ﻩﺪﻴﻟﺎﻘﺗﻭ ،ﻪﺘﻓﺎﻘﺛ ﻝﺎﻤﺟﻭ ،ﻪﻬﻟﺇ ﺔﻤﻠﻛ ﺮﺸﻧ ﻲﻓ ﻪﺗﺎﻴﺣ ﺔﻴﻘﺑ ﻲﻀﻘﻳ ﻥﺃ ﺭﺮﻗ. ﻥﺎﻤﻳﻹﺍ ﻪﻴﻓ ﺖﻈﻘﻳﺃ ﺔﻴﻨﻳﺩ ﺔﺑﺮﺠﺘﺑ [PAWN_nameDef] ّﺮﻣ ،ﻪﺑﺎﺒﺷ ﻲﻓ}</Evangelist39.description>
+  <!-- EN: evangelist -->
+  <Evangelist39.title>ﺮﺸﺒﻣ</Evangelist39.title>
+  <Evangelist39.titleFemale>ﺓﺮﺸﺒﻣ</Evangelist39.titleFemale>
+  <!-- EN: evangelist -->
+  <Evangelist39.titleShort>ﻝﻮﺠﺘﻣ ﺮﺸﺒﻣ</Evangelist39.titleShort>
+  <Evangelist39.titleShortFemale>ﺓﺮﺸﺒﻣ</Evangelist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
+  <ExplosivesExpert26.description>{PAWN_gender ? . ﺔﻳﺎﻨﻌﺑ ﺏﻮﺴﺤﻤﻟﺍ ﺎﻫﺭﺎﺠﻔﻧﺍ ﻞﻤﺘﻜﻳ ﻥﺃ ﺪﻌﺑ ﻒﻴﻈﻨﺘﻟﺍ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻟﺎﺑ ﺎﻫﺭﺪﻗ ﻦﻣ ﻂﺤﺗ ﻥﺃ ﺖﻀﻓﺭ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ - ﺔﻴﻨﻔﻟﺍ ﻞﻴﺻﺎﻔﺘﻟﺍ ﻲﻓ ﺔﻋﺭﺎﺑ ﺖﻧﺎﻛﻭ ﺪﺠﻟﺍ ﻞﻤﺤﻣ ﻰﻠﻋ ﺎﻬﺘﻔﻴﻇﻭ ﺬﺧﺄﺗ ﺖﻧﺎﻛ. ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﺕﺍﺮﺠﻔﺘﻣ ﺔﺳﺪﻨﻬﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻳﺎﻨﻌﺑ ﻪﺒﺴﺣ ﻱﺬﻟﺍ ﺮﻴﺠﻔﺘﻟﺍ ﻞﻤﺘﻜﻳ ﻥﺃ ﺪﻌﺑ ﻒﻴﻈﻨﺘﻟﺍ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻟﺎﺑ ﻩﺭﺪﻗ ﻦﻣ ﻂﺤﻳ ﻥﺃ ﺾﻓﺭ ﻪﻧﺃ ﺔﺟﺭﺪﻟ - ﺔﻴﻨﻘﺘﻟﺍ ﺐﻧﺍﻮﺠﻟﺎﺑ ﺍًﻤﻠﻣ ﻥﺎﻛﻭ ﺪﺠﻟﺍ ﻞﻤﺤﻣ ﻰﻠﻋ ﻪﺘﻔﻴﻇﻭ ﺬﺧﺄﻳ ﻥﺎﻛ. ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﻞﻤﻌﻳ ﺕﺍﺮﻴﺠﻔﺗ ﺱﺪﻨﻬﻣ [PAWN_nameDef] ﻥﺎﻛ}</ExplosivesExpert26.description>
+  <!-- EN: explosives expert -->
+  <ExplosivesExpert26.title>ﺕﺍﺮﺠﻔﺘﻣ ﺮﻴﺒﺧ</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleFemale>ﺕﺍﺮﺠﻔﺘﻣ ﺓﺮﻴﺒﺧ</ExplosivesExpert26.titleFemale>
+  <!-- EN: blaster -->
+  <ExplosivesExpert26.titleShort>ﺮﻴﺠﻔﺗ ﺮﻴﺒﺧ</ExplosivesExpert26.titleShort>
+  <ExplosivesExpert26.titleShortFemale>ﺮﻴﺠﻔﺗ ﺓﺮﻴﺒﺧ</ExplosivesExpert26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
+  <Forester96.description>{PAWN_gender ? . ﺕﺎﺑﺎﻐﻟﺍ ﻮﻤﻨﻟ ﻞﺟﻷﺍ ﻞﻳﻮﻃ ﻂﻴﻄﺨﺘﻟﺍ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﺭﺎﻄﻣﻷﺍﻭ ﺡﺎﻳﺮﻟﺍﻭ ﺔﺑﺮﺘﻟﺍ ﻉﺍﻮﻧﻷ ﺔﻴﻠﻤﻌﻟﺍ ﺕﺎﻳﺪﺤﺘﻟﺍ ﻢﻬﻔﺗ ﺖﻧﺎﻛﻭ ،ﺕﺎﺑﺎﻐﻟﺍ ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺕﺎﺑﺎﻐﻟﺍ ﻮﻤﻨﻟ ﻞﺟﻷﺍ ﻞﻳﻮﻃ ﻂﻴﻄﺨﺘﻟﺍ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﺭﺎﻄﻣﻷﺍﻭ ﺡﺎﻳﺮﻟﺍﻭ ﺔﺑﺮﺘﻟﺍ ﻉﺍﻮﻧﻷ ﺔﻴﻠﻤﻌﻟﺍ ﺕﺎﻳﺪﺤﺘﻟﺍ ﻢﻬﻓﻭ ،ﺕﺎﺑﺎﻐﻟﺍ ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ}</Forester96.description>
+  <!-- EN: forester -->
+  <Forester96.title>ﺕﺎﺑﺎﻏ ﺱﺭﺎﺣ</Forester96.title>
+  <Forester96.titleFemale>ﺕﺎﺑﺎﻏ ﺔﺳﺭﺎﺣ</Forester96.titleFemale>
+  <!-- EN: forester -->
+  <Forester96.titleShort>ﺕﺎﺑﺎﻏ ﺱﺭﺎﺣ</Forester96.titleShort>
+  <Forester96.titleShortFemale>ﺕﺎﺑﺎﻏ ﺔﺳﺭﺎﺣ</Forester96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
+  <FurnitureBuilder83.description>{PAWN_gender ? . ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺀﺎﻴﻨﻏﺃ ﻦﺋﺎﺑﺰﻟ ﻞﻴﻤﺟ ﺙﺎﺛﺃ ﺀﺎﻨﺑ ﻲﻓ ﺎﻬﺘﻗﻭ ﺖﻀﻗﻭ ،ﺕﺎﺑﺎﻐﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺀﺎﻳﺮﺛﺃ ﻦﺋﺎﺑﺰﻟ ﻞﻴﻤﺟ ﺙﺎﺛﺃ ﺀﺎﻨﺑ ﻲﻓ ﻪﺘﻗﻭ ﻰﻀﻗﻭ ،ﺕﺎﺑﺎﻐﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ [PAWN_nameDef] ﺄﺸﻧ}</FurnitureBuilder83.description>
+  <!-- EN: furniture builder -->
+  <FurnitureBuilder83.title>ﺙﺎﺛﺃ ﻊﻧﺎﺻ</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleFemale>ﺙﺎﺛﺃ ﺔﻌﻧﺎﺻ</FurnitureBuilder83.titleFemale>
+  <!-- EN: builder -->
+  <FurnitureBuilder83.titleShort>ﻲﻧﺎﺑ</FurnitureBuilder83.titleShort>
+  <FurnitureBuilder83.titleShortFemale>ﺔﻴﻧﺎﺑ</FurnitureBuilder83.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
+  <Gardener99.description>{PAWN_gender ? . ﻡﺪﺨﻟﺍ ﻖﻳﺮﻓ ﻦﻣ ﺀﺰﺠﻛ ﺓﺮﺧﺎﻔﻟﺍ ﻖﺋﺍﺪﺤﻟﺎﺑ ﻲﻨﺘﻌﺗ ﺖﻧﺎﻛ ﺚﻴﺣ ،ﺔﻳﻮﻗ ﺔﻠﺋﺎﻋ ﺮﺼﻗ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﻡﺪﺨﻟﺍ ﻖﻳﺮﻓ ﻦﻣ ﺀﺰﺠﻛ ﺓﺮﺧﺎﻔﻟﺍ ﻖﺋﺍﺪﺤﻟﺎﺑ ﻰﻨﺘﻋﺍ ﺚﻴﺣ ،ﺔﻳﻮﻗ ﺔﻠﺋﺎﻋ ﺮﺼﻗ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ}</Gardener99.description>
+  <!-- EN: gardener -->
+  <Gardener99.title>ﻲﻧﺎﺘﺴﺑ</Gardener99.title>
+  <Gardener99.titleFemale>ﺔﻴﻧﺎﺘﺴﺑ</Gardener99.titleFemale>
+  <!-- EN: gardener -->
+  <Gardener99.titleShort>ﻲﻧﺎﺘﺴﺑ</Gardener99.titleShort>
+  <Gardener99.titleShortFemale>ﺔﻴﻧﺎﺘﺴﺑ</Gardener99.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
+  <Geologist66.description>{PAWN_gender ? . ﺔﻴﻌﻴﺒﻄﻟﺍ ﺕﺎﻨﻳﻮﻜﺘﻟﺍﻭ ﺭﻮﺨﺼﻟﺍ ﻉﺍﻮﻧﺃ ﺩﺪﺤﺗ ﺖﻧﺎﻛ ﺚﻴﺣ ،ﻑﻮﻬﻜﻟﺍ ﻱﺭﺎﻔﺣﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋ ﻊﻣ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﻯﺮﺧﻷﺍ ﺔﻴﻨﻘﺘﻟﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺮﻔﺤﻟﺍ ﺕﻻﺁ ﺡﻼﺻﺇ ﻲﻓ ﺓﺮﺒﺧ ﺍًﻀﻳﺃ ﺖﺒﺴﺘﻛﺍ ،ﺽﺭﻷﺍ ﺖﺤﺗ ﺎﻬﺗﺍﻮﻨﺳ ﻝﻼﺧ : . ﺔﻴﻌﻴﺒﻄﻟﺍ ﺕﺎﻨﻳﻮﻜﺘﻟﺍﻭ ﺭﻮﺨﺼﻟﺍ ﻉﺍﻮﻧﺃ ﻰﻠﻋ ﻑﺮﻌﺘﻳ ﻥﺎﻛ ﺚﻴﺣ ،ﻑﻮﻬﻜﻟﺍ ﻱﺭﺎﻔﺣﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋ ﻊﻣ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﻯﺮﺧﻷﺍ ﺔﻴﻨﻘﺘﻟﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺮﻔﺤﻟﺍ ﺕﻻﺁ ﺡﻼﺻﺇ ﻲﻓ ﺓﺮﺒﺧ ﺍًﻀﻳﺃ ﺐﺴﺘﻛﺍ ،ﺽﺭﻷﺍ ﺖﺤﺗ ﻪﺗﺍﻮﻨﺳ ﻝﻼﺧ}</Geologist66.description>
+  <!-- EN: geologist -->
+  <Geologist66.title>ﻲﺟﻮﻟﻮﻴﺟ</Geologist66.title>
+  <Geologist66.titleFemale>ﺔﻴﺟﻮﻟﻮﻴﺟ</Geologist66.titleFemale>
+  <!-- EN: geologist -->
+  <Geologist66.titleShort>ﻲﺟﻮﻟﻮﻴﺟ</Geologist66.titleShort>
+  <Geologist66.titleShortFemale>ﺔﻴﺟﻮﻟﻮﻴﺟ</Geologist66.titleShortFemale>
+  
+  <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for [PAWN_possessive] children while [PAWN_possessive] spouse worked. -->
+  <Housemate8.description>{PAWN_gender ? . ﻞﻤﻌﻳ ﺎﻬﺟﻭﺯ ﻥﺎﻛ ﺎﻤﻨﻴﺑ ﺎﻬﻟﺎﻔﻃﺄﺑ ﺖﻨﺘﻋﺍﻭ ﺎﻬﻟﺰﻨﻣ ﻰﻠﻋ [PAWN_nameDef] ﺖﻈﻓﺎﺣ ،ﺔﻐﻟﺎﺑ ﺎﻬﺘﻔﺼﺑ : . ﻞﻤﻌﻳ ﻪﺗﺎﻴﺣ ﻚﻳﺮﺷ ﻥﺎﻛ ﺎﻤﻨﻴﺑ ﻪﻟﺎﻔﻃﺃ ﻰﻋﺭﻭ ﻝﺰﻨﻤﻟﺎﺑ [PAWN_nameDef] ﻰﻨﺘﻋﺍ ،ﺍًﻐﻟﺎﺑ ﻪﺘﻔﺼﺑ}</Housemate8.description>
+  <!-- EN: housemate -->
+  <Housemate8.title>ﻦﻜﺳ ﻖﻴﻓﺭ</Housemate8.title>
+  <!-- EN: housewife -->
+  <Housemate8.titleFemale>ﻝﺰﻨﻣ ﺔﺑﺭ</Housemate8.titleFemale>
+  <!-- EN: housemate -->
+  <Housemate8.titleShort>ﻦﻜﺳ ﻞﻴﻣﺯ</Housemate8.titleShort>
+  <!-- EN: housewife -->
+  <Housemate8.titleShortFemale>ﻝﺰﻨﻣ ﺔﺑﺭ</Housemate8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
+  <HouseServant63.description>{PAWN_gender ? . ﺓﻭﺮﺛ ﺏﺎﺤﺻﺃ ﻝﺰﻨﻣ ﻲﻓ ًﺔﻣﺩﺎﺧ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺍًﺪﺑﺃ ﻞﻤﻌﺗ ﻢﻟ ﺎﻬﻨﻜﻟ ،ﺎﻫﺪﻴﺳ ﺮﺼﻗ ﺔﻴﺒﻗﺃﻭ ﺦﺑﺎﻄﻣ ﻰﻠﻋ ﺍًﺪﻴﺟ ﺖﻓﺮﻌﺗ : . ﺀﺎﻳﺮﺛﺃ ﻝﺯﺎﻨﻣ ﺏﺎﺤﺻﻷ ﺍًﻴﻟﺰﻨﻣ ﺍًﻣﺩﺎﺧ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﺍًﺪﺑﺃ ﻝﺰﻨﻤﻟﺍ ﺝﺭﺎﺧ ﻞﻤﻋ ﻱﺄﺑ ﻢﻘﻳ ﻢﻟ ﻪﻨﻜﻟ ،ﻩﺪﻴﺳ ﺮﺼﻗ ﺔﻴﺒﻗﺃﻭ ﺦﺑﺎﻄﻣ ﻰﻠﻋ ﺍًﺪﻴﺟ ﻑﺮﻌﺗ}</HouseServant63.description>
+  <!-- EN: house servant -->
+  <HouseServant63.title>ﻝﺰﻨﻣ ﻡﺩﺎﺧ</HouseServant63.title>
+  <HouseServant63.titleFemale>ﺔﻴﻟﺰﻨﻣ ﺔﻣﺩﺎﺧ</HouseServant63.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant63.titleShort>ﻡﺩﺎﺧ</HouseServant63.titleShort>
+  <HouseServant63.titleShortFemale>ﺔﻣﺩﺎﺧ</HouseServant63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
+  <Hunter89.description>{PAWN_gender ? . ﺐﻴﺼﻋ ﻢﺳﻮﻣ ﺯﻭﺎﺠﺗ ﻰﻠﻋ ﺱﺎﻨﻟﺍ ﺪﻋﺎﺴﺗ ﻦﻣ ﺎﻫﺭﺎﺒﺘﻋﺎﺑ ﻥﻭﺮﺧﻵﺍ ﺎﻬﻴﻟﺇ ﺮﻈﻧ ،ﺕﺎﻗﻭﻷﺍ ﺕﺪﺘﺷﺍ ﺎﻣﺪﻨﻋ. ﺀﺍﺬﻐﻟﺍ ﺮﻴﻓﻮﺗ ﻰﻠﻋ ﺎﻬﻌﻤﺘﺠﻣ ﺓﺪﻋﺎﺴﻤﻟ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﺕﺩﺎﺻ : . ﺐﻴﺼﻋ ﻢﺳﻮﻣ ﺯﻭﺎﺠﺗ ﻰﻠﻋ ﺱﺎﻨﻟﺍ ﺪﻋﺎﺴﻳ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻪﻧﺃ ﻰﻠﻋ ﻥﻭﺮﺧﻵﺍ ﻪﻴﻟﺇ ﺮﻈﻧ ،ﺕﺎﻗﻭﻷﺍ ﺕﺪﺘﺷﺍ ﺎﻣﺪﻨﻋ. ﻪﻌﻤﺘﺠﻣ ﻡﺎﻌﻃﺇ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﺩﺎﺻ}</Hunter89.description>
+  <!-- EN: hunter -->
+  <Hunter89.title>ﺩﺎﻴﺻ</Hunter89.title>
+  <Hunter89.titleFemale>ﺓﺩﺎﻴﺻ</Hunter89.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter89.titleShort>ﺩﺎﻴﺻ</Hunter89.titleShort>
+  <Hunter89.titleShortFemale>ﺓﺩﺍّﻴﺻ</Hunter89.titleShortFemale>
+  
+  <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
+  <Inventor6.description>{PAWN_gender ? . ﺔﻄﻴﺴﺑ ﺕﺎﻴﻨﻘﺗ ﺓﺪﻋ ﺕﺭﻮﻃ ﺪﻗﻭ. ﺍًﻟﺪﺘﻌﻣ ﺍًﺣﺎﺠﻧ ﺖﻘﻘﺣ ﺔﻋﺮﺘﺨﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ ،ﻡﻷﺍ ﺎﻬﻤﻟﺎﻋ ﻲﻓ : . ﺔﻄﻴﺴﺑ ﺕﺎﻴﻨﻘﺗ ﺓﺪﻋ ﺭّﻮﻃ ﺪﻗﻭ. ﺍًﻟﺪﺘﻌﻣ ﺍًﺣﺎﺠﻧ ﻖﻘﺣ ﻉﺮﺘﺨﻤﻛ [PAWN_nameDef] ﻞﻤﻋ ،ﻡﻷﺍ ﻪﻤﻟﺎﻋ ﻲﻓ}</Inventor6.description>
+  <!-- EN: inventor -->
+  <Inventor6.title>ﻉﺮﺘﺨﻣ</Inventor6.title>
+  <Inventor6.titleFemale>ﺔﻋﺮﺘﺨﻣ</Inventor6.titleFemale>
+  <!-- EN: inventor -->
+  <Inventor6.titleShort>ﻉﺮﺘﺨﻣ</Inventor6.titleShort>
+  <Inventor6.titleShortFemale>ﺔﻋﺮﺘﺨﻣ</Inventor6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.description>{PAWN_gender ? . ﻡﻼﻜﻟﺍ ﻲﻓ ﺔﻴﻧﺍﻭﺪﻋ ﺔﻘﻳﺮﻃ ﺕﺭﻮﻃﻭ ،ﺕﺍﺮﺟﺎﺸﻤﻟﺍ ﻲﻓ ﻝﻮﺧﺪﻟﺍ ﺓﺩﺎﻋ ﺎﻬﻳﺪﻟ ﺖﻧﺎﻛ. ﺦﺑﺎﻄﻤﻟﺍ ﻲﻓ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺕﺮﺒﺟُﺃ ﺚﻴﺣ ،ﻥﻮﺠﺴﻟﺍ ﻲﻓ ﺎﻬﺗﺎﻴﺣ ﻢﻈﻌﻣ [PAWN_nameDef] ﺖﻀﻗ : . ﻡﻼﻜﻟﺍ ﻲﻓ ﺔﻴﻧﺍﻭﺪﻋ ﺔﻘﻳﺮﻃ ﺭّﻮﻃﻭ ،ﺕﺍﺮﺟﺎﺸﻤﻟﺍ ﻲﻓ ﻝﻮﺧﺪﻟﺍ ﺓﺩﺎﻋ ﻪﻳﺪﻟ ﻥﺎﻛ. ﺦﺑﺎﻄﻤﻟﺍ ﻲﻓ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺮﺒﺟُﺃ ﺚﻴﺣ ،ﻥﻮﺠﺴﻟﺍ ﻲﻓ ﻪﺗﺎﻴﺣ ﻢﻈﻌﻣ [PAWN_nameDef] ﻰﻀﻗ}</Jailbird40.description>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>ﻖﺑﺎﺳ ﻦﻴﺠﺳ</Jailbird40.title>
+  <Jailbird40.titleFemale>ﺔﻘﺑﺎﺳ ﺔﻨﻴﺠﺳ</Jailbird40.titleFemale>
+  <!-- EN: jailbird -->
+  <Jailbird40.titleShort>ﻖﺑﺎﺳ ﻦﻴﺠﺳ</Jailbird40.titleShort>
+  <Jailbird40.titleShortFemale>ﺔﻘﺑﺎﺳ ﺔﻨﻴﺠﺳ</Jailbird40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.description>{PAWN_gender ? . ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻤﺨﺿ ﻥﺎﻌﻄﻗ ﺔﻴﺑﺮﺗ ﻦﻴﺴﺤﺘﻟ ﺭﺎﻌﺳﻷﺍ ﺕﺎﻫﺎﺠﺗﺍﻭ ﺢﺑﺬﻟﺍﻭ ﺓﺩﻻﻮﻟﺍ ﻕﺮﻃﻭ ﻑﻼﻋﻷﺍ ﻉﺍﻮﻧﺃﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺛﺍﺭﻭ ﻢﻠﻋ ﺖﻠﻠﺣ. ﺔﻴﺷﺎﻤﻠﻟ ًﺔﻋﺭﺍﺰﻣ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻤﺨﺿ ﺔﻴﻧﺍﻮﻴﺣ ﻥﺎﻌﻄﻗ ﺔﻴﺑﺮﺗ ﻦﻴﺴﺤﺘﻟ ﺭﺎﻌﺳﻷﺍ ﺕﺎﻫﺎﺠﺗﺍﻭ ﺢﺑﺬﻟﺍﻭ ﺓﺩﻻﻮﻟﺍ ﻕﺮﻃﻭ ﻑﻼﻋﻷﺍ ﻉﺍﻮﻧﺃﻭ ﺔﻴﻧﺍﻮﻴﺤﻟﺍ ﺔﺛﺍﺭﻮﻟﺍ ﻢﻠﻋ ﻝّﻠﺣ. ﺔﻴﺷﺎﻤﻠﻟ ﺍًﻋﺭﺍﺰﻣ [PAWN_nameDef] ﻞﻤﻋ}</LivestockFarmer8.description>
+  <!-- EN: livestock farmer -->
+  <LivestockFarmer8.title>ٍﺵﺍﻮﻣ ﻉﺭﺍﺰﻣ</LivestockFarmer8.title>
+  <LivestockFarmer8.titleFemale>ﺔﻴﺷﺎﻣ ﺔﻋﺭﺍﺰﻣ</LivestockFarmer8.titleFemale>
+  <!-- EN: farmer -->
+  <LivestockFarmer8.titleShort>ﻉﺭﺍﺰﻣ</LivestockFarmer8.titleShort>
+  <LivestockFarmer8.titleShortFemale>ﺔﻋﺭﺍﺰﻣ</LivestockFarmer8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
+  <Logger95.description>{PAWN_gender ? . ﺎﻬﺘﺤﺻ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺔﺑﺎﻐﻟﺍ ﺮﻳﺪﺗ ﻒﻴﻛﻭ ،ﻥﺎﻣﺄﺑ ﺭﺎﺠﺷﻷﺍ ﻂﻘﺴﺗ ﻒﻴﻛ ﺖﻤﻠﻌﺗﻭ ،ﺓﺮﻋﻮﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍﻭ ﺕﺍﺮﻤﻤﻟﺍ ﻲﻓ ﺐﻄﺤﻟﺍ ﻊﻤﺟﻭ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺎﻬﺘﺤﺻ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺔﺑﺎﻐﻟﺍ ﺮﻳﺪﻳ ﻒﻴﻛﻭ ﻥﺎﻣﺄﺑ ﺭﺎﺠﺷﻷﺍ ﻂﻘﺴﻳ ﻒﻴﻛ ﻢﻠﻌﺗﻭ ،ﺓﺮﻋﻮﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍﻭ ﺕﺍﺮﻤﻤﻟﺍ ﻲﻓ ﺐﻄﺤﻟﺍ ﻊﻤﺟﻭ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ}</Logger95.description>
+  <!-- EN: logger -->
+  <Logger95.title>ﺏﺍّﻄﺣ</Logger95.title>
+  <Logger95.titleFemale>ﺔﺑﺍّﻄﺣ</Logger95.titleFemale>
+  <!-- EN: logger -->
+  <Logger95.titleShort>ﺏﺍّﻄﺣ</Logger95.titleShort>
+  <Logger95.titleShortFemale>ﺔﺑﺍّﻄﺣ</Logger95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
+  <LowWageWorker7.description>{PAWN_gender ? . ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﺒﺴﺘﻛﺍﻭ ،ﺎﻬﺗﺮﺳﺃ ﺔﻟﺎﻋﻹ ﺔﻴﺿَﺭَﻌﻟﺍ ﻒﺋﺎﻇﻮﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻚﻟﺬﺑ ﺐﺴﺘﻛﺍﻭ ،ﻪﺗﺮﺳﺃ ﺔﻟﺎﻋﻹ ﺔﻴﺿَﺭَﻌﻟﺍ ﻒﺋﺎﻇﻮﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ [PAWN_nameDef] ﻞﻤﻋ}</LowWageWorker7.description>
+  <!-- EN: low-wage worker -->
+  <LowWageWorker7.title>ﺾﻔﺨﻨﻣ ﺮﺟﺃ ﻭﺫ ﻞﻣﺎﻋ</LowWageWorker7.title>
+  <LowWageWorker7.titleFemale>ﺾﻔﺨﻨﻣ ﺮﺟﺃ ﺕﺍﺫ ﺔﻠﻣﺎﻋ</LowWageWorker7.titleFemale>
+  <!-- EN: grunt -->
+  <LowWageWorker7.titleShort>ﻂﻴﺴﺑ ﻞﻣﺎﻋ</LowWageWorker7.titleShort>
+  <LowWageWorker7.titleShortFemale>ﺔﻄﻴﺴﺑ ﺔﻠﻣﺎﻋ</LowWageWorker7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
+  <MachineCollector55.description>{PAWN_gender ? . ﻞﻤﻌﺗ ﻒﻴﻛ ﻯﺮﺘﻟ ﺎﻬﻜﻴﻜﻔﺗ ﺐﺤﺗ ﺖﻧﺎﻛﻭ ،ﻥﺎﻜﻣ ﻞﻛ ﻦﻣ ﺎﻬﻴﻠﻋ ﻞﺼﺤﺗ ﺖﻧﺎﻛ. ﺔﻀﻣﺎﻐﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻊﻄﻗﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺕﻻﻵﺎﺑ ًﺔﺳﻭﻮﻬﻣ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﻉﺎﻤﺘﺳﻻﺍ ﻦﻋ ﺎﻬﻟﻮﺣ ﻦﻣ ﺱﺎﻨﻟﺍ ﻒﻗﻮﺗ ﻥﺃ ﺪﻌﺑ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺎﻬﺘﻋﻮﻤﺠﻣ ﻦﻋ ﺙﺪﺤﺘﻟﺍ ﻲﻓ ﺓﺩﺎﻋ ﺎﻬﻳﺪﻟ ﺖﻧﺎﻛ : . ﻞﻤﻌﺗ ﻒﻴﻛ ﻯﺮﻴﻟ ﺎﻬﻜﻴﻜﻔﺗ ﺐﺤﻳ ﻥﺎﻛﻭ ،ﻥﺎﻜﻣ ﻞﻛ ﻦﻣ ﺎﻬﻴﻠﻋ ﻞﺼﺤﻳ ﻥﺎﻛ. ﺔﻀﻣﺎﻐﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻊﻄﻗﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺕﻻﻵﺎﺑ ﺍًﺳﻭﻮﻬﻣ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻉﺎﻤﺘﺳﻻﺍ ﻦﻋ ﻪﻟﻮﺣ ﻦﻣ ﺱﺎﻨﻟﺍ ﻒﻗﻮﺗ ﻥﺃ ﺪﻌﺑ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻪﺘﻋﻮﻤﺠﻣ ﻦﻋ ﺙﺪﺤﺘﻟﺍ ﺓﺩﺎﻋ ﻪﻳﺪﻟ ﻥﺎﻛ}</MachineCollector55.description>
+  <!-- EN: machine collector -->
+  <MachineCollector55.title>ﺕﻻﺁ ﻊﻣﺎﺟ</MachineCollector55.title>
+  <MachineCollector55.titleFemale>ﺕﻻﺁ ﺔﻌﻣﺎﺟ</MachineCollector55.titleFemale>
+  <!-- EN: collector -->
+  <MachineCollector55.titleShort>ﻊﻣﺎﺟ</MachineCollector55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.description>{PAWN_gender ? . ﺔﻌﻣﺎﺟ ﻲﻓ ﺔﻴﺿﺎﻳﺭ ﺙﺎﺤﺑﺄﺑ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺎﻬﺒﻳﻮﺼﺗ ﺀﻮﺳ ﺐﺒﺴﺑ ﻦﻳﺮﺧﻵﺍ ﻦﻴﺒﻋﻼﻟﺍ ﻞﺒﻗ ﻦﻣ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﺔﻳﺮﺨﺴﻠﻟ ﺽﺮﻌﺘﺗ ﺖﻧﺎﻛ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺔﻳﺎﻣﺮﻟﺍ ﺓﺎﻛﺎﺤﻣ ﻲﻓ ًﺔﺴﻤﻐﻨﻣ ﺎﻬﻏﺍﺮﻓ ﺖﻗﻭ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺖﻀﻣﺃ : . ﺔﻌﻣﺎﺟ ﻲﻓ ﺕﺎﻴﺿﺎﻳﺮﻟﺍ ﻲﻓ ﺍًﺛﺎﺤﺑﺃ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﻪﺒﻳﻮﺼﺗ ﺀﻮﺳ ﺐﺒﺴﺑ ﻥﻭﺮﺧﻵﺍ ﻥﻮﺒﻋﻼﻟﺍ ﻪﻨﻣ ﺮﺨﺴﻳ ﻥﺎﻛ ﺎﻣ ﺍًﺒﻟﺎﻏ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺔﻳﺎﻣﺮﻟﺍ ﺓﺎﻛﺎﺤﻣ ﻲﻓ ﺍًﺴﻤﻐﻨﻣ ﺮﺤﻟﺍ ﻪﺘﻗﻭ ﻢﻈﻌﻣ ﻰﻀﻗﻭ}</Mathematician6.description>
+  <!-- EN: mathematician -->
+  <Mathematician6.title>ﻲﺿﺎﻳﺭ</Mathematician6.title>
+  <Mathematician6.titleFemale>ﺔﻴﺿﺎﻳﺭ</Mathematician6.titleFemale>
+  <!-- EN: math prof -->
+  <Mathematician6.titleShort>ﺕﺎﻴﺿﺎﻳﺭ ﺫﺎﺘﺳﺃ</Mathematician6.titleShort>
+  <Mathematician6.titleShortFemale>ﺕﺎﻴﺿﺎﻳﺭ ﺓﺫﺎﺘﺳﺃ</Mathematician6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
+  <Model99.description>{PAWN_gender ? . ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﻗﺍﻮﻟﺍ ﺓﺎﻛﺎﺤﻣ ﻲﻓ ﺕﺎﻴﺼﺨﺸﻠﻟ ﻱﺩﺎﻣ ﺝﺫﻮﻤﻨﻛ ﺖﻣﺪﺧُﺘﺳﺍ ﺎﻤﻛ ،ﻦﻴﻨﻠﻌﻤﻠﻟ ﺕﺍﺮﻫﻮﺠﻣﻭ ﺀﺎﻳﺯﺃ ﺔﺿﺭﺎﻌﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﻗﺍﻮﻟﺍ ﺓﺎﻛﺎﺤﻣ ﻲﻓ ﺕﺎﻴﺼﺨﺸﻠﻟ ﻱﺩﺎﻣ ﺝﺫﻮﻤﻨﻛ ﻡﺪﺧُﺘﺳﺍ ﺎﻤﻛ ،ﻦﻴﻨﻠﻌﻤﻠﻟ ﺕﺍﺮﻫﻮﺠﻣﻭ ﺀﺎﻳﺯﺃ ﺽﺭﺎﻌﻛ [PAWN_nameDef] ﻞﻤﻋ}</Model99.description>
+  <!-- EN: model -->
+  <Model99.title>{PAWN_gender ? ﺀﺎﻳﺯﺃ ﺔﺿﺭﺎﻋ : ﺀﺎﻳﺯﺃ ﺽﺭﺎﻋ}</Model99.title>
+  <!-- EN: model -->
+  <Model99.titleShort>{PAWN_gender ? ﺔﺿﺭﺎﻋ : ﺽﺭﺎﻋ}</Model99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
+  <Nurse61.description>{PAWN_gender ? . ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺩ ﺬﺧﺃﻭ ﺕﺍﺩﺎﻤﻀﻟﺍ ﺮﻴﻴﻐﺗ ﻞﺜﻣ ﺔﻴﻨﻴﺗﻭﺭ ﻝﺎﻤﻋﺄﺑ ﻡﻮﻘﺗ ﺖﻧﺎﻛﻭ ،ﻰﻔﺸﺘﺴﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺾﻳﺮﻤﻟﺍ ﻊﻣ ﺔﺷﺩﺭﺪﻠﻟ ﺍًﺘﻗﻭ ﺪﺠﺗ ﺍًﻤﺋﺍﺩ ﺖﻧﺎﻛ ﺎﻬﻨﻜﻟ ،ﺔﻤﺣﺩﺰﻣ ﺔﻔﻴﻇﻭ ﺖﻧﺎﻛ : . ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺩ ﺬﺧﺃﻭ ﺕﺍﺩﺎﻤﻀﻟﺍ ﺮﻴﻴﻐﺗ ﻞﺜﻣ ﺔﻴﻨﻴﺗﻭﺭ ﻝﺎﻤﻋﺄﺑ ﻡﻮﻘﻳ ﻥﺎﻛ ﺚﻴﺣ ،ﻰﻔﺸﺘﺴﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﻰﺿﺮﻤﻟﺍ ﻊﻣ ﺚﻳﺪﺤﻠﻟ ﺍًﺘﻗﻭ ﺪﺠﻳ ﺍًﻤﺋﺍﺩ ﻥﺎﻛ ﻪﻨﻜﻟ ،ﺍًﻤﺣﺩﺰﻣ ﺍًﻠﻤﻋ ﻥﺎﻛ}</Nurse61.description>
+  <!-- EN: nurse -->
+  <Nurse61.title>ﺽﺮﻤﻣ</Nurse61.title>
+  <Nurse61.titleFemale>ﺔﺿﺮﻤﻣ</Nurse61.titleFemale>
+  <!-- EN: nurse -->
+  <Nurse61.titleShort>ﺽﺮﻤﻣ</Nurse61.titleShort>
+  <Nurse61.titleShortFemale>ﺔﺿﺮﻤﻣ</Nurse61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
+  <Paramedic45.description>{PAWN_gender ? . ﻂﻘﻓ ﺓﺩﻭﺪﺤﻣ ﺔﻴﺒﻃ ﺩﺭﺍﻮﻤﺑ ﺓﺮﻴﻄﺨﻟﺍ ﺕﺎﺑﺎﺻﻹﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻰﻠﻋ ﺓﺩﺎﺘﻌﻣ ﻲﻫﻭ ،ﺔﻴﺒﻄﻟﺍ ﺉﺭﺍﻮﻄﻟﺍ ﺕﻻﺎﺤﻟ ﺔﻋﺮﺴﺑ ﺔﺑﺎﺠﺘﺳﻻﺍ ﻲﻫ [PAWN_nameDef] ﺔﻔﻴﻇﻭ ﺖﻧﺎﻛ\n\n. ﺡﺎﻴﺗﺭﻻﺍ ﻡﺪﻌﺑ ﺮﻌﺸﺗ ﺎﻬﺘﻠﻌﺟ ﻱﺭﺎﻧ ﺡﻼﺳ ﺔﻳﺅﺭ ﻥﺃ ﺔﺟﺭﺪﻟ ﻦﻴﻨﺴﻟﺍ ﺮﻣ ﻰﻠﻋ ﺔﻳﺭﺎﻨﻟﺍ ﺡﻭﺮﺠﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺖﺠﻟﺎﻋ : . ﻂﻘﻓ ﺓﺩﻭﺪﺤﻣ ﺔﻴﺒﻃ ﺩﺭﺍﻮﻤﺑ ﺓﺮﻴﻄﺨﻟﺍ ﺕﺎﺑﺎﺻﻹﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻰﻠﻋ ﺩﺎﺘﻌﻣ ﻮﻬﻓ. ﺔﺋﺭﺎﻄﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﻻﺎﺤﻠﻟ ﺔﻋﺮﺴﺑ ﺔﺑﺎﺠﺘﺳﻻﺍ ﻲﻫ [PAWN_nameDef] ﺔﻔﻴﻇﻭ ﺖﻧﺎﻛ\n\n. ﺡﺎﻴﺗﺭﻻﺍ ﻡﺪﻌﺑ ﺮﻌﺸﻳ ﻪﻠﻌﺠﺗ ﻱﺭﺎﻧ ﺡﻼﺳ ﺔﻳﺅﺭ ﻥﺃ ﺔﺟﺭﺪﻟ ﻦﻴﻨﺴﻟﺍ ﺮﻣ ﻰﻠﻋ ﺔﻳﺭﺎﻨﻟﺍ ﺡﻭﺮﺠﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺞﻟﺎﻋ ﺪﻘﻟ}</Paramedic45.description>
+  <!-- EN: paramedic -->
+  <Paramedic45.title>ﻲﺒﻃ ﻒﻌﺴﻣ</Paramedic45.title>
+  <Paramedic45.titleFemale>ﺔﻴﺒﻃ ﺔﻔﻌﺴﻣ</Paramedic45.titleFemale>
+  <!-- EN: paramedic -->
+  <Paramedic45.titleShort>ﻲﺒﻃ ﻒﻌﺴﻣ</Paramedic45.titleShort>
+  <Paramedic45.titleShortFemale>ﺔﻴﺒﻃ ﺔﻓِﻌﺴﻣ</Paramedic45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal social enforcement unit.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
+  <Policeman45.description>{PAWN_gender ? . ﺔﻳﺪﻠﺑ ﻲﻋﺎﻤﺘﺟﺍ ﺫﺎﻔﻧﺇ ﺓﺪﺣﻭ ﻲﻓ ﻒﺻ ﺔﻄﺑﺎﻀﻛ ﻡﻼﺴﻟﺍ ﻆﻔﺣ ﻰﻠﻋ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﻯﺮﺧﻷﺍ ﺔﻃﺮﺸﻟﺍ ﺕﺍﺭﺎﻬﻣﻭ ،ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ،ﺔﻳﺪﺴﺠﻟﺍ ﺓﺮﻄﻴﺴﻟﺍﻭ ،ﻉﺎﺿﻭﻷﺍ ﺔﺋﺪﻬﺗ ﻰﻠﻋ ﺖﺑﺭﺪﺗ : . ﺔﻳﺪﻠﺑ ﻲﻋﺎﻤﺘﺟﺍ ﺫﺎﻔﻧﺇ ﺓﺪﺣﻭ ﻲﻓ ﻒﺻ ﻂﺑﺎﻀﻛ ﻡﻼﺴﻟﺍ ﻆﻔﺣ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﻯﺮﺧﻷﺍ ﺔﻃﺮﺸﻟﺍ ﺕﺍﺭﺎﻬﻣﻭ ،ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ،ﺔﻳﺪﺴﺠﻟﺍ ﺓﺮﻄﻴﺴﻟﺍﻭ ،ﻉﺎﺿﻭﻷﺍ ﺔﺋﺪﻬﺗ ﻰﻠﻋ ﺏﺭﺪﺗ}</Policeman45.description>
+  <!-- EN: policeman -->
+  <Policeman45.title>ﺔﻃﺮﺷ ﻞﺟﺭ</Policeman45.title>
+  <!-- EN: policewoman -->
+  <Policeman45.titleFemale>ﺔﻴﻃﺮﺷ</Policeman45.titleFemale>
+  <!-- EN: policeman -->
+  <Policeman45.titleShort>ﺔﻃﺮﺷ ﻂﺑﺎﺿ</Policeman45.titleShort>
+  <!-- EN: policewoman -->
+  <Policeman45.titleShortFemale>ﺔﻴﻃﺮﺷ</Policeman45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
+  <QuarryWorker29.description>{PAWN_gender ? . ﺱﺪﺤﻟﺍﻭ ﺲﻤﻠﻟﺍﻭ ﺮﻈﻨﻟﺎﺑ ﺮﺠﺤﻟﺍ ﻲﻓ ﺭﺎﻄﺧﻷﺍﻭ ﺹﺮﻔﻟﺍ ﺮﻌﺸﺘﺴﺗ ﻥﺃ ﺖﻤﻠﻌﺗ. ﻞﺘﻟﺍ ﺐﻧﺎﺟ ﻦﻣ ﻦﻴﻤﺜﻟﺍ ﺮﺠﺤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ﺮﺠﺤﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺱﺪﺤﻟﺍﻭ ﺲﻤﻠﻟﺍﻭ ﺮﻈﻨﻟﺎﺑ ﺮﺠﺤﻟﺍ ﻲﻓ ﺭﺎﻄﺧﻷﺍﻭ ﺹﺮﻔﻟﺍ ﺮﻌﺸﺘﺴﻳ ﻥﺃ ﻢﻠﻌﺗ. ﻞﺘﻟﺍ ﺐﻧﺎﺟ ﻦﻣ ﻦﻴﻤﺜﻟﺍ ﺮﺠﺤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ٍﺮﺠﺤﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ}</QuarryWorker29.description>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.title>ﺮﺠﺤﻣ ﻞﻣﺎﻋ</QuarryWorker29.title>
+  <QuarryWorker29.titleFemale>ﺮﺠﺤﻣ ﺔﻠﻣﺎﻋ</QuarryWorker29.titleFemale>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.titleShort>ﺮﺠﺤﻣ ﻞﻣﺎﻋ</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShortFemale>ﺮﺠﺤﻣ ﺔﻠﻣﺎﻋ</QuarryWorker29.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.description>{PAWN_gender ? . ﻑﻮﺼﻟﺍﻭ ﻡﻮﺤﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕّﺑﺭ ﺚﻴﺣ ﺔﺤﺟﺎﻧ ﺔﻋﺭﺰﻤﻟ ﺓﺮﻳﺪﻣﻭ ﺔﻜﻟﺎﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺎﻬﻨﻋ ﺔﺑﺎﻴﻧ ﻪﺑ ﻡﺎﻴﻘﻠﻟ ﺮﺧﺁ ﺺﺨﺸﻟ ﻊﻓﺪﺗ ﻥﺃ ﺎﻬﻨﻜﻤﻳ ﻖﻤﺣﺃ ﻞﻤﻋ ﻱﺄﺑ ﻡﺎﻴﻘﻟﺍ ﺖﻀﻓﺭ : . ﻑﻮﺼﻟﺍﻭ ﻡﻮﺤﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﺑﺭ ﺚﻴﺣ ﺔﺤﺟﺎﻧ ﺔﻋﺭﺰﻣ ﺭﺍﺩﺃﻭ [PAWN_nameDef] ﻚﻠﺘﻣﺍ\n\n. ﻪﻨﻋ ﺔﺑﺎﻴﻧ ﻪﺑ ﻡﺎﻴﻘﻠﻟ ﺮﺧﺁ ﺺﺨﺸﻟ ﻊﻓﺪﻳ ﻥﺃ ﻪﻧﺎﻜﻣﺈﺑ ﻥﺎﻛ ﻖﻤﺣﺃ ﻞﻤﻋ ﻱﺄﺑ ﻡﻮﻘﻳ ﻥﺃ ﺾﻓﺭ}</Rancher43.description>
+  <!-- EN: rancher -->
+  <Rancher43.title>ﺔﻴﺷﺎﻣ ﻲﺑﺮﻣ</Rancher43.title>
+  <Rancher43.titleFemale>ﺔﻴﺷﺎﻣ ﺔﻴﺑﺮﻣ</Rancher43.titleFemale>
+  <!-- EN: rancher -->
+  <Rancher43.titleShort>ﺔﻴﺷﺎﻣ ﻲﺑﺮﻣ</Rancher43.titleShort>
+  <Rancher43.titleShortFemale>ﺔﻴﺷﺎﻣ ﺔﻴﺑﺮﻣ</Rancher43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
+  <Ranger96.description>{PAWN_gender ? . ﺔﺴﻳﺮﻔﻟﺍ ﺐﻘﻌﺗﻭ ،ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍﻭ ،ﺭﺎﺛﻵﺍ ﺓﺀﺍﺮﻗ ﻲﻓ ﺓﺮﻫﺎﻣ ﺖﺤﺒﺻﺃ. ﺀﻼﻤﻌﻟﺍ ﻦﻣ ﺔﻌﺳﺍﻭ ﺔﻋﻮﻤﺠﻤﻟ ﺹﺎﺨﺷﻷﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﺖﺒﻘﻌﺗ : . ﺔﺴﻳﺮﻔﻟﺍ ﺐﻘﻌﺗﻭ ،ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍﻭ ،ﺭﺎﺛﻵﺍ ﺓﺀﺍﺮﻗ ﻲﻓ ﺍًﻋﺭﺎﺑ ﺢﺒﺻﺃ. ﺀﻼﻤﻌﻟﺍ ﻦﻣ ﺔﻌﺳﺍﻭ ﺔﻋﻮﻤﺠﻤﻟ ﺹﺎﺨﺷﻷﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﻊﺒﺘﺗ}</Ranger96.description>
+  <!-- EN: ranger -->
+  <Ranger96.title>ﺔﺑﺎﻐﻟﺍ ﺱﺭﺎﺣ</Ranger96.title>
+  <Ranger96.titleFemale>ﺔﺑﺎﻐﻟﺍ ﺔﺳﺭﺎﺣ</Ranger96.titleFemale>
+  <!-- EN: ranger -->
+  <Ranger96.titleShort>ﺔﺑﺎﻏ ﺱﺭﺎﺣ</Ranger96.titleShort>
+  <Ranger96.titleShortFemale>ﺔﺑﺎﻏ ﺔﺳﺭﺎﺣ</Ranger96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+  <Recruiter14.description>{PAWN_gender ? . ﻢﻫﺎﺣﺮﺟ ﺝﻼﻋ ﺾﻓﺮﻟ ﻢﻬﺘﺳﺭﺎﻤﻣﻭ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣ ﺐﺒﺴﺑ ﺔﻌﻤﺴﻟﺍ ﺊﻴﺳ ،ﺲﻔﻨﻟﺍ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻲﻧﺎﻨﻓ ﻦﻣ ﻡﺮﺘﺤﻣ ﻡﺎﻈﻧ ﻦﻣ ﺍًﺀﺰﺟ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﻻ ﻡﺃ ﺐﻳﺭﺪﺘﻠﻟ ﻦﻴﺒﺳﺎﻨﻣ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﺎﻣ ﺪﻳﺪﺤﺘﻟ ﻢﻬﺑ ﻲﻘﺘﻠﺗ ﻦﻳﺬﻟﺍ ﺏﺎﺒﺸﻟﺍ ﻢﻴﻴﻘﺘﺑ ﺖﻣﺎﻗﻭ ،ﺎﻬﻤﻟﺎﻋ ﻝﻮﺣ ﺕﺮﻓﺎﺳ : . ﻢﻫﺎﺣﺮﺟ ﺝﻼﻋ ﺾﻓﺮﻟ ﻢﻬﺘﺳﺭﺎﻤﻣﻭ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣ ﺐﺒﺴﺑ ﺔﻌﻤﺴﻟﺍ ﺊﻴﺳ ،ﺲﻔﻨﻟﺍ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻲﻧﺎﻨﻓ ﻦﻣ ﻕﻮﻣﺮﻣ ﻡﺎﻈﻧ ﻦﻣ ﺍًﺀﺰﺟ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻻ ﻡﺃ ﺐﻳﺭﺪﺘﻠﻟ ﻦﻴﺒﺳﺎﻨﻣ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﺎﻣ ﺪﻳﺪﺤﺘﻟ ﻢﻬﻠﺑﺎﻘﻳ ﻦﻳﺬﻟﺍ ﺏﺎﺒﺸﻟﺍ ﻢﻴﻗﻭ ،ﻪﻤﻟﺎﻋ ﻲﻓ ﻞﻘﻨﺗ}</Recruiter14.description>
+  <!-- EN: recruiter -->
+  <Recruiter14.title>ﺪﻨﺠﻣ</Recruiter14.title>
+  <Recruiter14.titleFemale>ﺓﺪﻨﺠﻣ</Recruiter14.titleFemale>
+  <!-- EN: recruiter -->
+  <Recruiter14.titleShort>ﺪﻨﺠﻣ</Recruiter14.titleShort>
+  <Recruiter14.titleShortFemale>ﺓﺪﻨﺠﻣ</Recruiter14.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
+  <Slaughterer58.description>{PAWN_gender ? . ًﺔﻄﻴﺴﺑ ﺍًﺪﺑﺃ ﻦﻜﺗ ﻢﻟ ﻒﻴﻈﻧ ﻞﻜﺸﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺩﺍﺪﻋﺃ ﺢﺑﺫ ﺓﺭﺍﺩﻹ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻜﻟ ،ﺍًﺭﺬﻗ ﻩﻭﺮﺒﺘﻋﺍﻭ ﺀﺍﺭﺩﺯﺎﺑ ﻞﻤﻌﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻥﻭﺮﺧﻵﺍ ﺮﻈﻧ. ﺎﻬﺸﻴﻋ ﺐﺴﻜﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺬﺑ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺔﻄﻴﺴﺑ ﺍًﺪﺑﺃ ﻦﻜﺗ ﻢﻟ ﻒﻴﻈﻧ ﻞﻜﺸﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺩﺍﺪﻋﺃ ﺢﺑﺫ ﺓﺭﺍﺩﻹ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻜﻟ ،ﺍًﺭﺬﻗ ﻩﻭﺮﺒﺘﻋﺍﻭ ﺀﺍﺭﺩﺯﺎﺑ ﻞﻤﻌﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻥﻭﺮﺧﻵﺍ ﺮﻈﻧ. ﻪﺸﻴﻋ ﺐﺴﻜﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺫ ﻰﻠﻋ [PAWN_nameDef] ﻞﻤﻋ}</Slaughterer58.description>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.title>ﺭﺍﺰﺟ</Slaughterer58.title>
+  <Slaughterer58.titleFemale>ﺓﺭﺍﺰﺟ</Slaughterer58.titleFemale>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.titleShort>ﺭﺍﺰﺟ</Slaughterer58.titleShort>
+  <Slaughterer58.titleShortFemale>ﺓﺭﺍﺰﺟ</Slaughterer58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
+  <Teacher20.description>{PAWN_gender ? . ﺎﻬﺑﻼﻃ ﻞﺒﻗ ﻦﻣ ًﺔﺑﻮﺒﺤﻣﻭ ﺔﻓﺮﻌﻤﻟﺍ ﺔﻌﺳﺍﻭ ﺖﻧﺎﻛ. ﺔﻴﻣﻮﻜﺣ ﺔﺳﺭﺪﻣ ﻲﻓ ًﺔﺳّﺭﺩُﻣ ﺖﻠﻤﻋﻭ ﺔﻴﻧﺎﺴﻧﻹﺍ ﻡﻮﻠﻌﻟﺍ ﻲﻓ ﺎﻬﻤﻴﻠﻌﺗ [PAWN_nameDef] ﺕّﻘﻠﺗ : . ﻪﺑﻼﻃ ﻦﻣ ﺍًﺑﻮﺒﺤﻣﻭ ﺔﻓﺮﻌﻤﻟﺍ ﻊﺳﺍﻭ ﻥﺎﻛﻭ ،ﺔﻣﺎﻋ ﺔﺳﺭﺪﻣ ﻲﻓ ﺍًﺳﺭﺪﻣ ﻞﻤﻋﻭ ﺔﻴﻧﺎﺴﻧﻹﺍ ﻡﻮﻠﻌﻟﺍ ﻲﻓ ﻪﻤﻴﻠﻌﺗ [PAWN_nameDef] ﻰﻘﻠﺗ}</Teacher20.description>
+  <!-- EN: teacher -->
+  <Teacher20.title>ﻡِّﻠﻋُﻣ</Teacher20.title>
+  <Teacher20.titleFemale>ﺔﻤﻠﻌﻣ</Teacher20.titleFemale>
+  <!-- EN: teacher -->
+  <Teacher20.titleShort>ﻢﻠﻌﻣ</Teacher20.titleShort>
+  <Teacher20.titleShortFemale>ﺔﻤﻠﻌﻣ</Teacher20.titleShortFemale>
+  
+  <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
+  <Torturer37.description>{PAWN_gender ? . ﻢﻬﺴﻴﺑﺍﻮﻛ ﻲﻓ ﺪﺑﻷﺍ ﻰﻟﺇ ًﺓﺭﻮﻔﺤﻣ [PAWN_nameDef] ﺔﻣﺎﺴﺘﺑﺍ ﻊﻣﻭ - ﺭﺍﺮﺳﺃ ﻼﺑ ﺝﺮﺧ ﺕﺎﻧﺍﺰﻧﺰﻟﺍ ﻰﻟﺇ ﻂﺒﻫ ﻦﻴﺠﺳ ﻱﺃ '. ﻉﺎﻨﻗﻹﺍ 'ﻲﻓ ﺓﺮﻴﺒﺨﻛ ًﺔﻌﻤﺳ ﺖﺒﺴﺘﻛﺍﻭ ،ﺪﺒﺘﺴﻣ ﺔﻴﻏﺎﻃ ﻯﺪﻟ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﻢﻬﺴﻴﺑﺍﻮﻛ ﻲﻓ ﺪﺑﻷﺍ ﻰﻟﺇ ًﺓﺭﻮﻔﺤﻣ [PAWN_nameDef] ﺔﻣﺎﺴﺘﺑﺍ ﻊﻣﻭ - ﺭﺍﺮﺳﺃ ﻼﺑ ﺝﺮﺧ ﺕﺎﻧﺍﺰﻧﺰﻟﺍ ﻰﻟﺇ ﻂﺒﻫ ﻦﻴﺠﺳ ﻱﺃ '. ﻉﺎﻨﻗﻹﺍ 'ﻲﻓ ﺮﻴﺒﺨﻛ ًﺔﻌﻤﺳ ﺐﺴﺘﻛﺍﻭ ،ﺪﺒﺘﺴﻣ ﺔﻴﻏﺎﻃ ﻯﺪﻟ [PAWN_nameDef] َﻝِﻣَﻋ}</Torturer37.description>
+  <!-- EN: torturer -->
+  <Torturer37.title>ﺏﺬﻌﻣ</Torturer37.title>
+  <Torturer37.titleFemale>ﺔﺑﺬﻌﻣ</Torturer37.titleFemale>
+  <!-- EN: torturer -->
+  <Torturer37.titleShort>ﺏﺬﻌﻣ</Torturer37.titleShort>
+  <Torturer37.titleShortFemale>ﺔﺑﺬﻌﻣ</Torturer37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
+  <Veterinarian99.description>{PAWN_gender ? . ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ًﺔﻴﺗﺎﺒﻧ ﺖﺷﺎﻋﻭ ،ﻡﻮﺤﻠﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻣ ﺎﻬﻔﻗﻮﻣ ﻰﻠﻋ ﺕﺮﺛﺃ ﻢﻬﺗﺎﻧﺎﻌﻣ ﺔﻳﺅﺭ. ﺎﻬﺸﻴﻋ ﺐﺴﻜﻟ ﺔﺤﻳﺮﺠﻟﺍﻭ ﺔﻀﻳﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﺠﻟﺎﻌﻤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺍًﻴﺗﺎﺒﻧ ﺵﺎﻋ ﺕﺍﻮﻨﺳ ﺓﺪﻌﻟﻭ ،ﻡﻮﺤﻠﻟﺍ ﻞﻛﺃ ﺔﺳﺭﺎﻤﻣ ﻦﻣ ﻪﻔﻗﻮﻣ ﻰﻠﻋ ﺕﺮﺛﺃ ﻢﻬﺗﺎﻧﺎﻌﻣ ﺔﻳﺅﺭ. ﻪﺸﻴﻋ ﺐﺴﻜﻟ ﺔﺤﻳﺮﺠﻟﺍﻭ ﺔﻀﻳﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺞﻟﺎﻌﻳ [PAWN_nameDef] ﻥﺎﻛ}</Veterinarian99.description>
+  <!-- EN: veterinarian -->
+  <Veterinarian99.title>ﻱﺮﻄﻴﺑ ﺐﻴﺒﻃ</Veterinarian99.title>
+  <Veterinarian99.titleFemale>ﺔﻳﺮﻄﻴﺑ ﺔﺒﻴﺒﻃ</Veterinarian99.titleFemale>
+  <!-- EN: vet -->
+  <Veterinarian99.titleShort>ﻱﺮﻄﻴﺑ ﺐﻴﺒﻃ</Veterinarian99.titleShort>
+  <Veterinarian99.titleShortFemale>ﺔﻳﺮﻄﻴﺑ ﺔﺒﻴﺒﻃ</Veterinarian99.titleShortFemale>
+  
+</LanguageData>

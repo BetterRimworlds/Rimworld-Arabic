@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab --><!-- EN: megaescarabajo -->
+  <Megascarab.label>ﻮﺟﺎﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ</Megascarab.label><!-- EN: megaescarabajos -->
+  <Megascarab.labelPlural>ﺱﻮﺧﺎﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ</Megascarab.labelPlural><!-- EN: larva de megaescarabajo -->
+  <Megascarab.lifeStages.0.label>ﻮﺑﺍﺭﺎﻜﺳ- ﺎﺠﻴﻣ ﺔﻗﺮﻳ</Megascarab.lifeStages.0.label><!-- EN: larvas de megaescarabajo -->
+  <Megascarab.lifeStages.0.labelPlural>ﻮﺑﺍﺭﺎﻜﺳ ﺎﺠﻴﻣ ﺕﺎﻗﺮﻳ</Megascarab.lifeStages.0.labelPlural><!-- EN: megaescarabajo inmaduro -->
+  <Megascarab.lifeStages.1.label>ﻊﻓﺎﻳ ﻮﺟﺎﺑﺍﺭﺎﻜﺳﺎﺠﻴﻣ</Megascarab.lifeStages.1.label><!-- EN: megaescarabajos inmaduros -->
+  <Megascarab.lifeStages.1.labelPlural>ﻲﻣﺎﻨﻟﺍ ﻮﺧﺎﺑﺍﺭﺎﻜﺳﺎﺠﻴﻣ</Megascarab.lifeStages.1.labelPlural><!-- EN: megaescarabajo -->
+  <Megascarab.lifeStages.2.label>ﻮﺟﺎﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ</Megascarab.lifeStages.2.label><!-- EN: megaescarabajos -->
+  <Megascarab.lifeStages.2.labelPlural>ﺱﻮﺧﺎﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ</Megascarab.lifeStages.2.labelPlural>
+  
+  <!-- EN: megaspider --><!-- EN: megaraña -->
+  <Megaspider.label>ﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.label><!-- EN: megarañas -->
+  <Megaspider.labelPlural>ﺱﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.labelPlural><!-- EN: larva de megaraña -->
+  <Megaspider.lifeStages.0.label>ﺎﻴﻧﺍﺭﺎﻐﻴﻣ ﺔﻗﺮﻳ</Megaspider.lifeStages.0.label><!-- EN: larvas de megaraña -->
+  <Megaspider.lifeStages.0.labelPlural>ﺎﻴﻧﺍﺭﺎﻐﻴﻣ ﺕﺎﻗﺮﻳ</Megaspider.lifeStages.0.labelPlural><!-- EN: megaraña inmadura -->
+  <Megaspider.lifeStages.1.label>ﺔﻌﻓﺎﻳ ﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.lifeStages.1.label><!-- EN: megarañas inmaduras -->
+  <Megaspider.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻳ ﺱﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.lifeStages.1.labelPlural><!-- EN: megaraña -->
+  <Megaspider.lifeStages.2.label>ﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.lifeStages.2.label><!-- EN: megarañas -->
+  <Megaspider.lifeStages.2.labelPlural>ﺱﺎﻴﻧﺍﺭﺎﻐﻴﻣ</Megaspider.lifeStages.2.labelPlural>
+  
+  <!-- EN: spelopede --><!-- EN: espelópedo -->
+  <Spelopede.label>ﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.label><!-- EN: espelópedos -->
+  <Spelopede.labelPlural>ﺱﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.labelPlural><!-- EN: larva de espelópedo -->
+  <Spelopede.lifeStages.0.label>ﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ ﺔﻗﺮﻳ</Spelopede.lifeStages.0.label><!-- EN: larvas de espelópedo -->
+  <Spelopede.lifeStages.0.labelPlural>ﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ ﺕﺎﻗﺮﻳ</Spelopede.lifeStages.0.labelPlural><!-- EN: espelópedo inmaduro -->
+  <Spelopede.lifeStages.1.label>ﻊﻓﺎﻳ ﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.lifeStages.1.label><!-- EN: espelópedos inmaduros -->
+  <Spelopede.lifeStages.1.labelPlural>ﻊﻓﺎﻳ ﺱﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.lifeStages.1.labelPlural><!-- EN: espelópedo -->
+  <Spelopede.lifeStages.2.label>ﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.lifeStages.2.label><!-- EN: espelópedos -->
+  <Spelopede.lifeStages.2.labelPlural>ﺱﻭﺪﻴﺑﻮﻠﻴﺒﺳﺇ</Spelopede.lifeStages.2.labelPlural>
+  
+</LanguageData>

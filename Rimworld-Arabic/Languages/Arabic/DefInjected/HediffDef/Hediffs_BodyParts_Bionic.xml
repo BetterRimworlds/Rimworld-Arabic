@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ</BionicArm.label>
+  <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>. ﺍًﺒﻳﺮﻘﺗ ﺀﻴﺷ ِّﻞﻛ ﻲﻓ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻉﺍﺭﺬﻟﺍ ﻦﻣ ُﻞﻀﻓﺃ ُﻩَّﻧﺇ. ﻒﻠﺘﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻟﺎﺑ ﺔﻜﺒﺸﻟﺍ ُﺭﺎﺒﻏ ﺀﺎﻔﺷ ُﺔﻣﻮﻈﻨﻣ ُﻪﻟ ُﺢﻤﺴﺗ. ﺍًﻌﺋﺍﺭ ﺍًﻤﻜﺤﺗ ﻞﺟﻮﻴﺒﻟﺍ ﺏﺎﺼﻋﻷﺍ ُﻞﺻﻭ ُﺢﻨﻤﻳ ﺎﻤﻨﻴﺑ ،ﺓﺮﻴﺒﻛ ًﺓﻮﻗ ﺔﺘﻣﺎﺼﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﻡﺩﺍﻮﺨﻟﺍ ُﻩُﺤﻨﻤﺗ. ﺏَّﻛﺭُﻣ ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ</BionicArm.description>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ﺔﻀﺒﻗ</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>ﺔﻴﻧﻮﻴﺑ ﻥﺫﺃ</BionicEar.label>
+  <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>. ﺔﺒﺧﺎﺼﻟﺍ ﺕﺎﺌﻴﺒﻟﺍ ﻲﻓ ﻰﻨﻌﻤﻟﺍ ﺕﺍﺫ ﺕﺍﻮﺻﻷﺍ ﻁﺎﻘﺘﻟﻻ ﺍًﻴﺋﺎﻘﻠﺗ ﺎﻬﺴﻔﻧ ﻂﺒﻀﺗﻭ ،ﺔﻴﻟﺎﻌﻟﺍ ﺀﺎﺿﻮﻀﻟﺎﺑ ﺭﺮﻀﺘﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻﻭ ،ﺎﻬﺘﻳﺅﺭ ﻞﺒﻗ ﺔﻄﻗ ﻉﺎﻤﺴﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﺳﺎﺴﺣ ﺎﻬﻧﺇ. ﻲﻌﻤﺴﻟﺍ ﺐﺼﻌﻟﺎﺑ ﺓﺮﺷﺎﺒﻣ ﻞﺼﺘﺗ ﻱﻮﻴﺣ ﻞﺟ ﻦﻣ ﺔﻴﺒﺼﻋ ﺔﻬﺟﺍﻭ ﻰﻟﺇ ﻪﻠﻘﻨﺗﻭ ﺕﻮﺼﻟﺍ ﻂﻘﺘﻠﺗ ﺔﻴﺋﺮﻤﻟﺍ ﺮﻴﻏ ﺪﻠﺠﻟﺍ ﺖﺤﺗ ﺕﺎﻧﻮﻓﻭﺮﻜﻴﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ. ﺔﺘﺒﺛُﻣ ﺔﻴﻧﻮﻴﺑ ﻥﺫُﺃ</BionicEar.description>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>ﻲﻧﻮﻴﺑ ﻥﺫﺃ</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ</BionicEye.label>
+  <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>. ﻒﻠﺘﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻟﺎﺑ ﺎﻬﻟ ﺔﻜﺒﺸﻟﺍ ﺭﺎﺒﻏ ﺀﺎﻔﺷ ﻡﺎﻈﻧ ﺢﻤﺴﻳ. ﺍًﺒﻳﺮﻘﺗ ﻲﺣﺍﻮﻨﻟﺍ ّﻞﻛ ﻲﻓ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﻦﻴﻌﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻲﻬﻓ ،ﻒﻴﻄﻟﺍ ﺔﻌﺳﺍﻭ ﺭﺎﻌﺸﺘﺳﻻﺍ ﺓﺰﻬﺟﺃﻭ ،ﻲﻠﺧﺍﺪﻟﺍ ﺓﺭﺎﺷﻹﺍ ﺞﻟﺎﻌﻣﻭ ،ﻞﻴﺟﻮﻴﺒﻟﺍ ﺏﺎﺼﻋﻷﺍ ﺔﻠﺻﻭ ﻞﻀﻔﺑ. ﺔﺘﺒﺛُﻣ ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ</BionicEye.description>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>ﻲﻧﻮﻴﺑ ﺐﻠﻗ</BionicHeart.label>
+  <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>. ﺍًﺒﻳﺮﻘﺗ ﺀﻴﺷ ﻞﻛ ﻲﻓ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺐﻠﻘﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻪﻧﺇ. ﺪﻳﺪﺸﻟﺍ ﺩﺎﻬﺟﻹﺍ ﺀﺎﻨﺛﺃ ﻊﻳﺮﺴﻟﺍ ﺮﻳﻭﺪﺘﻠﻟ ﺔﻴﻟﺎﻋ ﻖﻓﺪﺗ ﺔﺨﻀﻣ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﻲﻌﻗﺍﻭ ﺐﻠﻗ ﺾﺒﻨﻟ ﺔﻴﻋﺎﻨﺻ ﺔﻴﻠﻀﻋ ﻑﺎﻴﻟﺃ ﻰﻠﻋ ﻱﻮﺘﺤﻳ. ﺕَّﺒﺛُﻣ ﻲﻧﻮﻴﺑ ﺐﻠﻗ</BionicHeart.description>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>ﻲﻧﻮﻴﺑ ﺐﻠﻗ</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>ﻲﻧﻮﻴﺑ ﻚﻓ</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>. ﺔﻛﺮﺤﻟﺍ ﻰﻠﻋ ﺔﻠﻣﺎﻜﻟﺍ ﺓﺭﺪﻘﻠﻟ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻛﺮﺤﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣﻭ ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ﻥﺎﻨﺳﺃ ﻞﺋﺍﺪﺑ ﻊﻣ ،ﻱﻮﻴﺣ ﻢﻈﻋ ﻦﻣ ﻊﻧُﺻ. ﺕَّﺒﺛُﻣ ﻲﻧﻮﻴﺑ ﻚﻓ</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>ﻲﻧﻮﻴﺑ ﻚﻓ</BionicJaw.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>ﻲﻧﻮﻴﺑ ﻕﺎﺳ</BionicLeg.label>
+  <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>. ﻲﺣﺍﻮﻨﻟﺍ ﻞﻛ ﻲﻓ ﺍًﺒﻳﺮﻘﺗ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﻕﺎﺴﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻲﻬﻓ ،ﺔﻜﺒﺸﻟﺍ ﺭﺎﺒﻏ ﻡﺎﺌﺘﻟﺍ ﻡﺎﻈﻧﻭ ،ﺔﻳﻮﻘﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﻡﺩﺍﻮﺨﻟﺍﻭ ،ﻞﻴﺟﻮﻴﺒﻟﺍ ﺏﺎﺼﻋﻷﺍ ﺔﻠﺻﻭ ﻞﻀﻔﺑ. ﺔﺘﺒﺛُﻣ ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>ﻲﻧﻮﻴﺑ ﻕﺎﺳ</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ</BionicSpine.label>
+  <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>. ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ ﺀﺍﺩﺃ ﻖﺑﺎﻃُﻳ. ﻱﺭﺎﺑُﻏ- ﻲﻜﺒﺷ ﺀﺎﻔﺷ ﻡﺎﻈﻨﺑ ﺔﻃﺎﺣُﻣ ،ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ﺔﻴﻠﺼﻔﻣ ﺓﺍﻮﻧ ﻝﻮﻃ ﻰﻠﻋ ﻞﺟﻮﻴﺑ ﺏﺎﺼﻋﺃ ﺔﻣﺰﺣ ﺪﺘﻤﻳ. ﺕَّﺒﺛُﻣ ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ</BionicSpine.description>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ</BionicStomach.label>
+  <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>. ﺍًﺒﻳﺮﻘﺗ ﻲﺣﺍﻮﻨﻟﺍ ﻞﻛ ﻲﻓ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺓﺪﻌﻤﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﺎﻬﻧﺇ. ﻲﻋﺎﻨﻄﺻﻻﺍ ﻮﻀﻌﻟﺍ ﺍﺬﻬﺑ ﻖﺤﻠﻳ ﺭﺮﺿ ﻱﺃ ﺍًﻴﺋﺎﻘﻠﺗ ﺢﻠﺼﻳ ﺞﻣﺪﻤﻟﺍ ﻲﻜﺒﺸﻟﺍ ﺭﺎﺒﻐﻟﺍ ﻡﺎﺌﺘﻟﺍ ﻡﺎﻈﻧ. ﺓﺪﻌﻤﻟﺍ ﺽﺍﺮﻣﺃ ﺾﻌﺑ ﺪﺿ ﻦﺼﺤﻣ ﻮﻫﻭ ،ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺎﺑ ﺔﺑﺎﺻﻺﻟ ﺮﻴﺜﻜﺑ ﻞﻗﺃ ﺔﺻﺮﻓ ﻪﻳﺪﻟ ﺎﻬﻠﻤﺤﻳ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ. ﺔﺘﺒﺛُﻣ ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ</BionicStomach.description>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ</BionicStomach.labelNoun>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>ﻲﻧﻮﻴﺑ ﻥﺎﺴﻟ</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>. ﻕﻭﺬﺘﻟﺍﻭ ﻞﻛﻷﺍﻭ ﻡﻼﻜﻟﺍ ﻲﻓ ﻲﻌﻴﺒﻄﻟﺍ ﻥﺎﺴﻠﻟﺍ ﺀﺍﺩﺃ ﺓﺎﻫﺎﺿُﻣ ﻪﻨﻜﻤﻳﻭ ،ﻲﺒﺼﻋ ّﻞﺟ ﺔﻬﺟﺍﻭ ﺮﺒﻋ ﻞﺼﺘﻣﻭ ﺔﻴﻋﺎﻨﺻ ﺔﻤﻋﺎﻧ ﻑﺎﻴﻟﺃ ﻦﻣ ﻊﻧُﺻ. ﺏَّﻛﺭُﻣ ﻲﻧﻮﻴﺑ ﻥﺎﺳِﻟ</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>ﻲﻧﻮﻴﺑ ﻥﺎﺴﻟ</BionicTongue.labelNoun>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>ﺕﻮﻤﻟﺍ ﺽِّﻣَﺣُﻣ</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>. ﻦﻳﺮﺧﻵﺍ ﺮﻀﻳ ﻻﻭ ،ﻡﺪﺨﺘﺴﻤﻟﺍ ﻢﺴﺠﻟ ﺔﺴﻣﻼﻤﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﺐﻳﺬﺗ ﺔﻳﻮﻗ ﺔﻴﺋﺎﻴﻤﻴﻛ ﺩﺍﻮﻣ ﻖﻠﻄﻳ ﻪﻧﺈﻓ ،ﻡﺪﺨﺘﺴﻤﻟﺍ ﺓﺎﻓﻭ ﺪﻨﻋ. ﺖﺒﺜﻣ ﺕﻮﻤﻟﺍ ﺾﻤﺣ ﺰﻔﺤﻣ</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
+  <DeathAcidifier.labelNoun>ﺕﻮﻤﻟﺍ ﺽِّﻣَﺣُﻣ</DeathAcidifier.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>ﺔﻴﻜﻴﺳﻼﻜﻟﺍ ﺍﺭﺪﻧﺎﺳﺎﻛ</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>. ﻯﺮﺧﺃ ﺓﺮﻣ ﻂﻐﻀﺘﻟ ﺩﻮﻌﺗ ﻢﺛ ،ﺔﺣﺍﺮﻟﺍ ﻦﻣ ﺔﺤﺴﻓ ﻚﺤﻨﻤﺗ ﻢﺛ ،ﺓﺮﻴﻄﺧ ﺙﺍﺪﺣﺄﺑ ﻚﻴﻠﻋ ﻂﻐﻀﺘﺳﻭ ،ﺮﺗﻮﺘﻟﺍﻭ ﻱﺪﺤﺘﻟﺍ ﻦﻣ ﺪﻳﺍﺰﺘﻣ ﻲﻜﻴﺳﻼﻛ ﻰﻨﺤﻨﻣ ﻰﻠﻋ ﺔﻴﺼﺼﻗ ﺍًﺛﺍﺪﺣﺃ ﺍﺭﺪﻧﺎﺳﺎﻛ ﻢﻤﺼﺗ</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>ﺲﻛﻼﻴﺸﺗ ﻲﺒﻴﻓ</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>. ﺮﺧﺁ ﺺﺨﺷ ﻱﺃ ﻞﺜﻣ ﺓﻮﻘﺑ ﺏﺮﻀﺘﺳ ،ﺔﻴﻟﺎﻌﻟﺍ ﺕﺎﺑﻮﻌﺼﻟﺍ ﻲﻔﻓ - ﺭﺬﺣﺍ ﻦﻜﻟﻭ ،ﻚﺗﺮﻤﻌﺘﺴﻣ ﺀﺎﻨﺒﻟ ﺙﺭﺍﻮﻜﻟﺍ ﻦﻴﺑ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻲﺒﻴﻓ ﺢﻨﻤﺗ</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>ﻲﺋﺍﻮﺸﻌﻟﺍ ﻱﺪﻧﺍﺭ</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>. ﻪﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺎﻣﺍﺭﺩ ﺀﻴﺷ ﻞﻛ. ﻖﻠﻄﻣ ﺱﺄﻳ ﻭﺃ ﺭﺎﺼﺘﻧﺍ ﺔﺼﻗ ﻊﻨﺼﺗ ﺖﻧﺎﻛ ﺍﺫﺇ ﺎﻣ ﻪﻤﻬﻳ ﻻﻭ ،ﺔﻴﺋﺍﻮﺸﻋ ﺍًﺛﺍﺪﺣﺃ ﺪﻟﻮﻴﺳ. ﺪﻋﺍﻮﻘﻟﺍ ﻊﺒﺘﻳ ﻻ ﻱﺪﻧﺍﺭ\n\n. ﺎﻬﻨﻣ ﺮﻔﻣ ﻻ ﺕﺎﻴﺤﻀﺗﻭ - ﺔﻴﻟﺎﻋ ﺎﻣﺍﺭﺩ ﻖﻠﺨﻳ ﺍﺬﻫ. ﻙﻮﺤﻧ ﺔﻳﺎﻐﻠﻟ ﺔﻟﺩﺎﻋ ﺮﻴﻏ ﻭﺃ ﺔﺒﻌﺻ ﺙﺍﺪﺣﺃ ﺕﺎﻋﻮﻤﺠﻣ ﺍًﻧﺎﻴﺣﺃ ﻞﺳﺮﻴﺳ ﻪﻧﺈﻓ ،ﺍًﻘﺣ ﻲﺋﺍﻮﺸﻋ ﻱﺪﻧﺍﺭ ﻥﺃ ﺎﻤﺑ: ﺮﻳﺬﺤﺗ</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>ﻯَﻓْﺧُﻣ ﺏِّﺭَﺩُﻣ</Tutor.label>
+  
+</LanguageData>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken --><!-- EN: pollo -->
+  <Chicken.label>ﺝﺎﺟﺩ</Chicken.label>
+  <!-- EN: hen --><!-- EN: gallina -->
+  <Chicken.labelFemale>ﺔﺟﺎﺟﺩ</Chicken.labelFemale>
+  <!-- EN: rooster --><!-- EN: gallo -->
+  <Chicken.labelMale>ﻚﻳﺩ</Chicken.labelMale><!-- EN: pollos -->
+  <Chicken.labelPlural>ﺝﺎﺟﺩ</Chicken.labelPlural>
+  <!-- EN: chick --><!-- EN: polluelo -->
+  <Chicken.lifeStages.chick.label>ﺕﻮﻜﺘﻛ</Chicken.lifeStages.chick.label><!-- EN: polla -->
+  <Chicken.lifeStages.cockerel.labelFemale>ﺓﺮﻴﻐﺻ ﺔﺟﺎﺟﺩ</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel --><!-- EN: pollo -->
+  <Chicken.lifeStages.cockerel.labelMale>ﺮﻴﻐﺻ ﻚﻳﺩ</Chicken.lifeStages.cockerel.labelMale><!-- EN: gallina -->
+  <Chicken.lifeStages.2.labelFemale>ﺔﺟﺎﺟﺩ</Chicken.lifeStages.2.labelFemale><!-- EN: gallo -->
+  <Chicken.lifeStages.2.labelMale>ﻚﻳﺩ</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: duck --><!-- EN: pato -->
+  <Duck.label>ﺔﻄﺑ</Duck.label><!-- EN: pata -->
+  <Duck.labelFemale>ﻰﺜﻧﺃ ﺔﻄﺑ</Duck.labelFemale><!-- EN: patas -->
+  <Duck.labelFemalePlural>ﺙﺎﻧﺃ ﺕﺎﻄﺑ</Duck.labelFemalePlural><!-- EN: pato -->
+  <Duck.labelMale>ﺮﻛﺫ ﻂﺑ</Duck.labelMale><!-- EN: patos -->
+  <Duck.labelMalePlural>ﺭﻮﻛﺫ ﺕﺎﻄﺑ</Duck.labelMalePlural><!-- EN: patos -->
+  <Duck.labelPlural>ﺕﺎﻄﺑ</Duck.labelPlural>
+  <!-- EN: duckling --><!-- EN: polluelo de pato -->
+  <Duck.lifeStages.duckling.label>ﻂﺑ ﺥﺮﻓ</Duck.lifeStages.duckling.label><!-- EN: polluela de pato -->
+  <Duck.lifeStages.duckling.labelFemale>ﻂﺑ ﺔﺧﺮﻓ</Duck.lifeStages.duckling.labelFemale><!-- EN: polluelas de pato -->
+  <Duck.lifeStages.duckling.labelFemalePlural>ﺙﺎﻧﺃ ﻂﺑ ﺥﺍﺮﻓ</Duck.lifeStages.duckling.labelFemalePlural><!-- EN: polluelo de pato -->
+  <Duck.lifeStages.duckling.labelMale>ﺮﻛﺫ ﻂﺑ ﺥﺮﻓ</Duck.lifeStages.duckling.labelMale><!-- EN: polluelos de pato -->
+  <Duck.lifeStages.duckling.labelMalePlural>ﺭﻮﻛﺫ ﻂﺑ ﺥﺍﺮﻓ</Duck.lifeStages.duckling.labelMalePlural><!-- EN: polluelos de pato -->
+  <Duck.lifeStages.duckling.labelPlural>ﻂﺑ ﺥﺍﺮﻓ</Duck.lifeStages.duckling.labelPlural><!-- EN: pato joven -->
+  <Duck.lifeStages.1.label>ﺮﻴﻐﺻ ﻂﺑ</Duck.lifeStages.1.label><!-- EN: pata joven -->
+  <Duck.lifeStages.1.labelFemale>ٌﺓَﺮﻳِﻏَﺻ ٌﺓَﻃَﺑ</Duck.lifeStages.1.labelFemale><!-- EN: patas jóvenes -->
+  <Duck.lifeStages.1.labelFemalePlural>ﺙﺎﻧﺃ ﺓﺮﻴﻐﺻ ﺕﺎﻄﺑ</Duck.lifeStages.1.labelFemalePlural><!-- EN: pato joven -->
+  <Duck.lifeStages.1.labelMale>ﺮﻛﺫ ﺮﻴﻐﺻ ﻂﺑ</Duck.lifeStages.1.labelMale><!-- EN: patos jóvenes -->
+  <Duck.lifeStages.1.labelMalePlural>ﺭﻮﻛﺫ ﺓﺮﻴﻐﺻ ﺕﺎﻄﺑ</Duck.lifeStages.1.labelMalePlural><!-- EN: patos jóvenes -->
+  <Duck.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﺎﻄﺑ</Duck.lifeStages.1.labelPlural><!-- EN: pato -->
+  <Duck.lifeStages.2.label>ﺔﻄﺑ</Duck.lifeStages.2.label><!-- EN: pata -->
+  <Duck.lifeStages.2.labelFemale>ﻰﺜﻧﺃ ﺔﻄﺑ</Duck.lifeStages.2.labelFemale><!-- EN: pato -->
+  <Duck.lifeStages.2.labelFemalePlural>ﺙﺎﻧﺃ ﺕﺎﻄﺑ</Duck.lifeStages.2.labelFemalePlural><!-- EN: pato -->
+  <Duck.lifeStages.2.labelMale>ﺮﻛﺫ ﻂﺑ</Duck.lifeStages.2.labelMale><!-- EN: patos -->
+  <Duck.lifeStages.2.labelMalePlural>ﺭﻮﻛﺫ ﺕﺎﻄﺑ</Duck.lifeStages.2.labelMalePlural><!-- EN: patos -->
+  <Duck.lifeStages.2.labelPlural>ﺕﺎﻄﺑ</Duck.lifeStages.2.labelPlural>
+  
+  <!-- EN: goose --><!-- EN: ganso -->
+  <Goose.label>ﺓﺯﻭ</Goose.label><!-- EN: gansa -->
+  <Goose.labelFemale>ﻰﺜﻧﺃ ﺓﺯﻭ</Goose.labelFemale>
+  <!-- EN: geese --><!-- EN: gansos -->
+  <Goose.labelPlural>ﺯﻭُﺃ</Goose.labelPlural><!-- EN: cría de ganso -->
+  <Goose.lifeStages.0.label>ﺯﻭﻹﺍ ﺥﻭﺮﻓ</Goose.lifeStages.0.label><!-- EN: cría de gansa -->
+  <Goose.lifeStages.0.labelFemale>ﺓﺯﻭﺇ ﺔﺧﺮﻓ</Goose.lifeStages.0.labelFemale><!-- EN: crías de gansa -->
+  <Goose.lifeStages.0.labelFemalePlural>ﺙﺎﻧﺃ ﺓﺯﻭﺇ ﺥﺍﺮﻓ</Goose.lifeStages.0.labelFemalePlural><!-- EN: crías de ganso -->
+  <Goose.lifeStages.0.labelPlural>ﺯﻭﻹﺍ ﺭﺎﻐﺻ</Goose.lifeStages.0.labelPlural><!-- EN: ganso joven -->
+  <Goose.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺓﺯﻭ</Goose.lifeStages.1.label><!-- EN: gansa joven -->
+  <Goose.lifeStages.1.labelFemale>ﻰﺜﻧﺃ ﺓﺮﻴﻐﺻ ﺓﺯﻭ</Goose.lifeStages.1.labelFemale><!-- EN: gansas jóvenes -->
+  <Goose.lifeStages.1.labelFemalePlural>ﺙﺎﻧﺃ ﺓﺮﻴﻐﺻ ﺕﺍﺯﻭ</Goose.lifeStages.1.labelFemalePlural><!-- EN: ganso joven -->
+  <Goose.lifeStages.1.labelMale>ﺮﻛﺫ ﺮﻴﻐﺻ ﺯﻭ</Goose.lifeStages.1.labelMale><!-- EN: gansos jóvenes -->
+  <Goose.lifeStages.1.labelMalePlural>ﺭﻮﻛﺫ ﺓﺮﻴﻐﺻ ﺕﺍﺯﻭ</Goose.lifeStages.1.labelMalePlural><!-- EN: gansos jóvenes -->
+  <Goose.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺯﻭﺃ</Goose.lifeStages.1.labelPlural><!-- EN: ganso -->
+  <Goose.lifeStages.2.label>ﺓﺯﻭ</Goose.lifeStages.2.label><!-- EN: gansa -->
+  <Goose.lifeStages.2.labelFemale>ﻰﺜﻧﺃ ﺓﺯﻭ</Goose.lifeStages.2.labelFemale><!-- EN: gansas -->
+  <Goose.lifeStages.2.labelFemalePlural>ﺙﺎﻧﺃ ﺕﺍﺯﻭ</Goose.lifeStages.2.labelFemalePlural><!-- EN: ganso -->
+  <Goose.lifeStages.2.labelMale>ﺮﻛﺫ ﺯﻭ</Goose.lifeStages.2.labelMale><!-- EN: gansos -->
+  <Goose.lifeStages.2.labelMalePlural>ﺭﻮﻛﺫ ﺕﺍﺯﻭ</Goose.lifeStages.2.labelMalePlural><!-- EN: gansos -->
+  <Goose.lifeStages.2.labelPlural>ﺯﻭﺃ</Goose.lifeStages.2.labelPlural>
+  
+  <!-- EN: turkey --><!-- EN: pavo -->
+  <Turkey.label>ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.label><!-- EN: pava -->
+  <Turkey.labelFemale>ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.labelFemale><!-- EN: pavas -->
+  <Turkey.labelFemalePlural>ﺙﺎﻧﺃ ﺔﻴﻣﻭﺭ ﺕﺎﻜﻳﺩ</Turkey.labelFemalePlural><!-- EN: pavo -->
+  <Turkey.labelMale>ﺮﻛﺫ ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.labelMale><!-- EN: pavos -->
+  <Turkey.labelMalePlural>ﺭﻮﻛﺫ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.labelMalePlural><!-- EN: pavos -->
+  <Turkey.labelPlural>ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.labelPlural><!-- EN: cría de pavo -->
+  <Turkey.lifeStages.0.label>ﻲﻣﻭﺮﻟﺍ ﻚﻳﺪﻟﺍ ﺥﺮﻓ</Turkey.lifeStages.0.label><!-- EN: cría de pava -->
+  <Turkey.lifeStages.0.labelFemale>ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﺧﺮﻓ</Turkey.lifeStages.0.labelFemale><!-- EN: crías de pava -->
+  <Turkey.lifeStages.0.labelFemalePlural>ﺙﺎﻧﺃ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ ﺥﺍﺮﻓ</Turkey.lifeStages.0.labelFemalePlural><!-- EN: crías de pavo -->
+  <Turkey.lifeStages.0.labelPlural>ﻲﻣﻭﺮﻟﺍ ﻚﻳﺪﻟﺍ ﺭﺎﻐﺻ</Turkey.lifeStages.0.labelPlural><!-- EN: pollipavo -->
+  <Turkey.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.lifeStages.1.label><!-- EN: pollipava -->
+  <Turkey.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.1.labelFemale><!-- EN: pollipavas -->
+  <Turkey.lifeStages.1.labelFemalePlural>ﺙﺎﻧﺃ ﺓﺮﻴﻐﺻ ﺔﻴﻣﻭﺭ ﺕﺎﻜﻳﺩ</Turkey.lifeStages.1.labelFemalePlural><!-- EN: pollipavo -->
+  <Turkey.lifeStages.1.labelMale>ﺮﻛﺫ ﺮﻴﻐﺻ ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.lifeStages.1.labelMale><!-- EN: pollipavos -->
+  <Turkey.lifeStages.1.labelMalePlural>ﺭﻮﻛﺫ ﺓﺮﻴﻐﺻ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.1.labelMalePlural><!-- EN: pollipavos -->
+  <Turkey.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.1.labelPlural><!-- EN: pavo -->
+  <Turkey.lifeStages.2.label>ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.lifeStages.2.label><!-- EN: pava -->
+  <Turkey.lifeStages.2.labelFemale>ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.2.labelFemale><!-- EN: pavas -->
+  <Turkey.lifeStages.2.labelFemalePlural>ﺙﺎﻧﺃ ﺔﻴﻣﻭﺭ ﺕﺎﻜﻳﺩ</Turkey.lifeStages.2.labelFemalePlural><!-- EN: pavo -->
+  <Turkey.lifeStages.2.labelMale>ﺮﻛﺫ ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.lifeStages.2.labelMale><!-- EN: pavos -->
+  <Turkey.lifeStages.2.labelMalePlural>ﺭﻮﻛﺫ ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.2.labelMalePlural><!-- EN: pavos -->
+  <Turkey.lifeStages.2.labelPlural>ﺔﻴﻣﻭﺭ ﺔﻜﻳﺩ</Turkey.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recon armor -->
+  <Apparel_ArmorRecon.label>ﻉﻼﻄﺘﺳﺍ ﻉﺭﺩ</Apparel_ArmorRecon.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+  <Apparel_ArmorRecon.description>. ﺔﻟﻮﻬﺴﺑ ﺔﻛﺮﺤﻟﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻉﺭﺪﻟﺍ ﺀﺍﺪﺗﺭﺎﺑ ﻥﺎﺴﻧﻹ ﺢﻤﺴﺗ ﻢﺴﺠﻟﺍ ﻦﻣ ﻲﻠﻔﺴﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﺔﻴﺗﺍﺮﻛﺍﺫ- ﺔﻴﺒﺼﻋ ﺕﺍﺪﻋﺎﺴﻣﻭ ،ﺔﻛﺮﺤﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺎﺑ ﺱﺎﺴﻤﻟﺍ ﻥﻭﺩ ﺕﺎﻤﺠﻬﻟﺍ ﺐﺠﺤﺗ ﻥﺯﻮﻟﺍ ﺔﻔﻴﻔﺧ ﺔﺟﻮﺴﻧُﻣ ﻞﻴﺘﺳﻼﺑ ﺢﺋﺎﻔﺻ. ﺔﻌﻳﺮﺳ ﺔﻛﺮﺤﺑ ﺡﺎﻤﺴﻠﻟ ﺕَﻣِّﻣُﺻ ،ﺍًﻴﺋﺰﺟ ﻝَّﻐﺷُﻣ ﻒﻴﻔﺧ ﻉﺭﺩ ﺔﻟﺪﺑ\n\n. ﻉﺭﺪﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ ﺔﻃﺮﺸﻟﺍ ﺕﺍﻮﻗﻭ ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﺔﻓﺎﺸﻜﻟﺍ ﺕﺍﻮﻗ ﻡﺪﺨﺘﺴﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ</Apparel_ArmorRecon.description>
+  
+  <!-- EN: T-shirt -->
+  <Apparel_BasicShirt.label>ﺕﺮﻴﺷ ﻲﺗ</Apparel_BasicShirt.label>
+  <!-- EN: A simple T-shirt. -->
+  <Apparel_BasicShirt.description>. ﺕﺮﻴﺷ ﻲﺘﻟﺍ ﻉﻮﻧ ﻦﻣ ﻂﻴﺴﺑ ﺺﻴﻤﻗ</Apparel_BasicShirt.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>ﺀﺍﺩﺭ</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>. ﻉﺬﺠﻟﺍ ﻲﺒﻧﺎﺟ ﺪﺣﺃ ﻰﻠﻋ ﻰﻟﺪﺘﻳ ،ﻖﻴﻧﺃ ﻢﻴﻤﺼﺘﺑ ﻞﻳﻮﻃ ﺀﺍﺩﺭ</Apparel_Cape.description>
+  
+  <!-- EN: button-down shirt -->
+  <Apparel_CollarShirt.label>ﺭﺍﺭﺯﺄﺑ ﺺﻴﻤﻗ</Apparel_CollarShirt.label>
+  <!-- EN: A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>. ﺭﺍﺭﺯﺃﻭ ﺔﻗﺎﻳ ﻭﺫ ﺐﺗﺭُﻣ ﺺﻴﻤﻗ</Apparel_CollarShirt.description>
+  
+  <!-- EN: duster -->
+  <Apparel_Duster.label>ٍﻕﺍﻭ ﻒﻄﻌﻣ</Apparel_Duster.label>
+  <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>. ﺝﺭﺎﺨﻟﺍ ﺔﺑﺮﺗﺃﻭ ﺲﻤﺸﻟﺍ ﺐﺠﺤﻟ ٍﻕﺍﻭ ﻞﻳﻮﻃ ﻒﻄﻌﻣ</Apparel_Duster.description>
+  
+  <!-- EN: flak jacket -->
+  <Apparel_FlakJacket.label>ﺎﻳﺎﻈﺸﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ</Apparel_FlakJacket.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>. ﺔﺣﺍﺮﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺭﺪﻗ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻊﻣ ﺕﺎﻤﺠﻬﻟﺍ ﻉﺍﻮﻧﺃ ﻊﻴﻤﺟ ﺪﺿ ﺔﻟﺎﻌﻓ ﺔﻳﺎﻤﺣ ﺮﻓﻮﺗ ﺎﻬﻧﺃ ﻻﺇ ،ﺐﻠﺼﻟﺍ ﻉﺭﺪﻟﺍ ﻞﺜﻣ ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺎﻬﻴﻓ ﺔﻄﻴﺨﻣ ﻉﺭﺩ ﺡﺍﻮﻟﺄﺑ ﺓﺩﻭﺰﻣ ﺔﻨﻴﺘﻣ ﺔﻴﺷﺎﻤﻗ ﺓﺮﺘﺳ</Apparel_FlakJacket.description>
+  
+  <!-- EN: flak pants -->
+  <Apparel_FlakPants.label>ﺎﻳﺎﻈﺷ ﺩﺎﻀﻣ ﻥﻮﻠﻄﻨﺑ</Apparel_FlakPants.label>
+  <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>. ٍﺓﺮﻴﺒﻛ ٍﺔﺣﺍﺭ ﻰﻠﻋ ِﻅﺎﻔﺤﻟﺍ ﻊﻣ ِﺕﺎﻤﺠﻬﻟﺍ ِﻉﺍﻮﻧﺃ ِﻊﻴﻤﺟ َّﺪﺿ ًﺔﻟﺍّﻌﻓ ًﺔﻳﺎﻤﺣ ُﺮﻓﻮﻳ ُﻩَّﻧﺃ ﺍّﻟﺇ ،ِﺐﻠﺼﻟﺍ ِﻉﺭﺪﻟﺍ ِﺓﺩﻮﺠﺑ ْﻦﻜﻳ ﻢﻟ ﻥﺇﻭ ،ِﻉﺭﺪﻟﺍ ِﺡﺍﻮﻟﺄﺑ ٌﻥَّﻄﺑُﻣ ٌﻝﺍﻭﺮﺳ</Apparel_FlakPants.description>
+  
+  <!-- EN: flak vest -->
+  <Apparel_FlakVest.label>ﺎﻳﺎﻈﺸﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ</Apparel_FlakVest.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>. ﺍًﻗﻼﻃﺇ َﻑﺍﺮﻃﻷﺍ ﻲﻤﺤﺗ ﻻ ﺎﻬﻧﺈﻓ ،ِﺭﺪﺼﻟﺍ ﻰﻠﻋ ِﺔﻴﻨﻌﻄﻟﺍ ِﺕﺎﻤﺠﻬﻟﺍﻭ ِﺹﺎﺻﺮﻟﺍ ِّﺪﺻ ﻲﻓ ﺍًﺪﺟ ًﺔﻟﺎﻌﻓ ُﻥﻮﻜﺗ ﺎﻤﻨﻴﺑ. ِﺮﻬﻈﻟﺍﻭ ِﺭﺪﺼﻟﺍ ﻲﻓ ٍﺔﺘﺒﺛُﻣ ٍﻉﺭﺩ ِﺡﺍﻮﻟﺄﺑ ٌﺓﺩﻭﺰﻣ ٌﺓﺮﺘﺳ</Apparel_FlakVest.description>
+  
+  <!-- EN: jacket -->
+  <Apparel_Jacket.label>ﺓﺮﺘﺳ</Apparel_Jacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>. ﺩﺭﺎﺒﻟﺍ ﺲﻘﻄﻟﺍ ﻲﻓ ﺀﻓﺪﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟﻭ ،ﺕﺎﻣﺪﻜﻟﺍﻭ ﺡﻭﺮﺠﻟﺍ ﻑﺎﻘﻳﻹ ﺔﻨﻴﺘﻣ ﺓﺮﺘﺳ</Apparel_Jacket.description>
+  
+  <!-- EN: pants -->
+  <Apparel_Pants.label>ﻥﻮﻠﻄﻨﺑ</Apparel_Pants.label>
+  <!-- EN: A simple set of pants. -->
+  <Apparel_Pants.description>. ﻂﻴﺴﺑ ﻥﻮﻠﻄﻨﺑ</Apparel_Pants.description>
+  
+  <!-- EN: parka -->
+  <Apparel_Parka.label>ﺎﻛﺭﺎﺑ</Apparel_Parka.label>
+  <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>. ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺩ ﺩﺮﺑﺃ ﻲﻓ ﺀﻓﺪﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺎﻛﺭﺎﺑ ﺓﺮﺘﺳ</Apparel_Parka.description>
+  
+  <!-- EN: plate armor -->
+  <Apparel_PlateArmor.label>ﻲﺤﻴﻔﺻ ﻉﺭﺩ</Apparel_PlateArmor.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>. ﻦﻴﻣﺪﻘﻟﺍ ﻰﻟﺇ ﺔﺒﻗﺮﻟﺍ ﻦﻣ ﻪﻠﻤﻛﺄﺑ ﻢﺴﺠﻟﺍ ﻲﻄﻐﺗ ﺔﻠﺧﺍﺪﺘﻣ ﺔﺒﻠﺻ ﻉﺭﺩ ﺡﺍﻮﻟﺃ</Apparel_PlateArmor.description>
+  
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>ﻱﺮﺤﺑ ﻉﺭﺩ</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>. ﺔﻟﻮﻬﺴﺑ ﺔﻛﺮﺤﻟﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻉﺭﺪﻟﺍ ﺀﺍﺪﺗﺭﺍ ﻥﺎﺴﻧﻹ ﺔﻴﺗﺍﺮﻛﺍﺬﻟﺍ- ﺔﻴﺒﺼﻌﻟﺍ ﺕﺍﺪﻋﺎﺳُﻤﻟﺍ ﺢﻴﺗُﺗ. ﺔﻔﻴﻌﻀﻟﺍ ﺕﻼﺻﻮﻟﺍ ﻡﺎﺴﻗﺃ ﻦﻣ ﻞﻴﻠﻗ ﺩﺪﻋ ﺩﻮﺟﻭ ﻊﻣ ،ﺕﺎﻤﺠﻬﻟﺍ ﻑﺎﻘﻳﺇ ﻲﻓ ﺍًﺪﺟ ﺔﻟﺎﻌﻓ ﺔﺟﻮﺴﻨﻤﻟﺍ ﻞﻴﺘﺳﻼﺒﻟﺍ ﺢﺋﺎﻔﺻ ﻦﻣ ﺕﺎﻘﺒﻃ. ﺯَّﺰﻋُﻣ ﻉﺭﺩ ﺔﻟﺪﺑ\n\n. ﻡﺎﺤﺘﻗﻻﺍ- ﺔﻌﻳﺮﺴﻟﺍ ﺀﺎﻀﻔﻟﺍ ﺓﺎﺸﻣ ﺕﺍﻮﻗ ﻞﺑِﻗ ﻦﻣ ﻩﺬﻫ ﺔﻬﺑﺎﺸﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻡﺪﺨﺘﺳُﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ</Apparel_PowerArmor.description>
+  
+  <!-- EN: robe -->
+  <Apparel_Robe.label>ﺀﺍﺩﺭ</Apparel_Robe.label>
+  <!-- EN: A long, flowing robe without a hood. -->
+  <Apparel_Robe.description>. ﺱﺃﺭ ﺀﺎﻄﻏ ﻥﻭﺪﺑ ﺽﺎﻔﻀﻓ ﻞﻳﻮﻃ ﺀﺍﺩﺭ</Apparel_Robe.description>
+  
+  <!-- EN: tribalwear -->
+  <Apparel_TribalA.label>ﺔﻴﻠﺒﻗ ﺲﺑﻼﻣ</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>. ﻪﻳﺪﺗﺮﻣ ﻝﺰﻋ ﻲﻓ ﻝﺎﻌﻓ ﻪﻧﺈﻓ ،ﻲﺋﺍﺪﺒﻟﺍ ﻩﺮﻬﻈﻣ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻱﺮﺠﺣ ﺮﺼﻋ ﻦﻣ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻊﻧُﺻ ﻢﺴﺠﻟﺍ ﻞﻣﺎﻛ ﺏﻮﺛ</Apparel_TribalA.description>
+  
+</LanguageData>

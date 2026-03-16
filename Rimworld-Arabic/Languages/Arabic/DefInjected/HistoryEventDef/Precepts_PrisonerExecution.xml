@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: executed colonist -->
+  <ExecutedColonist.label>ﻡَﺪﻋُﻣ ﺮﻤﻌﺘﺴﻣ</ExecutedColonist.label>
+  
+  <!-- EN: executed guest -->
+  <ExecutedGuest.label>ﻡﺪﻋُﻣ ﻒﻴﺿ</ExecutedGuest.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.label>ﻡﺪﻋُﻣ ﻦﻴﺠﺳ</ExecutedPrisoner.label>
+  
+  <!-- EN: executed guilty prisoner -->
+  <ExecutedPrisonerGuilty.label>ﻡﺪﻋُﻣ ﺐﻧﺬﻣ ﻦﻴﺠﺳ</ExecutedPrisonerGuilty.label>
+  
+  <!-- EN: executed innocent prisoner -->
+  <ExecutedPrisonerInnocent.label>ﺀﻳﺮﺑ ﻡﺪﻋُﻣ ﻦﻴﺠﺳ</ExecutedPrisonerInnocent.label>
+  
+</LanguageData>

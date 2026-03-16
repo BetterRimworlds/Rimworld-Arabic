@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ==== Core/SpanishLatin/bugged.punctuation.xml ==== -->
+<!--
+  These tests validate typography normalization:
+  - ASCII ellipsis (...) → Unicode ellipsis (…)
+  - Double dash (--) → em-dash (—)
+  - Straight apostrophe (') → curly apostrophe (')
+-->
+<LanguageData>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <!-- TYPOGRAPHY NORMALIZATION: ELLIPSIS                                      -->
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- EN: Wait...for me!!! -->
+  <PunctTest01_Ellipsis.label>انتظرني لحظة!</PunctTest01_Ellipsis.label>
+
+  <!-- EN: Wait... what? -->
+  <PunctTest02_EllipsisMid.label>انتظر لحظة؟</PunctTest02_EllipsisMid.label>
+
+  <!-- EN: [PAWN_nameDef] paused... then continued. -->
+  <PunctTest03_EllipsisDesc.desc>{PAWN_gender ? توقف [PAWN_nameDef]… ثم استمر. : توقفت [PAWN_nameDef]… ثم استأنفت.}</PunctTest03_EllipsisDesc.desc>
+
+  <!-- EN: "I don't know..." [PAWN_pronoun] whispered. -->
+  <PunctTest04_EllipsisQuote.desc>{PAWN_gender ? لا أعلم…" همس. : لا أعرف…" همستْ.}</PunctTest04_EllipsisQuote.desc>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <!-- TYPOGRAPHY NORMALIZATION: EM-DASH                                       -->
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- EN: [PAWN_nameDef] believes that bloodletting is the only cure--a theory [PAWN_pronoun] tested on many patients--and [PAWN_pronoun] is often seen chasing them with a rusty scalpel. -->
+  <AutonomoTwister15.desc>{PAWN_gender ? يعتقد [PAWN_nameDef] أن الفصد هو العلاج الوحيد — وهي نظرية اختبرها على العديد من المرضى — وغالبًا ما يُرى وهو يطارد المرضى بمبضع صدئ. : تعتقد [PAWN_nameDef] أن الفصد هو العلاج الوحيد — وهي نظرية اختبرتها على العديد من المرضى — وغالبًا ما تُرى وهي تطاردُهم بمبضع صدئ.}</AutonomoTwister15.desc>
+
+  <!-- EN: [PAWN_nameDef] tried--and failed--to escape. -->
+  <PunctTest06_EmDashPair.desc>{PAWN_gender ? حاول [PAWN_nameDef] الهرب — وفشل — في ذلك. : حاولت [PAWN_nameDef] — وفشلت — في الهرب.}</PunctTest06_EmDashPair.desc>
+
+  <!-- EN: Everyone nodded--no one read it. -->
+  <PunctTest07_EmDashEnd.desc>أومأ الجميع بالموافقة—لم يقرأ أحد ذلك.</PunctTest07_EmDashEnd.desc>
+
+  <!-- EN: A dangerous plan--but it worked. -->
+  <PunctTest08_EmDashBut.desc>خطة خطيرة — لكنها نجحت.</PunctTest08_EmDashBut.desc>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <!-- TYPOGRAPHY NORMALIZATION: CURLY APOSTROPHE                              -->
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- EN: can't -->
+  <PunctTest09_Apostrophe.label>غير قادر</PunctTest09_Apostrophe.label>
+
+  <!-- EN: [PAWN_nameDef]'s weapon -->
+  <PunctTest10_Possessive.label>سلاح [PAWN_nameDef]</PunctTest10_Possessive.label>
+
+  <!-- EN: It's [PAWN_nameDef]'s turn. -->
+  <PunctTest11_Multiple.desc>حان دور [PAWN_nameDef].</PunctTest11_Multiple.desc>
+
+  <!-- EN: "I can't--won't--shouldn't!" [PAWN_pronoun] yelled. -->
+  <PunctTest12_Combined.desc>{PAWN_gender ? لا أستطيع — لن — لا ينبغي!" صرخ. : لا أستطيع—لا أريد—لا يجب عليّ!" صاحت بغضب.}</PunctTest12_Combined.desc>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <!-- TYPOGRAPHY NORMALIZATION: COMBINED PATTERNS                             -->
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- EN: [PAWN_nameDef] said: "I can't wait..." -->
+  <PunctTest13_AllThree.desc>{PAWN_gender ? قال [PAWN_nameDef]: "لا أطيق الانتظار… : قالت [PAWN_nameDef]: "لا أطيق الانتظار…}</PunctTest13_AllThree.desc>
+
+  <!-- EN: It's unclear--maybe it's [PAWN_possessive] fault... or not. -->
+  <PunctTest14_Complex.desc>{PAWN_gender ? غير واضح — ربما هو المخطئ… أو لا. : غير واضح — ربما تكون هي المسؤولة… أو لا.}</PunctTest14_Complex.desc>
+
+  <!-- EN: [PAWN_nameDef]'s plan--risky but clever--didn't work... -->
+  <PunctTest15_Nested.desc>خطة [PAWN_nameDef] — محفوفة بالمخاطر ولكنها ذكية — لم تنجح…</PunctTest15_Nested.desc>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <!-- TYPOGRAPHY NORMALIZATION: EDGE CASES                                    -->
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- EN: Don't touch [[PH:TEST]]'s data or the...code--here. -->
+  <PunctTest16_Placeholder.desc>لا تلمس بيانات [[PH:TEST]] أو الكود…هنا.</PunctTest16_Placeholder.desc>
+
+  <!-- EN: Quote at 'start' and 'end' stays straight. -->
+  <PunctTest17_QuoteApostrophe.desc>A peaceful, thriving colony can quickly become a desperate struggle for survival. RimWorld is a story generator — you manage colonists, construct bases, and research technologies."\n"مستعمرة سلم</PunctTest17_QuoteApostrophe.desc>
+
+</LanguageData>

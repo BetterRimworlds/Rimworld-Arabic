@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>ﺔﻳﺮﺑ ﻙﺍﻮﺷﺃ</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>. ﺎﻫﺮﺒﻌﻳ ﺺﺨﺷ ﻱﺃ ﺔﻛﺮﺣ ﺊﻄﺒﺗﻭ ،ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﻙﺍﻮﺷﻷﺍ ﻮﻤﻨﺗ. ﻕﺍﺭﻭﻷﺎﺑ ﺓﺎﻄﻐﻣ ﺔﻴﺒﺸﺧ ﺔﻜﺋﺎﺷ ﺔﻜﺑﺎﺸﺘﻣ ﻢﻋﺍﺮﺑ</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>ﺓﺮﻴﺠﺷ</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>. ًﺓﺩﺎﻋ ﻢﻠﻜﺘﺗ ﻻ. ﺓﺮﻴﺼﻗ ﺓﺮﻴﺠﺷ</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>ﺐﺸﻋ</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>. ﺔﺑﻮﺼﺨﻟﺍ ﺔﻠﻴﻠﻗ ﺔﺑﺮﺘﻟﺍﻭ ﺀﻮﻀﻟﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻪﻴﻓ ﺮﻓﻮﺘﻳ ﻥﺎﻜﻣ ﻱﺃ ﻲﻓ ﻮﻤﻨﻳ. ﻱﺮﺒﻟﺍ ﺐﺸﻌﻟﺍ</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>ﻱﺮﺑ ﺀﺎﻔﺷ ﺭﺬﺟ</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>. ﻩﺩﺎﺼﺣ ﺪﻨﻋ ﺍًﻴﺒﺸﻋ ًﺀﺍﻭﺩ ﺞﺘﻨﻳ ﻮﻤﻨﻟﺍ ﺀﻴﻄﺑ ﺕﺎﺒﻧ\n\n. ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻲﻓ ﻞﺋﺎﺒﻘﻟﺍ ﻥﺎﻜﺳ ﻩﺭﺪﻘﻳﻭ ،ﺔﻳﺎﻐﻠﻟ ﺔﻋﺍﺭﺰﻟﺍ ﺐﻌﺻ ﻪﻨﻜﻟﻭ ،ﺔﻋﻭﺭﺰﻤﻟﺍ ﺀﺎﻔﺸﻟﺍ ﺭﻭﺬﺟ ﻦﻣ ﺔﻧﺎﺘﻣ ﺮﺜﻛﺃ ﺀﺎﻔﺸﻟﺍ ﺭﻭﺬﺟ ﻦﻣ ﻱﺮﺒﻟﺍ ﻉﻮﻨﻟﺍ ﺍﺬﻫ</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>ﻞﻳﻮﻃ ﺐﺸﻋ</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>. ﻩﺮﺒﻌﻳ ﺺﺨﺷ ﻱﺃ ﺔﻛﺮﺣ ﺊﻄﺒﻳ. ﻞﻳﻮﻄﻟﺍ ﻱﺮﺒﻟﺍ ﺐﺸﻌﻟﺍ</Plant_TallGrass.description>
+  
+</LanguageData>

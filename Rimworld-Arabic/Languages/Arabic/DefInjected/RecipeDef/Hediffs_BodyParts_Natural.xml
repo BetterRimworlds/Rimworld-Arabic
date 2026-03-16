@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install heart -->
+  <InstallNaturalHeart.label>ﺐﻠﻗ ﺐﻴﻛﺮﺗ</InstallNaturalHeart.label>
+  <!-- EN: Install a biological heart. -->
+  <InstallNaturalHeart.description>. ﻲﺟﻮﻟﻮﻴﺑ ﺐﻠﻗ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallNaturalHeart.description>
+  <!-- EN: Installing heart. -->
+  <InstallNaturalHeart.jobString>. ﺐﻠﻗ ﺐﻴﻛﺮﺗ</InstallNaturalHeart.jobString>
+  
+  <!-- EN: install kidney -->
+  <InstallNaturalKidney.label>ﺔﻴﻠﻛ ﺐﻴﻛﺮﺗ</InstallNaturalKidney.label>
+  <!-- EN: Install a biological kidney. -->
+  <InstallNaturalKidney.description>. ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﻴﻠﻛ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallNaturalKidney.description>
+  <!-- EN: Installing kidney. -->
+  <InstallNaturalKidney.jobString>. ﺔﻴﻠﻛ ﺐﻴﻛﺮﺗ</InstallNaturalKidney.jobString>
+  
+  <!-- EN: install liver -->
+  <InstallNaturalLiver.label>ﺪﺒﻛ ﺐﻴﻛﺮﺗ</InstallNaturalLiver.label>
+  <!-- EN: Install a biological liver. -->
+  <InstallNaturalLiver.description>. ﻱﻮﻴﺣ ﺪﺒﻛ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallNaturalLiver.description>
+  <!-- EN: Installing liver. -->
+  <InstallNaturalLiver.jobString>. ﺪﺒﻛ ﺐﻴﻛﺮﺗ</InstallNaturalLiver.jobString>
+  
+  <!-- EN: install lung -->
+  <InstallNaturalLung.label>ﺔﺋﺭ ﺐﻴﻛﺮﺗ</InstallNaturalLung.label>
+  <!-- EN: Install a lung. -->
+  <InstallNaturalLung.description>. ﺔﺋﺭ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallNaturalLung.description>
+  <!-- EN: Installing lung. -->
+  <InstallNaturalLung.jobString>. ﺔﺋﺭ ﺐﻴﻛﺮﺗ</InstallNaturalLung.jobString>
+  
+</LanguageData>

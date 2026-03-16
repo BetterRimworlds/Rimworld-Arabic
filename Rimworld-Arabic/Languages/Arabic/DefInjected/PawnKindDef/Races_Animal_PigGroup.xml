@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla --><!-- EN: chinchilla -->
+  <Chinchilla.label>ﺔﻠﻴﺸﻨﺷ</Chinchilla.label><!-- EN: chinchillas -->
+  <Chinchilla.labelPlural>ﺕﻼﻴﺸﻨﺷ</Chinchilla.labelPlural><!-- EN: cría de chinchilla -->
+  <Chinchilla.lifeStages.0.label>ﺔﻠﻴﺸﻨﺸﻟﺍ ﺭﺎﻐﺻ</Chinchilla.lifeStages.0.label><!-- EN: crías de chinchilla -->
+  <Chinchilla.lifeStages.0.labelPlural>ﺔﻠﻴﺸﻨﺸﻟﺍ ﺭﺎﻐﺻ</Chinchilla.lifeStages.0.labelPlural><!-- EN: chinchilla joven -->
+  <Chinchilla.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺔﻠﻴﺸﻨﺷ</Chinchilla.lifeStages.1.label><!-- EN: chinchillas jóvenes -->
+  <Chinchilla.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﻼﻴﺸﻨﺷ</Chinchilla.lifeStages.1.labelPlural><!-- EN: chinchilla -->
+  <Chinchilla.lifeStages.2.label>ﺔﻠﻴﺸﻨﺷ</Chinchilla.lifeStages.2.label><!-- EN: chinchillas -->
+  <Chinchilla.lifeStages.2.labelPlural>ﺕﻼﻴﺸﻨﺷ</Chinchilla.lifeStages.2.labelPlural>
+  
+  <!-- EN: deer --><!-- EN: ciervo -->
+  <Deer.label>ﻞﻳﺃ</Deer.label>
+  <!-- EN: doe --><!-- EN: cierva -->
+  <Deer.labelFemale>ﺔﻟَّﻳﺃ</Deer.labelFemale><!-- EN: ciervas -->
+  <Deer.labelFemalePlural>ﺕﻼَّﻳﺃ</Deer.labelFemalePlural>
+  <!-- EN: buck --><!-- EN: ciervo -->
+  <Deer.labelMale>ﻞﻳﺃ</Deer.labelMale><!-- EN: ciervos -->
+  <Deer.labelMalePlural>ﻞﺋﺎﻳﺃ</Deer.labelMalePlural>
+  <!-- EN: deer --><!-- EN: ciervos -->
+  <Deer.labelPlural>ﻞﺋﺎﻳﺃ</Deer.labelPlural><!-- EN: cría de ciervo -->
+  <Deer.lifeStages.0.label>ﻞﻳﻷﺍ ﺮﻴﻐﺻ</Deer.lifeStages.0.label><!-- EN: cría de cierva -->
+  <Deer.lifeStages.0.labelFemale>ﺔﻟَّﻳﻷﺍ ﺓﺮﻴﻐﺻ</Deer.lifeStages.0.labelFemale><!-- EN: crías de cierva -->
+  <Deer.lifeStages.0.labelFemalePlural>ﺔﻟَّﻳﻷﺍ ﺭﺎﻐﺻ</Deer.lifeStages.0.labelFemalePlural><!-- EN: crías de ciervo -->
+  <Deer.lifeStages.0.labelPlural>ﻞﻳﻷﺍ ﺭﺎﻐﺻ</Deer.lifeStages.0.labelPlural><!-- EN: cervatillo -->
+  <Deer.lifeStages.1.label>ﺮﻴﻐﺻ ﻞﻳﺃ</Deer.lifeStages.1.label><!-- EN: cervatilla -->
+  <Deer.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻟَّﻳﺃ</Deer.lifeStages.1.labelFemale><!-- EN: cervatillas -->
+  <Deer.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺕﻼَّﻳﺃ</Deer.lifeStages.1.labelFemalePlural><!-- EN: cervatillo -->
+  <Deer.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻞﻳﺃ</Deer.lifeStages.1.labelMale><!-- EN: cervatillos -->
+  <Deer.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﻞﺋﺎﻳﺃ</Deer.lifeStages.1.labelMalePlural><!-- EN: cervatillos -->
+  <Deer.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻞﺋﺎﻳﺃ</Deer.lifeStages.1.labelPlural><!-- EN: ciervo -->
+  <Deer.lifeStages.2.label>ﻞﻳﺃ</Deer.lifeStages.2.label><!-- EN: cierva -->
+  <Deer.lifeStages.2.labelFemale>ﺔﻟَّﻳﺃ</Deer.lifeStages.2.labelFemale><!-- EN: ciervas -->
+  <Deer.lifeStages.2.labelFemalePlural>ﺕﻼَّﻳﺃ</Deer.lifeStages.2.labelFemalePlural><!-- EN: ciervo -->
+  <Deer.lifeStages.2.labelMale>ﻞﻳﺃ</Deer.lifeStages.2.labelMale><!-- EN: ciervos -->
+  <Deer.lifeStages.2.labelMalePlural>ﻞﺋﺎﻳﺃ</Deer.lifeStages.2.labelMalePlural><!-- EN: ciervos -->
+  <Deer.lifeStages.2.labelPlural>ﻞﺋﺎﻳﺃ</Deer.lifeStages.2.labelPlural>
+  
+  <!-- EN: gazelle --><!-- EN: gacela -->
+  <Gazelle.label>ﺓَﻠﻳِﺯَﻏ</Gazelle.label><!-- EN: gacelas -->
+  <Gazelle.labelPlural>ﻥﻻﺰﻏ</Gazelle.labelPlural><!-- EN: cría de gacela -->
+  <Gazelle.lifeStages.0.label>ﺔﻟﺍﺰﻐﻟﺍ ﺮﻴﻐﺻ</Gazelle.lifeStages.0.label><!-- EN: crías de gacela -->
+  <Gazelle.lifeStages.0.labelPlural>ﻥﻻﺰﻐﻟﺍ ﺭﺎﻐﺻ</Gazelle.lifeStages.0.labelPlural><!-- EN: gacela joven -->
+  <Gazelle.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺔﻟَﺯَﻏ</Gazelle.lifeStages.1.label><!-- EN: gacelas jóvenes -->
+  <Gazelle.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻥﻻﺰﻏ</Gazelle.lifeStages.1.labelPlural><!-- EN: gacela -->
+  <Gazelle.lifeStages.2.label>ﺔﻟﺍﺰﻏ</Gazelle.lifeStages.2.label><!-- EN: gacelas -->
+  <Gazelle.lifeStages.2.labelPlural>ﻥﻻﺰﻏ</Gazelle.lifeStages.2.labelPlural>
+  
+  <!-- EN: ibex --><!-- EN: cabra montés -->
+  <Ibex.label>ﻲﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.label>
+  <!-- EN: ibex doe --><!-- EN: cabra montés -->
+  <Ibex.labelFemale>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.labelFemale><!-- EN: cabras monteses -->
+  <Ibex.labelFemalePlural>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.labelFemalePlural>
+  <!-- EN: ibex ram --><!-- EN: cabrito montés -->
+  <Ibex.labelMale>ﻲﻠﺒﺟ ﻝِﻋَﻭ</Ibex.labelMale><!-- EN: cabritos monteses -->
+  <Ibex.labelMalePlural>ﺔﻴﻠﺒﺟ ﻝﻮﻋﻭ</Ibex.labelMalePlural>
+  <!-- EN: ibexes --><!-- EN: cabras monteses -->
+  <Ibex.labelPlural>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.labelPlural><!-- EN: cría de cabra montés -->
+  <Ibex.lifeStages.0.label>ﻲﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ ﺮﻴﻐﺻ</Ibex.lifeStages.0.label><!-- EN: cría de cabra montés -->
+  <Ibex.lifeStages.0.labelFemale>ﻲﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ ﺓﺮﻴﻐﺻ</Ibex.lifeStages.0.labelFemale><!-- EN: crías de cabra montés -->
+  <Ibex.lifeStages.0.labelFemalePlural>ﻲﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ ﺭﺎﻐﺻ</Ibex.lifeStages.0.labelFemalePlural><!-- EN: crías de cabra montés -->
+  <Ibex.lifeStages.0.labelPlural>ﻲﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ ﺭﺎﻐﺻ</Ibex.lifeStages.0.labelPlural><!-- EN: cabra montés joven -->
+  <Ibex.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.1.label><!-- EN: cabra montés joven -->
+  <Ibex.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.1.labelFemale><!-- EN: cabras monteses jóvenes -->
+  <Ibex.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.1.labelFemalePlural><!-- EN: cabrito montés joven -->
+  <Ibex.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻲﻠﺒﺟ ﻝِﻋَﻭ</Ibex.lifeStages.1.labelMale><!-- EN: cabritos monteses jóvenes -->
+  <Ibex.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﺔﻴﻠﺒﺟ ﻝﻮﻋﻭ</Ibex.lifeStages.1.labelMalePlural><!-- EN: cabras monteses jóvenes -->
+  <Ibex.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.1.labelPlural><!-- EN: cabra montés -->
+  <Ibex.lifeStages.2.label>ﻲﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.2.label><!-- EN: cabra montés -->
+  <Ibex.lifeStages.2.labelFemale>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.2.labelFemale><!-- EN: cabras monteses -->
+  <Ibex.lifeStages.2.labelFemalePlural>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.2.labelFemalePlural><!-- EN: cabrito montés -->
+  <Ibex.lifeStages.2.labelMale>ﻲﻠﺒﺟ ﻝِﻋَﻭ</Ibex.lifeStages.2.labelMale><!-- EN: cabritos monteses -->
+  <Ibex.lifeStages.2.labelMalePlural>ﺔﻴﻠﺒﺟ ﻝﻮﻋﻭ</Ibex.lifeStages.2.labelMalePlural><!-- EN: cabras monteses -->
+  <Ibex.lifeStages.2.labelPlural>ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.2.labelPlural>
+  
+  <!-- EN: pig --><!-- EN: cerdo -->
+  <Pig.label>ﺮﻳﺰﻨﺧ</Pig.label>
+  <!-- EN: sow --><!-- EN: cerda -->
+  <Pig.labelFemale>ﺓﺮﻳﺰﻨﺧ</Pig.labelFemale><!-- EN: cerdos -->
+  <Pig.labelPlural>ﺮﻳﺯﺎﻨﺧ</Pig.labelPlural>
+  <!-- EN: piglet --><!-- EN: lechón -->
+  <Pig.lifeStages.piglet.label>ﻊﻴﺿﺭ ﺮﻳﺰﻨﺧ</Pig.lifeStages.piglet.label><!-- EN: cochinillo -->
+  <Pig.lifeStages.1.label>ﻊﻴﺿﺭ ﺮﻳﺰﻨﺧ</Pig.lifeStages.1.label><!-- EN: cochinilla -->
+  <Pig.lifeStages.1.labelFemale>ﺔﻌﻴﺿﺭ ﺓﺮﻳﺰﻨﺧ</Pig.lifeStages.1.labelFemale><!-- EN: cochinillo -->
+  <Pig.lifeStages.1.labelMale>ﻊﻴﺿﺭ ﺮﻳﺰﻨﺧ</Pig.lifeStages.1.labelMale><!-- EN: cerdo -->
+  <Pig.lifeStages.2.label>ﺮﻳﺰﻨﺧ</Pig.lifeStages.2.label><!-- EN: cerda -->
+  <Pig.lifeStages.2.labelFemale>ﺓﺮﻳﺰﻨﺧ</Pig.lifeStages.2.labelFemale><!-- EN: cerdo -->
+  <Pig.lifeStages.2.labelMale>ﺮﻳﺰﻨﺧ</Pig.lifeStages.2.labelMale>
+  
+  <!-- EN: wild boar --><!-- EN: jabalí -->
+  <WildBoar.label>ﻱﺮﺑ ﺮﻳﺰﻨﺧ</WildBoar.label><!-- EN: jabalíes -->
+  <WildBoar.labelPlural>ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.labelPlural><!-- EN: jabato -->
+  <WildBoar.lifeStages.0.label>ﺮﻴﻐﺻ ﻱﺮﺑ ﺮﻳﺰﻨﺧ</WildBoar.lifeStages.0.label><!-- EN: jabata -->
+  <WildBoar.lifeStages.0.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻳﺮﺑ ﺓﺮﻳﺰﻨﺧ</WildBoar.lifeStages.0.labelFemale><!-- EN: jabatas -->
+  <WildBoar.lifeStages.0.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.lifeStages.0.labelFemalePlural><!-- EN: jabato -->
+  <WildBoar.lifeStages.0.labelMale>ﺮﻴﻐﺻ ﻱﺮﺑ ﺮﻳﺰﻨﺧ</WildBoar.lifeStages.0.labelMale><!-- EN: jabatos -->
+  <WildBoar.lifeStages.0.labelMalePlural>ﺓﺮﻴﻐﺻ ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.lifeStages.0.labelMalePlural><!-- EN: jabatos -->
+  <WildBoar.lifeStages.0.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.lifeStages.0.labelPlural><!-- EN: jabalí joven -->
+  <WildBoar.lifeStages.1.label>ﻊﻓﺎﻳ ﻱﺮﺑ ﺮﻳﺰﻨﺧ</WildBoar.lifeStages.1.label><!-- EN: jabalíes jóvenes -->
+  <WildBoar.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻳ ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.lifeStages.1.labelPlural><!-- EN: jabalí -->
+  <WildBoar.lifeStages.2.label>ﻱﺮﺑ ﺮﻳﺰﻨﺧ</WildBoar.lifeStages.2.label><!-- EN: jabalíes -->
+  <WildBoar.lifeStages.2.labelPlural>ﺔﻳﺮﺑ ﺮﻳﺯﺎﻨﺧ</WildBoar.lifeStages.2.labelPlural>
+  
+</LanguageData>

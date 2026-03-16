@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>ﻑﺎﻏﻷﺍ ﺕﺎﺒﻧ</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>. ﻞﻛﻸﻟ ﺔﺤﻟﺎﺻ ﻥﺎﻘﻴﺳﻭ ﺭﺎﻫﺯﺃ ﻭﺫ ،ﻕﺍﺭﻭﻷﺍ ﺮﻴﺒﻛ ﻱﻭﺍﺮﺤﺻ ﺕﺎﺒﻧ</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>ﺲﻴﺑﺎﺑﺪﻟﺍ ﺓﺩﺎﺳﻭ ﺭﺎﺒﺻ</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>. ﺲﻴﺑﺎﺑﺪﻟﺍ ﺓﺩﺎﺳﻭ ﻪﺒﺸﻳ ﻪﻧﻷ ﻢﺳﻻﺍ ﺍﺬﻬﺑ ﻲﻣُﺳ. ﺮﻴﺼﻗ ﺭﺎﺒﺻ</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>ﻭﺭﺍﻮﻏﺎﺳ ﺭﺎﺒﺻ</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>. ﺐﺸﺨﻟﺎﻛ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻴﻔﻴﻠﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻴﻤﻛ ﺞﺘﻨﻳ ﻪﻧﺃ ﻻﺇ ،ﺓﺮﺠﺷ ﺲﻴﻟ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﻠﺣﺎﻘﻟﺍ ﺕﺎﺌﻴﺒﻟﺍ ﻪﻨﻃﻮﻣ ﻢﺨﺿ ﺭﺎﺒﺻ</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>ﻦﻴﻨﺗ ﺓﺮﺠﺷ</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>. ﺔﺒﺑﺪﻣ ﺔﻜﻴﻤﺳ ﻕﺍﺭﻭﺃ ﺎﻫﻮﻠﻌﻳ ﺔﻳﻮﻗ ﺔﻳﻭﺍﺮﺤﺻ ﺓﺮﺠﺷ</Plant_TreeDrago.description>
+  
+</LanguageData>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
+  <GameplayTips.DismissLetters>. ﺎﻬﻴﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻨﻟﺎﺑ ﺕﺎﺑﺎﻄﺨﻟﺍﻭ ﻞﺋﺎﺳﺮﻟﺍ ﻞﻫﺎﺠﺗ ﻚﻨﻜﻤﻳ</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>. ﻚﻳﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺮﻣﺍﻭﻷﺍ ﻒﻴﻔﺼﺘﻟ Shift ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﻀﻟﺍ ﻚﻨﻜﻤﻳ</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺐﻴﺗﺮﺗ ﺓﺩﺎﻋﻹ ﺐﺤﺴﻟﺍﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻨﻟﺍ ﻚﻨﻜﻤﻳ</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select the previous or next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist> .ﻭ ، ﻲﺣﺎﺘﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻲﻟﺎﺘﻟﺍ ﻭﺃ ﻖﺑﺎﺴﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>. ﻡﺎﻌﻄﻟﺍ ﺩﻮﻴﻗ ﻭﺃ ﺀﺎﻳﺯﻷﺍ ﻞﺜﻣ ﺀﺎﻴﺷﺃ ﻊﻣ ﻰﺘﺣ ﻞﻤﻌﻳ ﺍﺬﻫ. ﺓﺩﺪﻌﺘﻣ ﺕﻻﺎﺧﺩﺇ ﺮﺒﻋ ﻪﻨﻳﻮﻠﺘﻟ ﺩﺍﺪﻋﻹ ﺐﺤﺴﻟﺍﻭ ﺮﻘﻨﻟﺍ ﻢﺋﺍﻮﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻚﻟ ﺢﻴﺘﺗ</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>. ﺓﺮﻴﺧﻷﺍ ﺔﻳﻮﻟﻭﻷﺍ ﻲﻫ 4 ﺎﻤﻨﻴﺑ ،ﻰﻟﻭﻷﺍ ﺔﻳﻮﻟﻭﻷﺍ ﻲﻫ 1 ،ﻱﻭﺪﻴﻟﺍ ﺕﺎﻳﻮﻟﻭﻷﺍ ﻊﺿﻭ ﻲﻓ ،ﻞﻤﻌﻟﺍ ﺐﻳﻮﺒﺗ ﻲﻓ</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>. ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋﺃ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻲﻓ ﻪﺘﻧﻮﻘﻳﺃ ﺔﻴﻔﻠﺧ ﻲﻓ ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﺝﺍﺰﻣ ﺮﻬﻈﻳ</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>. ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻴﻤﺠﻟ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺮﻴﻐﻳ ﻞﻤﻌﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻲﻓ ﻞﻤﻋ ﻉﻮﻧ ﻢﺳﺍ ﻰﻠﻋ Shift ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺮﻘﻨﻟﺍ</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>. ﺎﻬﺗﺩﺎﻳﺯ ﻦﻣ ًﻻﺪﺑ ﺔﻳﻮﻟﻭﻷﺍ ﻞﻠﻘﻴﺳ ﺔﻳﻭﺪﻴﻟﺍ ﺕﺎﻳﻮﻟﻭﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻤﻌﻟﺍ ﺐﺗ ﻲﻓ ﻢﻗﺭ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻨﻟﺍ</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>. ﻪﻨﻴﻌﺑ ﻊﺑﺮﻣ ﻦﻋ ﺔﻟّﺼﻔﻣ ﺕﺎﻣﻮﻠﻌﻣ ﺽﺮﻌﻟ Alt ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﻀﻟﺍ ﻚﻨﻜﻤﻳ</GameplayTips.CellInspector>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>. ﻂﺧ ﻞﻜﺷ ﻰﻠﻋ ﻦﻳﺩَّﻨﺟُﻤﻟﺍ ﻚﻴﻠﺗﺎﻘﻣ ﻞﻴﻜﺸﺘﻟ ﺐﺤﺳﺍﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ! ﺀﺎﻄﻏ ﻒﻠﺧ ﺍًﻤﺋﺍﺩ ﻦﻛ ،ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﻷﺎﺑ ﺔﻛﺮﻌﻣ ﻲﻓ</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>!ﺔﺑﺎﺻﻹﺍ ﺔﻠﻬﺳ ﺔﻌﻤﺠﺘﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ. ﻂﺧ ﻞﻜﺷ ﻰﻠﻋ ﻦﻳﺩَّﻨﺟُﻤﻟﺍ ﻚﻴﻠﺗﺎﻘﻣ ﻞﻴﻜﺸﺘﻟ ﺐﺤﺳﺍﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>. ﺔﻀﻔﺨﻣ ﺔﻗﺪﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺹﺎﺨﺷﻸﻟ ﻦﻜﻤﻳ ﻦﻜﻟ ،ﻑﺍﺪﻫﻷﺍ ﻑﺎﺸﺘﻛﺍ ﻦﻣ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺍًﻣﺎﻤﺗ ﻥﺎﺧﺪﻟﺍ ﻊﻨﻤﻳ</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>. ﺔﻴﻠﺧﺍﺩ ﺔﻴﻋﺎﻓﺩ ﻊﻗﺍﻮﻣ ِﻦﺑﺍ. ﻕﺎﻔﻧﻷﺍ ﻭﺃ ﻝﺍﺰﻧﻹﺍ ﺕﻻﻮﺴﺒﻛ ﺮﺒﻋ ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﻥﻮﻠﻠﺴﺘﻴﺳ ﺀﺍﺪﻋﻷﺍ ﻥﺃ ﺽﺮﺘﻓﺍ ،ﺕﺎﻋﺎﻓﺪﻟﺍ ﻢﻴﻤﺼﺗ ﺪﻨﻋ</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>. ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺮﻄﻤﻤﻟﺍ ﻭﺃ ﻲﺑﺎﺒﻀﻟﺍ ﺲﻘﻄﻟﺍ</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>. ﻑﺪﻬﻟﺍ ﻕﻮﻓ ﺱﻭﺎﻤﻟﺍ ﺮﺷﺆﻣ ﻊﺿﻭﻭ ﻲﻣﺍﺮﻟﺍ ﺪﻳﺪﺤﺘﺑ ﺔﻘﻠﻄﻟﺍ ﺔﺑﺎﺻﺇ ﺔﺻﺮﻓ ﻞﻴﻠﺤﺗ ﻚﻨﻜﻤﻳ</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>. ﺎﻬﻨﻣ ﺏﺮﻘﻟﺎﺑ ﻙﺩﺍﺮﻓﺃ ﻊﻀﺗ ﻻﻭ ،ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺍًﺪﺟ ﺔﺒﻳﺮﻗ ﺎﻬﻌﻀﺗ ﻻ. ﺭﺮﻀﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺎﻬﻴﻘﻠﺗ ﺪﻨﻋ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺮﺠﻔﻨﺗ</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>. ﺮﻣﻷﺍ ﻲﻓ ﺭّﻜﻓ. ﺀﺍﺪﻋﻷﺍ ﻰﻠﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻁﺎﻘﺳﻹ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ. ﺕﻮﻤﻟﺍ ﺪﻨﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﺮﺠﻔﻨﺗ</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>. ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﺋﺎﻔﻠﺤﺑ ﻞﺼﺗﺍ ،ﻝﺎﺘﻗ ﻲﻓ ﺓﺪﻋﺎﺴﻣ ﻰﻟﺇ َﺖﺠﺘﺣﺍ ﺍﺫﺇ</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>. ﻚﻟﺫ ﻝﻼﻐﺘﺳﺍ ﻚﻨﻜﻤﻳ. ﻙﺅﺍﺪﻋﺃ ﻢﻬﻴﻓ ﻦﻤﺑ ،ﻥﺎﺴﻧﺇ ﻱﺃ ﻢﺟﺎﻬﺘﺳ ﺔﺠﺋﺎﻬﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>. ﺖﻗﺆﻣ ﻞﻜﺸﺑ ﻉﻭﺭﺪﻟﺍﻭ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺾﺒﻨﻟﺍ ﺕﺎﺟﻮﻣ ﻝِّﻄﻋُﺗ</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>. ﺍًﺭﻮﻓ ﺔﻴﺼﺨﺸﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺾﺒﻨﻟﺍ ﺕﺎﺟﻮﻣ ﻝِّﻄﻋُﺗ</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>. ﺩﺎﻴﺼﻟﺍ ﻯﺪﻟ ﺔﻳﺎﻣﺮﻟﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺍﺭﺎﻬﻤﺑ ﺮﺛﺄﺘﺗ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻤﺠﻫ ﺔﺻﺮﻓ ﻦﻣ ﻞﻠﻘﺗ ﺩﺎﻴﺼﻠﻟ ﻲﻔﺨﺘﻟﺍ ﺔﻴﺋﺎﺼﺣﺇ</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>. ﺪﻴﺼﻠﻟ ﺍًﻧﺎﻣﺃ ﺮﺜﻛﻷﺍ ﻲﻫ ﻕﻼﻃﻹﺍ ﺔﺌﻴﻄﺑ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ. ﺐﻳﺮﻗ ﻯﺪﻣ ﻦﻣ ﻯﺫﻸﻟ ﺎﻬﺿﺮﻌﺗ ﺪﻨﻋ ﻡﻮﺠﻬﻠﻟ ﺍًﻠﻴﻣ ﺮﺜﻛﺃ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>. ﻒﻌﺿﺃ ﺔﺴﻳﺮﻓ ﺮﺘﺧﺍ ﻭﺃ ،ﺪﻴﺼﻟﺍ ﻞﺒﻗ ﺓﺮﻃﺎﺨﻤﻟﺍ ﻝّﺒﻘﺗ. ﺎﻫﺪﻴﺻ ﺔﻟﻭﺎﺤﻣ ﺪﻨﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻠﻣﺎﻛ ﻥﺎﻌﻄﻗ ﻚﻤﺟﺎﻬﺗ ﺪﻗ</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>{PAWN_gender ? . ﺕﺎﺑﺎﻐﻟﺍ ﻖﺋﺍﺮﺣ ﺐﺒﺴﻳ ﻦﻟ ﺎﻤﻬﺗﻮﻣ ﻥﺈﻓ ،ﺮﻄﻤﺗ ﺎﻣﺪﻨﻋ ﺕﺎﺑﻮﻟﺎﻣﻮﺑﻭ ﺓﺮﺠﻔﺘﻣ ﻥﺍﺮﺌﻓ ِﺕﺪﻄﺻﺍ ﺍﺫﺇ : . ﺕﺎﺑﺎﻐﻟﺍ ﻖﺋﺍﺮﺣ ﺐﺒﺴﻳ ﻦﻟ ﺎﻤﻬﺗﻮﻣ ﻥﺈﻓ ،ﺮﻄﻤﺗ ﺎﻣﺪﻨﻋ ﺕﺎﺑﻮﻟﺎﻣﻮﺑﻭ ﺓﺮﺠﻔﺘﻣ ﻥﺍﺮﺌﻓ َﺕﺪﻄﺻﺍ ﺍﺫﺇ}</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>. ﻒﻨﻌﺑ ﺖﻠﺗُﻗ ﻲﺘﻟﺍ ﻚﻠﺗ ﻦﻣ ﺮﺜﻛﺃ ﺍًﺩﻮﻠﺟﻭ ﺍًﻣﻮﺤﻟ ﻲﻄﻌﺗ ﺔﻳﺎﻨﻌﺑ ﺔﺣﻮﺑﺬﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>. ﻦﻳﺰﺨﺘﻟﺍ ﻖﻃﺎﻨﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺎﻫُﻌﺿﻭ ًﺓﺩﺎﻋ ﻞﻀﻓﻷﺍ ﻦﻣ. ﻙُﻠﻓﺍﻮﻗ ﻞﻜﺸﺘﺗ ﻥﺃ ﺪﻳﺮﺗ ﺚﻴﺣ ﺔﻠﻓﺎﻘﻟﺍ ﻂﺑﺭ ﺔﻄﻘﻧ ﻊﺿ</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>. ﻝﻮﺠﺘﻟﺍ ﻦﻣ ﻚﺗﺎﻧﺍﻮﻴﺣ ﻊﻨﻤﻟ ﺔﻠﻓﺎﻗ ﻂﺑﺭ ﺔﻄﻘﻧ ﻊﺿﻭ ﻚﻨﻜﻤﻳ ،ﻦﻃﻮﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ ﺕﺎﻬﺟﺍﻮﻤﻟﺍ ﺀﺎﻨﺛﺃ</GameplayTips.CaravanHitchingSpotRoamers>
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>. ﻞﺑﻹﺍﻭ ﺮﻴﻤﺤﻟﺍﻭ ﻝﻮﻴﺨﻟﺍ ﻞﺜﻣ ﺏﻮﻛﺮﻠﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻧﺍﻮﻴﺣ ﺖﻨﻤﻀﺗ ﺍﺫﺇ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻞﻓﺍﻮﻘﻟﺍ ﻙﺮﺤﺘﺗ</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>. ﺍًﺣﻮﺿﻭ ﻞﻗﺃ ﺎﻬﻧﻷ ﺍًﺭﺍﺮﻜﺗ ﻞﻗﺃ ﻞﻜﺸﺑ ﻡﻮﺠﻬﻠﻟ ﺽﺮﻌﺘﺗ ﺮﻐﺻﻷﺍ ﻞﻓﺍﻮﻘﻟﺍ</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>. ﺍًﺮﻴﺜﻛ ﺔﺌﺒﻌﺘﻟﺍ ﻉّﺮﺴﻴﺳ ﺍﺬﻫ. ﻚﺘﻠﻓﺎﻗ ﻂﺑﺭ ﺔﻄﻘﻧ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻥﻭﺰﺨﻣ ﻲﻓ ﺎﻬﻟﺎﺳﺭﺇ ﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻤﺟﺍ ،ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ ﻞﺒﻗ</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>. ﻝﺎﺘﻘﻟﺍ ﻦﻋ ﺓﺪﻴﻌﺑ ﺎﻬﺋﺎﻘﺑﻹ ،ﻭﺪﻌﻟﺍ ﺔﻤﺟﺎﻬﻣ ﻞﺒﻗ ﺔﻠﺼﻔﻨﻣ ﺔﻠﻓﺎﻗ ﻰﻟﺇ ﺎﻬﻤﻴﺴﻘﺗ ﻚﻨﻜﻤﻳ ،ﺔﺑﺭﺪﻣ ﺮﻴﻏ ﺕﺎﻧﺍﻮﻴﺣ ﻚﺘﻠﻓﺎﻗ ﻲﻓ ﻥﺎﻛ ﺍﺫﺇ</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>. َﻙِﻠﻓﺍﻮﻗ ﻊﻣ ٍﺀﺍﻭﺩ َﺭﺎﻀﺣﺇ َﺲﻨﺗ ﻻ</GameplayTips.CaravanDontForgetMedicine>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>. ًﻼﺸﻓ ﺖﺴﻴﻟﻭ ،ﺔﻴﻣﺍﺭﺩ ﺓﺎﺳﺄﻣ ﻲﻫ ﺓﺮﻣﺩُﻣ ﺓﺮﻤﻌﺘﺴﻣ. ﺕﺍﺭﺎﻬﻣ ﺭﺎﺒﺘﺧﺍ ﺲﻴﻟﻭ ،ﺺﺼﻗ ﺪﻟﻭُﻣ RimWorld </GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>. ﻱﺪﺤﺘﻟﺍ ﻦﻣ ﺀﺰﺟ ﻥﻮﺌﻴﺴﻟﺍ ﺀﺎﻔﻠﺤﻟﺍ. ﺓﺪﺋﺎﻔﻟﺍ ﻲﻤﻳﺪﻋ ﻦﻣ ﺃﻮﺳﺃ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺾﻌﺑ</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>. ﺮﻤﺘﺴﺘﺳ ﻚﺘﺼﻗ ﻦﻜﻟ ،ﻚﻨﻃﻭ ﺪﻘﻔﺗ ﺪﻗ. ﺭﺮﻓﺍﻭ ﺔﻠﻓﺎﻗ ﻥّﻮﻛ ،ﺎﻣ ﺪﻳﺪﻬﺘﻟ ﻱﺪﺼﺘﻟﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻢﻟ ﺍﺫﺇ</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>. ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ ﺕﺍﺩﺍﺪﻋﺇ ﻲﻓ ' ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻤﻟﺍ ﻡﺪﻘﺘﻟﺍ ﻊﺿﻭ 'ﺮﺘﺧﺎﻓ ،ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺖﻗﻮﻟﺍ ﻊﻣ ﻱﺪﺤﺘﻟﺍ ﺐﺳﺎﻨﺘﻳ ﻥﺃ ﺕﺩﺭﺃ ﺍﺫﺇ. ﺓﻮﻗ ﺪﺷﺃ ﺀﺍﺪﻋﺃ ﻚﻤﺟﺎﻫ ،ﻚﺗﻭﺮﺛ ﺕﺩﺍﺩﺯﺍ ﺎﻤﻠﻛ</GameplayTips.FixedWealthMode>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺖﻗﻭ ﻊﻴﺿُﻳ ﺎﻤﻣ ،ﺪﻳﺪﺷ ﺀﻄﺒﺑ ﺢﺘﻔﺗ ﺎﻬﻧﺇ. ﺏﺍﻮﺑﻸﻟ ﺮﺠﺤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺐﻨﺠﺗ</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>. ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﺔﺣﺍﺮﺑ ﺱﻮﻠﺠﻟﺍ ﻦﻣ ﻝﺎﻤﻌﻟﺍ ﻦﻜﻤﺘﻳ ﻰﺘﺣ ﻞﻤﻌﻟﺍ ﺪﻋﺎﻘﻣ ﻡﺎﻣﺃ ﻲﺳﺍﺮﻛ ﻊﺿ</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>. ﺎﻬﺟﺎﺘﺤﺗ ﻻ ًﺀﺎﻴﺷﺃ ِﻦﺒﺗ ﻻ. ﺔﻠﻳﺪﺑ ﺕﺎﻧﻮﻜﻣ ﺐﻠﻄﺘﺗﻭ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﺭﺎﻬﻨﺗ</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>. ﺎﻬﻌﻣ ﻚﻴﻧﺎﺒﻣ ﺭﺎﻬﻨﺘﺳﻭ ،ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﺖﺤﺗ ﺔﻟﻮﻬﺴﺑ ﺭﺎﻬﻨﺗ ﺭﻮﺴﺠﻟﺎﻓ. ﺭﻮﺴﺠﻟﺍ ﻰﻠﻋ ﻪﻴﻨﺒﺗ ﺎﻤﻟ ﻪﺒﺘﻧﺍ</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>. ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﻒﻈﻧﺃ ﻑﺮﻐﻟﺍ ﻞﻌﺠﻳ ﻢﻘﻌﻤﻟﺍ ﻁﻼﺒﻟﺍ. ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﻦﻣ ﻞﻠﻘﺗﻭ ﺔﻴﺒﻄﻟﺍ ﺞﺋﺎﺘﻨﻟﺍ ﻥّﺴﺤﺗﻭ ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺪﻳﺰﺗ ﺔﻔﻴﻈﻨﻟﺍ ﻑﺮﻐﻟﺍ</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>. ﺍًﺮﻴﺴﻋ ﺍًﺮﻣﺃ ﻖﺋﺍﺮﺤﻟﺍ ﺀﺍﻮﺘﺣﺍ ﻞﻌﺠﻳ ﻪﻨﻜﻟ ،ﺩﺭﺍﻮﻤﻟﺍ ﺭّﻓﻮﻳ ﺪﺣﺍﻭ ﻞﻜﻴﻫ ﻲﻓ ﺎﻬﻠﻤﻛﺄﺑ ﻚﺗﺮﻤﻌﺘﺴﻣ ﺀﺎﻨﺑ</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>. ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻞﻘﻨﺘﻟﺍ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺪﻋﺎﺴﻤﻟ ﺕﺎﻴﺿﺭﺃ ِﻦﺑﺍ. ﺔﻛﺮﺤﻟﺍ ﺔﻋﺮﺳ ﻰﻠﻋ ﺲﻳﺭﺎﻀﺘﻟﺍ ﺮﺛﺆﻳ</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>. ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﺨﺴﺘﻣ ﺥﺎﺳﻭﻷﺍﻭ ؛ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﻔﻴﻈﻧ ﺕﺎﻃﻼﺒﻟﺍ. ﺔﻳﺮﻄﻔﻟﺍ ﺔﻓﺎﻈﻨﻟﺍ ﺕﺎﻳﻮﺘﺴﻣ ﻲﻓ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻒﻠﺘﺨﺗ</GameplayTips.TerrainCleanliness>
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>. ﻥﺪﻌﻤﻟﺍ ﻁﻼﺒﺑ ًﺔﻧﺭﺎﻘﻣ ﺮﻴﺜﻜﺑ ﻝﻮﻃﺃ ﺍًﺘﻗﻭ ﺩﺎﺠﺴﻟﺍ ﻒﻴﻈﻨﺗ ﻕﺮﻐﺘﺴﻳ. ﺎﻫﺮﻴﻏ ﻦﻣ ﻒﻴﻈﻨﺘﻠﻟ ﻝﻮﻃﺃ ﺍًﺘﻗﻭ ﺕﺎﻴﺿﺭﻷﺍ ﻉﺍﻮﻧﺃ ﺾﻌﺑ ﻕﺮﻐﺘﺴﺗ</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>. ﺮﻴﺒﻛ ﺮﻳﺪﻘﺗ ﻊﺿﻮﻣ ﻥﻮﻜﻴﺳ ﻲﻠﺻﻷﺍ ﻪﻠﻴﺼﻓ ﻰﻟﺇ ﻦﻴﺠﺳ ﺓﺩﺎﻋﺇ. ﺎﻳﺍﺪﻬﻛ ﺀﺎﻨﺠﺴﻟﺍ ﻢﻳﺪﻘﺗ ﻦﻜﻤﻳ</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>. ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺭﺎﺠﺘﻟﺍ ﻞﻓﺍﻮﻗ ﻦﻣ ﺓﺩﺪﺤﻣ ﻉﺍﻮﻧﺃ ﺐﻠﻃ ﻚﻨﻜﻤﻳ</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>. ﻞﺋﺎﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻦﺴﺤﻳ ﺍﺬﻫ. ﻚﺋﺍﺪﻋﺃ ﻰﺘﺣ - ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺪﻋﺍﻮﻗ ﻰﻟﺇ ﺓﺮﺷﺎﺒﻣ ﺎﻳﺍﺪﻫ ﻝﺎﺳﺭﻹ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>. ﺍًﻌﻣ ﺏﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻴﺳ ﻦﻴﻋّﻤﺠﻤﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻥﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﺣﺎﺴﻣ ﺮﻓﻮﻳ ﺀﺎﻨﺠﺴﻟﺍ ﻊﻴﻤﺠﺗ</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>. ﺔﻟﻭﺎﺤﻤﻟﺍ ﺕﺮﺘﺧﺍ ﺍﺫﺇ ﺍًﺪﻴﺟ ﺍًﺪﻌﺘﺴﻣ ﻦﻛ ﻦﻜﻟﻭ - ﺎﻬﺘﻤﺟﺎﻬﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺖﺴﻟ. ﻦﻴﺼﺤﺘﻟﺍ ﺓﺪﻳﺪﺷ ﻭﺪﻌﻟﺍ ﺪﻋﺍﻮﻗ</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>. ﻢﻬﺟﺍﺰﻣ ﻦﺴﺤﻳ ﺎﻤﻣ ،ﻚﻳﺮﻤﻌﺘﺴﻣ ﺔﻔﻴﻄﻠﻟﺍ ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻋﺍﺪﺘﺳ</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>. ﺎﻬﻣﺎﻌﻃﺇ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻚﻴﻠﻋ ﺮﻓﻮﺗﻭ ﺐﺸﻌﻟﺍ ﻞﻛﺄﺘﺳ. ﺐﺸﻌﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺎﻬﺑ ﻖﻃﺎﻨﻣ ﻲﻓ ﺔﺒﺷﺎﻌﻟﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﻥّﻴﻋ</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>. ﻪﺗﺎﻴﺣ ﺫﺎﻘﻧﻹ ﻑﺮﻄﻟﺍ ﻚﻟﺫ ﺮﺘﺑ ﻚﻨﻜﻤﻳ ،ﻪﻓﺍﺮﻃﺃ ﻦﻣ ﻑﺮﻃ ﻲﻓ ﺓﺮﻴﻄﺧ ﻯﻭﺪﻋ ﻦﻣ ﻲﻧﺎﻌﻳ ﻢﻫﺪﺣﺃ ﻥﺎﻛ ﺍﺫﺇ</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>. ﻦﻜﻣﺃ ﻰﺘﻣ ًﺍﺮﺴﺟ ِﻦﺑﺍ. ﺔﺳﺎﻌﺗ ﺐﺒﺴﻳ ﺀﺎﻤﻟﺍ ﻲﻓ ﻲﺸﻤﻟﺍ</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>. ﻢﺋﺍﺩ ﻡﺍﺰﺘﻟﺍ ،ﻚﻟﺫ ﻊﻣ ،ﻪﻧﺇ. ﻍﺎﻣﺪﻟﺍ ﻭﺃ ﻦﻴﻌﻟﺍ ﻰﻠﻋ ﺓﺩﻮﺟﻮﻤﻟﺍ ﻚﻠﺗ ﻰﺘﺣ - ﺏﻭﺪﻨﻟﺍ ﻲﻔﺸﻳ ﻥﺃ ﻦﻜﻤﻳ ﻡﻮﻳﺮﻔﻴﺳﻮﻟ</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>. ﻡﻼﻈﻟﺍ ﻲﻓ ﺄﻄﺑﺃ ﺀﻴﺷ ﻞﻛ. ﺓﺀﺎﺿﻹﺎﺑ ﺔﻛﺮﺤﻟﺍﻭ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﺮﺛﺄﺘﺗ</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>. ﺍًﺩﺭﺎﺑ ﻭﺃ ﺍًﺪﺟ ﺍًﺭﺎﺣ ﺝﺭﺎﺨﻟﺎﺑ ﻮﺠﻟﺍ ﻥﺎﻛ ﻮﻟ ﻰﺘﺣ ،ﺍًﻴﻌﻴﺒﻃ ﺓﺮﻘﺘﺴﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺪﺑ ﻊﺘﻤﺘﺗ ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>. ﺔﻗﻼﻤﻌﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻦﻋ ﻚﻴﻫﺎﻧ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺙﻮﻜﻤﻟﺍ ﻝﻮﻃ ﻦﻣ ﻥﻮﻨﺠﻟﺎﺑ ﻥﻮﺑﺎﺻُﻳ ﺱﺎﻨﻟﺍ ﻥﺃ ﻮﻫ ﻲﺒﻠﺴﻟﺍ ﺐﻧﺎﺠﻟﺍ. ﻉﺎﻓﺪﻟﺍ ﺔﻠﻬﺳ ﺔﻴﻠﺒﺠﻟﺍ ﺪﻋﺍﻮﻘﻟﺍ</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>. ﺪﻴﺟ ﺝﺍﺰﻣ ﻲﻓ ﻥﻮﻧﻮﻜﻳ ﺎﻣﺪﻨﻋ ﻞﻗﺃ ﻞﻜﺸﺑ ﺏﻭﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻳﻭ ﻡﺎﻤﻀﻧﻻﺍ ﻰﻟﺇ ﻥﻮﻋﺭﺎﺳُﻳ ﺀﺎﻨﺠﺴﻟﺍ</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>. ﺓﺩﺪﻌﺘﻣ ﺚﺤﺑ ﺕﻻﻭﺎﻃ ﻰﻠﻋ ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻴﺜﺣﺎﺑ ﺓﺪﻌﻟ ﻦﻜﻤﻳ</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>. ﺍًﺪﻴﻔﻣ ﻭﺃ ﺍًﺮﻴﻄﺧ ﺍﺬﻫ ﻥﻮﻜﻳ ﺪﻗ. ﻥﺍﺭﺪﺠﺑ ﺖﻄﻴﺣُﺃ ﺍﺫﺇ ﻑﺮﻐﻟﺍ ﻥّﺨﺴﺗ ﺓﺭﺎﺤﻟﺍ ﻊﻴﺑﺎﻨﻴﻟﺍ</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>. ﺮﺧﺁ ﺭﺎﻴﺧ ﺪﺟﻮﻳ ﻻ ﻦﻴﺣ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﻹ ﺓﺪﻴﻔﻣ ﺔﻴﻌﻓﺪﻤﻟﺍ ﻒﺋﺍﺬﻗ ﻞﻌﺠﻳ ﺍﺬﻫ. ﺎﻫﺮﻴﺛﺄﺗ ﻕﺎﻄﻧ ﻦﻤﺿ ﻖﺋﺍﺮﺤﻟﺍ ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﺊﻔﻄﺗ</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>. ﻑﻭﺮﻈﻟﺍ ﻚﻠﺣﺃ ﻦﻣ ﺺﺼﻘﻟﺍ ﻞﻀﻓﺃ ﻲﺗﺄﺗ ﺎﻣ ﺍًﺒﻟﺎﻐﻓ – ﺓﺮﺳﺎﺨﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻢﻏﺭ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻝﻭﺎﺣ. ﺔﺒﻌﻠﻟﺍ ﺔﻳﺎﻬﻧ ﺓﺭﻭﺮﻀﻟﺎﺑ ﻲﻨﻌﺗ ﻻ ﺓﺮﻴﻄﺨﻟﺍ ﺕﺎﺳﺎﻜﺘﻧﻻﺍ ﻰﺘﺣ</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>. ﺕﺍﺮﺠﻔﺘﻤﻟﺍﻭ ﺔﺤﻠﺳﻷﺍ ﺩﻮﺟﻮﺑ ﺓﺭﻮﻄﺧ ﺮﺜﻛﺃ ﻦﺠﺴﻟﺍ ﻦﻣ ﺭﺍﺮﻔﻟﺍ ﺕﺎﻴﻠﻤﻋ. ﻚﻧﻮﺠﺳ ﻦﻋ ﺍًﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ ﻥﺯﺎﺨﻤﺑ ﻆﻔﺘﺣﺍ</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>. ﺎﻬﻣﺎﻌﻃﻹ ﺢﻴﺤﺼﻟﺍ ﻉﻮﻨﻟﺍ ﻦﻣ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ ،ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﺪﻨﻋ</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>. ﺓﺍﺰﻐﻟﺍﻭ ﺔﻳﺩﺎﻌﻤﻟﺍ ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻠﻟ ﺔﺿﺮﻋ ﻚﻠﻌﺠﻳ ﺎﻤﻣ ،ﺍًﺮﺴﻗ ﻪﺤﺘﻔﻴﺳ ﺏﺎﺑ ﻞﺧﺪﻣ ﻲﻓ ﺚﺒﺧ ﻭﺃ ﺮﺠﺣ ﺔﻌﻄﻗ ﻁﺎﻘﺳﺇ</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>. ﺚﺤﺒﻟﺍ ﺔﻋﺮﺴﻟ ﺕﺂﻓﺎﻜﻣ ﺢﻨﻤﺗ ﻢﻘﻌﻤﻟﺍ ﻁﻼﺒﻟﺎﺑ ﺔﺷﻭﺮﻔﻤﻟﺍ ﺔﻔﻴﻈﻨﻟﺍ ﺕﺍﺮﺒﺘﺨﻤﻟﺍ</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>. ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ ﻝﻼﺧ ﻦﻣ ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃﻭ ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ ﺮﻴﻴﻐﺗ ﻚﻨﻜﻤﻳ</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>. ﺎﻫﺎﻘﻠﺘﺘﺳ ﻲﺘﻟﺍ ﺔﻳﺮﻜﺴﻌﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍﻭ ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺓﺭﺎﺠﺘﻟﺍ ﺕﺩﺍﺯ ،ﻞﺋﺎﺼﻔﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻊﻣ ﺖﻔﻟﺎﺤﺗ ﺎﻤﻠﻛ</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>. ﺎﻬﺘﺠﻴﺘﻧ ﻢﺴﺤﺗ ﺪﻗ ﺔﻛﺮﻌﻤﻟﺍ ﺔﻳﺍﺪﺑ ﻲﻓ ﺔﻌﻳﺮﺳ ﺔﻋﺮﺟ-Go. ﺮﻴﺼﻌﻛ ﺔﻴﻟﺎﺘﻗ ﺮﻴﻗﺎﻘﻌﺑ ﻚﻴﻠﺗﺎﻘﻣ ﺪﻳﻭﺰﺘﻟ ﺔﻳﻭﺩﻷﺍ ﺕﺎﺳﺎﻴﺳ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>ﺯ ﻝﻭﺍﺪﺟ ﻊﺿ</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>. ﻚﺗﺮﻴﻈﺤﻟ ﺔﻴﺿﺭﺄﻛ ﺎﻬﻣﺪﺨﺘﺳﺍ. ﺥﺎﺳﻭﻷﺍ ﻞﻫﺎﺠﺘﺗ ﺶﻘﻟﺍ ﺮﺋﺎﺼﺣ</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺔﻴﺷﺎﻤﻟﺍﻭ ﻝﺎﻴﻓﻷﺍ ِﻖﺑﺃ. ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺕﺎﻴﻤﻛ ﺞﺘﻨﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ</GameplayTips.AnimalFilth>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>. ﺰﺟﺍﻮﺤﻟﺍ ﻭﺃ ﺭﺍﻮﺳﻷﺍ ﻦﻣ ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻄﺼﺗ ﻦﻟ ﺕﺎﺳﺮﺘﻔﻤﻟﺍ</GameplayTips.PredatorsAndFences>
+  <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <GameplayTips.NeverGameOver>. ﻚﺗﺮﻤﻌﺘﺴﻣ ﻦﻣ ﻰﻘﺒﺗ ﺎﻣ ﺓﺩﺎﻌﺘﺳﻻ ﺩﺪﺟ ﻦﻴﻟﻮﺠﺘﻣ ﺀﺎﺸﻧﺇ ﻚﻨﻜﻤﻳ ،ﺍﻮﻠﺣﺭ ﻭﺃ ﻊﻴﻤﺠﻟﺍ ﺕﺎﻣ ﺍﺫﺇ. ﺍًﺪﺑﺃ ﺔﺒﻌﻠﻟﺍ ﻲﻬﺘﻨﺗ ﻻ</GameplayTips.NeverGameOver>
+  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <GameplayTips.StoreBooksInBookcases>. ﺓﺀﺍﺮﻘﻟﺍ ﻦﻣ ﻦﻴﺒﺴﺘﻜﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍﻭ ﺓﺮﺒﺨﻟﺍ ﻦﻣ ﺪﻳﺰﻳﻭ ،ﺔﺒﻳﺮﻘﻟﺍ ﺚﺤﺒﻟﺍ ﺪﻋﺎﻘﻣ ﻉّﺮﺴﻳﻭ ،ﺔﻓﺮﻐﻟﺍ ﻝﺎﻤﺟ ﻦﻣ ﺪﻳﺰﻳ ﺍﺬﻫ. ﺐﺘﻜﻟﺍ ﻑﻮﻓﺭ ﻲﻓ ﺐﺘﻜﻟﺍ ﻥّﺰﺧ</GameplayTips.StoreBooksInBookcases>
+  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window. -->
+  <GameplayTips.TakeToShelves>. ﺓﺭﻮﺗﺎﻔﻠﻟ..." ﻞﻴﺻﺎﻔﺘﻟﺍ " ﺓﺬﻓﺎﻧ ﻲﻓ ﻞﻘﻧ ﺔﻬﺟﻮﻛ ﺮﻬﻈﻴﺳ ،ﻯﺮﺧﺃ ﻑﻮﻓﺮﺑ ﻪﻄﺑﺭ ﻭﺃ ّﻑﺮﻟﺍ ﺔﻴﻤﺴﺗ ﺩﺮﺠﻤﺑ ؟ﺩّﺪﺣُﻣ ّﻑﺭ ﻰﻟﺇ ﺍًﺜﻳﺪﺣ ﻉّﻨﺻُﻣ ﺮﺼﻨﻋ ﻞﻘﻧ ﺪﻳﺮﺗ ﻞﻫ</GameplayTips.TakeToShelves>
+  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <GameplayTips.ChangeUnits>. ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ،ﺖﻳﺎﻬﻧﺮﻬﻓ ﻰﻟﺇ ﺔﻳﻮﺌﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺩ ﺮﻴﻴﻐﺗ ﻭﺃ ،ﺔﻋﺎﺳ 12 ﻱﺫ ﺔﻋﺎﺴﻟﺍ ﻡﺎﻈﻧ ﻰﻟﺇ ﻞﻳﺪﺒﺘﻟﺍ ﻚﻨﻜﻤﻳ</GameplayTips.ChangeUnits>
+  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <GameplayTips.TargetColonistBar>. ﻱﻮﻠﻌﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻲﻓ ﻢﻬﺗﺭﻮﺻ ﻑﺍﺪﻬﺘﺳﺍ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ ،ﺮﺼﻨﻋ ﻭﺃ ﺓﺭﺪﻘﺑ ﺮﻤﻌﺘﺴﻣ ﻑﺍﺪﻬﺘﺳﺍ ﺪﻨﻋ</GameplayTips.TargetColonistBar>
+  <!-- EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory. -->
+  <GameplayTips.WorkTableRoomRole>. ﺍًﺮﺒﺘﺨﻣ ﻊﻨﺼﺗ ﺔﺻﺎﺧ ﺔﻓﺮﻏ ﻲﻓ ﺚﺤﺒﻟﺍ ﺪﻋﺎﻘﻣ. ﻞﻤﻋ ﺔﺷﺭﻭ ﻊﻨﺼﺗ ﺔﺻﺎﺧ ﺔﻓﺮﻏ ﻲﻓ ﻞﻤﻌﻟﺍ ﺪﻋﺎﻘﻣ. ﺔﺼﺼﺨﻣ ﺔﻓﺮﻏ ﻲﻓ ﺖﻧﺎﻛ ﺍﺫﺇ ﺓﺀﺎﻔﻛ ﺮﺜﻛﺃ ﻥﻮﻜﺗ ﻲﻧﺎﺒﻤﻟﺍ ﺾﻌﺑ</GameplayTips.WorkTableRoomRole>
+  <!-- EN: You can rename bills in the bill details dialog. -->
+  <GameplayTips.RenamingBills>. ﺓﺭﻮﺗﺎﻔﻟﺍ ﻞﻴﺻﺎﻔﺗ ﺓﺬﻓﺎﻧ ﻲﻓ ﺮﻴﺗﺍﻮﻔﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ ﻚﻨﻜﻤﻳ</GameplayTips.RenamingBills>
+  <!-- EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists. -->
+  <GameplayTips.FriendlyFire>{PAWN_gender ? . ﻥﺎﻣﺄﺑ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﻥﻮﻠﻤﺤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﺎﻣﺃ ﺔﻣﺪﻘﻤﻟﺍ ﻲﻓ ﻙﺎﺒﺘﺷﺍ ﻦﻴﻨﻃﻮﺘﺴﻣ ﻊﺿﻭ ﻚﻨﻜﻤﻳ. ﺎﻬﻔﻴﻠﺣ ﻦﻣ ﺔﺒﻳﺮﻗ ﺭﺎﻨﻟﺍ ﺔﻘﻠﻄﻣ ﺖﻧﺎﻛ ﺍﺫﺇ ﻖﻳﺪﺻ ﺭﺎﻧ ﻕﻼﻃﺇ ﺙﺪﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ : . ﻥﺎﻣﺄﺑ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﻥﻮﻠﻤﺤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﺎﻣﺃ ﺔﻣﺪﻘﻤﻟﺍ ﻲﻓ ﻙﺎﺒﺘﺷﺍ ﻦﻴﻨﻃﻮﺘﺴﻣ ﻊﺿﻭ ﻚﻨﻜﻤﻳ. ﻪﻔﻴﻠﺣ ﻦﻣ ﺍًﺒﻳﺮﻗ ﺭﺎﻨﻟﺍ ﻖﻠﻄﻣ ﻥﺎﻛ ﺍﺫﺇ ﻖﻳﺪﺻ ﺭﺎﻧ ﻕﻼﻃﺇ ﺙﺪﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ}</GameplayTips.FriendlyFire>
+  <!-- EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs. -->
+  <GameplayTips.RightClickGizmos>. ﺪﻴﺼﻟﺍ ﻡﺎﻬﻣ ﻊﻴﻤﺟ ﺀﺎﻐﻟﺇ ﻭﺃ ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ﺮﻈﺣ ﻚﻨﻜﻤﻳ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ. ﺔﻴﻓﺎﺿﺇ ﺕﺍﺭﺎﻴﺧ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻣﺍﻭﻷﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺔﻨﻴﻌﻣ ﺭﺍﺭﺯﺃ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ</GameplayTips.RightClickGizmos>
+  <!-- EN: Hold the shift key while scrolling the map to scroll faster. -->
+  <GameplayTips.FastScroll>. ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺮﻳﺮﻤﺘﻠﻟ ﺔﻄﻳﺮﺨﻟﺍ ﺮﻳﺮﻤﺗ ﺀﺎﻨﺛﺃ Shift ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﺿﺍ</GameplayTips.FastScroll>
+  <!-- EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot. -->
+  <GameplayTips.Shelves>. ﻥﺎﻜﻤﻟﺍ ﺲﻔﻧ ﻲﻓ ﺓﺩﺪﻌﺘﻣ ﺮﺻﺎﻨﻋ ﻞﻤﺣ ﻖﻳﺮﻃ ﻦﻋ ﻚﻳﺪﻟ ﻦﻳﺰﺨﺘﻟﺍ ﺔﻌﺳ ﻦﻣ ﺪﻳﺰﺗ ﺎﻬﻧﺇ. ﻂﻘﻓ ﺽﺮﻌﻠﻟ ﺖﺴﻴﻟ ﻑﻮﻓﺮﻟﺍ</GameplayTips.Shelves>
+  <!-- EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight. -->
+  <GameplayTips.MechanoidPsychicSensitivity>. ﺔﻛﺮﻌﻤﻟﺍ ﺕﺎﻳﺮﺠﻣ ﺐﻠﻘﻟ ﺎﻫﺪﺣﺃ ﻰﻠﻋ ﺍًﻴﺴﻔﻧ ﺍًﺤﻣﺭ ﻡﺪﺨﺘﺳﺍ. ﺔﻴﺴﻔﻨﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ ﺾﻌﺑ ﻚﻠﺘﻤﺗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ</GameplayTips.MechanoidPsychicSensitivity>
+  <!-- EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery. -->
+  <GameplayTips.InsectMeat>. ﻱﻮﻴﺤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﺓﺎﻔﺼﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻰﻟﺇ ﺎﻬﻟّﻮﺣ. ﺕﺍﺮﺸﺤﻟﺍ ﻡﻮﺤﻟ ﻞﻛﺃ ﻥﻮﻫﺮﻜﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻢﻈﻌﻣ</GameplayTips.InsectMeat>
+  <!-- EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too. -->
+  <GameplayTips.MapSearch>. ﺍًﻀﻳﺃ ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻲﻓ ﺚﺤﺒﻟﺍ ﻚﻨﻜﻤﻳ. ﺪﻳﺰﻤﻟﺍﻭ ﻲﻧﺎﺒﻤﻟﺍﻭ ﺕﺎﻨﺋﺎﻜﻟﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻋ ﺔﻄﻳﺮﺨﻟﺍ ﻲﻓ ﺚﺤﺒﻟﺎﺑ ﻚﻟ ﺢﻤﺴﻴﺳ Z ﻰﻠﻋ ﻂﻐﻀﻟﺍ</GameplayTips.MapSearch>
+  
+</LanguageData>

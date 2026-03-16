@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>ﺔﻴﻠﻳﺭﻮﺑ ﺔﺑﺎﻏ</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>. ﺊﻓﺍﺩ ﻒﻴﺻ ﺎﻬﻟﻭ ،ﺓﺮﻴﺒﻜﻟﺍﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﺔﻳﺭﻮﺒﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ ﻢﻋﺪﺗ ،ﻲﺳﺎﻘﻟﺍ ﺀﺎﺘﺸﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺔﻳﺮﺑﻮﻨﺼﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻦﻣ ﺕﺎﺑﺎﻏ</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>ﺩﺭﺎﺑ ﻊﻘﻨﺘﺴﻣ</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>. ﺐﻃﺮﻟﺍﻭ ﻒﻴﺜﻜﻟﺍ ﻲﺌﻴﺒﻟﺍ ﻡﺎﻈﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻨﻃﻮﺘﻣ ﺽﺍﺮﻣﻷﺍ. ﺔﻘﻧﺎﺨﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺐﺒﺴﺑ ﺀﻴﻄﺑ ﻞﻘﻨﺘﻟﺍﻭ ،ﺔﻠﻴﻘﺜﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻢﻋﺩ ﺎﻨﻫ ﺔﻴﻌﻘﻨﺘﺴﻤﻟﺍ ﻲﺿﺍﺭﻷﺍ ﻢﻈﻌﻤﻟ ﻦﻜﻤﻳ ﻻ. ﺔﻣﺮﻜﻟﺍﻭ ﺭﺎﺠﺷﻷﺎﺑ ﺔﻈﺘﻜﻣ ﺔﺒﻃﺭ ﺽﺭﺃ</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>ﺔﻳﺪﻴﻠﺟ ﺢﺋﺎﻔﺻ</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>. ﺓﺪﺸﺑ ﺔﻬﺋﺎﺗ ﻭﺃ – ﺮﺧﺁ ﻥﺎﻜﻣ ﻰﻟﺇ ﺓﺮﺟﺎﻬﻣ ﻥﻮﻜﺗ ﻥﺃ ﺎﻣﺇ ﺎﻨﻫ ﺓﺪﻴﺣﻮﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ. ﺎﻬﻴﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ﺔﺑﺮﺗ ﺪﺟﻮﺗ ﻻ. ﺕﺍﺮﺘﻣﻮﻠﻴﻛ ﺓﺪﻌﻟ ﺔﻜﻴﻤﺳ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﺔﻳﺪﻴﻠﺟ ﺢﺋﺎﻔﺻ</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>. ﺍًﻳﺪﺤﺗ ﻞﺜﻤﻳ ﻞﻳﻮﻄﻟﺍ ﻯﺪﻤﻟﺍ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ. ﺔﻴﻧﺍﻮﻴﺣ ﺓﺎﻴﺣ ﻱﺃ ﺪﺟﻮﺗ ﺩﺎﻜﺗ ﻻﻭ ﺕﺎﺗﺎﺒﻨﻠﻟ ﺔﺑﺮﺗ ﺪﺟﻮﺗ ﻻ. ﺔﻳﺎﻐﻠﻟ ﺔﻓﺎﻴﻀﻣ ﺮﻴﻏ ﺪﻴﻠﺠﻟﺍ ﺢﺋﺎﻔﺻ</IceSheet.settleWarning>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>ﻱﺮﺤﺑ ﺪﻴﻠﺟ</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>. ﺔﻣﻭﺪﻌﻣ ﻥﻮﻜﺗ ﺩﺎﻜﺗ ﺔﻴﻧﺍﻮﻴﺣ ﺓﺎﻴﺣﻭ ،ﻦﻳﺪﻌﺘﻠﻟ ﻥﺩﺎﻌﻣ ﻻﻭ ،ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ﺔﺑﺮﺗ ﺪﺟﻮﺗ ﻻ. ﺀﺎﻤﻟﺍ ﻰﻠﻋ ﻮﻔﻄﺗ ﺔﻤﺋﺍﺩ ﺔﻳﺪﻴﻠﺟ ﺢﺋﺎﻔﺻ</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>. ﺍًﻳﺪﺤﺗ ﻞﺜﻤﻳ ﻞﻳﻮﻄﻟﺍ ﻯﺪﻤﻟﺍ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ. ﺔﻴﻧﺍﻮﻴﺣ ﺓﺎﻴﺣ ﻱﺃ ﺪﺟﻮﺗ ﺩﺎﻜﺗ ﻻﻭ ﺕﺎﺗﺎﺒﻨﻠﻟ ﺔﺑﺮﺗ ﺪﺟﻮﺗ ﻻ. ﺔﻳﺎﻐﻠﻟ ﻑﺎﻴﻀﻣ ﺮﻴﻏ ﻱﺮﺤﺒﻟﺍ ﺪﻴﻠﺠﻟﺍ</SeaIce.settleWarning>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>ﺍﺭﺪﻨﺗ</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>. ﺎﻬﺗﺎﺳﺮﺘﻔﻣﻭ ﺓﺮﺟﺎﻬﻤﻟﺍ ﺔﻳﻮﻋﺮﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﻥﺎﻌﻄﻗ ﻂﺳﻭ ﺓﺮﺛﺎﻨﺘﻤﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﺪﺟﻮﺗ. ﺔﺤﻴﺤﺷ ﺎﻬﺗﺎﺗﺎﺒﻧﻭ ﺭﺎﺠﺷﺃ ﻱﺃ ﺍًﺒﻳﺮﻘﺗ ﻞﻤﺤﺗ ﻻ ﺎﻬﻤﻈﻌﻣ ﻲﻓ ﺓﺪﻤﺠﺘﻤﻟﺍ ﻝﻮﻬﺴﻟﺍ ﻩﺬﻫ</Tundra.description>
+  
+</LanguageData>

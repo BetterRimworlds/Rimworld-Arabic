@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic animal pulser -->
+  <PsychicAnimalPulser.label>ﻲﻧﺍﻮﻴﺣ ﻥﺎﺠﻴﻫ ﺔﻀﺒﻧ</PsychicAnimalPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
+  <PsychicAnimalPulser.description>. ﻚﺗﺮﻄﻴﺴﻟ ﺔﻌﺿﺎﺨﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺮﺛﺄﺘﺗ ﻦﻟ. ﺮﺸﺒﻟﺍ ﻦﻋ ﺍًﺜﺤﺑ ﺪﻳﺪﺷ ﺐﻀﻏ ﺔﻟﺎﺣ ﻰﻟﺇ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻴﻤﺟ ﻊﻓﺪﻳ ﺎﻤﻣ ،ﺎﻴﻧﺪﻟﺍ ﻝﻮﻘﻌﻟﺍ ﻲﻓ ﺔﺒﻋﺮﻣ ﺍًﺭﻮﺻ ﻲﺴﻔﻨﻟﺍ ﺾﺒﻨﻟﺍ ﺮﺸﻨﻳ. ﺔﻀﻳﺮﻋ ﺔﺟﻮﻣ ﻭﺫ ﺪﺣﺍﻭ ﻡﺍﺪﺨﺘﺳﺍ ﻭﺫ ﻲﺴﻔﻧ ﺮﺛﺆﻣ</PsychicAnimalPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>{0_label} ﻞﻴﻌﻔﺗ</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  <!-- EN: psychic soothe pulser -->
+  <PsychicSoothePulser.label>ﺔﻴﺴﻔﻧ ﺔﺋﺪﻬﻣ ﺔﻀﺒﻧ</PsychicSoothePulser.label>
+  <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
+  <PsychicSoothePulser.description>. ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻊﻴﻤﺠﻠﻟ ﺔﺘﻗﺆﻣ ﺔﻴﺟﺍﺰﻣ ﺔﻌﻓﺩ ﺢﻨﻤﻳ ﺎﻤﻣ ،ﺀﺎﺿﺭﻹﺍ ﺔﻴﺗﺍﺫ ﺔﻴﻛﺍﺭﺩﺇ ﺕﺎﻫﻮﺸﺗ ﺰﻔﺤﺗ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻀﺒﻨﻟﺍ. ﺔﻀﻳﺮﻋ ﺔﺟﻮﻣ ﻭﺫ ﺪﺣﺍﻭ ﻡﺍﺪﺨﺘﺳﺍ ﻭﺫ ﻲﺴﻔﻧ ﺮﺛﺆﻣ</PsychicSoothePulser.description>
+  <!-- EN: Activate {0_label} -->
+  <PsychicSoothePulser.comps.CompUsable.useLabel>{0_label} ﻞﻴﻌﻔﺗ</PsychicSoothePulser.comps.CompUsable.useLabel>
+  
+</LanguageData>

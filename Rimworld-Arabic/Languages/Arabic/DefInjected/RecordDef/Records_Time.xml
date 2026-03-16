@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>ﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣﺯ</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>. ﻚﻌﻤﺘﺠﻤﻟ ﺍًﺼﻠﺨﻣ ﻪﺘﻴﻀﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>ﺮﺳﻷﺍ ﻦﻣﺯ</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>. ﺮﻴﺳﺄﻛ ﻲﺿُﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeAsPrisoner.description>
+  
+  <!-- EN: time hosted -->
+  <TimeAsQuestLodger.label>ﺔﻓﺎﻀﺘﺳﻻﺍ ﺖﻗﻭ</TimeAsQuestLodger.label>
+  <!-- EN: Total time spent hosted by your community through a quest. -->
+  <TimeAsQuestLodger.description>. ﺔﻤﻬﻣ ﻝﻼﺧ ﻦﻣ ﻥﻮﻓﺎﻀﺘﺴﻤﻟﺍ ﻑﻮﻴﻀﻟﺍ ﻩﺎﻀﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeAsQuestLodger.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>ﻒﻴﻈﻨﺘﻟﺍ ﺖﻗﻭ</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>. ﻒﻴﻈﻨﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>ﺀﺎﻨﺒﻟﺍ ﺖﻗﻭ</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>. ﻲﻧﺎﺒﻤﻟﺍ ﻚﻴﻜﻔﺗﻭ ﺀﺎﻨﺑ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>ﻞﻴﻄﻌﺘﻟﺍ ﺖﻗﻭ</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>. ﺀﺎﻤﻏﻹﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>ﺪﻴﻨﺠﺘﻟﺍ ﺖﻗﻭ</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>. ﺪﻴﻨﺠﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>. ﻖﺋﺍﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>ﻞﻛﻷﺍﻭ ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﺖﻗﻭ</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>. ﻪﻟﻭﺎﻨﺗﻭ ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>ﻪﻴﻓﺮﺘﻟﺍ ﺖﻗﻭ</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>. ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺖﻗﻭ</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>ﻞﻘﻨﻟﺍ ﺖﻗﻭ</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>. ﺀﺎﻴﺷﻷﺍ ﻞﻘﻧ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>ﺪﻴﺼﻟﺍ ﺖﻗﻭ</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>. ﺪﻴﺼﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>ﺮﻳﺮﺳ ﻲﻓ ﺖﻗﻭ</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>. ﻡﻮﻨﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺔﻴﺒﻃ ﺔﺣﺍﺭ</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>. ﺔﻴﺣﺍﺮﺟ ﺕﺎﻴﻠﻤﻌﻟ ﻉﻮﻀﺨﻟﺍ ﻭﺃ ،ﺕﺎﺑﺎﺻﻹﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻟﺍ ﻭﺃ ،ﺝﻼﻌﻟﺍ ﺭﺎﻈﺘﻧﺍ ﻲﻓ: ﺔﻴﺒﻃ ﺏﺎﺒﺳﻷ ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ ﺓﺪﻣ</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>. ﺔﻴﻌﻴﺒﻃ ﺮﻴﻏ ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﺩﺮﻔﻟﺍ ﻪﻴﻀﻘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>ﻦﻳﺪﻌﺘﻟﺍ ﺖﻗﻭ</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>. ﻦﻳﺪﻌﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>ﻕﺍﺮﺘﺣﻻﺍ ﺓﺪﻣ</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>. ﻝﺎﻌﺘﺷﻻﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>ﺡﻼﺻﻹﺍ ﺖﻗﻭ</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>. ﺡﻼﺻﻹﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>ﺚﺤﺒﻟﺍ ﺖﻗﻭ</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>. ﺚﺤﺒﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>. ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗﻭ ﺩﺎﺼﺣﻭ ﺔﻋﺍﺭﺯ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>ﺔﻳﺬﻐﺘﻟﺍﻭ ﺝﻼﻌﻟﺍ ﺖﻗﻭ</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>. ﻰﺿﺮﻤﻟﺍ ﻡﺎﻌﻃﺇﻭ ﺝﻼﻋ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>ﻒﻘﺳ ﺖﺤﺗ ﻦﻣﺯ</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>. ﻒﻘﺳ ﺖﺤﺗ ﺩﺮﻔﻟﺍ ﻩﺎﻀﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>ﺔﺳﺍﺮﺤﻟﺍ ﺖﻗﻭ</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>. ﺔﺳﺍﺮﺤﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻟﺎﻤﺟﺇ</TimeWardening.description>
+  
+</LanguageData>

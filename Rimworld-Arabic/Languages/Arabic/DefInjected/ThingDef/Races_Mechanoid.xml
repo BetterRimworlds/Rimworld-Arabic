@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>ﻲﻟﺁ ﻱﻮﺌﻣ ﺔﻓﺫﺎﻗ</Mech_CentipedeBlaster.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBlaster.description>. ﺔﻌﻳﺮﺴﻟﺍ ﺔﻠﻘﻨﺘﻤﻟﺍ ﺕﺎﻜﻴﺘﻜﺘﻠﻟ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺔﺿﺮﻋ ﻲﻫﻭ. ﻦﻴﻌﻤﺠﺘﻤﻟﺍ ﻦﻴﺘﺑﺎﺜﻟﺍ ﻦﻴﻌﻓﺍﺪﻤﻟﺍ ﺪﺿ ﺍًﺪﺟ ﺔﻟﺎﻌﻓ ﺎﻬﻠﻌﺠﺗ ﺔﻳﻮﻘﻟﺍ ﺎﻬﻧﺍﺮﻴﻧﻭ ﺔﻜﻴﻤﺴﻟﺍ ﺎﻬﻋﻭﺭﺩ. ﺓﺮﻴﻐﺼﻟﺍ ﻞﺟﺭﻷﺍ ﺕﺍﺮﺸﻋ ﻰﻠﻋ ﻖﻟﺰﻨﺗ ﺔﻠﻴﻘﺛ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_CentipedeBlaster.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBlaster.tools.head.label>ﺱﺃﺭ</Mech_CentipedeBlaster.tools.head.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>ﻲﻟﺁ ﻱﻮﺌﻣ ﻕﺭﺎﺣ</Mech_CentipedeBurner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBurner.description>. ﺔﻌﻳﺮﺴﻟﺍ ﺔﻠﻘﻨﺘﻤﻟﺍ ﺕﺎﻜﻴﺘﻜﺘﻠﻟ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺔﺿﺮﻋ ﻲﻫﻭ. ﻦﻴﻌﻤﺠﺘﻤﻟﺍ ﻦﻴﺘﺑﺎﺜﻟﺍ ﻦﻴﻌﻓﺍﺪﻤﻟﺍ ﺪﺿ ﺔﻳﺎﻐﻠﻟ ﺔﻟﺎﻌﻓ ﺎﻬﻠﻌﺠﺗ ﺔﻳﻮﻘﻟﺍ ﺎﻬﻧﺍﺮﻴﻧﻭ ﺔﻜﻴﻤﺴﻟﺍ ﺎﻬﻋﻭﺭﺩ. ﺓﺮﻴﻐﺼﻟﺍ ﻞﺟﺭﻷﺍ ﺕﺍﺮﺸﻋ ﻰﻠﻋ ﻖﻟﺰﻨﺗ ﺔﻠﻴﻘﺛ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_CentipedeBurner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBurner.tools.head.label>ﺱﺃﺭ</Mech_CentipedeBurner.tools.head.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>ﻲﻟﺁ ﻱﻮﺌﻣ ﻲﻣﺍﺭ</Mech_CentipedeGunner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeGunner.description>. ﺔﻌﻳﺮﺴﻟﺍ ﺔﻠﻘﻨﺘﻤﻟﺍ ﺕﺎﻜﻴﺘﻜﺘﻠﻟ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺔﺿﺮﻋ ﻲﻫﻭ. ﻦﻴﻌﻤﺠﺘﻤﻟﺍ ﻦﻴﺘﺑﺎﺜﻟﺍ ﻦﻴﻌﻓﺍﺪﻤﻟﺍ ﺪﺿ ﺍًﺪﺟ ﺔﻟﺎﻌﻓ ﺎﻬﻠﻌﺠﺗ ﺔﻳﻮﻘﻟﺍ ﺎﻬﻧﺍﺮﻴﻧﻭ ﺔﻜﻴﻤﺴﻟﺍ ﺎﻬﻋﻭﺭﺩ. ﺓﺮﻴﻐﺼﻟﺍ ﻞﺟﺭﻷﺍ ﺕﺍﺮﺸﻋ ﻰﻠﻋ ﻖﻟﺰﻨﺗ ﺔﻠﻴﻘﺛ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_CentipedeGunner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeGunner.tools.head.label>ﺱﺃﺭ</Mech_CentipedeGunner.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>ﻲﻟﺁ ٍﻡﺍﺭ</Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
+  <Mech_Lancer.description>. ﻢﺣﻼﺘﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ًﺔﺻﺎﺧ—ﺐﻳﺮﻘﻟﺍ ﻕﺎﻄﻨﻟﺍ ﻲﻓ ﺔﻠﻬﺳ ﺍًﻓﺍﺪﻫﺃ ﺎﻬﻠﻌﺠﻳ ﺎﻤﻣ ،ﺔﻔﻴﻔﺧ ﺎﻫﺩﺎﺴﺟﺃ. ﻞﻳﻮﻃﻭ ﻂﺳﻮﺘﻣ ﻯﺪﻣ ﻦﻣ ﻝﺎﺘﻘﻠﻟ ﺔﻤﻤﺼﻣ ،ﻥﺎﺴﻧﻹﺍ ﻢﺠﺤﺑ ﺔﻌﻳﺮﺳ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>ﻯﺮﺴﻳ ﺔﻀﺒﻗ</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.left_fist.labelNoLocation>ﺔﻀﺒﻗ</Mech_Lancer.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﺔﻀﺒﻗ</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.right_fist.labelNoLocation>ﺔﻀﺒﻗ</Mech_Lancer.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>ﺱﺃﺭ</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>ﺡِﻣﺍَﺭ</Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
+  <Mech_Pikeman.description>. ﻢﺣﻼﺘﻤﻟﺍﻭ ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﻒﻴﻌﺿ ﻮﻬﻓ ،ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ًﻻﺎﻌﻓ ﻥﻮﻜﻳ ﺎﻤﻨﻴﺑ. ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﺃ ﺔﺼﻨﻤﻛ ﺺﺼﺨﺘﻣ ﻢﺨﺿ ﻞﺟﺭﻷﺍ ﺩﺪﻌﺘﻣ ﻲﻟﺎﺘﻗ ﺕﻮﺑﻭﺭ\n\n. ﻪﺘﻘﺻﻼﻣ ﻮﻫ ﺢﻣﺍﺮﻟﺍ ﻝﻮﺣ ﺍًﻧﺎﻣﺃ ﺮﺜﻛﻷﺍ ﻥﺎﻜﻤﻟﺍ ﻥﺃ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺏﻭﺮﺣ ﻰﻣﺍﺪﻗ ﻑﺮﻌﻳ</Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <Mech_Pikeman.tools.front_left_leg.label>ﺔﻳﺭﺎﺴﻳ ﺔﻴﻣﺎﻣﺃ ﻕﺎﺳ</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>ﻕﺎﺳ</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Pikeman.tools.front_right_leg.label>ﻰﻧْﻣُﻳ ﺔﻴﻣﺎﻣﺃ ﻞﺟِﺭ</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>ﻕﺎﺳ</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Pikeman.tools.head.label>ﺱﺃﺭ</Mech_Pikeman.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>ﻲﻟﺁ ﻊﻃﺎﻗ</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>. ﺀﺎﻴﺣﺃ ﺎﻫﺎﻳﺎﺤﺿ ﻖﻳﺰﻤﺗ ﻭﺃ ﻑﺍﺮﻃﻷﺍ ﻊﻄﻘﻟ ﺎﻬﻴﻋﺍﺭﺫ ﻲﺗﺮﻔﺷ ﻲﺳﺎﺳﺃ ﻞﻜﺸﺑ ﻡﺪﺨﺘﺴﺗ ﺎﻬﻨﻜﻟ ،ﺕﺍﺮﻔﺷﻭ ﻁﺎﻘﻧ ﺎﻫﺩﺎﺴﺟﺃ ﻲﻄﻐﺗ. ﺐﻳﺮﻗ ﻯﺪﻣ ﻦﻣ ﻝﺎﺘﻘﻟﺍﻭ ﻊﻳﺮﺴﻟﺍ ﺏﺍﺮﺘﻗﻻﺍ ﻲﻓ ﺔﺼﺼﺨﺘﻣ ،ﻥﺎﺴﻧﻹﺍ ﻢﺠﺤﺑ ،ﺔﻠﻴﺤﻧ ،ﺔﻌﻳﺮﺳ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>ﺔﻳﺭﺎﺴﻳ ﺓﺮﻔﺷ</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.left_blade.labelNoLocation>ﺓﺮﻔﺷ</Mech_Scyther.tools.left_blade.labelNoLocation>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>ﻰﻨﻤﻳ ﺓﺮﻔﺷ</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.right_blade.labelNoLocation>ﺓﺮﻔﺷ</Mech_Scyther.tools.right_blade.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>ﺱﺃﺭ</Mech_Scyther.tools.head.label>
+  
+  <!-- EN: termite -->
+  <Mech_Termite.label>ﺾﻴﺑﺃ ﻞﻤﻧ</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>. ﺎﻫﺭﻮﻬﻇ ﺪﻨﻋ ﺎﻬﻌﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻭﺃ ،ﻢﻬﺗﺎﻋﺎﻓﺩ ﻕﺍﺮﺘﺧﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻥﺃ ﻞﺒﻗ ﺔﺿﺭﻷﺍ ﻰﻠﻋ ﺀﺎﻀﻘﻟﺍ ﻥﻮﻟﻭﺎﺤﻴﺳ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﺎﻣ ﺪﻳﺪﺤﺗ ﻰﻟﺇ ﻥﻮﻌﻓﺍﺪﻤﻟﺍ ﺝﺎﺘﺤﻳ. ﺔﻴﻋﺎﻓﺪﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻕﺍﺮﺘﺧﺍﻭ ﺐﻴﻘﻨﺘﻟﺍﻭ ﺮﻔﺤﻟﺍ ﻲﻓ ﺔﺿﺭﻷﺍ ﺺﺼﺨﺘﺗ. ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ ﺪﻳﻮﻧﺎﻜﻴﻣ</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>ﺱﺃﺭ</Mech_Termite.tools.head.label>
+  
+</LanguageData>

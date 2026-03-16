@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>ﻥﻮﺴﻴﺑ</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>. ﺮﻄﺧﻭ ﻊﻳﺮﺳ ﺎﻬﻨﻣ ﺐﺿﺎﻐﻟﺍ ﻦﻜﻟﻭ ،ﺔﻳﺎﻐﻠﻟ ﻊﻳﺩﻭ ﺎﻬﻨﻣ ﺽﻭﺮﻤﻟﺍﻭ ،ﺎﻧﺎﻓﺎﺴﻟﺍ ﻱﺭﺍﺮﺒﻟﺍ ﻲﻓ ﺮﻬﻈﻳ ﺕﺎﺒﻨﻠﻟ ﻞﻛﺁ ﺮﻴﺒﻛ ﻲﻳﺪﺛ</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>ﺱﺃﺭ</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Bison.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Bison.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>ﺏﻮﻟﺎﻣﻮﺑ</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>. ﺪﻳﺪﺷ ﺭﺬﺤﺑ - ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺝﺎﺘﻧﻹ ﻩُﺒﻠﺣ ﻦﻜﻤﻳﻭ. ﻪﺗﻮﻣ ﺪﻨﻋ ﺙﺪﺤﻳ ﻱﺬﻟﺍ ﻞﺋﺎﻬﻟﺍ ﺭﺎﺠﻔﻧﻻﺍ ﺐﺒﺴﺑ ﻪﺒﻨﺠﺗ ﻯﺮﺧﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺖﻤﻠﻌﺗ ﺪﻘﻓ ،ﻪﻤﺠﺤﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺶﻫﻭ ﻒﻴﻌﺿ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻩﺮﻬﻇ ﻰﻠﻋ ﺓﺮﻳﺎﻄﺘﻤﻟﺍ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺍًﺮﻴﺒﻛ ﺍًﺴﻴﻛ ﺏﻮﻟﺎﻣﻮﺒﻟﺍ ﻮﻤﻨﻳﻭ ،ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺝﺎﺘﻧﻹ ﻢﻣُﺻ</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>ﺱﺃﺭ</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Boomalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Boomalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>ﻮﺒﻳﺭﺎﻛ</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>. ﺔﻌﺘﻣﻷﺍ ﻞﻤﺣ ﺾﻓﺮﺗ ﺎﻬﻨﻜﻟ ،ﻮﺒﻳﺭﺎﻜﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ ﺐﻠﺣ ﻦﻜﻤﻳ. ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻲﻓ ﺓﺎﻴﺤﻠﻟ ﺪﻴﺟ ﻞﻜﺸﺑ ﻑّﻴﻜﺗُﻣ ،ﻥﻻﺰﻐﻟﺍ ﺔﻠﺋﺎﻋ ﻦﻣ ﺮﻴﺒﻛ ﻥﺍﻮﻴﺣ</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Caribou.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Caribou.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>ﺱﺃﺭ</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>ﺓﺮﻘﺑ</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>. ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﻊﻴﻄﺘﺴﺗ ﻻ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺔﻴﻋﺍﺭﺰﻟﺍ ﺓﺎﻴﺤﻟﺍ ﻊﻣ ﺔﻳﺎﻐﻠﻟ ﻒﻴﻜﺘﻣ ﺎﻬﻤﻈﻌﻣ. ﻯﺫﻸﻟ ﺎﻬﻴﻓ ﺽﺮﻌﺘﺗ ﻲﺘﻟﺍ ﺕﺍﺮﻤﻟﺍ ﺩﺪﻋ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ،ﺍًﺪﺑﺃ ﻡﺎﻘﺘﻧﻼﻟ ﻰﻌﺴﺗ ﻦﻟﻭ ﺔﻳﺎﻐﻠﻟ ﺔﻔﻴﻄﻟ ﺕﺎﻗﻮﻠﺨﻣ ﺎﻬﻧﺇ. ﺪﻠﺠﻟﺍﻭ ﻡﻮﺤﻠﻟﺍﻭ ﺐﻴﻠﺤﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻫ ﺕﺎﻴﻤﻛ ﺝﺎﺘﻧﻹ ﻦﻴﻨﺴﻟﺍ ﻑﻻﻵ ﺎﻬﺘﻴﺑﺮﺗ ﻢﺗ ﺪﻗﻭ ،ﺮﻓﺍﻮﺣ ﺕﺍﺫ ﺔﺴﻧﺄﺘﺴﻣ ﺓﺮﻴﺒﻛ ﺕﺎﻧﺍﻮﻴﺣ ﺭﺎﻘﺑﻷﺍ</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>ﻱﺮﻘﺑ ﻢﺤﻟ</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>ﺱﺃﺭ</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Cow.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Cow.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>ﺭﺎﻤﺣ</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>. ﺪﺣﺍﻭ ﻥﺁ ﻲﻓ ﺐﺒﺤﻣﻭ ﺞﻋﺰﻣ ﺐﻳﺮﻐﻟﺍ ﻪﺣﺎﻴﺻ. ﻲﻋﺍﺭﺰﻟﺍ ﻞﻤﻌﻠﻟ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻲﻓ ﻪﻨﻴﺟﺪﺗ ﻢﺗ ،ﻞﻴﺨﻟﺍ ﺔﻟﻼﺳ ﻦﻣ ﺮﻴﻐﺻ ﺭﺎﻤﺣ\n\n. ﺔﻠﻓﺎﻘﻟﺍ ﺔﻋﺮﺳ ﺓﺩﺎﻳﺰﻟ ﺮﻴﻤﺤﻟﺍ ﺏﻮﻛﺭ ﺱﺎﻨﻠﻟ ﻦﻜﻤﻳ ،ﺔﻠﻓﺎﻗ ﻲﻓ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>ﺱﺃﺭ</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Donkey.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Donkey.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>ﻞﻤﺟ</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>. ﻥﺎﺼﺤﻟﺍ ﻦﻣ ﺏﻮﻛﺮﻟﺍ ﻲﻓ ﺄﻄﺑﺃ ﻪﻠﻌﺠﺗ ﺓﺪﺗﺮﻤﻟﺍ ﻪﺘﻴﺸﻣ ﻦﻜﻟ ،ﺏﻮﻛﺭﻭ ﻞﻤﺣ ﻥﺍﻮﻴﺤﻛ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺔﻳﺎﻐﻠﻟ ٍﺬﻐﻣ ﻪﺒﻴﻠﺣﻭ ،ﺀﺍﺮﺤﺼﻟﺍ ﺓﺭﺍﺮﺣ ﺪﺿ ﻝﺰﻌﻟﺍ ﻲﻓ ﺯﺎﺘﻤﻣ ﻩﺪﻠﺟﻭ ،ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺬﻨﻣ ﻪﻨﻴﺟﺪﺗ ﻢﺗ. ﺔﻠﺣﺎﻘﻟﺍ ﺕﺎﺌﻴﺒﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻣ ﺮﻴﺒﻛ ﻲﺿﺭﺃ ﻲﻳﺪﺛ\n\n. ﺏﺮﺷ ﻥﻭﺩ ﻊﻴﺑﺎﺳﻷ ﺀﺎﻘﺒﻟﺍ ﻪﻨﻜﻤﻳ ،ﺮﻴﻓﺰﻟﺍ ﺪﻨﻋ ﻪﺳﺎﻔﻧﺃ ﻦﻣ ﺔﺑﻮﻃﺮﻟﺍ ﺓﺩﺎﻌﺘﺳﺍﻭ ﺮﻴﺒﻜﻟﺍ ﻪﻣﺎﻨﺳ ﻲﻓ ﺀﺎﻤﻟﺍ ﻦﻳﺰﺨﺗ ﻖﻳﺮﻃ ﻦﻋ\n\n. ﺔﻠﻓﺎﻘﻟﺍ ﺔﻋﺮﺳ ﺓﺩﺎﻳﺰﻟ ﻝﺎﻤﺠﻟﺍ ﺏﻮﻛﺭ ﺱﺎﻨﻠﻟ ﻦﻜﻤﻳ ،ﺔﻠﻓﺎﻗ ﻲﻓ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Dromedary.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Dromedary.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>ﺱﺃﺭ</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>ﻞﻴﻓ</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants have a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>. ﺎﻬﺨﻠﺳ ﻖﻳﺮﻃ ﻦﻋ ﺔﻤﻴﻘﻟﺍ ﺔﺘﻴﻤﻟﺍ ﻞﻴﻔﻟﺍ ﺏﺎﻴﻧﺃ ﺓﺩﺎﻌﺘﺳﺍ ﻦﻜﻤﻳ. ﻦﻴﻤﺟﺎﻬﻤﻟﺍ ﺏﺮﻀﻟ ﺎﻬﻣﺪﺨﺘﺴﺗ ﺓﺩﺎﺣ ﺍًﺑﺎﻴﻧﺃﻭ ،ﺀﺎﻴﺷﻷﺎﺑ ﺐﻋﻼﺘﻠﻟ ﻪﻣﺪﺨﺘﺴﺗ ﺍًﻠﻳﻮﻃ ﺍًﻋﺬﺟ ﺔﻠﻴﻔﻟﺍ ﻚﻠﺘﻤﺗ. ﻝّﺪﻌﻣ ﺮﻴﻏ ﻱﺮﺑ ﻥﺍﻮﻴﺣ ﺮﺒﻛﺃ\n\n. ﺖﻀﻣ ﺩﻮﻘﻋ ﻦﻣ ﺕﺎﻗﻼﻌﻟﺍﻭ ﺙﺍﺪﺣﻷﺍ ﺮﻛﺬﺘﺗ ﺎﻬﻧﺃ ﻑﻭﺮﻌﻤﻟﺍ ﻦﻣﻭ ،ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺔﻠﻴﻔﻟﺍ ﺶﻴﻌﺗ. ﺍًﺪﻴﻘﻌﺗ ﺮﺜﻛﻷﺍ ﻡﺎﻬﻤﻟﺍ ﺬﻴﻔﻨﺗ ﻰﻠﻋ ﺎﻬﺒﻳﺭﺪﺗ ﻭﺃ ﻞﻤﺣ ﺕﺎﻧﺍﻮﻴﺤﻛ ﺔﻠﻴﻔﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳﻭ ،ﺓﺪﻘﻌﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺕﺎﻗﻼﻋ ﺕﺍﺫ ﺔﻴﻛﺫ ﺕﺎﻨﺋﺎﻛ</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>ﺏﺎﻧ</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>ﺭﺎﺴﻳ ﻡﺪﻗ</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>ﻡﺪﻗ</Elephant.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>ﻰﻨﻤﻳ ﻡﺪﻗ</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>ﻡﺪﻗ</Elephant.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>ﺱﺃﺭ</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>ﻞﻳﺃ</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>. ﺔﻌﺘﻣﻷﺍ ﻞﻤﺣ ﺾﻓﺮﻳ ﻪﻨﻜﻟ ،ﺲﻧﺄﺘﺴﻤﻟﺍ ﻞﻳﻷﺍ ﺐﻠﺣ ﻦﻜﻤﻳ. ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻲﻓ ﺓﺎﻴﺤﻠﻟ ﺪﻴﺟ ﻞﻜﺸﺑ ﻒﻴﻜﺘﻣ ﻮﻫﻭ ،ﻥﻻﺰﻐﻟﺍ ﺔﻠﺋﺎﻋ ﻦﻣ ﺮﻴﺒﻛ ﻉﻮﻧ ﻞﻳﻷﺍ</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Elk.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Elk.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Elk.tools.head.label>ﺱﺃﺭ</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>ﺰﻋﺎﻣ</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>. ﺮﺸﺒﻟﺍ ﺎﻫﺍّﺑﺭ ﻲﺘﻟﺍ ﺍًﺩﻭ ﺔﻨﺟﺪﻤﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﺮﺜﻛﺃ ﻦﻣ ﻲﻫﻭ ،ﻢﻟﺎﻌﻟﺍ ﻝﻮﺣ ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﻴﻟﻮﻀﻓ ﺕﺎﻨﺋﺎﻛ ﺰﻋﺎﻤﻟﺍ</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>ﺱﺃﺭ</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>ﻥﺎﺼﺣ</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>. ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺬﻨﻣ ﻝﻮﻴﺨﻟﺍ ﻦﻴﺟﺪﺗ ﻢﺗ. ﻞﻳﻮﻃ ﻞﻳﺫﻭ ﺔﻠﻳﻮﻃ ﺓﺪﺒﻟﻭ ﺮﻴﺼﻗ ﻭﺮﻓﻭ ﺮﻓﺍﻮﺣ ﻭﺫ ﺮﻴﺒﻛ ﻲﻳﺪﺛ\n\n. ﺔﻠﻓﺎﻘﻟﺍ ﺔﻋﺮﺳ ﺓﺩﺎﻳﺰﻟ ﻝﻮﻴﺨﻟﺍ ﺏﻮﻛﺭ ﻪﻨﻜﻤﻳ ،ﺔﻠﻓﺎﻗ ﻲﻓ ﺺﺨﺸﻟﺍ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>ﻥﺎﺼﺣ ﻢﺤﻟ</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>ﺱﺃﺭ</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Horse.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>ﻮﻟﺎﻓﻮﻣ</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>. ﻞﻤﺣ ﺕﺎﻧﺍﻮﻴﺤﻛ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳﻭ ﺔﻳﺎﻐﻠﻟ ﺔﺋﺩﺎﻫ ﺔﻨﺟﺪﻤﻟﺍ ﻮﻟﺎﻓﻮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ ﻥﺃ ﻻﺇ ،ﺔﻠﺗﺎﻗ ﺔﺒﺿﺎﻐﻟﺍ ﻮﻟﺎﻓﻮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺀﺍﻮﺳ ﺪﺣ ﻰﻠﻋ ﺔﺌﻓﺍﺪﻟﺍﻭ ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺌﻴﺒﻟﺍ ﻊﻣ ﻑّﻴﻜﺗﻭ ﺱﻮﻣﺎﺠﻟﺍ ﺔﻟﻼﺳ ﻦﻣ ﻢﺨﺿ ﺐﺷﺎﻋ ﻥﺍﻮﻴﺣ\n\n. ﺍًﺪﺑﺃ ﻩﺮﻴﻴﻐﺗ ﻢﺘﻳ ﻢﻟ ﺮﻜﺒﻤﻟﺍ ﻲﻨﻴﺠﻟﺍ ﻞﻳﺪﻌﺘﻠﻟ ﺍًﺭﺎﺒﺘﺧﺍ ﻰﺘﺣ ﻥﻮﻜﻳ ﺪﻗ - ﺀﺎﻗﺭﺯ ﻲﻫ ﺍﺫﺎﻤﻟ ﺍًﻣﺎﻤﺗ ﺪﻛﺄﺘﻣ ﺪﺣﺃ ﻻ</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>ﺱﺃﺭ</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Muffalo.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Muffalo.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>. ﻢﻫﺩﺎﺴﺟﺃ ﻞﻣﺎﻛ ﻲﻓ ﺮﺸﺒﻟﺍ ﻢﻈﻌﻣ ﻯﺪﻟ ﺎﻤﻣ ﺓﺪﺣﺍﻭ ﻕﺎﺳ ﻲﻓ ﺮﺜﻛﺃ ﺕﻼﻀﻋ ﻪﻳﺪﻟ. ﺍًﻴﺸﺣﻭ ﺍًﻤﺼﺧ ﻪﻠﻌﺠﻳ ﺩﺎﺤﻟﺍ ﻪﻧﺮﻗﻭ ﺔﻠﺋﺎﻬﻟﺍ ﻪﺗﻮﻗ ﻥﺈﻓ ،ﺐﻀﻐﻳ ﻥﺃ ﺩﺮﺠﻤﺑ. ﺍًﺪﺟ ﻪﺑﺎﻀﻏﺇ ﻞﻬﺴﻳ ﺮﻴﺒﻜﻟﺍ ﻲﻳﺪﺜﻟﺍ ﺍﺬﻫ ﻥﺈﻓ ،ﺍًﺒﺷﺎﻋ ﻪﻧﻮﻛ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>ﻥﺮﻗ</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>ﻥﺮﻗ</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>ﺱﺃﺭ</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>ﻙﺎﻳ</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>. ﺞﻠﺜﻟﺍ ﻲﻓ ﻲﺸﻤﻟﺍ ﻰﻠﻋ ﺎﻫﺪﻋﺎﺴﺗ ﺓﺮﺸﺘﻨﻣﻭ ﺓﺮﻳﺪﺘﺴﻣ ﺔﻗﻮﻘﺸﻣ ﺮﻓﺍﻮﺣﻭ ،ﺔﻜﻴﻤﺳ ﺎﻬﻨﻜﻟ ﺓﺮﻴﺼﻗ ﻞﺟﺭﺃﻭ ﻢﺨﺿ ﻞﻜﻴﻫ ﺕﺍﺫ ﺔﻴﻨﺒﻟﺍ ﺔﻳﻮﻗ ﺔﻴﺷﺎﻣ ﻙﺎﻴﻟﺍ</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>ﻙﺎﻴﻟﺍ ﻢﺤﻟ</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>ﺱﺃﺭ</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>ﺮﺴﻳﺃ ﺮﻓﺎﺣ</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>ﺮﻓﺎﺣ</Yak.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>ﻦﻤﻳﺃ ﺮﻓﺎﺣ</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>ﺮﻓﺎﺣ</Yak.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

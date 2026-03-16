@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.description>{PAWN_gender ? سافر [PAWN_nameDef] مع فرقة تمثيل، يؤدي في مسارح مكتظة وجماهير محبة في كل مكان. كان رجلاً يسعى للكمال، وصنع الدعائم والأزياء بنفسه بدلاً من استخدام تلك التي أُعطيت له. : سافرت [PAWN_nameDef] مع فرقة تمثيل، وقدمت عروضًا في مسارح مكتظة وجذبت جمهورًا محبًا في كل مكان. كانت شديدة التدقيق، وصنعت الدعائم والأزياء الخاصة بها بدلًا من استخدام تلك التي أُعطيت لها.}</Actor72.description>
+  <!-- EN: actor -->
+  <Actor72.title>ممثل</Actor72.title>
+  <Actor72.titleFemale>ممثلة</Actor72.titleFemale>
+
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.description>{PAWN_gender ? كان [PAWN_nameDef] معروفًا جيدًا في الأوساط الفنية في عالمه الأصلي لأعماله الفنية المفاهيمية الفريدة والإبداعية.\n\nلم يكن أحد متأكدًا تمامًا مما كان يحاول توصيله، لكن قطعه كانت ذات قيمة عالية لدى هواة الجمع. : كانت [PAWN_nameDef] مشهورة في الأوساط الفنية على كوكبها الأم لأعمالها الفنية المفاهيمية الفريدة والإبداعية.\n\nلم يكن أحد متأكداً تماماً مما كانت تحاول توصيله، لكن أعمالها كانت موضع تقدير كبير من قبل الجامعين.}</ConceptualArtist39.description>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>فنان مفاهيمي</ConceptualArtist39.title>
+
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] traveled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.description>{PAWN_gender ? لم يتمكن [PAWN_nameDef] أبدًا من معرفة ماذا يفعل بحياته. سافر كثيرًا، وتقلد أعمالًا عرضية أينما وجدها.\n\nكما أنه عمل أحيانًا على رواية كان يعلم أنها ستصبح رائجة المبيعات—بمجرد أن يتمكن من العثور على ناشر مهتم. : لم تكتشف [PAWN_nameDef] أبداً ما الذي يجب أن تفعله بحياتها. سافرت كثيراً، وتقبلت أعمالاً عرضية أينما وجدتها.\n\nكما أنها عملت أحياناً على رواية كانت تعرف أنها ستصبح رائجة المبيعات—بمجرد أن تجد ناشراً مهتماً.}</Drifter67.description>
+  <!-- EN: drifter -->
+  <Drifter67.titleFemale>{PAWN_gender ? متجول : متجولة}</Drifter67.titleFemale>
+
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.description>{PAWN_gender ? قضى [PAWN_nameDef] معظم حياته في السجون، حيث أُجبر على العمل في المطابخ. كان لديه عادة الدخول في المشاجرات، وطور طريقة عدوانية في الكلام. : قضت [PAWN_nameDef] معظم حياتها في السجون، حيث أُجبرت على العمل في المطابخ. كانت لديها عادة الدخول في المشاجرات، وطورت طريقة عدوانية في الكلام.}</Jailbird40.description>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>طائر السجن</Jailbird40.title>
+
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.description>{PAWN_gender ? أجرى [PAWN_nameDef] أبحاثًا رياضية في جامعة.\n\nقضى معظم وقته الحر منغمسًا في محاكاة الرماية، على الرغم من أنه غالبًا ما كان يسخر منه اللاعبون الآخرون بسبب سوء تصويبه. : أجرت [PAWN_nameDef] أبحاثًا رياضية في جامعة.\n\nأمضت معظم وقت فراغها منغمسة في محاكاة الرماية، على الرغم من أنها كانت تتعرض للسخرية بشكل متكرر من قبل اللاعبين الآخرين بسبب سوء تصويبها.}</Mathematician6.description>
+
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.description>{PAWN_gender ? أدار [PAWN_nameDef] مزرعة للماشية. حلل علم الوراثة الحيواني وأنواع الأعلاف وطرق الولادة والذبح واتجاهات الأسعار لتحسين تربية قطعان كبيرة من الحيوانات. : أدارت [PAWN_nameDef] مزرعة للماشية. قامت بتحليل علم الوراثة الحيواني وأنواع الأعلاف وطرق الولادة والذبح واتجاهات الأسعار لتحسين تربية قطعان كبيرة من الحيوانات.}</LivestockFarmer8.description>
+
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.description>{PAWN_gender ? امتلك [PAWN_nameDef] وأدار مزرعة ناجحة حيث ربى الحيوانات للحوم والصوف.\n\nرفض أن يقوم بأي عمل أحمق كان بإمكانه أن يدفع لشخص آخر للقيام به نيابة عنه. : امتلكت [PAWN_nameDef] وأدارت مزرعة ناجحة حيث ربّت الحيوانات للحوم والصوف.\n\nرفضت أن تقوم بأي عمل أحمق يمكنها أن تدفع لشخص آخر للقيام به نيابة عنها.}</Rancher43.description>
+
+</LanguageData>

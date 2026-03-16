@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversational abilities. -->
+  <Castaway57.description>{PAWN_gender ? . ﻩﺪﺠﺗ ﻥﺃ ﺎﻬﻨﻜﻤﻳ ﺎﻤﺑ ﺀﺎﻘﺒﻟﺍ ﻞﺟﺃ ﻦﻣ ﺖﺤﻓﺎﻛ ،ﺎﻫﺫﺎﻘﻧﺇ ﻰﺘﺣ ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ. ﻝﻮﻫﺄﻣ ﺮﻴﻏ ﻲﻧﺍﻮﻴﺣ ﻢﻟﺎﻋ ﻰﻠﻋ ﺔﻨﻴﻔﺳ ﻢﻄﺤﺗ ﻦﻣ ﺓﺪﻴﺣﻮﻟﺍ ﺔﻴﺟﺎﻨﻟﺍ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﺔﺛﺩﺎﺤﻤﻟﺍ ﻰﻠﻋ ﺎﻬﺗﺭﺪﻗ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺪﻤﺧﺃ ﺎﻫﺩﺮﻔﻤﺑ ﻞﻳﻮﻃ ﺖﻗﻭ ﺀﺎﻀﻗ ﻦﻜﻟ ،ﻦﻴﻜﺴﻟﺎﻛ ﺓﺩﺎﺣ ﺎﻬﺋﺎﻘﺑ ﺕﺍﺭﺎﻬﻣ ﺖﺤﺒﺻﺃ : . ﻩﺪﺠﻳ ﻥﺃ ﻪﻨﻜﻤﻳ ﺎﻤﺑ ﺀﺎﻘﺒﻟﺍ ﻞﺟﺃ ﻦﻣ ﺢﻓﺎﻛ ،ﻩﺫﺎﻘﻧﺇ ﻰﺘﺣ ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ. ﻝﻮﻫﺄﻣ ﺮﻴﻏ ﻲﻧﺍﻮﻴﺣ ﻢﻟﺎﻋ ﻰﻠﻋ ﺔﻨﻴﻔﺳ ﻢﻄﺤﺗ ﻦﻣ ﺪﻴﺣﻮﻟﺍ ﻲﺟﺎﻨﻟﺍ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﺔﺛﺩﺎﺤﻤﻟﺍ ﻰﻠﻋ ﻪﺗﺭﺪﻗ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻒﻌﺿﺃ ﻩﺩﺮﻔﻤﺑ ﻞﻳﻮﻃ ﺖﻗﻭ ﺀﺎﻀﻗ ﻦﻜﻟ ،ﻦﻴﻜﺴﻟﺎﻛ ﺓﺩﺎﺣ ﻪﺋﺎﻘﺑ ﺕﺍﺭﺎﻬﻣ ﺖﺤﺒﺻﺃ}</Castaway57.description>
+  <!-- EN: castaway -->
+  <Castaway57.title>ﺫﻮﺒﻨﻣ</Castaway57.title>
+  <Castaway57.titleFemale>ﺓﺫﻮﺒﻨﻣ</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>ﻱﺮﺤﺑ ﺫﻮﺒﻨﻣ</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>ﺓﺫﻮﺒﻨﻣ</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.description>{PAWN_gender ? . ﻕِﺪﺣُﻤﻟﺍ ِﺮﻄﺨﻟﺎﺑ َﻦﻳﺮﺧﻵﺍ ًﺓﺭِﺬﻧُﻣﻭ ،ﺔﺟِّﻫﻮﺗُﻤﻟﺍ ِﺕﺎﻳﺮﻄﻔﻟﺎﺑ ﺎﻬﻴﻓ ُﺮﻔﺤﻟﺍ ُﺐﺠﻳ ﻲﺘﻟﺍ َﻦﻛﺎﻣﻷﺍ ًﺓﺩِّﺪﺣُﻣ ،َﻖﻳﺮﻄﻟﺍ ُﺩﻮﻘﺗ ْﺖﻧﺎﻛ. ٍﺔﻤﻴﻜﺤﻛ [PAWN_nameDef] ـﻙ ّﻱﻮﻘﻟﺍ ِﺮﺼﺒﻟﺍ ُﺔﺒﺣﺎﺻ ُﺭَّﻗﻭُﺗ ،ﻕﺎﻔﻧﻷﺍ ﻥﺎﻜﺳ ﻦﻴﺑ : . ﻚﻴﺷﻮﻟﺍ ﺮﻄﺨﻟﺍ ﻦﻣ ﻦﻳﺮﺧﻵﺍ ﺍًﺭﺬﺤﻣﻭ ،ﺍًﻴﺟﻮﻟﻮﻴﺑ ﺔﺌﻴﻀﻤﻟﺍ ﺕﺎﻳﺮﻄﻔﻟﺎﺑ ﺎﻬﻴﻓ ﺮﻔﺤﻟﺍ ﺐﺠﻳ ﻲﺘﻟﺍ ﻦﻛﺎﻣﻷﺍ ﺍًﺩِّﺪﺣُﻣ ،ﻖﻳﺮﻄﻟﺍ ﺩﻮﻘﻴﺳ ﻥﺎﻛ. ﺀﺎﻤﻜﺤﻟﺎﻛ [PAWN_nameDef] ﺮﺼﺑ ﻞﺜﻣ ﻱﻮﻗ ﺮﺼﺒﺑ ﻥﻮﻌﺘﻤﺘﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﺭّﻗﻭُﻳ ،ﻕﺎﻔﻧﻷﺍ ﻥﺎﻜﺳ ﻦﻴﺑ}</CaveworldIlluminator95.description>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>ﻑﻮﻬﻜﻟﺍ ﻢﻟﺎﻋ ﺮﻴﻨﻣ</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>ﻑﻮﻬﻜﻟﺍ ﺓﺭﺎﻨﻣ</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>ﺭﻮﻨﻣ</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>ﺓﺭﺎﻨﻣ</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.description>{PAWN_gender ? . ﺪﻳﺪﺟ ﻱﺭﺎﻤﻌﺘﺳﺍ ﻢﻟﺎﻋ ﻲﻓ ﺔﻨﻃﻮﺘﺴﻣ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻡﺎﻬﻤﻟﺍ ﺀﺍﺩﺃ ﻰﻠﻋ ﺍًﺭﺩﺎﻗﻭ ﺕﻻﺎﺠﻤﻟﺍ ﻊﻴﻤﺟ ﻲﻓ ﺍًﻋﺭﺎﺑ ﺍًﺼﺨﺷ ﺓﺎﻴﺤﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ : . ﺪﻳﺪﺟ ﻱﺭﺎﻤﻌﺘﺳﺍ ﻢﻟﺎﻋ ﻲﻓ ﺍًﻨﻃﻮﺘﺴﻣ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻡﺎﻬﻤﻟﺍ ﺀﺍﺩﺃ ﻰﻠﻋ ﺍًﺭﺩﺎﻗﻭ ﺕﻻﺎﺠﻤﻟﺍ ﻊﻴﻤﺟ ﻲﻓ ﺍًﺮﻫﺎﻣ ﺍًﺼﺨﺷ ﺓﺎﻴﺤﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ}</ColonySettler53.description>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>ﺓﺮﻤﻌﺘﺴﻣ ﻦﻃﻮﺘﺴﻣ</ColonySettler53.title>
+  <ColonySettler53.titleFemale>ﺔﻨﻃﻮﺘﺴﻣ</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>ﻦﻃﻮﺘﺴﻣ</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>ﺔﻨﻃﻮﺘﺴﻣ</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.description>{PAWN_gender ? . ﺍًﻀﻳﺃ ﺔﻧﺎﺤﻟﺍ ﻲﻓ ﺭﺎﺠﺷ ﻲﻓ ﺔﺌﻴﺳ ﻦﻜﺗ ﻢﻟﻭ—ﺍًﻴﻣﻮﻳ ﺔﻴﻠﻤﻌﻟﺍ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﺎﻬﺗﺍﺭﺎﻬﻣ ﺖﻣﺪﺨﺘﺳﺍ. ﺔﻘﻴﻤﻋ ﺔﻴﺋﺎﻀﻓ ﺔﺼﻨﻣ ﻰﻠﻋ ﺕﺎﺒﻜﻳﻮﻜﻟﺍ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻲﻓ ﻞﺜﻤﺘﻤﻟﺍ ﺐﻌﺘﻤﻟﺍﻭ ﻕﺎﺸﻟﺍ ﻞﻤﻌﻟﺎﺑ [PAWN_nameDef] ﺖﻣﺎﻗ : . ﺍًﻀﻳﺃ ﺔﻧﺎﺤﻟﺍ ﻲﻓ ﺭﺎﺠﺷ ﻲﻓ ﺍًﺌﻴﺳ ﻦﻜﻳ ﻢﻟﻭ—ﺍًﻴﻣﻮﻳ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﺔﻴﻠﻤﻌﻟﺍ ﻪﺗﺍﺭﺎﻬﻣ ﻡﺪﺨﺘﺳﺍ. ﺔﻘﻴﻤﻋ ﺔﻴﺋﺎﻀﻓ ﺔﺼﻨﻣ ﻲﻓ ﺕﺎﺒﻜﻳﻮﻜﻟﺍ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﻕّﺮﻌﺘﻤﻟﺍﻭ ﻕﺎﺸﻟﺍ ﻞﻤﻌﻟﺎﺑ [PAWN_nameDef] ﻡﺎﻗ}</DeepSpaceMiner3.description>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>ﻖﻴﻤﻋ ﺀﺎﻀﻓ ﻢﺠﻨﻣ</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleFemale>ﻲﺋﺎﻀﻓ ﻦﻳﺪﻌﺗ ﺔﺒﻘﻨﻣ</DeepSpaceMiner3.titleFemale>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>ﻢﺠﻨﻣ</DeepSpaceMiner3.titleShort>
+  <DeepSpaceMiner3.titleShortFemale>ﺔﺒﻘﻨﻣ</DeepSpaceMiner3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.description>{PAWN_gender ? . ﻊﺋﺎﻀﺒﻟﺍ ﻞﻘﻨﺗ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﻝﻮﻴﺨﻟﺍﻭ ﻝﺎﻐﺒﻟﺍ ﺔﻳﺎﻋﺭ ﺍًﻀﻳﺃ ﺎﻬﻠﻤﻋ ﻦﻤﻀﺗ. ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻊﻨﺼﻣ ﻲﻓ ﺓﺮﻫﺎﻣ ﺮﻴﻏ ﺔﻳﻭﺪﻳ ﺍًﻟﺎﻤﻋﺃ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﻊﺋﺎﻀﺒﻟﺍ ﻞﻘﻨﺗ ﻲﺘﻟﺍ ﻝﻮﻴﺨﻟﺍﻭ ﻝﺎﻐﺒﻟﺍ ﺔﻳﺎﻋﺭ ﺍًﻀﻳﺃ ﻪﺘﻔﻴﻇﻭ ﺖﻨﻤﻀﺗ. ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻊﻨﺼﻣ ﻲﻓ ﺓﺮﻫﺎﻣ ﺮﻴﻏ ﺔﻳﻭﺪﻳ ﺍًﻟﺎﻤﻋﺃ [PAWN_nameDef] ﻞﻤﻋ}</FactoryWorker58.description>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>ﻊﻨﺼﻣ ﻞﻣﺎﻋ</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>ﻊﻨﺼﻣ ﺔﻠﻣﺎﻋ</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>ﻞﻣﺎﻋ</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>ﺔﻠﻣﺎﻋ</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.description>{PAWN_gender ? . ﺎﻬﺘﻟﻭﺩ ﺕﺎﻘﻔﻧﻭ ﺔﻴﻟﺎﻣ ﻥﻭﺆﺷ ﻊﺒﺘﺘﻟ [PAWN_nameDef] ﻒﻴﻇﻮﺗ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻢﻟﺎﻋ ﻦﻣ ﺔﻴﻏﺎﻃ ﺕﺭﺮﻗ. ﺎﻬﺳﺃﺭ ﻲﻓ ﺓﺪﻘﻌﻣ ﺕﺎﺑﺎﺴﺣ ﺀﺍﺮﺟﺇ ﻲﻓ ﺔﺒﻫﻮﻣﻭ ﺓﺯﺎﺘﻤﻣ ﺓﺮﻛﺍﺬﺑ ﻊﺘﻤﺘﺗ [PAWN_nameDef] ﻥﺃ ﻦﻴﺒﺗ : . ﻪﺘﻟﻭﺩ ﺕﺎﻘﻔﻧﻭ ﺔﻴﻟﺎﻣ ﻥﻭﺆﺷ ﻊﺒﺘﺘﻟ [PAWN_nameDef] ﻒﻴﻇﻮﺗ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻢﻟﺎﻋ ﻦﻣ ﺔﻴﻏﺎﻃ ﺭﺮﻗ. ﻪﻨﻫﺫ ﻲﻓ ﺓﺪﻘﻌﻤﻟﺍ ﺔﻴﺑﺎﺴﺤﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇ ﻲﻓ ﺔﺒﻫﻮﻣﻭ ﺓﺯﺎﺘﻤﻣ ﺓﺮﻛﺍﺬﺑ ﻊﺘﻤﺘﻳ [PAWN_nameDef] ﻥﺃ ﻦﻴﺒﺗ}</HumanComputer83.description>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>{PAWN_gender ? ﺔﻳﺮﺸﺑ ﺔﺒﺳﺎﺣ : ﻱﺮﺸﺑ ﺏﻮﺳﺎﺣ}</HumanComputer83.title>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>ﺏﻮﺳﺎﺣ</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.description>{PAWN_gender ? . ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻌﺘﻣ ﻢﻴﻈﻌﺘﻟ ﺓﺭﻮﻄﺘﻤﻟﺍ ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﺞﻣﺍﺮﺑ ﺭﻮﻄﺗ ،ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺮﺒﺘﺨﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺀﺍﺩﻮﺴﻟﺍ ﻕﻮﺴﻟﺍ ﻲﻓ ﺎﻬﺗﺎﺠﺘﻨﻣ ﻊﻴﺒﺑ ﺕﺃﺪﺑ ،ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﻊﻴﻨﺼﺗ ﻰﻠﻋ ﺔﻣﺭﺎﺻ ﺍًﺩﻮﻴﻗ ﺔﻴﻠﺤﻤﻟﺍ ﺔﻣﻮﻜﺤﻟﺍ ﺖﺿﺮﻓ ﺎﻣﺪﻨﻋ : . ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻌﺘﻣ ﻢﻴﻈﻌﺘﻟ ﺓﺭﻮﻄﺘﻤﻟﺍ ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﺞﻣﺍﺮﺑ ﺮﻳﻮﻄﺘﻟ ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺮﺒﺘﺨﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﺀﺍﺩﻮﺴﻟﺍ ﻕﻮﺴﻟﺍ ﻲﻓ ﻪﺗﺎﺠﺘﻨﻣ ﻊﻴﺒﺑ ﺃﺪﺑ ،ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﻊﻴﻨﺼﺗ ﻰﻠﻋ ﺔﻣﺭﺎﺻ ﺍًﺩﻮﻴﻗ ﺔﻴﻠﺤﻤﻟﺍ ﺔﻣﻮﻜﺤﻟﺍ ﺖﺿﺮﻓ ﺎﻣﺪﻨﻋ}</JoywireArtist8.description>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>{PAWN_gender ? ﺔﻧﺎﻨﻓ ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ : ﻥﺎﻨﻓ ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ}</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>{PAWN_gender ? ﻙﻼﺳﻷﺍ ﺔﺠﻬﺑُﻣ : ﻙﻼﺳﻷﺍ ﺡِّﺭَﻓُﻣ}</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.description>{PAWN_gender ? . ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺔﻴﻣﺍﺮﺟﺇ ﺔﺑﺎﻘﻧ ﻲﻓ ﻯﻮﺘﺴﻤﻟﺍ ﺔﻌﻴﻓﺭ ﺓﻮﻀﻋ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﺔﻳﺭﻭﺮﺿ ﺔﻠﻴﺳﻭ ﻱﺄﺑ — ﺓﺮﺧﺄﺘﻤﻟﺍ ﺕﺎﻋﻮﻓﺪﻤﻟﺍ ﺺﻠﺨﺘﺴﺗﻭ ،ﺎﻬﺗﺎﺳﻭﺅﺮﻣ ﺀﻻﻭ ﻰﻠﻋ ﻆﻓﺎﺤﺗﻭ ،ﻦﻴﻟﻭﺆﺴﻤﻟﺍ ﻲﺷﺮﺗ ﺖﻧﺎﻛ : . ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺔﻴﻣﺍﺮﺟﺇ ﺔﺑﺎﻘﻧ ﻲﻓ ﻯﻮﺘﺴﻤﻟﺍ ﻊﻴﻓﺭ ﺍﻮﻀﻋ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻦﻤﺛ ﻱﺄﺑ — ﺓﺮﺧﺄﺘﻤﻟﺍ ﺕﺎﻋﻮﻓﺪﻤﻟﺍ ﺺﻠﺨﺘﺳﺍﻭ ،ﻪﻴﺳﻭﺅﺮﻣ ﺀﻻﻭ ﻰﻠﻋ ﻆﻓﺎﺣﻭ ،ﻦﻴﻟﻭﺆﺴﻤﻟﺍ ﻰﺷﺭ ﺪﻘﻟ}</MafiaBoss17.description>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>ﺎﻴﻓﺎﻤﻟﺍ ﺲﻴﺋﺭ</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>ﺎﻴﻓﺎﻣ ﺔﺴﻴﺋﺭ</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>ﺲﻴﺋﺭ</MafiaBoss17.titleShort>
+  <MafiaBoss17.titleShortFemale>ﺔﺴﻴﺋﺭ</MafiaBoss17.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.description>{PAWN_gender ? . ﺔﻧﺎﺴﻧﺈﻛ ﺎﻬﻨﻣ ﺮﺜﻛﺃ ﻥﺍﻮﻴﺤﻛ ﺖﻠﻣﻮﻋ ﺪﻗﻭ ،ﺔﻴﺴﻔﻨﻟﺍ ﺽﺍﺮﻣﻸﻟ ﺪﻴﺟ ﻢﻬﻓ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻲﻠﺻﻷﺍ ﺎﻬﻤﻟﺎﻋ ﻥﺎﻛ. ﺔﻴﻠﻘﻌﻟﺍ ﺽﺍﺮﻣﻸﻟ ﺢﺼﻣ ﻲﻓ ﺔﻐﻟﺎﺒﻟﺍ ﺎﻬﺗﺎﻴﺣ ﻢﻈﻌﻣ [PAWN_nameDef] ﺖﻀﻗ\n\n. ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﺗﺎﻴﺤﻟﺍ ﺎﻬﺗﺍﺭﺎﻬﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺖﻔﻌﺿﺃ ﺎﻬﺘﺑﺮﺠﺗ ﻥﺃ ﻻﺇ ،ﺎﻬﺣﺍﺮﺳ ﻕِﻠﻃُﺃﻭ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺖﻓﺎﻌﺗ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ : . ﺍًﺼﺨﺷ ﻪﻧﻮﻛ ﻦﻣ ﺮﺜﻛﺃ ﻥﺍﻮﻴﺤﻛ ﻞﻣﺎﻌﻳ ﻥﺎﻛﻭ ،ﺔﻴﺴﻔﻨﻟﺍ ﺽﺍﺮﻣﻸﻟ ﺪﻴﺟ ﻢﻬﻓ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻲﻠﺻﻷﺍ ﻪﺒﻛﻮﻛ ﻥﺎﻛ. ﺔﻴﻠﻘﻌﻟﺍ ﺽﺍﺮﻣﻸﻟ ﺢﺼﻣ ﻲﻓ ﻎﻟﺎﺒﻛ ﻪﺗﺎﻴﺣ ﻢﻈﻌﻣ [PAWN_nameDef] ﻰﻀﻗ\n\n. ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﺗﺎﻴﺤﻟﺍ ﻪﺗﺍﺭﺎﻬﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺖﻔﻌﺿﺃ ﻪﺘﺑﺮﺠﺗ ﻥﺃ ﻻﺇ ،ﻪﺣﺍﺮﺳ ﻖﻠﻃﺃﻭ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻰﻓﺎﻌﺗ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ}</PsychiatricPatient94.description>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>ﻲﺴﻔﻧ ﺾﻳﺮﻣ</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleFemale>ﺔﻴﺴﻔﻧ ﺔﻀﻳﺮﻣ</PsychiatricPatient94.titleFemale>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>ﺾﻳﺮﻣ</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>ﺔﻀﻳﺮﻣ</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.description>{PAWN_gender ? . ﻥﺎﻴﺣﻷﺍ ﺾﻌﺑ ﻲﻓ ﺏﺮﺸﻟﺍ ﻥﻮﻟﺎﺻ ﻲﻓ ﻲﺋﺍﻮﺸﻌﻟﺍ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ،ﺕﺎﻋﺍﺰﻨﻟﺍ ﺔﻳﻮﺴﺗﻭ ،ﺓﺮﻴﻐﺼﻟﺍ ﻢﺋﺍﺮﺠﻟﺍ ﻊﻣ ﺖﻠﻣﺎﻌﺗ. ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻦﻣ ﺔﻟﻭﺰﻌﻣ ﺓﺪﻠﺑ ﻲﻓ ﻥﻮﻧﺎﻘﻟﺍ ﺓﺬﻔﻧُﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺮﺧﻵ ﻦﻴﺣ ﻦﻣ ﻯﺭﺎﻜﺴﻟﺍ ﻥﻮﻟﺎﺻ ﻲﻓ ﻲﺋﺍﻮﺸﻌﻟﺍ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ﺕﺎﻋﺍﺰﻨﻟﺍ ﺔﻳﻮﺴﺗﻭ ﺓﺮﻴﻐﺼﻟﺍ ﻢﺋﺍﺮﺠﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺗ. ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻦﻣ ﺔﻟﻭﺰﻌﻣ ﺓﺪﻠﺑ ﻲﻓ ﻥﻮﻧﺎﻘﻟﺍ ﺬﻔﻨﻣ ﻮﻫ [PAWN_nameDef] ﻥﺎﻛ}</Sheriff52.description>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>ﻒﻳﺮﺷ</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>{PAWN_gender ? ﺓﺮﻴﻔﺧ : ﺮﻴﻔﺧ}</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.description>{PAWN_gender ? . ﺓﺮﻴﺒﻛ ﺔﻴﻟﺎﻌﻔﺑ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺪﺣﻮﻟﺍ ﺓﺩﺎﻴﻗ ﻲﻓ ﺓﺮﻫﺎﻣ ﺖﺤﺒﺻﺃﻭ ،ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓ ﺩﺎﺣ ﻞﻘﻌﺑ ﻊﺘﻤﺘﺗ ﺎﻬﻧﺃ ﺢﻀﺗﺍ. ﻕﺎﻄﻨﻟﺍ ﺔﻌﺳﺍﻭ ﺔﻴﺒﻛﻮﻜﻟﺍ ﺏﻭﺮﺤﻟﺎﺑ ﺀﻴﻠﻣ ،ﺮﻘﺘﺴﻣ ﺮﻴﻏ ﻡﺎﻈﻧ ﻲﻓ ﻲﺋﺎﻀﻔﻟﺍ ﻝﻮﻄﺳﻷﺍ ﻰﻟﺇ [PAWN_nameDef] ﺖﻤﻀﻧﺍ : . ﺓﺮﻴﺒﻛ ﺔﻴﻟﺎﻌﻔﺑ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺪﺣﻮﻟﺍ ﺓﺩﺎﻴﻗ ﻲﻓ ﺍًﻋﺭﺎﺑ ﺢﺒﺻﺃﻭ ،ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺩﺎﺣ ﻞﻘﻌﺑ ﻊﺘﻤﺘﻳ ﻪﻧﺃ ﻦﻴﺒﺗ. ﻕﺎﻄﻨﻟﺍ ﺔﻌﺳﺍﻭ ﺔﻴﺒﻛﻮﻜﻟﺍ ﺏﻭﺮﺤﻟﺎﺑ ﺀﻴﻠﻣ ،ﺮﻘﺘﺴﻣ ﺮﻴﻏ ﻡﺎﻈﻧ ﻲﻓ ﻲﺋﺎﻀﻔﻟﺍ ﻝﻮﻄﺳﻷﺍ ﻰﻟﺇ [PAWN_nameDef] ﻢﻀﻧﺍ}</SpaceTactician28.description>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>ﻲﺋﺎﻀﻓ ﻲﻜﻴﺘﻛﺎﺗ</SpaceTactician28.title>
+  <SpaceTactician28.titleFemale>ﺔﻴﺋﺎﻀﻓ ﺔﻴﻜﻴﺘﻜﺗ</SpaceTactician28.titleFemale>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>ﻲﺠﻴﺗﺍﺮﺘﺳﺍ ﻂﻄﺨﻣ</SpaceTactician28.titleShort>
+  <SpaceTactician28.titleShortFemale>ﺔﻄﻄﺨﻣ</SpaceTactician28.titleShortFemale>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.description>{PAWN_gender ? . ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﻢﻴﺤﺸﺗﻭ ،ﺔﺣﻼﻤﻟﺍ ﺔﻤﻈﻧﺃ ﻦﻣ ﻖﻘﺤﺘﻟﺍﻭ ،ﺶﻴﺘﻔﺘﻟﺍ ﺕﺎﻴﻠﻤﻋ ﺀﺍﺮﺟﻹ ﺔﻳﺭﻭﺩ ﺕﺍﺮﺘﻓ ﻰﻠﻋ ﻆﻘﻴﺘﺴﺗ ﻥﺃ [PAWN_nameDef] ﻰﻠﻋ ﻥﺎﻛ ،ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺖﻴﺑﺍﻮﺗ ﻲﻓ ﺔﻴﻤﺠﻨﻟﺍ ﺔﻤﻈﻧﻷﺍ ﻦﻴﺑ ﻢﻬﺗﺍﻮﻨﺳ ﺏﺎﻛﺮﻟﺍ ﺔﻴﻘﺑ ﻲﻀﻘﺗ ﺎﻤﻨﻴﺑ : . ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﻢﻴﺤﺸﺗﻭ ،ﺔﺣﻼﻤﻟﺍ ﺔﻤﻈﻧﺃ ﻦﻣ ﻖﻘﺤﺘﻟﺍﻭ ،ﺶﻴﺘﻔﺘﻟﺍ ﺕﺎﻴﻠﻤﻋ ﺀﺍﺮﺟﻹ ﺔﻳﺭﻭﺩ ﺕﺍﺮﺘﻓ ﻰﻠﻋ ﻆﻘﻴﺘﺴﻳ ﻥﺃ [PAWN_nameDef] ﻰﻠﻋ ﻥﺎﻛ ،ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺖﻴﺑﺍﻮﺗ ﻲﻓ ﺔﻴﻤﺠﻨﻟﺍ ﺔﻤﻈﻧﻷﺍ ﻦﻴﺑ ﻢﻬﺗﺍﻮﻨﺳ ﻥﻭﺮﺧﻵﺍ ﺏﺎﻛﺮﻟﺍ ﻲﻀﻘﻳ ﺎﻤﻨﻴﺑ}</StarshipJanitor33.description>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>{PAWN_gender ? ﺀﺎﻀﻔﻟﺍ ﺔﻨﻴﻔﺳ ﺔﻔﻈﻨﻣ : ﺀﺎﻀﻔﻟﺍ ﺔﻨﻴﻔﺳ ﻒﻈﻨﻣ}</StarshipJanitor33.title>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>{PAWN_gender ? ﺔﻓﺎﻈﻧ ﺔﻠﻣﺎﻋ : ﺔﻓﺎﻈﻧ ﻞﻣﺎﻋ}</StarshipJanitor33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.description>{PAWN_gender ? …ﻞﻣﺎﻛ ﺱﺮﻬﻓ ﺀﺎﺸﻧﺇ ﻞﻣﺃ ﻰﻠﻋ ﺎﻬﺗﺪﺟﻭ ﻲﺘﻟﺍ ﺔﻴﻧﺍﻮﻴﺤﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﻒﻴﻨﺼﺗﻭ ﺔﺳﺍﺭﺩﻭ ،ﺔﻴﻤﺠﻨﻟﺍ ﺔﻤﻈﻧﻷﺍ ﻦﻴﺑ [PAWN_nameDef] ﺕﺮﻓﺎﺳ : . ﻞﻣﺎﻛ ﺱﺮﻬﻓ ﺀﺎﺸﻧﺇ ﻞﻣﺃ ﻰﻠﻋ ﺎﻬﻴﻠﻋ ﺮﺜﻋ ﻲﺘﻟﺍ ﺔﻴﻧﺍﻮﻴﺤﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﻒﻨﺼﻳﻭ ﺱﺭﺪﻳ ،ﺔﻴﻤﺠﻨﻟﺍ ﺔﻤﻈﻧﻷﺍ ﻦﻴﺑ [PAWN_nameDef] ﻞﻘﻨﺗ}</Taxonomist0.description>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻒﻨﺼﻣ</Taxonomist0.title>
+  <Taxonomist0.titleFemale>ﺔﻔﻨﺼﻣ</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻒﻨﺼﻣ</Taxonomist0.titleShort>
+  <Taxonomist0.titleShortFemale>ﺔﻔﻨﺼﻣ</Taxonomist0.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.description>{PAWN_gender ? . ﺓﺩﺎﻴﻘﻟﺍﻭ ﻲﻋﺍﺪﺑﻹﺍ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﻝﺍﺰﺗ ﻻ ﺎﻬﻧﺃ ﻻﺇ ،ﺎﻬﻟ ﺖﺿﺮﻌﺗ ﻲﺘﻟﺍ ﺔﻴﺸﺣﻮﻟﺍ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺏﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺓﺭﺮﺤﻣ ﻥﻵﺍ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺔﻤﺨﺿ ﺔﻳﺮﻀﺣ ﺔﻨﻳﺪﻣ ﻲﻓ ﻞﻘﻋ ﻼﺑ ﺀﺎﻨﺑ ﺔﻟﺂﻛ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺓﺩﺎﻴﻘﻟﺍﻭ ﻲﻋﺍﺪﺑﻹﺍ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻝﺍﺰﻳ ﻻ ﻪﻧﺃ ﻻﺇ ،ﺎﻬﻟ ﺽﺮﻌﺗ ﻲﺘﻟﺍ ﺔﻴﺸﺣﻮﻟﺍ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺏﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺮﺣ ﻥﻵﺍ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺔﻤﺨﺿ ﺔﻳﺮﻀﺣ ﺔﻨﻳﺪﻣ ﻲﻓ ﻞﻘﻋ ﻼﺑ ﺀﺎﻨﺑ ﺓﺮﺋﺎﻄﻛ [PAWN_nameDef] ﻞﻤﻋ}</UrbworldDrone32.description>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>ﺭﺎﻴﻃ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldDrone32.title>
+  <UrbworldDrone32.titleFemale>ﺓﺭﺎﻴﻃ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldDrone32.titleFemale>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>ﺭﺎﻴﻃ ﻥﻭﺪﺑ ﺓﺮﺋﺎﻃ</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.description>{PAWN_gender ? . ﺕﺎﻛﺮﺸﻟﺍ ﺓﺭﺍﺩﺇ ﻦﻫﺪﺣﺃ ﻰﻠﻋ ﺐﺠﻳ ﻦﻜﻟ. ﺀﺎﺴﻨﻟﺍ ﻢﻈﻌﻣ ﻲﻧﺎﻌﺗ ،ﺔﻳﺮﻀﺣ ﻢﻟﺍﻮﻋ ﻲﻓ\n\n. ﺔﻳﺮﻜﻓ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺔﻟﺁ ﺎﻬﻧﺇ. ﻲﻨﻔﻟﺍ ﻞﻴﻠﺤﺘﻟﺍﻭ ﻑﻮﻔﻜﻟﺍ ﻦﻴﻴﻠﺗ—ﺔﻨﻬﻤﻟﺍ ﺕﺍﺭﺎﻬﻣ [PAWN_nameDef] ﺖﻤﻠﻌﺗ : . ﺕﺎﻛﺮﺸﻟﺍ ﺓﺭﺍﺩﺇ ﻢﻫﺪﺣﺃ ﻰﻠﻋ ﺐﺠﻳ ﻦﻜﻟﻭ. ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻲﻧﺎﻌﻳ ،ﺔﻳﺮﻀﺣ ﻢﻟﺍﻮﻋ ﻲﻓ\n\n. ﺔﻳﺮﻜﻓ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺔﻟﺁ ﻪﻧﺇ. ﻲﻨﻔﻟﺍ ﻞﻴﻠﺤﺘﻟﺍﻭ ﻱﺪﻳﻷﺍ ﻦﻴﻴﻠﺗ — ﺔﻨﻬﻤﻟﺍ ﺕﺍﺭﺎﻬﻣ [PAWN_nameDef] ﻢﻠﻌﺗ}</UrbworldEntrepreneur14.description>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>ﻝﺎﻤﻋﺃ ﺪﺋﺍﺭ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleFemale>ﻝﺎﻤﻋﺃ ﺓﺪﺋﺍﺭ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldEntrepreneur14.titleFemale>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>ﻝﺎﻤﻋﺃ ﺪﺋﺍﺭ</UrbworldEntrepreneur14.titleShort>
+  <UrbworldEntrepreneur14.titleShortFemale>ﻝﺎﻤﻋﺃ ﺓﺪﺋﺍﺭ</UrbworldEntrepreneur14.titleShortFemale>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.description>{PAWN_gender ? . ﻞﻣﺎﻜﻟﺎﺑ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺾﻓﺭ ﺩﺮﻤﺘﻣ ﻞﻴﺼﻓ ﻰﻟﺇ [PAWN_nameDef] ﺖﻤﻀﻧﺍ. ﺖﻧﺮﺘﻧﻹﺍ ﺮﺒﻋ ﻲﻌﻤﺟ ﻞﻘﻋ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻼﻟ ﻢﻬﺘﻳﺩﺮﻓ ﻦﻋ ﺍﻮﻠﺨﺗ [PAWN_nameDef] ﻢﻟﺎﻋ ﻥﺎﻜﺳ ﻢﻈﻌﻣ : . ﺍًﻣﺎﻤﺗ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺾﻓﺭ ﺩﺮﻤﺘﻣ ﻞﻴﺼﻓ ﻰﻟﺇ [PAWN_nameDef] ﻢﻀﻧﺍ. ﺖﻧﺮﺘﻧﻹﺍ ﺮﺒﻋ ﻲﻌﻤﺟ ﻞﻘﻋ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻼﻟ ﻢﻬﺘﻳﺩﺮﻓ ﻦﻋ ﺍﻮﻠﺨﺗ [PAWN_nameDef] ﻢﻟﺎﻋ ﻥﺎﻜﺳ ﻢﻈﻌﻣ}</UrbworldRebel56.description>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>ﺩﺮﻤﺘﻣ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldRebel56.title>
+  <UrbworldRebel56.titleFemale>ﺓﺩﺮﻤﺘﻣ ﻱﺮﻀﺣ ﻢﻟﺎﻋ</UrbworldRebel56.titleFemale>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>{PAWN_gender ? ﺓﺩﺮﻤﺘﻣ : ﺩﺮﻤﺘﻣ}</UrbworldRebel56.titleShort>
+  
+</LanguageData>

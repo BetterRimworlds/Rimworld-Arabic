@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺮﺣﻠﺔ ﺃﺳﺎﺳﻴﺎﺕ</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>ﺍﻟﻨﺠﻤﻲ ﺍﻟﻨﻈﺎﻡ ﻫﺬﺍ ﻟﻤﻐﺎﺩﺭﺓ ﺳﻔﻴﻨﺔ ﻟﺒﻨﺎﺀ. ﺍﻷﻭﻟﻰ ﺍﻟﺨﻄﻮﺓ ﻫﻲ ﻫﺬﻩ ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﻭﺍﻟﺪﺍﻋﻤﺔ ﺍﻟﻬﻴﻜﻠﻴﺔ ﺍﻟﻌﻨﺎﺻﺮ ﺷﻴّﺪ.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>ﻭﺍﻟﻬﺮﻭﺏ ﺑﺎﻟﻨﺠﺎﺓ ﺗﺄﻣﻞ ﻛﻨﺖ — ﺇﻥ ﺍﻟﻬﺠﻮﻡ ﻟﻤﻮﺍﺟﻬﺔ ﻭﺍﻟﺪﻓﺎﻋﺎﺕ ﻭﺍﻷﺳﻠﺤﺔ ﺍﻟﻤﻮﺍﺭﺩ ﺗﻜﺪﻳﺲ.\n\nﺇﻟﻰ ﺳﺘﺤﺘﺎﺝ ﺷﺮﺳًﺎ ﺳﻴﻜﻮﻥ.\n\nﻳﺤﺪﺙ ﻋﻨﺪﻣﺎ ﻟﻜﻦ ﺳﻔﻴﻨﺘﻚ، ﻣﻔﺎﻋﻞ ﺗُﻔﻌّﻞ «ﺣﺘﻰ ﺍﻷﻣﺮ»ﻳﺒﺪﺃ ﻟﻦ ﺍﻟﻄﺎﻗﻴﺔ ﺍﻟﺒﺼﻤﺎﺕ ﻫﺬﻩ ﻣﺜﻞ ﺇﻟﻰ ﺗﻨﺠﺬﺏ ﺍﻟﻤﻴﻜﺎﻧﻴﻮﺩﺍﺕ ﺃﻥ ﺃﻳﻀًﺎ. ﺍﻟﻤﻌﺮﻭﻑ ﻭﻣﻦ ﻗﺒﻞ ﻣﻦ ﻣﺜﻠﻬﺎ ﺗﺮَ ﻟﻢ ﻭﺑﺸﺪﺓ ﻣﻮﺟﺎﺕ، ﻋﻠﻰ ﻟﻤﻬﺎﺟﻤﺘﻚ ﺍﻟﻤﻐﻴﺮﻭﻥ.\n\nﺳﻴﺘﻮﺍﻓﺪ ﺍﻟﻜﻴﻠﻮﻣﺘﺮﺍﺕ ﺁﻻﻑ 15 ﻣﻦ ﺭﺻﺪﻫﺎ ﻳﻤﻜﻦ ﻃﺎﻗﺔ ﺑﺼﻤﺔ ﺍﻟﺴﻔﻴﻨﺔ ﻣﻔﺎﻋﻞ ﺳﻴُﺼﺪﺭ ﺣﺘﻰ ﺍﻟﻌﻤﻠﻴﺔ. ﺗﻠﻚ ﺗﺒﺪﺃ ﺇﻥ ﻣﺎ ﺍﻟﻜﻮﻛﺐ ﻫﺬﺍ ﻣﻐﺎﺩﺭﺓ ﺗﺮﻳﺪ ﺍﻟﻴﺎﺋﺴﺔ ﺍﻷﺭﻭﺍﺡ ﻣﻦ ﻭﻛﺜﻴﺮ ﻟﻠﺸﺤﻦ، ﻳﻮﻣًﺎ ﺍﻟﺴﻔﻦ ﻣﻔﺎﻋﻻﺖ. ﺗﺴﺘﻐﺮﻕ ﺳﻔﻴﻨﺔ ﻣﻔﺎﻋﻞ ﺫﻟﻚ ﻓﻲ ﺑﻤﺎ ﺗُﻄﻠﻖ، ﻟﻜﻲ ﻣﺨﺘﻠﻔﺔ ﺃﺟﺰﺍﺀ ﻋﺪﺓ. ﺍﻟﺴﻔﻦ ﺗﺘﻄﻠﺐ ﺍﻟﻤﻨﺎﺳﺒﺔ ﺍﻟﺘﻘﻨﻴﺔ ﺑﺤﺚ ﺑﻌﺪ ﺍﻟﺴﻔﻴﻨﺔ ﺃﺟﺰﺍﺀ ﺑﻨﺎﺀ ﺧﻻﻠﻬﺎ ﻣﻦ.\n\nﻳﻤﻜﻨﻚ ، ﺍﻟﻤﻌﻤﺎﺭﻱ ﺍﻟﻤﻬﻨﺪﺱ ﻗﺎﺋﻤﺔ ﻓﻲ ﻟﻠﺴﻔﻦ ﺟﺪﻳﺪﺓ ﻓﺌﺔ ﺗﺘﻮﻓﺮ ﺍﻟﺨﻄﻮﺭﺓ ﺷﺪﻳﺪ. ﺃﻳﻀًﺎ ﻟﻜﻨﻪ ﺍﻟﻮﻃﻦ ﺇﻟﻰ ﻋﻮﺩﺓ ﻭﺭﺑﻤﺎ ﺣﺮﻳﺔ، ﺃﺧﻴﺮًﺍ ﺳﻴﻜﻮﻥ ﺍﻟﻜﻮﻛﺐ ﻫﺬﺍ ﻣﻦ ﺍﻟﻬﺮﻭﺏ.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>ﺍﻟﺴﻔﻴﻨﺔ: ﺇﻃﻻﻖ ﺣﻮﻝ</ShipBasics.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->starship structural engineering</li>
+    <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
+    <li>subject_story->was a structural designer in an urbworld skyripper district</li>
+    <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
+    <li>subject_gerund->constructing starship structures</li>
+  -->
+  <ShipBasics.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻨﺠﻤﻴﺔ ﻟﻠﺴﻔﻦ ﺍﻹﻧﺸﺎﺋﻴﺔ ﺍﻟﻬﻨﺪﺳﺔ</li>
+    <li>subject_FemMas->ﺍﻟﻨﺠﻤﻴﺔ ﻟﻠﺴﻔﻦ ﺍﻹﻧﺸﺎﺋﻴﺔ ﺍﻟﻬﻨﺪﺳﺔ</li>
+    <li>subject_def->ﺍﻟﻨﺠﻤﻴﺔ ﻟﻠﺴﻔﻦ ﺍﻹﻧﺸﺎﺋﻴﺔ ﻟﻠﻬﻨﺪﺳﺔ</li>
+    <li>subject_def2->ﺍﻟﻨﺠﻤﻴﺔ ﻟﻠﺴﻔﻦ ﺍﻹﻧﺸﺎﺋﻴﺔ ﺍﻟﻬﻨﺪﺳﺔ ﺇﻟﻰ</li>
+    <li>subject_story->ﻻﻣﻊ ﻋﺎﻟﻢ ﻣﻦ ﻷﺳﻄﻮﻝ ﻧﺠﻤﻴﺔ ﺳﻔﻦ ﻣﻬﻨﺪﺳﻲ ﺟﻨّﺪ</li>
+    <li>subject_story->ﺣﻀﺮﻱ {ANYPAWN_gender ? ﻋﺎﻟﻢ : ﻓﻲ} ﺭﻳﺒﺮ ﺳﻜﺎﻱ ﺣﻲ «ﻓﻲ ﺇﻧﺸﺎﺋﻴًﺎ» ﻣﺼﻤﻤﺔ ﻣﺼﻤﻤًﺎ ﻛﺎﻥ</li>
+    <li>subject_story->ﻣﻴﺖ ﻋﺎﻟﻢ ﺣﻮﻝ ﺍﻟﺤﻄﺎﻡ ﺣﺰﺍﻡ ﻣﻦ ﺳﻔﻦ ﺣﻄﺎﻡ ﺍﺳﺘﺨﺮﺝ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺴﻔﻦ ﻫﻴﺎﻛﻞ ﺑﻨﺎﺀ</li>
+  </ShipBasics.generalRules.rulesStrings>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>ﺍﻻﺻﻄﻨﺎﻋﻲ ﺍﻟﺬﻛﺎﺀ ﺇﻗﻨﺎﻉ</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>ﻟﺴﻨﻮﺍﺕ ﺗﻤﺘﺪ ﻧﺠﻤﻴﺔ ﻟﺮﺣﻠﺔ ﺍﻟﻤﻌﻘﺪﺓ ﺍﻟﻘﺮﺍﺭﺍﺕ ﻣﻊ ﻟﻠﺘﻌﺎﻣﻞ ﺿﺮﻭﺭﻳﺔ ﺷﺨﺼﻴﺔ ﻧﻮﺍﺓ ﻓﺈﻥ ﺍﻟﻨﺠﻮﻡ، ﺑﻴﻦ. ﺍﻟﺴﻔﺮ ﺃﺛﻨﺎﺀ ﻳﻨﺎﻣﻮﻥ ﺍﻟﻨﺎﺱ ﺃﻥ ﻭﺑﻤﺎ ﻟﻠﺴﻔﻴﻨﺔ ﺁﻟﻲ ﻛﻘﺒﻄﺎﻥ ﺗﻌﻤﻞ ﺑﺄﻥ ﻣﺴﺒﻘًﺎ ﻣﻮﺟﻮﺩﺓ ﺷﺨﺼﻴﺔ ﻧﻮﺍﺓ ﻹﻗﻨﺎﻉ ﻣﻜﺎﻓﺄﺓ ﺇﺷﺎﺭﺍﺕ ﻧﻈﺎﻡ ﺍﺑﻦِ.</ShipComputerCore.description>
+  <!-- EN:
+    <li>subject->persona core incentivization</li>
+    <li>subject->starship AI sanity maintenance</li>
+    <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
+    <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
+    <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
+    <li>subject_gerund->incentivizing persona cores</li>
+    <li>subject_gerund->maintaining starship AI sanity</li>
+    <li>subject_gerund->constructing reward-signal systems</li>
+  -->
+  <ShipComputerCore.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺸﺨﺼﻴﺔ ﻧﻮﻯ ﺗﺤﻔﻴﺰ</li>
+    <li>subject_FemMas->ﺍﻟﺸﺨﺼﻴﺔ ﻧﻮﻯ ﺗﺤﻔﻴﺰ</li>
+    <li>subject->ﺍﻟﻨﺠﻤﻲ ﺍﻟﺴﻔﻴﻨﺔ ﺫﻛﺎﺀ ﺳﻻﻤﺔ ﺻﻴﺎﻧﺔ</li>
+    <li>subject_FemMas->ﺍﻟﻨﺠﻤﻲ ﺍﻟﺴﻔﻴﻨﺔ ﺫﻛﺎﺀ ﺳﻻﻤﺔ ﺻﻴﺎﻧﺔ</li>
+    <li>subject_def->ﺍﻟﺸﺨﺼﻴﺔ ﻧﻮﻯ ﻟﺘﺤﻔﻴﺰ</li>
+    <li>subject_def2->ﺍﻟﺸﺨﺼﻴﺔ ﻧﻮﻯ ﺗﺤﻔﻴﺰ ﺇﻟﻰ</li>
+    <li>subject_def->ﺍﻟﻨﺠﻤﻲ ﺍﻟﺴﻔﻴﻨﺔ ﺫﻛﺎﺀ ﺳﻻﻤﺔ ﻟﺼﻴﺎﻧﺔ</li>
+    <li>subject_def2->ﺍﻟﻨﺠﻤﻲ ﺍﻟﺴﻔﻴﻨﺔ ﺫﻛﺎﺀ ﺳﻻﻤﺔ ﺻﻴﺎﻧﺔ ﺇﻟﻰ</li>
+    <li>subject_story->ﺩﻗﻴﻘﺔ ﺗﻬﻴﺌﺔ ﺇﻋﺎﺩﺓ ﻋﺒﺮ ﺷﺎﺫﺓ ﺳﻔﻴﻨﺔ ﻧﻮﺍﺓ ﻋﻠﻰ ﺍﻟﺴﻴﻄﺮﺓ ﺍﺳﺘﻌﺎﺩ</li>
+    <li>subject_story->ﺍﻟﻄﻮﻳﻠﺔ ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﺴﻔﺮ ﺳﻨﻮﺍﺕ ﺧﻻﻞ ﺍﻟﺴﻔﻴﻨﺔ ﻧﻮﺍﺓ ﻹﺷﻐﺎﻝ ﺍﻟﻤﺴﺘﻌﻤﺮﺓ ﻹﺩﺍﺭﺓ ﻣﺤﺎﻛﺎﺓ ﺃﻋﺪّ</li>
+    <li>subject_story->ﺫﻟﻚ ﺧﻻﻞ ﺍﻟﻨﻮﻯ ﻋﻦ ﺍﻟﻜﺜﻴﺮ ﻭﺗﻌﻠّﻢ ، «ﻗﺼﻴﺮﺓ»ﻧﺠﻤﻴﺔ ﺑﻴﻦ ﺭﺣﻠﺔ ﺧﻻﻞ ﺳﻔﻴﻨﺔ ﻧﻮﺍﺓ ﺭﺍﻓﻖ</li>
+    <li>subject_gerund->ﺍﻟﺸﺨﺼﻴﺔ ﻧﻮﻯ ﺗﺤﻔﻴﺰ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻤﻲ ﺍﻟﺴﻔﻴﻨﺔ ﺫﻛﺎﺀ ﺳﻻﻤﺔ ﻋﻠﻰ ﺍﻟﺤﻔﺎﻅ</li>
+    <li>subject_gerund->ﺍﻟﻤﻜﺎﻓﺄﺓ ﺇﺷﺎﺭﺍﺕ ﺃﻧﻈﻤﺔ ﺑﻨﺎﺀ</li>
+  </ShipComputerCore.generalRules.rulesStrings>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>ﻟﻠﻔﺮﺍﻍ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﺎﺑﻮﺕ</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>ﻟﺴﻨﻮﺍﺕ ﺗﻤﺘﺪ ﺍﻟﺘﻲ ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﺮﺣﻠﺔ ﻓﻲ ﺍﻟﻨﺎﺱ ﻟﻨﻘﻞ ﻟﻠﻔﺮﺍﻍ، ﻟﺘﺘﻌﺮﺽ ﻳﻜﻔﻲ ﺑﻤﺎ ﻣُﻘﺴﺎﺓ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﻮﺍﺑﻴﺖ ﺷﻴّﺪ.</ShipCryptosleep.description>
+  <!-- EN:
+    <li>subject->starship-grade cryptosleep caskets</li>
+    <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
+    <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
+    <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
+    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+  -->
+  <ShipCryptosleep.generalRules.rulesStrings>
+    <li>subject->ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﺑﻤﺴﺘﻮﻯ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﻮﺍﺑﻴﺖ</li>
+    <li>subject_FemMas->ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﺑﻤﺴﺘﻮﻯ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﻮﺍﺑﻴﺖ</li>
+    <li>subject_def->ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﺑﻤﺴﺘﻮﻯ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﻟﺘﻮﺍﺑﻴﺖ</li>
+    <li>subject_def2->ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﺑﻤﺴﺘﻮﻯ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﻮﺍﺑﻴﺖ ﺇﻟﻰ</li>
+    <li>subject_story->ﻣﺠﺪﺩًﺍ ﺍﻟﻘﺪﻳﻤﺔ ﺍﻷﺟﻴﺎﻝ ﺳﻔﻴﻨﺔ ﺍﺳﺘﺨﺪﺍﻡ ﻳﻤﻜﻦ ﻟﻜﻲ CMC Celeste، ﻣﺘﻦ ﻋﻠﻰ ﺍﻟﻤﻌﻄﻠﺔ ﺍﻟﻤُﺸﻔّﺮ ﺍﻟﺴﺒﺎﺕ ﺗﻮﺍﺑﻴﺖ ﺍﺳﺘﺒﺪﻝ</li>
+    <li>subject_story->ﺷﻬﺮﻳﻦ ﻟﻤﺪﺓ ﺑﻨﻔﺴﻪ ﺻﻤﻤﻪ ﺗﺎﺑﻮﺕ ﺩﺍﺧﻞ ﻭﻧﺠﺎ ﺍﻟﺴﺤﻴﻖ، ﺍﻟﻔﻀﺎﺀ ﺇﻟﻰ ﺑﺎﻟﺨﻄﺄ ﻗُﺬﻑ</li>
+    <li>subject_story->ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺴﻔﻦ ﻣﺴﺘﻮﻯ ﻭﻣﻌﺪﺍﺕ ﺍﻟﻜﻮﻛﺒﻲ ﺍﻟﻤﺴﺘﻮﻯ ﻣﻌﺪﺍﺕ ﺑﻴﻦ ﺍﻟﻔﺮﻭﻕ ﻋﻦ ﻣﺤﺎﺿﺮﺓ ﺃﻟﻘﻰ</li>
+    <li>subject_gerund->ﻣُﻘﺴﺎﺓ ﻣُﺸﻔّﺮ ﺳﺒﺎﺕٍ ﺗﻮﺍﺑﻴﺖ ﺑﻨﺎﺀ</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ-ﻣﺤﺮﻙ</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>ﻋﺪﻳﺪﺓ ﺳﻨﻮﺍﺕ ﻳﺴﺘﻐﺮﻕ-ﻣﻜﺎﻥ ﺃﻱ. ﺇﻟﻰ ﺍﻟﻮﺻﻮﻝ JT ﺯﺍﻝ ﻣﺎ ﺍﻟﻨﺠﻤﻴﺔ، ﺍﻟﺴﻔﻦ ﺟﻤﻴﻊ ﻣﻊ ﺍﻟﺤﺎﻝ ﻫﻮ ﻛﻤﺎ ﻭﺑﺎﻟﻄﺒﻊ، ﺑﻌﻴﺪﺓ ﻧﺠﻮﻡ ﺇﻟﻰ ﺍﻟﺰﺧﻢ. ﻟﺒﺚ ﺍﻟﻜﻤﻲ ﺍﻟﻤﻘﻴﺎﺱ ﺗﺄﺛﻴﺮﺍﺕ ﺗﺴﺨﻴﺮ ﻋﺒﺮ ﺃﺧﺮﻯ ﻧﺠﻮﻡ ﺇﻟﻰ ﺩﻓﻌﻚ ﻟﻤﺤﺮﻙ ﻳﻤﻜﻦ ﻟﺴﻔﻴﻨﺔ ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ ﻣﺤﺮﻙ ﺷﻴّﺪ.</ShipEngine.description>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
+    <li>subject->exotic momentum transfer</li>
+    <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
+    <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
+    <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
+    <li>subject_gerund->constructing starship drives</li>
+  -->
+  <ShipEngine.generalRules.rulesStrings>
+    <li>subject->ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ-ﻧﻈﺮﻳﺔ</li>
+    <li>subject_FemMas->ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ-ﻧﻈﺮﻳﺔ</li>
+    <li>subject->ﻏﺮﻳﺐ ﺯﺧﻢ ﻧﻘﻞ</li>
+    <li>subject_FemMas->ﻏﺮﻳﺐ ﺯﺧﻢ ﻧﻘﻞ</li>
+    <li>subject_def->ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ-ﻟﻨﻈﺮﻳﺔ</li>
+    <li>subject_def2->ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ ﻧﻈﺮﻳﺔ-ﺇﻟﻰ</li>
+    <li>subject_def->ﻏﺮﻳﺐ ﺯﺧﻢ ﻟﻨﻘﻞ</li>
+    <li>subject_def2->ﻏﺮﻳﺐ ﺯﺧﻢ ﻧﻘﻞ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﻜﻤﻲ ﺍﻟﻤﻘﻴﺎﺱ ﻭﺗﺄﺛﻴﺮﺍﺕ ﻭﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ ﻋﻦ ﺍﻟﺠﺎﻣﻌﺔ ﻓﻲ ﻣﺤﺎﺿﺮﺍﺕ ﺃﻟﻘﻰ</li>
+    <li>subject_story->ﻷﻃﺮﻭﺣﺔ ﺍﻷﻭﻟﻰ ﺍﻟﻤﺒﺎﺩﺉ-ﻣﻦ ﺍﻧﻄﻻﻘًﺎ ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ ﻣﺤﺮﻙ ﺑﻨَﻰ</li>
+    <li>subject_story->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺗﺴﺎﻓﺮ-ﺍﻟﺴﻔﻴﻨﺔ ﻛﺎﻧﺖ ﺑﻴﻨﻤﺎ ﻋﻘﺪﻳﻦ، ﻟﻤﺪﺓ ﺗﺎﻧﺎﻛﺎ ﺟﻮﻧﺴﻮﻥ ﻣﺤﺮﻙ ﺻﺎﻥ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺴﻔﻦ ﻣﺤﺮﻛﺎﺕ ﺑﻨﺎﺀ</li>
+  </ShipEngine.generalRules.rulesStrings>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﻣﻔﺎﻋﻞ</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>ﺍﻟﻤﻐﻴﺮﻳﻦ ﺳﺘﺠﺬﺏ ﻃﻮﻳﻠﺔ ﺃﻭﻟﻴﺔ ﺗﺸﻐﻴﻞ ﻋﻤﻠﻴﺔ ﻟﻠﻤﻔﺎﻋﻻﺖ ﺃﻥ ﻻﺣﻆ. ﺑﺎﻟﻄﺎﻗﺔ ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﻟﺘﺰﻭﻳﺪ ﺍﻷﻣﺪ ﻃﻮﻳﻞ ﻧﻮﻭﻳًﺎ ﻣﻔﺎﻋﻠًﺎ ﺍﺑﻦِ.</ShipReactor.description>
+  <!-- EN:
+    <li>subject->starship nuclear reactor</li>
+    <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
+    <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
+    <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
+    <li>subject_gerund->constructing starship reactors</li>
+  -->
+  <ShipReactor.generalRules.rulesStrings>
+    <li>subject->ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﻧﻮﻭﻱ ﻣﻔﺎﻋﻞ</li>
+    <li>subject_FemMas->ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﻧﻮﻭﻱ ﻣﻔﺎﻋﻞ</li>
+    <li>subject_def->ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﻧﻮﻭﻱ ﻟﻤﻔﺎﻋﻞ</li>
+    <li>subject_def2->ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﻧﻮﻭﻱ ﻣﻔﺎﻋﻞ ﺇﻟﻰ</li>
+    <li>subject_story->ﻳﻘﻠﻊ ﻟﻴﺮﺍﻩ ﻳﻌﺶ ﻟﻢ ﻟﻜﻨﻪ ﻣﺴﺘﻌﻤﺮﺓ، ﻟﺴﻔﻴﻨﺔ ﺟﺪﻳﺪًﺍ ﻣﻔﺎﻋﻠًﺎ ﺷﻴّﺪ</li>
+    <li>subject_story->ﺍﻟﻌﺎﻟﻢ ﻟﻤﻐﺎﺩﺭﺓ ﻳﺎﺋﺴﻴﻦ ﻣﻐﻴﺮﻳﻦ ﺿﺪ ﺗﺪﺭﻳﺠﻴًﺎ، ﻗﺪﺭﺗﻪ ﻳﺮﻓﻊ ﺍﻟﻤﻔﺎﻋﻞ ﻛﺎﻥ ﺑﻴﻨﻤﺎ ﺍﻟﺴﻔﻴﻨﺔ ﻋﻦ ﺩﺍﻓﻊ</li>
+    <li>subject_story->ﻟﻠﻜﻮﻛﺐ ﺍﻟﺠﻠﻴﺪﻱ ﺍﻟﻐﻄﺎﺀ ﺗﺤﺖ ﻣﺪﻓﻮﻥ ﺟﻴﻨﺎﺕ ﻟﺒﻨﻚ ﺍﺣﺘﻴﺎﻃﻲ ﻃﺎﻗﺔ ﻛﻤﺼﺪﺭ ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﻣﻔﺎﻋﻞ ﺍﺳﺘﺨﺪﻡ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺴﻔﻦ ﻣﻔﺎﻋﻻﺖ ﺑﻨﺎﺀ</li>
+  </ShipReactor.generalRules.rulesStrings>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺮﺣﻠﺔ ﺣﺴﺎﺳﺎﺕ</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>ﺍﻟﺘﻬﺪﻳﺪﺍﺕ ﻭﺗﺠﻨﺐ ﻭﺍﻻﺗﺼﺎﻝ ﻟﻠﻤﻻﺤﺔ ﺃﺳﺎﺳﻴﺔ ﺍﻟﺤﺴﺎﺳﺎﺕ. ﻫﺬﻩ ﻧﺠﻤﻴﺔ ﻟﺴﻔﻴﻨﺔ ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪﺓ ﺣﺴﺎﺳﺎﺕ ﺷﻴّﺪ.</ShipSensorCluster.description>
+  <!-- EN:
+    <li>subject->interstellar navigation</li>
+    <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
+    <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
+    <li>subject_story->refined the design of long-range sensors, improving their utility</li>
+    <li>subject_gerund->navigating interstellar space</li>
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
+  <ShipSensorCluster.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﻤﻻﺤﺔ</li>
+    <li>subject_FemMas->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﻤﻻﺤﺔ</li>
+    <li>subject_def->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﻟﻠﻤﻻﺤﺔ</li>
+    <li>subject_def2->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﻤﻻﺤﺔ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﻜﻮﻛﺐ ﻭﺇﺝﻻﺀ ﺍﻧﻘﺮﺍﺽ، ﺑﻤﺴﺘﻮﻯ ﻗﺎﺩﻡ ﻛﻮﻳﻜﺐ ﻻﻛﺘﺸﺎﻑ ﺗﺠﺮﻳﺒﻴﺔ ﻧﺠﻤﻴﺔ ﺳﻔﻴﻨﺔ ﺣﺴﺎﺳﺎﺕ ﺍﺳﺘﺨﺪﻡ</li>
+    <li>subject_story->ﻻﻣﻊ ﻋﺎﻟﻢ ﻣﻦ ﻧﺠﻤﻲ ﻳﺨﺖ ﻋﻠﻰ ﻭﻃﺎﻩٍ ﻛﻤﻻﺢ ﻋﻤﻞ</li>
+    <li>subject_story->ﻓﺎﺋﺪﺗﻬﺎ ﻣﻦ ﺯﺍﺩ ﻣﻤﺎ ﺍﻟﻤﺪﻯ، ﺑﻌﻴﺪﺓ ﺍﻟﺤﺴﺎﺳﺎﺕ ﺗﺼﻤﻴﻢ ﺣﺴّﻦ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻮﻡ ﺑﻴﻦ ﺍﻟﻔﻀﺎﺀ ﻓﻲ ﺍﻹﺑﺤﺎﺭ</li>
+    <li>subject_gerund->ﺍﻟﻨﺠﻤﻴﺔ ﺍﻟﺴﻔﻦ ﺣﺴﺎﺳﺎﺕ ﺑﻨﺎﺀ</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
+  
+</LanguageData>

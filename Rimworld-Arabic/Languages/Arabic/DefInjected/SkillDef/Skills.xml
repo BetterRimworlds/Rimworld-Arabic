@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>ﺕﺎﻧﺍﻮﻴﺣ</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺍﻭ ﺐﻳﺭﺪﺗﻭ ﻦﻴﺟﺪﺗ</Animals.description>
+  <!-- EN:
+    <li>subject->animals</li>
+    <li>subject->herding</li>
+    <li>subject->taming</li>
+    <li>subject->livestock</li>
+    <li>subject->breeding</li>
+    <li>subject->zoology</li>
+    <li>subject->husbandry</li>
+    <li>subject->herding</li>
+    <li>subject->domestication</li>
+    <li>subject->fauna</li>
+    <li>subject->wildlife</li>
+    <li>subject->poultry</li>
+  -->
+  <Animals.generalRules.rulesStrings>
+    <li>subject->ﺕﺎﻧﺍﻮﻴﺣ</li>
+    <li>subject->ﻲﻋﺭ</li>
+    <li>subject->ﻦﻴِﺟْﺪَﺗ</li>
+    <li>subject->ﻲِﺷﺍَﻮَﻣ</li>
+    <li>subject->ﺞﻳِﻭْﺰَﺗ</li>
+    <li>subject->ﻥﺍﻮﻴﺤﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺔﻴﺷﺎﻤﻟﺍ ﺔﻴﺑﺮﺗ</li>
+    <li>subject->ﻲﻋﺭ</li>
+    <li>subject->ﻦﻴﺟﺪﺗ</li>
+    <li>subject->ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</li>
+    <li>subject->ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ</li>
+    <li>subject->ﻦﺟﺍﻭﺩ</li>
+  </Animals.generalRules.rulesStrings>
+  <!-- EN: animals -->
+  <Animals.skillLabel>ﺕﺎﻧﺍﻮﻴﺣ</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>ّﻲﻨﻓ</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>.ﺔﻴﻨﻓ ﺕﺎﺗﻮﺤﻨﻣ ﻊﻨﺻ</Artistic.description>
+  <!-- EN:
+    <li>subject->art</li>
+    <li>subject->pottery</li>
+    <li>subject->sculpting</li>
+    <li>subject->painting</li>
+    <li>subject->creativity</li>
+    <li>subject->expression</li>
+    <li>subject->aesthetics</li>
+    <li>subject->design</li>
+    <li>subject->sculpture</li>
+    <li>subject->impressionism</li>
+    <li>subject->artistry</li>
+  -->
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->ّﻦَﻓ</li>
+    <li>subject->ﺭﺎﺨﻓ</li>
+    <li>subject->ﺖﺤﻧ</li>
+    <li>subject->ﺔﺣﻮﻟ</li>
+    <li>subject->ﻉﺍﺪﺑﺇ</li>
+    <li>subject->ﺮﻴﺒﻌﺗ</li>
+    <li>subject->ﺕﺎﻴﻟﺎﻤﺟ</li>
+    <li>subject->ﻢﻴﻤﺼﺗ</li>
+    <li>subject->ﻝﺎﺜﻤﺗ</li>
+    <li>subject->ﺔﻴﻋﺎﺒﻄﻧﺍ</li>
+    <li>subject->ﻲﻨﻓ ﻉﺍﺪﺑﺇ</li>
+  </Artistic.generalRules.rulesStrings>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>ّﻲﻨﻓ</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>ﺀﺎﻨﺑ</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>.ﻯﺮﺧﺄﻟﺍ ﺀﺎﻴﺷﺄﻟﺍﻭ ﻞﻛﺎﻴﻬﻟﺍ ﻚﻴﻜﻔﺗﻭ ﺀﺎﻨﺑ</Construction.description>
+  <!-- EN:
+    <li>subject->construction</li>
+    <li>subject->building</li>
+    <li>subject->architecture</li>
+    <li>subject->engineering</li>
+    <li>subject->design</li>
+    <li>subject->renovation</li>
+    <li>subject->structures</li>
+    <li>subject->foundation</li>
+    <li>subject->carpentry</li>
+    <li>subject->infrastructure</li>
+  -->
+  <Construction.generalRules.rulesStrings>
+    <li>subject->ﺀﺎﻨﺑ</li>
+    <li>subject->ﺀﺎﻨِﺑ</li>
+    <li>subject->ﺔﻳﺭﺎﻤﻌﻣ ﺔﺳﺪﻨﻫ</li>
+    <li>subject->ﺔﺳﺪﻨﻫ</li>
+    <li>subject->ﻢﻴﻤﺼﺗ</li>
+    <li>subject->ﺪﻳﺪﺠﺗ</li>
+    <li>subject->ﻞﻛﺎﻴﻫ</li>
+    <li>subject->ﺱﺎﺳﺃ</li>
+    <li>subject->ﺓﺭﺎﺠﻧ</li>
+    <li>subject->ﺔﻴﺘﺤﺗ ﺔﻴﻨﺑ</li>
+  </Construction.generalRules.rulesStrings>
+  <!-- EN: construction -->
+  <Construction.skillLabel>ﺀﺎﻨﺑ</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>ﺦﺒﻃ</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>.ﻲﺿﺮﻌﻟﺍ ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﻞﻴﻠﻘﺗﻭ ﺔﻋﺮﺴﺑ ﻡﺎﺨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺕﺎﺒﺟﻮﻟﺍ ﺮﻴﻀﺤﺗ</Cooking.description>
+  <!-- EN:
+    <li>subject->cooking</li>
+    <li>subject->food</li>
+    <li>subject->baking</li>
+    <li>subject->cuisine</li>
+    <li>subject->recipes</li>
+    <li>subject->gastronomy</li>
+    <li>subject->flavors</li>
+    <li>subject->ingredients</li>
+    <li>subject->spices</li>
+    <li>subject->nutrition</li>
+    <li>subject->taste</li>
+    <li>subject->sauces</li>
+    <li>subject->meals</li>
+  -->
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->ﺦﺒﻃ</li>
+    <li>subject->ﻡﺎﻌﻃ</li>
+    <li>subject->ﺰﺒﺧ</li>
+    <li>subject->ﺦﺒﻄﻣ</li>
+    <li>subject->ﺕﺎﻔﺻﻭ</li>
+    <li>subject->ﻲﻬﻄﻟﺍ ﻦﻓ</li>
+    <li>subject->ﺕﺎﻬﻜﻧ</li>
+    <li>subject->ﺕﺎﻧﻮﻜﻣ</li>
+    <li>subject->ﺕﺍﺭﺎﻬﺑ</li>
+    <li>subject->ﺔﻳﺬﻐﺗ</li>
+    <li>subject->ﻢﻌﻃ</li>
+    <li>subject->ﺕﺎﺼﻠﺻ</li>
+    <li>subject->ﺕﺎﺒﺟﻭ</li>
+  </Cooking.generalRules.rulesStrings>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>ﺦﺒﻃ</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>ﻊﻨﺻ</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>.ﺔﻌﻨﺼﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍﻭ ﺕﺎﻧﻮﻜﻤﻟﺍﻭ ﺔﺤﻠﺳﺄﻟﺍﻭ ﺲﺑﺎﻠﻤﻟﺍ ﻞﺜﻣ ﺮﺻﺎﻨﻋ ﻊﻨﺻ</Crafting.description>
+  <!-- EN:
+    <li>subject->crafting</li>
+    <li>subject->assembly</li>
+    <li>subject->manufacturing</li>
+    <li>subject->handcrafting</li>
+    <li>subject->fabrication</li>
+    <li>subject->production</li>
+    <li>subject->craftsmanship</li>
+    <li>subject->machining</li>
+    <li>subject->artisanry</li>
+  -->
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->ﺔﻳﻭﺪﻳ ﺔﻋﺎﻨﺻ</li>
+    <li>subject->ﻊﻴﻤﺠﺗ</li>
+    <li>subject->ﻊﻴﻨﺼﺗ</li>
+    <li>subject->ﻱﻭﺪﻳ ﻊﻨﺻ</li>
+    <li>subject->ﻊﻴﻨﺼﺗ</li>
+    <li>subject->ﺝﺎﺘﻧﺇ</li>
+    <li>subject->ﺔﻴﻓﺮﺣ</li>
+    <li>subject->ﻞَّﻜَﺸُﻣ</li>
+    <li>subject->ﺔﻴﻓﺮﺣ</li>
+  </Crafting.generalRules.rulesStrings>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>ﻊﻨﺻ</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>ﺀﺎﻛﺫ</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>.ﺔﻳﻭﺩﺄﻟﺍ ﻊﻴﻨﺼﺗﻭ ﺚﺤﺒﻟﺍ</Intellectual.description>
+  <!-- EN:
+    <li>subject->physics</li>
+    <li>subject->chemistry</li>
+    <li>subject->orbital dynamics</li>
+    <li>subject->mathematics</li>
+    <li>subject->biology</li>
+    <li>subject->science</li>
+    <li>subject->research</li>
+    <li>subject->innovation</li>
+    <li>subject->discovery</li>
+    <li>subject->analysis</li>
+    <li>subject->experimentation</li>
+    <li>subject->knowledge</li>
+    <li>subject->exploration</li>
+    <li>subject->physics</li>
+    <li>subject->chemistry</li>
+    <li>subject->data analysis</li>
+    <li>subject->scientific inquiry</li>
+    <li>subject->intellectual growth</li>
+    <li>subject->academic pursuits</li>
+    <li>subject->quantitative analysis</li>
+    <li>subject->experiment design</li>
+    <li>subject->research methods</li>
+    <li>subject->intellectual inquiry</li>
+  -->
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->ﺀﺎﻳﺰﻴﻓ</li>
+    <li>subject->ﺀﺎﻴﻤﻴﻛ</li>
+    <li>subject->ﺔﻳﺭﺍﺪﻣ ﺕﺎﻴﻜﻴﻣﺎﻨﻳﺩ</li>
+    <li>subject->ﺕﺎﻴﺿﺎﻳﺭ</li>
+    <li>subject->ﺀﺎﻴﺣﺄﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﻢﻠﻋ</li>
+    <li>subject->ﺚﺤﺑ</li>
+    <li>subject->ﺭﺎﻜﺘﺑﺍ</li>
+    <li>subject->ﻑﺎﺸﺘﻛﺍ</li>
+    <li>subject->ﻞﻴﻠﺤﺗ</li>
+    <li>subject->ﺐﻳﺮﺠﺗ</li>
+    <li>subject->ﺔَﻓِﺮْﻌَﻣ</li>
+    <li>subject->ﻑﺎﺸﻜﺘﺳﺍ</li>
+    <li>subject->ﺀﺎﻳﺰﻴﻓ</li>
+    <li>subject->ﺀﺎﻴﻤﻴﻛ</li>
+    <li>subject->ﺕﺎﻧﺎﻴﺒﻟﺍ ﻞﻴﻠﺤﺗ</li>
+    <li>subject->ﻲﻤﻠﻌﻟﺍ ﺚﺤﺒﻟﺍ</li>
+    <li>subject->ﻱﺮﻜﻔﻟﺍ ﻮﻤﻨﻟﺍ</li>
+    <li>subject->ﻲﻤﻳﺩﺎﻛﺄﻟﺍ ﺚﺤﺒﻟﺍ</li>
+    <li>subject->ﻲﻤﻛ ﻞﻴﻠﺤﺗ</li>
+    <li>subject->ﻲﺒﻳﺮﺠﺗ ﻢﻴﻤﺼﺗ</li>
+    <li>subject->ﺚﺤﺒﻟﺍ ﻕﺮﻃ</li>
+    <li>subject->ﻱﺮﻜﻔﻟﺍ ﺚﺤﺒﻟﺍ</li>
+  </Intellectual.generalRules.rulesStrings>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>ﺀﺎﻛﺫ</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>ّﻲﺒِﻃ</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>.ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇﻭ ﺽﺍﺮﻣﺄﻟﺍﻭ ﺡﻭﺮﺠﻟﺍ ﺝﺎﻠﻋ</Medicine.description>
+  <!-- EN:
+    <li>subject->medicine</li>
+    <li>subject->surgery</li>
+    <li>subject->bacteria</li>
+    <li>subject->skin repair</li>
+    <li>subject->healthcare</li>
+    <li>subject->medical science</li>
+    <li>subject->physiology</li>
+    <li>subject->pharmacology</li>
+    <li>subject->treatment</li>
+    <li>subject->diagnosis</li>
+    <li>subject->surgery</li>
+    <li>subject->anatomy</li>
+    <li>subject->bacteria</li>
+    <li>subject->pathology</li>
+    <li>subject->disease management</li>
+    <li>subject->patient care</li>
+    <li>subject->emergency medicine</li>
+    <li>subject->nursing</li>
+    <li>subject->medical research</li>
+    <li>subject->public health</li>
+    <li>subject->virology</li>
+    <li>subject->health sciences</li>
+  -->
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->ﺀﺍﻭﺩ</li>
+    <li>subject->ﺔﺣﺍﺮﺟ</li>
+    <li>subject->ﺎﻳﺮﻴﺘﻜﺑ</li>
+    <li>subject->ﺪﻠﺠﻟﺍ ﺡﺎﻠﺻﺇ</li>
+    <li>subject->ﺔﻴﺤﺻ ﺔﻳﺎﻋﺭ</li>
+    <li>subject->ﺐﻄﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺎﻴﺟﻮﻟﻮﻴﺴﻓ</li>
+    <li>subject->ﺔﻳﻭﺩﺄﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺝﺎﻠﻋ</li>
+    <li>subject->ﺺﻴﺨﺸﺗ</li>
+    <li>subject->ﺔﺣﺍﺮﺟ</li>
+    <li>subject->ﺢﻳﺮﺸﺗ</li>
+    <li>subject->ﺎﻳﺮﻴﺘﻜﺑ</li>
+    <li>subject->ﺽﺍﺮﻣﺄﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺽﺍﺮﻣﺄﻟﺍ ﺓﺭﺍﺩﺇ</li>
+    <li>subject->ﺾﻳﺮﻤﻟﺍ ﺔﻳﺎﻋﺭ</li>
+    <li>subject->ﺉﺭﺍﻮﻄﻟﺍ ﺐﻃ</li>
+    <li>subject->ﺾﻳﺮﻤﺘﻟﺍ</li>
+    <li>subject->ﻲﺒﻄﻟﺍ ﺚﺤﺒﻟﺍ</li>
+    <li>subject->ﺔﻣﺎﻌﻟﺍ ﺔﺤﺼﻟﺍ</li>
+    <li>subject->ﺕﺎﺳﻭﺮﻴﻔﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺔﺤﺼﻟﺍ ﻡﻮﻠﻋ</li>
+  </Medicine.generalRules.rulesStrings>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>ّﻲﺒِﻃ</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>ﻢﺣﺎﻠﺘﻣ ﻝﺎﺘﻗ</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>.ﺓﺩﺮﺠﻤﻟﺍ ﺪﻴﻟﺎﺑ ﻭﺃ ﺔﺤﻠﺳﺄﻟﺎﺑ ﺀﺍﻮﺳ ،ﺓﺮﺟﺎﺸﻤﻟﺍ ﻝﺎﺘﻗ</Melee.description>
+  <!-- EN:
+    <li>subject->fighting</li>
+    <li>subject->melee</li>
+    <li>subject->combat</li>
+    <li>subject->martial arts</li>
+    <li>subject->swordplay</li>
+    <li>subject->weaponry</li>
+    <li>subject->brawling</li>
+    <li>subject->pugilism</li>
+    <li>subject->fencing</li>
+    <li>subject->knighthood</li>
+    <li>subject->dueling</li>
+  -->
+  <Melee.generalRules.rulesStrings>
+    <li>subject->ﻝﺎﺘﻗ</li>
+    <li>subject->ﺓﺮﺟﺎﺸﻤﻟﺍ ﻝﺎﺘﻗ</li>
+    <li>subject->ﻝﺎﺘﻗ</li>
+    <li>subject->ﺔﻴﻟﺎﺘﻗ ﻥﻮﻨﻓ</li>
+    <li>subject->ﻒﻴﺴﻟﺎﺑ ﺓﺯﺭﺎﺒﻣ</li>
+    <li>subject->ﺔﺤﻠﺳﺃ</li>
+    <li>subject->ﺭﺎﺠﺷ</li>
+    <li>subject->ﺔﻤﻛﺎﻠﻣ</li>
+    <li>subject->ﺓﺯﺭﺎﺒﻣ</li>
+    <li>subject->ﺔَّﻴِﺳِﺭﺎَﻓ</li>
+    <li>subject->ﺓﺯﺭﺎﺒﻣ</li>
+  </Melee.generalRules.rulesStrings>
+  <!-- EN: melee -->
+  <Melee.skillLabel>ﻢﺣﺎﻠﺘﻣ ﻝﺎﺘﻗ</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>ﻦﻳﺪﻌﺗ</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>.ﺔﻴﻧﺪﻌﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍﻭ ﻕﺎﻔﻧﺄﻟﺍ ﺮﻔﺣ</Mining.description>
+  <!-- EN:
+    <li>subject->mining</li>
+    <li>subject->digging</li>
+    <li>subject->quarrying</li>
+    <li>subject->strip-mining</li>
+    <li>subject->excavation</li>
+    <li>subject->prospecting</li>
+    <li>subject->ore</li>
+    <li>subject->tunneling</li>
+    <li>subject->drilling</li>
+    <li>subject->minerals</li>
+    <li>subject->gemology</li>
+    <li>subject->geology</li>
+    <li>subject->earthmoving</li>
+  -->
+  <Mining.generalRules.rulesStrings>
+    <li>subject->ﻦﻳﺪﻌﺗ</li>
+    <li>subject->ﺮﻔﺣ</li>
+    <li>subject->ﺮﺟﺎﺤﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</li>
+    <li>subject->ﻑﻮﺸﻜﻤﻟﺍ ﻦﻳﺪﻌﺘﻟﺍ</li>
+    <li>subject->ﺔﻳﺮﻔﺣ</li>
+    <li>subject->ﻑﺎﺸﻜﺘﺳﺍ</li>
+    <li>subject->ﻡﺎﺧ</li>
+    <li>subject->ﻕﺎﻔﻧﺄﻟﺍ ﺮﻔﺣ</li>
+    <li>subject->ﺮﻔﺣ</li>
+    <li>subject->ﻥﺩﺎﻌﻣ</li>
+    <li>subject->ﺮﻫﺍﻮﺠﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﺎﻴﺟﻮﻟﻮﻴﺟ</li>
+    <li>subject->ﻲﺿﺍﺭﺄﻟﺍ ﺔﻳﻮﺴﺗ</li>
+  </Mining.generalRules.rulesStrings>
+  <!-- EN: mining -->
+  <Mining.skillLabel>ﻦﻳﺪﻌﺗ</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>ﺔﻋﺍﺭﺯ</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>.ﻞﻘﻨﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟﻭ ﺩﺎﺼﺤﻟﺎﺑ ﺔﻳﺎﻨﻌﻟﺍﻭ ﺔﻋﺍﺭﺰﻟﺍ</Plants.description>
+  <!-- EN:
+    <li>subject->plants</li>
+    <li>subject->herbs</li>
+    <li>subject->vegetables</li>
+    <li>subject->flora</li>
+    <li>subject->cultivation</li>
+    <li>subject->horticulture</li>
+    <li>subject->agriculture</li>
+    <li>subject->gardening</li>
+    <li>subject->farming</li>
+    <li>subject->harvesting</li>
+    <li>subject->permaculture</li>
+    <li>subject->botany</li>
+    <li>subject->crop management</li>
+    <li>subject->soil enrichment</li>
+    <li>subject->organic farming</li>
+    <li>subject->food production</li>
+    <li>subject->crop science</li>
+  -->
+  <Plants.generalRules.rulesStrings>
+    <li>subject->ﺕﺎﺗﺎﺒﻧ</li>
+    <li>subject->ﺏﺎﺸﻋﺃ</li>
+    <li>subject->ﺕﺍﻭﺮﻀﺧ</li>
+    <li>subject->ﺕﺎﺗﺎﺒﻧ</li>
+    <li>subject->ﺔﻋﺍﺭﺯ</li>
+    <li>subject->ﺔﻨﺘﺴﺑ</li>
+    <li>subject->ﺔﻋﺍﺭﺯ</li>
+    <li>subject->ﺔﻨﺘﺴﺑ</li>
+    <li>subject->ﺔﻋﺍﺭﺯ</li>
+    <li>subject->ﺩﺎﺼﺣ</li>
+    <li>subject->ﺔﻣﺍﺪﺘﺴﻣ ﺔﻋﺍﺭﺯ</li>
+    <li>subject->ﺕﺎﺒﻨﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﻞﻴﺻﺎﺤﻤﻟﺍ ﺓﺭﺍﺩﺇ</li>
+    <li>subject->ﺔﺑﺮﺘﻟﺍ ﺀﺍﺮﺛﺇ</li>
+    <li>subject->ﺔﻳﻮﻀﻋ ﺔﻋﺍﺭﺯ</li>
+    <li>subject->ﺀﺍﺬﻐﻟﺍ ﺝﺎﺘﻧﺇ</li>
+    <li>subject->ﻞﻴﺻﺎﺤﻤﻟﺍ ﻢﻠﻋ</li>
+  </Plants.generalRules.rulesStrings>
+  <!-- EN: plants -->
+  <Plants.skillLabel>ﺔﻋﺍﺭﺯ</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>ﺭﺎﻧ ﻕﺎﻠﻃﺇ</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>.ﺔﻀﻔﺨﻨﻣﻭ ﺔﻴﻟﺎﻋ ﺔﻴﻨﻘﺗ ﺕﺍﺫ ﺔﺤﻠﺳﺄﺑ ،ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻝﺎﺘﻗ</Shooting.description>
+  <!-- EN:
+    <li>subject->guns</li>
+    <li>subject->weapons</li>
+    <li>subject->aiming</li>
+    <li>subject->shooting</li>
+    <li>subject->gunplay</li>
+    <li>subject->marksmanship</li>
+    <li>subject->firearms</li>
+    <li>subject->sniping</li>
+    <li>subject->ballistics</li>
+    <li>subject->long-range combat</li>
+    <li>subject->precision shooting</li>
+    <li>subject->rifle mastery</li>
+    <li>subject->target practice</li>
+    <li>subject->sharpshooting</li>
+    <li>subject->ranged tactics</li>
+    <li>subject->shot placement</li>
+    <li>subject->gun handling</li>
+    <li>subject->distance shooting</li>
+  -->
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ</li>
+    <li>subject->ﺔﺤﻠﺳﺃ</li>
+    <li>subject->ﺐﻳﻮﺼﺗ</li>
+    <li>subject->ﺭﺎﻨﻟﺍ ﻕﺎﻠﻃﺇ</li>
+    <li>subject->ﺔﺤﻠﺳﺄﻟﺍ ﺔﺒﻌﻟ</li>
+    <li>subject->ﺔﻳﺎﻣﺭ</li>
+    <li>subject->ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ</li>
+    <li>subject->ﺹﺎﻨﻗ</li>
+    <li>subject->ﺕﺎﻓﻭﺬﻘﻤﻟﺍ ﻢﻠﻋ</li>
+    <li>subject->ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻝﺎﺘﻗ</li>
+    <li>subject->ﻖﻴﻗﺩ ﺐﻳﻮﺼﺗ</li>
+    <li>subject->ﻕﺩﺎﻨﺒﻟﺍ ﻥﺎﻘﺗﺇ</li>
+    <li>subject->ﻑﺍﺪﻫﺄﻟﺍ ﻰﻠﻋ ﺔﻳﺎﻣﺮﻟﺍ ﺐﻳﺭﺪﺗ</li>
+    <li>subject->ﺮﻫﺎﻣ ﺹﺎﻨﻗ</li>
+    <li>subject->ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻝﺎﺘﻘﻟﺍ ﺕﺎﻜﻴﺘﻜﺗ</li>
+    <li>subject->ﺕﺎﻘﻠﻄﻟﺍ ﻪﻴﺟﻮﺗ</li>
+    <li>subject->ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ</li>
+    <li>subject->ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻕﺎﻠﻃﺇ</li>
+  </Shooting.generalRules.rulesStrings>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>ﺭﺎﻧ ﻕﺎﻠﻃﺇ</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>ﻊﻴِﻤْﺠَﺗ</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>.ﻦﻳﺮﺧﺂﻟﺍ ﻊﻴﺠﺸﺗﻭ ﺓﺩﺎﻴﻘﻟﺍﻭ ﺐﻋﺎﻠﺘﻟﺍﻭ ﻉﺎﻨﻗﺈﻟﺍﻭ ﺽﻭﺎﻔﺘﻟﺍ</Social.description>
+  <!-- EN:
+    <li>subject->communication</li>
+    <li>subject->networking</li>
+    <li>subject->conflict resolution</li>
+    <li>subject->collaboration</li>
+    <li>subject->leadership</li>
+    <li>subject->empathy</li>
+    <li>subject->negotiation</li>
+    <li>subject->trade</li>
+    <li>subject->listening</li>
+    <li>subject->diplomacy</li>
+    <li>subject->teamwork</li>
+    <li>subject->etiquette</li>
+    <li>subject->charisma</li>
+    <li>subject->social intelligence</li>
+    <li>subject->assertiveness</li>
+    <li>subject->emotional intelligence</li>
+    <li>subject->communication skills</li>
+  -->
+  <Social.generalRules.rulesStrings>
+    <li>subject->ﻝﺎﺼﺗﺍ</li>
+    <li>subject->ﺕﺎﻜﺒﺷ</li>
+    <li>subject->ﺕﺎﻋﺍﺰﻨﻟﺍ ﻞﺣ</li>
+    <li>subject->ﻥﻭﺎﻌﺗ</li>
+    <li>subject->ﺓﺩﺎﻴﻗ</li>
+    <li>subject->ﻒﻃﺎﻌﺗ</li>
+    <li>subject->ﺽُﻭﺎَﻔَﺗ</li>
+    <li>subject->ﺓﺭﺎﺠﺗ</li>
+    <li>subject->ﻊﻤﺘﺴﻳ</li>
+    <li>subject->ﺔﻴﺳﺎﻣﻮﻠﺑﺩ</li>
+    <li>subject->ﻲﻋﺎﻤﺠﻟﺍ ﻞﻤﻌﻟﺍ</li>
+    <li>subject->ﺖﻴﻜﻴﺗﺇ</li>
+    <li>subject->ﺎﻣﺰﻳﺭﺎﻛ</li>
+    <li>subject->ﻲﻋﺎﻤﺘﺟﺍ ﺀﺎﻛﺫ</li>
+    <li>subject->ﻡﺰﺣ</li>
+    <li>subject->ﻲﻔﻃﺎﻌﻟﺍ ﺀﺎﻛﺬﻟﺍ</li>
+    <li>subject->ﻞﺻﺍﻮﺘﻟﺍ ﺕﺍﺭﺎﻬﻣ</li>
+  </Social.generalRules.rulesStrings>
+  <!-- EN: social -->
+  <Social.skillLabel>ﻊﻴِﻤْﺠَﺗ</Social.skillLabel>
+  
+</LanguageData>

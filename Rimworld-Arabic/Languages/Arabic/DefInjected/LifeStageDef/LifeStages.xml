@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>ﻎﻟﺎﺑ</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>ﻞﻔﻃ</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>ﻞﻔﻃ</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>ﻉِﻓﺍَﻳ</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>ﻎﻟﺎﺑ</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>ﺞﺿﺎﻧ ﺮﻴﻏ</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>ﺔﻗﺮﻳ</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>ﻎﻟﺎﺑ</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>ﻞﻔﻃ</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>. ﻚﺤﻀﻠﻟ ﺔﺿﺮﻋ ﺮﺜﻛﺃ ﻊﻔﺗﺮﻤﻟﺍ ﺝﺍﺰﻤﻟﺍ ﻭﻭﺫ ﻊﺿﺮﻟﺍ ﺎﻤﻨﻴﺑ ،ﺀﺎﻜﺒﻠﻟ ﺔﺿﺮﻋ ﺮﺜﻛﺃ ﺾﻔﺨﻨﻤﻟﺍ ﺝﺍﺰﻤﻟﺍ ﻭﻭﺫ ﻊﺿﺮﻟﺍ. ﺩﺮﻔﻟﺍ ﺮﺗﻮﺗ ﻭﺃ ﺓﺩﺎﻌﺳ ﻯﺪﻣ ﻞﺜﻤﻳ ﺝﺍﺰﻤﻟﺍ</HumanlikeBaby.customMoodTipString>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>ﻞﻔﻃ</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>ﻖﻫﺍﺮﻣ</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>ﺓ/ﻖﻫﺍﺮﻣ</HumanlikeTeenager.adjective>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>ﻦﻳﻮﻜﺘﻟﺍ ﻞﻤﺘﻜﻣ</MechanoidFullyFormed.label>
+  
+</LanguageData>

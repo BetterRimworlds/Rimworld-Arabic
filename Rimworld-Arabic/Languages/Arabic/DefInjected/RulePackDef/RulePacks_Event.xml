@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
+  -->
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->.[SUBJECT_definite] ﻰﻠﻋ [ABILITY_label] ﻡﺪﺨﺘﺳﺍ [INITIATOR_definite]</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
+  -->
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->.[SUBJECT_definite] ﻰﻠﻋ [ITEM_indefinite] ﻡﺪﺨﺘﺳﺍ [INITIATOR_definite]</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
+    <li>stunned(p=3)->stunned</li>
+    <li>stunned->staggered</li>
+    <li>stunned->dazed</li>
+    <li>stunned->disoriented</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
+    <li>staggered(p=3)->staggered</li>
+    <li>staggered->faltered</li>
+    <li>staggered->wobbled</li>
+    <li>staggered->wavered</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li>
+  -->
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry(SUBJECT_gender!=Female)->ﻡﻮﺠﻬﻟﺍ ﺐﺒﺴﺑ ﻭﺃ[stunned] ﻥﺎﻛ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender==Female)->ﻡﻮﺠﻬﻠﻟ[stunned] ﻥﺎﻛ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->.[INITIATOR_definite] ﻦﻣ ﻡﻮﺠﻬﺑ ﻭﺃ[stunned] ﻥﺎﻛ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender==Female)->.[INITIATOR_definite] ﻡﻮﺠﻫ ﺐﺒﺴﺑ[stunned] ﻥﺎﻛ [SUBJECT_definite]</li>
+    <!--Dejar como está sin la última vocal ya que se ha establecido una regla para eso. Zerstrick 16-10-2020-->
+    <li>stunned(p=3)->ﺭِّﺪَﺨَﺘُﻣ</li>
+    <li>stunned->ﺢﻧﺮﺘﻣ</li>
+    <li>stunned->ﺞِّﻫَﻮَﺘُﻣ</li>
+    <li>stunned->ٌﻢِّﻫَﻮَﺘُﻣ</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->.ﻭﺃ[staggered] ﻥﻮﻜﻳ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender==Female)->ﻲﻓ[staggered] ﻥﻮﻜﻳ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->ﻡﻮﺠﻬﻟﺍ ﺐﺒﺴﺑ ﻭﺃ[staggered] ﻮﻫ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender==Female)->ﻡﻮﺠﻬﻠﻟ[staggered] ﻮﻫ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender!=Female)->.[INITIATOR_definite] ﻦﻣ ﻡﻮﺠﻬﺑ ﻭﺃ[staggered] ﻥﻮﻜﻳ [SUBJECT_definite]</li>
+    <li>r_logentry(SUBJECT_gender==Female)->.[INITIATOR_definite] ﻦﻣ ﻡﻮﺠﻫ ﻦﺸﻟ[staggered] ﻮﻫ [SUBJECT_definite]</li>
+    <li>staggered(p=3)->ﺢﻧﺮﺘﻣ</li>
+    <li>staggered->ﺢّﻧﺮﺗ</li>
+    <li>staggered->ﺢﺟﺭﺄﺗ</li>
+    <li>staggered->ﺏﺬﺑﺬﺗ</li>
+    <li>r_logentry(p=0.5,SUBJECT_gender!=Female)->.ﻚﻟﺫ ﻪﺑﺎﺷ ﺎﻣ ﻭﺃ[stumbled1] ﻥﻮﻜﻳ [SUBJECT_definite]</li>
+    <li>r_logentry(p=0.5,SUBJECT_gender==Female)->ﺎﻣ ﻥﺎﻜﻣ ﻲﻓ[stumbled1] ﻮﻫ [SUBJECT_definite]</li>
+    <li>r_logentry(p=3)->.ﻙﺎﻨﻫ [stumbled] ﻮﻫ [SUBJECT_definite]</li>
+    <li>r_logentry(p=0.3,SUBJECT_gender!=Female)->ﻰﺿﻮﻔﻟﺍ ﻂﺳﻭ ﻭﺃ[stumbled1] ﻥﻮﻜﻳ [SUBJECT_definite]</li>
+    <li>r_logentry(p=0.3,SUBJECT_gender==Female)->ﻰﺿﻮﻔﻟﺍ ﻂﺳﻭ[stumbled1] ﻮﻫ [SUBJECT_definite]</li>
+    <li>r_logentry->ﻡﻮﺠﻬﻟﺍ ﺐﺒﺴﺑ [stumbled] ﻥﺎﻛ [SUBJECT_definite]</li>
+    <li>stumbled(p=3)->ﺍًﺮﺜﻌﺘﻣ</li>
+    <li>stumbled1->ﻉِﺰﻋﺰُﻣ</li>
+    <li>stumbled->ﺏﺬﺑﺬﺗ</li>
+    <li>stumbled->ﺢﻧﺮﺘﻳ</li>
+  </Event_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

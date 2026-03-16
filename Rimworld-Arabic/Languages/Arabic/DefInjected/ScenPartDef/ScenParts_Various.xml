@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>ﺔﺛﺩﺎﺣ ﺀﺎﺸﻧﺇ</CreateIncident.label>
+  
+  <!-- EN: create quest -->
+  <CreateQuest.label>ﺔﻤﻬﻣ ﺀﺎﺸﻧﺇ</CreateQuest.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>ﺔﺛﺩﺎﺣ ﻞﻴﻄﻌﺗ</DisableIncident.label>
+  
+  <!-- EN: disable quest -->
+  <DisableQuest.label>ﺔﻤﻬﻣ ﻞﻴﻄﻌﺗ</DisableQuest.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>ﺔﻳﺮﺴﻗ ﺔﻴﺤﺻ ﺔﻟﺎﺣ</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>ﺔﻳﺮﺴﻗ ﺔﻤﺳ</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>ﺩﺭﺍﻭ ﻞﺗﺎﻗ ﺐﻛﻮﻛ ﺡﻼﺳ</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>ﺔﺒﻌﻠﻟﺍ ﺀﺪﺑ ﺭﺍﻮﺣ</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>ٍﺭﺎﻋ</Naked.label>
+  
+  <!-- EN: no possessions -->
+  <NoPossessions.label>ﺕﺎﻜﻠﺘﻤﻣ ﻻ</NoPossessions.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>ﺕﻮﻤﻟﺍ ﺪﻨﻋ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺭﺎﺠﻔﻧﺍ</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>ﺡﻮﻤﺴﻤﻟﺍ ﺮﻤﻌﻟﺍ ﻕﺎﻄﻧ</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>ﺔﻤﺋﺍﺩ ﺐﻌﻟ ﺔﻟﺎﺣ</PermanentGameCondition.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>ﺐﻛﻮﻜﻟﺍ ﺔﻘﺒﻃ ﻉﻮﻧ</PlanetLayer.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>ﺀﺎﻨﺒﻟﺍ ﻊﻨﻣ</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>ﺪﻴﺼﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>. ﺪﻴﺼﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>ﺐﻴﻘﻨﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>. ﻦﻳﺪﻌﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>ﻪﻀﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>ﺔﻋﺍﺭﺰﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>. ﺽﺭﻷﺍ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>ﺍًﻴﺋﺍﻮﺸﻋ ﺮﺛﺎﻨﺘﻣ</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>ﺔﻳﺍﺪﺒﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>ﺩﺪﺤﻤﻟﺍ ﺔﺟﺎﺤﻟﺍ ﻯﻮﺘﺴﻣ</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>ﺔﻴﺋﺍﺪﺘﺑﺍ ﺕﺎﻧﺍﻮﻴﺣ</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>ﻲﺋﺍﺪﺘﺑﺍ ﺚﺤﺑ</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>ﺔﻳﺍﺪﺑ</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>ﻲﺋﺎﺼﺣﺇ ﻑِﻋﺎﺿُﻣ</StatFactor.label>
+  
+</LanguageData>

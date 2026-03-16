@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
+  <ImmediateAttackBreaching.arrivalTextEnemy>. ﺍًﺭﻮﻓ ﻥﻮﻤﺟﺎﻬﻳ\n\n. ﻢﻬﻘﻳﺮﻃ ﻲﻓ ﺀﻴﺷ ﻱﺃ ﺮﻴﻣﺪﺗﻭ ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻟﺇ ﺹﺎﺨﻟﺍ ﻢﻫﺭﺎﺴﻣ ﻥﻭﺩﺪﺤﻴﺳ. ﻙﺭﺍﻮﺳﺃ ﻕﺍﺮﺘﺧﺍ ﻥﻮﻣﺰﺘﻌﻳ ﺓﺍﺰﻐﻟﺍ ﺀﻻﺆﻫ</ImmediateAttackBreaching.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreaching.arrivalTextFriendly>. ﺍًﺭﻮﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ﻥﻮﻛﺮﺤﺘﻳ ﻢﻬﻧﺇ</ImmediateAttackBreaching.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreaching.letterLabelEnemy>ﺓﺭﺎﻏ</ImmediateAttackBreaching.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreaching.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>. ﺍًﺭﻮﻓ ﻥﻮﻤﺟﺎﻬﻳ ﻢﻬﻧﺇ\n\n. ﻢﻬﻘﻳﺮﻃ ﻲﻓ ﺀﻴﺷ ﻱﺃ ﻥﻭﺮﻣﺪﻳﻭ ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻟﺇ ﺹﺎﺨﻟﺍ ﻢﻫﺭﺎﺴﻣ ﻥﻭﺩﺪﺤﻴﺳ. ﻙﺭﺍﻮﺳﺃ ﻕﺍﺮﺘﺧﺍ ﻥﻮﻣﺰﺘﻌﻳ ﺓﺍﺰﻐﻟﺍ ﺀﻻﺆﻫ\n\n. ﻚﺧﺎﺨﻓ ﺾﻌﺑ ﻆﺣﻻﻭ ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ ﻥﺍﺮﻴﻧ ﺕﻻﺎﺠﻣ ﻥﻮﺒﻨﺠﺘﻴﺳ. ﻢﻬﺗﺎﻜﻴﺘﻜﺗ ﻲﻓ ﻱﺩﺎﻋ ﺮﻴﻏ ﻞﻜﺸﺑ ﺀﺎﻴﻛﺫﺃ ﻢﻬﻧﺃ ﻭﺪﺒﻳ - ﺭﺬﺣﺍ</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>. ﺍًﺭﻮﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ﻥﻮﻛﺮﺤﺘﻳ ﻢﻬﻧﺇ</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>ﺓﺭﺎﻏ</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

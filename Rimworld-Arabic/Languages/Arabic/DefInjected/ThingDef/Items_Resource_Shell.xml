@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>ﺓﺩﺎﻤﻠﻟ ﺩﺎﻀﻣ ﻲﺑﺮﺣ ﺱﺃﺭ</Bullet_Shell_AntigrainWarhead.label>
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻔﻳﺬﻗ</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ ﺔﻔﻳﺬﻗ</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﺔﻔﻳﺬﻗ</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>ﺔﻗﺭﺎﺣ ﺔﻔﻳﺬﻗ</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: smoke shell -->
+  <Bullet_Shell_Smoke.label>ﻥﺎﺧﺩ ﺔﻔﻳﺬﻗ</Bullet_Shell_Smoke.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>ﺓﺩﺎﻤﻠﻟ ﺩﺎﻀﻣ ﻲﺑﺮﺣ ﺱﺃﺭ</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﻳ. ﺦﻔﻛ ﻪﺒﻴﻛﺮﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻫ ﻦﻣ ﻪﻗﻼﻃﺇ ﻦﻜﻤﻳ. ﻑﺪﻬﻟﺍ ﻝﻮﺣ ﻖﺋﺍﺮﺤﻟﺍ ﻞﻌﺷُﻳﻭ ﺍًﻠﺋﺎﻫ ﺍًﺭﺎﺠﻔﻧﺍ ﺙﺪﺣُﻳﻭ ،ﺔﺌﻟﻸﺘﻤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ﺏﺮﺤﻟﺍ ﺕﻻﺁ ﻭﺃ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍ ﻞﺑِﻗ ﻦﻣ ًﺓﺩﺎﻋ ﻡﺪﺨﺘﺳُﻳ. ﺓﺩﺎﻀﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﻦﻣ ﺔﺒﺤﺑ ﻞﻤﻌﻳ ﺔﻴﻨﻘﺘﻟﺍ ﻖﺋﺎﻓ ﻲﺑﺮﺣ ﺱﺃﺭ</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻔﻳﺬﻗ</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ. ﺦﻔﻛ ﺎﻬﺘﻴﺒﺜﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻫ ﻦﻣ ﺎﻬﻗﻼﻃﺇ ﻦﻜﻤﻳ. ﺍًﺘﻗﺆﻣ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍﻭ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻞﻄﻌﺗ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺕﺎﻀﺒﻨﻟﺍ. ﺮﻴﺠﻔﺘﻟﺍ ﺪﻨﻋ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ ﺪﻴﻟﻮﺘﻟ ،ﺕﺎﻴﺋﺍﻮﻬﻟﺍﻭ ﺕﺎﻳﺭﺎﻄﺒﻟﺎﺑ ﺔﺌﻴﻠﻣ ﺔﻔﻳﺬﻗ</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ ﺔﻔﻳﺬﻗ</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻓْﻨﺗﻭ ،ﺦﻔﻛ ﺎﻬﺒﻴﻛﺮﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻫ ﻦﻣ ﺎﻬﻗﻼﻃﺇ ﻦﻜﻤﻳﻭ ،ﻖﻳﺮﺤﻠﻟ ﺔﻣﻭﺎﻘﻣ ﺓﻮﻏﺮﺑ ﺓﺀﻮﻠﻤﻣ ﺔﻃﻮﻐﻀﻣ ﺔﻔﻳﺬﻗ</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﺔﻔﻳﺬﻗ</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ. ﺦﻔﻛ ﺎﻬﺒﻴﻛﺮﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻫ ﻦﻣ ﺎﻬﻗﻼﻃﺇ ﻦﻜﻤﻳ. ﺮﻴﺛﺄﺘﻟﺍ ﺔﻴﻟﺎﻋ ﺕﺍﺮﺠﻔﺘﻤﻟﺎﺑ ﺔﺌﻴﻠﻣ ﺔﻔﻳﺬﻗ</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>ﺔﻗﺭﺎﺣ ﺔﻔﻳﺬﻗ</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ. ﺦﻔﻛ ﺎﻬﺘﻴﺒﺜﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻬﻟﺍ ﻦﻣ ﺎﻬﻗﻼﻃﺇ ﻦﻜﻤﻳ. ﺮﻴﺠﻔﺘﻟﺍ ﺪﻨﻋ ﻖﺋﺍﺮﺤﻟﺍ ﻞﻌﺷُﺗ. ﺓﺮﻴﻐﺻ ﺔﻳﺮﻴﺠﻔﺗ ﺔﻨﺤﺷﻭ ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻘﻟﺍ ﻡﻼﻬﻟﺎﺑ ﺓﺀﻮﻠﻤﻣ ﺔﻔﻳﺬﻗ</Shell_Incendiary.description>
+  
+  <!-- EN: smoke shell -->
+  <Shell_Smoke.label>ﻥﺎﺧﺩ ﺔﻔﻳﺬﻗ</Shell_Smoke.label>
+  <!-- EN: A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Smoke.description>. ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ. ﺦﻔﻛ ﺎﻬﺒﻴﻛﺮﺗ ﻭﺃ ﺕﺎﻧﻭﺎﻬﻟﺍ ﻦﻣ ﺎﻬﻗﻼﻃﺇ ﻦﻜﻤﻳ. ﺖﻴﺒﺜﺘﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻊﻨﻤﺗﻭ ﺓﺩﺭﺍﻮﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ ﺐﺠﺤﺗ ،ﺭﺎﺠﻔﻧﻻﺍ ﺪﻨﻋ ﻥﺎﺧﺪﻟﺍ ﻦﻣ ﺔﺑﺎﺤﺳ ﺪﻟﻮﺗ ﺔﻔﻳﺬﻗ</Shell_Smoke.description>
+  
+</LanguageData>

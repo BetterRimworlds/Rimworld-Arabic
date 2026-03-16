@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.description>{PAWN_gender ? . ﺓﺮﻴﻐﺻ ﺔﻠﻔﻃ ﺖﻧﺎﻛ ﺎﻣﺪﻨﻋ ﻞﻠﺴﺘﻟﺍ ﻦﻓ ﻰﻠﻋ [PAWN_nameDef] ﺖﺑﺭﺩ. ﺕﺍﺯﺎﺘﻤﻣ ﺲﻴﺳﺍﻮﺟ ﺎﻬﻠﻌﺠﻳ ﺎﻤﻣ ،ﺎﻬﺘﻌﻴﺒﻄﺑ ﺀﺎﻳﺮﺑﺃ ﻝﺎﻔﻃﻷﺍ ﺮﺒﺘﻋُﺗ\n\n. ﺍًﺪﺑﺃ ﺍًﻴﻌﻴﺒﻃ ﺍًﻤﻴﻠﻌﺗ ﻖﻠﺘﺗ ﻢﻟ ﺎﻬﻨﻜﻟ ،ﺏﺬﻜﻟﺍﻭ ﻲﻋﺎﻤﺘﺟﻻﺍ ﺐﻋﻼﺘﻟﺍ ﻲﻓ ﺓﺮﺒﺧ ﻱﺮﺴﻟﺍ ﻞﻤﻌﻟﺍ ﻲﻓ ﺎﻬﺗﺍﻮﻨﺳ ﺎﻬﺘﻄﻋﺃ : . ًﺍﺮﻴﻐﺻ ًﻼﻔﻃ ﻥﺎﻛ ﺎﻣﺪﻨﻋ ﻞﻠﺴﺘﻟﺍ ﻦﻓ ﻲﻓ [PAWN_nameDef] ﺐﻳﺭﺪﺗ ﻢﺗ. ﻦﻳﺯﺎﺘﻤﻣ ﺲﻴﺳﺍﻮﺟ ﻢﻬﻠﻌﺠﻳ ﺎﻤﻣ ،ﺀﺎﻳﺮﺑﺃ ﻝﺎﻔﻃﻷﺍ ﻥﺃ ﺽﺮﺘﻓُﻳ\n\n. ﺍًﺪﺑﺃ ﺍًﻴﻌﻴﺒﻃ ﺍًﻤﻴﻠﻌﺗ ﻖﻠﺘﻳ ﻢﻟ ﻪﻨﻜﻟ ،ﺏﺬﻜﻟﺍﻭ ﻲﻋﺎﻤﺘﺟﻻﺍ ﺐﻋﻼﺘﻟﺍ ﻲﻓ ﺓﺮﺒﺧ ﻱﺮﺴﻟﺍ ﻞﻤﻌﻟﺍ ﻲﻓ ﻪﺗﺍﻮﻨﺳ ﻪﺘﻄﻋﺃ}</ChildSpy47.description>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>ﻞﻔﻃ ﺱﻮﺳﺎﺟ</ChildSpy47.title>
+  <ChildSpy47.titleFemale>ﺔﻠﻔﻃ ﺔﺳﻮﺳﺎﺟ</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>ﺱﻮﺳﺎﺟ</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>ﺔﺳﻮﺳﺎﺟ</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.description>{PAWN_gender ? . ﺎﻬﻤﻴﻠﻌﺗ ﺔﻠﻗﺮﻋ ﻰﻟﺇ ﻞﻴﻤﺗ ﺖﻧﺎﻛ ﺍًﻀﻳﺃ ﺎﻬﻨﻜﻟ ،ﺔﻔﻠﺘﺨﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺎﺑ ﻝﺎﺼﺗﺍ ﻲﻓ ﺮﻴﻬﺸﻟﺍ ﺎﻬﻌﺿﻭ. ﺔﻴﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺍﺮﺒﻟﺍﻭ ﻡﻼﻓﻷﺍ ﻲﻓ ﺔﻠﻔﻃ ﺔﻠﺜﻤﻤﻛ ﻡﻷﺍ ﺎﻬﻤﻟﺎﻋ ﻲﻓ ﻊﺳﺍﻭ ﻕﺎﻄﻧ ﻰﻠﻋ ﺔﻓﻭﺮﻌﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﻪﻤﻴﻠﻌﺗ ﺔﻠﻗﺮﻋ ﻰﻟﺇ ﻞﻴﻤﺗ ﺖﻧﺎﻛ ﺍًﻀﻳﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﻔﻠﺘﺨﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺎﺑ ﻝﺎﺼﺗﺍ ﻰﻠﻋ ﻪﺗﺮﻬﺷ ﺖﺒﻠﺟ. ﺔﻴﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺍﺮﺒﻟﺍﻭ ﻡﻼﻓﻷﺍ ﻲﻓ ﻞﺜﻤﻣ ﻞﻔﻄﻛ ﻡﻷﺍ ﻪﻤﻟﺎﻋ ﻲﻓ ﻊﺳﺍﻭ ﻕﺎﻄﻧ ﻰﻠﻋ ﺍًﻓﻭﺮﻌﻣ [PAWN_nameDef] ﻥﺎﻛ}</ChildStar74.description>
+  <!-- EN: child star -->
+  <ChildStar74.title>ﻲﻟﻮﻔﻃ ﻢﺠﻧ</ChildStar74.title>
+  <ChildStar74.titleFemale>ﺔﻟﻮﻔﻃ ﺔﻤﺠﻧ</ChildStar74.titleFemale>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>ﻢﺠﻧ</ChildStar74.titleShort>
+  <ChildStar74.titleShortFemale>ﺔﻤﺠﻧ</ChildStar74.titleShortFemale>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.description>{PAWN_gender ? . ﺎﻬﺘﺼﻗ ﻥﻮﻌﻤﺴﻳ ﺎﻣﺪﻨﻋ ﺎﻬﻴﻠﻋ ﺔﻘﻔﺸﻟﺍ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﺱﺎﻨﻟﺍ ﻦﻜﻟ ،ﻝﻮﻤﺨﻟﺍ ﺕﺍﻮﻨﺳ ﻦﻣ ﺎﻫﺪﺴﺟ ﻑﺎﻌﺘﻳ ﻢﻟ. ﺎﻬﺘﻘﻫﺍﺮﻣ ﺕﺍﻮﻨﺳ ﺮﺧﺍﻭﺃ ﻰﺘﺣ ﻆﻘﻴﺘﺴﺗ ﻢﻟ. ﺔﺑﻮﺒﻴﻏ ﻲﻓ ﺎﻬﻟﻮﺧﺩ ﻰﻟﺇ ﻯﺩﺃ ﺎﻬﺘﻟﻮﻔﻃ ﻲﻓ ﺙﺩﺎﺤﻟ [PAWN_nameDef] ﺖﺿﺮﻌﺗ : . ﻪﺘﺼﻗ ﻥﻮﻌﻤﺴﻳ ﺎﻣﺪﻨﻋ ﻪﻴﻠﻋ ﺔﻘﻔﺸﻟﺍ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﺱﺎﻨﻟﺍ ﻦﻜﻟ ،ﻝﻮﻤﺨﻟﺍ ﺕﺍﻮﻨﺳ ﻦﻣ ﻩﺪﺴﺟ ﻑﺎﻌﺘﻳ ﻢﻟ. ﺔﻘﻫﺍﺮﻤﻟﺍ ﺕﺍﻮﻨﺳ ﺮﺧﺍﻭﺃ ﻰﺘﺣ ﻆﻘﻴﺘﺴﻳ ﻢﻟ. ﺔﺑﻮﺒﻴﻏ ﻲﻓ [PAWN_nameDef] ﺔﻟﻮﻔﻄﻟﺍ ﻲﻓ ﺙﺩﺎﺣ ﻞﺧﺩﺃ}</ComaChild93.description>
+  <!-- EN: coma child -->
+  <ComaChild93.title>ﺔﺑﻮﺒﻴﻏ ﻞﻔﻃ</ComaChild93.title>
+  <ComaChild93.titleFemale>ﺔﺑﻮﺒﻴﻏ ﺔﻠﻔﻃ</ComaChild93.titleFemale>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>ﺔﺑﻮﺒﻴﻏ ﻞﻔﻃ</ComaChild93.titleShort>
+  <ComaChild93.titleShortFemale>ﺔﺑﻮﺒﻴﻏ ﺔﻠﻔﻃ</ComaChild93.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.description>{PAWN_gender ? . ﺱﺪﻘﻤﻟﺍ ﻦﻔﻟﺍ ﻝﻼﺧ ﻦﻣ ﺡﻭﺮﻟﺍ ﺮﻴﻬﻄﺘﺑ ﻪﺟﻼﻋ ﻦﻜﻤﻳ ﺽﺮﻣ ﻞﻛ ﻥﺄﺑ ﺖﻨﻣﺁﻭ ﺔﻣﺪﻘﺘﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺕﺬﺒﻧ ﺔﻳﻮﻗ ﺔﻔﺋﺎﻃ ﻲﻓ [PAWN_nameDef] ﺕﺪﻟﻭ\n\n. ﺏﺮﻬﻟﺍ ﺕﺭﺮﻗ ،ﻲﺟﺭﺎﺨﻟﺍ ﻢﻟﺎﻌﻟﺍ ﻰﻠﻋ ﺎﻬﻟ ﺓﺮﻈﻧ ﻝﻭﺃ ﺪﻌﺑ : . ﺱﺪﻘﻤﻟﺍ ﻦﻔﻟﺍ ﻝﻼﺧ ﻦﻣ ﺡﻭﺮﻟﺍ ﺮﻴﻬﻄﺘﺑ ﻪﺟﻼﻋ ﻦﻜﻤﻳ ﺽﺮﻣ ﻞﻛ ﻥﺄﺑ ﺖﻨﻣﺁﻭ ﺔﻣﺪﻘﺘﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺕﺬﺒﻧ ﺔﻳﻮﻗ ﺔﻔﺋﺎﻃ ﻲﻓ [PAWN_nameDef] ﺪﻟﻭ\n\n. ﺏﺮﻬﻟﺍ ﺭﺮﻗ ،ﻲﺟﺭﺎﺨﻟﺍ ﻢﻟﺎﻌﻟﺍ ﻰﻠﻋ ﻪﻟ ﺓﺮﻈﻧ ﻝﻭﺃ ﺪﻌﺑ}</CultChild3.description>
+  <!-- EN: cult child -->
+  <CultChild3.title>ﻲﻔﺋﺎﻃ ﻞﻔﻃ</CultChild3.title>
+  <CultChild3.titleFemale>ﺔﻴﻔﺋﺎﻃ ﺔﻠﻔﻃ</CultChild3.titleFemale>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>ﺔﻔﺋﺎﻄﻟﺍ ﻞﻔﻃ</CultChild3.titleShort>
+  <CultChild3.titleShortFemale>ﺔﻔﺋﺎﻄﻟﺍ ﺔﻠﻔﻃ</CultChild3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.description>{PAWN_gender ? . ﺀﺍﺬﻐﻟﺎﺑ ﺔﻟﻮﻘﻨﻤﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺕﺎﺒﺒﺴﻣﻭ ﺀﺎﺒﻃﻷﺍ ،ﻯﺮﺧﺃ ﺭﻮﻣﺃ ﻦﻴﺑ ﻦﻣ ،ﻰﺸﺨﺗ ﺖﻧﺎﻛ. ﺔﻴﺒﺼﻌﻟﺍ ﺱﻭﺎﺳﻮﻟﺍﻭ ﻑﻭﺎﺨﻤﻟﺍ ﻦﻣ ﺔﻠﻳﻮﻃ ﺔﻤﺋﺎﻗ ﻲﻧﺎﻌﺗ ﻲﻫﻭ [PAWN_nameDef] ﺕﺄﺸﻧ\n\n. ﻍﻮﻠﺒﻟﺍ ﺔﻠﺣﺮﻣ ﻲﻓ ﺎﻫﺩﺭﺎﻄﺗ ﺎﻬﻓﻭﺎﺨﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻜﻟ ،ﺎﻬﺴﻔﻨﺑ ﺔﻳﺎﻨﻌﻟﺍﻭ ﻲﻬﻄﻟﺍ ﺖﻤﻠﻌﺗ ،ﻚﻟﺬﻟ ﺔﺠﻴﺘﻧﻭ : . ﺀﺍﺬﻐﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻞﻘﺘﻨﺗ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﻞﻣﺍﻮﻋﻭ ﺀﺎﺒﻃﻷﺍ ،ﻯﺮﺧﺃ ﺭﻮﻣﺃ ﻦﻴﺑ ﻦﻣ ،ﻑﺎﺨﻳ ﻥﺎﻛ. ﺔﻴﺒﺼﻌﻟﺍ ﺕﺎﻧﺎﻫﺬﻟﺍﻭ ﻑﻭﺎﺨﻤﻟﺍ ﻦﻣ ﺔﻠﻳﻮﻃ ﺔﻤﺋﺎﻗ ﻪﻳﺪﻟﻭ [PAWN_nameDef] ﺄﺸﻧ\n\n. ﻍﻮﻠﺒﻟﺍ ﺔﻠﺣﺮﻣ ﻲﻓ ﻩﺩﺭﺎﻄﺗ ﻪﻓﻭﺎﺨﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻜﻟ ،ﻪﺴﻔﻨﺑ ﺔﻳﺎﻨﻌﻟﺍﻭ ﺦﺒﻄﻟﺍ ﻢﻠﻌﺗ ،ﻚﻟﺬﻟ ﺔﺠﻴﺘﻧﻭ}</FrightenedChild43.description>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>ﻒﺋﺎﺧ ﻞﻔﻃ</FrightenedChild43.title>
+  <FrightenedChild43.titleFemale>ﺔﻔﺋﺎﺧ ﺔﻠﻔﻃ</FrightenedChild43.titleFemale>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>ﻒﺋﺎﺧ</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>ﺔﺑﻮﻋﺮﻣ</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.description>{PAWN_gender ? . ﺭﺎﻨﻟﺍ ﻦﻣ ﺍًﻤﺋﺍﺩ ﺍًﻓﻮﺧ ﺎﻬﻳﺪﻟ ﺖﻛﺮﺗ. ﻙﺭﺎﻌﻤﻟﺍ ﺕﺎﺣﺎﺳ ﻦﻣ ﺔﻋﻭﺮﻤﻟﺍ ﻕﻭﺮﺤﻟﺍ ﻖﻓﺪﺗ ﺞﻟﺎﻌﺗﻭ ،ﻰﻔﺸﺘﺴﻣ ﻲﻓ ﺎﻬﻳﺪﻟﺍﻭ ﺪﻋﺎﺴﺗ ﻲﻫﻭ ﺕﺄﺸﻧ. ﺔﻗﺭﺎﺣ ﺔﺤﻠﺳﺃ ﻦﻴﻓﺮﻄﻟﺍ ﻼﻛ ﺎﻬﻴﻓ ﻡﺪﺨﺘﺳﺍ ﺔﻴﺛﺭﺎﻛ ﺏﺮﺣ ﻝﻼﺧ [PAWN_nameDef] ﺕﺪﻟﻭ : . ﺭﺎﻨﻟﺍ ﻦﻣ ﻢﺋﺍﺩ ﻑﻮﺧ ﻪﻳﺪﻟ ﻲﻘﺑ. ﻙﺭﺎﻌﻤﻟﺍ ﺕﺎﺣﺎﺳ ﻦﻣ ﺔﻋﻭﺮﻤﻟﺍ ﻕﻭﺮﺤﻟﺍ ﻖﻓﺪﺗ ﺞﻟﺎﻌﻳ ،ﻰﻔﺸﺘﺴﻣ ﻲﻓ ﻪﻳﺪﻟﺍﻭ ﺪﻋﺎﺴﻳ ﻮﻫﻭ ﺄﺸﻧ. ﺔﻗﺭﺎﺤﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻦﻴﻓﺮﻄﻟﺍ ﻼﻛ ﺎﻬﻴﻓ ﻡﺪﺨﺘﺳﺍ ﺔﻴﺛﺭﺎﻛ ﺏﺮﺣ ﻝﻼﺧ [PAWN_nameDef] ﺪﻟُﻭ}</MedicalAssistant12.description>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>{PAWN_gender ? ﺔﻴﺒﻃ ﺓﺪﻋﺎﺴﻣ : ﻲﺒﻃ ﺪﻋﺎﺴﻣ}</MedicalAssistant12.title>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>{PAWN_gender ? ﺔﻔﻌﺴﻣ : ﻒﻌﺴﻣ}</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.description>{PAWN_gender ? . ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺓﺭﻭﺮﻐﻣ ﺎﻬﺘﻠﻌﺟ ﺎﻬﺘﻘﻠﺗ ﻲﺘﻟﺍ ﺓﺮﺧﺎﻔﻟﺍ ﺓﺩﺎﺷﻹﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺕﻻﺎﻔﺘﺣﻻﺍﻭ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺕﻼﻔﺤﻟﺍ ﻲﻓ ﺀﺍﺩﻷﺍ ﺖﺒﺣﺃﻭ ﺍًﺮﻴﺒﺧ ﺍًﺒﻳﺭﺪﺗ ﺖﻘﻠﺗ. ﺀﺎﻨﻐﻟﺍﻭ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺕﻻﻵﺍ ﻰﻠﻋ ﻑﺰﻌﻟﺍ ﻲﻓ ﺔﺑﻮﻫﻮﻣ [PAWN_nameDef] ﺖﻧﺎﻛ ،ﺎﻬﺘﻟﻮﻔﻃ ﻲﻓ : . ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺍًﺭﻭﺮﻐﻣ ﻪﺘﻠﻌﺟ ﺎﻫﺎﻘﻠﺗ ﻲﺘﻟﺍ ﺓﺮﺧﺎﻔﻟﺍ ﺓﺩﺎﺷﻹﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺕﻼﻔﺤﻟﺍﻭ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺕﻼﻔﺤﻟﺍ ﻲﻓ ﺀﺍﺩﻷﺍ ﺐﺣﺃﻭ ﺍًﺮﻴﺒﺧ ﺍًﺒﻳﺭﺪﺗ ﻰﻘﻠﺗ. ﺀﺎﻨﻐﻟﺍﻭ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺕﻻﻵﺍ ﻰﻠﻋ ﻑﺰﻌﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ [PAWN_nameDef] ﻯﺪﻟ ﻥﺎﻛ ،ﻪﺘﻟﻮﻔﻃ ﻲﻓ}</MusicalKid86.description>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>ﻰﻘﻴﺳﻮﻤﻟﺎﺑ ﺏﻮﻫﻮﻣ ﻞﻔﻃ</MusicalKid86.title>
+  <MusicalKid86.titleFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻘﻴﺳﻮﻣ</MusicalKid86.titleFemale>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>{PAWN_gender ? ﺔﻴﻘﻴﺳﻮﻣ : ﻲﻘﻴﺳﻮﻣ}</MusicalKid86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.description>{PAWN_gender ? . ﺎﻬﻟﺰﻨﻣ ﻲﻓ ﺓﺪﻳﺪﻌﻟﺍ ﺔﻔﻴﻟﻷﺍ ﺎﻬﺗﺎﻧﺍﻮﻴﺣ ﻊﻣ ﺐﻌﻠﻟﺍ ﺔﻠﻀﻔﻣ ،ﺱﺎﻨﻟﺍ ﻰﻟﺇ ﺙﺪﺤﺘﻟﺍ ﺖﻀﻓﺭ ،ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ. ﺎﻬﺗﺎﻴﺣ ﺔﻳﺍﺪﺑ ﻲﻓ ﺔﻤﻟﺆﻣ ﺔﺛﺩﺎﺤﺑ ﺓﺪﺸﺑ [PAWN_nameDef] ﺕﺮﺛﺄﺗ : . ﻪﻟﺰﻨﻣ ﻲﻓ ﺓﺪﻳﺪﻌﻟﺍ ﻪﻔﻴﻟﺃ ﺕﺎﻧﺍﻮﻴﺣ ﻊﻣ ﺐﻌﻠﻟﺍ ًﻼﻀﻔﻣ ،ﺱﺎﻨﻟﺍ ﻰﻟﺇ ﺙﺪﺤﺘﻟﺍ ﺾﻓﺭ ،ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ. ﻪﺗﺎﻴﺣ ﺔﻳﺍﺪﺑ ﻲﻓ ﺔﻤﻟﺆﻣ ﺔﺛﺩﺎﺤﺑ ﺓﺪﺸﺑ [PAWN_nameDef] ﺮﺛﺄﺗ}</Mute34.description>
+  <!-- EN: mute -->
+  <Mute34.title>ﻢﻜﺑﺃ</Mute34.title>
+  <Mute34.titleFemale>ﺀﺎﻤﻜﺑ</Mute34.titleFemale>
+  <!-- EN: mute -->
+  <Mute34.titleShort>ﻢﻜﺑﺃ</Mute34.titleShort>
+  <Mute34.titleShortFemale>ﺀﺎﻤﻜﺑ</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.description>{PAWN_gender ? . ﻥﺎﺴﻧﻹﺍ ﺎﻴﺟﻮﻟﻮﻴﺒﻟ ﺍًﺪﻳﺮﻓ ﺍًﻤﻬﻓ ﺍًﻀﻳﺃ ﺎﻬﺘﺤﻨﻣ ﺎﻬﻧﺃ ﻻﺇ ،ﺕﺎﻳﺮﻛﺬﻟﺍ ﺎﻫﺩﺭﺎﻄﺗ ﺎﻬﺘﻛﺮﺗ ﺎﻬﺘﻴﺑﺮﺗ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺔﻗﺰﺗﺮﻤﻟﺍ ﻦﻣ ﻰﺣﺮﺠﻠﻟ ﺔﻳﻮﻀﻋ ﺕﺎﻋﺍﺭﺯ ﺀﺎﻤﻧﻹ ﺎﻫﺪﺴﺟ ﻡﺪﺧُﺘﺳﺍ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ ﻲﻓ [PAWN_nameDef] ﺖﻋﺮﻋﺮﺗ : . ﻥﺎﺴﻧﻹﺍ ﺎﻴﺟﻮﻟﻮﻴﺒﻟ ﺍًﺪﻳﺮﻓ ﺍًﻤﻬﻓ ﻩْﺘﺤﻨﻣ ﺎﻬﻧﺃ ﻻﺇ ،ﺍًﺑﺬﻌﻣ ﻪﺘﻛﺮﺗ ﻪﺘﻴﺑﺮﺗ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﻰﺣﺮﺟ ﺔﻗﺰﺗﺮﻤﻟ ﺔﻳﻮﻀﻋ ﺀﺎﻀﻋﺃ ﺔﻋﺍﺭﺰﻟ ﻩﺪﺴﺟ ﻡﺪﺧُﺘﺳﺍ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ ﻲﻓ [PAWN_nameDef] ﻉﺮﻋﺮﺗ}</OrganFarm67.description>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ</OrganFarm67.title>
+  <OrganFarm67.titleFemale>ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ</OrganFarm67.titleFemale>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ</OrganFarm67.titleShort>
+  <OrganFarm67.titleShortFemale>ﺀﺎﻀﻋﺃ ﺔﻋﺭﺰﻣ</OrganFarm67.titleShortFemale>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.description>{PAWN_gender ? . ﻲﻋﻭ ﻥﻭﺩ ﺎﻬﺴﻔﻧ ﻕﺮﺤﺗ ﺖﻧﺎﻛ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺐﻬﻠﻟﺍ ﺮﺤﺳ ﻲﻓ ﻕﺮﻐﺗﻭ ﺔﻣﺎﻤﻘﻟﺍ ﻡﺍﻮﻛﺃ ﻞﻌﺸﺗ ﺖﻧﺎﻛ. ﺭﺎﻨﻟﺎﺑ ﻲﺤﺻ ﺮﻴﻏ ﺱﻮﻫ [PAWN_nameDef] ـﻝ ﺖﻧﺎﻛ ،ﺎﻫﺭﺎﻔﻇﺃ ﺔﻣﻮﻌﻧ ﺬﻨﻣ\n\n. ﻝﺎﻤﻫﺇ ﻦﻋ ﺎﻬﻟﺰﻨﻣ ﺖﻗﺮﺣﺃ ،ﺩﺍﻮﻋﻻﺎﺑ ﺐﻌﻠﺗ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑ ﻡﺎﻳﻷﺍ ﺪﺣﺃ ﻲﻓ : . ﻲﻋﻭ ﻥﻭﺩ ﻪﺴﻔﻧ ﻕﺮﺤﻳ ﻥﺎﻛ ﻪﻧﺃ ﺔﺟﺭﺪﻟ ﺐﻬﻠﻟﺎﺑ ﺔﻳﺎﻐﻠﻟ ﺍًﻧﻮﺘﻔﻣ ﺢﺒﺼﻳﻭ ﺔﻣﺎﻤﻘﻟﺍ ﻡﺍﻮﻛﺃ ﻞﻌﺸﻳ ﻥﺎﻛ. ﺭﺎﻨﻟﺎﺑ ﻲﺤﺻ ﺮﻴﻏ ﺱﻮﻫ [PAWN_nameDef] ﻯﺪﻟ ﻥﺎﻛ ،ﻩﺭﺎﻔﻇﺃ ﺔﻣﻮﻌﻧ ﺬﻨﻣ\n\n. ﻝﺎﻤﻫﺇ ﻦﻋ ﻪﻟﺰﻨﻣ ﻕﺮﺣﺃ ،ﺏﺎﻘﺜﻟﺍ ﺩﺍﻮﻋﻻﺎﺑ ﺐﻌﻠﻳ ﻥﺎﻛ ﺎﻤﻨﻴﺑ ﻡﺎﻳﻷﺍ ﺪﺣﺃ ﻲﻓ}</Pyromaniac18.description>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>ﻖﺋﺍﺮﺤﻟﺎﺑ ﺱﻭﻮﻬﻣ</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>ﻖﺋﺍﺮﺤﻟﺎﺑ ﺔﺳﻭﻮﻬﻣ</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>ﺭﺎﻧ ﺱﻭﻮﻬﻣ</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShortFemale>ﺭﺎﻧ ﺔﺳﻭﻮﻬﻣ</Pyromaniac18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.description>{PAWN_gender ? . ﺔﻣﻭﺎﺴﻤﻟﺍ ﻦﻓ ﻦﻋ ﺮﻴﺜﻜﻟﺍﻭ ،ﺎﻬﻌﻴﺒﺗ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺔﺒﻳﺮﻐﻟﺍ ﻒﺤﺘﻟﺍ ﻦﻋ ﻞﻴﻠﻘﻟﺍ ﺖﻤﻠﻌﺗ. ﺪﻴﺣﻮﻟﺍ ﻢﻬﻠﺧﺩ ﺭﺪﺼﻣ ﻥﺎﻛ ﻱﺬﻟﺍ ﺮﺠﺘﻤﻟﺍ ﺓﺭﺍﺩﺇ ﺀﺒﻋ ﺎﻬﻴﻠﻋ ﻂﻘﺳﻭ ،ﺔﻀﻳﺮﻣ ﺍًﺒﻟﺎﻏ [PAWN_nameDef] ﺓﺪﻟﺍﻭ ﺖﻧﺎﻛ : . ﺔﻣﻭﺎﺴﻤﻟﺍ ﻦﻓ ﻦﻋ ﺮﻴﺜﻜﻟﺍﻭ ،ﺎﻬﻌﻴﺒﻳ ﻥﺎﻛ ﻲﺘﻟﺍ ﺔﺒﻳﺮﻐﻟﺍ ﻒﺤﺘﻟﺍ ﻦﻋ ﻞﻴﻠﻘﻟﺍ ﻢﻠﻌﺗ. ﺪﻴﺣﻮﻟﺍ ﻢﻬﻠﺧﺩ ﺭﺪﺼﻣ ﻥﺎﻛ ﻱﺬﻟﺍ ﺮﺠﺘﻤﻟﺍ ﺓﺭﺍﺩﻹ ﻪﻴﻠﻋ ﻊﻘﻳ ﺮﻣﻷﺍ ﻥﺎﻛﻭ ،ﺽﺮﻤﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ [PAWN_nameDef] ﺓﺪﻟﺍﻭ ﺖﻧﺎﻛ}</ShopKid36.description>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>ﺮﺠﺘﻤﻟﺍ ﻞﻔﻃ</ShopKid36.title>
+  <ShopKid36.titleFemale>ﺮﺠﺘﻤﻟﺍ ﺔﻠﻔﻃ</ShopKid36.titleFemale>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>ﺮﺠﺘﻤﻟﺍ ﻞﻔﻃ</ShopKid36.titleShort>
+  <ShopKid36.titleShortFemale>ﺮﺠﺘﻤﻟﺍ ﺔﻠﻔﻃ</ShopKid36.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.description>{PAWN_gender ? . ﺐﻄﻟﺍﻭ ﻡﻮﻠﻌﻟﺎﺑ ﺔﻌﺳﺍﻭ ﺔﻳﺍﺭﺩ ﻰﻠﻋ ﺖﺤﺒﺻﺃ ،ﻰﻔﺸﺘﺴﻤﻠﻟ ﺔﻤﻘﻌﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻲﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻴﻧﺪﺒﻟﺍ ﻦﻳﺭﺎﻤﺘﻟﺍ ﻦﻣ ﻞﻴﻠﻗﻭ ﻱﺮﺸﺒﻟﺍ ﻞﺻﺍﻮﺘﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﺎﻬﻳﺪﻟ ﻥﺎﻛﻭ ،ﻰﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﺖﻟﺯُﻋ. ﺭﺩﺎﻧ ﺽﺮﻣ ﻦﻣ [PAWN_nameDef] ﺖﻧﺎﻋ ،ﺎﻬﺘﻟﻮﻔﻃ ﻲﻓ : . ﺐﻄﻟﺍﻭ ﻡﻮﻠﻌﻟﺎﺑ ﺔﻌﺳﺍﻭ ﺔﻳﺍﺭﺩ ﻰﻠﻋ ﺢﺒﺻﺃ ،ﻰﻔﺸﺘﺴﻤﻠﻟ ﺔﻤﻘﻌﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻲﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻴﻧﺪﺒﻟﺍ ﻦﻳﺭﺎﻤﺘﻟﺍ ﻦﻣ ﻞﻴﻠﻗﻭ ﻱﺮﺸﺒﻟﺍ ﻞﺻﺍﻮﺘﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﻪﻳﺪﻟ ﻥﺎﻛﻭ ،ﻰﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﻝﺯُﻋ. ﺭﺩﺎﻧ ﺽﺮﻣ ﻦﻣ [PAWN_nameDef] ﻰﻧﺎﻋ ،ﻪﺘﻟﻮﻔﻃ ﻲﻓ}</SicklyChild55.description>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>ﺾﻳﺮﻣ ﻞﻔﻃ</SicklyChild55.title>
+  <SicklyChild55.titleFemale>ﺔﻀﻳﺮﻣ ﺔﻠﻔﻃ</SicklyChild55.titleFemale>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>{PAWN_gender ? ﺔﻀﻳﺮﻣ : ﺾﻳﺮﻣ}</SicklyChild55.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.description>{PAWN_gender ? . ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺔﺻﺎﺨﻟﺍ ﺎﻬﺼﺼﻗ ﺔﺑﺎﺘﻜﺑ ﻍﺍﺮﻔﻟﺍ ﺍﺬﻫ ﻸﻤﺗ ﻥﺃ ﺕﺭﺮﻗ. ﺓﺪﺸﺑ [PAWN_nameDef] ﺖﺠﻋﺰﻧﺍ ،ﻕﻼﻏﻹﺍ ﻰﻠﻋ ﺔﺒﺘﻜﻤﻟﺍ ﺔﻴﻧﺍﺰﻴﻤﻟﺍ ﻲﻓ ﺕﺎﻀﻴﻔﺨﺘﻟﺍ ﺕﺮﺒﺟﺃ ﺎﻣﺪﻨﻋ. ﺏﺎﺘﻛ ﻲﻓ ﻪﻔﻧﺃﻭ ﺔﻴﻠﺤﻤﻟﺍ ﺎﻬﺘﺒﺘﻜﻣ ﻲﻓ ﻪﻠﻤﻛﺄﺑ ﺎﻬﻣﻮﻳ ﻲﻀﻘﺗ ﺖﻧﺎﻛ. ﺓﺀﺍﺮﻘﻟﺍ ﻰﻠﻋ ﺔﻨﻣﺪﻣ [PAWN_nameDef] ﺖﻧﺎﻛ ،ﺎﻬﺘﻟﻮﻔﻃ ﻲﻓ : . ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺔﺻﺎﺨﻟﺍ ﻪﺼﺼﻗ ﺔﺑﺎﺘﻜﺑ ﺓﻮﺠﻔﻟﺍ ﻩﺬﻫ ﺪﺳ ﺭﺮﻗ. ﺓﺪﺸﺑ [PAWN_nameDef] ﺞﻋﺰﻧﺍ ،ﻕﻼﻏﻹﺍ ﻰﻠﻋ ﺔﺒﺘﻜﻤﻟﺍ ﺔﻴﻧﺍﺰﻴﻤﻟﺍ ﺕﺎﻀﻴﻔﺨﺗ ﺕﺮﺒﺟﺃ ﺎﻣﺪﻨﻋ. ﺏﺎﺘﻛ ﻲﻓ ﻪﻔﻧﺃﻭ ﺔﻴﻠﺤﻤﻟﺍ ﻪﺘﺒﺘﻜﻣ ﻲﻓ ﻪﻠﻛ ﻪﻣﻮﻳ ﻲﻀﻘﻳ ﻥﺎﻛ. ﺓﺀﺍﺮﻘﻟﺍ ﻰﻠﻋ ﺍًﻨﻣﺪﻣ [PAWN_nameDef] ﻥﺎﻛ ،ًﻼﻔﻃ ﻪﺘﻔﺼﺑ}</StoryWriter67.description>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>ﺺﺼﻗ ﺐﺗﺎﻛ</StoryWriter67.title>
+  <StoryWriter67.titleFemale>ﺺﺼﻗ ﺔﺒﺗﺎﻛ</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>ﺐﺗﺎﻛ</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>ﺔﺒﺗﺎﻛ</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.description>{PAWN_gender ? . ﻱﺮﺸﺒﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻦﻣ ﺭﻮﻔﻧ ﺎﻬﻳﺪﻟﻭ ﻪﻋﺍﻮﻧﺃ ﻞﻜﺑ ﻝﺎﺘﻘﻟﺍ ﻰﻟﺇ ﻞﻴﻤﺗ [PAWN_nameDef] ﻝﺍﺰﺗ ﻻﻭ ،ﻉﺭﺎﺴﺘﻤﻟﺍ ﺎﻫﻮﻤﻧ ﻝﻼﺧ ﻝﺎﺘﻘﻟﺍ ﺖﻣّﻟُﻋﻭ ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﺤﻠﺳﺃ ﺓﺄﺸﻨﻣ ﻲﻓ ﺖﺌﺷُﻧ. ﺭﺎﻣﺪﻠﻟ ﺓﺍﺩﺄﻛ ﻞﺑ ،ﺺﺨﺸﻛ [PAWN_nameDef] ﻖﻠﺧُﺗ ﻢﻟ : . ﻱﺮﺸﺒﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻦﻣ ﺭﻮﻔﻧﻭ ﻪﻋﺍﻮﻧﺃ ﻞﻜﺑ ﻝﺎﺘﻘﻠﻟ ﻞﻴﻣ ﻪﻳﺪﻟ [PAWN_nameDef] ﻝﺍﺰﻳ ﻻﻭ ،ﻉﺭﺎﺴﺘﻤﻟﺍ ﻩﻮﻤﻧ ﻝﻼﺧ ﻝﺎﺘﻘﻟﺍ ﻡّﻟُﻋﻭ ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﺤﻠﺳﺃ ﺓﺄﺸﻨﻣ ﻲﻓ ﺊﺷُﻧ. ﺭﺎﻣﺪﻠﻟ ﺓﺍﺩﺄﻛ ﻞﺑ ،ﺺﺨﺸﻛ [PAWN_nameDef] ﻊﻨﺻُﻳ ﻢﻟ}</VatgrownSoldier8.description>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>{PAWN_gender ? ًﺎﻴﻠﻤﻌﻣ ﺔﻋﺭﺰﺘﺴﻣ ﺔﻳﺪﻨﺟ : ﺎﻴﻠﻤﻌﻣ ﻉﺭﺰﺘﺴﻣ ﻱﺪﻨﺟ}</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>{PAWN_gender ? ﺔﻋَﺭﺰﺘﺳُﻣ : ﻉَﺭﺰﺘﺳُﻣ}</VatgrownSoldier8.titleShort>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.description>{PAWN_gender ? . ﺎﻬﺴﻔﻧ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﺔﻴﻔﻴﻛ ﺎﻬﻣّﻠﻌﺗ ﻲﻫ [PAWN_nameDef] ﺕﺎﻳﺮﻛﺫ ﻰﻟﻭﺃ. ﻩﺍﺪﺟﻭ ﺎﻤﻨﻳﺃ ﻥﺎﻣﻷﺍ ﻦﻋ ﺍًﺜﺤﺑ ،ﺎﻬﺑ ﺎﻫﺍﺪﻟﺍﻭ ّﺮﻓ. ﺔﻌﻴﺿﺭ ﺖﻧﺎﻛ ﺎﻣﺪﻨﻋ [PAWN_nameDef] ﻦﻃﻮﻣ ﻲﻓ ﺏﺮﺤﻟﺍ ﺖﻌﻟﺪﻧﺍ\n\n. ﺓﺎﻴﺤﻟﺍ ﻯﺪﻣ ﺎﻬﺴﻔﻧ ﻲﻓ ﺍًﺑﻭﺪﻧ ﻪﺗﺪﻬﺷ ﻱﺬﻟﺍ ﺭﺎﻣﺪﻟﺍﻭ ﻒﻨﻌﻟﺍ ﻙﺮﺗ ﺪﻘﻟ : . ﻪﺴﻔﻧ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﺔﻴﻔﻴﻛ ﻪﻣّﻠﻌﺗ ﻲﻫ [PAWN_nameDef] ﺕﺎﻳﺮﻛﺫ ﻰﻟﻭﺃ. ﻩﺍﺪﺟﻭ ﺎﻤﻨﻳﺃ ﻥﺎﻣﻷﺍ ﻦﻋ ﺍًﺜﺤﺑ ،ﻪﺑ ﻩﺍﺪﻟﺍﻭ ّﺮﻓ. ﺍًﻌﻴﺿﺭ ﻥﺎﻛ ﺎﻣﺪﻨﻋ [PAWN_nameDef] ﻦﻃﻮﻣ ﻲﻓ ﺏﺮﺤﻟﺍ ﺖﻌﻟﺪﻧﺍ\n\n. ﺓﺎﻴﺤﻟﺍ ﻯﺪﻣ ﻪﺴﻔﻧ ﻲﻓ ﺍًﺑﻭﺪﻧ ﻩﺪﻬﺷ ﻱﺬﻟﺍ ﺭﺎﻣﺪﻟﺍﻭ ﻒﻨﻌﻟﺍ ﻙﺮﺗ ﺪﻘﻟ}</WarRefugee51.description>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>ﺏﺮﺣ ﺊﺟﻻ</WarRefugee51.title>
+  <WarRefugee51.titleFemale>ﺏﺮﺣ ﺔﺌﺟﻻ</WarRefugee51.titleFemale>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>ﺊﺟﻻ</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>ﺔﺌﺟﻻ</WarRefugee51.titleShortFemale>
+  
+</LanguageData>

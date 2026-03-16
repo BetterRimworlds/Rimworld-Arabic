@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tantrum -->
+  <BedroomTantrum.label>ﺐﻀﻏ ﺔﺑﻮﻧ</BedroomTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <BedroomTantrum.baseInspectLine>ﺐﻀﻏ ﺔﺑﻮﻧ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</BedroomTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetter>{PAWN_gender ? . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﺎﻬﺘﻓﺮﻏ ﻲﻓ ﺀﺎﻴﺷﻷﺍ ﻢﻴﻄﺤﺘﺑ ﻡﻮﻘﺘﺳ : . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻪﺘﻓﺮﻏ ﻲﻓ ﺀﺎﻴﺷﻷﺍ ﻢﻄﺤﻳ ﻑﻮﺳ}</BedroomTantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
+  <BedroomTantrum.beginLetterLabel>. ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}</BedroomTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <BedroomTantrum.recoveryMessage>. ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</BedroomTantrum.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>ﻡﻮﻤﺤﻣ ﺝﺎﻴﻫ</Berserk.label>
+  <!-- EN: Mental state: Berserk -->
+  <Berserk.baseInspectLine>ﺞﺋﺎﻫ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</Berserk.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetter>{PAWN_gender ? . ﺎﻬﻠﻘﻋ ﺕﺪﻘﻓ {0}\n\n. ﻩﺍﺮﺗ ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﺘﺳ : . ٍﻥﻮﻨﺠﺑ َﺏﺎﺻﺃ {0}\n\n. ﻩﺍﺮﻳ ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﻳ ﻑﻮﺳ}</Berserk.beginLetter><!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <Berserk.beginLetterLabel>{PAWN_gender ? . ﻊﻴﻤﺠﻟﺍ ﻰﻠﻋ ﺖﻤﺠﻫﻭ ﺕﺭﺎﺛ {0} : . ّﻥُﺟﻭ َﺭﺎﺛ {0}\n. ﻩﺍﺮﻳ ﻦﻣ ﻞﻛ ﻢﺟﺎﻬﻴﺳ}</Berserk.beginLetterLabel>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <Berserk.recoveryMessage>. ﺞﺋﺎﻬﻟﺍ {0} ﺐﻀﻏ ﻰﻬﺘﻧﺍ</Berserk.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <BerserkPermanent.label>ﻡﻮﻤﺤﻣ ﺝﺎﻴﻫ</BerserkPermanent.label>
+  <!-- EN: Mental state: Berserk -->
+  <BerserkPermanent.baseInspectLine>ﺞﺋﺎﻫ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</BerserkPermanent.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkPermanent.beginLetter>{PAWN_gender ? . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﺎﻬﺘﺑﺎﺻﺃ {0}\n\n. ﻩﺍﺮﺗ ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﺘﺳ : . ﺭﺎﺛ {0}\n\n. ﻩﺍﺮﻳ ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﻴﺳ}</BerserkPermanent.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <BerserkPermanent.recoveryMessage>. ﺞﺋﺎﻬﻟﺍ {0} ﺐﻀﻏ ﻰﻬﺘﻧﺍ</BerserkPermanent.recoveryMessage>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugExtreme.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻲﻓ ﻁﺍﺮﻓﺇ</Binging_DrugExtreme.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugExtreme.baseInspectLine>{0} ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺍﺮﻓﺇ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_DrugExtreme.baseInspectLine>
+  
+  <!-- EN: binging on drug -->
+  <Binging_DrugMajor.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻲﻓ ﻁﺍﺮﻓﺇ</Binging_DrugMajor.label>
+  <!-- EN: Mental state: Binging on {0} -->
+  <Binging_DrugMajor.baseInspectLine>{0} ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺍﺮﻓﺇ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_DrugMajor.baseInspectLine>
+  
+  <!-- EN: binging on food -->
+  <Binging_Food.label>ﻞﻛﻷﺍ ﻲﻓ ﻁﺍﺮﻓﺇ</Binging_Food.label>
+  <!-- EN: Mental state: Pigging out -->
+  <Binging_Food.baseInspectLine>ﻞﻛﻷﺍ ﻲﻓ ﻁﺍﺮﻓﺇ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_Food.baseInspectLine>
+  <!-- EN: {0} is pigging out on food. -->
+  <Binging_Food.beginLetter>{PAWN_gender ? . ﺔﻫﺍﺮﺸﺑ ﻡﺎﻌﻄﻟﺍ ﻢﻬﺘﻠﺗ {0} : . ﺔﻫﺍﺮﺸﺑ ﻡﺎﻌﻄﻟﺍ ﻢﻬﺘﻠﻳ {0}}</Binging_Food.beginLetter>
+  <!-- EN: food binge -->
+  <Binging_Food.beginLetterLabel>ﻡﺎﻌﻄﻟﺍ ﻢﻬﻧ: ﺭﺎﻴﻬﻧﺍ</Binging_Food.beginLetterLabel>
+  <!-- EN: {0} is no longer pigging out on food. -->
+  <Binging_Food.recoveryMessage>{PAWN_gender ? . ﺔﻫﺍﺮﺸﺑ ﻡﺎﻌﻄﻟﺍ ﻢﻬﺘﻠﺗ {0} ﺪﻌﺗ ﻢﻟ : . ﺔﻫﺍﺮﺸﺑ ﻡﺎﻌﻄﻟﺍ ﻢﻬﺘﻠﻳ {0} ﺪﻌﻳ ﻢﻟ}</Binging_Food.recoveryMessage>
+  
+  <!-- EN: corpse obsession -->
+  <CorpseObsession.label>ﺙَﺛُﺠﻟﺎﺑ ﺱَﻭَﻫ</CorpseObsession.label>
+  <!-- EN: Mental state: Corpse obsession -->
+  <CorpseObsession.baseInspectLine>ﺚﺜﺠﻟﺎﺑ ﺱﻮﻫ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</CorpseObsession.baseInspectLine>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{PAWN_gender ? . ﺚﺜﺠﻟﺎﺑ ﺔﺳﻭﻮﻬﻣ ﺖﺤﺒﺻﺃﻭ ﻊﻗﺍﻮﻟﺍ ﻦﻋ {0} ﺖﻠﺼﻔﻧﺍ\n\n. ﺎﻫﻭﺮﻴﻟ ﻊﻴﻤﺠﻠﻟ ﺎﻬﻣﺪﻘﺗﻭ ﺔﺜﺟ ﻦﻋ ﺚﺤﺒﺘﺳ : . ﺚﺜﺠﻟﺎﺑ ﺍًﺳﻭﻮﻬﻣ ﺢﺒﺻﺃﻭ ﻊﻗﺍﻮﻟﺍ ﻦﻋ {0} ﻞﺼﻔﻧﺍ\n\n. ﻊﻴﻤﺠﻠﻟ ﺎﻬﺿﺮﻌﻳﻭ ﺔﺜﺟ ﻦﻋ ﺚﺤﺒﻳ ﻑﻮﺳ}</CorpseObsession.beginLetter><!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetterLabel>ﺚﺜﺠﻟﺎﺑ ﺱﻮﻫ: ﺭﺎﻴﻬﻧﺍ</CorpseObsession.beginLetterLabel>
+  <!-- EN: {0} is no longer having a corpse obsession. -->
+  <CorpseObsession.recoveryMessage>. ﺚﺜﺠﻟﺎﺑ ﺱﻮﻫ ﻦﻣ ﻲﻧﺎﻌﻳ {0} ﺪﻌﻳ ﻢﻟ</CorpseObsession.recoveryMessage>
+  
+  <!-- EN: fire starting spree -->
+  <FireStartingSpree.label>ِﺭﺍَّﻨﻟﺍ ِﻡﺍَﺭْﺿِﺇ ُﻥﺍَﻳْﺫَﻫ</FireStartingSpree.label>
+  <!-- EN: Mental state: Fire starting spree -->
+  <FireStartingSpree.baseInspectLine>ﻖﺋﺍﺮﺣ ﻝﺎﻌﺷﺇ ﺔﺑﻮﻧ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</FireStartingSpree.baseInspectLine>
+  <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetter>{PAWN_gender ? . ﻖﺋﺍﺮﺤﻟﺍ ﻝﺎﻌﺷﺇ ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻖﺋﺍﺮﺤﻟﺍ ﻞﻌﺸﺗﻭ ،ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻔﻟ ﻝﻮﺠﺘﺘﺳ : . ﻖﺋﺍﺮﺤﻟﺍ ﻝﺎﻌﺷﺇ ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻖﺋﺍﺮﺤﻟﺍ ﻞﻌﺸﻳﻭ ،ﺖﻗﻮﻟﺍ ﺾﻌﺒﻟ ﻝﻮﺠﺘﻳ ﻑﻮﺳ}</FireStartingSpree.beginLetter><!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
+  <FireStartingSpree.beginLetterLabel>. ﻖﺋﺍﺮﺣ ﻝﺎﻌﺷﺇ ﺔﺑﻮﻧ ﻲﻓ {0}</FireStartingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on a fire starting spree. -->
+  <FireStartingSpree.recoveryMessage>. ﺔﻳﺮﻴﺘﺴﻫ ﻖﺋﺍﺮﺣ ﻝﺎﻌﺷﺇ ﺔﻟﺎﺣ ﻲﻓ ﺕ/ﺪﻌﻳ ﻢﻟ {0}</FireStartingSpree.recoveryMessage>
+  
+  <!-- EN: giving up and leaving -->
+  <GiveUpExit.label>ﻞﻴﺣﺭﻭ ﺱﺄﻳ</GiveUpExit.label>
+  <!-- EN: Mental state: Given up and leaving -->
+  <GiveUpExit.baseInspectLine>. ﺓﺭﺩﺎﻐﻣﻭ ﻢﻠﺴﺘﺳﺍ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</GiveUpExit.baseInspectLine>
+  <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
+  <GiveUpExit.beginLetter>{PAWN_gender ? . ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻦﻋ {0} ﺖﻠﺨﺗ\n\n. ﻡﺎﻳﻷﺍ ﻦﻣ ﻡﻮﻳ ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﺎﻬﻨﻳﺮﺗ ﺪﻘﻓ ،ﻻﺇﻭ. ﺭﺩﺎﻐﺗ ﻲﻫﻭ ﺎﻬﻟﺎﻘﺘﻋﺍ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ. ﺮﺧﺁ ﻥﺎﻜﻣ ﻲﻓ ﻞﻀﻓﺃ ﺓﺎﻴﺣ ﻦﻋ ﺚﺤﺒﻟﺍﻭ ﺓﺭﺩﺎﻐﻤﻟﺍ ﺕﺭﺮﻗ : . ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻦﻋ {0} ﻰﻠﺨﺗ\n\n. ﻡﺎﻳﻷﺍ ﻦﻣ ﻡﻮﻳ ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﻩﺍﺮﺗ ﺪﻘﻓ ،ﻻﺇﻭ. ﺭﺩﺎﻐﻳ ﻮﻫﻭ ﻪﻟﺎﻘﺘﻋﺍ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ. ﺮﺧﺁ ﻥﺎﻜﻣ ﻲﻓ ﻞﻀﻓﺃ ﺓﺎﻴﺣ ﻦﻋ ﺚﺤﺒﻟﺍﻭ ﺓﺭﺩﺎﻐﻤﻟﺍ ﺭﺮﻗ ﺪﻘﻟ}</GiveUpExit.beginLetter>
+  <!-- EN: gave up -->
+  <GiveUpExit.beginLetterLabel>ﻢﻠﺴﺘﺳﺍ</GiveUpExit.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <GiveUpExit.recoveryMessage>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺩﻮﻌﺗ/ﺩﻮﻌﻳﻭ ﺎﻬﻳﺃﺭ/ﻪﻳﺃﺭ ﺕﺭّﻴﻏ/ﺭّﻴﻏ {0}</GiveUpExit.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <InsultingSpree.label>ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ</InsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree -->
+  <InsultingSpree.baseInspectLine>ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</InsultingSpree.baseInspectLine>
+  <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetter>{PAWN_gender ? . ﺔﻠﺻﺍﻮﺘﻤﻟﺍ ﺕﺎﻧﺎﻫﻹﺍ ﻦﻣ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻦﻳﺮﺧﻵﺍ ﻦﻴﻬﺗﻭ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻝﻮﺠﺘﺘﺳ : . ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻦﻳﺮﺧﻵﺍ ﻦﻴﻬﻳﻭ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻝﻮﺠﺘﻳ ﻑﻮﺳ}</InsultingSpree.beginLetter><!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
+  <InsultingSpree.beginLetterLabel>. ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ ﻲﻓ {0}</InsultingSpree.beginLetterLabel>
+  <!-- EN: {0} is no longer on an insulting spree. -->
+  <InsultingSpree.recoveryMessage>. ﺓﺮﻤﺘﺴﻣ ﺔﻧﺎﻫﺇ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﻳ ﻢﻟ {0}</InsultingSpree.recoveryMessage>
+  
+  <!-- EN: inducing prisoner to escape -->
+  <Jailbreaker.label>ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﻦﻴﺠﺳ ﺾﻳﺮﺤﺗ</Jailbreaker.label>
+  <!-- EN: Mental state: Jailbreaker -->
+  <Jailbreaker.baseInspectLine>ﺩﺮﻤﺘﻣ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</Jailbreaker.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
+  <Jailbreaker.beginLetter>{PAWN_gender ? . ﺏﺮﻬﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺠﺴﻟﺍ ﺽﺮﺤﺘﺳﻭ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {0} ﺖﻧﺎﻋ : . ﺏﺮﻬﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺠﺴﻟﺍ ﺽﺮﺤﻳ ﻑﻮﺳﻭ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {0} ﻰﻧﺎﻋ}</Jailbreaker.beginLetter>
+  <!-- EN: jailbreaker -->
+  <Jailbreaker.beginLetterLabel>ﻥﻭُﺟُﺳ ﻕِﺭَﺗْﺧُﻣ</Jailbreaker.beginLetterLabel>
+  <!-- EN: {0} is no longer inducing prisoners to escape. -->
+  <Jailbreaker.recoveryMessage>. ﺏﺮﻬﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺠﺴﻟﺍ ﺰﻔﺤﻳ ﺪﻌﻳ ﻢﻟ {0}</Jailbreaker.recoveryMessage>
+  
+  <!-- EN: murderous rage -->
+  <MurderousRage.label>ﻞﺗﺎﻗ ﺐﻀﻏ</MurderousRage.label>
+  <!-- EN: Mental state: Murderous rage -->
+  <MurderousRage.baseInspectLine>ﻞﺗﺎﻗ ﺐﻀﻏ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</MurderousRage.baseInspectLine>
+  <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetter>{PAWN_gender ? . ﺔﻠﺗﺎﻗ ﺐﻀﻏ ﺔﺑﻮﻧ {0} ﺖﺑﺎﺘﻧﺍ\n\n.{1} ﻞﺘﻗ ﺕﺭﺮﻗ : . ﻞﺗﺎﻗ ﺐﻀﻏ ﻲﻓ {0} ﺮﺠﻔﻧﺍ\n\n.{1} ﻞﺘﻗ ﺭﺮﻗ}</MurderousRage.beginLetter><!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+  <MurderousRage.beginLetterLabel>{PAWN_gender ? . ﻞﺗﺎﻗ ﺐﻀﻏ ﺎﻬﺑﺎﺘﻧﺍ {0}\n\n.{1} ﻞﺘﻗ ﺕﺭﺮﻗ : . ﺍًﻠﺗﺎﻗ ﺍًﺒﻀﻏ ﻁﺎﺸﺘﺳﺍ {0}\n\n.{1} ﻞﺘﻗ ﺭﺮﻗ}</MurderousRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a murderous rage. -->
+  <MurderousRage.recoveryMessage>. ﻞﺗﺎﻗ ﺐﻀﻏ ﺔﻟﺎﺣ ﻲﻓ {0} ﺪﻌﻳ ﻢﻟ</MurderousRage.recoveryMessage>
+  
+  <!-- EN: sadistic rage -->
+  <SadisticRage.label>ﻱﺩﺎﺳ ﺐﻀﻏ</SadisticRage.label>
+  <!-- EN: Mental state: Sadistic rage -->
+  <SadisticRage.baseInspectLine>ﻱﺩﺎﺳ ﺐﻀﻏ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</SadisticRage.baseInspectLine>
+  <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetter>{PAWN_gender ? . ﻱﺩﺎﺳ ٍﺐﻀﻏ ﻲﻓ {0} ﺖﻘﻠﻄﻧﺍ\n\n. ﺀﺎﻨﺠﺴﻟﺍ ﻰﻠﻋ ﺎﻬﺒﻀﻏ ﺱّﻔﻧُﺘﺳ : . ﻱﺩﺎﺳ ٍﺐﻀﻏ ﻲﻓ {0} ﻖﻠﻄﻧﺍ\n\n. ﺀﺎﻨﺠﺴﻟﺍ ﻰﻠﻋ ﻪﺒﻀﻐﻟ ﻥﺎﻨﻌﻟﺍ ﻖﻠﻄﻳ ﻑﻮﺳ}</SadisticRage.beginLetter><!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
+  <SadisticRage.beginLetterLabel>. ﻱﺩﺎﺳ ﺐﻀﻏ ﻲﻓ {0}</SadisticRage.beginLetterLabel>
+  <!-- EN: {0} is no longer in a sadistic rage. -->
+  <SadisticRage.recoveryMessage>. ﻱﺩﺎﺳ ﺐﻀﻏ ﺔﻟﺎﺣ ﻲﻓ {0} ﺪﻌﻳ ﻢﻟ</SadisticRage.recoveryMessage>
+  
+  <!-- EN: slaughterer -->
+  <Slaughterer.label>ﺢﺑﺍﺫ</Slaughterer.label>
+  <!-- EN: Mental state: Slaughterer -->
+  <Slaughterer.baseInspectLine>ﺭّﺰﺠﻣ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</Slaughterer.baseInspectLine>
+  <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetter>{PAWN_gender ? . ﻚﺗﺎﻧﺍﻮﻴﺣ ﻰﻠﻋ ﺎﻬﺒﻀﻏ ﺱّﻔﻧُﺘﺳ ﻥﻵﺍ ﻲﻫﻭ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {0} ﺕَﻧﺎﻋ : . ﻚﺗﺎﻧﺍﻮﻴﺣ ﻰﻠﻋ ﻪﺒﻀﻐﻟ ﻥﺎﻨﻌﻟﺍ ﻖﻠﻄﻳ ﻑﻮﺳﻭ ﺔﻴﺒﺼﻋ ﺔﺑﻮﻧ ﻪﺘﺑﺎﺻﺃ {0}}</Slaughterer.beginLetter><!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
+  <Slaughterer.beginLetterLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺫ: ﺭﺎﻴﻬﻧﺍ</Slaughterer.beginLetterLabel>
+  <!-- EN: {0} is no longer slaughtering random animals. -->
+  <Slaughterer.recoveryMessage>. ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺬﻳ ﺪﻌﻳ ﻢﻟ {0}</Slaughterer.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <Tantrum.label>ﺐﻀﻏ ﺔﺑﻮﻧ</Tantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <Tantrum.baseInspectLine>ﺐﻀﻏ ﺔﺑﻮﻧ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Tantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetter>{PAWN_gender ? . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻞﻛﺎﻴﻬﻟﺍﻭ ﺀﺎﻴﺷﻷﺍﻭ ﺙﺎﺛﻷﺍ ُﺭِّﻣَﺩُﺘﺳ : . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n. ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻞﻛﺎﻴﻬﻟﺍﻭ ﺮﺻﺎﻨﻌﻟﺍﻭ ﺙﺎﺛﻷﺍ ﺮﻣﺪﻳ ﻑﻮﺳ}</Tantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
+  <Tantrum.beginLetterLabel>. ﺐﻀﻏ ﺔﺑﻮﻧ ﻲﻓ {0}</Tantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <Tantrum.recoveryMessage>. ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</Tantrum.recoveryMessage>
+  
+  <!-- EN: insulting spree -->
+  <TargetedInsultingSpree.label>ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ</TargetedInsultingSpree.label>
+  <!-- EN: Mental state: Insulting spree against {0} -->
+  <TargetedInsultingSpree.baseInspectLine>{0} ﺪﺿ ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ: ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</TargetedInsultingSpree.baseInspectLine>
+  <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetter>{PAWN_gender ? .{1} ﻰﻠﻋ ﺎﻬﺒﻀﻏ ﺕﺰﻛﺭ ﺪﻗ {0}\n\n. ﺕﺎﻧﺎﻫﻹﺎﺑ ﻝﺎﻬﻨﺗ ﻲﻫﻭ {1} ﻊﺒﺘﺘﺳ : .{1} ﻰﻠﻋ ﻪﺒﻀﻏ ﺰﻛﺭ ﺪﻗ {0}\n\n. ﺕﺎﻧﺎﻫﻹﺍ ﻪﻴﻟﺇ ﻪﺟﻮﻳﻭ {1} ﻊﺒﺘﻳ ﻑﻮﺳ}</TargetedInsultingSpree.beginLetter><!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.beginLetterLabel>. ﺔﻬﺟﻮﻣ ﺔﻧﺎﻫﺇ ﺔﺑﻮﻧ ﻲﻓ {0}</TargetedInsultingSpree.beginLetterLabel><!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
+  <TargetedInsultingSpree.recoveryMessage>{PAWN_gender ? .{1} ﻰﻠﻋ ﺎﻬﺒﻀﻏ ﺕﺰﻛﺭ {0}\n\n. ﺕﺎﻧﺎﻫﻹﺎﺑ ﻝﺎﻬﻨﺗ ﻲﻫﻭ {1} ﻊﺒﺘﺘﺳ : .{1} ﻰﻠﻋ ﻪﺒﻀﻏ ﺰﻛﺭ ﺪﻗ {0}\n\n. ﺕﺎﻧﺎﻫﻹﺍ ﻪﻴﻟﺇ ﻪﺟﻮﻳﻭ {1} ﻊﺒﺘﻳ ﻑﻮﺳ}</TargetedInsultingSpree.recoveryMessage>
+  
+  <!-- EN: tantrum -->
+  <TargetedTantrum.label>ﺐﻀﻏ ﺔﺑﻮﻧ</TargetedTantrum.label>
+  <!-- EN: Mental state: Tantrum -->
+  <TargetedTantrum.baseInspectLine>ﺐﻀﻏ ﺔﺑﻮﻧ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</TargetedTantrum.baseInspectLine>
+  <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetter>{PAWN_gender ? . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n.{1} ﺮﻣﺪﺘﺳ : . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n.{1} ﺮﻣﺪﻳ ﻑﻮﺳ}</TargetedTantrum.beginLetter><!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
+  <TargetedTantrum.beginLetterLabel>{PAWN_gender ? . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n.{1} ﺮﻣﺪﺘﺳ : . ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ {0}\n\n.{1} ﺮﻣﺪﻴﺳ}</TargetedTantrum.beginLetterLabel>
+  <!-- EN: {0} is no longer having a tantrum. -->
+  <TargetedTantrum.recoveryMessage>. ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</TargetedTantrum.recoveryMessage>
+  
+  <!-- EN: sitting alone -->
+  <Wander_OwnRoom.label>ﺪﻴﺣﻭ ﺱﻮﻠﺟ</Wander_OwnRoom.label>
+  <!-- EN: Mental state: Hiding in room -->
+  <Wander_OwnRoom.baseInspectLine>. ﺔﻓﺮﻏ ﻲﻓ ﺀﺎﺒﺘﺧﻻﺍ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_OwnRoom.baseInspectLine>
+  <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.beginLetter>{PAWN_gender ? . ﺎﻬﺘﻓﺮﻏ ﻲﻓ {0} ﺊﺒﺘﺨﺗ : . ﻪﺘﻓﺮﻏ ﻲﻓ ﺊﺒﺘﺨﻣ {0}}</Wander_OwnRoom.beginLetter>
+  <!-- EN: hide in room -->
+  <Wander_OwnRoom.beginLetterLabel>ﺔﻓﺮﻏ ﻲﻓ ﺀﺎﺒﺘﺧﺍ</Wander_OwnRoom.beginLetterLabel>
+  <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
+  <Wander_OwnRoom.recoveryMessage>{PAWN_gender ? . ﺎﻬﺘﻓﺮﻏ ﻲﻓ ﺊﺒﺘﺨﺗ {0} ﺪﻌﺗ ﻢﻟ : . ﻪﺘﻓﺮﻏ ﻲﻓ ﺊﺒﺘﺨﻳ {0} ﺪﻌﻳ ﻢﻟ}</Wander_OwnRoom.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic.label>ﻲﻧﺎﻫﺫ ﻪﻴﺗ</Wander_Psychotic.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic.baseInspectLine>ﻲﻧﺎﻫﺫ ﻝﺍﻮﺠﺗ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Psychotic.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic.beginLetter>{PAWN_gender ? . ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝّﻮﺠﺘﺗ {0} : . ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝّﻮﺠﺘﻳ {0}}</Wander_Psychotic.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic.beginLetterLabel>ﺭﺍﻭﺩ</Wander_Psychotic.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic.recoveryMessage>. ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝﻮﺠﺘﺗ/ﻝﻮﺠﺘﻳ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</Wander_Psychotic.recoveryMessage>
+  
+  <!-- EN: wandering in psychosis -->
+  <Wander_Psychotic_Short.label>ﻲﻧﺎﻫﺫ ﻪﻴﺗ</Wander_Psychotic_Short.label>
+  <!-- EN: Mental state: Psychotic wandering -->
+  <Wander_Psychotic_Short.baseInspectLine>ﻲﻧﺎﻫﺫ ﻝﺍﻮﺠﺗ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Psychotic_Short.baseInspectLine>
+  <!-- EN: {0} is wandering around in a psychotic state. -->
+  <Wander_Psychotic_Short.beginLetter>{PAWN_gender ? . ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝّﻮﺠﺘﺗ {0} : . ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝّﻮﺠﺘﻳ {0}}</Wander_Psychotic_Short.beginLetter>
+  <!-- EN: daze -->
+  <Wander_Psychotic_Short.beginLetterLabel>ﻝﻮﻫﺫ</Wander_Psychotic_Short.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in a psychotic state. -->
+  <Wander_Psychotic_Short.recoveryMessage>. ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝﻮﺠﺘﺗ/ﻝﻮﺠﺘﻳ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</Wander_Psychotic_Short.recoveryMessage>
+  
+  <!-- EN: sad wandering -->
+  <Wander_Sad.label>ﻦﻳﺰﺣ ﻝّﻮﺠﺗ</Wander_Sad.label>
+  <!-- EN: Mental state: Sad wandering -->
+  <Wander_Sad.baseInspectLine>ﻦﻳﺰﺣ ﻝﺍﻮﺠﺗ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Sad.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <Wander_Sad.beginLetter>{PAWN_gender ? . ﻥﺰﺣ ﻲﻓ ﻝﻮﺠﺘﺗﻭ {0} ﺕﺭﺎﻬﻧﺍ : . ﻥﺰﺣ ﻲﻓ ﻝﻮﺠﺘﻳﻭ {0} ﺭﺎﻬﻧﺍ}</Wander_Sad.beginLetter>
+  <!-- EN: sad wander -->
+  <Wander_Sad.beginLetterLabel>ﻦﻳﺰﺣ ﻝُّﻮﺠﺗ</Wander_Sad.beginLetterLabel>
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <Wander_Sad.recoveryMessage>. ﻥﺰﺣ ﻲﻓ ﻝﻮﺠﺘﺗ/ﻝﻮﺠﺘﻳ ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ {0}</Wander_Sad.recoveryMessage>
+  
+</LanguageData>

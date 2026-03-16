@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+  <!-- EN: colonist kidnapped -->
+  <KidnappedColonist.label>مستعمر مُختطَف</KidnappedColonist.label>
+  <!-- EN:
+    <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->the kidnapping of [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] carrying [VICTIM_nameFull] away to [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] of [KIDNAPPER_factionName] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] kidnapping [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as [VICTIM_pronoun] twists in pain</li>
+    <li>circumstance_phrase->with professional efficiency</li>
+    <li>circumstance_phrase->roughly and amateurishly</li>
+    <li>circumstance_phrase->with obviously excessive force</li>
+    <li>circumstance_phrase->with obvious pleasure</li>
+    <li>circumstance_phrase->while smiling with dominance</li>
+    <li>circumstance_phrase->while covered in blood and filth</li>
+    <li>desc_sentence->[VICTIM_nameDef] seems to have given up entirely.</li>
+    <li>desc_sentence->[VICTIM_nameDef] has closed [VICTIM_possessive] eyes, seeming to pray to a higher power.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks defiant.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is screaming with rage and terror.</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks broken and exhausted.</li>
+    <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
+  -->
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[KIDNAPPER_nameDef] يختطف [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] يُختطف على يد [KIDNAPPER_nameDef]</li>
+    <li>tale_noun->اختطاف [VICTIM_nameDef]</li>
+    <li>image->[KIDNAPPER_nameFull] يحمل [VICTIM_nameFull] بعيدًا نحو [KIDNAPPER_factionName] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] من [KIDNAPPER_factionName] يختطف [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KIDNAPPER_nameFull] يختطف [VICTIM_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->بينما [VICTIM_pronoun] يتلوّى من الألم</li>
+    <li>circumstance_phrase->بكفاءة احترافية</li>
+    <li>circumstance_phrase->بخشونة وبطريقة هاوية</li>
+    <li>circumstance_phrase->بقوة مفرطة بشكل واضح</li>
+    <li>circumstance_phrase->بمتعة واضحة</li>
+    <li>circumstance_phrase->وهو يبتسم بتسلّط</li>
+    <li>circumstance_phrase->وهو مغطّى بالدماء والقذارة</li>
+    <li>desc_sentence->[VICTIM_nameDef] يبدو أنه استسلم تمامًا.</li>
+    <li>desc_sentence->[VICTIM_nameDef] أغمض [VICTIM_possessive] عينيه، وكأنه يصلّي لقوة أعلى.</li>
+    <li>desc_sentence->[VICTIM_nameDef] يبدو متحدّيًا.</li>
+    <li>desc_sentence->[VICTIM_nameDef] يصرخ غضبًا ورعبًا.</li>
+    <li>desc_sentence->[VICTIM_nameDef] يبدو محطمًا ومرهقًا.</li>
+    <li>desc_sentence->[VICTIM_nameDef] يبدو أنه مصاب بجروح بالغة.</li>
+  </KidnappedColonist.rulePack.rulesStrings>
+
+  <!-- EN: death -->
+  <KilledBy.label>موت</KilledBy.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the killing of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being killed by [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] killing [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] ending [VICTIM_nameFull]'s life [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] brutally murdering [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] being killed [circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->The sun is setting behind them in a symbolic echo of the event.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are rendered in a realistically lifeless fashion.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] يقتل [VICTIM_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] يُقتل على يد [KILLER_nameDef]</li>
+    <li>tale_noun->قتل [VICTIM_nameDef] على يد [KILLER_nameDef]</li>
+    <li>tale_noun->قتل [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] يُقتل على يد [KILLER_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] يقتل [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] ينهي حياة [VICTIM_nameFull] [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] يقتل [VICTIM_nameFull] بوحشية [circumstance_group]</li>
+    <li>image->[VICTIM_nameFull] يُقتل [circumstance_group]</li>
+    <li>circumstance_phrase->على ما يبدو بلا ندم</li>
+    <li>circumstance_phrase->بكفاءة باردة</li>
+    <li>circumstance_phrase->بغضب عارم</li>
+    <li>circumstance_phrase->بحركات سريعة وفعّالة</li>
+    <li>circumstance_phrase->بلا عاطفة أو تعبير</li>
+    <li>circumstance_phrase->بدافع ضرورة قاتمة</li>
+    <li>circumstance_phrase->بطريقة جبانة وفاترة</li>
+    <li>desc_sentence->تغرب الشمس خلفهما في صدى رمزي للحدث.</li>
+    <li>desc_sentence>[Quantity_adjphrase] من [Animal]s يراقبون.</li>
+    <li>desc_sentence->يراقب [PersonJob] بصمت [side_position].</li>
+    <li>desc_sentence->يتجمع الدم حول جسد [VICTIM_nameDef].</li>
+    <li>desc_sentence->تُصوَّر عينا [VICTIM_nameDef] بشكل واقعي خالٍ من الحياة.</li>
+    <li>desc_sentence->[KILLER_nameDef] يكشر عن [KILLER_possessive] أسنانه.</li>
+    <li>desc_sentence->[KILLER_nameDef] يبدو راضيًا.</li>
+    <li>desc_sentence->[KILLER_nameDef] يبدو مضطربًا مما يفعله [KILLER_pronoun].</li>
+    <li>desc_sentence->[KILLER_nameDef] يبدو مسرورًا بالموقف.</li>
+    <li>desc_sentence->[KILLER_nameDef] يبدو منتصرًا.</li>
+  </KilledBy.rulePack.rulesStrings>
+
+  <!-- EN: colonist killed -->
+  <KilledColonist.label>مستعمر مقتول</KilledColonist.label>
+
+  <!-- EN: colony animal killed -->
+  <KilledColonyAnimal.label>حيوان المستعمرة مقتول</KilledColonyAnimal.label>
+
+  <!-- EN: person recruited -->
+  <Recruited.label>شخص مُجنَّد</Recruited.label>
+  <!-- EN:
+    <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
+    <li>tale_noun->the recruitment of [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] recruiting [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] welcoming [JOINER_nameFull] as [JOINER_pronoun] becomes a colonist [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] speaking convincingly to [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with obvious goodwill</li>
+    <li>circumstance_phrase->with a hearty handshake</li>
+    <li>circumstance_phrase->with smiles all around</li>
+    <li>circumstance_phrase->in front of the whole colony</li>
+    <li>circumstance_phrase->in a prison cell</li>
+    <li>desc_sentence->[JOINER_nameDef] is nodding in understanding.</li>
+    <li>desc_sentence->[JOINER_nameDef] is smiling and making eye contact.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks relieved.</li>
+    <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
+  -->
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->[RECRUITER_nameDef] يُجنِّد [JOINER_nameDef]</li>
+    <li>tale_noun->[JOINER_nameDef] يُجنَّد على يد [RECRUITER_nameDef]</li>
+    <li>tale_noun->تجنيد [JOINER_nameDef]</li>
+    <li>image->[RECRUITER_nameFull] يُجنِّد [JOINER_nameFull] [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] يرحّب بـ[JOINER_nameFull] بينما يصبح [JOINER_pronoun] مستعمرًا [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] يتحدث بإقناع إلى [JOINER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->بحسن نية واضح</li>
+    <li>circumstance_phrase->بمصافحة حارة</li>
+    <li>circumstance_phrase->وسط ابتسامات من الجميع</li>
+    <li>circumstance_phrase->أمام المستعمرة بأكملها</li>
+    <li>circumstance_phrase->في زنزانة سجن</li>
+    <li>desc_sentence->[JOINER_nameDef] يومئ برأسه فهمًا.</li>
+    <li>desc_sentence->[JOINER_nameDef] يبتسم ويبادل النظر.</li>
+    <li>desc_sentence->[JOINER_nameDef] يبدو مرتاحًا.</li>
+    <li>desc_sentence->[JOINER_nameDef] يبدو متفائلًا.</li>
+  </Recruited.rulePack.rulesStrings>
+
+  <!-- EN: prisoner sold -->
+  <SoldPrisoner.label>سجين مُباع</SoldPrisoner.label>
+  <!-- EN:
+    <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
+    <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
+    <li>tale_noun->[PRISONER_nameDef] being sold as a slave by [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] buying [PRISONER_nameFull] from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling [PRISONER_nameFull] to [TRADER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->as the other colonists look on in disapproval</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] counts [TRADER_possessive] money</li>
+    <li>circumstance_phrase->while [PRISONER_nameDef] moans plaintively</li>
+    <li>circumstance_phrase->to [PRISONER_nameDef]'s chagrin</li>
+    <li>desc_sentence->[TRADER_nameDef] is smiling devilishly.</li>
+    <li>desc_sentence->[SELLER_nameDef] is laughing maniacally.</li>
+    <li>desc_sentence->[SELLER_nameDef] reluctantly hands [PRISONER_nameDef] over to the trader.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares defiantly at [PRISONER_possessive] new master.</li>
+    <li>desc_sentence->[TRADER_nameDef] drags [PRISONER_nameDef] away by [PRISONER_possessive] chains.</li>
+    <li>desc_sentence->[PRISONER_nameDef] stares at [SELLER_nameDef], plotting [PRISONER_possessive] revenge.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is crying.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is spitting in [SELLER_nameDef]'s face.</li>
+    <li>desc_sentence->[PRISONER_nameDef] is melting into the ground.</li>
+    <li>desc_sentence->[SELLER_nameDef] is thrusting the chains of [PRISONER_nameDef] into [TRADER_nameDef]'s hands.</li>
+    <li>desc_sentence->An air of hopelessness pervades the situation.</li>
+  -->
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->بيع [PRISONER_nameDef] لتاجر</li>
+    <li>tale_noun->[SELLER_nameDef] يبيع [PRISONER_nameDef] كعبد</li>
+    <li>tale_noun->[PRISONER_nameDef] يُباع كعبد على يد [SELLER_nameDef]</li>
+    <li>image->[TRADER_nameFull] يشتري [PRISONER_nameFull] من [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] يبيع [PRISONER_nameFull] إلى [TRADER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->بينما ينظر المستعمرون الآخرون بعدم استحسان</li>
+    <li>circumstance_phrase->بينما [SELLER_nameDef] يعدّ مال [TRADER_possessive]</li>
+    <li>circumstance_phrase->بينما [PRISONER_nameDef] يئنّ بأسى</li>
+    <li>circumstance_phrase->مما يثير خيبة [PRISONER_nameDef]</li>
+    <li>desc_sentence->[TRADER_nameDef] يبتسم ابتسامة شيطانية.</li>
+    <li>desc_sentence->[SELLER_nameDef] يضحك بجنون.</li>
+    <li>desc_sentence->[SELLER_nameDef] يسلّم [PRISONER_nameDef] للتاجر على مضض.</li>
+    <li>desc_sentence->[PRISONER_nameDef] يحدّق بتحدٍّ في سيده الجديد.</li>
+    <li>desc_sentence->[TRADER_nameDef] يجرّ [PRISONER_nameDef] بعيدًا بسلاسل [PRISONER_possessive].</li>
+    <li>desc_sentence->[PRISONER_nameDef] يحدّق في [SELLER_nameDef] وهو يخطط لانتقام [PRISONER_possessive].</li>
+    <li>desc_sentence->[PRISONER_nameDef] يبكي.</li>
+    <li>desc_sentence->[PRISONER_nameDef] يبصق في وجه [SELLER_nameDef].</li>
+    <li>desc_sentence->[PRISONER_nameDef] ينهار على الأرض.</li>
+    <li>desc_sentence->[SELLER_nameDef] يدفع سلاسل [PRISONER_nameDef] إلى يدي [TRADER_nameDef].</li>
+    <li>desc_sentence->يسود الموقف شعور باليأس.</li>
+  </SoldPrisoner.rulePack.rulesStrings>
+
+  <!-- EN: animal tamed -->
+  <TamedAnimal.label>حيوان مُروَّض</TamedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
+    <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great care and caution</li>
+    <li>circumstance_phrase->with a smile</li>
+    <li>circumstance_phrase->while exhausted but happy</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is snarling aggressively.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be in some sort of hypnotic state.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks scared but interested.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears fascinated.</li>
+    <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
+  -->
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->ترويض [ANIMAL_nameDef] على يد [TAMER_nameDef]</li>
+    <li>tale_noun->ترويض [TAMER_nameDef] لـ[ANIMAL_nameDef]</li>
+    <li>image->[TAMER_nameFull] يروّض [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] يقدّم لقمة طعام إلى [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] يهمس إلى [ANIMAL_label] متوجّس [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] يهدّئ [ANIMAL_label] بريًا [circumstance_group]</li>
+    <li>circumstance_phrase->بعناية وحذر شديدين</li>
+    <li>circumstance_phrase->مع ابتسامة</li>
+    <li>circumstance_phrase->وهو مُنهك لكنه سعيد</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يزمجر بعدوانية.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو نعسانًا ومخمورًا بالحب.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو وكأنه في حالة تنويم ما.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو خائفًا لكنه مهتم.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو مفتونًا.</li>
+    <li>desc_sentence->[TAMER_nameDef] يبث شعورًا قويًا بالحب تجاه [ANIMAL_nameDef].</li>
+  </TamedAnimal.rulePack.rulesStrings>
+
+  <!-- EN: traded with someone -->
+  <TradedWith.label>تجارة</TradedWith.label>
+  <!-- EN:
+    <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] selling goods to [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->with greedy intent</li>
+    <li>circumstance_phrase->while [SELLER_nameDef] smirks at [BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] is examining [SELLER_nameDef]'s wares.</li>
+    <li>desc_sentence->[SELLER_nameDef] considers an item.</li>
+    <li>desc_sentence->[SELLER_nameDef] starts haggling.</li>
+    <li>desc_sentence->[BUYER_nameDef] argues with [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] and [BUYER_nameDef] agree on a price.</li>
+    <li>desc_sentence->[BUYER_nameDef] pays for the item.</li>
+    <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
+    <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
+  -->
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->تجارة بين [SELLER_nameFull] و[BUYER_nameFull]</li>
+    <li>image->[BUYER_nameFull] يشتري بضائع من [SELLER_nameFull] [circumstance_group]</li>
+    <li>image->[SELLER_nameFull] يبيع بضائع إلى [BUYER_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->بنية جشعة</li>
+    <li>circumstance_phrase->بينما [SELLER_nameDef] يبتسم ابتسامة ماكرة لـ[BUYER_shortNameDef]</li>
+    <li>desc_sentence->[BUYER_nameDef] يفحص بضائع [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] يتأمل سلعة.</li>
+    <li>desc_sentence->[SELLER_nameDef] يبدأ بالمساومة.</li>
+    <li>desc_sentence->[BUYER_nameDef] يجادل [SELLER_nameDef].</li>
+    <li>desc_sentence->[SELLER_nameDef] و[BUYER_nameDef] يتفقان على سعر.</li>
+    <li>desc_sentence->[BUYER_nameDef] يدفع ثمن السلعة.</li>
+    <li>desc_sentence->[SELLER_nameDef] يعدّ [SELLER_possessive] المال.</li>
+    <li>desc_sentence->[BUYER_nameDef] يأخذ [BUYER_possessive] البضائع.</li>
+  </TradedWith.rulePack.rulesStrings>
+
+  <!-- EN: animal trained -->
+  <TrainedAnimal.label>حيوان مُدرَّب</TrainedAnimal.label>
+  <!-- EN:
+    <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef]</li>
+    <li>tale_noun->the training of [ANIMAL_nameDef] by [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] in [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] teaching [TRAINABLE_label] to [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] practicing [TRAINABLE_label] with [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->training</li>
+    <li>train_syn->drilling</li>
+    <li>train_syn->coaching</li>
+    <li>train_syn->indoctrinating</li>
+    <li>train_syn->educating</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->as wild [Animal]s look on in disgust</li>
+    <li>circumstance_phrase->as [ANIMAL_nameDef] thinks of the simpler days when [ANIMAL_pronoun] was a feral beast</li>
+    <li>circumstance_phrase->as [TRAINER_nameDef] thinks of what's for lunch</li>
+    <li>circumstance_phrase->as the other colonists do actual work</li>
+    <li>desc_sentence->[TRAINER_nameDef] is showing pleasure.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is smiling.</li>
+    <li>desc_sentence->[TRAINER_nameDef] looks bored.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is threateningly brandishing [TRAINER_possessive] fist.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is wrinkling [TRAINER_possessive] brow in concentration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] looks puzzled.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] has a weapon in [ANIMAL_possessive] mouth.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is emitting effortful grunts.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is shaking [TRAINER_possessive] head is frustration.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is trembling in fear.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] appears to be morphing into a [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [Quantity_adjphrase] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_definite].</li>
+  -->
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TRAINER_nameDef] يدرّب [ANIMAL_nameDef]</li>
+    <li>tale_noun->تدريب [ANIMAL_nameDef]</li>
+    <li>tale_noun->تدريب [ANIMAL_nameDef] على يد [TRAINER_nameDef]</li>
+    <li>image->[TRAINER_nameFull] [train_syn] [ANIMAL_nameFull] على [TRAINABLE_label] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] يعلّم [TRAINABLE_label] لـ[ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TRAINER_nameFull] يمارس [TRAINABLE_label] مع [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>train_syn->يدرّب</li>
+    <li>train_syn->يدرّب تدريبًا مكثفًا</li>
+    <li>train_syn->يدرّب تدريبًا توجيهيًا</li>
+    <li>train_syn->يُلقّن</li>
+    <li>train_syn->يُعلّم</li>
+    <li>circumstance_phrase->بينما يراقب الآخرون</li>
+    <li>circumstance_phrase->بينما تراقب [Animal]s البرية باشمئزاز</li>
+    <li>circumstance_phrase->بينما يفكر [ANIMAL_nameDef] في الأيام الأبسط حين كان [ANIMAL_pronoun] وحشًا بريًا</li>
+    <li>circumstance_phrase->بينما يفكر [TRAINER_nameDef] بما سيكون على الغداء</li>
+    <li>circumstance_phrase->بينما يقوم المستعمرون الآخرون بالعمل الفعلي</li>
+    <li>desc_sentence->[TRAINER_nameDef] يُظهر سرورًا.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يبتسم.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يبدو ضجرًا.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يلوّح بقبضته [TRAINER_possessive] مهددًا.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يقطّب حاجبيه [TRAINER_possessive] بتركيز.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو حائرًا.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يحمل سلاحًا في فم [ANIMAL_possessive].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يطلق همهمات مجهدة.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يهز رأسه [TRAINER_possessive] بإحباط.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يرتجف خوفًا.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يبدو وكأنه يتحول إلى [Vegetable].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] يُصوَّر ككومة من الأدوات الكهربائية.</li>
+    <li>desc_sentence->[ANIMAL_nameDef] نصفه [Color] ونصفه [Color].</li>
+    <li>desc_sentence->[ANIMAL_nameDef] مغطّى بالحراشف.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يُصوَّر وله [Quantity_adjphrase] أذرع.</li>
+    <li>desc_sentence->[TRAINER_nameDef] يبدو وكأنه يتحول إلى [ANIMAL_definite].</li>
+  </TrainedAnimal.rulePack.rulesStrings>
+
+</LanguageData>

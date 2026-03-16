@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>ﻲﻧﺪﻤﻟﺍ ﺐﻧﺎﺟﻷﺍ ﺩﺎﺤﺗﺍ</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>. ﺓﺭﻮﻄﺘﻣ ﺩﻭﺭﺎﺑ ﺔﺤﻠﺳﺄﺑ ﻢﻬﺴﻔﻧﺃ ﻦﻋ ﻥﻮﻌﻓﺍﺪﻳﻭ ﺔﻄﻴﺴﺑ ﺕﻻﺂﺑ ﻥﻮﻠﻤﻌﻳ ﺎﻣ ًﺓﺩﺎﻋ. ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻢﻬﺘﺒﻠﺟ ﻲﺘﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ ﻢﻈﻌﻣ ﺍﻭﺪﻘﻓﻭ ،ﻥﻭﺮﻘﻟ ﻭﺃ ﺩﻮﻘﻌﻟ ﺀﻻﺆﻫ ﺵﺎﻋ ﺪﻘﻟ\n\n. ﺀﺎﻘﺒﻟﺍﻭ ﺔﻘﺜﻟﺍﻭ ﺓﺭﺎﺠﺘﻠﻟ ﺔﻴﻠﻤﻌﻟﺍ ﻥﻭﺆﺸﻟﺎﺑ ﻥﻮﻤﺘﻬﻳ ﻢﻬﻧﺇ\n\n. ﺮﻀﺤﺘﻤﻟﺍ ﻙﻮﻠﺴﻟﺍ ﺍًﺪﻳﺪﺤﺗ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻡﺮﺘﺤﺗ</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>ﻲﺴﻴﺋﺭ ﺭﺎﺸﺘﺴﻣ</OutlanderCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderCivil.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﻢﺟﺎﻬﻳ</OutlanderCivil.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>ﻲﺒﻨﺟﺃ</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>ﺐﻧﺎﺟﺃ</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>ﻦﻳﺩﺪﺸﺘﻤﻟﺍ ﺐﻧﺎﺟﻷﺍ ﺩﺎﺤﺗﺍ</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>. ﺩﻭﺭﺎﺒﻟﺎﺑ ﻞﻤﻌﺗ ﺓﺭﻮﻄﺘﻣ ﺔﺤﻠﺳﺄﺑ ﻢﻬﺴﻔﻧﺃ ﻦﻋ ﻥﻮﻌﻓﺍﺪﻳﻭ ﺔﻄﻴﺴﺑ ﺕﻻﺂﺑ ﻥﻮﻠﻤﻌﻳ ﺎﻣ ًﺓﺩﺎﻋ. ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻢﻬﺘﺒﻠﺟ ﻲﺘﻟﺍ ﺕﺎﻴﻨﻘﺘﻟﺍ ﻢﻈﻌﻣ ﺍﻭﺪﻘﻓﻭ ،ﻥﻭﺮﻘﻟ ﻭﺃ ﺩﻮﻘﻌﻟ ﺀﻻﺆﻫ ﺵﺎﻋ ﺪﻘﻟ\n\n. ﺀﺎﻘﺒﻟﺍﻭ ﺔﻘﺜﻟﺍﻭ ﺓﺭﺎﺠﺘﻠﻟ ﺔﻴﻠﻤﻌﻟﺍ ﻥﻭﺆﺸﻟﺎﺑ ﻥﻮﻤﺘﻬﻳ ﻢﻬﻧﺇ\n\n. ﺎﻬﻴﻓ ﺔﻴﺠﻤﻫ ﺔﻋﺰﻧ ﺍًﺪﻳﺪﺤﺗ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻞﻤﺤﺗ</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>ﻲﺴﻴﺋﺮﻟﺍ ﺲﻠﺠﻤﻟﺍ ﺭﺎﺸﺘﺴﻣ</OutlanderRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRough.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﺕﺍﻮﻗ ﻢﺟﺎﻬﺗ</OutlanderRough.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>ﻲﺒﻨﺟﺃ</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>ﺐﻧﺎﺟﺃ</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate gang -->
+  <Pirate.label>ﺔﻨﺻﺍﺮﻗ ﺔﺑﺎﺼﻋ</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>. ﺎﻬﻨﻴﺑ ﺎﻤﻴﻓ ﻝﺎﺘﻘﻟﺍ ﻦﻣ ًﻻﺪﺑ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﺀﺎﺑﺮﻐﻟﺍ ﺔﺑﺭﺎﺤﻣ ﻰﻠﻋ ﺖﻘﻔﺗﺍ ﺔﻨﺻﺍﺮﻗ ﺕﺎﺑﺎﺼﻌﻟ ﺽﺎﻔﻀﻓ ﺩﺎﺤﺗﺍ\n\n. ﺔﻴﺟﺎﺘﻧﺇ ﺮﺜﻛﻷﺍ ﻢﻬﻧﺍﺮﻴﺟ ﺔﻗﺮﺳﻭ ﺕﺍﺭﺎﻐﻟﺍ ﻝﻼﺧ ﻦﻣ ﻢﻬﺴﻔﻧﺃ ﻥﻮﻳﺮﺜﻳ ،ﺓﻮﺴﻘﻟﺍﻭ ﺔﻴﺼﺨﺸﻟﺍ ﺓﻮﻘﻟﺍ ﺭﺪﻘﺗ ﻲﺘﻟﺍ ﻑﺮﺸﻟﺍﻭ ﻡﺪﻟﺍ ﺔﻓﺎﻘﺜﺑ ﻦﻴﻋﻮﻓﺪﻣ. ﻥﻭﺮﺟﺎﺘﻳ ﺎﻣ ًﺍﺭﺩﺎﻧﻭ ،ﻥﻮﻨﺒﻳ ﻻﻭ ،ﻥﻮﻋﺭﺰﻳ ﻻ ﺔﻨﺻﺍﺮﻘﻟﺍ\n\n. ﺏﺮﻗ ﻦﻋ ﺎﻳﺎﺤﻀﻟﺍ ﻦﻌﻃ ﻞﻀﻔﻳ ﺾﻌﺒﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺔﻳﺩﻭﺭﺎﺑ ﺔﺤﻠﺳﺃ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻥﻮﻠﻤﺤﻳ. ًﺍﺮﺧﺆﻣ ﻪﺘﻗﺮﺳ ﻦﻣ ﺍﻮﻨﻜﻤﺗ ﺎﻣ ﻰﻠﻋ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻢﻫﺍﻮﺘﺴﻣ ﺪﻤﺘﻌﻳ</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>ﻢﻴﻋﺯ</Pirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pirate.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﻢﺟﺎﻬﻳ</Pirate.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>ﻥﺎﺻﺮﻗ</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>ﺔﻨﺻﺍﺮﻗ</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>ﺔﻔﻴﻄﻟ ﺔﻠﻴﺒﻗ</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>. ﺔﻴﺋﺍﺪﺑ ﺔﺤﻠﺳﺃﻭ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﺸﻴﻌﻳ ﻞﺣﺭ ﺐﻌﺷ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻢﻫ ﻦﻴﻴﻠﺒﻘﻟﺍ ﻥﺈﻓ ،ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ. ﺎﻨﻫ ﺔﻴﺟﻮﻟﻮﻨﻜﺗ ﺓﺭﺎﻀﺣ ﺕﺮﻣﺩ ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ. ﻡﺎﻋ ﻒﻟﺃ ﻞﺒﻗ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﺖﻤﻄﺤﺗ ﺎﻤﺑﺭ. ﺍًﺪﺟ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺎﻨﻫ ﺀﻻﺆﻫ ﺵﺎﻋ ﺪﻘﻟ\n\n. ﻢﻬﺘﺑﻼﺻﻭ ،ﻢﻫﺩﺍﺪﻋﺃﻭ ،ﺔﻴﻨﻘﺘﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺏﺮﺤﻟﺍ ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣ ﺐﺒﺴﺑ ﻦﻴﻤﻴﻗ ﺀﺎﻗﺪﺻﺃﻭ ﻦﻳﺮﻄﺧ ﺀﺍﺪﻋﺃ ﺍﻮﻧﻮﻜﻳ ﻥﺃ ﻦﻴﻴﻠﺒﻘﻠﻟ ﻦﻜﻤﻳ ،ﺮﻫﺎﻈﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻢﻬﻔﻌﺿ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n\n. ﺔﺒﻳﺮﻐﻟﺍ ﺏﻮﻌﺸﻟﺍ ﻊﻣ ﻰﺘﺣ ،ﺕﺎﻔﻟﺎﺤﺘﻟﺍﻭ ﺓﺭﺎﺠﺘﻟﺍ ﻰﻠﻋ ﺍًﺪﺟ ﻥﻮﺤﺘﻔﻨﻣ ﻢﻬﻧﺇ. ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ﻒﻴﻄﻟ ﺓﺎﻴﺣ ﺏﻮﻠﺳﺃ ﻰﻟﺇ ﺍًﺪﻳﺪﺤﺗ ﺔﻠﻴﺒﻘﻟﺍ ﻩﺬﻫ ﻰﻌﺴﺗ</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>ﻢﻴﻋﺯ</TribeCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCivil.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﻢﺟﺎﻬﻳ</TribeCivil.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>ﺔﻠﻴﺒﻘﻟﺍ ﻞﺟﺭ</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>ﻞﺋﺎﺒﻘﻟﺍ ﺀﺎﻨﺑﺃ</TribeCivil.pawnsPlural>
+  
+  <!-- EN: fierce tribe -->
+  <TribeRough.label>ﺔﺳﺮﺷ ﺔﻠﻴﺒﻗ</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>. ﺔﻴﺋﺍﺪﺑ ﺔﺤﻠﺳﺃﻭ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﺸﻴﻌﻳ ﻞﺣﺭ ﺐﻌﺷ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻢﻫ ﻦﻴﻴﻠﺒﻘﻟﺍ ﻥﺈﻓ ،ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ. ﺎﻨﻫ ﺔﻴﺟﻮﻟﻮﻨﻜﺗ ﺓﺭﺎﻀﺣ ﺕﺮﻣﺩ ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ. ﻡﺎﻋ ﻒﻟﺃ ﻞﺒﻗ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﺖﻤﻄﺤﺗ ﺎﻤﺑﺭ. ﺍًﺪﺟ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﺎﻨﻫ ﺀﻻﺆﻫ ﺵﺎﻋ ﺪﻘﻟ\n\n. ﻢﻬﺘﺑﻼﺻﻭ ،ﻢﻫﺩﺍﺪﻋﺃﻭ ،ﺔﻴﻨﻘﺘﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺏﺮﺤﻟﺍ ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣ ﺐﺒﺴﺑ ﻦﻴﻤﻴﻗ ﺀﺎﻗﺪﺻﺃﻭ ﻦﻳﺮﻄﺧ ﺀﺍﺪﻋﺃ ﺍﻮﻧﻮﻜﻳ ﻥﺃ ﻦﻴﻴﻠﺒﻘﻠﻟ ﻦﻜﻤﻳ ،ﺮﻫﺎﻈﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻢﻬﻔﻌﺿ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n\n. ﺀﺎﻔﻠﺣ ﻰﻟﺇ ﻢﻬﻠﻳﻮﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ ﻥﻮﻜﻳ ﺪﻗ ؛ﺔﻴﺑﺮﺤﻟﺍ ﺔﻨﻤﻴﻬﻟﺍ ﺍًﺪﻳﺪﺤﺗ ﺔﻠﻴﺒﻘﻟﺍ ﻩﺬﻫ ﺭّﺪﻘﺗ</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>ﻢﻴﻋﺯ</TribeRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRough.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﺕﺍﻮﻗ ﻢﺟﺎﻬﺗ</TribeRough.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>ﺔﻠﻴﺒﻘﻟﺍ ﻞﺟﺭ</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>ﻞﺋﺎﺒﻘﻟﺍ ﺀﺎﻨﺑﺃ</TribeRough.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeSavage.label>ﺔﺸﺣﻮﺘﻣ ﺔﻠﻴﺒﻗ</TribeSavage.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
+  <TribeSavage.description>. ﺔﻴﺋﺍﺪﺑ ﺔﺤﻠﺳﺃﻭ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﺸﻴﻌﻳ ﻞﺣﺭ ﺐﻌﺷ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻢﻫ ﻦﻴﻴﻠﺒﻘﻟﺍ ﻥﺈﻓ ،ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ. ﺎﻨﻫ ﺔﻴﺟﻮﻟﻮﻨﻜﺗ ﺓﺭﺎﻀﺣ ﺕﺮﻣﺩ ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ. ﻡﺎﻋ ﻒﻟﺃ ﻞﺒﻗ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﺖﻤﻄﺤﺗ ﺎﻤﺑﺭ. ﺍًﺪﺟ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﺎﻨﻫ ﺀﻻﺆﻫ ﺵﺎﻋ ﺪﻘﻟ\n\n. ﻢﻬﺘﺑﻼﺻﻭ ،ﻢﻫﺩﺍﺪﻋﺃﻭ ،ﺔﻴﻨﻘﺘﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺏﺮﺤﻟﺍ ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣ ﺐﺒﺴﺑ ﻦﻳﺮﻄﺧ ﺀﺍﺪﻋﺃ ﺍﻮﻧﻮﻜﻳ ﻥﺃ ﻦﻴﻴﻠﺒﻘﻠﻟ ﻦﻜﻤﻳ ،ﺮﻫﺎﻈﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻢﻬﻔﻌﺿ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n\n!ﻢﻬﻌﻣ ﻒﻟﺎﺤﺘﻟﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻦﻟ ؛ﻑﺮﺸﻟﺍﻭ ﻡﺪﻟﺍ ﺔﻓﺎﻘﺜﺑ ﺔﻋﻮﻓﺪﻣ ﺕﺍﺬﻟﺎﺑ ﺔﻠﻴﺒﻘﻟﺍ ﻩﺬﻫ</TribeSavage.description>
+  <!-- EN: chief -->
+  <TribeSavage.leaderTitle>ﻢﻴﻋﺯ</TribeSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavage.messageDefendersAttacking>. ﻚﺑ ﺹﺎﺨﻟﺍ {2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﺕﺍﻮﻗ ﻢﺟﺎﻬﺗ</TribeSavage.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeSavage.pawnSingular>ﺔﻠﻴﺒﻘﻟﺍ ﻞﺟﺭ</TribeSavage.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeSavage.pawnsPlural>ﻞﺋﺎﺒﻘﻟﺍ ﺀﺎﻨﺑﺃ</TribeSavage.pawnsPlural>
+  
+</LanguageData>

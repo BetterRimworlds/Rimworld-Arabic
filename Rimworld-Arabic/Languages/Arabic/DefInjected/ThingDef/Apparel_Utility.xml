@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.label>ﻲﺴﻔﻧ ﻥﻮﻨﺟ ﺢﻣﺭ</Apparel_PsychicInsanityLance.label>
+  <!-- EN: A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicInsanityLance.description>. ﺓﺮﺷﺎﺒﻣ ﺔﻳﺅﺭ ﺐﻠﻄﺘﻳ ﻪﻨﻜﻟﻭ ،ﻞﻳﻮﻃ ﻯﺪﻤﺑ ﻊﺘﻤﺘﻳ. ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﻒﻠﺗ ﺙﻭﺪﺣ ﺮﻄﺧ ﻙﺎﻨﻫ. ﺔﻳﺮﻴﺘﺴﻫ ﺔﻟﺎﺣ ﻰﻟﺇ ﻪﻌﻓﺪﻳ ﺎﻤﻣ ،ﺔﺒﻋﺮﻣ ﺔﻴﻛﺍﺭﺩﺇ ﺕﺎﻬﻳﻮﺸﺘﺑ ﻑﺪﻬﻟﺍ ﻞﻘﻋ ﺮﻤﻐﻳ. ﻡﺍﺪﺨﺘﺳﻻﺍ ﺩﻭﺪﺤﻣ ﻲﺴﻔﻧ ﺭِّﺛَﺅُﻣ</Apparel_PsychicInsanityLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>ﺔﻨﺤﺷ</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>ﺪﻳﺮﺒﺘﻟﺍ ﺪﻴﻗ</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>ﻲﺴﻔﻧ ﻥﻮﻨﺟ ﺢﻣﺭ</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>ﻥﻮﻨﺠﻠﻟ ﺔﻴﺴﻔﻧ ﺔﻋﺎﻨﻣ</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+  
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.label>ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ ﺢﻣﺭ</Apparel_PsychicShockLance.label>
+  <!-- EN: A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicShockLance.description>. ﺓﺮﺷﺎﺒﻣ ﺔﻳﺅﺭ ﺐﻠﻄﺘﻳ ﻪﻨﻜﻟﻭ ،ﻞﻳﻮﻃ ﻯﺪﻤﺑ ﻊﺘﻤﺘﻳ. ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﻒﻠﺗ ﺙﻭﺪﺣ ﺮﻄﺧ ﻙﺎﻨﻫ. ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ ﺔﻟﺎﺣ ﻰﻟﺇ ﻪﻌﻓﺪﻳﻭ ﻚﺳﺎﻤﺘﻤﻟﺍ ﻙﺍﺭﺩﻹﺍ ﻖﻴﻌﻳ ﺎﻤﻣ ،ﺔﻳﻮﺿﻮﻓ ﺭﻮﺼﺑ ﻑﺪﻬﺘﺴﻤﻟﺍ ﻞﻘﻌﻟﺍ ﻡﺪﺼﻳ. ﻡﺍﺪﺨﺘﺳﻻﺍ ﺩﻭﺪﺤﻣ ﻲﺴﻔﻧ ﺭِّﺛَﺅُﻣ</Apparel_PsychicShockLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>ﺔﻨﺤﺷ</Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>ﺪﻳﺮﺒﺘﻟﺍ ﺪﻴﻗ</Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ ﺢﻣﺭ</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  <!-- EN: psychic shock immune -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ ﺪﺿ ﺔﻋﺎﻨﻣ</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+  
+</LanguageData>

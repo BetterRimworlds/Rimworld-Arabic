@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>ﻥﻭﺪﻳﺎﺤﻣ ﻡﺪﻗﺃ</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>ﻥﻮﻣﺪﻗﻷﺍ</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>ﺪﺋﺎﻗ</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>. ﻥﻮﻤﺟﺎﻬﻳ ﻰﻣﺍﺪﻗ ﺩﻮﻨﺟ</Ancients.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>ﻢﻳﺪﻗ</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>ﺀﺎﻣﺪﻘﻟﺍ</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>ﻦﻳﺩﺎﻌﻣ ﻡﺪﻗﺃ</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>ﻥﻮﻣﺪﻗﻷﺍ</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>ﺪﺋﺎﻗ</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>. ﻥﻮﻤﺟﺎﻬﻳ ﻰﻣﺍﺪﻗ ﺩﻮﻨﺟ</AncientsHostile.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>ﻢﻳﺪﻗ</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>ﺀﺎﻣﺪﻘﻟﺍ</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insect geneline -->
+  <Insect.label>ﺔﻳﺮﺸﺣ ﺔﻟﻼﺳ</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>. ﺍًﻤﺋﺍﺩ ﻮﻫ ﺎﻤﻛ ﺎﻫﺮﻄﺧﻭ ﺎﻨﻫ ﺎﻬﻨﻜﻟ ،ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻥﺭﻮﺳ ﺕﺍﺮﺸﺣ ﻊﺿﻭ ﻦﻣ ﺢﺿﺍﻮﻟﺍ ﻦﻣ ﺲﻴﻟ. ﺔﺤﻠﺳﺄﻛ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﺕﺎﻨﺿﺎﺣ ﻲﻓ ﺎﻬﺘﻋﺍﺭﺯﻭ ﺍًﻴﺛﺍﺭﻭ ﺔﻳﺮﺸﺤﻟﺍ ﺕﺍﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻳﺪﻌﺗﻭ ﺮﺳﺃ ﻦﻣ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﻝﺎﻤﻋﻷﺍ ﺩﺍﻭﺭ ﻦﻜﻤﺗ ،ﻥﺭﻮﺳ ﺐﻛﻮﻛ ﻦﻣ ﻞﺻﻷﺍ ﻲﻓ. ﺕﺎﻧﻮﻣﻭﺮﻴﻔﻟﺍ ﺕﺍﺭﺎﺷﺇ ﻭﺃ ﺀﺎﺿﻮﻀﻠﻟ ﺎﻬﺑﺍﺬﺠﻧﺍ ﺪﻨﻋ ﻢﺟﺎﻬﺘﻟ ﺮﻔﺤﺗﻭ ﺽﺭﻷﺍ ﺖﺤﺗ ﺕﺍﺮﺸﺤﻟﺎﺑ ﺔﻬﻴﺒﺸﻟﺍ ﺔﻤﺨﻀﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﻩﺬﻫ ﺶﻴﻌﺗ</Insect.description>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>ﺔﻴﻨﻴﺠﻟﺍ ﻥﺭﻮﺳ ﺔﻟﻼﺳ</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>ﺪﺋﺎﻗ</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>.{2} ﻥﻮﻤﺟﺎﻬﻳ {1} ﻦﻣ {0}</Insect.messageDefendersAttacking>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>ﺓﺮﺸﺣ</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>ﺕﺍﺮﺸﺣ</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻴﻠﺧ</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>. ﻢﺋﺎﻧ ﻪﻟﻹ ﻥﻮﻴﻧﺎﻄﻴﺷ ﻡﺍﺪﺧ ﺎﻬﻧﺃ ﺔﻴﻠﺒﻘﻟﺍ ﺮﻴﻃﺎﺳﻷﺍ ﻒﺼﺗ ،ﺔﻤﻳﺪﻗ ﺏﺮﺣ ﻦﻣ ﺖﻛﺮﺗ ﺔﻠﻘﺘﺴﻣ ﺔﺤﻠﺳﺃ ﺎﻬﻧﺃ ﻥﻮﻴﻠﺤﻤﻟﺍ ﺀﺎﻤﻠﻌﻟﺍ ﺪﻘﺘﻌﻳ ﺎﻤﻨﻴﺑ. ﻞﻤﻌﻟﺍ ﻲﻓ ﺪﻴﺟ ﻞﻜﺸﺑ ﺔﻘﺴﻨﻣ ﺖﺴﻴﻟ ﺎﻬﻨﻜﻟﻭ ،ﺽﺮﻐﻟﺍ ﻲﻓ ﺓﺪﺣﻮﻣ ﺕﻻﻵﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻥﺃ ﻭﺪﺒﻳ. ﻦﻴﻨﺴﻟﺍ ﻑﻻﻵ ﺎﻬﺴﻔﻧ ﻰﻠﻋ ﻆﻓﺎﺤﺗ ﻥﺃ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ـﻝ ﻦﻜﻤﻳ ،ﻂﻴﺤﻤﻟﺍ ﻉﺎﻗ ﻲﻓ ﻭﺃ ،ﺭﺎﺒﻐﻟﺍ ﻦﻣ ﻡﺍﻮﻛﺃ ﺖﺤﺗ ،ﺔﻤﻳﺪﻗ ﻞﻛﺎﻴﻫ ﻲﻓ ﺓﺄﺒﺨﻣ. ﻝﻮﻬﺠﻣ ﻞﺻﺃ ﺕﺍﺫ ﺔﻠﺗﺎﻗ ﺕﻻﺁ</Mechanoid.description><!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.fixedName>. ﻢﺋﺎﻧ ﻪﻟﻹ ﻥﻮﻴﻧﺎﻄﻴﺷ ﻡﺍﺪﺧ ﺎﻬﻧﺃ ﺔﻴﻠﺒﻘﻟﺍ ﺮﻴﻃﺎﺳﻷﺍ ﻒﺼﺗ ،ﺔﻤﻳﺪﻗ ﺏﺮﺣ ﻦﻣ ﺖﻛﺮﺗ ﺔﻠﻘﺘﺴﻣ ﺔﺤﻠﺳﺃ ﺎﻬﻧﺃ ﻥﻮﻴﻠﺤﻤﻟﺍ ﺀﺎﻤﻠﻌﻟﺍ ﺪﻘﺘﻌﻳ ﺎﻤﻨﻴﺑ. ﻞﻤﻌﻟﺍ ﻲﻓ ﺪﻴﺟ ﻞﻜﺸﺑ ﺔﻘﺴﻨﻣ ﺖﺴﻴﻟ ﺎﻬﻨﻜﻟﻭ ،ﺽﺮﻐﻟﺍ ﻲﻓ ﺓﺪﺣﻮﻣ ﺕﻻﻵﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻥﺃ ﻭﺪﺒﻳ. ﻦﻴﻨﺴﻟﺍ ﻑﻻﻵ ﺎﻬﺴﻔﻧ ﻰﻠﻋ ﻆﻓﺎﺤﺗ ﻥﺃ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ـﻝ ﻦﻜﻤﻳ ،ﻂﻴﺤﻤﻟﺍ ﻉﺎﻗ ﻲﻓ ﻭﺃ ،ﺭﺎﺒﻐﻟﺍ ﻡﺍﻮﻛﺃ ﺖﺤﺗ ،ﺔﻤﻳﺪﻗ ﻞﻛﺎﻴﻫ ﻲﻓ ﺓﺄﺒﺨﻣ. ﻝﻮﻬﺠﻣ ﻞﺻﺃ ﺕﺍﺫ ﺔﻠﺗﺎﻗ ﺕﻻﺁ</Mechanoid.fixedName>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>ﺪﺋﺎﻗ</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>.{2} ﻥﻮﻤﺟﺎﻬﻳ {1} ﻦﻣ {0}</Mechanoid.messageDefendersAttacking>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>ﺪﻳﻮﻧﺎﻜﻴﻣ</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</Mechanoid.pawnsPlural>
+  
+</LanguageData>

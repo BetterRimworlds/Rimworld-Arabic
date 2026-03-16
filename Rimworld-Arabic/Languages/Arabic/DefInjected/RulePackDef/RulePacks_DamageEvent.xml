@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damage_source->the [roof] [collapsed] on</li>
+    <li>roof->roof</li>
+    <li>roof->roofing</li>
+    <li>roof->ceiling</li>
+    <li>collapsed->collapsed</li>
+    <li>collapsed->fell</li>
+    <li>collapsed->caved in</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present->bruising</li>
+    <li>damaged_present->lacerating</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+  -->
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damage_source->ﻕﻮﻓ [collapsed] [roof] ﻝﺍ</li>
+    <li>roof->ﻒﻘﺳ</li>
+    <li>roof->ﻒﻘﺳ</li>
+    <li>roof->ﻒﻘﺳ</li>
+    <li>collapsed->ﺭﺎﻬﻧﺍ</li>
+    <li>collapsed->ﺭﺎﻬﻧﺍ</li>
+    <li>collapsed->ﺭﺎﻬﻧﺍ</li>
+    <li>damaged_present->ﺎًﻘِﺣﺎَﺳ</li>
+    <li>damaged_present->ﺎًﻤﺤﺘﻘﻣ</li>
+    <li>damaged_present->ﺕﺎﻣﺪﻛ</li>
+    <li>damaged_present->ﺍًﺭِّﺮَﻀَﺘُﻣ</li>
+    <li>damaged_present->ﺎًﻗِﺮْﺤُﻣ</li>
+    <li>destroyed_present->ﺍًﺮِّﻣَﺪُﻣ</li>
+    <li>destroyed_present->ﺎًﻘِﺣﺎَﺳ</li>
+    <li>destroyed_present->ﺍًﺪﻴِﺒُﻣ</li>
+    <li>destroyed_present->ﺍًﺪﻴِﺒُﻣ</li>
+    <li>destroyed_present->ﺍًﺮﺴﻛ</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->[fire] burned</li>
+    <li>fire(p=3)->fire</li>
+    <li>fire(p=3)->a fire</li>
+    <li>fire(p=3)->the fire</li>
+    <li>fire->heat</li>
+    <li>fire->a conflagration</li>
+    <li>fire->an inferno</li>
+    <li>damaged_present->scorching</li>
+    <li>damaged_present->broiling</li>
+    <li>damaged_present->searing</li>
+    <li>damaged_present->singeing</li>
+    <li>destroyed_present->charring</li>
+    <li>destroyed_present->roasting</li>
+    <li>destroyed_present->cooking</li>
+    <li>destroyed_present->cremating</li>
+  -->
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>damage_source->ﻕﺮﺣﺃ [fire]</li>
+    <li>fire(p=3)->ﺭﺎﻨﻟﺍ</li>
+    <li>fire(p=2)->ﺭﺎﻧ</li>
+    <li>fire->ﺓﺭﺍﺮﺤﻟﺍ</li>
+    <li>fire->ﺓﺮﻤﺟ</li>
+    <li>fire->ﻢﻴﺤﺟ</li>
+    <li>damaged_present->ﻱِﻮْﺸُﻳ</li>
+    <li>damaged_present->ﻱِّﻮَﺸُﻳ</li>
+    <li>damaged_present->ﻕﺮﺘﺤﻳ</li>
+    <li>damaged_present->ﺎًﺒﻘﺜﻣ</li>
+    <li>destroyed_present->ﻕﺍﺮﺘﺣﺍ</li>
+    <li>destroyed_present->ﻱﻮﺸﻳ</li>
+    <li>destroyed_present->ﺦﺒﻄﻳ</li>
+    <li>destroyed_present->ﺎًﻗﺭﺎﺣ</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
+  -->
+  <DamageEvent_Include.rulePack.rulesStrings>
+    <li>r_logentry->.[destroyed_targets] [RECIPIENT_possessive] [destroyed_present] ،[RECIPIENT_nameDef] [damage_source]</li>
+    <li>r_logentry->.[damaged_targets] [RECIPIENT_possessive] [damaged_present] ﻭ [destroyed_targets] [RECIPIENT_possessive] [destroyed_present] ،[RECIPIENT_nameDef] [damage_source]</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->.[damaged_targets] [RECIPIENT_possessive] [damaged_present] ،[RECIPIENT_nameDef] [damage_source]</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef][مصدر الضرر] [اسم المستلم].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->The [sky] opened up on</li>
+    <li>damage_source->A beam of incredible [power] [damaged_past]</li>
+    <li>damage_source->A column of [light] [damaged_past]</li>
+    <li>sky->sky</li>
+    <li>sky->clouds</li>
+    <li>sky->heavens</li>
+    <li>power->power</li>
+    <li>power->energy</li>
+    <li>power->heat</li>
+    <li>light->light</li>
+    <li>light->heat</li>
+    <li>light->flame</li>
+    <li>light(p=0.2)->incandescence</li>
+  -->
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damage_source->ﻕﻮﻓ [sky]</li>
+    <li>damage_source->[damaged_past] [power] ﻞﺋﺎﻫ ٌﻉﺎﻌﺷ</li>
+    <li>damage_source->[damaged_past] [light] ﻦﻣ ﺩﻮﻤﻋ</li>
+    <li>sky->ُﺀﺎﻤَّﺴﻟﺍ ّﻖﺸﻧﺍ</li>
+    <li>sky->ﻡﻮﻴﻐﻟﺍ ﺖّﻘﺸﻧﺍ</li>
+    <li>sky->ﺕﺍﻭﺎﻤﺴﻟﺍ ﺖّﻘﺸﻧﺍ</li>
+    <li>power->ﺓﻮﻗ</li>
+    <li>power->ﺔﻗﺎﻃ</li>
+    <li>power->ﺓﺭﺍﺮﺣ</li>
+    <li>light->ﺀﻮﺿ</li>
+    <li>light->ﺓﺭﺍﺮﺣ</li>
+    <li>light->ﺐﻬﻟ</li>
+    <li>light(p=0.2)->ﺞﻫﻮﺘﻣ</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->A [spiraling] tornado [enveloped]</li>
+    <li>destroyed_present(p=3)->tearing off</li>
+    <li>spiraling->spiraling</li>
+    <li>spiraling->whirling</li>
+    <li>spiraling->spinning</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->enveloped</li>
+    <li>enveloped->engulfed</li>
+    <li>enveloped->surrounded</li>
+  -->
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>damage_source->[enveloped] [spiraling] ﺭﺎﺼﻋﺇ</li>
+    <li>destroyed_present(p=3)->ﺎًﻗِّﺰَﻤُﻣ</li>
+    <li>spiraling->ﺔﻳﻮﺘﻠﻣ</li>
+    <li>spiraling->ﺓﺭﺎّﻣُﺯ</li>
+    <li>spiraling->ﺭﺍَّﻭَﺩ</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->ّﻒﻟ</li>
+    <li>enveloped->ﻊﻠﺘﺑﺍ</li>
+    <li>enveloped->َﻑﺎﻃ</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source->[spiketrap] stabbed</li>
+    <li>damage_source->[spiketrap] struck</li>
+    <li>damage_source->[spiketrap] launched at</li>
+    <li>spiketrap(p=3)->a spike trap</li>
+    <li>spiketrap(p=3)->the spike trap</li>
+    <li>spiketrap->spikes</li>
+    <li>spiketrap->a sharp trap</li>
+    <li>spiketrap->a spiky trap</li>
+    <li>damaged_present->perforating</li>
+    <li>damaged_present->spearing</li>
+    <li>damaged_present->penetrating</li>
+    <li>damaged_present->jabbing into</li>
+    <li>destroyed_present->tearing apart</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->eviscerating</li>
+    <li>destroyed_present->exploding</li>
+  -->
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>damage_source->ﻦﻌﻃ [spiketrap]</li>
+    <li>damage_source->ﻡﺪﻄﺻﺍ [spiketrap]</li>
+    <li>damage_source->ﻰﻠﻋ ﻖﻠﻃُﺃ [spiketrap]</li>
+    <li>damage_source->ﺍﻮﻨﻌﻃ [spiketrap_pl]</li>
+    <li>damage_source->ﺖﺑﺎﺻﺃ [spiketrap_pl]</li>
+    <li>damage_source->ﻰﻠﻋ َﻲِﻘﻟُﺃ [spiketrap_pl]</li>
+    <li>spiketrap(p=3)->ﻙﺍﻮﺷﺃ ﺦﻓ</li>
+    <li>spiketrap(p=3)->ﻙﺍﻮﺷﺄﻟﺍ ﺦﻓ</li>
+    <li>spiketrap_pl->ﺲﻴﺑﺎﺑﺪﻟﺍ ﺾﻌﺑ</li>
+    <li>spiketrap->ﺩﺎﺣ ﺦﻓ</li>
+    <li>spiketrap->ﻚﺋﺎﺷ ﺦﻓ</li>
+    <li>damaged_present->ﺎًﻗﺮﺘﺨﻣ</li>
+    <li>damaged_present->ﺎًﻗﺮﺘﺨﻣ</li>
+    <li>damaged_present->ﻕﺮﺘﺨﻳ</li>
+    <li>damaged_present->ﻪﺴﻔﻧ ًﺎﺳﺭﺎﻏ</li>
+    <li>destroyed_present->ﺎًﻗِّﺰَﻤُﻣ</li>
+    <li>destroyed_present->ﻖﻳﺰﻤﺗ</li>
+    <li>destroyed_present->ﺀﺎَﺸْﺣَﺄﻟﺍ ﺎًﻋِﺰَﺘﻨُﻣ</li>
+    <li>destroyed_present->ﺍًﺮﺠﻔﻨﻣ</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+  
+</LanguageData>

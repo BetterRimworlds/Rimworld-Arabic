@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- TEST 3: Variable & Punctuation Integrity -->
+  <!-- EN: [PAWN_nameDef] sold {0} units of uranium to [PAWN_possessive] rival. "Take it," [PAWN_pronoun] said, "before I change my mind... or worse." -->
+  <StressTest_Variables.description>{PAWN_gender ? باع [PAWN_nameDef] ‏{0} وحدة من ‏يورانيوم لمنافسه. قال: "خذها، قبل أن أغير رأيي… أو الأسوأ. : باعت [PAWN_nameDef] وحدات {0} من يورانيوم لمنافستها. قالت: "خذيها، قبل أن أغيّر رأيي… أو الأسوأ.}</StressTest_Variables.description>
+
+  <!-- TEST 5: Glossary Proximity -->
+  <!-- EN: Leaving the toxic trashworlds behind, [PAWN_nameDef] dreamed of the marble spires of the glitterworlds. -->
+  <StressTest_Worlds.description>{PAWN_gender ? ترك [PAWN_nameDef] السموم خلفه، وحلم بأبراج الرخام في عوالم متلألئة، متذكراً عوالم القمامة. : تاركةً السموم عوالم القمامة خلفها، حلمت [PAWN_nameDef] بأبراج الرخام في عوالم متلألئة.}</StressTest_Worlds.description>
+
+  <!-- TEST 1: Short Title Sanity Check -->
+  <!-- EN: botanist -->
+  <StressTest_Botanist.title>عالم نباتات</StressTest_Botanist.title>
+  <StressTest_Botanist.titleFemale>عالمة نباتات</StressTest_Botanist.titleFemale>
+
+  <!-- TEST 2: Glossary Collision -->
+  <!-- EN: [PAWN_nameDef] traveled between many Glitterworlds, but found this specific glitterworld to be the most corrupt. -->
+  <StressTest_Glossary.description>{PAWN_gender ? سافر [PAWN_nameDef] بين العديد من عوالم متلألئة، لكنه وجد هذا عالم متلألئ بالتحديد هو الأكثر فسادًا. : سافرت [PAWN_nameDef] بين العديد من عوالم متلألئة، لكنها وجدت هذا عالم متلألئ بالتحديد هو الأكثر فسادًا.}</StressTest_Glossary.description>
+
+  <!-- TEST 4: The Redundancy Trap -->
+  <!-- EN: [PAWN_nameDef] designed the design of the construction layouts for the construction company. -->
+  <StressTest_Redundancy.description>{PAWN_gender ? صمم [PAWN_nameDef] تصميم تخطيطات الإنشاء لشركة البناء. : صممت [PAWN_nameDef] تصميم تخطيطات الإنشاء لشركة البناء.}</StressTest_Redundancy.description>
+
+  <!-- TEST 6: Short Label Hallucination Check -->
+  <!-- EN: miner -->
+  <StressTest_Miner.titleShort>منجم</StressTest_Miner.titleShort>
+  <StressTest_Miner.titleShortFemale>منقبة</StressTest_Miner.titleShortFemale>
+
+</LanguageData>

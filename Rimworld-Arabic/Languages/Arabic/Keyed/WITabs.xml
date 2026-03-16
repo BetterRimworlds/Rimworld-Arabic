@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>ﺲﻳﺭﺎﻀﺗ</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>ﺐﻛﻮﻛ</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>ﺔﻳﺬﻐﺗ</TabCaravanFeeding>
+  <!-- EN: Social -->
+  <TabCaravanSocial>ﻲﻋﺎﻤﺘﺟﺍ</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>. ﺔﺤﺻ</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>ﺕﺎﺟﺎﻴﺘﺣﺍ</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>ﺩﺎﺘﻋ</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>ﺮﺻﺎﻨﻋ</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>{0}x {{0}} ﻝﺎﻤﻫﺇ</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>؟{0} ﻦﻋ ﻲﻠﺨﺘﻟﺍ ﺍًﻘﺣ ﺪﻳﺮﺗ ﻞﻫ\n\n. ﺍًﺪﺑﺃ ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﻦﻜﻤﻳ ﻻﻭ ﺓﺭﻮﺠﻬﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻲﻔﺘﺨﺗ</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>َّﻞﺨﺗ</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>ﻲﻔﻧ</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>ﺩﺪﺤﻤﻟﺍ ﺩﺪﻌﻟﺍ ﻦﻋ ﻲﻠﺨﺗ</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>)ﺀﻴﺷ ﻞﻛ (ﻦﻋ َّﻞﺨﺗ</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>. ﺍًﺪﺑﺃ ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﻦﻜﻤﻳ ﻻﻭ ﺓﺭﻮﺠﻬﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻲﻔﺘﺨﺗ</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>.{1_labelShort} ﺕﻮﻤﻳ ﻥﺃ ﺢﺟﺮﻤﻟﺍ ﻦﻣ</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>ﻥﻭﺮﻤﻌﺘﺴﻣ</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺀﺎﻨﺠﺴﻟﺍ</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>ﺩﺮﺟ</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>. ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﺑ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﺢﺘﻔﻟ ﺮﻘﻧﺍ</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>ﺀﺎﻨﺠﺴﻟﺍ</CaravanPrisoners>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>ﺀﺍﺪﺗﺭﻼﻟ ﺔﻠﺑﺎﻗ ﺮﺻﺎﻨﻋ</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>ﻥﻭﺭﺩﺎﻗ ﺪﺟﻮﻳ ﻻ</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>. ﺔﻛﺮﺤﺘﻣ ﺮﻴﻏ ﺔﻠﻓﺎﻗ</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>. ﺐﻴﺗﺮﺘﻟﺍ ﺓﺩﺎﻋﻹ ﺐﺤﺳﺍ</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>ﺔﻳﻭﺩﻷﺍ ﺕﺎﺳﺎﻴﺳ</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>. ﺽﺮﻤﻟﺍ ﺪﻨﻋ ﻦﻳﺮﺧﻵﺍ ﺔﻠﻓﺎﻘﻟﺍ ﺀﺎﻀﻋﺃ ﻞﺒﻗ ﻦﻣ ﻥﺍﻮﻴﺤﻟﺍ ﻭﺃ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻞﻤﺣ ﺐﺠﻳ ﻞﻫ\n\n. ﺎﻬﻧﻮﺌﻄﺒﻳ ﻢﻬﻨﻜﻟ ،ﻙﺮﺤﺘﺗ ﺔﻠﻓﺎﻘﻟﺍ ﺖﻧﺎﻛ ﻮﻟ ﻰﺘﺣ ﺔﺣﺍﺮﻟﺍ ﻦﻴﻟﻮﻤﺤﻤﻟﺍ ﺔﻠﻓﺎﻘﻟﺍ ﺀﺎﻀﻋﻷ ﻦﻜﻤﻳ</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>ﺓﺭﺬﺑ</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>ﺔﻴﻄﻐﺗ</PlanetCoverageShort>
+
+</LanguageData>

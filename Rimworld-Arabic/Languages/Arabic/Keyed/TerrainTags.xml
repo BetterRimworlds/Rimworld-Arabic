@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: water and marsh -->
+  <TerrainTagWater>ﺕﺎﻌﻘﻨﺘﺴﻣ ﻲﺿﺍﺭﺃﻭ ﺀﺎﻣ</TerrainTagWater>
+  <!-- EN: river -->
+  <TerrainTagRiver>ﺮﻬﻧ</TerrainTagRiver>
+  <!-- EN: ocean -->
+  <TerrainTagOcean>ﻂﻴﺣُﻣ</TerrainTagOcean>
+  <!-- EN: ice -->
+  <TerrainTagIce>ﺪﻴﻠﺟ</TerrainTagIce>
+  <!-- EN: fine floor -->
+  <TerrainTagFineFloor>ﺔﻤﻋﺎﻧ ﺔﻴﺿﺭﺃ</TerrainTagFineFloor>
+  <!-- EN: soil -->
+  <TerrainTagSoil>ﺔﺑﺮﺗ</TerrainTagSoil>
+  <!-- EN: road -->
+  <TerrainTagRoad>ﻖﻳﺮﻃ</TerrainTagRoad>
+  <!-- EN: floor -->
+  <TerrainTagFloor>ﺔﻴﺿﺭﺃ</TerrainTagFloor>
+  <!-- EN: substructure -->
+  <TerrainTagSubstructure>ﺔﻴﺘﺤﺗ ﺔﻴﻨﺑ</TerrainTagSubstructure>
+  <!-- EN: insect -->
+  <TerrainTagInsect>ﺓﺮﺸﺣ</TerrainTagInsect>
+
+</LanguageData>

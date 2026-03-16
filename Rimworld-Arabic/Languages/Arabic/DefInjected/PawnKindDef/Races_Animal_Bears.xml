@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear --><!-- EN: oso grizzly -->
+  <Bear_Grizzly.label>ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.label><!-- EN: osa grizzly -->
+  <Bear_Grizzly.labelFemale>ﻲﻟﺰﻳﺮﻏ ﺔﺑﺩ</Bear_Grizzly.labelFemale><!-- EN: osas grizzly -->
+  <Bear_Grizzly.labelFemalePlural>ﺙﺎﻧﺇ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.labelFemalePlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.labelMale>ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.labelMale><!-- EN: osos grizzly -->
+  <Bear_Grizzly.labelMalePlural>ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.labelMalePlural><!-- EN: osos grizzly -->
+  <Bear_Grizzly.labelPlural>ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.labelPlural><!-- EN: cría de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.label>ﻲﻟﺰﻳﺮﻏ ﺏﺩ ﺮﻴﻐﺻ</Bear_Grizzly.lifeStages.0.label><!-- EN: cría de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelFemale>ﻲﻟﺰﻳﺮﻏ ﺏﺩ ﺓﺮﻴﻐﺻ</Bear_Grizzly.lifeStages.0.labelFemale><!-- EN: crías de osa grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>ﺙﺎﻧﻹﺍ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ ﺭﺎﻐﺻ</Bear_Grizzly.lifeStages.0.labelFemalePlural><!-- EN: crías de oso grizzly -->
+  <Bear_Grizzly.lifeStages.0.labelPlural>ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ ﺭﺎﻐﺻ</Bear_Grizzly.lifeStages.0.labelPlural><!-- EN: osezno grizzly -->
+  <Bear_Grizzly.lifeStages.1.label>ﻊﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.lifeStages.1.label><!-- EN: osezna grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelFemale>ﺔﻌﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺔﺑﺩ</Bear_Grizzly.lifeStages.1.labelFemale><!-- EN: oseznas grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>ﺙﺎﻧﺇ ﺔﻌﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.1.labelFemalePlural><!-- EN: osezno grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelMale>ﻊﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.lifeStages.1.labelMale><!-- EN: oseznos grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>ﺔﻌﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.1.labelMalePlural><!-- EN: oseznos grizzly -->
+  <Bear_Grizzly.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻳ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.1.labelPlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.lifeStages.2.label>ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.lifeStages.2.label><!-- EN: osa grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelFemale>ﻲﻟﺰﻳﺮﻏ ﺔﺑﺩ</Bear_Grizzly.lifeStages.2.labelFemale><!-- EN: osas grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelFemalePlural>ﺙﺎﻧﺇ ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.2.labelFemalePlural><!-- EN: oso grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelMale>ﻲﻟﺰﻳﺮﻏ ﺏﺩ</Bear_Grizzly.lifeStages.2.labelMale><!-- EN: osos grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelMalePlural>ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.2.labelMalePlural><!-- EN: osos grizzly -->
+  <Bear_Grizzly.lifeStages.2.labelPlural>ﻲﻟﺰﻳﺮﻏ ﺔﺒﺑﺩ</Bear_Grizzly.lifeStages.2.labelPlural>
+  
+  <!-- EN: polar bear --><!-- EN: oso polar -->
+  <Bear_Polar.label>ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.label><!-- EN: osa polar -->
+  <Bear_Polar.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺑﺩ</Bear_Polar.labelFemale><!-- EN: osas polares -->
+  <Bear_Polar.labelFemalePlural>ﺙﺎﻧﺇ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.labelFemalePlural><!-- EN: oso polar -->
+  <Bear_Polar.labelMale>ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.labelMale><!-- EN: osos polares -->
+  <Bear_Polar.labelMalePlural>ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.labelMalePlural><!-- EN: osos polares -->
+  <Bear_Polar.labelPlural>ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.labelPlural><!-- EN: cría de oso polar -->
+  <Bear_Polar.lifeStages.0.label>ﻲﺒﻄﻘﻟﺍ ﺏﺪﻟﺍ ﺭﺎﻐﺻ</Bear_Polar.lifeStages.0.label><!-- EN: cría de osa polar -->
+  <Bear_Polar.lifeStages.0.labelFemale>ﻲﺒﻄﻗ ﺏﺩ ﺓﺮﻴﻐﺻ</Bear_Polar.lifeStages.0.labelFemale><!-- EN: crías de osa polar -->
+  <Bear_Polar.lifeStages.0.labelFemalePlural>ﺙﺎﻧﺇ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ ﺭﺎﻐﺻ</Bear_Polar.lifeStages.0.labelFemalePlural><!-- EN: crías de oso polar -->
+  <Bear_Polar.lifeStages.0.labelPlural>ﻲﺒﻄﻘﻟﺍ ﺏﺪﻟﺍ ﺭﺎﻐﺻ</Bear_Polar.lifeStages.0.labelPlural><!-- EN: osezno polar -->
+  <Bear_Polar.lifeStages.1.label>ﻊﻓﺎﻳ ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.lifeStages.1.label><!-- EN: osezna polar -->
+  <Bear_Polar.lifeStages.1.labelFemale>ﺔﻌﻓﺎﻳ ﺔﻴﺒﻄﻗ ﺔﺑﺩ</Bear_Polar.lifeStages.1.labelFemale><!-- EN: oseznas polares -->
+  <Bear_Polar.lifeStages.1.labelFemalePlural>ﺙﺎﻧﺇ ﺔﻌﻓﺎﻳ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.1.labelFemalePlural><!-- EN: osezno polar -->
+  <Bear_Polar.lifeStages.1.labelMale>ﻊﻓﺎﻳ ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.lifeStages.1.labelMale><!-- EN: oseznos polares -->
+  <Bear_Polar.lifeStages.1.labelMalePlural>ﺔﻌﻓﺎﻳ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.1.labelMalePlural><!-- EN: oseznos polares -->
+  <Bear_Polar.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻳ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.1.labelPlural><!-- EN: oso polar -->
+  <Bear_Polar.lifeStages.2.label>ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.lifeStages.2.label><!-- EN: osa polar -->
+  <Bear_Polar.lifeStages.2.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺑﺩ</Bear_Polar.lifeStages.2.labelFemale><!-- EN: osas polares -->
+  <Bear_Polar.lifeStages.2.labelFemalePlural>ﺙﺎﻧﺇ ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.2.labelFemalePlural><!-- EN: oso polar -->
+  <Bear_Polar.lifeStages.2.labelMale>ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.lifeStages.2.labelMale><!-- EN: osos polares -->
+  <Bear_Polar.lifeStages.2.labelMalePlural>ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.2.labelMalePlural><!-- EN: osos polares -->
+  <Bear_Polar.lifeStages.2.labelPlural>ﺔﻴﺒﻄﻗ ﺔﺒﺑﺩ</Bear_Polar.lifeStages.2.labelPlural>
+  
+</LanguageData>

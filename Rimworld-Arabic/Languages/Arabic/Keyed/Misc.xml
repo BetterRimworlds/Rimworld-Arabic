@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>ﻲﺋﺎﻘﻠﺗ ﻆﻔﺣ</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>. ﺐﻛﺮﻤﻟﺍ ﻕﺰﻤﺘﻳ ﻥﺃ ﻞﺒﻗ ﺏﻭﺮﻬﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻰﻟﺇ ﻥﻮﻠﺼﺗ ﺩﺎﻜﻟﺎﺑ. ﻥﺪﻌﻤﻟﺍ ﻕﺰﻤﺗﻭ ﺭﺍﺬﻧﻹﺍ ﺕﺍﺭﺎﻔﺻ ﺕﻮﺼﺑ ﺍًﺑﻮﺤﺼﻣ ،ﻢﻜﺘﻴﺑﺍﻮﺗ ﻲﻓ ﺮﻔﺸﻤﻟﺍ ﻢﻜﺗﺎﺒﺳ ﻦﻣ ﺔﺛﻼﺜﻟﺍ ﻥﻮﻈﻘﻴﺘﺴﺗ\n\n. ﻝﻮﻬﺠﻤﻟﺍ ﻲﺸﻣﺎﻬﻟﺍ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻥﻮﻄﺒﻬﺗ ،ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﺭﻭﺮﻣ ﺪﻌﺑ\n\n. ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻂﻄﺨﻟﺍ ﻊﺿﻭ ﻲﻓ ﻥﻭﺃﺪﺒﺗ ،ﻢﻜﻟﻮﺣ ﺔﻤﻄﺤﻤﻟﺍ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﺎﻳﺎﻈﺷ ﻂﻗﺎﺴﺘﺗ ﺎﻤﻨﻴﺑ</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>ﺓﺮﻤﻌﺘﺴﻣ</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>. ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﺷﺎﺷ ﻝﻼﺧ ﻦﻣ ﻂﻘﻓ ﺔﻐﻠﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>ﻭ</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>ﻞﻄﻌﻣ</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>{0} ﺭﺍﺪﺻﻹﺍ</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>ﺔﺒﻌﻠﻟﺍ ﺭﺍﺪﺻﺇ</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>ﻲﺒﻳﺮﺠﺗ ﺀﺎﻨﺑ</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>{0} ﻊﻴﻤﺠﺗ ﻢﺗ</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>{0} ﻢﺳﺎﺑ Steam ﻰﻟﺇ ﻝﻮﺧﺪﻟﺍ ﻞﻴﺠﺴﺗ ﻢﺗ</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{1} ﻭ {0}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{1} ﻭﺃ {0}</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>ﻢﻌﻧ</Yes>
+  <!-- EN: No -->
+  <No>ﻻ</No>
+  <!-- EN: No {0} -->
+  <NoSubject>{0} ﺪﺟﻮﻳ ﻻ</NoSubject>
+  <!-- EN: new -->
+  <New>ﺪﻳﺪﺟ</New>
+  <!-- EN: Gender -->
+  <Gender>ﺲﻨﺟ</Gender>
+  <!-- EN: Sex -->
+  <Sex>ﺲﻨﺟ</Sex>
+  <!-- EN: min -->
+  <min>ﺔﻘﻴﻗﺩ</min>
+  <!-- EN: max -->
+  <max>ﻰﺼﻗﺃ</max>
+  <!-- EN: chance -->
+  <chance>ﻝﺎﻤﺘﺣﺍ</chance>
+  <!-- EN: context -->
+  <context>ﻕﺎﻴﺳ</context>
+  <!-- EN: multiplier -->
+  <multiplier>ﻑِﻋﺎﺿُﻣ</multiplier>
+  <!-- EN: damage -->
+  <damage>ﺭﺮﺿ</damage>
+  <!-- EN: radius -->
+  <radius>ﻕﺎﻄﻧ</radius>
+  <!-- EN: expired -->
+  <expired>ﺔﻴﺣﻼﺼﻟﺍ ﻲﻬﺘﻨﻣ</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>)ﻡﺎﻳﺃ (ﺓﺪﻤﻟﺍ</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>)ﻡﺎﻳﺃ (ﺓﺮﺘﻓ</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>)ﻡﺎﻳﺃ (ﺮﻴﺧﺄﺗ</delayDays>
+  <!-- EN: repeat -->
+  <repeat>ﺭﺍﺮﻜﺗ</repeat>
+  <!-- EN: default -->
+  <default>ﻲﺿﺍﺮﺘﻓﺍ</default>
+  <!-- EN: distance -->
+  <distance>ﺔﻓﺎﺴﻣ</distance>
+  <!-- EN: YES -->
+  <YesUppercase>ﻢﻌﻧ</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>ﻻ</NoUppercase>
+  <!-- EN: kg -->
+  <kg>ﻢﺠﻛ</kg>
+  <!-- EN: Day -->
+  <Day>ﻡﻮﻳ</Day>
+  <!-- EN: day -->
+  <day>ﻡﻮﻳ</day>
+  <!-- EN: Default -->
+  <Default>ﻲﺿﺍﺮﺘﻓﺍ</Default>
+  <!-- EN: Average -->
+  <Average>ﻂﺳﻮﺘﻣ</Average>
+  <!-- EN: Cause -->
+  <Cause>ﺐﺒﺳ</Cause>
+  <!-- EN: etc -->
+  <Etc>ﺦﻟﺇ</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>ﻞﻣﺍﻮﻋ</Factors>
+  <!-- EN: Uses -->
+  <Uses>ﺕﺎﻣﺍﺪﺨﺘﺳﺍ</Uses>
+  <!-- EN: Translation -->
+  <Translation>ﺔﻤﺟﺮﺗ</Translation>
+  <!-- EN: min(days) -->
+  <minDays>)ﻡﺎﻳﺃ(ﻰﻧﺩﺃ</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>)ﻡﺎﻳﺃ(ﻰﺼﻗﺃ</maxDays>
+  <!-- EN: Processing -->
+  <Processing>ﺔﺠﻟﺎﻌﻤﻟﺍ ٍﺭﺎﺟ</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>ﺺﺤﻔﺗ</Inspect>
+  <!-- EN: Edit -->
+  <Edit>ﺮﻳﺮﺤﺗ</Edit>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0} ﻢﺤﻟ</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>. ﺍًﺌﻴﻧ ﻪﻠﻛﺃ ﻭﺃ ،ﺕﺎﺒﺟﻭ ﻲﻓ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﻡﻭﺮﻔﻣ ﺀﻴﻧ ﻢﺤﻟ</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>. ﺔﻳﺎﻐﻠﻟ ﻲﻬﺷ ﺮﻴﻏ. ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻰﺘﺣ ﻭﺃ ،ﺮﻣﻷﺍ ﻡﺰﻟ ﺍﺫﺇ ﺕﺎﺒﺟﻭ ﻲﻓ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﺊﻴﻧ ﻡﻭﺮﻔﻣ ﻢﺤﻟ</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>. ﺓﺮﻜﻔﻟﺍ ﻥﻮﻫﺮﻜﻳ ﺮﺸﺒﻟﺍ ﻢﻈﻌﻣ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺍًﺌﻴﻧ ﻪﻠﻛﺃ ﻭﺃ ﺕﺎﺒﺟﻭ ﻲﻓ ﻪﻴﻬﻃ ﻦﻜﻤﻳ. ﻡﻭﺮﻔﻣ ﺊﻴﻧ ﻢﺤﻟ</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>){PROJECT_label} (ﻲﻨﻘﺗ ﻂﻄﺨﻣ</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>Datos sobre la tecnología "{PROJECT_label}".\nLa forma física de los tecnoplanos va desde trozos de papel con diagramas, hasta avanzadas máquinas de aprendizaje autónomas. Independientemente de su forma, juegan el mismo papel: darle a tus investigadores la confianza de que una idea es factible, y una aproximación a los diseños utilizados por sociedades más avanzadas.\n\nTus investigadores necesitan el conocimiento fundamental dado por estos tecnoplanos para saber cómo enfrentarse a una nueva tecnología. Solo cuando tengas suficientes datos tus investigadores sabrán como usar dicha tecnología en tu situación particular.\n\nAplicar tecnoplanos a proyectos en curso proporciona la mitad del progreso restante. Además, usar tecnoplanos le da un empujón intelectual a tus investigadores, incluso con tecnologías ya conocidas.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>ﺢﺘﻔﻳ</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} ﺔﺜﺟ</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>.{0} ﺔﺜﺟ</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>)ﺖﻴﻣ ({1_label}</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>{0} ﻦﺸﺧ</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>.{0} ﺔﻴﻌﻴﺒﻃﻭ ﺔﻨﺸﺧ ﺽﺭﺃ</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>{0} ﻦﺸﺧ</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>.{0} ﺍًﺒﻳﺮﻘﺗ ﺔﻋﻮﻄﻘﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>{0} ﺲﻠﻣﺃ</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>. ﺔﻴﻌﻴﺒﻃﻭ ﺀﺎﺴﻠﻣ {0} ﺔﻴﺿﺭﺃ</SmoothStoneTerrainDesc>
+
+  <!-- EN: (blueprint) -->
+  <BlueprintLabelExtra>ﻂﻄﺨﻣ</BlueprintLabelExtra>
+  <!-- EN: (building) -->
+  <FrameLabelExtra>ﻰﻨﺒﻣ</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>ﺐﺴﺘﻧُﻣ ﺮﻴﻏ</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>؟ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﺪﻳﺮﺗ ﻞﻫ</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>ﺔﻴﻟﻭﺃ ﺕﺍﻮﺻﺃ</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{PAWN_labelShort} ﻉﺎﺘﺑ {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﻦﻴﺑ {2}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>. ﺔﻓﺮﻐﻟﺍ ﻩﺬﻬﻟ ﻢﻬﻣ</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>. ﺽﺭﻷﺍ ﺖﺤﺗ {RESOURCE_label} {COUNT} ﺎﻨﻫ</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>ﻉﻮﻨﺘﻣ</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>. ﺮﻤﻌﺘﺴﻣ ﺕﺎﻣ</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>ﻝﺎﻤﺷ</North>
+  <!-- EN: South -->
+  <South>ﺏﻮﻨﺠﻟﺍ</South>
+  <!-- EN: West -->
+  <West>ﺏﺮﻏ</West>
+  <!-- EN: East -->
+  <East>ﻕﺮﺷ</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>{0} ﻲﻨﻘﺗ ﻂﻄﺨﻣ ﻖﻴﺒﻄﺗ</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>ﻦﻣ ﺮﻴﻐﺘﻣ</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>{0} ـﻝ ﺪﻟُﻭ</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>ﻥﻮﻟﻮﻬﺠﻣ ﺀﺎﺑﺁ</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>ﺮﻤﻌﺘﺴﻣ</Colonist>
+
+</LanguageData>

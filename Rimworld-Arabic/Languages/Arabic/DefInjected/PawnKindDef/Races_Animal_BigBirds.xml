@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary --><!-- EN: casuario -->
+  <Cassowary.label>ﻯﺭﺍﻮﺳﺎﻛ</Cassowary.label>
+  <!-- EN: cassowaries --><!-- EN: casuarios -->
+  <Cassowary.labelPlural>ﺲﻳﺭﺍﻮﺳﺎﻛ</Cassowary.labelPlural><!-- EN: polluelo de casuario -->
+  <Cassowary.lifeStages.0.label>ﻯﺭﺍﻮﺳﺎﻜﻟﺍ ﺥﺮﻓ</Cassowary.lifeStages.0.label><!-- EN: polluela de casuario -->
+  <Cassowary.lifeStages.0.labelFemale>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻳﺭﺍﻮﺳﺎﻜﻟﺍ ﺥﺍﺮﻓ</Cassowary.lifeStages.0.labelFemale><!-- EN: polluelas de casuario -->
+  <Cassowary.lifeStages.0.labelFemalePlural>ﻯﺭﺍﻮﺳﺎﻜﻟﺍ ﺥﺍﺮﻓ</Cassowary.lifeStages.0.labelFemalePlural><!-- EN: polluelos de casuario -->
+  <Cassowary.lifeStages.0.labelPlural>ﻱِﺭﺍﻮﺳﺎﻜﻟﺍ ﺭﺎﻐﺻ</Cassowary.lifeStages.0.labelPlural><!-- EN: casuario joven -->
+  <Cassowary.lifeStages.1.label>ﺮﻴﻐﺻ ﺭﺍﻮﺳﺎﻛ</Cassowary.lifeStages.1.label><!-- EN: casuarios jóvenes -->
+  <Cassowary.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﻯﺭﺍﻮﺳﺎﻛ</Cassowary.lifeStages.1.labelPlural><!-- EN: casuario -->
+  <Cassowary.lifeStages.2.label>ﻯﺭﺍﻮﺳﺎﻛ</Cassowary.lifeStages.2.label><!-- EN: casuarios -->
+  <Cassowary.lifeStages.2.labelPlural>ﺲﻳﺭﺍﻮﺳﺎﻛ</Cassowary.lifeStages.2.labelPlural>
+  
+  <!-- EN: emu --><!-- EN: emú -->
+  <Emu.label>ﻮﻤﻳﺇ</Emu.label><!-- EN: emúes -->
+  <Emu.labelPlural>ﻮﻤﻳﺇ</Emu.labelPlural><!-- EN: polluelo de emú -->
+  <Emu.lifeStages.0.label>ﻮﻤﻳﺇ ﺥﺮﻓ</Emu.lifeStages.0.label><!-- EN: polluela de emú -->
+  <Emu.lifeStages.0.labelFemale>ﺓﺮﻴﻐﺻ ﻮﻤﻳﺇ ﺔﺧﺮﻓ</Emu.lifeStages.0.labelFemale><!-- EN: polluelas de emú -->
+  <Emu.lifeStages.0.labelFemalePlural>ﺓﺮﻴﻐﺻ ﻮﻤﻳﺇ ﺥﺍﺮﻓ</Emu.lifeStages.0.labelFemalePlural><!-- EN: polluelo de emú -->
+  <Emu.lifeStages.0.labelMale>ﺮﻴﻐﺻ ﻮﻤﻳﺇ ﺥﺮﻓ</Emu.lifeStages.0.labelMale><!-- EN: polluelos de emú -->
+  <Emu.lifeStages.0.labelMalePlural>ﻮﻤﻳﻹﺍ ﺭﺎﻐﺻ</Emu.lifeStages.0.labelMalePlural><!-- EN: polluelos de emú -->
+  <Emu.lifeStages.0.labelPlural>ﻮﻤﻳﻹﺍ ﺭﺎﻐﺻ</Emu.lifeStages.0.labelPlural><!-- EN: emú joven -->
+  <Emu.lifeStages.1.label>ﺮﻴﻐﺻ ﻮﻤﻳﺇ</Emu.lifeStages.1.label><!-- EN: emúes jóvenes -->
+  <Emu.lifeStages.1.labelPlural>ﻮﻤﻳﻹﺍ ﺭﺎﻐﺻ</Emu.lifeStages.1.labelPlural><!-- EN: emú -->
+  <Emu.lifeStages.2.label>ﻮﻤﻳﺇ</Emu.lifeStages.2.label><!-- EN: emúes -->
+  <Emu.lifeStages.2.labelPlural>ﻮﻤﻳﺇ</Emu.lifeStages.2.labelPlural>
+  
+  <!-- EN: ostrich --><!-- EN: avestruz -->
+  <Ostrich.label>ﺔﻣﺎﻌﻧ</Ostrich.label>
+  <!-- EN: ostriches --><!-- EN: avestruces -->
+  <Ostrich.labelPlural>ﻡﺎﻌﻧ</Ostrich.labelPlural><!-- EN: polluelo de avestruz -->
+  <Ostrich.lifeStages.0.label>ﺔﻣﺎﻌﻧ ﺥﺮﻓ</Ostrich.lifeStages.0.label><!-- EN: polluela de avestruz -->
+  <Ostrich.lifeStages.0.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻣﺎﻌﻧ ﺔﺧﺮﻓ</Ostrich.lifeStages.0.labelFemale><!-- EN: polluelas de avestruz -->
+  <Ostrich.lifeStages.0.labelFemalePlural>ﺓﺮﻴﻐﺻ ﻡﺎﻌﻧ ﺥﺍﺮﻓ</Ostrich.lifeStages.0.labelFemalePlural><!-- EN: polluelos de avestruz -->
+  <Ostrich.lifeStages.0.labelPlural>ﻡﺎﻌﻧ ﺭﺎﻐﺻ</Ostrich.lifeStages.0.labelPlural><!-- EN: avestruz joven -->
+  <Ostrich.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺔﻣﺎﻌﻧ</Ostrich.lifeStages.1.label><!-- EN: avestruces jóvenes -->
+  <Ostrich.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﻡﺎﻌﻧ</Ostrich.lifeStages.1.labelPlural><!-- EN: avestruz -->
+  <Ostrich.lifeStages.2.label>ﺔﻣﺎﻌﻧ</Ostrich.lifeStages.2.label><!-- EN: avestruces -->
+  <Ostrich.lifeStages.2.labelPlural>ﻡﺎﻌﻧ</Ostrich.lifeStages.2.labelPlural>
+  
+</LanguageData>

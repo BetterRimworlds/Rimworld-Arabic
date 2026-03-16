@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>TargetB. ﻖﻴﺒﻄﺗ</ApplyTechprint.reportString>
+  
+  <!-- EN: melee attacking TargetA. -->
+  <AttackMelee.reportString>TargetA. ﺔﻤﺟﺎﻬﻣ ﻙﺎﺒﺘﺷﺍ</AttackMelee.reportString>
+  
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>TargetA. ﺔﻤﺟﺎﻬﻣ</AttackStatic.reportString>
+  
+  <!-- EN: beating fire out. -->
+  <BeatFire.reportString>. ﺏﺮﻀﻟﺎﺑ ﻖﻳﺮﺣ ﺩﺎﻤﺧﺇ</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>. ﺎﻣ ﻞﻤﻌﺑ ﻡﻮﻘﻳ</Carried.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>. ﺎﻣ ﻞﻤﻌﺑ ﻡﻮﻘﻳ</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>. ﺎﻣ ﻞﻤﻌﺑ ﻡﻮﻘﻳ</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>. ﻞﻤﻌﺑ ﻡﻮﻘﻳ</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>. ﺀﻴﺸﺑ ﻡﻮﻘﻳ</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>. ﺀﻴﺸﺑ ﻡﻮﻘﻳ</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>. ﺀﻴﺸﺑ ﻡﻮﻘﻳ</CastJump.reportString>
+  
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>. ﺝﻮﻠﺜﻟﺍ ﺔﻟﺍﺯﺇ</ClearSnow.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>TargetA. ﻢﻴﻠﺴﺗ</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TargetA. ﻢﻴﻠﺴﺗ</DeliverToCell.reportString>
+  
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>. ﺮﺟﺎﺗ ﺢﻳﺮﺴﺗ</DismissTrader.reportString>
+  
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>TargetA. ﻁﺎﻘﺳﺇ</DropEquipment.reportString>
+  
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>TargetA. ﻦﻣ ﺩﻮﻗﻮﻟﺍ ﺝﺍﺮﺧﺇ</EjectFuel.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TargetA. ﻍﺍﺮﻓﺇ</EmptyThingContainer.reportString>
+  
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻞﺧﺪﻳ</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>TargetA. ﻝﺎﺧﺩﺇ</EnterPortal.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>TargetA. ﻝﺎﺧﺩﺇ</EnterTransporter.reportString>
+  
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>TargetA. ﺰﻴﻬﺠﺗ</Equip.reportString>
+  
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>. ﺔﺒﻳﺮﻘﻟﺍ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</ExtinguishFiresNearby.reportString>
+  
+  <!-- EN: extinguishing self. -->
+  <ExtinguishSelf.reportString>. ﺕﺍﺬﻟﺍ ﺩﺎﻤﺧﺇ</ExtinguishSelf.reportString>
+  
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>TargetA. ﺀﻠﻣ</FillFermentingBarrel.reportString>
+  
+  <!-- EN: fleeing. -->
+  <Flee.reportString>. ﺏﺭﺎﻫ</Flee.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>. ﺏﺭﺎﻫ</FleeAndCower.reportString>
+  
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>. ﺾﻴﻣﻭ ﺡﺎﺘﻔﻣ</Flick.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>TargetA. ﻊﺒﺘﺗ</Follow.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>TargetA. ﻊﺒﺘﺗ</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TargetA. ﻊﺒﺘﺗ</FollowRoper.reportString>
+  
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>TargetB. ﻱﺪﺗﺮﻳ TargetA ﻞﻌﺟ</ForceTargetWear.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>TargetA. ﺬﺧﺃ</GiveToPackAnimal.reportString>
+  
+  <!-- EN: moving. -->
+  <Goto.reportString>. ﻞﻘﻨﺗ</Goto.reportString>
+  
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>. ﻞﻘﻨﺗ</GotoMindControlled.reportString>
+  
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>. ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻦﻋ ﺚﺤﺒﻟﺍ</GotoSafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>. ﻝّﻮﺠﺗ</GotoWander.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>TargetA. ﻞﻘﻧ</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>TargetA. ﻞﻘﻧ</HaulToPortal.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>TargetA. ﻞﻘﻧ</HaulToTransporter.reportString>
+  
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>. ﻝﻮﻤﺧ</IdleWhileDespawned.reportString>
+  
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>TargetA. ﻝﺎﻌﺷﺇ</Ignite.reportString>
+  
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>. ﺏﺮﻬﻟﺍ ﻰﻠﻋ TargetA ﺰﻴﻔﺤﺗ</InducePrisonerToEscape.reportString>
+  
+  <!-- EN: consuming TargetA. -->
+  <Ingest.reportString>TargetA. ﻙﻼﻬﺘﺳﺍ</Ingest.reportString>
+  
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>TargetA. ﻲﻓ TargetB ﺐﻴﻛﺮﺗ</InstallImplant.reportString>
+  
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>TargetA. ﺔﻧﺎﻫﺇ</Insult.reportString>
+  
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>TargetA. ﻞﻴﻌﻔﺗ</InteractThing.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDown.reportString>. ٍﻖﻠﺘﺴﻣ</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>. ٍﻖﻠﺘﺴﻣ</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>. ٍﻖﻠﺘﺴﻣ</LayDownResting.reportString>
+  
+  <!-- EN: lovin'. -->
+  <Lovin.reportString>. ّﺏِﺣُﻣ</Lovin.reportString>
+  
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>. ﻲﻋﺎﻓﺩ ﺝﺮﺑ ﻞﻴﻐﺸﺗ</ManTurret.reportString>
+  
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>TargetA. ﺓﺪﻋﺎﺴﻣ</OfferHelp.reportString>
+  
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>TargetA. ﺢﺘﻓ</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>TargetA. ﻁﺎﻘﺘﻟﺍ</PickupToHold.reportString>
+  
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>TargetA ﺓﺀﺍﺮﻗ</Reading.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>TargetA. ﺢﻴﻠﺴﺗ ﺓﺩﺎﻋﺇ</RearmTurret.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>TargetA. ﺢﻴﻠﺴﺗ ﺓﺩﺎﻋﺇ</RearmTurretAtomic.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>. ﺩﻮﻗﻮﻟﺎﺑ TargetA ﺪﻳﻭﺰﺗ</Refuel.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>. ﺩﻮﻗﻮﻟﺎﺑ TargetA ﺪﻳﻭﺰﺗ</RefuelAtomic.reportString>
+  
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TargetA. ﻞﻴﻤﺤﺗ ﺓﺩﺎﻋﺇ</Reload.reportString>
+  
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>TargetA. ﺔﻟﺍﺯﺇ</RemoveApparel.reportString>
+  
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>TargetA. ﺀﺎﻴﺣﺇ</Resurrect.reportString>
+  
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>TargetA. ﻊﻣ ﻞﺗﺎﻘﻳ</SocialFight.reportString>
+  
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>. ﻖﻳﺪﺤﺗ</StandAndStare.reportString>
+  
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>TargetA. ﻉﺰﻧ</Strip.reportString>
+  
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>TargetA. ﻦﻣ ﺓﺮﻴﺑ ﺝﺍﺮﺧﺇ</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>. ﻥﻭﺰﺨﻤﻟﺍ ﻰﻟﺇ TargetA ﺬﺧﺃ</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>TargetB. ﻦﻣ TargetA ﻁﺎﻘﺘﻟﺍ</TakeFromOtherInventory.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>. ﻥﻭﺰﺨﻤﻟﺍ ﻰﻟﺇ TargetA ﺬﺧﺃ</TakeInventory.reportString>
+  
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>TargetA. ﻊﻣ ﻝﻭﺍﺪﺘﻟﺍ</TradeWithPawn.reportString>
+  
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>TargetA. ﻞﻴﻐﺸﺗ</TriggerObject.reportString>
+  
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>TargetA. ﻎﻳﺮﻔﺗ</UnloadInventory.reportString>
+  
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>. ﻥﻭﺰﺨﻤﻟﺍ ﻎﻳﺮﻔﺗ</UnloadYourInventory.reportString>
+  
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>. ﺔﻳﺮﺛﺃ ﺔﻌﻄﻗ ﻞﻴﻌﻔﺗ</UseArtifact.reportString>
+  
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>TargetA. ﺔﻤﻬﻣ</UseItem.reportString>
+  
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>. ﻲﺒﺼﻌﻟﺍ ﺐﻳﺭﺪﺘﻟﺍ ﺯﺎﻬﺟ ﻡﺍﺪﺨﺘﺳﺍ</UseNeurotrainer.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>. ﺎﻣ ﻞﻤﻌﺑ ﻡﻮﻘﻳ</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>. ﺀﻴﺸﺑ ﻡﻮﻘﻳ</UseVerbOnThingStatic.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>. ﺎﻣ ﻞﻤﻌﺑ ﻡﻮﻘﻳ</UseVerbOnThingStaticReserve.reportString>
+  
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>. ﺆﻴﻘﺗ</Vomit.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait.reportString>. ﻒﻗﺍﻭ</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>. ﻢﺋﺎﻧ</Wait_Asleep.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>. ﻢﺋﺎﻧ</Wait_AsleepDormancy.reportString>
+  
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>. ﻑﺍﺪﻫﻷﺍ ﺔﺒﻗﺍﺮﻣ</Wait_Combat.reportString>
+  
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>. ﺍًﺿﺭﺃ ﻰﻘﻟُﻣ</Wait_Downed.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>. ﻒﻗﺍﻭ</Wait_MaintainPosture.reportString>
+  
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>. ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺭﺎﻈﺘﻧﺍ ﻲﻓ</Wait_SafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>. ﻝّﻮﺠﺗ</Wait_Wander.reportString>
+  
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>TargetA. ﻱﺪﺗﺮﻳ</Wear.reportString>
+  
+</LanguageData>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>ﺍﻟﻤﺘﻘﺪﻡ ﺍﻟﺘﺼﻨﻴﻊ</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>ﺃﺧﺮﻯ ﻭﻣﻮﺍﺩ ﻗﻴﺎﺳﻴﺔ ﻣﻜﻮّﻧﺎﺕ ﻣﻦ ﺍﻧﻄﻻﻘًﺎ ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﺻﻨّﻊ.</AdvancedFabrication.description>
+  <!-- EN:
+    <li>subject->advanced component fabrication</li>
+    <li>subject_story->traded advanced components to desperate rimworlders</li>
+    <li>subject_story->learned the secrets of fabricating advanced components and died without revealing them</li>
+    <li>subject_story->balked at the extreme cost of crafting advanced components and chose a simpler lifestyle</li>
+    <li>subject_gerund->fabricating advanced components</li>
+  -->
+  <AdvancedFabrication.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ</li>
+    <li>subject_FemMas->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ</li>
+    <li>subject_def->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ</li>
+    <li>subject_def2->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ</li>
+    <li>subject_story->ﺍﻟﻴﺎﺋﺴﻴﻦ ﺍﻟﺤﺎﻓﺔ ﺳﻜﺎﻥ ﻣﻊ ﻣﺘﻘﺪﻣﺔ ﺑﻤﻜﻮّﻧﺎﺕ ﺗﺎﺟﺮ</li>
+    <li>subject_story->ﻳﻜﺸﻔﻬﺎ ﺃﻥ ﺩﻭﻥ ﻭﻣﺎﺕ ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ ﺃﺳﺮﺍﺭ ﺗﻌﻠّﻢ</li>
+    <li>subject_story->ﺃﺑﺴﻂ ﺣﻴﺎﺓ ﺃﺳﻠﻮﺏ ﻭﺍﺧﺘﺎﺭ ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﻟﺼﻨﻊ ﺍﻟﺒﺎﻫﻈﺔ ﺍﻟﺘﻜﻠﻔﺔ ﺃﻣﺎﻡ ﺗﺮﺍﺟﻊ</li>
+    <li>subject_gerund->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺼﻨﻴﻊ</li>
+  </AdvancedFabrication.generalRules.rulesStrings>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>ﺑﻴﻮﻧﻴﻜﻴﺔ ﺑﺪﺍﺋﻞ</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>ﻣﺎﻫﺮًﺍ ﻃﺒﻴﺒًﺎ ﺗﺮﻛﻴﺒﻬﺎ ﻳﺘﻄﻠﺐ ﺍﻟﻤﻔﻘﻮﺩﺓ ﻭﺍﻟﻌﻴﻮﻥ ﺍﻷﻃﺮﺍﻑ ﻻﺳﺘﺒﺪﺍﻝ ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ. ﺑﻴﻮﻧﻴﻜﻴﺔ ﺟﺴﺪ ﺃﺟﺰﺍﺀ ﺍﺑﻦِ.</Bionics.description>
+  <!-- EN:
+    <li>subject->bionic prosthesis</li>
+    <li>subject_story->worked primarily with disfigured soldiers, crafting bespoke bionic facial elements so they could return to their loved ones</li>
+    <li>subject_story->studied slowed vids of human motion to better craft bionic prosthetics</li>
+    <li>subject_story->was volunteered to have the various prototype bionics  implanted, ending up as more machine than man</li>
+    <li>subject_gerund->constructing bionic prosthetics</li>
+    <li>subject_gerund->utilizing bionic body parts</li>
+  -->
+  <Bionics.generalRules.rulesStrings>
+    <li>subject->ﺑﻴﻮﻧﻴﻜﻴﺔ ﺻﻨﺎﻋﻴﺔ ﺃﻃﺮﺍﻑ</li>
+    <li>subject_FemMas->ﺍﻟﺒﻴﻮﻧﻴﻜﻴﺔ ﺍﻟﺼﻨﺎﻋﻴﺔ ﺍﻷﻃﺮﺍﻑ</li>
+    <li>subject_def->ﺍﻟﺒﻴﻮﻧﻴﻜﻴﺔ ﺍﻟﺼﻨﺎﻋﻴﺔ ﺍﻷﻃﺮﺍﻑ</li>
+    <li>subject_def2->ﺍﻟﺒﻴﻮﻧﻴﻜﻴﺔ ﺍﻟﺼﻨﺎﻋﻴﺔ ﺍﻷﻃﺮﺍﻑ</li>
+    <li>subject_story->ﺃﺣﺒّﺎﺋﻬﻢ ﺇﻟﻰ ﺍﻟﻌﻮﺩﺓ ﻣﻦ ﻳﺘﻤﻜﻨﻮﺍ ﻛﻲ ﻣﺨﺼّﺼﺔ ﺑﻴﻮﻧﻴﻜﻴﺔ ﻭﺟﻪ ﻋﻨﺎﺻﺮ ﻭﺻﻨﻊ ﻣﺸﻮّﻫﻴﻦ، ﺟﻨﻮﺩ ﻣﻊ ﺃﺳﺎﺳًﺎ ﻋﻤﻞ</li>
+    <li>subject_story->ﺍﻟﺒﻴﻮﻧﻴﻜﻴﺔ ﺍﻟﺼﻨﺎﻋﻴﺔ ﺍﻷﻃﺮﺍﻑ ﺻﻨﻊ ﻟﻴُﺤﺴﻦ ﺍﻹﻧﺴﺎﻥ ﻟﺤﺮﻛﺔ ﺑﻄﻴﺌﺔ ﻣﻘﺎﻃﻊ ﺩﺭﺱ</li>
+    <li>subject_story->ﺇﻧﺴﺎﻥ ﺇﻟﻰ ﻣﻨﻪ ﺁﻟﺔ ﺇﻟﻰ ﺃﻗﺮﺏ ﺍﻷﻣﺮ ﺑﻪ ﻭﺍﻧﺘﻬﻰ ﻣﺨﺘﻠﻔﺔ، ﺑﻴﻮﻧﻴﻜﻴﺔ ﺃﻭﻟﻴﺔ ﻧﻤﺎﺫﺝ ﻟﺰﺭﻉ ﺗﻄﻮّﻉ</li>
+    <li>subject_gerund->ﺑﻴﻮﻧﻴﻜﻴﺔ ﺻﻨﺎﻋﻴﺔ ﺃﻃﺮﺍﻑ ﺻﻨﻊ</li>
+    <li>subject_gerund->ﺑﻴﻮﻧﻴﻜﻴﺔ ﺟﺴﺪ ﺃﺟﺰﺍﺀ ﺍﺳﺘﺨﺪﺍﻡ</li>
+  </Bionics.generalRules.rulesStrings>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>ﺑﺎﻟﻨﺒﺾ ﻣﺸﺤﻮﻧﺔ ﺫﺧﺎﺋﺮ</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﺃﻳﻀًﺎ ﺗﺘﻄﻠﺐ ﻫﺬﻩ ﺃﻥ ﻻﺣﻆ ﺇﺿﺎﻓﻲ ﺿﺮﺭ. ﻹﺣﺪﺍﺙ ﺑﺎﻟﻨﺒﺾ ﻣﺸﺤﻮﻧﺔ ﺫﺧﺎﺋﺮ ﺗﻄﻠﻖ ﺃﺳﻠﺤﺔ ﺍﺑﻦِ.</ChargedShot.description>
+  <!-- EN:
+    <li>subject->pulse munitions</li>
+    <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
+    <li>subject_story->killed a mechanical crawler by kiting it with a charge lance</li>
+    <li>subject_story->learned how to imbue rifle ammunition with retained charge, heavily increasing its lethality</li>
+    <li>subject_gerund->constructing pulse munitions</li>
+    <li>subject_gerund->utilising pulse munitions</li>
+  -->
+  <ChargedShot.generalRules.rulesStrings>
+    <li>subject->ﻧﺒﻀﻴﺔ ﺫﺧﺎﺋﺮ</li>
+    <li>subject_FemMas->ﺍﻟﻨﺒﻀﻴﺔ ﺍﻟﺬﺧﺎﺋﺮ</li>
+    <li>subject_def->ﺍﻟﻨﺒﻀﻴﺔ ﺍﻟﺬﺧﺎﺋﺮ</li>
+    <li>subject_def2->ﺍﻟﻨﺒﻀﻴﺔ ﺍﻟﺬﺧﺎﺋﺮ</li>
+    <li>subject_story->ﺍﻷﺳﻠﺤﺔ ﻟﺘﻨﺎﺳﺐ ﺍﻟﺘﻘﻨﻴﺔ ﻭﻋﺪّﻝ ﻻﻣﻊ ﻋﺎﻟﻢ ﻓﻲ ﺍﻟﻤﻮﻧﻮﺭﻳﻞ ﻗﻄﺎﺭﺍﺕ ﺩﺭﺱ</li>
+    <li>subject_story->ﺷﺤﻦ ﺭﻣﺢ ﺑﺎﺳﺘﺨﺪﺍﻡ ﻣﺴﺎﻓﺔ ﻋﻠﻰ ﻭﺇﺑﻘﺎﺋﻪ ﺍﺳﺘﺪﺭﺍﺟﻪ ﻋﺒﺮ ﺁﻟﻴًﺎ ﺯﺍﺣﻔًﺎ ﻗﺘﻞ</li>
+    <li>subject_story->ﻛﺒﻴﺮ ﺑﺸﻜﻞ ﻓﺘﻜﻬﺎ ﺯﺍﺩ ﻣﺎ ﺑﻬﺎ، ﻣﺤﺘﻔَﻆ ﺑﺸﺤﻨﺔ ﺍﻟﺒﻨﺎﺩﻕ ﺫﺧﻴﺮﺓ ﺇﺷﺒﺎﻉ ﻛﻴﻔﻴﺔ ﺗﻌﻠّﻢ</li>
+    <li>subject_gerund->ﻧﺒﻀﻴﺔ ﺫﺧﺎﺋﺮ ﺻﻨﻊ</li>
+    <li>subject_gerund->ﻧﺒﻀﻴﺔ ﺫﺧﺎﺋﺮ ﺍﺳﺘﺨﺪﺍﻡ</li>
+  </ChargedShot.generalRules.rulesStrings>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ ﺗﻮﺍﺑﻴﺖ</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>ﺍﻟﻤﺪﺓ ﻣﺤﺪﺩﺓ ﻏﻴﺮ ﻣﻌﻠّﻖ ﺳﺒﺎﺕ ﺣﺎﻟﺔ ﻓﻲ ﺍﻟﺤﻴﺔ ﺍﻟﻜﺎﺋﻨﺎﺕ ﻭﺿﻊ ﻳﻤﻜﻨﻬﺎ ﻭﺍﻟﺘﻲ ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ، ﺍﻟﺴﺒﺎﺕ ﺗﻮﺍﺑﻴﺖ ﺍﺑﻦِ.</Cryptosleep.description>
+  <!-- EN:
+    <li>subject->cryptosleep</li>
+    <li>subject_story->intended to test a prototype cryptosleep casket and woke a generation later, alone</li>
+    <li>subject_story->sentenced the system's worst criminal to indefinite cryptosleep rather than death</li>
+    <li>subject_story->used a cryptosleep capsule to suspend the terminally ill, so they could see their children once they'd grown up</li>
+    <li>subject_gerund->constructing cryptosleep caskets</li>
+    <li>subject_gerund->inducing cryptosleep</li>
+  -->
+  <Cryptosleep.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ</li>
+    <li>subject_FemMas->ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ</li>
+    <li>subject_def->ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ</li>
+    <li>subject_def2->ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ</li>
+    <li>subject_story->ﻭﺣﻴﺪًﺍ ﻛﺎﻣﻞ، ﺟﻴﻞٍ ﺑﻌﺪ ﻭﺍﺳﺘﻴﻘﻆ ﻛﺮﻳﺒﺘﻮﻧﻲ ﺳﺒﺎﺕ ﻟﺘﺎﺑﻮﺕ ﺃﻭﻟﻲ ﻧﻤﻮﺫﺝ ﺍﺧﺘﺒﺎﺭ ﻳﻨﻮﻱ ﻛﺎﻥ</li>
+    <li>subject_story->ﺍﻹﻋﺪﺍﻡ ﻣﻦ ﺑﺪﻟًﺎ ﻣﺤﺪﺩ ﻏﻴﺮ ﻛﺮﻳﺒﺘﻮﻧﻲ ﺑﺴﺒﺎﺕ ﺍﻟﻨﻈﺎﻡ ﻓﻲ ﻣﺠﺮﻡ ﺃﺳﻮﺃ ﻋﻠﻰ ﺣﻜﻢ</li>
+    <li>subject_story->ﻳﻜﺒﺮﻭﺍ ﺃﻥ ﺑﻌﺪ ﺃﻃﻔﺎﻟﻬﻢ ﺭﺅﻳﺔ ﻣﻦ ﻳﺘﻤﻜﻨﻮﺍ ﻛﻲ ﻋﻀﺎﻝ، ﺑﻤﺮﺽ ﺍﻟﻤﺼﺎﺑﻴﻦ ﺣﺎﻟﺔ ﻟﺘﻌﻠﻴﻖ ﻛﺮﻳﺒﺘﻮﻧﻲ ﺳﺒﺎﺕ ﻛﺒﺴﻮﻟﺔ ﺍﺳﺘﺨﺪﻡ</li>
+    <li>subject_gerund->ﺍﻟﻜﺮﻳﺒﺘﻮﻧﻲ ﺍﻟﺴﺒﺎﺕ ﺗﻮﺍﺑﻴﺖ ﺑﻨﺎﺀ</li>
+    <li>subject_gerund->ﻛﺮﻳﺒﺘﻮﻧﻲ ﺳﺒﺎﺕ ﻓﻲ ﺍﻵﺧﺮﻳﻦ ﺇﺩﺧﺎﻝ</li>
+  </Cryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>ﺍﻟﺘﺼﻨﻴﻊ</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>ﺍﻵﻟﻴﺔ ﺍﻟﺪﺭﻭﻉ ﺑﻨﺎﺀ ﺇﻟﻰ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺗﺠﻤﻴﻊ ﻣﻦ ﺗﺘﺮﺍﻭﺡ ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﻣﺸﺎﺭﻳﻊ ﺗﻨﻔﻴﺬ ﻋﻠﻰ ﻗﺎﺩﺭﺓ ﺗﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ ﺍﺑﻦِ.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>ﻫﺰﻳﻤﺘﻬﺎ ﻋﻨﺪ ﺗُﺴﻘﻄﻬﺎ ﺍﻟﺨﺎﺻﺔ ﺍﻟﺘﻬﺪﻳﺪﺍﺕ ﺑﻌﺾ - ﻣﺘﻘﺪﻣﺔ ﺑﻤﻜﻮّﻧﺎﺕ ﺗﻜﺎﻓﺊ ﺍﻟﻤﻬﺎﻡ ﺑﻌﺾ ﺍﻧﺘﻈﺮﻫﻢ ﺃﻭ. ﺍﺩﻋُﻬﻢ ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﻳﺒﻴﻌﻮﻥ ﺍﻟﺰﺍﺋﺮﻳﻦ ﺍﻟﺘﺠﺎﺭ ﺑﻌﺾ:\n\n -ﺑﻌﻀﻬﺎ ﻟﺸﺮﺍﺀ ﻗﺎﻓﻠﺔ ﺃﺭﺳﻞ ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ. ﺗﺒﻴﻊ ﺍﻟﻐﺮﺑﺎﺀ ﻣﺴﺘﻮﻃﻨﺎﺕ ﺟﻤﻴﻊ.\n -ﻃﺮﻕ ﺑﻌﺪﺓ ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﻋﻠﻰ ﺍﻟﺤﺼﻮﻝ. ﻳﻤﻜﻨﻚ ﻟﻠﺒﺪﺀ ﺍﻟﻤﺘﻘﺪﻣﺔ.\n -ﺍﻟﻤﻜﻮّﻧﺎﺕ ﺑﻌﺾ ﺃﻳﻀًﺎ ﺗﺘﻄﻠﺐ ﻟﻜﻨﻬﺎ.\n -ﺗﺼﻨﻴﻊ ﻃﺎﻭﻟﺔ ﻟﺒﻨﺎﺀ ﺍﻟﺘﻘﻨﻴﺔ ﺍﻵﻥ ﻟﺪﻳﻚ.</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>ﺍﻟﻤﺘﻘﺪﻣﺔ: ﺍﻟﻤﻜﻮّﻧﺎﺕ ﻋﻠﻰ ﺍﻟﺤﺼﻮﻝ ﺣﻮﻝ</Fabrication.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->high-tech fabrication benches</li>
+    <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
+    <li>subject_story->traded everything to build a single fabrication bench</li>
+    <li>subject_story->constructed technological marvels which the feral villagers worshipped as magical</li>
+    <li>subject_gerund->constructing high-tech projects</li>
+    <li>subject_gerund->building high-tech fabrication stations</li>
+  -->
+  <Fabrication.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺗﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ</li>
+    <li>subject_FemMas->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺍﻟﺘﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ</li>
+    <li>subject_def->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺍﻟﺘﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ</li>
+    <li>subject_def2->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺍﻟﺘﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ</li>
+    <li>subject_story->ﺍﻟﻤﺘﻘﺪﻣﺔ ﺍﻟﻤﻜﻮّﻧﺎﺕ ﻣﻦ ﻣﺰﻳﺪًﺍ ﺗﺼﻨﻊ ﺗﺼﻨﻴﻊ ﻃﺎﻭﻻﺕ ﻟﻴﺼﻨﻊ ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﻳﺼﻨﻊ ﻃﻮﻳﻠﺔ ﺳﻨﻮﺍﺕ ﺃﻣﻀﻰ</li>
+    <li>subject_story->ﻭﺍﺣﺪﺓ ﺗﺼﻨﻴﻊ ﻃﺎﻭﻟﺔ ﻟﺒﻨﺎﺀ ﻳﻤﻠﻚ ﻣﺎ ﻛﻞ ﺑﺎﺩﻝ</li>
+    <li>subject_story->ﺳﺤﺮ ﺃﻧﻬﺎ ﻋﻠﻰ ﻳﻌﺒﺪﻭﻧﻬﺎ ﺍﻟﻤﺘﻮﺣﺸﻮﻥ ﺍﻟﻘﺮﻭﻳﻮﻥ ﻛﺎﻥ ﺗﻘﻨﻴﺔ ﻋﺠﺎﺋﺐ ﺷﻴّﺪ</li>
+    <li>subject_gerund->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﻣﺸﺎﺭﻳﻊ ﺗﻨﻔﻴﺬ</li>
+    <li>subject_gerund->ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺗﺼﻨﻴﻊ ﻣﺤﻄﺎﺕ ﺑﻨﺎﺀ</li>
+  </Fabrication.generalRules.rulesStrings>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>ﻣﺘﻌﺪﺩ ﻣﺤﻠﻞ</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>ﻣﺴﺘﻮﻯ ﺃﻋﻠﻰ ﺑﺤﺚ ﻣﺸﺎﺭﻳﻊ ﻭﺗﺘﻴﺢ ﺍﻟﺒﺤﺚ ﺳﺮﻋﺔ ﺗﺰﻳﺪ ﻣﺘﻌﺪﺩﺓ ﻣﺤﻠﻻﺖ ﺍﺑﻦِ.</MultiAnalyzer.description>
+  <!-- EN:
+    <li>subject->multi-analysis</li>
+    <li>subject_story->automated a research laboratory</li>
+    <li>subject_story->unlocked the trans-spectrum secrets of the universe</li>
+    <li>subject_story->helped identify new stable isotopes</li>
+    <li>subject_gerund->constructing multi-analyzers</li>
+  -->
+  <MultiAnalyzer.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻤﺘﻌﺪﺩ ﺍﻟﺘﺤﻠﻴﻞ</li>
+    <li>subject_FemMas->ﺍﻟﻤﺘﻌﺪﺩ ﺍﻟﺘﺤﻠﻴﻞ</li>
+    <li>subject_def->ﺍﻟﻤﺘﻌﺪﺩ ﺍﻟﺘﺤﻠﻴﻞ</li>
+    <li>subject_def2->ﺍﻟﻤﺘﻌﺪﺩ ﺍﻟﺘﺤﻠﻴﻞ</li>
+    <li>subject_story->ﺃﺑﺤﺎﺙ ﻣﺨﺘﺒﺮ ﺃﺗﻤﺖ</li>
+    <li>subject_story->ﻟﻠﻄﻴﻒ ﺍﻟﻌﺎﺑﺮﺓ ﺍﻟﻜﻮﻥ ﺃﺳﺮﺍﺭ ﻛﺸﻒ</li>
+    <li>subject_story->ﺟﺪﻳﺪﺓ ﻣﺴﺘﻘﺮﺓ ﻧﻈﺎﺋﺮ ﺗﺤﺪﻳﺪ ﻓﻲ ﺳﺎﻋﺪ</li>
+    <li>subject_gerund->ﻣﺘﻌﺪﺩﺓ ﻣﺤﻠﻻﺖ ﺑﻨﺎﺀ</li>
+  </MultiAnalyzer.generalRules.rulesStrings>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﺃﻳﻀًﺎ ﺗﺘﻄﻠﺐ ﻫﺬﻩ ﺃﻥ ﻻﺣﻆ ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺍﻟﺼﺪﻣﺔ ﻗﻮﺍﺕ ﺗﺴﺘﺨﺪﻣﻪ ﺍﻟﻌﺎﻡ. ﻟﻻﺴﺘﺨﺪﺍﻡ ﺁﻟﻲ ﺩﺭﻉ ﻭﻫﻮ ﺍﻟﻤﺎﺭﻳﻨﺰ، ﺩﺭﻉ ﺍﺑﻦِ.</PoweredArmor.description>
+  <!-- EN:
+    <li>subject->marine armor</li>
+    <li>subject_story->was employed by the shock troops to maintain their armor</li>
+    <li>subject_story->tested the armor by walking, unarmed, through a hostile feral village without receiving a scratch</li>
+    <li>subject_story->intended the armor as protection against the planet's hostile weather, but it worked well against the pirates too</li>
+    <li>subject_gerund->constructing shock troop armor</li>
+    <li>subject_gerund->constructing marine armor</li>
+    <li>subject_gerund->constructing general-use advanced armor</li>
+  -->
+  <PoweredArmor.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ</li>
+    <li>subject_FemMas->ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ</li>
+    <li>subject_def->ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ</li>
+    <li>subject_def2->ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ</li>
+    <li>subject_story->ﺩﺭﻭﻋﻬﻢ ﻟﺼﻴﺎﻧﺔ ﺍﻟﺼﺪﻣﺔ ﻗﻮﺍﺕ ﻗﺒﻞ ﻣﻦ ﺗﻮﻇﻴﻔﻪ ﺗﻢ</li>
+    <li>subject_story->ﺑﺨﺪﺵ ﻳُﺼﺎﺏ ﺃﻥ ﺩﻭﻥ ﻣﻌﺎﺩﻳﺔ ﻣﺘﻮﺣﺸﺔ ﻗﺮﻳﺔ ﻋﺒﺮ ﺳﻻﺢ، ﺩﻭﻥ ﺑﺎﻟﺴﻴﺮ، ﺍﻟﺪﺭﻉ ﺍﺧﺘﺒﺮ</li>
+    <li>subject_story->ﺍﻟﻘﺮﺍﺻﻨﺔ ﺿﺪ ﺃﻳﻀًﺎ ﻧﺠﺢ ﻟﻜﻨﻪ ﺍﻟﻌﺪﺍﺋﻲ، ﺍﻟﻜﻮﻛﺐ ﻃﻘﺲ ﻣﻦ ﺣﻤﺎﻳﺔً ﺍﻟﺪﺭﻉ ﺃﺭﺍﺩ</li>
+    <li>subject_gerund->ﺍﻟﺼﺪﻣﺔ ﻗﻮﺍﺕ ﺩﺭﻭﻉ ﺻﻨﻊ</li>
+    <li>subject_gerund->ﺍﻟﻤﺎﺭﻳﻨﺰ ﺩﺭﻉ ﺻﻨﻊ</li>
+    <li>subject_gerund->ﺍﻟﻌﺎﻡ ﻟﻻﺴﺘﺨﺪﺍﻡ ﻣﺘﻘﺪﻣﺔ ﺩﺭﻭﻉ ﺻﻨﻊ</li>
+  </PoweredArmor.generalRules.rulesStrings>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﺃﻳﻀًﺎ ﺗﺘﻄﻠﺐ ﻫﺬﻩ ﺃﻥ ﻻﺣﻆ ﺍﻟﺤﺮﻛﺔ ﺃﺛﻨﺎﺀ ﺣﻤﺎﻳﺔ ﺇﻟﻰ ﺗﺤﺘﺎﺝ ﺍﻟﺘﻲ ﺍﻟﻜﺸﺎﻓﺔ ﻗﻮﺍﺕ ﺗﺴﺘﺨﺪﻣﻪ. ﺧﻔﻴﻒ ﺁﻟﻲ ﺩﺭﻉ ﻭﻫﻮ ﺍﻻﺳﺘﻄﻻﻊ، ﺩﺭﻉ ﺍﺻﻨﻊ.</ReconArmor.description>
+  <!-- EN:
+    <li>subject->recon armor</li>
+    <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
+    <li>subject_story->crafted powered armor light and resilient enough for the hammer-users to close with the enemy</li>
+    <li>subject_story->intended recon armor more for hunters than soldiers. It sold well, regardless</li>
+    <li>subject_gerund->crafting recon armor</li>
+    <li>subject_gerund->reducing armor weight</li>
+  -->
+  <ReconArmor.generalRules.rulesStrings>
+    <li>subject->ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ</li>
+    <li>subject_FemMas->ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ</li>
+    <li>subject_def->ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ</li>
+    <li>subject_def2->ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ</li>
+    <li>subject_story->ﺃُﺳﺮ ﺣﺘﻰ ﺍﻹﻣﺒﺮﺍﻃﻮﺭﻳﺔ ﺍﻟﻘﻮﺍﺕ ﺿﺪ ﺍﻟﻤﺘﻤﺮﺩﻳﻦ ﻛﺸﺎﻓﺔ ﻗﺎﺩ</li>
+    <li>subject_story->ﺍﻟﻌﺪﻭ ﻧﺤﻮ ﺍﻟﻤﻄﺎﺭﻕ ﻣﺴﺘﺨﺪﻣﻮ ﻟﻴﺘﻘﺪﻡ ﻳﻜﻔﻲ ﺑﻤﺎ ﻭﻣﺘﻴﻨًﺎ ﺧﻔﻴﻔًﺎ ﺁﻟﻴًﺎ ﺩﺭﻋًﺎ ﺻﻨﻊ</li>
+    <li>subject_story->ﺟﻴﺪًﺍ ﺑﻴﻊ ﺫﻟﻚ، ﻭﻣﻊ ﺍﻟﺠﻨﻮﺩ ﻣﻦ ﺃﻛﺜﺮ. ﻟﻠﺼﻴﺎﺩﻳﻦ ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ ﺃﺭﺍﺩ</li>
+    <li>subject_gerund->ﺍﻻﺳﺘﻄﻻﻊ ﺩﺭﻉ ﺻﻨﻊ</li>
+    <li>subject_gerund->ﺍﻟﺪﺭﻉ ﻭﺯﻥ ﺗﻘﻠﻴﻞ</li>
+  </ReconArmor.generalRules.rulesStrings>
+  
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>ﺍﻟﺼﻮﺍﺭﻳﺦ ﻭﺍﺑﻞ ﻗﺎﺫﻑ</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>ﺍﻟﻤﻌﺮﻛﺔ ﻣﻦ ﺣﺎﺳﻤﺔ ﻟﺤﻈﺔ ﻓﻲ ﻭﺍﺳﻌﺔ ﻣﺴﺎﺣﺔ ﺗﺪﻣﻴﺮ ﻳﻤﻜﻨﻬﺎ ﻭﺍﺣﺪﺓ ﺩﻓﻌﺔ ﺗﻄﻠﻖ ﺃﺑﺮﺍﺝ ﻭﻫﻲ ﺍﻟﺼﻮﺍﺭﻳﺦ، ﻭﺍﺑﻞ ﻗﺎﺫﻓﺎﺕ ﺍﺻﻨﻊ.</RocketswarmLauncher.description>
+  <!-- EN:
+    <li>subject->rocket turrets</li>
+    <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
+    <li>subject_story->constructed last-ditch defenses, including traps and launchers, in case the settlement was ever threatened</li>
+    <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
+    <li>subject_gerund->constructing rocket turrets</li>
+  -->
+  <RocketswarmLauncher.generalRules.rulesStrings>
+    <li>subject->ﺻﺎﺭﻭﺧﻴﺔ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_FemMas->ﺍﻟﺼﺎﺭﻭﺧﻴﺔ ﺍﻷﺑﺮﺍﺝ</li>
+    <li>subject_def->ﺍﻟﺼﺎﺭﻭﺧﻴﺔ ﺍﻷﺑﺮﺍﺝ</li>
+    <li>subject_def2->ﺍﻟﺼﺎﺭﻭﺧﻴﺔ ﺍﻷﺑﺮﺍﺝ</li>
+    <li>subject_story->ﻣﺪﻧﻴﺔ ﺃﻫﺪﺍﻑ ﺿﺪ ﺍﻟﺼﻮﺍﺭﻳﺦ ﻭﺍﺑﻞ ﻗﺎﺫﻓﺎﺕ ﺍﺳﺘﺨﺪﺍﻡ ﺣﻮﻝ ﺑﺸﻬﺎﺩﺗﻪ ﺃﺩﻟﻰ</li>
+    <li>subject_story->ﻣﺎ ﻳﻮﻣًﺎ ﺍﻟﻤﺴﺘﻮﻃﻨﺔ ﻟﺘﻬﺪﻳﺪ ﺗﺤﺴﺒًﺎ ﻭﺍﻟﻘﻮﺍﺫﻑ، ﺍﻟﻔﺨﺎﺥ ﺫﻟﻚ ﻓﻲ ﺑﻤﺎ ﺃﺧﻴﺮﺓ، ﺩﻓﺎﻋﺎﺕ ﺷﻴّﺪ</li>
+    <li>subject_story->ﻛﺄﺳﻠﺤﺔ ﺗﻮﻇﻴﻔﻬﺎ ﺇﻋﺎﺩﺓ ﺇﻟﻰ ﺃﺩﻯ ﺍﻟﻔﺸﻞ ﻣﻌﺪﻝ ﺍﺭﺗﻔﺎﻉ ﻟﻜﻦ ﺍﻟﻔﻀﺎﺀ، ﺇﻟﻰ ﻟﻠﻮﺻﻮﻝ ﺑﺪﺍﺋﻴﺔ ﺻﻮﺍﺭﻳﺦ ﺑﺒﻨﺎﺀ ﺑﺪﺃ</li>
+    <li>subject_gerund->ﺻﺎﺭﻭﺧﻴﺔ ﺃﺑﺮﺍﺝ ﺑﻨﺎﺀ</li>
+  </RocketswarmLauncher.generalRules.rulesStrings>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>ﺍﻟﻴﻮﺭﺍﻧﻴﻮﻡ ﻣﻘﺬﻭﻓﺎﺕ ﺑﺮﺝ</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>ﺍﻟﻘﺮﻳﺐ ﺍﻟﻤﺪﻯ ﻋﻠﻰ ﻓﺎﻋﻠﻴﺔ ﺃﻗﻞ ﻟﻜﻨﻪ. ﻭﺭﻕ، ﻛﺄﻧﻪ ﺍﻟﺒﻻﺴﺘﻴﻞ ﺗﻤﺰّﻕ ﻳﻮﺭﺍﻧﻴﻮﻡ ﻣﻘﺬﻭﻓﺎﺕ ﻳﻄﻠﻖ ﻟﻠﺪﺭﻭﻉ ﺍﻟﻤﺨﺘﺮِﻕ ﺍﻟﻴﻮﺭﺍﻧﻴﻮﻡ ﻣﻘﺬﻭﻓﺎﺕ ﺑﺮﺝ ﺍﺻﻨﻊ.</SniperTurret.description>
+  <!-- EN:
+    <li>subject->sniper turrets</li>
+    <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
+    <li>subject_story->saw a turret shoot straight through an assault mechanoid and needed to understand how</li>
+    <li>subject_story->researched the effects of ammunition density on armor</li>
+    <li>subject_gerund->constructing sniper turrets</li>
+  -->
+  <SniperTurret.generalRules.rulesStrings>
+    <li>subject->ﻗﻨّﺎﺻﺔ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_FemMas->ﺍﻟﻘﻨّﺎﺻﺔ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_def->ﺍﻟﻘﻨّﺎﺻﺔ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_def2->ﺍﻟﻘﻨّﺎﺻﺔ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_story->ﺍﻟﺠﺒﻬﺔ ﺧﻂ ﻣﻦ ﻣﺴﺘﻬﻠﻜﺔ ﻣﺸﻌّﺔ ﻳﻮﺭﺍﻧﻴﻮﻡ ﻣﻘﺬﻭﻓﺎﺕ ﺟﺎﻣﻌًﺎ ﺍﻟﺤﺮﺏ، ﺑﻌﺪ ﺍﻟﺘﻨﻈﻴﻒ ﺃﻋﻤﺎﻝ ﻗﺎﺩ</li>
+    <li>subject_story->ﺍﻟﻜﻴﻔﻴﺔ ﻓﻬﻢ ﺇﻟﻰ ﻭﺍﺣﺘﺎﺝ ﻣﺒﺎﺷﺮﺓً ﻫﺠﻮﻣﻲ ﻣﻴﻜﺎﻧﻮﻳﺪ ﻋﺒﺮ ﻳﻄﻠﻖ ﺑﺮﺟًﺎ ﺭﺃﻯ</li>
+    <li>subject_story->ﺍﻟﺪﺭﻭﻉ ﻋﻠﻰ ﺍﻟﺬﺧﻴﺮﺓ ﻛﺜﺎﻓﺔ ﺗﺄﺛﻴﺮ ﺑﺤﺚ</li>
+    <li>subject_gerund->ﻗﻨّﺎﺻﺔ ﺃﺑﺮﺍﺝ ﺑﻨﺎﺀ</li>
+  </SniperTurret.generalRules.rulesStrings>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺐ</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>ﺍﻟﻤﺴﺘﺸﻔﻰ ﺃﺳﺮّﺓ ﺑﺠﻮﺍﺭ ﻭﺿﻌﻬﺎ ﻋﻨﺪ ﺍﻟﻄﺒﻴﺔ ﺍﻟﻨﺘﺎﺋﺞ ﺗﺤﺴّﻦ ﺍﻟﺘﻲ ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺎﺕ ﺍﺑﻦِ.</VitalsMonitor.description>
+  <!-- EN:
+    <li>subject->vital signs monitoring</li>
+    <li>subject_story->struggled in an overcrowded hospital and vowed to work for change</li>
+    <li>subject_story->nursed a glassworld survivor back to health</li>
+    <li>subject_story->monitored the isolation ward remotely, sending mechanoids in for treatments</li>
+    <li>subject_gerund->monitoring vital signs</li>
+    <li>subject_gerund->constructing vital signs monitors</li>
+  -->
+  <VitalsMonitor.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺔ</li>
+    <li>subject_FemMas->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺔ</li>
+    <li>subject_def->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺔ</li>
+    <li>subject_def2->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺔ</li>
+    <li>subject_story->ﺍﻟﺘﻐﻴﻴﺮ ﺃﺟﻞ ﻣﻦ ﻳﻌﻤﻞ ﺃﻥ ﻭﺃﻗﺴﻢ ﻣﻜﺘﻆ ﻣﺴﺘﺸﻔﻰ ﻓﻲ ﻋﺎﻧﻰ</li>
+    <li>subject_story->ﺗﻌﺎﻓﻰ ﺣﺘﻰ ﺯﺟﺎﺟﻲ ﻋﺎﻟﻢ ﻣﻦ ﺑﻨﺎﺝٍ ﺍﻋﺘﻨﻰ</li>
+    <li>subject_story->ﺍﻟﻌﻻﺠﺎﺕ ﻹﺟﺮﺍﺀ ﺍﻟﻤﻴﻜﺎﻧﻮﻳﺪﺍﺕ ﻣُﺮﺳﻠًﺎ ﺑُﻌﺪ، ﻋﻦ ﺍﻟﻌﺰﻝ ﺟﻨﺎﺡ ﺭﺍﻗﺐ</li>
+    <li>subject_gerund->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺔ</li>
+    <li>subject_gerund->ﺍﻟﺤﻴﻮﻳﺔ ﺍﻟﻌﻻﻤﺎﺕ ﻣﺮﺍﻗﺒﺎﺕ ﺑﻨﺎﺀ</li>
+  </VitalsMonitor.generalRules.rulesStrings>
+  
+</LanguageData>

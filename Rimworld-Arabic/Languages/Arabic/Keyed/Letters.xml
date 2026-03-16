@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: Jump to location -->
+  <JumpToLocation>ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﺰﻔﻘﻟﺍ</JumpToLocation>
+  <!-- EN: Postpone -->
+  <PostponeLetter>ﻞﺟﺃ</PostponeLetter>
+  <!-- EN: Reject -->
+  <RejectLetter>ﺾﻓﺭ</RejectLetter>
+  <!-- EN: Read more -->
+  <ReadMore>ﺪﻳﺰﻤﻟﺍ ﺃﺮﻗﺍ</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>. ﻯﺮﺧﺃ ﺔﻟﺎﺳﺭ {0} ﻚﻳﺪﻟ</MoreLetters>
+
+  <!-- EN: Summer -->
+  <LetterLabelFirstSummerWarning>ﻒﻴﺻ</LetterLabelFirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>. ﻡﺩﺎﻗ ﺀﺎﺘﺸﻟﺍ ﻦﻜﻟ! ﻒﻴﺼﻟﺍ ﺃﺪﺑ\n\n. ﻪﻔﻠﺗ ﻊﻨﻣﻭ ﻡﺎﻌﻄﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺩﺮﺒﻣ ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ. ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻦﻳﺰﺨﺗ ﻦﻣ ﺪﻛﺄﺗ. ﺀﺎﺘﺸﻟﺍ ﺓﺩﻭﺮﺑ ﻲﻓ ﺔﻴﺋﺍﺬﻐﻟﺍ ﻚﻠﻴﺻﺎﺤﻣ ﻮﻤﻨﺗ ﻦﻟ\n\n. ﺝﺮﺨﺗ ﺎﻣﺪﻨﻋ ﺪﻤﺠﺘﺘﺳ ﻻﺇﻭ ،ﺔﻜﻴﻤﺴﻟﺍ ﻒﻃﺎﻌﻤﻟﺍ ﺾﻌﺑ ﻊﻨﺻﺍ ﻭﺃ ﻕﺮﺳ ﻭﺃ ِﺮﺘﺷﺍ ،ﺀﺎﺘﺸﻠﻟ ﺮﻴﻀﺤﺘﻠﻟ</FirstSummerWarning>
+
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>. ﻚﻟ ﻦﻳﺩﺎﻌﻣ ﻥﻵﺍ ﺍﻮﺤﺒﺻﺃ. ﻞﻣﺎﻛ ﻞﻜﺸﺑ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻌﻄﻘﻧﺍ</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻭﺃ ﻞﻓﺍﻮﻘﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻬﻟ ﺎﻳﺍﺪﻬﻟﺍ ﻢﻳﺪﻘﺗ َﻚﻨﻜﻤﻳ ،ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺗ َﺕﺩﺭﺃ ﺍﺫﺇ. ﻚﻌﻣ ﻝﻭﺍﺪﺘﻟﺍ ﻥﻮﻀﻓﺮﻳﻭ ،ﻙِﻠﻓﺍﻮﻗﻭ ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺔﻳﺭﻭﺩ ﺕﺍﺭﺎﻐﺑ ﻥﻮﻣﻮﻘﻴﺳ\n\n. ﻯﺮﺧﺃ ًﺓﺮﻣ {2} ﻰﻟﺇ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻞﺼﻳ ﻥﺃ ﺐﺠﻳ ،ﺓﺪﻳﺎﺤﻤﻟﺍ ﺕﺎﻗﻼﻌﻟﺍ ﺓﺩﺎﻌﺘﺳﻻ. {1} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺾﻔﺨﻧﺍ) {0} (ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻥﻷ ﺍﺬﻫ ﺙﺪﺣ</LetterRelationsChange_HostileGoodwillDescription>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription_NoGifting>. ﻚﻌﻣ ﻝﻭﺍﺪﺘﻟﺍ ﻥﻮﻀﻓﺮﻳﻭ ،ﺎﻬﻠﻓﺍﻮﻗﻭ ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺔﻳﺭﻭﺩ ﺕﺍﺭﺎﻏ ﻥﻮﻨﺸﻴﺳ\n\n. ﻯﺮﺧﺃ ﺓﺮﻣ {2} ﻰﻟﺇ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻞﺼﻳ ﻥﺃ ﺐﺠﻳ ،ﺓﺪﻳﺎﺤﻤﻟﺍ ﺕﺎﻗﻼﻌﻟﺍ ﺓﺩﺎﻌﺘﺳﻻ. {1} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺾﻔﺨﻧﺍ) {0} (ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻥﻷ ﺍﺬﻫ ﺙﺪﺣ</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>. ﻥﻵﺍ ﺪﻌﺑ ﻙﻮﻤﺟﺎﻬﻳ ﻦﻟﻭ ﺍًﺪﻳﺎﺤﻣ ﻥﻵﺍ ﻚﻧﻭﺮﺒﺘﻌﻳ. {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>. ﻚﻌﻣ ﻥﻮﻠﺗﺎﻘﻳﻭ ﻙﺀﺎﻔﻠﺣ ﻥﻮﺤﺒﺼﻴﺴﻓ ،{4} ﻕﻮﻓ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻊﻔﺗﺭﺍ ﺍﺫﺇﻭ. ﻯﺮﺧﺃ ﺓﺮﻣ ﺀﺍﺪﻌﻟﺍ ﻰﻟﺇ {0} ﺩﻮﻌﺘﺴﻓ ،{3} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﺾﻔﺨﻧﺍ ﺍﺫﺇ. {2} ﻕﻮﻓ) {1} (ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻉﺎﻔﺗﺭﺍ ﺐﺒﺴﺑ ﺍﺬﻫ ﺙﺪﺣ</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>. ﻒﻴﻠﺣ ﻦﻣ ﺍًﻟﺪﺑ ﻥﻵﺍ ﺍًﺪﻳﺎﺤﻣ ﻚﻧﻭﺮﺒﺘﻌﻳ. {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺕﺭﻮﻫﺪﺗ</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>. ﺪﻳﺪﻬﺘﻟﺍ ﺖﺤﺗ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻚﺗﺪﻋﺎﺴﻤﻟ ﻦﻴﻠﺗﺎﻘﻣ ﻥﻮﻠﺳﺮﻳ ﺍﻭﺩﻮﻌﻳ ﻦﻟ ﻢﻬﻧﺃ ﻻﺇ ،ﻡﻼﺴﺑ ﻚﻌﻣ ﻞﻋﺎﻔﺘﻟﺍ ﻲﻓ ﻥﻭﺮﻤﺘﺴﻴﺳ ﻢﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n\n. ﻯﺮﺧﺃ ﺓﺮﻣ ﻚﻌﻣ ﻥﻮﻔﻟﺎﺤﺘﻳ ﻑﻮﺴﻓ ،{4} ﻕﻮﻓ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻊﻔﺗﺭﺍ ﺍﺫﺇ. ﺍًﻴﺋﺍﺪﻋ {0} ﺢﺒﺼﻴﺴﻓ ،{3} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﺾﻔﺨﻧﺍ ﺍﺫﺇ. {2} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺾﻔﺨﻧﺍ) {1} (ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻥﻷ ﺍﺬﻫ ﺙﺪﺣ</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>. ﺍًﻔﻴﻠﺣ ﻥﻵﺍ ﻚﻧﻭﺮﺒﺘﻌﻳ. ﺍًﺪﺟ ﺔﺒﻳﺮﻗ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﺤﺒﺻﺃ</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>. ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻦﻣ ﺔﻔﻠﻜﺗ ﻞﺑﺎﻘﻣ ،ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺓﺪﻋﺎﺴﻤﻠﻟ ﻢﻫﺅﺎﻋﺪﺘﺳﺍ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ. ﻡﻮﺠﻬﻟﺍ ﺖﺤﺗ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻚﺋﺍﺪﻋﺃ ﻝﺎﺘﻗ ﻲﻓ ﻚﺗﺪﻋﺎﺴﻤﻟ ﺀﺎﻔﻠﺤﻟﺍ ﻞﺼﻳ ﺪﻗ\n\n. ﺩﺎﻴﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻗﻼﻌﻟﺍ ﺩﻮﻌﺘﺳ ،{2} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﺾﻔﺨﻧﺍ ﺍﺫﺇ. {1} ﻕﻮﻓ ﻊﻔﺗﺭﺍ ﺪﻗ) {0} (ﻢﻜﻳﺪﻟ ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻥﻷ ﺀﺎﻔﻠﺣ ﻡُﺘﺤﺒﺻﺃ</LetterRelationsChange_AllyGoodwillDescription>
+
+  <!-- EN: goodwill -->
+  <goodwill>ﺔﻴﻨﻟﺍ ﻦﺴﺣ</goodwill>
+  <!-- EN: Neutral -->
+  <Neutral>ﺪﻳﺎﺤﻣ</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>ﺪﻳﺎﺤﻣ</NeutralLower>
+  <!-- EN: Death -->
+  <Death>ﺕﻮﻣ</Death>
+
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
+  <ShortCircuitRain>. ﻖﻳﺮﺣ ﺏﻮﺸﻧ ﻲﻓ ﺭﺎﻄﻣﻷﺍ ﺐﺒﺴﺑ {1_label} ﻲﻓ ﻲﺋﺎﺑﺮﻬﻛ ﺱﺎﻤﺗ ﺐﺒﺴﺗ</ShortCircuitRain>
+
+  <!-- EN: Area revealed -->
+  <LetterLabelAreaRevealed>ﺔﻘﻄﻨﻤﻟﺍ ﻦﻋ ﻒﺸﻜﻟﺍ ﻢﺗ</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
+  <AreaRevealed>. ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﻦﻋ ﻒﺸﻜﻟﺍ ﻢﺗ</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
+  <AreaRevealedWithMechanoids>. ﺔﻴﺋﺍﺪﻋﻭ ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﻰﻠﻋ ﻱﻮﺘﺤﺗ. ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﻦﻋ َﻑِﺷُﻛ</AreaRevealedWithMechanoids>
+
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
+  <RoofCollapsed>. ﺔﻣﺎﻋﺩ ﻱﺃ ﻦﻋ ﻩﺪﻌﺑ ﺐﺒﺴﺑ ﻒﻘﺳ ﺭﺎﻬﻧﺍ</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
+  <TheseThingsCrushed>: ﺀﺎﻴﺷﻷﺍ ﻩﺬﻫ ﻖﺤﺳ ﻢﺗ</TheseThingsCrushed>
+  <!-- EN: Nothing was crushed. -->
+  <NothingCrushed>. ﺀﻴﺷ ﻖﺤﺳُﻳ ﻢﻟ</NothingCrushed>
+  <!-- EN: Roof collapse -->
+  <LetterLabelRoofCollapsed>ﻒﻘﺴﻟﺍ ﺭﺎﻴﻬﻧﺍ</LetterLabelRoofCollapsed>
+
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
+  <RecruitSuccess>).{2} ﻝﺎﻤﺘﺣﺍ ({1} ﺪﻴﻨﺠﺗ ﻲﻓ {0} ﺢﺠﻧ</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
+  <RecruitFail>).{2} ﻝﺎﻤﺘﺣﺍ ({1} ﺪﻴﻨﺠﺗ ﻲﻓ {0} ﻞﺸﻓ</RecruitFail>
+
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>. ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺍًﺪﺟ ﺍًﺪﻴﻌﺳ {RELATIVE_labelShort} ﻥﻮﻜﻳ ﻑﻮﺴﻓ ،{PAWN_nameDef} ﺫﺎﻘﻧﺇ ﻦﻣ ﺖﻨﻜﻤﺗ ﺍﺫﺇ ،ﻚﻟﺫ ﻊﻣﻭ. ﺪﻣﻷﺍ ﻞﻳﻮﻃ ﻥﺰﺣ ﻦﻣ {RELATIVE_labelShort} ﻲﻧﺎﻌﻳ ﻑﻮﺴﻓ ،{PAWN_nameDef} ﺕﺎﻣ ﺍﺫﺇ. {RELATIVE_labelShort} ـﻝ {1} ﻮﻫ {PAWN_nameDef}</RelatedPawnInvolvedInQuest>
+
+  <!-- EN: Birthday -->
+  <LetterLabelBirthday>ﺩﻼﻴﻤﻟﺍ ﺪﻴﻋ</LetterLabelBirthday>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
+  <BirthdayChronological>. ﺍًﻣﺎﻋ {3} ﺮﻤﻌﻟﺍ ﻦﻣ {1} ﻎﻠﺒﻳ ،ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺔﻴﺣﺎﻨﻟﺍ ﻦﻣ! {0} ـﻝ ﻲﻨﻣﺰﻟﺍ ﺩﻼﻴﻤﻟﺍ ﺪﻴﻋ ﻮﻫ ﻡﻮﻴﻟﺍ\n\n. ﺍًﻣﺎﻋ {2} ﻮﺘﻠﻟ {1} ﻞﻤﻛﺃ ،ﺍًﻴﻨﻣﺯ\n\n. ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺩﻼﻴﻤﻟﺍ ﺪﻴﻋ ﻦﻋ ﻞﺼﻔﻨﻣ ﻲﻨﻣﺰﻟﺍ ﺩﻼﻴﻤﻟﺍ ﺪﻴﻋ ﻥﺈﻓ ، " ﺮﻔﺸﻣ ﺕﺎﺒﺳ " ـﻝﺍ ﺀﺎﻨﺛﺃ ﻥﻮﺨﻴﺸﻳ ﻻ ﺹﺎﺨﺷﻷﺍ ﻥﻷ ﺍًﺮﻈﻧ ﻪﻧﺃ ﻆﺣﻻ</BirthdayChronological>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>.{1} ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺮﻤﻌﻟﺍ ﻰﻟﺇ {0_nameFull} ﺖﻠﺻﻭ/ﻞﺻﻭ</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>. ﺮﻤﻌﻟﺍ ﻲﻓ ﻡﺪﻘﺘﻟﺍ ﺐﺒﺴﺑ ﺔﻴﻟﺎﺘﻟﺍ ﺽﺍﺮﻣﻷﺎﺑ {0_nameFull} ﺐﻴﺻﺃ ،ﻒﺳﻸﻟ</BirthdayBiologicalAgeInjuries>
+
+  <!-- EN: Disease -->
+  <LetterLabelNewDisease>ﺽﺮﻣ</LetterLabelNewDisease>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>.{1} ﻦﻣ ﺽﺮﻤﺑ {PAWN} ﺐﻴﺻﺃ\n\n. ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻦﻣ ﻦﻜﻤﻣ ﺭﺪﻗ ﺮﺒﻛﺃ ﺀﺎﻀﻗﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ {PAWN_definite} ﻝﻮﺼﺣ ﻦﻣ ﺪﻛﺄﺗ. ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>.{PAWN_possessive} ﻯﺪﻟ {1} ﻲﻓ ﻯﻭﺪﻌﻟﺍ. {3} ﻦﻣ ﺽﺮﻤﺑ {PAWN} ﺐﻴﺻﺃ\n\n. ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻦﻣ ﻦﻜﻤﻣ ﺭﺪﻗ ﺮﺒﻛﺃ ﻲﻀﻘﻳﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ {PAWN_definite} ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ. ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{1}: ﺽﺮﻤﺑ {PAWN_labelShort} ﺐﻴﺻﺃ</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
+  <NewPartDiseaseAnimal>. ﻪﻳﺪﻟ {1} ﻲﻓ {3}: ﺽﺮﻤﺑ {PAWN_labelShort} ﺐﻴﺻﺃ</NewPartDiseaseAnimal>
+
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>. ﺍًﻘﺑﺎﺳ ﻚﺘﻠﻴﺼﻓ ﻦﻣ ﺍًﺀﺰﺟ {0} ﻥﺎﻛ</PawnWasFormerlyColonist>
+  <!-- EN: You previously hosted {0}. -->
+  <PawnWasFormerlyLodger>.{0} ﺍًﻘﺑﺎﺳ ﻒﻴﻀﺘﺴﺗ ﺖﻨﻛ</PawnWasFormerlyLodger>
+  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>: ﻚﻳﺮﻤﻌﺘﺴﻣ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻩﺬﻫ ﺎﻬﻳﺪﻟ/ﻪﻳﺪﻟ {1_labelShort}</PawnHasTheseRelationshipsWithColonists>
+
+  <!-- EN: Ancient danger -->
+  <LetterLabelAncientShrineWarning>ﻢﻳﺪﻗ ﺮﻄﺧ</LetterLabelAncientShrineWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>. ﻢﻴﻈﻋ ﺮﻄﺧ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﺪﻗ ﺮﺒﻐﻤﻟﺍ ﻞﻜﻴﻬﻟﺍ ﺍﺬﻫ ﻥﺄﺑ ﺮﻌﺸﻳ {PAWN_pronoun} ﻦﻜﻟ ،ﺍﺫﺎﻤﻟ ﺪﻛﺄﺘﻣ ﺮﻴﻏ {PAWN_pronoun}. {PAWN_objective} ﻰﻠﻋ ﺲﺤﻨﻟﺎﺑ ﺭﻮﻌﺷ ﺮﻄﻴﺴﻳ ،ﻢﻳﺪﻘﻟﺍ ﺭﺍﺪﺠﻟﺍ ﻦﻣ {PAWN_nameDef} ﺏﺮﺘﻘﻳ ﺎﻤﻨﻴﺑ</AncientShrineWarning>
+
+  <!-- EN: We have struck {0}! -->
+  <StruckMineable>!{0} ﺎﻨﺑﺮﺿ ﺪﻘﻟ</StruckMineable>
+
+  <!-- EN: {0} revenge -->
+  <LetterLabelAnimalManhunterRevenge>ﻡﺎﻘﺘﻧﺍ {0}</LetterLabelAnimalManhunterRevenge>
+  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
+  <AnimalManhunterFromDamage>!ﻯﺫﻸﻟ ﻪﺿﺮﻌﺗ ﺪﻌﺑ ﻢﺟﺎﻬﻳ {1_indefinite}\n\n. ﻡﺎﻨﻳ ﺎﻣﺪﻨﻋ ﺃﺪﻬﻴﺳ. ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻪﻨﻜﻤﻳ ﻥﺎﺴﻧﻹﺎﺑ ﻪﻴﺒﺷ ﻦﺋﺎﻛ ﻱﺃ ﺩﺎﻄﺼﻳ ﻑﻮﺳ</AnimalManhunterFromDamage>
+  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
+  <AnimalManhunterFromTaming>!ﺔﻠﺷﺎﻓ ﺾﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﺐﺒﺴﺑ ﻢﺟﺎﻬﻳ {1_indefinite}</AnimalManhunterFromTaming>
+  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
+  <AnimalManhunterOthers>!ﺍًﻀﻳﺃ ﻦﻴﺒﺿﺎﻏ ﺏﺮﻘﻟﺎﺑ ﻥﻭﺮﺧﺁ {1_kindBasePlural} ﺢﺒﺻﺃ</AnimalManhunterOthers>
+
+  <!-- EN: {1_labelShort} hit trap -->
+  <LetterFriendlyTrapSprungLabel>ﺔﺑﺮﺿ ﺦﻓ</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
+  <LetterFriendlyTrapSprung>.{1_labelShort} ﺔﺑﺎﺻﺇ ﻲﻓ ﺐﺒﺴﺗﻭ ﺄﻄﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ٌﺦﻓ ﻖﻠﻄﻧﺍ ﺪﻗ {1_labelShort}</LetterFriendlyTrapSprung>
+
+  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
+  <LetterHealthComplications>: ﺔﻴﺤﺻ ﺔﻟﺎﺤﺑ ﺐﻴﺻﺃ {PAWN_labelShort}\n\n{1}\n\n: ﻮﻫ ﻚﻟﺫ ﻲﻓ ﺐﺒﺴﻟﺍ\n\n{2}</LetterHealthComplications>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
+  <LetterHediffFromRandomHediffGiver>.{1}: ﺔﻴﺤﺻ ﺔﻟﺎﺤﺑ ﺐﻴﺻﺃ {PAWN_labelShort}</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <!-- EN: {1} died: {0} -->
+  <LetterLeadersDeathLabel>{0}: {1} ﺓﺎﻓﻭ</LetterLeadersDeathLabel>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>.{OLDLEADER_nameFull} ﻲﻫ/ﻮﻫ ﺓ/ﻞﻣﺎﻜﻟﺍ ﺎﻬﻤﺳﺍ/ﻪﻤﺳﺍﻭ ،{0} ﻦﻣ {1} ﺖﻴﻓﻮﺗ/ﻲﻓﻮﺗ</LetterLeadersDeath>
+
+  <!-- EN: New {1}: {0} -->
+  <LetterLeaderChangedLabel>{0}: ﺪﻳﺪﺟ {1}</LetterLeaderChangedLabel>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>.{0} ـﻝ {1} {OLDLEADER_nameFull} ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>.{NEWLEADER_nameFull} ﺓ/ﻞﻣﺎﻜﻟﺍ ﺎﻫ/ﻪﻤﺳﺍﻭ {0} ﻲﻫ/ﻮﻫ ﺓ/ﺪﻳﺪﺠﻟﺍ ﺓ/ﻢﻴﻋﺰﻟﺍ</LetterNewLeader>
+
+  <!-- EN: The final straw was: {0} -->
+  <FinalStraw>{0}: ﺓﺮﻴﺧﻷﺍ ﺔﺸﻘﻟﺍ ﻥﺎﻛ</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>. ﺔﻴﺟﺍﺰﻤﻟﺍ ﺔﻟﺎﺤﻟﺍ ﺀﻮﺳ ﺐﺒﺴﺑ ﺍﺬﻫ ﺙﺪﺣ</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>.{0}: ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﺍﺬﻫ ﺙﺪﺣ</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>.{0}: ﺐﺒﺴﺑ ﺍﺬﻫ ﺙﺪﺣ</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>.{0_definite} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﺍﺬﻫ ﺙﺪﺣ</MentalStateReason_BondedHumanDeath>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>ﻥﺎﻛ ﺙﺪﺣ ﺮﺧﺁ</LastFactionRelationsEvent>
+
+  <!-- EN: View related quest -->
+  <ViewRelatedQuest>ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺔﻤﻬﻤﻟﺍ ﺽﺮﻋ</ViewRelatedQuest>
+  <!-- EN: View quest -->
+  <ViewQuest>ﺔﻤﻬﻣ ﺽﺮﻋ</ViewQuest>
+  <!-- EN: The last events in {PAWN_definite}'s life -->
+  <LastEventsInLife>{PAWN_definite} ﺓﺎﻴﺣ ﻲﻓ ﺓﺮﻴﺧﻷﺍ ﺙﺍﺪﺣﻷﺍ</LastEventsInLife>
+
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>!ﻡﺎﻬﻟﺈﺑ [PAWN_nameIndef] ﺮﻌﺷ ،ﺔﻴﻟﺎﻌﻟﺍ ﺔﻴﺟﺍﺰﻤﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻞﻀﻔﺑ</LetterInspirationBeginThanksToHighMoodPart>
+
+  <!-- Related pawns -->
+  <!-- EN: Relationship -->
+  <LetterLabelNoticedRelatedPawns>ﺔﻗﻼﻋ</LetterLabelNoticedRelatedPawns>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
+  <LetterRelatedPawnsRaidEnemy>.{1} ﻦﻣ ﺔﻣﺩﺎﻘﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺩﺍﺮﻓﺃ ﻙﺎﻨﻫ\n\n. ﻢﻬﻠﺋﺎﺼﻓ ﻦﻴﺑ ﺔﺌﻴﺴﻟﺍ ﺕﺎﻗﻼﻌﻟﺍ ﺐﺒﺴﺑ ﺾﻌﺒﻟﺍ ﻢﻬﻀﻌﺑ ﻥﻮﻤﺟﺎﻬﻳ ﻥﻮﻠﻈﻴﺳ ﻢﻬﻧﺃ ﻻﺇ ،ﻦﻴﻄﺒﺗﺮﻣ ﻢﻬﻧﻮﻛ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ﻪﻧﺃ ﻙﺭﺎﺒﺘﻋﺍ ﻲﻓ ﻊﺿ\n\n: ﻢﻫ ﺩﺍﺮﻓﻷﺍ ﺀﻻﺆﻫ</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
+  <LetterRelatedPawnsRaidFriendly>.{1} ﻦﻣ ﺔﻣﺩﺎﻘﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
+  <LetterRelatedPawnsNeutralGroup>: ﺔﻣﺩﺎﻘﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradeShip>: ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺍًﺻﺎﺨﺷﺃ ﻱﺭﺍﺪﻤﻟﺍ ﺮﺟﺎﺘﻟﺍ ﻊﻴﺒﻳ</LetterRelatedPawnsTradeShip>
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>: ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺍًﺻﺎﺨﺷﺃ ﻊﻴﺒﺗ ﺔﻘﻄﻨﻤﻟﺍ</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>: ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺍًﺻﺎﺨﺷﺃ ﻊﻴﺒﺗ ﺔﻠﻓﺎﻘﻟﺍ</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>: ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺍ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>.{0} ﺎﻬﻴﻓ ﻂﺒﻫ ﻲﺘﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>: ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺎﺑ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>: ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺀﺎﻨﺠﺴﻟﺍ ﻭﺃ {0} ـﺏ ﺕﺎﻗﻼﻋ ﻢﻬﻄﺑﺮﺗ ﺹﺎﺨﺷﺃ ﻙﺎﻨﻫ</LetterRelatedPawnsSite>
+
+  <!-- EN: relationship -->
+  <RelationshipAppendedLetterSuffix>ﺔﻗﻼﻋ</RelationshipAppendedLetterSuffix>
+  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextColonist>.{RELATIVE_labelShort} ـﻝ {1} ﻪﻧﺇ. ﺮﻤﻌﺘﺴﻣ ﻊﻣ ﺔﻗﻼﻋ {PAWN_nameDef} ﻯﺪﻟ</RelationshipAppendedLetterTextColonist>
+  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextPrisoner>.{RELATIVE_labelShort} ـﻝ {1} ﻪﻧﺇ. ﻚﺋﺎﻨﺠﺳ ﺪﺣﺄﺑ ﺔﻗﻼﻋ {PAWN_nameDef} ﻯﺪﻟ</RelationshipAppendedLetterTextPrisoner>
+
+  <!-- Attempt romance / propose interaction -->
+  <!-- EN: Affair -->
+  <LetterLabelAffair>ﺔﻧﺎﻴﺧ</LetterLabelAffair>
+  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
+  <LetterAffair>.{PAWN2_labelShort} ﻊﻣ ﺔﻴﻣﺍﺮﻏ ﺔﻗﻼﻋ ﺕﺃﺪﺑ/ﺃﺪﺑ ،{SPOUSE_labelShort} ﻦﻣ ﺓ/ﺝﻭﺰﺘﻣ ،{PAWN1_labelShort}</LetterAffair>
+  <!-- EN: New lovers -->
+  <LetterLabelNewLovers>ﺩﺪﺟ ﻕﺎﺸﻋ</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>. ﺎﻤﻬﻟ ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ ﺺﻴﺼﺨﺗ ﻙﺭﺎﺒﺘﻋﺍ ﻲﻓ ﻊﺿ. ﺍًﻌﻣ ﻡﻮﻨﻟﺍ ﻲﻓ ﻥﻵﺍ ﻥﺎﺒﻏﺮﻳ {PAWN2_labelShort} ﻭ {PAWN1_labelShort}</LetterNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
+  <LetterNoLongerLovers>. ﺔﻗﻼﻋ ﻲﻓ ﺍﺩﻮﻌﻳ ﻢﻟ {PAWN2_labelShort} ﻭ {PAWN1_labelShort}</LetterNoLongerLovers>
+  <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
+  <LetterNoLongerLovers_BackToBirthName>. ﻩﺩﻼﻴﻣ ﻢﺳﺍ ﻰﻟﺇ ﻪﺑ ﺹﺎﺨﻟﺍ ﺔﻠﺋﺎﻌﻟﺍ ﻢﺳﺍ {PAWN_labelShort} ﺭّﻴﻐﻴﺳ</LetterNoLongerLovers_BackToBirthName>
+  <!-- EN: Breakup -->
+  <LetterLabelBreakup>ﻝﺎﺼﻔﻧﺍ</LetterLabelBreakup>
+  <!-- EN: Marriage is on! -->
+  <LetterLabelAcceptedProposal>!ﺬﻴﻔﻨﺘﻟﺍ ﺪﻴﻗ ﺝﺍﻭﺰﻟﺍ</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
+  <LetterLabelRejectedProposal>ﺽﻮﻓﺮﻣ ﺡﺮﺘﻘﻣ</LetterLabelRejectedProposal>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
+  <LetterAcceptedProposal>. ﻪﺘﻣﺎﻗﺇ ﻥﺎﻜﻤﺑ ﻢﻜﺤﺘﻟﺍ ﺕﺩﺭﺃ ﺍﺫﺇ ﻑﺎﻓﺰﻠﻟ ﻥﺎﻜﻣ ﻊﺿﻭ ﻲﻓ ﺭّﻜﻓ. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻴﻤﺟ ﻥﻮﻋﺪﻳﻭ ﻢﻬﻓﺎﻓﺯ ﻞﻔﺣ ﻥﻮﻤﻴﻗُﻴﺳ ،ﺔﻣﺩﺎﻘﻟﺍ ﺔﻨﺴﻟﺍ ﻉﺎﺑﺭﺃ ﻭﺃ ﻡﺎﻳﻷﺍ ﻲﻓ</LetterAcceptedProposal>
+  <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
+  <LetterAcceptedProposal_NameChange>.{1} ﻰﻟﺇ ﺮﻴﺧﻷﺍ ﺎﻬﻤﺳﺍ/ﻪﺘﻠﺋﺎﻋ ﻢﺳﺍ {PAWN_label} ﺭّﻴﻐﻴﺳ</LetterAcceptedProposal_NameChange>
+  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
+  <LetterRejectedProposal>. ﺍﺬﻫ ﻦﻋ ٍﺽﺍﺭ ﺮﻴﻏ {INITIATOR_nameFull} ﻥﻮﻜﻴﺳ</LetterRejectedProposal>
+
+  <!-- Generalized letter labels -->
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>{0}: ﻲﺋﺍﺪﻋ</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>{0}: ﻒﻴﻠﺣ</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>{0}: ﻥﻵﺍ ﺍًﺪﻳﺎﺤﻣ ﺢﺒﺻﺃ ﻭﺪﻌﻟﺍ</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>{0}: ﺍًﺪﻳﺎﺤﻣ ﻥﻵﺍ ﻒﻴﻠﺤﻟﺍ ﺢﺒﺻﺃ</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
+  <LetterLabelShortCircuit>…ﺕﺯﺯﺯ</LetterLabelShortCircuit>
+
+  <!-- Bonded animals -->
+  <!-- EN: bonded -->
+  <LetterLabelSuffixBondedAnimalDied>ﻂﺒﺗﺮﻣ</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
+  <LetterPartBondedAnimalDied>.{HUMAN_labelShort} ﺝﺍﺰﻣ ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻴﺳ. {HUMAN_labelShort} ـﺏ ﺍًﻄﺒﺗﺮﻣ {ANIMAL_definite} ﻥﺎﻛ</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>: ﻦﻴﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺝﺍﺰﻣ ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻴﺳ\n\n{0}</LetterPartBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <!-- EN: Prison break -->
+  <LetterLabelPrisonBreak>ﻦﺠﺴﻟﺍ ﻦﻣ ﺏﻭﺮﻫ</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
+  <LetterPrisonBreak>: ﻢﻫ ﻥﻮﻃﺭﻮﺘﻤﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ. ﺏﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻳ ﻭﺃ ﺍﻮﻠﺗﺎﻘﻳ ﻭﺃ ﺔﺤﻠﺳﺃ ﻦﻋ ﻥﻮﺜﺤﺒﻳ ﺪﻗ. ﺝﻭﺮﺨﻠﻟ ﻢﻬﻘﻳﺮﻃ ﻲﻓ ﻢﻫﻭ ﺏﺍﻮﺑﻷﺍ ﻝﺎﻔﻗﺃ ﻰﻠﻋ ﺍﻮﺒﻠﻐﺗ ﻢﻬﻧﺃ ﻭﺪﺒﻳ! ﺀﺎﻨﺠﺴﻟﺍ ﻦﻣ ﺓﺭﻮﺛ ﺖﻌﻟﺪﻧﺍ\n\n{0}\n\n. ﺓﺪﻴﺟ ﺔﺤﺼﺑﻭ ﺓﺮﻴﺒﻛ ﺩﺍﺪﻋﺄﺑ ﻥﻮﻧﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺏﺮﻬﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﺔﻟﻭﺎﺤﻣ ﻝﺎﻤﺘﺣﺍ ﺩﺍﺩﺰﻳ</LetterPrisonBreak>
+
+  <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
+  <LetterLabelNewlyAddicted>{0} ﻥﺎﻣﺩﺇ</LetterLabelNewlyAddicted>
+  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
+  <LetterNewlyAddicted>.{1} ﻰﻠﻋ ﻥﺎﻣﺩﺇ {PAWN_labelShort} ﻯﺪﻟ ﺢﺒﺻﺃ\n\n. ﺏﺎﺤﺴﻧﻻﺍ ﺽﺍﺮﻋﺃ ﻦﻣ ﻲﻧﺎﻌﻳ ﻑﻮﺴﻓ ،{1} ﻱﺃ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻣ {PAWN_pronoun} ﻦﻜﻤﺘﻳ ﻢﻟ ﺍﺫﺇ. ﻪﺘﺟﺎﺣ ﺔﻴﺒﻠﺘﻟ ﺭﺪﺨﻤﻟﺍ ﺍًﻴﺋﺎﻘﻠﺗ {PAWN_pronoun} ﻚﻠﻬﺘﺴﻴﺳ. ﻪﺗﺎﺟﺎﻴﺘﺣﺍ ﺔﻣﻼﻋ ﻲﻓ ﺔﻴﺋﺮﻣ ،{1} ﻰﻟﺇ ﺔﺟﺎﺣ ﻥﻵﺍ {PAWN_pronoun} ﻯﺪﻟ ﺢﺒﺻﺃ</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <!-- EN: {0} binge -->
+  <LetterLabelDrugBinge>ﻁﺍﺮﻓﺇ ﺔﺑﻮﻧ {0}</LetterLabelDrugBinge>
+  <!-- EN: {2_label} is binging on {1}. -->
+  <LetterDrugBinge>.{1} ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺮﻔﻳ {2_label}</LetterDrugBinge>
+
+  <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>ﺓﺮﻣﺩُﻣ ﺔﻠﻓﺎﻗ</LetterLabelAllCaravanColonistsDied>
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>.{0} ﺩﺍﺮﻓﺃ ﻊﻴﻤﺟ ﻲﻓﻮﺗ ﺪﻘﻟ</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>{0_label} ﻰﻟﺇ ﺔﻠﻓﺎﻘﻟﺍ ﺖﻠﺻﻭ</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>.{1_definite} ﻰﻟﺇ {0} ﻞﺻﻭ</LetterCaravanEnteredMap>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelCaravanEnteredEnemyBase>ﻡﻮﺠﻬﻟﺍ ﺃﺪﺑ</LetterLabelCaravanEnteredEnemyBase>
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
+  <LetterCaravanEnteredEnemyBase>. ﻡﻮﺠﻬﻟﺍ ﺀﺪﺒﻟ ﺓﺪﻌﺘﺴﻣ ﻲﻫﻭ {1} ﻰﻟﺇ {0} ﺖﻠﺻﻭ</LetterCaravanEnteredEnemyBase>
+
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>ﻡﻮﺠﻬﻟﺍ ﺃﺪﺑ</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>.{0} ﻰﻟﺇ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>.{0} ﻰﻟﺇ ﻙﻮﻜﻤﻟﺍ ﺖﻠﺻﻭ</LetterShuttleLandedInEnemyBase>
+
+  <!-- Faction base defeated -->
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>. ﺓﺮﻣﺪﻣ ﺓﺪﻋﺎﻗ</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterFactionBaseDefeated>.{0} ﻭﺪﻌﻟﺍ ﺔﻨﻃﻮﺘﺴﻣ ﺮﻴﻣﺪﺗ ﻢﺗ\n\n. ﺭﺩﺎﻐﺗﻭ ﺪﻳﺪﺟ ﻦﻣ ﻞﻜﺸﺘﺗ ﻢﻟ ﺎﻣ ،ﺔﻠﻓﺎﻘﻟﺍ ﺔﻤﺟﺎﻬﻤﻟ ﺕﺍﻮﻗ ﻝﺎﺳﺭﺈﺑ ﻥﻭﺃﺪﺒﻴﺳ. ﺀﺍﺪﻋﻷﺍ ﻦﻣ ﻡﻮﺠﻬﻟ ﻚﺘﻠﻓﺎﻗ ﺽﺮﻌﺘﺘﺳ ،{1} ﻲﻓ</LetterFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed. -->
+  <LetterFactionBaseDefeatedNoRaids>.{0} ﺔﻳﺩﺎﻌﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺗ</LetterFactionBaseDefeatedNoRaids>
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>.{0} ﻡﺯُﻫ ﺪﻘﻓ ،ﺓﺮﻴﺧﻷﺍ ﻢﻬﺘﻨﻃﻮﺘﺴﻣ ﺖﻧﺎﻛ ﻩﺬﻫ ﻥﺃ ﺎﻤﺑ</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Quest completed -->
+  <!-- EN: Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>ﺔﻠﻤﺘﻜﻣ ﺔﻤﻬﻣ</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
+  <LetterDefeatAllEnemiesQuestCompleted>!ﻭﺪﻌﻟﺍ ﺮﻜﺴﻌﻣ ﺖﻣﺰﻫ ﺪﻘﻟ\n\n.{1} ﺭﺍﺪﻘﻤﺑ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺎﻗﻼﻋ ﺖﻨﺴﺤﺗﻭ ،{0} ﻦﻣ ﻊﻓﺪﻟﺍ ﻞﺻﻭ</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Long-range mineral scanner -->
+  <!-- EN: Distant resource scanned -->
+  <LetterLabelFoundPreciousLump>ﺪﻴﻌﺑ ﺩﺭﻮﻣ ﺢﺴﻣ ﻢﺗ</LetterLabelFoundPreciousLump>
+  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>. ﺎﻣ ٍﺪﻋُﺑ ﻰﻠﻋ {0} ﻦﻣ ﺔﻠﺘﻛ ﻰﻠﻋ {WORKER_labelShort} ﺕﺮﺜﻋ/ﺮﺜﻋ ،ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻟﺍ ﺢﺳﺎﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ\n\n. ﻚﻟﺫ ﻞﻌﻔﻧ ﻢﻟ ﺍﺫﺇ ﺍًﻣﻮﻳ {1} ﻝﻼﺧ ًﻻﻭﺃ ﺎﻬﻨﻳﺪﻌﺘﺑ ﻥﻭﺮﺧﺁ ﻡﻮﻘﻴﺳ - ﺍًﻠﻳﻮﻃ ﻡﻭﺪﺗ ﻦﻟ ،ﻆﺤﻟﺍ ﺀﻮﺴﻟ\n\n.{2}</LetterFoundPreciousLump>
+
+  <!-- Ground penetrating scanner -->
+  <!-- EN: Scanned underground -->
+  <LetterLabelDeepScannerFoundLump>ﺽﺭﻷﺍ ﺖﺤﺗ ﺡﻮﺴﻤﻣ</LetterLabelDeepScannerFoundLump>
+  <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
+  <LetterDeepScannerFoundLump>!ﺽﺭﻷﺍ ﻕﺍﺮﺘﺧﻻ ﻲﺋﻮﻀﻟﺍ ﺢﺳﺎﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻧﻮﻓﺪﻤﻟﺍ {0} ﻦﻣ ﺔﻠﺘﻛ ﻰﻠﻋ {FINDER_nameDef} ﺕﺮﺜﻋ</LetterDeepScannerFoundLump>
+
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
+  <LetterLabelAmbushInExistingMap>ﻦﻴﻤﻛ</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
+  <LetterAmbushInExistingMap>!{0} ـﻝ ﻦﻴﻤﻛ ﺐﺼﻧ ﻢﺗ</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
+  <LetterLabelPeaceTalks_Disaster>ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ ﺔﺛﺭﺎﻛ</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
+  <LetterPeaceTalks_Disaster>. ﺕﺎﺨﻴﺑﻮﺗﻭ ﺕﺎﻧﺎﻫﺇ ﻰﻟﺇ ﺵﺎﻘﻨﻟﺍ ﻝﻮﺤﺘﻳ ﻥﺃ ﻞﺒﻗ ﺔﻴﻟﻭﻷﺍ ﺕﺎﻴﺤﺘﻟﺍ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﺯﻭﺎﺠﺗ ﺩﺎﻜﻟﺎﺑ. ﺔﺛﺭﺎﻛ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻧﺎﻛ\n\n!ﺎﻬﻤﺟﺎﻫﻭ ﻚﺘﻠﻓﺎﻗ {1} ﻦﻣ {0} ﻙﺭﺩﺃ ،ﺍًﺮﻜﺒﻣ ﻚﺘﻠﻓﺎﻗ ﺓﺭﺩﺎﻐﻣ ﺪﻌﺑ\n\n.{2}: {1} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
+  <LetterLabelPeaceTalks_Backfire>. ﺔﻠﺷﺎﻓ ﻡﻼﺳ ﺕﺎﺿﻭﺎﻔﻣ</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
+  <LetterPeaceTalks_Backfire>. ﺕﺎﻧﺎﻫﺇ ﺎﻬﻧﺃ ﻰﻠﻋ ﺕﺎﺤﻳﺮﺼﺘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺮﻴﺴﻔﺗ ﻢﺗﻭ ،ﺔﻳﺮﻫﻮﺠﻟﺍ ﺎﻳﺎﻀﻘﻟﺍ ﻲﻓ ﻡﺪﻘﺗ ﻱﺃ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻖﻘﺤﻳ ﻢﻟ ،ﺕﻼﻣﺎﺠﻤﻟﺍ ﺾﻌﺑ ﻝﺩﺎﺒﺗ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺍًﺒﻠﺳ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﺴﻜﻌﻧﺍ\n\n.{1}: {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
+  <LetterLabelPeaceTalks_TalksFlounder>. ﺮﺜﻌﺘﺗ ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
+  <LetterPeaceTalks_TalksFlounder>. ﺔﻴﻘﻴﻘﺣ ﺎﻳﺎﻀﻗ ﻱﺃ ﻲﻓ ﻡﺪﻘﺗ ﻖﻴﻘﺤﺗ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻢﻟ ﻢﻬﻨﻜﻟ ،ﻲﺳﺎﺳﻷﺍ ﻡﺍﺮﺘﺣﻻﺍ ﻊﻣﻭ ﺡﻮﺿﻮﺑ ﻞﺻﺍﻮﺘﻟﺍ ﻦﻣ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻦﻜﻤﺗ. ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻠﺸﻓ\n\n. ﺎﻬﻟﺎﺣ ﻰﻠﻋ ﻝﺍﺰﺗ ﻻ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
+  <LetterLabelPeaceTalks_Success>ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ ﺡﺎﺠﻧ</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
+  <LetterPeaceTalks_Success>. ﺔﻳﺮﻫﻮﺟ ﺎﻳﺎﻀﻗ ﺓﺪﻋ ﻝﻮﺣ ﺪﻳﺪﺟ ﻝﺩﺎﺒﺘﻣ ﻢﻫﺎﻔﺗ ﻰﻟﺇ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻞﺻﻮﺗ. ﺡﺎﺠﻨﺑ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺕﺭﺎﺳ\n\n.{1} ﺭﺍﺪﻘﻤﺑ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
+  <LetterLabelPeaceTalks_Triumph>ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺭﺎﺼﺘﻧﺍ</LetterLabelPeaceTalks_Triumph>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>. ﺔﺣﻭﺮﻄﻤﻟﺍ ﺎﻳﺎﻀﻘﻟﺍ ﺐﻌﺻﺃ ﻲﻓ ﺍًﻘﺣ ﺾﻌﺒﻟﺍ ﻢﻬﻀﻌﺑ ﺮﻈﻧ ﺕﺎﻬﺟﻭ ﻢﻬﻓ ﻦﻣ ﺍﻮﻨﻜﻤﺗﻭ ﻲﺼﺨﺸﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻋﺮﺴﺑ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻞﺻﺍﻮﺗ! ﺍًﻤﻴﻈﻋ ﺍًﺭﺎﺼﺘﻧﺍ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻧﺎﻛ\n\n.{1} ﺭﺍﺪﻘﻤﺑ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ\n\n: ﺔﻳﺪﻫ {0} ﻚﻟ ﻡﺪﻗ ،ﻚﺘﻠﻓﺎﻗ ﺕﺭﺩﺎﻏ ﺎﻣﺪﻨﻋ\n\n{2}</LetterPeaceTalks_Triumph>
+  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>. ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺓﺮﺒﺨﻟﺍ ﻦﻣ {1} ﺐﺴﺘﻛﺍ ،ﻚﺿﻭﺎﻔﻣ ،{PAWN_labelShort}</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
+  <LetterRunWildMentalBreak>. ﺓﺭﺎﻀﺤﻟﺍ ﻦﻣ ﻢﺌﺳ {0}\n\n. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﺶﻴﻌﻟﺍﻭ ﻚﺘﻠﻴﺼﻓ ﺓﺭﺩﺎﻐﻣ {PAWN_pronoun} ﺭﺮﻗ ،ﻚﻟﺬﻟ. ﺍًﻤﺋﺍﺩ ﺓﺮﺣ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﻥﺃ {PAWN_pronoun} ﻙﺭﺩﺃ\n\n. ﻪﺗﺩﺎﻋﻹ {PAWN_objective} ﻝﺎﻘﺘﻋﺍ ﻭﺃ ﺾﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
+  <LetterCatatonicMentalBreak>. ﻡﺎﻳﺃ ﺓﺪﻋ ﻝﻼﺧ {PAWN_pronoun} ﻦﺴﺤﺘﻴﺳ. ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻞﺧﺩﻭ ﻞﻣﺎﻛ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {0} ﻰﻧﺎﻋ</LetterCatatonicMentalBreak>
+
+  <!-- EN: Persona Core Offer -->
+  <LetterLabelAICoreOffer>ﺔﻴﺼﺨﺷ ﺓﺍﻮﻧ ﺽﺮﻋ</LetterLabelAICoreOffer>
+  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>. ﺓﺩﺪﺸﻣ ﺔﺳﺍﺮﺣ ﺖﺤﺗ ﻩﻮﻌﺿﻭ ﺪﻗ ﻪﺑﺎﺤﺻﺃ ﻥﻮﻜﻳ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ﺍًﺪﺟ ﺭﺩﺎﻧ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻥﺃ ﻚﻧﻭﺮﺒﺨﻳ. ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﺀﺎﻨﺒﻟ ﺎﻬﺟﺎﺘﺤﺘﺳ ﻲﺘﻟﺍﻭ ،ﺔﻴﺼﺨﺷ ﺓﺍﻮﻧ ﻊﻗﻮﻣ: ﺕﺎﻣﻮﻠﻌﻣ ﻢﻳﺪﻘﺗ ﺽﺮﻌﺑ {1} ﻦﻣ {PAWN_definite} ﻚﺑ ﻞﺼﺘﻳ\n\n. ﺍًﻤﺘﻬﻣ ﺖﻨﻛ ﺍﺫﺇ ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻬﺑ ﻞﺼﺗﺍ</LetterAICoreOffer>
+
+  <!-- Crafting letters -->
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>ﻱﺭﻮﻄﺳﺃ ﻞﻤﻋ</LetterCraftedLegendaryLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>.{CRAFTED_labelShort} ﺖﺠﺘﻧﺃ/ﺞﺘﻧﺃ {WORKER_labelShort}\n\n. ﻢﻟﺎﻌﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﻦﻴﻤﺜﻟﺍ ﺮﺛﻷﺍ ﺍﺬﻫ ﺭﺎﺒﺧﺃ ﺮﺸﺘﻨﺗ ﻑﻮﺳ</LetterCraftedLegendaryMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessageArt>.{CRAFTED_labelShort} ﺍًﺠﺘﻨﻣ {WORKER_labelShort} ﺄﺸﻧﺃ\n\n{0}\n\n. ﻢﻟﺎﻌﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﻦﻴﻤﺜﻟﺍ ﺮﺛﻷﺍ ﺍﺬﻫ ﺭﺎﺒﺧﺃ ﺮﺸﺘﻨﺘﺳ</LetterCraftedLegendaryMessageArt>
+
+  <!-- EN: Masterwork -->
+  <LetterCraftedMasterworkLabel>ﺔﻴﻨﻓ ﺔﻔﺤﺗ</LetterCraftedMasterworkLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <LetterCraftedMasterworkMessage>.{CRAFTED_labelShort} ﺖﺠﺘﻧﺃ/ﺞﺘﻧﺃ {WORKER_labelShort}</LetterCraftedMasterworkMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
+  <LetterCraftedMasterworkMessageArt>.{CRAFTED_labelShort} {WORKER_labelShort} ﺄﺸﻧﺃ\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>ﺔﻬﺋﺎﺗ ﺔﻠﻓﺎﻗ</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>. ﺎﻬﻌﻣ ﺕﺪﻘﻓ ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺹﺎﺨﺷﻷﺍ. ﻚﺘﻠﻓﺎﻗ ﺕﺪﻘﻓ</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>. ﻥﺎﻜﺴﻟﺍ ﻞﻤﻫُﺃ</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>ﻦﻳﺭﻮﺠﻬﻣ ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺹﺎﺨﺷﻷﺍ ﻙﺭُﺗ</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>. ﺰﻫﺎﺟ ﻞﻋﺎﻔﻣ</LetterLabelHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>. ﻉﻼﻗﻹﺍ ﻞﻴﻐﺸﺘﻟ ﻥﻵﺍ ﺰﻫﺎﺟ ﻞﻋﺎﻔﻤﻟﺍ. ﺕﺎﺒﺴﻟﺍ ﻦﻣ ﻞﻋﺎﻔﻤﻟﺍ ﺔﻗﺎﻓﺇ ﻞﺴﻠﺴﺗ ﻞﻤﻛﺃ ") ﻢﺳﻻﺍ "(ﻥﻮﺘﺴﺘﻳﺍﻭ ﻥﻮﻟﺭﺎﺷ ") ﻢﺳﻻﺍ "(</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>. ﻉﻼﻗﻹﺍ ﻞﻴﻐﺸﺘﻟ ﺰﻫﺎﺟ ﻥﻵﺍ ﻮﻫﻭ. ﻞﻋﺎﻔﻤﻟﺍ ﻞﻴﻐﺸﺗ ﻞﺴﻠﺴﺗ ﻞﻤﺘﻛﺍ</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>{0} ﻦﻣ ﺔﻳﺪﻫ</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>: ﺔﻳﺪﻫ {PAWN_factionName} ﻦﻣ {0} ﻙﺮﺗ\n\n{1}</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>ﻞﻴﺼﻔﻟﺍ ﺓﺪﻋﺎﻗ ﺏﺮﻗ</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>. ﻢﻬﻴﺿﺍﺭﺃ ﻰﻠﻋ ﻥﻭﺪﻌﺘﺗ ﻢﻜﻧﺃ ﻥﻭﺮﻌﺸﻳ ،ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻦﻣ ﻢﻜﺑﺮﻗ ﺐﺒﺴﺑ\n\n: ﺭﺍﺪﻘﻤﺑ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺎﻗﻼﻋ ﺾﻴﻔﺨﺗ ﻢﺗ ،ﺔﻴﺿﺎﻤﻟﺍ ﺔﻨﺳ ﻊﺑﺮﻟﺍ ﻝﻼﺧ</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>. ﺔﻠﻓﺎﻗ ﺔﻛﺮﻌﻤﺑ ﺯﻮﻓ</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterCaravansBattlefieldVictory>. ﺔﻛﺮﻌﻤﻟﺎﺑ ﻢﻜﺘﻠﻓﺎﻗ ﺕﺯﺎﻓ\n\n". ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ " ﺭﺎﻴﺧ ﺭﺎﻴﺘﺧﺍﻭ ﺔﻛﺮﻌﻤﻟﺍ ﺔﺣﺎﺳ ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻢﻟﺎﻌﻟﺍ ﺔﺷﺎﺷ ﻲﻓ ﻥﻵﺍ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﻢﻜﻨﻜﻤﻳ\n\n. ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻚﻟﺫ ﻞﻌﻓ ﺎﻬﻨﻜﻤﻳ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﺓﺍﺩﺃ ،ﺍًﻳﻭﺪﻳ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻤﺠﻟ ﺔﺟﺎﺣ ﻻ\n\n. ﺭﺩﺎﻐﺗﻭ ﺎﻬﻠﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﻢﺘﺗ ﻢﻟ ﺎﻣ ،ﺔﻠﻓﺎﻘﻟﺍ ﺔﻤﺟﺎﻬﻤﻟ ﺕﺍﻮﻗ ﻝﺎﺳﺭﺇ ﻲﻓ ﻥﻭﺃﺪﺒﻴﺳ. ﺀﺍﺪﻋﻷﺍ ﻦﻣ ﻡﻮﺠﻬﻟ ﻢﻜﺘﻠﻓﺎﻗ ﺽﺮﻌﺘﺘﺳ ،{0} ﻲﻓ</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>ﺫَﻘﻧُﻤﻟﺍ ﻢﻀﻨﻳ</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
+  <LetterRescueQuestFinished>. ﻚﺘﻋﻮﻤﺠﻣ ﻰﻟﺇ ّﻢﻀﻧﺍﻭ {PAWN_nameDef} َﺕﺬﻘﻧﺃ ﺪﻘﻟ</LetterRescueQuestFinished>
+  <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
+  <LetterRescueQuestFinishedCaravanExtra>". ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ " ﺮﻣﺃ ﺮﺘﺧﺍﻭ ﻊﻗﻮﻤﻟﺍ ﺍﺬﻫ ﺩﺪﺣﻭ ،ﻢﻟﺎﻌﻟﺍ ﺔﺷﺎﺷ ﺢﺘﻓﺍ ،ﻚﻟﺬﺑ ﻡﺎﻴﻘﻠﻟ. ﻚﻌﻣ {PAWN_objective} ﺏﺎﺤﻄﺻﺍ ﻥﻵﺍ ﻚﻨﻜﻤﻳ</LetterRescueQuestFinishedCaravanExtra>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
+  <LetterLabelPredatorHuntingColonist>{PREY_definite} ﺱﺍﺮﺘﻓﺍ</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <LetterPredatorHuntingColonist>!ﻡﺎﻌﻄﻠﻟ {PREY_definite} ﺩﺎﻄﺼﻳ {PREDATOR}</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>ﻰﻠﻋ {1} {0} ﺮﻈﺣ</LetterDisease_Blocked>
+  <!-- EN: Disease: {0} -->
+  <LetterLabelTraitDisease>{0}: ﺽﺮﻣ</LetterLabelTraitDisease>
+  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>.{1} ﻦﻣ ﺽﺮﻤﺑ {PAWN_label} ﺐﻴﺻﺃ\n\n. ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻦﻣ ﻦﻜﻤﻣ ﺭﺪﻗ ﺮﺒﻛﺃ ﺀﺎﻀﻗﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ {PAWN_pronoun} ﻝﻮﺼﺣ ﻦﻣ ﺪﻛﺄﺗ. ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ</LetterTraitDisease>
+
+  <!-- Quests -->
+  <!-- EN: Quest available: {0} -->
+  <LetterLabelQuestAvailableTitle>{0}: ﺔﺣﺎﺘﻣ ﺔﻤﻬﻣ</LetterLabelQuestAvailableTitle>
+  <!-- EN: Quest active: {0} -->
+  <LetterLabelQuestAutomaticallyAcceptedTitle>{0}: ﺔﻄﺸﻧ ﺔﻤﻬﻣ</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <!-- EN: {DISCOVEREDFROM} a new quest. -->
+  <LetterNewQuest>.{DISCOVEREDFROM} ﻦﻣ ﺓﺪﻳﺪﺟ ﺔﻤﻬﻣ ﻑﺎﺸﺘﻛﺍ ﻢﺗ</LetterNewQuest>
+  <!-- EN: A new quest is available. -->
+  <LetterNewQuestFromUnknown>. ﺔﺣﺎﺘﻣ ﺓﺪﻳﺪﺟ ﺔﻤﻬﻣ</LetterNewQuestFromUnknown>
+  <!-- EN: The quest is called '{0}'. -->
+  <LetterQuestIsNamed>'.{0} 'ﺔﻤﻬﻤﻟﺍ ﻰﻤﺴﺗ</LetterQuestIsNamed>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>.{0} ﻲﻓ ﻪﺘﻴﺣﻼﺻ ﻲﻬﺘﻨﻴﺳ</LetterQuestActiveNowTime>
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
+  <LetterQuestRequiresAcceptance>. ﺎﻬﺘﻴﺣﻼﺻ ﻲﻬﺘﻨﺘﺴﻓ ،{0} ﻝﻼﺧ ﺔﻤﻬﻤﻟﺍ ﻞﺒﻘﺗ ﻢﻟ ﺍﺫﺇ</LetterQuestRequiresAcceptance>
+  <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered -->
+  <QuestDiscoveredFromBook>ﻒﺸﺘﻛﺍ ،{BOOK_labelNoParenthesis} ﺃﺮﻘﻳ {READER_nameDef} ﻥﺎﻛ ﺎﻤﻨﻴﺑ</QuestDiscoveredFromBook>
+  <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
+  <QuestDiscoveredFromTrader>ـﺏ {NEGOTIATOR_nameDef} ﻢﻠﻋ ،{TRADER_nameDef} ﺮﺟﺎﺘﻟﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﺀﺎﻨﺛﺃ</QuestDiscoveredFromTrader>
+  <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
+  <QuestDiscoveredFromBeggar>.{GIVER_nameDef} ﻊﻣ ﺍًﺮﺳ {RECEIVER_nameDef} ﻝﻮﺴﺘﻤﻟﺍ ﻙﺭﺎﺷ ،ﻚﺘﻗﺪﺼﻟ {RECEIVER_possessive} ﻥﺎﻨﺘﻣﺍ ﺭﺎﻬﻇﻹ\n\nـﺏ ﺖﻤﻠﻋ ﺪﻘﻟ</QuestDiscoveredFromBeggar>
+  <!-- EN: You have discovered -->
+  <QuestDiscoveredFromDebug>ﺖﻔﺸﺘﻛﺍ ﺪﻘﻟ</QuestDiscoveredFromDebug>
+
+  <!-- Quest drop pods arrived -->
+  <!-- EN: Pods arrived -->
+  <LetterLabelQuestDropPodsArrived>. ﺕﻻﻮﺴﺒﻜﻟﺍ ﺖﻠﺻﻭ</LetterLabelQuestDropPodsArrived>
+  <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
+  <LetterQuestDropPodsArrived>: ﻲﻠﻳ ﺎﻣ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>. ﺮﺻﺎﻨﻋ {CARAVAN_label} ﻰﻘﻠﺗ</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>: ﺔﻴﻟﺎﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ {CARAVAN_label} ﻰﻘﻠﺗ\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+
+  <!-- Refugee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} ﻢﻀﻨﻳ</LetterLabelRefugeeJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
+  <LetterRefugeeJoins>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻢﻀﻨﻳﻭ {PAWN_nameDef} ﻪﻤﺳﺍ {PAWN_title} ﻞﺻﻭ</LetterRefugeeJoins>
+  
+  <!-- Rescuee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef} ﻢﻀﻨﻳ</LetterLabelRescueeJoins>
+  <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
+  <LetterRescueeJoins>. ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻟﺇ ﻢﻀﻨﻳﻭ ،ﺓﺭﺩﺎﻐﻤﻟﺍ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﻞﻀﻔﻳ ﻪﻧﺃ {PAWN_pronoun} ﺭﺮﻗ ﺪﻘﻟ. {PAWN_objective} ﺕﺬﻘﻧﺃ ﻚﻧﻷ ﻦﺘﻤﻣ {PAWN_nameDef}</LetterRescueeJoins>
+
+  <!-- Pawns arrive and join -->
+  <!-- EN: People join -->
+  <LetterLabelPawnsArriveAndJoin>ﺱﺎﻨﻟﺍ ﻢﻀﻨﻳ</LetterLabelPawnsArriveAndJoin>
+  <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
+  <LetterPawnsArriveAndJoin>: ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺍﻮﻤﻀﻧﺍﻭ ﻥﻮﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻞﺻﻭ\n\n{0}</LetterPawnsArriveAndJoin>
+
+  <!-- Pawns arrive -->
+  <!-- EN: People arrived -->
+  <LetterLabelPawnsArrive>. ﺹﺎﺨﺷﺃ ﻞﺻﻭ</LetterLabelPawnsArrive>
+  <!-- EN: The following people have arrived:\n\n{0} -->
+  <LetterPawnsArrive>: ﻥﻮﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻞﺻﻭ\n\n{0}</LetterPawnsArrive>
+
+  <!-- Pawn leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnLeaving>ﺭﺩﺎﻐﻣ {0}</LetterLabelPawnLeaving>
+  <!-- EN: {0} is leaving. -->
+  <LetterPawnLeaving>. ﺭﺩﺎﻐﻳ {0}</LetterPawnLeaving>
+
+  <!-- Pawns leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnsLeaving>ﺭﺩﺎﻐﻣ {0}</LetterLabelPawnsLeaving>
+  <!-- EN: {0} are leaving. -->
+  <LetterPawnsLeaving>. ﻥﻭﺭﺩﺎﻐﻳ {0}</LetterPawnsLeaving>
+  
+  <!-- Colonist kidnapped -->
+  <!-- EN: {PAWN_nameDef} kidnapped -->
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} ﻒﻃُﺧ</LetterLabelPawnsKidnapped>
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <LetterPawnsKidnapped>¡{PAWN_nameDef} ha sido secuestrad{PAWN_gender ? o : a} por la facción {FACTION_name}!\nSin embargo, no {PAWN_objective} perderás para siempre. Existe una oportunidad para rescatar{PAWN_objective} que podrá presentarse en los próximos días... o años.</LetterPawnsKidnapped>
+  
+  <!-- Techprints -->
+  <!-- EN: Techprint applied: {PROJECT_label} -->
+  <LetterTechprintAppliedLabel>{PROJECT_label}: ﻕَّﺒﻃُﻣ ﻲﻨﻘﺗ ﻂﻄﺨﻣ</LetterTechprintAppliedLabel>
+  <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
+  <LetterTechprintAppliedPartIntro>.{PROJECT_label}: ﺚﺤﺒﻟﺍ ﻉﻭﺮﺸﻣ ﻰﻠﻋ ﻲﻨﻘﺗ ﻂﻄﺨﻣ ﻖﻴﺒﻄﺗ ﻢﺗ</LetterTechprintAppliedPartIntro>
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <LetterTechprintAppliedPartJustUnlocked>. ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺚﺤﺒﻟﺍ ﺪﻋﺎﻘﻣ ﻲﻓ ﺍًﻴﻠﻌﻓ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻦﻋ ﺚﺤﺒﻟﺍ ﻲﻓ ﺀﺪﺒﻟﺍ ﻥﻵﺍ ﻚﻴﺜﺣﺎﺒﻟ ﻦﻜﻤﻳ! ﻉﻭﺮﺸﻤﻠﻟ ﻲﻨﻘﺘﻟﺍ ﻂﻄﺨﻤﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ َﺖﻠﻤﻛﺃ ﺪﻘﻟ</LetterTechprintAppliedPartJustUnlocked>
+  <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
+  <LetterTechprintAppliedPartNotUnlockedYet>. ًﻻﺎﻤﺟﺇ {1} ﻉﻭﺮﺸﻤﻟﺍ ﺐﻠﻄﺘﻳ. ﻥﻵﺍ ﻰﺘﺣ ﺔﻴﻨﻘﺗ ﺕﺎﻄﻄﺨﻣ {0} ﻖﻴﺒﻄﺗ ﻢﺗ. ﺪﻌﺑ ﺓﺎﻓﻮﺘﺴﻣ ﺮﻴﻏ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻬﻟ ﻲﻨﻘﺘﻟﺍ ﻂﻄﺨﻤﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ</LetterTechprintAppliedPartNotUnlockedYet>
+  <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
+  <LetterTechprintAppliedPartAlreadyUnlocked>. ﺔﻄﻘﻧ {0} ﻮﻫﻭ ،ﻲﻘﺒﺘﻤﻟﺍ ﻲﺜﺤﺒﻟﺍ ﻞﻤﻌﻟﺍ ﻒﺼﻧ ﺯﺎﺠﻧﺇ ﻢﺗ. {PROJECT_label} ﻲﻓ ﻚﺜﺤﺑ ﺩﻮﻬﺟ ﻡﺪﻘﺗ ﻲﻓ ﻲﻓﺎﺿﻹﺍ ﻲﻨﻘﺘﻟﺍ ﻂﻄﺨﻤﻟﺍ ﻢﻫﺎﺳ. ﻞﻌﻔﻟﺎﺑ ﺓﺎﻓﻮﺘﺴﻣ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻬﻟ ﻲﻨﻘﺘﻟﺍ ﻂﻄﺨﻤﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ</LetterTechprintAppliedPartAlreadyUnlocked>
+  <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
+  <LetterTechprintAppliedPartAlreadyResearched>. ﺍًﻗﻼﻃﺇ ﻚﺘﻓﺮﻌﻣ ﻰﻟﺇ ﺪﻳﺪﺟ ﻲﻨﻘﺗ ﻂﻄﺨﻣ ْﻑِﺿُﻳ ﻢﻟ ﺍﺬﻟ ،ﻞﻌﻔﻟﺎﺑ ﺚﺤﺒﻟﺍ ﻞﻤﺘﻛُﻣ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ</LetterTechprintAppliedPartAlreadyResearched>
+  <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
+  <LetterTechprintAppliedPartExpAwarded>.{1} ﺓﺭﺎﻬﻣ ﻲﻓ ًﺓﺮﺒﺧ {0} {PAWN_labelShort} ﺐﺴﺘﻛﺍ ، " ﻲﻨﻘﺗ ﻂﻄﺨﻣ " ـﻝﺍ ﻖﻴﺒﻄﺗِﺑ</LetterTechprintAppliedPartExpAwarded>
+  
+  <!-- Quest Completed -->
+  <!-- EN: Quest completed -->
+  <LetterQuestCompletedLabel>ﺔﻠﻤﺘﻜﻣ ﺔﻤﻬﻣ</LetterQuestCompletedLabel>
+  <!-- EN: Quest failed -->
+  <LetterQuestFailedLabel>ﺔﻠﺷﺎﻓ ﺔﻤﻬﻣ</LetterQuestFailedLabel>
+  <!-- EN: Quest concluded -->
+  <LetterQuestConcludedLabel>ﺔﻠﻤﺘﻜﻣ ﺔﻤﻬﻣ</LetterQuestConcludedLabel>
+  <!-- EN: You have successfully completed the quest '{0}'! -->
+  <LetterQuestCompletedSuccess>'!{0} 'ﺔﻤﻬﻤﻟﺍ ﺡﺎﺠﻨﺑ َﺖﻠﻤﻛﺃ ﺪﻘﻟ</LetterQuestCompletedSuccess>
+  <!-- EN: You have failed the quest '{0}'. -->
+  <LetterQuestCompletedFail>'.{0} 'ﺔﻤﻬﻣ ﻲﻓ َﺖﻠﺸﻓ</LetterQuestCompletedFail>
+  <!-- EN: You have concluded the quest '{0}'. -->
+  <LetterQuestCompletedConcluded>'.{0} 'ﺔﻤﻬﻤﻟﺍ ﻦﻣ َﺖﻴﻬﺘﻧﺍ ﺪﻘﻟ</LetterQuestCompletedConcluded>
+
+  <!-- Bladelink -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>{PAWN_labelShort}: ﺔﻴﺼﺨﺷ ﻂﺑﺍﺭ</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ha establecido un vínculo con la Inteligencia Artificial de esta arma: {WEAPON_labelShort}.\nDe ahora en adelante, {WEAPON_labelShort} se negará a ser usada por nadie que no sea {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  
+  <!-- Mech cluster -->
+  <!-- EN: Mechanoids arrived -->
+  <LetterLabelMechClusterArrived>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺖﻠﺻﻭ</LetterLabelMechClusterArrived>
+  <!-- EN: Mechanoids have arrived. -->
+  <LetterMechClusterArrived>. ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺖﻠﺻﻭ</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>ﺔﻓَﺷَﺘﻛُﻣ ﺔﻠﻓﺎﻗ</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>. ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ {2} ﻦﻣ {1} ﺕﺍﺰﻳﺰﻌﺗ ﻝﻮﺻﻭ ﺃﺪﺒﻴﺳ ،{0} ﻲﻓ. ﻢﻜﺘﻠﻓﺎﻗ ﺪﺻﺭ ﻢﺗ\n\n. ﻢﻬﻟﻮﺻﻮﻟ ﺍًﻴﻟﺯﺎﻨﺗ ﺪﻌﻳ ﺖﻗﺆﻣ ﻥﻵﺍ ﺪﺟﻮﻳ. {1} ﺐﻨﺠﺘﻟ ﻙﺮﺤﺘﻟﺍ ﺍﻭﺃﺪﺑﺍﻭ ﻢﻜﺘﻠﻓﺎﻗ ﻢﻴﻈﻨﺗ ﺪﻴﻋﺃ</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>ﺖﺑﺎﺛ ﻦﻴﺠﺳ</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>. ﺍًﻗﻼﻃﺇ ﺪﻴﻨﺠﺘﻟﺍ ﻞﺒﻘﻳ ﻦﻟﻭ ﻪﻨﻃﻮﻟ ﺓﺪﺸﺑ ﺺﻠﺨﻣ {PAWN_nameDef}\n\n. ﻩﺪﻳﺪﺤﺗ ﻝﻼﺧ ﻦﻣ ﺓﺪﺸﺑ ﺍًﺼﻠﺨﻣ ﺎﻣ ﺺﺨﺷ ﻥﺎﻛ ﺍﺫﺇ ﺎﻣ ﺔﻓﺮﻌﻣ ﻚﻨﻜﻤﻳ</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>{PAWN_objective} ﺪﺒﻌﺘﺳﺍ</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>).ﺔﻨﻔﻌﺘﻤﻟﺍ ﺚﺜﺠﻟﺍ ﻦﻣ ﺚﻌﺒﻨﻳ ﻱﺬﻟﺍ (ﻦﻔﻌﺘﻟﺍ ﻦﺘﻧ ﺯﺎﻐﻟ ﺪﻣﻷﺍ ﻞﻳﻮﻃ ﺽﺮﻌﺘﻟﺍ ﺔﺠﻴﺘﻧ {1} ﺐﺒﺴﺑ ﺽﺮﻤﺑ {PAWN} ﺐﻴﺻﺃ\n\n. ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ {PAWN_definite} ﻝﻮﺼﺣ ﻦﻣ ﺪﻛﺄﺗ. ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>{PAWN_nameDef}: ﻡﺎﻤﻀﻧﺍ ﺽﺮﻋ</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>. ﻚﺘﻠﻴﺼﻓ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺎﺑ {PAWN_nameDef} ﺐﻏﺮﻳ</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>. ﻢﺋﺍﺩ ﻞﻜﺸﺑ ﻚﻴﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ {PAWN_pronoun} ﺐﻏﺮﻳ. {MAP_definite} ﻲﻓ ﺪﻴﻌﺳ {PAWN_pronoun} ﻥﺃ {PAWN_nameDef} ﺪﻘﺘﻌﻳ</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>ﻝﻮﺒﻗ</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>.{ORGANIZER_possessive} ﺏﺎﻄﺧ ﻦﻣ {ORGANIZER_labelShort} ﻰﻬﺘﻧﺍ</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>. ﺔﻧﺰﺤﻤﻟﺍ ﺺﺼﻘﻟﺍﻭ ﺔﺟﺮﺤﻤﻟﺍ ﺕﺎﻜﻨﻟﺎﺑ ﺍًﺌﻴﻠﻣ ،ﺍًﻔﻗﻮﺘﻣ – ﺍًﻘﺣ ﺍًﻌﻴﻈﻓ ﺮﻣﻷﺍ ﻥﺎﻛ</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>. ﻒﻐﺸﻟﺎﺑ ﺭﻮﻌﺷ ﻱﺃ ﻰﻟﺇ ﺮﻘﺘﻔﻳﻭ ،ﺍًﺒﻴﺗﺭ ،ﻞﻴﺻﺃ ﺮﻴﻏ - ﺍًﻠﻣُﻣ ﻥﺎﻛ</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>. ﺪﻴﺟ ﻞﻜﺸﺑ ﺍًﻣﺪﻘﻣﻭ ﺍًﻌﺠﺸﻣ ﻥﺎﻛ</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>. ﻑﺪﻬﻟﺍﻭ ﺔﻓﺎﺜﻜﻟﺎﺑ ﺍًﺌﻴﻠﻣ ،ﺔﻳﺎﻐﻠﻟ ﺍًﻤﻬﻠﻣ ﻚﻟﺫ ﻥﺎﻛ</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>: ﻥﻮﻤﻬﻠﻣ ﻥﻵﺍ ﻢﻫﻭ ﺏﺎﻄﺨﻟﺎﺑ ﺹﺎﺧ ﻞﻜﺸﺑ ﻥﻮﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺮﺛﺄﺗ</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>!ﻡﺎﻬﻟﻹﺎﺑ {PAWN_nameIndef} ﺮﻌﺷ ،ﻊﺋﺍﺮﻟﺍ {SPEAKER_nameIndef} ﺏﺎﻄﺧ ﻞﻀﻔﺑ</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>. ﻲﻐﺒﻨﻳ ﺎﻤﻛ ﺍًﻟﺎﻌﻓ ﻦﻜﻳ ﻢﻟ ،ﻂﻘﻓ {0} ﻝﺎﻤﻛﺇ ﺪﻌﺑ ﺏﺎﻄﺨﻟﺍ ﻉﺎﻄﻘﻧﻻ ﺍًﺮﻈﻧ</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>. ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﻦﻜﻳ ﻢﻟ. ﻝﺎﻤﺘﻛﻻﺍ ﻦﻣ ٪ 50 ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻞﺒﻗ {0} ﺏﺎﻄﺧ ﺀﺎﻐﻟﺇ ﻢﺗ</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>ﻡﻼﻜﻟﺍ ﺀﺎﻐﻟﺇ ﻢﺗ</LetterLabelSpeechCancelled>
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>ﻰﻄﻌﻣ ﺀﺍﻭﺩ</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>ٍّﻮﻗُﻣ ﻰﻄﻋُﻣ ﺀﺍﻭﺩ</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>ﻰﻄﻋُﻣ ﻲﻬﻴﻓﺮﺗ ﺀﺍﻭﺩ</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>ﻱﺮﺸﺑ ﻢﺤﻟ ﻞﻛﺃ</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>ﻰﻨﺒﻣ ﺀﺎﻨﺑ</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>ﻢﻀﻨﻤﻟﺍ ﺾﻓﺭ</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>ﺓﺮﺠﺷ ﻊﻄﻗ</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>ﺮﻣﺪﻣ ﻲﻌﻴﺒﻃ ﺭﺍﺪﺟ</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>ﻝَﻤﻋَﺘﺳُﻣ ﺀﺍﻭﺩ</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>ﻝَﻤﻋَﺘﺳُﻣ ﺐﻠﺻ ﺭِّﺪﺧُﻣ</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>ﻞﻤﻌﺘﺴﻣ ﻲﻬﻴﻓﺮﺗ ﺭِّﺪﺧُﻣ</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>ﺖﺒﺜﻣ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>ﺝﺮﺨﺘﺴﻣ</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>ﺖﺗﺎﻣ ﺓﺮﺠﺷ</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>ﺚﺤﺑ</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>ﻉﻭﺭﺰﻣ ﻲﺋﺍﺬﻏ ﺕﺎﺒﻧ</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>ﻉﻭﺭﺰﻣ ﺕﺎﺒﻧ</SowedPlant.label>
+  
+</LanguageData>

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>TargetA. ﻞﻴﻠﺤﺗ</AnalyzeItem.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>TargetA. ﻝﺎﻘﺘﻋﺍ</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>. ﻒﻘﺳ ﺀﺎﻨﺑ</BuildRoof.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>TargetA. ﺮﺳﺃ</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TargetA. ﻞﻣﺎﺣ</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>TargetA. ﻞﻣﺎﺣ</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>TargetA. ﻞﻣﺎﺣ</CarryDownedPawnToPortal.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ TargetA ُﻝْﻣَﺣ</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ TargetA ُﻝْﻣَﺣ</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TargetA. ﻝﺎﻘﺘﻋﺍ</CarryToPrisonerBedDrafted.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>TargetA. ﻒﻴﻈﻨﺗ</Clean.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>TargetA. ﻊﻄﻗ</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>TargetA. ﻊﻄﻗ</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>TargetA. ﻚﻴﻜﻔﺗ</Deconstruct.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>TargetA. ﻚﻴﻜﻔﺗ</DeconstructForBlueprint.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>TargetB. ﻰﻟﺇ TargetA ﻡﺎﻌﻃﺇ</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>TargetA. ﺪﻨﻋ ﺔﻤﻬﻣ ﺬﻴﻔﻨﺗ</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>TargetA. ﻦﻴﺠﺳ ﺔﻘﻓﺍﺮﻣ</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>TargetA. ﻦﻣ ﺔﻤﺠﻤﺟ ﺝﺍﺮﺨﺘﺳﺍ</ExtractSkull.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>TargetA. ﺝﺍﺮﺨﺘﺳﺍ</ExtractTree.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>TargetB. ﻰﻟﺇ TargetA ﻡﺎﻌﻃﺇ</FeedPatient.reportString>
+  
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>TargetA. ﺀﻠﻣ</FillIn.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>TargetA. ﺀﺎﻨﺑ</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>TargetA. ﻲﻓ ﺔﻠﻄﻌﻣ ﺕﺎﻧﻮﻜﻣ ﻝﺍﺪﺒﺘﺳﺍ</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TargetA. ﺬﻴﻔﻨﺗ</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>TargetA. ﻕﺍﺮﺘﺧﺍ</Hack.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>TargetA. ﻲﻨﺟ</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>TargetA. ﻲﻨﺟ</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>TargetA. ﻞﻘﻧ</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>TargetA. ﻞﻘﻧ</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>TargetA. ﺪﻴﺻ</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>TargetA. ﻑﺎﻄﺘﺧﺍ</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>TargetA. ﺐﻠﺣ</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>TargetA. ﻲﻓ ﺮﻔﺣ</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>TargetA. ﻲﻓ ﺮﻔﺣ</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>TargetA. ﺪﻨﻋ ﺢﺴﻣ</OperateScanner.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>TargetA. ﺀﻼﻃ</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>TargetA. ﺀﻼﻃ</PaintFloor.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>TargetA. ﺀﺎﻨﺑ</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>TargetA. ﺔﻋﺍﺭﺯ</PlantSeed.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>TargetA. ﺪﻴﻨﺠﺗ ﺔﻟﻭﺎﺤﻣ</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>TargetA. ﺬﻴﻔﻨﺗ</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>. ﺔﻳﺮﺒﻟﺍ ﻲﻓ TargetA ﻕﻼﻃﺇ</ReleaseAnimalToWild.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>TargetA. ﻕﻼﻃﺇ</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>. ﺔﻴﺿﺭﺃ ﺔﻟﺍﺯﺇ</RemoveFloor.reportString>
+  
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>. ﺱﺎﺳﻷﺍ ﺔﻟﺍﺯﺇ</RemoveFoundation.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>TargetA. ﻦﻣ ﺀﻼﻄﻟﺍ ﺔﻟﺍﺯﺇ</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>TargetA. ﻦﻣ ﺀﻼﻄﻟﺍ ﺔﻟﺍﺯﺇ</RemovePaintFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>. ﻒﻘﺳ ﺔﻟﺍﺯﺇ</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>TargetA. ﺡﻼﺻﺇ</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>TargetA. ﺔﻋﺍﺭﺯ ﺓﺩﺎﻋﺇ</Replant.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>TargetA. ﺫﺎﻘﻧﺇ</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>. ﺚﺤﺒﻳ</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>. ﻂﺑﺮﻟﺍ ﺔﻄﻘﻧ ﻰﻟﺇ TargetA ﺓﺩﺎﻴﻗ</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TargetC. ﻰﻟﺇ TargetA ﺓﺩﺎﻴﻗ</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TargetC. ﻰﻟﺇ TargetA ﺓﺩﺎﻴﻗ</RopeToPen.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>TargetA. ّﺺﻗ</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>TargetA. ﺢﺑﺫ</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>. ﺔﻴﺿﺭﺃ ﺔﻳﻮﺴﺗ</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>. ﺭﺍﺪﺟ ﻢﻴﻌﻨﺗ</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>TargetA. ﺭﺬﺑ</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>TargetA. ﺔﻗﺮﺳ</Steal.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyInteract.reportString>TargetA. ﺔﺳﺍﺭﺩ</StudyInteract.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyItem.reportString>TargetA. ﺔﺳﺍﺭﺩ</StudyItem.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>. ﺵﺍﺮﻔﻟﺍ ﻰﻟﺇ TargetA ﺬﺧﺃ</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>. ﺵﺍﺮﻔﻟﺍ ﻰﻟﺇ TargetA ﺬﺧﺃ</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>TargetA. ﺢﻳﺮﺟ ﺮﻴﺳﺃ ﺬﺧﺃ</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>TargetA. ﺐﻳﺭﺪﺗ</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>TargetA. ـﺏ ﺔﻳﺎﻨﻌﻟﺍ</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>TargetA. ﺐﻳﺭﺪﺗ</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>TargetA. ﺔﻟﺍﺯﺇ</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TargetA. ﻂﺑﺭ ﻚﻓ</Unrope.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>. ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ</UseCommsConsole.reportString>
+  
+</LanguageData>

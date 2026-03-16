@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>ﺔﻳﺪﺠﺑﺃ ﺱﺩﺎﻨﻗ</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>ﺎﻳﺯﻭﺮﺒﻣﺃ ﻢﻋﺮﺑ</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>ﺎﻳﺯﻭﺮﺒﻣﺃ ﻢﻋﺍﺮﺑ</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>. ﺍًﻠﻴﻠﻗ ﺔﻴﻧﺎﻣﺩﻹﺍﻭ ﺔﻌﺘﻤﻤﻟﺍﻭ ﺓﺬﻳﺬﻠﻟﺍ ﺭﺎﻤﺜﻟﺍ ﺩﺎﺼﺣ ﻦﻣ َﻦﻜﻤﺘﺗ ﻑﻮﺴﻓ ،ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻧ َﺕﺮﻈﺘﻧﺍ ﺍﺫﺇ! ﺏﺮﻘﻟﺎﺑ ﺔﻀﻣﺎﻐﻟﺍ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺓﺮﻴﺠﺷ ﻦﻣ ﺔﻧﺎﺘﺴﺑ ﺕﺮﻬﻇ</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>ﺩﺮﺑ ﺔﺟﻮﻣ</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>ﺩﺮﺑ ﺔﺟﻮﻣ</ColdSnap.letterLabel><!-- EN: Cold snap -->
+  <ColdSnap.letterText>ﻊﻴﻘﺻ ﺔﺟﻮﻣ</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>ﻞﻴﺻﺎﺤﻤﻟﺍ ﺔﻓﺁ</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>ﺔﻋﺭﺰﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ ﻝّﻮﺠﺗ</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>ﺔﻴﻗﺮﺑ ﺔﻔﺻﺎﻋ</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>ﺔﻴﻗﺮﺑ ﺔﻔﺻﺎﻋ</Flashstorm.letterLabel><!-- EN: Flashstorm -->
+  <Flashstorm.letterText>ﺔﻴﻗﺮﺑ ﺔﻔﺻﺎﻋ</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>ﺓﺭﺍﺮﺣ ﺔﺟﻮﻣ</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>ﺮﺣ ﺔﺟﻮﻣ</HeatWave.letterLabel><!-- EN: Heat wave -->
+  <HeatWave.letterText>ﺓﺭﺍﺮﺣ ﺔﺟﻮﻣ</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>ﻊﻴﻄﻘﻟﺍ ﺓﺮﺠﻫ</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>{0}: ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﺠﻫ</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>. ﺔﻘﻄﻨﻤﻟﺍ ﺮﺒﻋ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺮﻤﺗ\n\n. ﺍﻭﺰﻔﺘﺴﻳ ﻢﻟ ﺎﻣ ﺍﻮﻤﺟﺎﻬﻳ ﻦﻟ</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>ﻲﻛﺰﻴﻧ ﻡﺍﺪﻄﺻﺍ</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>ﺏﺎﻬﺷ</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>.{0} ﻦﻣ ﺔﻠﺘﻛ ﻩﺀﺍﺭﻭ ﻙﺮﺗ ﺪﻗﻭ. ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺽﺭﻷﺍ ﺮﻴﺒﻛ ﻙﺰﻴﻧ ﺏﺮﺿ</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>ﺔﻴﺴﻔﻧ ﺔﺟﻮﻣ</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>ﺔﻴﺴﻔﻧ ﺔﺋﺪﻬﺗ</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>ﺔﻳﺪﻓ ﺐﻠﻃ</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>ﺔﻳﺪﻓ ﺐﻠﻃ</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻢﻄﺤﺗ</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>ﺩﺭﺍﻮﻣ ﺔﻟﻮﺴﺒﻛ ﻢﻄﺤﺗ</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>ﻲﺗﺍﺫ ﻦﻴﺟﺪﺗ</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>ﺓﺮﻴﺼﻗ ﺓﺮﺋﺍﺩ</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>ﺕﺎﻫﻮﺒﻣﻭﺮﺛ ﺭﻭﺮﻣ</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>ﻡﺎﺳ ﻂﻗﺎﺴﺗ</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>ﻡﺎﺳ ﻂﻗﺎﺴﺗ</ToxicFallout.letterLabel><!-- EN: Toxic fallout -->
+  <ToxicFallout.letterText>ﻡﺎﺳ ﻂﻗﺎﺴﺗ</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>ﻲﻧﺎﻛﺮﺑ ﺀﺎﺘﺷ</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>ﻲﻧﺎﻛﺮﺑ ﺀﺎﺘﺷ</VolcanicWinter.letterLabel><!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterText>ﻲﻧﺎﻛﺮﺑ ﺀﺎﺘﺷ</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>ﻝﻮﺠﺘﻣ ﻡﺎﻤﻀﻧﺍ</WandererJoin.label><!-- EN: wanderer join -->
+  <WandererJoin.letterLabel>ﻝﻮﺠﺘﻣ ﻡﺎﻤﻀﻧﺍ</WandererJoin.letterLabel><!-- EN: wanderer join -->
+  <WandererJoin.letterText>ﻝﻮﺠﺘﻣ ﻢﻀﻨﻣ</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>ﻝﻮﺠﺘﻳ ﻱﺮﺑ ﻞﺟﺭ</WildManWandersIn.label>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>{0} ﻝّﻮﺠﺘﻳ</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>{PAWN_gender ? .{0} {PAWN_pronoun} ﻰﻋﺩُﺗ. ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻴﺑ ﺶﻴﻌﺗ {1} ﺖﻠﺻﻭ\n\n.{PAWN_objective} ﺾﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ : .{0} {PAWN_pronoun} ﻰﻋﺩُﻳ. ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻴﺑ ﺶﻴﻌﻳ {1} ﻞﺻﻭ\n\n.{PAWN_objective} ﺾﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ}</WildManWandersIn.letterText>
+  
+</LanguageData>

@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administrar ambrosía -->
+  <Administer_Ambrosia.label>ﺎﻳﺯﻭﺮﺒﻣﺃ ﺀﺎﻄﻋﺇ</Administer_Ambrosia.label>
+  <!-- EN: Administrando ambrosía. -->
+  <Administer_Ambrosia.jobString>. ﺎﻴﺳﻭﺮﺒﻣﺃ ﺀﺎﻄﻋﺇ</Administer_Ambrosia.jobString>
+  
+  <!-- EN: administrar cerveza -->
+  <Administer_Beer.label>ﺔﻌﺟ ﺀﺎﻄﻋﺇ</Administer_Beer.label>
+  <!-- EN: Administrando cerveza. -->
+  <Administer_Beer.jobString>. ﺔﻌﺠﻟﺍ ﻢﻳﺪﻘﺗ</Administer_Beer.jobString>
+  
+  <!-- EN: administrar escamas -->
+  <Administer_Flake.label>ﺭﻮﺸﻗ ﺓﺭﺍﺩﺇ</Administer_Flake.label>
+  <!-- EN: Administrando escamas. -->
+  <Administer_Flake.jobString>. ﻒﺷﺍﺮﺤﻟﺍ ﺓﺭﺍﺩﺇ</Administer_Flake.jobString>
+  
+  <!-- EN: administrar neurozumo -->
+  <Administer_GoJuice.label>ﻮﻣﻭﺯﻭﺭﻮﻴﻧ ﺀﺎﻄﻋﺇ</Administer_GoJuice.label>
+  <!-- EN: Administrando neurozumo. -->
+  <Administer_GoJuice.jobString>. ﻮﻣﻭﺯﻭﺭﻮﻴﻧ ﺀﺎﻄﻋﺇ</Administer_GoJuice.jobString>
+  
+  <!-- EN: administrar luciferio -->
+  <Administer_Luciferium.label>ﻡﻮﻳﺮﻴﻔﻴﺳﻮﻟ ﺀﺎﻄﻋﺇ</Administer_Luciferium.label>
+  <!-- EN: Administrando luciferio. -->
+  <Administer_Luciferium.jobString>. ﻦﻳﺮﻔﻴﺳﻮﻟ ﺀﺎﻄﻋﺇ</Administer_Luciferium.jobString>
+  
+  <!-- EN: administrar penoxicilina -->
+  <Administer_Penoxycyline.label>ﻦﻴﻠﻴﺴﻛﻮﻨﺑ ﺀﺎﻄﻋﺇ</Administer_Penoxycyline.label>
+  <!-- EN: Administrando penoxicilina. -->
+  <Administer_Penoxycyline.jobString>. ﻦﻴﻠﻴﺴﻛﻮﻨﺑ ﺀﺎﻄﻋﺇ</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: administrar té psicoide -->
+  <Administer_PsychiteTea.label>ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﺀﺎﻄﻋﺇ</Administer_PsychiteTea.label>
+  <!-- EN: Administrando té psicoide. -->
+  <Administer_PsychiteTea.jobString>. ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﺀﺎﻄﻋﺇ</Administer_PsychiteTea.jobString>
+  
+  <!-- EN: administrar canuto de hojahumeante -->
+  <Administer_SmokeleafJoint.label>ﺉِّﺪﻫُﻣ ﻮﺗﻮﻧﺎﻛ ﺀﺎﻄﻋﺇ</Administer_SmokeleafJoint.label>
+  <!-- EN: Administrando canuto de hojahumeante. -->
+  <Administer_SmokeleafJoint.jobString>. ﻥﺎﺧﺪﻟﺍ ﺕﺎﺒﻧ ﻦﻣ ﺓﺭﺎﺠﻴﺳ ﺀﺎﻄﻋﺇ</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: administrar despertar -->
+  <Administer_WakeUp.label>ﻪﻴﺒﻨﺗ ﺓﺭﺍﺩﺇ</Administer_WakeUp.label>
+  <!-- EN: Administrando despertar. -->
+  <Administer_WakeUp.jobString>. ﻂﻴﺸﻨﺗ ﺔﻴﻠﻤﻋ ﺀﺍﺮﺟﺇ</Administer_WakeUp.jobString>
+  
+  <!-- EN: administrar yayo -->
+  <Administer_Yayo.label>ﻮﻳﺎﻳ ﺓﺭﺍﺩﺇ</Administer_Yayo.label>
+  <!-- EN: Administrando yayo. -->
+  <Administer_Yayo.jobString>. ﻮﻳﺎﻳ ﺓﺭﺍﺩﺇ</Administer_Yayo.jobString>
+  
+  <!-- EN: fabricar casco avanzado -->
+  <Make_Apparel_AdvancedHelmet.label>ﺓﺭﻮﻄﺘﻣ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_AdvancedHelmet.label>
+  <!-- EN: Fabrica un casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.description>. ﺓﺭﻮﻄﺘﻣ ﺓﺫﻮﺧ ﻊﻨﺻﺍ</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Fabricando casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.jobString>. ﺓﺭﻮﻄﺘﻣ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: fabricar camiseta -->
+  <Make_Apparel_BasicShirt.label>ﺺﻴﻤﻗ ﻊﻨﺻ</Make_Apparel_BasicShirt.label>
+  <!-- EN: Fabrica una camiseta. -->
+  <Make_Apparel_BasicShirt.description>. ﺍًﺼﻴﻤﻗ ﻊﻨﺻﺍ</Make_Apparel_BasicShirt.description>
+  <!-- EN: Fabricando camiseta. -->
+  <Make_Apparel_BasicShirt.jobString>. ﺺﻴﻤﻗ ﻊﻨﺻ</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: fabricar bombín -->
+  <Make_Apparel_BowlerHat.label>ﺮﻟﻮﺑ ﺔﻌﺒﻗ ﻊﻨﺻ</Make_Apparel_BowlerHat.label>
+  <!-- EN: Fabrica un bombín. -->
+  <Make_Apparel_BowlerHat.description>. ﺮﻟﻮﺑ ﺔﻌﺒﻗ ﻊﻨﺻﺍ</Make_Apparel_BowlerHat.description>
+  <!-- EN: Fabricando bombín. -->
+  <Make_Apparel_BowlerHat.jobString>. ﺮﻟﻮﺑ ﺔﻌﺒﻗ ﻊﻨﺻ</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: fabricar capa -->
+  <Make_Apparel_Cape.label>ﺀﺍﺩﺭ ﻊﻨﺻ</Make_Apparel_Cape.label>
+  <!-- EN: Fabrica una capa. -->
+  <Make_Apparel_Cape.description>. ًﺀﺍﺩﺭ ﻊﻨﺻﺍ</Make_Apparel_Cape.description>
+  <!-- EN: Fabricando capa. -->
+  <Make_Apparel_Cape.jobString>. ﺀﺍﺩﺭ ﻊﻨﺻ</Make_Apparel_Cape.jobString>
+  
+  <!-- EN: fabricar camisa -->
+  <Make_Apparel_CollarShirt.label>ﺺﻴﻤﻗ ﻊﻨﺻ</Make_Apparel_CollarShirt.label>
+  <!-- EN: Fabrica una camisa. -->
+  <Make_Apparel_CollarShirt.description>. ﺍًﺼﻴﻤﻗ ﻊﻨﺻﺍ</Make_Apparel_CollarShirt.description>
+  <!-- EN: Fabricando camisa. -->
+  <Make_Apparel_CollarShirt.jobString>. ﺺﻴﻤﻗ ﻊﻨﺻ</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: fabricar sombrero de vaquero -->
+  <Make_Apparel_CowboyHat.label>ﺮﻘﺒﻟﺍ ﺓﺎﻋﺭ ﺔﻌﺒﻗ ﻊﻨﺻ</Make_Apparel_CowboyHat.label>
+  <!-- EN: Fabrica un sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.description>. ﺮﻘﺒﻟﺍ ﺓﺎﻋﺭ ﺔﻌﺒﻗ ﻊﻨﺻﺍ</Make_Apparel_CowboyHat.description>
+  <!-- EN: Fabricando sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.jobString>. ﺮﻘﺒﻟﺍ ﺓﺎﻋﺭ ﺔﻌﺒﻗ ﻊﻨﺻ</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: fabricar gabardina -->
+  <Make_Apparel_Duster.label>ٍﻕﺍﻭ ﻒﻄﻌﻣ ﻊﻨﺻ</Make_Apparel_Duster.label>
+  <!-- EN: Fabrica una gabardina. -->
+  <Make_Apparel_Duster.description>. ﺍًﻴﻗﺍﻭ ﺍًﻔﻄﻌﻣ ﻊﻨﺻﺍ</Make_Apparel_Duster.description>
+  <!-- EN: Fabricando gabardina. -->
+  <Make_Apparel_Duster.jobString>. ﺮﻄﻤﻟﺍ ﻦﻣ ﻕﺍﻭ ﻒﻄﻌﻣ ﻊﻨﺻ</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: fabricar chaqueta antibalas -->
+  <Make_Apparel_FlakJacket.label>ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_FlakJacket.label>
+  <!-- EN: Fabrica una chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.description>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻﺍ</Make_Apparel_FlakJacket.description>
+  <!-- EN: Fabricando chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.jobString>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_FlakJacket.jobString>
+  
+  <!-- EN: fabricar pantalón antibalas -->
+  <Make_Apparel_FlakPants.label>ٍﻕﺍﻭ ﻥﻮﻠﻄﻨﺑ ﻊﻨﺻ</Make_Apparel_FlakPants.label>
+  <!-- EN: Fabrica un pantalón antibalas. -->
+  <Make_Apparel_FlakPants.description>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺍًﻴﻗﺍﻭ ﺍًﻟﺎﻄﻨﺑ ﻊﻨﺻﺍ</Make_Apparel_FlakPants.description>
+  <!-- EN: Fabricando pantalón antibalas. -->
+  <Make_Apparel_FlakPants.jobString>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ٍﻕﺍﻭ ﻥﻮﻠﻄﻨﺑ ﻊﻨﺻ</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: fabricar chaleco antibalas -->
+  <Make_Apparel_FlakVest.label>ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_FlakVest.label>
+  <!-- EN: Fabrica un chaleco antibalas. -->
+  <Make_Apparel_FlakVest.description>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻﺍ</Make_Apparel_FlakVest.description>
+  <!-- EN: Fabricando chaleco antibalas. -->
+  <Make_Apparel_FlakVest.jobString>. ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: fabricar capucha -->
+  <Make_Apparel_HatHood.label>ﺱﺃﺭ ﺀﺎﻄﻏ ﻊﻨﺻ</Make_Apparel_HatHood.label>
+  <!-- EN: Fabrica una capucha. -->
+  <Make_Apparel_HatHood.description>. ﺱﺃﺭ ﺀﺎﻄﻏ ﻊﻨﺻﺍ</Make_Apparel_HatHood.description>
+  <!-- EN: Fabricando capucha. -->
+  <Make_Apparel_HatHood.jobString>. ﺱﺃﺮﻠﻟ ﺀﺎﻄﻏ ﻊﻨﺻ</Make_Apparel_HatHood.jobString>
+  
+  <!-- EN: fabricar chaqueta -->
+  <Make_Apparel_Jacket.label>ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_Jacket.label>
+  <!-- EN: Fabrica una chaqueta. -->
+  <Make_Apparel_Jacket.description>. ﺓﺮﺘﺳ ﻊﻨﺻﺍ</Make_Apparel_Jacket.description>
+  <!-- EN: Fabricando chaqueta. -->
+  <Make_Apparel_Jacket.jobString>. ﺓﺮﺘﺳ ﻊﻨﺻ</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: fabricar pantalón -->
+  <Make_Apparel_Pants.label>ﻥﻮﻠﻄﻨﺑ ﻊﻨﺻ</Make_Apparel_Pants.label>
+  <!-- EN: Fabrica un pantalón. -->
+  <Make_Apparel_Pants.description>. ﺍًﻟﺎﻄﻨﺑ ﻊﻨﺻﺍ</Make_Apparel_Pants.description>
+  <!-- EN: Fabricando pantalón. -->
+  <Make_Apparel_Pants.jobString>. ﻝﺎﻄﻨﺑ ﻊﻨﺻ</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: fabricar anorak -->
+  <Make_Apparel_Parka.label>ﻙﺍﺭﻮﻧﺃ ﻒﻄﻌﻣ ﻊﻨﺻ</Make_Apparel_Parka.label>
+  <!-- EN: Fabrica un anorak. -->
+  <Make_Apparel_Parka.description>. ﺍًﻴﻗﺍﻭ ﺍًﻔﻄﻌﻣ ﻊﻨﺻﺍ</Make_Apparel_Parka.description>
+  <!-- EN: Fabricando anorak. -->
+  <Make_Apparel_Parka.jobString>. ﻙﺍﺭﻮﻧﺃ ﻒﻄﻌﻣ ﻊﻨﺻ</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: fabricar armadura de placas -->
+  <Make_Apparel_PlateArmor.label>ﻲﺤﻴﻔﺻ ﻉﺭﺩ ﻊﻨﺻ</Make_Apparel_PlateArmor.label>
+  <!-- EN: Fabrica una armadura de placas. -->
+  <Make_Apparel_PlateArmor.description>. ﺢﺋﺎﻔﺼﻟﺍ ﻦﻣ ﺍًﻋﺭﺩ ﻊﻨﺻﺍ</Make_Apparel_PlateArmor.description>
+  <!-- EN: Fabricando armadura de placas. -->
+  <Make_Apparel_PlateArmor.jobString>. ﻲﺤﺋﺎﻔﺻ ﻉﺭﺩ ﻊﻨﺻ</Make_Apparel_PlateArmor.jobString>
+  
+  <!-- EN: fabricar servoarmadura -->
+  <Make_Apparel_PowerArmor.label>ﻲﻟﺁ ﻉﺭﺩ ﻊﻨﺻ</Make_Apparel_PowerArmor.label>
+  <!-- EN: Fabrica una servoarmadura. -->
+  <Make_Apparel_PowerArmor.description>. ﺍًﻴﻟﺁ ﺍًﻋﺭﺩ ﻊﻨﺻﺍ</Make_Apparel_PowerArmor.description>
+  <!-- EN: Fabricando servoarmadura. -->
+  <Make_Apparel_PowerArmor.jobString>. ﻲﻟﺁ ﻉﺭﺩ ﻊﻨﺻ</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: fabricar casco de servoarmadura -->
+  <Make_Apparel_PowerArmorHelmet.label>ﻲﻟﺁ ﻉﺭﺩ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Fabrica un casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.description>. ﻲﻟﺁ ﻉﺭﺩ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Fabricando casco de servoarmadura. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>. ﻲﻟﺁ ﻉﺭﺩ ﺓﺫﻮﺧ ﻊﻴﻨﺼﺗ</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de protección -->
+  <Make_Apparel_ShieldBelt.label>ﺔﻳﺎﻤﺣ ﻡﺍﺰﺣ ﻊﻨﺻ</Make_Apparel_ShieldBelt.label>
+  <!-- EN: Fabrica un cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.description>. ﺔﻳﺎﻤﺣ ﻡﺍﺰﺣ ﻊﻨﺻﺍ</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Fabricando cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.jobString>. ﺔﻳﺎﻤﺣ ﻡﺍﺰﺣ ﻊﻨﺻ</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: fabricar casco simple -->
+  <Make_Apparel_SimpleHelmet.label>ﺔﻄﻴﺴﺑ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Fabrica un casco simple. -->
+  <Make_Apparel_SimpleHelmet.description>. ﺔﻄﻴﺴﺑ ﺓﺫﻮﺧ ﻊﻨﺻﺍ</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Fabricando casco simple. -->
+  <Make_Apparel_SimpleHelmet.jobString>. ﺔﻄﻴﺴﺑ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de humo -->
+  <Make_Apparel_SmokepopBelt.label>ﻥﺎﺧﺩ ﻡﺍﺰﺣ ﻊﻨﺻ</Make_Apparel_SmokepopBelt.label>
+  <!-- EN: Fabrica un cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.description>. ﻥﺎﺧﺩ ﻡﺍﺰﺣ ﻊﻨﺻﺍ</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Fabricando cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.jobString>. ﻥﺎﺧﺩ ﻡﺍﺰﺣ ﻊﻨﺻ</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: fabricar túnica tribal -->
+  <Make_Apparel_TribalA.label>ﻲﻠﺒﻗ ﺀﺍﺩﺭ ﻊﻨﺻ</Make_Apparel_TribalA.label>
+  <!-- EN: Fabrica una túnica tribal. -->
+  <Make_Apparel_TribalA.description>. ﺍًﻴﻠﺒﻗ ًﺀﺍﺩﺭ ﻊﻨﺻﺍ</Make_Apparel_TribalA.description>
+  <!-- EN: Fabricando túnica tribal. -->
+  <Make_Apparel_TribalA.jobString>. ﻲﻠﺒﻗ ﺀﺍﺩﺭ ﻊﻨﺻ</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: fabricar tocado tribal -->
+  <Make_Apparel_TribalHeaddress.label>ﻲﻠﺒﻗ ﺱﺃﺭ ﺀﺎﻄﻏ ﻊﻨﺻ</Make_Apparel_TribalHeaddress.label>
+  <!-- EN: Fabrica un tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.description>. ﺔﻴﻠﺒﻗ ﺱﺃﺭ ﺔﻨﻳﺯ ﻊﻨﺻﺍ</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Fabricando tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.jobString>. ﻲﻠﺒﻗ ﺱﺃﺭ ﺀﺎﻄﻏ ﻊﻨﺻ</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: fabricar gorro -->
+  <Make_Apparel_Tuque.label>ﺔﻌﺒﻗ ﻊﻨﺻ</Make_Apparel_Tuque.label>
+  <!-- EN: Fabrica un gorro. -->
+  <Make_Apparel_Tuque.description>. ﺔﻌﺒﻗ ﻊﻨﺻﺍ</Make_Apparel_Tuque.description>
+  <!-- EN: Fabricando gorro. -->
+  <Make_Apparel_Tuque.jobString>. ﺀﺎﻄﻏ ﻊﻨﺻ</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: fabricar máscara de guerra -->
+  <Make_Apparel_WarMask.label>ﺏﺮﺣ ﻉﺎﻨﻗ ﻊﻨﺻ</Make_Apparel_WarMask.label>
+  <!-- EN: Fabrica una máscara de guerra. -->
+  <Make_Apparel_WarMask.description>. ﺏﺮﺣ ﻉﺎﻨﻗ ﻊﻨﺻﺍ</Make_Apparel_WarMask.description>
+  <!-- EN: Fabricando máscara de guerra. -->
+  <Make_Apparel_WarMask.jobString>. ﺏﺮﺣ ﻉﺎﻨﻗ ﻊﻨﺻ</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: fabricar velo de guerra -->
+  <Make_Apparel_WarVeil.label>ﺏﺮﺣ ﺏﺎﺠﺣ ﻊﻨﺻ</Make_Apparel_WarVeil.label>
+  <!-- EN: Fabrica un velo de guerra. -->
+  <Make_Apparel_WarVeil.description>. ﺏﺮﺣ ﺀﺍﺩﺭ ﻊﻨﺻﺍ</Make_Apparel_WarVeil.description>
+  <!-- EN: Fabricando velo de guerra. -->
+  <Make_Apparel_WarVeil.jobString>. ﺏﺮﺣ ﺀﺍﺩﺭ ﻊﻨﺻ</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: fabricar brazo biónico -->
+  <Make_BionicArm.label>ﻲﻟﺁ ﻉﺍﺭﺫ ﻊﻨﺻ</Make_BionicArm.label>
+  <!-- EN: Fabrica un brazo biónico. -->
+  <Make_BionicArm.description>. ﺍًﻴﻧﻮﻴﺑ ﺍًﻋﺍﺭﺫ ﻊﻨﺻﺍ</Make_BionicArm.description>
+  <!-- EN: Fabricando brazo biónico. -->
+  <Make_BionicArm.jobString>. ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ ﻊﻨﺻ</Make_BionicArm.jobString>
+  
+  <!-- EN: fabricar oído biónico -->
+  <Make_BionicEar.label>ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﻥﺫﺃ ﻊﻨﺻ</Make_BionicEar.label>
+  <!-- EN: Fabrica un oído biónico. -->
+  <Make_BionicEar.description>. ﺔﻴﻧﻮﻴﺑ ﺍًﻧﺫﺃ ﻊﻨﺻﺍ</Make_BionicEar.description>
+  <!-- EN: Fabricando oído biónico. -->
+  <Make_BionicEar.jobString>. ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﻥﺫﺃ ﻊﻴﻨﺼﺗ</Make_BionicEar.jobString>
+  
+  <!-- EN: fabricar ojo biónico -->
+  <Make_BionicEye.label>ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﻦﻴﻋ ﻊﻨﺻ</Make_BionicEye.label>
+  <!-- EN: Fabrica un ojo biónico. -->
+  <Make_BionicEye.description>. ﺔﻴﻧﻮﻴﺑ ﺍًﻨﻴﻋ ﻊﻨﺻﺍ</Make_BionicEye.description>
+  <!-- EN: Fabricando ojo biónico. -->
+  <Make_BionicEye.jobString>. ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ ﻊﻨﺻ</Make_BionicEye.jobString>
+  
+  <!-- EN: fabricar corazón biónico -->
+  <Make_BionicHeart.label>ﻲﻧﻮﻴﺑ ﺐﻠﻗ ﻊﻨﺻ</Make_BionicHeart.label>
+  <!-- EN: Fabrica un corazón biónico. -->
+  <Make_BionicHeart.description>. ﺍًﻴﻧﻮﻴﺑ ﺍًﺒﻠﻗ ﻊﻨﺻﺍ</Make_BionicHeart.description>
+  <!-- EN: Fabricando corazón biónico. -->
+  <Make_BionicHeart.jobString>. ﻲﻧﻮﻴﺑ ﺐﻠﻗ ﻊﻨﺻ</Make_BionicHeart.jobString>
+  
+  <!-- EN: fabricar pierna biónica -->
+  <Make_BionicLeg.label>ﻲﻋﺎﻨﻄﺻﺍ ﻕﺎﺳ ﻊﻨﺻ</Make_BionicLeg.label>
+  <!-- EN: Fabrica una pierna biónica. -->
+  <Make_BionicLeg.description>. ﺔﻴﻧﻮﻴﺑ ﺍًﻗﺎﺳ ﻊﻨﺻﺍ</Make_BionicLeg.description>
+  <!-- EN: Fabricando pierna biónica. -->
+  <Make_BionicLeg.jobString>. ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ ﻊﻨﺻ</Make_BionicLeg.jobString>
+  
+  <!-- EN: fabricar columna vertebral biónica -->
+  <Make_BionicSpine.label>ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﻊﻨﺻ</Make_BionicSpine.label>
+  <!-- EN: Fabrica una columna vertebral biónica. -->
+  <Make_BionicSpine.description>. ﺍًﻴﻧﻭﺮﺘﻜﻟﺇ ﺍًﻳﺮﻘﻓ ﺍًﺩﻮﻤﻋ ﻊﻨﺻﺍ</Make_BionicSpine.description>
+  <!-- EN: Fabricando columna vertebral biónica. -->
+  <Make_BionicSpine.jobString>. ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﻊﻴﻨﺼﺗ</Make_BionicSpine.jobString>
+  
+  <!-- EN: fabricar estómago biónico -->
+  <Make_BionicStomach.label>ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﻊﻨﺻ</Make_BionicStomach.label>
+  <!-- EN: Fabrica un estómago biónico. -->
+  <Make_BionicStomach.description>. ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺓﺪﻌﻣ ﻊﻨﺻﺍ</Make_BionicStomach.description>
+  <!-- EN: Fabricando estómago biónico. -->
+  <Make_BionicStomach.jobString>. ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺓﺪﻌﻣ ﻊﻨﺻ</Make_BionicStomach.jobString>
+  
+  <!-- EN: fabricar arco grande -->
+  <Make_Bow_Great.label>ﺮﻴﺒﻛ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Great.label>
+  <!-- EN: Fabrica un arco grande. -->
+  <Make_Bow_Great.description>. ﺍًﺮﻴﺒﻛ ﺍًﺳﻮﻗ ﻊﻨﺻﺍ</Make_Bow_Great.description>
+  <!-- EN: Fabricando arco grande. -->
+  <Make_Bow_Great.jobString>. ﺮﻴﺒﻛ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Great.jobString>
+  
+  <!-- EN: fabricar arco recurvo -->
+  <Make_Bow_Recurve.label>ﺏَّﻛﺭُﻣ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Recurve.label>
+  <!-- EN: Fabrica un arco recurvo. -->
+  <Make_Bow_Recurve.description>. ﺍًﺑَّﻛﺭُﻣ ﺍًﺳﻮﻗ ﻊﻨﺻﺍ</Make_Bow_Recurve.description>
+  <!-- EN: Fabricando arco recurvo. -->
+  <Make_Bow_Recurve.jobString>. ﺏَّﻛﺭُﻣ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: fabricar arco corto -->
+  <Make_Bow_Short.label>ﺮﻴﺼﻗ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Short.label>
+  <!-- EN: Fabrica un arco corto. -->
+  <Make_Bow_Short.description>. ﺍًﺮﻴﺼﻗ ﺍًﺳﻮﻗ ﻊﻨﺻﺍ</Make_Bow_Short.description>
+  <!-- EN: Fabricando arco corto. -->
+  <Make_Bow_Short.jobString>. ﺮﻴﺼﻗ ﺱﻮﻗ ﻊﻨﺻ</Make_Bow_Short.jobString>
+  
+  <!-- EN: fabricar implante auditivo -->
+  <Make_CochlearImplant.label>ﺔﻴﻌﻤﺳ ﺔﺳﺮﻏ ﻊﻨﺻ</Make_CochlearImplant.label>
+  <!-- EN: Fabrica un implante auditivo. -->
+  <Make_CochlearImplant.description>. ﺔﻴﻌﻤﺳ ﺔﺳﺮﻏ ﻊﻨﺻﺍ</Make_CochlearImplant.description>
+  <!-- EN: Fabricando implante auditivo. -->
+  <Make_CochlearImplant.jobString>. ﺔﻴﻌﻤﺳ ﺔﺳﺮﻏ ﻊﻴﻨﺼﺗ</Make_CochlearImplant.jobString>
+  
+  <!-- EN: fabricar escamas -->
+  <Make_Flake.label>ﻒﺷﺍﺮﺣ ﻊﻨﺻ</Make_Flake.label>
+  <!-- EN: Fabrica un escamas. -->
+  <Make_Flake.description>. ﺱﺎﻴﻘﻣ ﻉﺭﺩ ﻊﻨﺻ</Make_Flake.description>
+  <!-- EN: Fabricando escamas. -->
+  <Make_Flake.jobString>. ﺭﻮﺸﻘﻟﺍ ﻊﻨﺻ</Make_Flake.jobString>
+  
+  <!-- EN: fabricar neurozumo -->
+  <Make_GoJuice.label>ﺔﻴﺒﺼﻋ ﺓﺭﺎﺼﻋ ﻊﻨﺻ</Make_GoJuice.label>
+  <!-- EN: Fabrica un neurozumo. -->
+  <Make_GoJuice.description>. ﺔﻴﺒﺼﻋ ﺓﺭﺎﺼﻋ ﻊﻨﺻ</Make_GoJuice.description>
+  <!-- EN: Fabricando neurozumo. -->
+  <Make_GoJuice.jobString>. ﺔﻴﺒﺼﻋ ﺓﺭﺎﺼﻋ ﻊﻴﻨﺼﺗ</Make_GoJuice.jobString>
+  
+  <!-- EN: fabricar fusil de asalto -->
+  <Make_Gun_AssaultRifle.label>ﺔﻴﻣﻮﺠﻫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_AssaultRifle.label>
+  <!-- EN: Fabrica un fusil de asalto. -->
+  <Make_Gun_AssaultRifle.description>. ﺔﻴﻣﻮﺠﻫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_AssaultRifle.description>
+  <!-- EN: Fabricando fusil de asalto. -->
+  <Make_Gun_AssaultRifle.jobString>. ﺔﻴﻣﻮﺠﻫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: fabricar pistola automática -->
+  <Make_Gun_Autopistol.label>ﻲﻟﺁ ﺱﺪﺴﻣ ﻊﻨﺻ</Make_Gun_Autopistol.label>
+  <!-- EN: Fabrica una pistola automática. -->
+  <Make_Gun_Autopistol.description>. ﺍًﻴﻟﺁ ﺍًﺳﺪﺴﻣ ﻊﻨﺻﺍ</Make_Gun_Autopistol.description>
+  <!-- EN: Fabricando pistola automática. -->
+  <Make_Gun_Autopistol.jobString>. ﻲﻟﺁ ﺱﺪﺴﻣ ﻊﻨﺻ</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: fabricar fusil de cerrojo -->
+  <Make_Gun_BoltActionRifle.label>ﻞﻔﻗ ﺔﻴﻟﺁ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_BoltActionRifle.label>
+  <!-- EN: Fabrica un fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.description>. ﻞﻔﻗ ﺔﻴﻟﺁ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Fabricando fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.jobString>. ﻕﻼﻏﺇ ﺔﻴﻟﺁ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: fabricar escopeta automática -->
+  <Make_Gun_ChainShotgun.label>ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_ChainShotgun.label>
+  <!-- EN: Fabrica una escopeta automática. -->
+  <Make_Gun_ChainShotgun.description>. ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_ChainShotgun.description>
+  <!-- EN: Fabricando escopeta automática. -->
+  <Make_Gun_ChainShotgun.jobString>. ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: fabricar lanza de cargas -->
+  <Make_Gun_ChargeLance.label>ﺕﺎﻨﺤﺷ ﺢﻣﺭ ﻊﻨﺻ</Make_Gun_ChargeLance.label>
+  <!-- EN: Fabrica una lanza de cargas. -->
+  <Make_Gun_ChargeLance.description>. ﺍًﻧﻮﺤﺸﻣ ﺍًﺤﻣﺭ ﻊﻨﺻﺍ</Make_Gun_ChargeLance.description>
+  <!-- EN: Fabricando lanza de cargas. -->
+  <Make_Gun_ChargeLance.jobString>. ﺕﺎﻨﺤﺸﻟﺍ ﺢﻣﺭ ﻊﻨﺻ</Make_Gun_ChargeLance.jobString>
+  
+  <!-- EN: fabricar fusil de cargas -->
+  <Make_Gun_ChargeRifle.label>ﺕﺎﻨﺤﺷ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_ChargeRifle.label>
+  <!-- EN: Fabrica un fusil de cargas. -->
+  <Make_Gun_ChargeRifle.description>. ﺕﺎﻨﺤﺷ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_ChargeRifle.description>
+  <!-- EN: Fabricando fusil de cargas. -->
+  <Make_Gun_ChargeRifle.jobString>. ﺕﺎﻨﺤﺷ ﺔﻴﻗﺪﻨﺑ ﻊﻴﻨﺼﺗ</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: fabricar subfusil pesado -->
+  <Make_Gun_HeavySMG.label>ﻞﻴﻘﺛ ﺵﺎﺷﺭ ﻊﻨﺻ</Make_Gun_HeavySMG.label>
+  <!-- EN: Fabrica un subfusil pesado. -->
+  <Make_Gun_HeavySMG.description>. ﻞﻴﻘﺛ ﺵﺎﺷﺭ ﻊﻨﺻ</Make_Gun_HeavySMG.description>
+  <!-- EN: Fabricando subfusil pesado. -->
+  <Make_Gun_HeavySMG.jobString>. ﻞﻴﻘﺛ ﺵﺎﺷﺭ ﺔﻋﺎﻨﺻ</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: fabricar lanzagranadas incendiario T-9 -->
+  <Make_Gun_IncendiaryLauncher.label>T-9 ﺔﻗﺭﺎﺣ ﻞﺑﺎﻨﻗ ﺔﻓﺫﺎﻗ ﻊﻨﺻ</Make_Gun_IncendiaryLauncher.label>
+  <!-- EN: Fabrica un lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.description>-٩. ﺕ ﺯﺍﺮﻃ ﺔﻗﺭﺎﺣ ﻞﺑﺎﻨﻗ ﺔﻓﺫﺎﻗ ﻊﻨﺻ</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Fabricando lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.jobString>. ﺕ ٩- ﺯﺍﺮﻃ ﺔﻗﺭﺎﺣ ﻞﺑﺎﻨﻗ ﺔﻓﺫﺎﻗ ﻊﻨﺻ</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: fabricar ametralladora ligera L-15 -->
+  <Make_Gun_LMG.label>L-15 ﻒﻴﻔﺧ ﺵﺎﺷﺭ ﻊﻨﺻ</Make_Gun_LMG.label>
+  <!-- EN: Fabrica una ametralladora ligera L-15. -->
+  <Make_Gun_LMG.description>L-15. ﺯﺍﺮﻃ ﺔﻔﻴﻔﺧ ﺔﺷﺎﺷﺭ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_LMG.description>
+  <!-- EN: Fabricando ametralladora ligera L-15. -->
+  <Make_Gun_LMG.jobString>L-15. ﻒﻴﻔﺧ ﺵﺎﺷﺭ ﻊﻴﻨﺼﺗ</Make_Gun_LMG.jobString>
+  
+  <!-- EN: fabricar subfusil compacto -->
+  <Make_Gun_MachinePistol.label>ﺞﻣﺪﻣ ﺵﺎﺷﺭ ﻊﻨﺻ</Make_Gun_MachinePistol.label>
+  <!-- EN: Fabrica un subfusil compacto. -->
+  <Make_Gun_MachinePistol.description>. ﺍًﺠﻣﺪﻣ ﺍًﺷﺎﺷﺭ ﺍًﺳﺪﺴﻣ ﻊﻨﺻﺍ</Make_Gun_MachinePistol.description>
+  <!-- EN: Fabricando subfusil compacto. -->
+  <Make_Gun_MachinePistol.jobString>. ﺞﻣﺪﻣ ﺵﺎﺷﺭ ﻊﻨﺻ</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: fabricar minigun -->
+  <Make_Gun_Minigun.label>ﺮﻴﻐﺻ ﺵﺎﺷﺭ ﻊﻓﺪﻣ ﻊﻨﺻ</Make_Gun_Minigun.label>
+  <!-- EN: Fabrica una minigun. -->
+  <Make_Gun_Minigun.description>. ﺍًﺷﺎﺷﺭ ﺍًﻌﻓﺪﻣ ﻊﻨﺻﺍ</Make_Gun_Minigun.description>
+  <!-- EN: Fabricando minigun. -->
+  <Make_Gun_Minigun.jobString>. ﺵﺎﺷﺭ ﻊﻓﺪﻣ ﻊﻴﻨﺼﺗ</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: fabricar escopeta -->
+  <Make_Gun_PumpShotgun.label>ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_PumpShotgun.label>
+  <!-- EN: Fabrica una escopeta. -->
+  <Make_Gun_PumpShotgun.description>. ﺪﻴﺻ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_PumpShotgun.description>
+  <!-- EN: Fabricando escopeta. -->
+  <Make_Gun_PumpShotgun.jobString>. ﺪﻴﺻ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: fabricar revólver -->
+  <Make_Gun_Revolver.label>ﺭﺍّﻭﺩ ﺱﺪﺴﻣ ﻊﻨﺻ</Make_Gun_Revolver.label>
+  <!-- EN: Fabrica un revólver. -->
+  <Make_Gun_Revolver.description>. ﺍًﺳﺪﺴﻣ ﻊﻨﺻﺍ</Make_Gun_Revolver.description>
+  <!-- EN: Fabricando revólver. -->
+  <Make_Gun_Revolver.jobString>. ﺭﺍّﻭﺩ ﺱﺪﺴﻣ ﻊﻨﺻ</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: fabricar fusil de francotirador -->
+  <Make_Gun_SniperRifle.label>ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_SniperRifle.label>
+  <!-- EN: Fabrica un fusil de francotirador. -->
+  <Make_Gun_SniperRifle.description>. ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_SniperRifle.description>
+  <!-- EN: Fabricando fusil de francotirador. -->
+  <Make_Gun_SniperRifle.jobString>. ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ ﻊﻨﺻ</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: fabricar medicina -->
+  <Make_MedicineIndustrial.label>ﺔﻳﻭﺩﻷﺍ ﻊﻨﺻ</Make_MedicineIndustrial.label>
+  <!-- EN: Fabrica una medicina. -->
+  <Make_MedicineIndustrial.description>. ًﺀﺍﻭﺩ ﻊﻨﺻﺍ</Make_MedicineIndustrial.description>
+  <!-- EN: Fabricando medicina. -->
+  <Make_MedicineIndustrial.jobString>. ﺀﺍﻭﺩ ﻊﻴﻨﺼﺗ</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: fabricar hacha zapeadora -->
+  <Make_MeleeWeapon_BreachAxe.label>ﻖﻋﺎﺻ ﺱﺄﻓ ﻊﻨﺻ</Make_MeleeWeapon_BreachAxe.label>
+  <!-- EN: Fabrica un hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.description>. ﻖﻋﺎﺻ ﺱﺄﻓ ﻊﻨﺻ</Make_MeleeWeapon_BreachAxe.description>
+  <!-- EN: Fabricando hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.jobString>. ﻖﻋﺎﺻ ﺱﺄﻓ ﻊﻨﺻ</Make_MeleeWeapon_BreachAxe.jobString>
+  
+  <!-- EN: fabricar porra -->
+  <Make_MeleeWeapon_Club.label>ﺎﺼﻋ ﻊﻨﺻ</Make_MeleeWeapon_Club.label>
+  <!-- EN: Fabrica una porra. -->
+  <Make_MeleeWeapon_Club.description>. ﺎﺼﻋ ﻊﻨﺻ</Make_MeleeWeapon_Club.description>
+  <!-- EN: Fabricando porra. -->
+  <Make_MeleeWeapon_Club.jobString>. ﺎﺼﻋ ﻊﻨﺻ</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: fabricar gladius -->
+  <Make_MeleeWeapon_Gladius.label>ﺱﻮﻳﺩﻼﻏ ﻊﻨﺻ</Make_MeleeWeapon_Gladius.label>
+  <!-- EN: Fabrica un gladius. -->
+  <Make_MeleeWeapon_Gladius.description>. ﺍًﺮﻴﺼﻗ ﺍًﻔﻴﺳ ﻊﻨﺻﺍ</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Fabricando gladius. -->
+  <Make_MeleeWeapon_Gladius.jobString>. ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: fabricar ikwa -->
+  <Make_MeleeWeapon_Ikwa.label>ﺍﻮﻛﺇ ﻊﻨﺻ</Make_MeleeWeapon_Ikwa.label>
+  <!-- EN: Fabrica un ikwa. -->
+  <Make_MeleeWeapon_Ikwa.description>. ﺍﻮﻛﺇ ﻊﻨﺻ</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Fabricando ikwa. -->
+  <Make_MeleeWeapon_Ikwa.jobString>. ﺍﻮﻜﻳﺇ ﻊﻨﺻ</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: fabricar cuchillo -->
+  <Make_MeleeWeapon_Knife.label>ﻦﻴﻜﺳ ﻊﻨﺻ</Make_MeleeWeapon_Knife.label>
+  <!-- EN: Fabrica un cuchillo. -->
+  <Make_MeleeWeapon_Knife.description>. ﺍًﻨﻴﻜﺳ ﻊﻨﺻﺍ</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Fabricando cuchillo. -->
+  <Make_MeleeWeapon_Knife.jobString>. ﻦﻴﻜﺳ ﻊﻨﺻ</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: fabricar espada larga -->
+  <Make_MeleeWeapon_LongSword.label>ﻞﻳﻮﻃ ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_LongSword.label>
+  <!-- EN: Fabrica una espada larga. -->
+  <Make_MeleeWeapon_LongSword.description>. ﺍًﻠﻳﻮﻃ ﺍًﻔﻴﺳ ﻊﻨﺻﺍ</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Fabricando espada larga. -->
+  <Make_MeleeWeapon_LongSword.jobString>. ﻞﻳﻮﻃ ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: fabricar maza -->
+  <Make_MeleeWeapon_Mace.label>ﺓﺩﺎﻤﺿ ﻊﻨﺻ</Make_MeleeWeapon_Mace.label>
+  <!-- EN: Fabrica una maza. -->
+  <Make_MeleeWeapon_Mace.description>. ﺔﻗَﺭْﻃِﻣ ﻊﻨﺻﺍ</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Fabricando maza. -->
+  <Make_MeleeWeapon_Mace.jobString>. ﺔﻗﺮﻄﻣ ﻊﻨﺻ</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: fabricar lanza -->
+  <Make_MeleeWeapon_Spear.label>ﺢﻣﺭ ﻊﻨﺻ</Make_MeleeWeapon_Spear.label>
+  <!-- EN: Fabrica una lanza. -->
+  <Make_MeleeWeapon_Spear.description>. ﺍًﺤﻣﺭ ﻊﻨﺻﺍ</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Fabricando lanza. -->
+  <Make_MeleeWeapon_Spear.jobString>. ﺢﻣﺭ ﻊﻨﺻ</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: fabricar penoxicilina -->
+  <Make_Penoxycyline.label>ﻦﻴﻠﻴﺴﻛﻮﻨﺑ ﻊﻨﺻ</Make_Penoxycyline.label>
+  <!-- EN: Fabrica una penoxicilina. -->
+  <Make_Penoxycyline.description>. ﻦﻴﻠﻴﺴﻛﻮﻨﺑ ﻊﻨﺻ</Make_Penoxycyline.description>
+  <!-- EN: Fabricando penoxicilina. -->
+  <Make_Penoxycyline.jobString>. ﻦﻴﻠﻴﺴﻛﻮﻨﺑ ﻊﻴﻨﺼﺗ</Make_Penoxycyline.jobString>
+  
+  <!-- EN: fabricar pila -->
+  <Make_Pila.label>ﺔﻳﺭﺎﻄﺑ ﻊﻨﺻ</Make_Pila.label>
+  <!-- EN: Fabrica una pila. -->
+  <Make_Pila.description>. ﺔﻳﺭﺎﻄﺑ ﻊﻨﺻ</Make_Pila.description>
+  <!-- EN: Fabricando pila. -->
+  <Make_Pila.jobString>. ﺔﻳﺭﺎﻄﺑ ﻊﻴﻨﺼﺗ</Make_Pila.jobString>
+  
+  <!-- EN: fabricar té psicoide -->
+  <Make_PsychiteTea.label>ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﻊﻨﺻ</Make_PsychiteTea.label>
+  <!-- EN: Fabrica un té psicoide. -->
+  <Make_PsychiteTea.description>. ﺍًﻳﺪﻳﻮﻜﻴﺳ ﺍًﻳﺎﺷ ﻊﻨﺻﺍ</Make_PsychiteTea.description>
+  <!-- EN: Fabricando té psicoide. -->
+  <Make_PsychiteTea.jobString>. ﻱﺩﺎﻜﻴﺴﻟﺍ ﻱﺎﺸﻟﺍ ﻊﻨﺻ</Make_PsychiteTea.jobString>
+  
+  <!-- EN: fabricar té psicoide x4 -->
+  <Make_PsychiteTeaBulk.label>٤× ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﻊﻨﺻ</Make_PsychiteTeaBulk.label>
+  <!-- EN: Fabrica té psicoide x4. -->
+  <Make_PsychiteTeaBulk.description>٤.× ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﻊﻨﺻﺍ</Make_PsychiteTeaBulk.description>
+  <!-- EN: Fabricando té psicoide x4. -->
+  <Make_PsychiteTeaBulk.jobString>٤.× ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ ﻊﻨﺻ</Make_PsychiteTeaBulk.jobString>
+  
+  <!-- EN: fabricar escultura enorme -->
+  <Make_SculptureGrand.label>ﻢﺨﺿ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureGrand.label>
+  <!-- EN: Fabrica una escultura enorme. -->
+  <Make_SculptureGrand.description>. ﺍًﻤﺨﺿ ﺍًﻟﺎﺜﻤﺗ ﺖﺤﻨﻳ</Make_SculptureGrand.description>
+  <!-- EN: Fabricando escultura enorme. -->
+  <Make_SculptureGrand.jobString>. ﻢﺨﺿ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureGrand.jobString>
+  
+  <!-- EN: fabricar escultura grande -->
+  <Make_SculptureLarge.label>ﺮﻴﺒﻛ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureLarge.label>
+  <!-- EN: Fabrica una escultura grande. -->
+  <Make_SculptureLarge.description>. ﺍًﺮﻴﺒﻛ ﺍًﻟﺎﺜﻤﺗ ﻊﻨﺻﺍ</Make_SculptureLarge.description>
+  <!-- EN: Fabricando escultura grande. -->
+  <Make_SculptureLarge.jobString>. ﺮﻴﺒﻛ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureLarge.jobString>
+  
+  <!-- EN: fabricar escultura pequeña -->
+  <Make_SculptureSmall.label>ﺮﻴﻐﺻ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureSmall.label>
+  <!-- EN: Fabrica una escultura pequeña. -->
+  <Make_SculptureSmall.description>. ًﺍﺮﻴﻐﺻ ًﻻﺎﺜﻤﺗ ﻊﻨﺻﺍ</Make_SculptureSmall.description>
+  <!-- EN: Fabricando escultura pequeña. -->
+  <Make_SculptureSmall.jobString>. ﺮﻴﻐﺻ ﻝﺎﺜﻤﺗ ﻊﻨﺻ</Make_SculptureSmall.jobString>
+  
+  <!-- EN: fabricar proyectil PEM -->
+  <Make_Shell_EMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻔﻳﺬﻗ ﻊﻨﺻ</Make_Shell_EMP.label>
+  <!-- EN: Fabrica un proyectil PEM. -->
+  <Make_Shell_EMP.description>. ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻔﻳﺬﻗ ﻊﻨﺻ</Make_Shell_EMP.description>
+  <!-- EN: Fabricando proyectil PEM. -->
+  <Make_Shell_EMP.jobString>. ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻔﻳﺬﻗ ﻊﻴﻨﺼﺗ</Make_Shell_EMP.jobString>
+  
+  <!-- EN: fabricar proyectil cortafuegos -->
+  <Make_Shell_Firefoam.label>ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺔﻔﻳﺬﻗ ﻊﻨﺻ</Make_Shell_Firefoam.label>
+  <!-- EN: Fabrica un proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.description>. ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺔﻔﻳﺬﻗ ﻊﻨﺻﺍ</Make_Shell_Firefoam.description>
+  <!-- EN: Fabricando proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.jobString>. ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺔﻔﻳﺬﻗ ﻊﻴﻨﺼﺗ</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: fabricar proyectil altamente explosivo -->
+  <Make_Shell_HighExplosive.label>ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﺔﻔﻳﺬﻗ ﻊﻨﺻ</Make_Shell_HighExplosive.label>
+  <!-- EN: Fabrica un proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.description>. ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﺔﻔﻳﺬﻗ ﻊﻨﺻﺍ</Make_Shell_HighExplosive.description>
+  <!-- EN: Fabricando proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.jobString>. ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﺔﻔﻳﺬﻗ ﻊﻴﻨﺼﺗ</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: fabricar proyectil incendiario -->
+  <Make_Shell_Incendiary.label>ﺔﻗﺭﺎﺣ ﺔﻔﻳﺬﻗ ﻊﻨﺻ</Make_Shell_Incendiary.label>
+  <!-- EN: Fabrica un proyectil incendiario. -->
+  <Make_Shell_Incendiary.description>. ﺔﻗﺭﺎﺣ ﺔﻔﻳﺬﻗ ﻊﻨﺻﺍ</Make_Shell_Incendiary.description>
+  <!-- EN: Fabricando proyectil incendiario. -->
+  <Make_Shell_Incendiary.jobString>. ﺔﻗﺭﺎﺣ ﺔﻔﻳﺬﻗ ﻊﻴﻨﺼﺗ</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: fabricar brazo protésico -->
+  <Make_SimpleProstheticArm.label>ﻲﻋﺎﻨﻄﺻﺍ ﻉﺍﺭﺫ ﻊﻨﺻ</Make_SimpleProstheticArm.label>
+  <!-- EN: Fabrica un brazo protésico. -->
+  <Make_SimpleProstheticArm.description>. ﺍًﻴﻋﺎﻨﻄﺻﺍ ﺍًﻋﺍﺭﺫ ﻊﻨﺻﺍ</Make_SimpleProstheticArm.description>
+  <!-- EN: Fabricando brazo protésico. -->
+  <Make_SimpleProstheticArm.jobString>. ﻲﻋﺎﻨﻄﺻﺍ ﻉﺍﺭﺫ ﻊﻨﺻ</Make_SimpleProstheticArm.jobString>
+  
+  <!-- EN: fabricar corazón protésico -->
+  <Make_SimpleProstheticHeart.label>ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ ﻊﻨﺻ</Make_SimpleProstheticHeart.label>
+  <!-- EN: Fabrica un corazón protésico. -->
+  <Make_SimpleProstheticHeart.description>. ﺍًﻴﻋﺎﻨﻄﺻﺍ ﺍًﺒﻠﻗ ﻊﻨﺻﺍ</Make_SimpleProstheticHeart.description>
+  <!-- EN: Fabricando corazón protésico. -->
+  <Make_SimpleProstheticHeart.jobString>. ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ ﻊﻨﺻ</Make_SimpleProstheticHeart.jobString>
+  
+  <!-- EN: fabricar pierna protésica -->
+  <Make_SimpleProstheticLeg.label>ﺔﻴﻋﺎﻨﺻ ﻕﺎﺳ ﻊﻨﺻ</Make_SimpleProstheticLeg.label>
+  <!-- EN: Fabrica una pierna protésica. -->
+  <Make_SimpleProstheticLeg.description>. ﺔﻴﻋﺎﻨﻄﺻﺍ ﺍًﻗﺎﺳ ﻊﻨﺻﺍ</Make_SimpleProstheticLeg.description>
+  <!-- EN: Fabricando pierna protésica. -->
+  <Make_SimpleProstheticLeg.jobString>. ﺔﻴﻋﺎﻨﻄﺻﺍ ﻕﺎﺳ ﻊﻨﺻ</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: fabricar canuto de hojahumeante -->
+  <Make_SmokeleafJoint.label>ﻲﻧﺎﺧﺩ ﺏﻮﺒﻧﺃ ﻊﻨﺻ</Make_SmokeleafJoint.label>
+  <!-- EN: Fabrica un canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.description>. ﻥﺎﺧﺪﻟﺍ ﻕﺍﺭﻭﺃ ﻦﻣ ﺏﻮﺒﻧﺃ ﻊﻨﺻ</Make_SmokeleafJoint.description>
+  <!-- EN: Fabricando canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.jobString>. ﻲﻧﺎﺧﺩ ﺏﻮﺒﻧﺃ ﻊﻴﻨﺼﺗ</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: fabricar despertar -->
+  <Make_WakeUp.label>ﻂﺸﻨﻣ ﻊﻨﺻ</Make_WakeUp.label>
+  <!-- EN: Fabrica un despertar. -->
+  <Make_WakeUp.description>. ﺍًﻄﺸﻨﻣ ﻊﻨﺻﺍ</Make_WakeUp.description>
+  <!-- EN: Fabricando despertar. -->
+  <Make_WakeUp.jobString>. ﻂﺸﻨﻣ ﻊﻨﺻ</Make_WakeUp.jobString>
+  
+  <!-- EN: fabricar granadas PEM -->
+  <Make_Weapon_GrenadeEMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeEMP.label>
+  <!-- EN: Fabrica un granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.description>. ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺾﺒﻧ ﻞﺑﺎﻨﻗ ﻊﻨﺼﻳ</Make_Weapon_GrenadeEMP.description>
+  <!-- EN: Fabricando granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.jobString>. ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: fabricar granadas de fragmentación -->
+  <Make_Weapon_GrenadeFrag.label>ﺎﻳﺎﻈﺷ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeFrag.label>
+  <!-- EN: Fabrica un granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.description>. ﺔﻴﻈﺷ ﺔﻳﻭﺪﻳ ﻞﺑﺎﻨﻗ ﻊﻨﺼﻳ</Make_Weapon_GrenadeFrag.description>
+  <!-- EN: Fabricando granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.jobString>. ﺎﻳﺎﻈﺷ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: fabricar cócteles molotov -->
+  <Make_Weapon_GrenadeMolotov.label>ﻑﻮﺗﻮﻟﻮﻤﻟﺍ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeMolotov.label>
+  <!-- EN: Fabrica un cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.description>. ﻑﻮﺗﻮﻟﻮﻤﻟﺍ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeMolotov.description>
+  <!-- EN: Fabricando cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.jobString>. ﻑﻮﺗﻮﻟﻮﻤﻟﺍ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</Make_Weapon_GrenadeMolotov.jobString>
+  
+  <!-- EN: fabricar yayo -->
+  <Make_Yayo.label>ﻮﻳﺎﻳ ﻊﻨﺻ</Make_Yayo.label>
+  <!-- EN: Fabrica un yayo. -->
+  <Make_Yayo.description>. ﻮﻳﺎﻳ ﻊﻨﺻ</Make_Yayo.description>
+  <!-- EN: Fabricando yayo. -->
+  <Make_Yayo.jobString>. ﻮﻳﺎﻳ ﻊﻴﻨﺼﺗ</Make_Yayo.jobString>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: turrets -->
+  <Turrets.label>ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ</Turrets.label>
+  <!-- EN: A group of turrets. -->
+  <Turrets.description>. ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ</Turrets.description>
+  <!-- EN: There are enemy turrets in this area. -->
+  <Turrets.arrivedLetter>. ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﻭﺪﻌﻠﻟ ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ ﺪﺟﻮﺗ</Turrets.arrivedLetter>
+  
+</LanguageData>

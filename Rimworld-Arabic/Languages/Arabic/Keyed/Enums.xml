@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>ﻦﻛﺍﺩ</Dark>
+  <!-- EN: Lit -->
+  <Lit>ﻞﻌﺘﺸﻣ</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>ﺍًﺪﻴﺟ ﺀﺎﻀﻣ</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>ًﺍﺪﺟ ﺺﻴﺧﺭ</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>ﺺﻴﺧﺭ</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>. ﻲﻌﻴﺒﻃ</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>ﻆﻫﺎﺑ</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>ﻆﻫﺎﺑ</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>ﻥﺰﺨﻣ ﺮﻴﻏ</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>ﺾﻔﺨﻨﻣ</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>. ﻲﻌﻴﺒﻃ</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>ﻝَّﺿَﻓُﻣ</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>. ّﻡﺎﻫ</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>ﺝﺮﺣ</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>ﺕﺍﻭﺮﻀﺧ</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>ﺀﻴﻧ ﻢﺤﻟ</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>ﺚﺜﺟ</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>ﺭﻭﺬﺑ</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﺠﺘﻨﻣ</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>ﺔﻴﺣ ﺕﺎﺗﺎﺒﻧ</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>ﺔﻴﺣ ﺭﺎﺠﺷﺃ</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>ﺕﺎﺒﺟﻭ</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>ﺔﺟَﻟﺎﻋُﻣ ﺔﻤﻌﻃﺃ</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>ﻲﻟﻮﺤﻛ ﺏﻭﺮﺸﻣ</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>ﻒﻠﻋ</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>ﻊﻴﻈﻓ</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>ﺊﻴﺳ</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>ﻲﻌﻴﺒﻃ</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>. ﺪﻴﺟ</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>. ﺯﺎﺘﻤﻣ</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>ﺔﻴﻨﻓ ﺔﻔﺤﺗ</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>ﻱﺭﻮﻄﺳﺃ</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>ﻊﻴﻈﻓ</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>ﻒﻴﻌﺿ</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>. ﻲﻌﻴﺒﻃ</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>. ﺪﻴﺟ</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>ﺯﺎﺘﻤﻣ</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>ﺔﻔﺤﺗ</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>ﻱﺭﻮﻄﺳﺃ</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>ًﺍﺪﺟ ﻊﺋﺎﺟ</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>ﺓﺪﺸﺑ ﻊﺋﺎﺟ</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>ﻊﺋﺎﺟ</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>ﻯَّﺫَﻏُﻣ</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>ﻙَﻬﻧُﻣ</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>ًﺍﺪﺟ ﻖﻫﺮﻣ</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>ﻖﻫﺮﻣ</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>ﺢﻳﺮﺘﺳُﻣ</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>ﺡَّﻄﺳُﻣ</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>ﺓﺮﻴﻐﺻ ﻝﻼﺗ</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>ﺓﺮﻴﺒﻛ ﻝﻼﺗ</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>ّﻱِﻟَﺑَﺟ</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>ﻕﺍﺮﺘﺧﻼﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>ﺀﺎﺸﻧﺇ</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>ﻢﻳﺪﻘﺗ</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ﺢﻟﺎﺻ ﺮﻴﻏ</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>ﺔﺌﻴﻬﺘﻟﺍ ﺕﺎﻧﺎﻴﺑ ﺮﻴﻀﺤﺗ</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>ﻯﻮﺘﺤﻤﻟﺍ ﺕﺎﻔﻠﻣ ﺮﻴﻀﺤﺗ</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>ﻯﻮﺘﺤﻤﻟﺍ ﻞﻴﻤﺤﺗ</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>ﺔﻨﻳﺎﻌﻤﻟﺍ ﻒﻠﻣ ﻞﻴﻤﺤﺗ</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻖﻴﺒﻄﺗ ﻱﺭﺎﺟ</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>ﻲﻤﺳﺭ ﻯﻮﺘﺤﻣ</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>ﻲﻠﺤﻣ ﺪﻠﺠﻣ</ContentSource_ModsFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>Steam ﺔﺷﺭﻭ</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: no medical care -->
+  <MedicalCareCategory_NoCare>ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻻ</MedicalCareCategory_NoCare>
+  <!-- EN: doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>. ﺀﺍﻭﺩ ﻻ ﻦﻜﻟ ،ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ</MedicalCareCategory_NoMeds>
+  <!-- EN: herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>ﺃﻮﺳﺃ ﻭﺃ ﻲﺒﺸﻋ ﺀﺍﻭﺩ</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>. ﺃﻮﺳﺃ ﻭﺃ ﺀﺍﻭﺩ ﻲﻋﺎﻨﺻ ﺮﺼﻋ</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: best quality medicine -->
+  <MedicalCareCategory_Best>ًﺓﺩﻮﺟ ﺀﺍﻭﺩ ﻞﻀﻓﺃ</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>ﻞﻫﺎﺠﺗ</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>ﻡﻮﺠﻫ</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>ﺭﺍﺭِﻓ</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>. ﻮﻤﻨﻳ</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>ﺮﻘﺘﺴﻣ</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>ﺀﻭﺪﻫ</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>ﻥﺍﻮﻴﺣ</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>ﻱﺮﺠﺣ ﺮﺼﻋ</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>ﻲﻋﺎﻨﺻ ﺮﺼﻋ</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>ﺀﺎﻀﻔﻟﺍ ﺮﺼﻋ</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>ﻖﺋﺎﻓ ﺮﺼﻋ</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>ﻚﻴﺗﻮﻛﺭﺃ</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>ﺔﻔﻗﺍﻭ</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>ﻁﻮﺒﻫ ﺕﻻﻮﺴﺒﻛ</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>ﺕﺎﻴﺼﺨﺸﻟﺍ ﻊﻴﻤﺟ</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>ﺐﻋﻼﻟﺍ ﺔﻳﺍﺪﺑ ﺕﺎﻴﺼﺨﺷ</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>ﺔﺒﻋﻻ ﺮﻴﻏ ﺕﺎﻴﺼﺨﺷ</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>ﺔﺷﺎﺸﻟﺍ ﺯﺍﺰﺘﻫﺍ ﺓﺪﺷ</ScreenShakeIntensity>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺎﻤﺳﺃ ﺽﺮﻋ</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>)ﻂﻘﻓ ﻯَّﻣَﺳُﻣ (ﻥَّﺟَﺩُﻣ</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>)ﻞﻜﻟﺍ (ﻥَّﺟَﺩُﻣ</AnimalNameDisplayMode_TameAll>
+
+  <!-- Highlight display mode -->
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>ﻑﺮﺣﻷﺍ ﺰﻴﻴﻤﺗ</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>ﺀﺍﺪﻋﻷﺍ ﺰﻴﻴﻤﺗ</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>ﻞﻜﻟﺍ ﺰﻴﻴﻤﺗ</DotHighlightDisplayMode_HighlightAll> 
+  
+  <!-- Highlight style -->
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>ﻞﻴﻠﻈﺘﻟﺍ ﻊﺿﻭ</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>ﻁﺎﻘﻧ</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>ﻝﻼﻇ</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <!-- EN: Visible mood -->
+  <VisibleMood>ﺮﻫﺎﻈﻟﺍ ﺝﺍﺰﻤﻟﺍ</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>. ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﻻ ﺔﺿﺮﻋ ﻥﻮﻧﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺔﻴﺼﺨﺸﻟﺍ ﺓﺭﻮﺻ ﻰﻠﻋ ﺍًﻴﺋﺮﻣ ﺍًﺮﺷﺆﻣ ﺽﺮﻌﻳ ،ﻞﻴﻌﻔﺘﻟﺍ ﺪﻨﻋ</VisibleMoodDesc>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>ﺐﻋﻼﻟ ﺕﺎﻴﻟﻵﺍ ﺀﺎﻤﺳﺃ ﺽﺮﻋ</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>ﺪﻴﻨﺠﺘﻟﺍ ﺀﺎﻨﺛﺃ</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>ﺍًﻤﺋﺍﺩ</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>ﺓﺭﻮﺼﻟﺍ ﺖﺤﺗ ﺔﺤﻠﺳﺃ</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>. ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋﺃ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻲﻓ ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﺓﺭﻮﺻ ﻞﻔﺳﺃ ﺔﺤﻠﺳﻷﺍ ﺽﺮﻋﺍ</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>ﺍًﻤﺋﺍﺩ</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>ﺪﻴﻨﺠﺘﻟﺍ ﺀﺎﻨﺛﺃ</ShowWeapons_WhileDrafted>
+
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>ﺔﻳﻮﺌﻣ ﺔﺟﺭﺩ</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>ﺖﻳﺎﻬﻧﺮﻬﻓ</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>ﻦﻔﻠﻛ</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>ﻥ</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>ﻕﺮﺷ ﻝﺎﻤﺷ</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>ﻕﺮﺷ ﺏﻮﻨﺟ</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>ﻍ</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>ﺏﺮﻏ ﻝﺎﻤﺷ</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>. ًﺍﺪﺑﺃ ﻞﻛﺄﻳ ﻻ</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>ﺐﺷﺎﻋ</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>ﺐﺸﺨﻟﺍ ﻞﻛﺁ</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>ﺾﻴﺒﻟﺍ ﻞﻛﺁ</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>ﻞﻛﻷﺍ ﺩﺪﻌﺘﻣ</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>ﻡﻮﺤﻟ ﻞﻛﺁ</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>ﻉ</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>ﺩ</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>ﺾﻴﺑ</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>ﻡ</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>ﻝ</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>ﺀﻔﻛ ﺮﻴﻏ ﺥﺎﺒﻃ</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>ﺔﺨﺴﺘﻣ ﺦﺒﻃ ﺔﻘﻄﻨﻣ</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>ﺪﺳﺎﻓ ﻡﺎﻌﻃ</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>ﺮﻴﻄﺧ ﻡﺎﻌﻃ ﻉﻮﻧ</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>ﺪﺟﻮﻳ ﻻ</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>ﻂﺳﻮﺘﻣ</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>ﺾﻔﺨﻨﻣ</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>ﻂﺳﻮﺘﻣ</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>ٍﻝﺎﻋ</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>ﻑﺮﻄﺘﻣ</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>ﺍًﺪﺑﺃ</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>ﺓﺮﻴﺒﻛ ﺕﺍﺪﻳﺪﻬﺗ</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>ﻚﻴﺷﻭ ﺪﻳﺪﻬﺗ</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>ﻑﺮﺣ ﻱﺃ</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>ﺔﻜﺣ</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>ﻡﻻﺁ</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>. ﻢﻟﺆﻣ</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>ﻲﻟﺰﻨﻣ ﻞﻴﺼﻓ</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>ﺪﻴﻌﺑ ﻒﻴﻀﻣ ﻞﻴﺼﻓ</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>ﺔﻋﻮﻤﺠﻣ</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>ﺀﺍﻭﺩ ﺔﺌﻓ</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>ﺪﺟﻮﻳ ﻻ</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>ّﻲﺑِﻃ</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>ﻲﻋﺎﻤﺘﺟﺍ</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>ﺐﻌﺻ</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>ٌّﻱﺃ</DrugCategory_Any>
+  
+</LanguageData>

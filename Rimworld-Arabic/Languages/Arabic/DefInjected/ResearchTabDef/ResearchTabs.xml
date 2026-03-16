@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Main -->
+  <Main.label>ﻲﺴﻴﺋﺭ</Main.label>
+  <!-- EN: Unlock new technologies by researching at a research bench. You can only have one active project at a time. -->
+  <Main.generalDescription>. ﺓﺮﻣ ﻞﻛ ﻲﻓ ﻂﺸﻧ ﺪﺣﺍﻭ ﻉﻭﺮﺸﻣ ﺀﺍﺮﺟﺇ ﻚﻨﻜﻤﻳ ﻻ ؛ﺚﺤﺒﻟﺍ ﺪﻌﻘﻣ ﻲﻓ ﺚﺤﺒﻟﺍ ﻝﻼﺧ ﻦﻣ ﺓﺪﻳﺪﺟ ﺕﺎﻴﻨﻘﺗ ﻒﺸﺘﻛﺍ</Main.generalDescription>
+  <!-- EN: Main research projects -->
+  <Main.generalTitle>ﺔﻴﺴﻴﺋﺭ ﺚﺤﺑ ﻊﻳﺭﺎﺸﻣ</Main.generalTitle>
+  
+</LanguageData>

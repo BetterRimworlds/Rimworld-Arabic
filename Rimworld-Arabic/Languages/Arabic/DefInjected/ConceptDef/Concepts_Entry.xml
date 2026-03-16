@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: World view camera movement -->
+  <WorldCameraMovement.label>ﻢﻟﺎﻌﻟﺍ ﺽﺮﻋ ﺍﺮﻴﻣﺎﻛ ﺔﻛﺮﺣ</WorldCameraMovement.label>
+  <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
+  <WorldCameraMovement.helpText>.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻲﺣﺎﺘﻔﻣ ﻭﺃ ﺓﺭﺄﻔﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻴﺒﻜﺗ\n\n. ﺐﺤﺴﻟﺍﻭ ﻂﺳﻭﻷﺍ ﺭﺰﻟﺎﺑ ﺮﻘﻨﻟﺎﺑ ﻭﺃ ،{Key:MapDolly_Right}-{Key:MapDolly_Down}-{Key:MapDolly_Left}-{Key:MapDolly_Up} ﺢﻴﺗﺎﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﻚﻳﺮﺤﺗ</WorldCameraMovement.helpText>
+  <!-- EN: Zoom with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nPan with the D-pad or by using the touch screen. -->
+  <WorldCameraMovement.helpTextController>.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻴﺒﻜﺗ\n\n. ﺲﻤﻠﻟﺍ ﺔﺷﺎﺷ ﻭﺃ ﻢﻜﺤﺘﻟﺍ ﺔﺣﻮﻟ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﻚﻳﺮﺤﺗ</WorldCameraMovement.helpTextController>
+  
+</LanguageData>

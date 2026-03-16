@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>ﻚﻴﻠﻓ ﻦﻣﺩُﻣ</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>. ﺔﻘﻴﻌﻣﻭ ﺔﺠﻬﺒﻣ ﺓﻮﺸﻧ ﺪﻟﻮﻳ. ﻡﺪﻟﺍ ﻯﺮﺠﻣ ﻲﻓ ﻂﺸﻧ ﻚﻴﻠﻓ</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>ﻚﻴﻠﻔﻟﺍ ﻉﺎﻔﺗﺭﺍ</FlakeHigh.labelNoun>
+  
+</LanguageData>

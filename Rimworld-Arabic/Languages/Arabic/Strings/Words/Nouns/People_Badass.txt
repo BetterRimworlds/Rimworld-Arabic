@@ -1,0 +1,30 @@
+﻿//Gente "ruda" para nombres de facción pirata.
+//Género masculino y terminación en vocal para coordinar con artículo (Los) y terminación plural (S) (Los asesino-s rojos, Los abejorros condenado-s, etc)
+الغازي
+القاتل
+اللص
+القطاعي
+الجزار
+الماضي عليه العذاب
+الضخم
+الصليبي
+المتطرف
+النصاب
+القرصان
+الشديد
+القوي
+الضخم
+السمين
+الهائل
+القاتل
+الاستعماري
+العضلي
+المتحور
+العصاباتي
+القرصان
+المسكون
+الشديد
+المتين
+الجندي
+الناجين
+الجلاد

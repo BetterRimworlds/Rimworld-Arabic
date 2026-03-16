@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>ﺐﻳﻮﺼﺘﻟﺍ ﻦﻣﺯ</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>. ﻑﺪﻬﻟﺍ ﺭﺎﻴﺘﺧﺍ ﺪﻌﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺎﻬﻗﺮﻐﺘﺴﻳ ﻲﺘﻟﺍ ﺓﺪﻤﻟﺍ</AimingDelayFactor.description>
+  
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>ﺩﺭﺍﻮﻟﺍ ﺭﺮﻀﻟﺍ ﻒﻋﺎﻀﻣ</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>. ﺓﺩﺭﺍﻮﻟﺍ ﺭﺍﺮﺿﻷﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</IncomingDamageFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>ﻙﺎﺒﺘﺷﺍ ﻉﺭﺩ ﻕﺍﺮﺘﺧﺍ</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>. ﻙﺎﺒﺘﺷﺍ ﻲﻓ ﺕﺎﻤﺠﻬﻟﺍ ﻊﻴﻤﺠﻟ ﻉﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﻂﺳﻮﺘﻣ\n\n. ﺍًﻴﻟﺎﺣ ﻡﺪﺨﺘﺴﻤﻟﺍ ﺡﻼﺴﻟﺍ ﺔﻴﺋﺎﺼﺣﻹﺍ ﻩﺬﻫ ﻦﻤﻀﺘﺗ</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeCooldownFactor.label>ﻙﺎﺒﺘﺷﻻﺍ ﻲﻓﺎﻌﺗ ﺓﺮﺘﻓ</MeleeCooldownFactor.label>
+  <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
+  <MeleeCooldownFactor.description>. ﻙﺎﺒﺘﺷﺍ ﻡﻮﺠﻫ ﺬﻴﻔﻨﺗ ﺪﻌﺑ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻲﻓﺎﻌﺗ ِﺖﻗﻮﻟ ٌﻑِﻋﺎﺿُﻣ</MeleeCooldownFactor.description>
+  
+  <!-- EN: melee damage factor -->
+  <MeleeDamageFactor.label>ﻙﺎﺒﺘﺷﻻﺍ ﺭﺮﺿ ﻞﻣﺎﻋ</MeleeDamageFactor.label>
+  <!-- EN: A multiplier on the amount of melee damage inflicted by this person. -->
+  <MeleeDamageFactor.description>. ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻪﻗِﺤﻟُﻳ ﻱﺬﻟﺍ ﻙﺎﺒﺘﺷﻻﺍ ﺭﺮﺿ ﺭﺍﺪﻘﻣ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</MeleeDamageFactor.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>ﻙﺎﺒﺘﺷﻻﺍ ﻱﺩﺎﻔﺗ ﺔﺻﺮﻓ</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>. ﻚﻟﺫ ﻑﻼﺧ ﺐﻴﺼﻴﺳ ﻥﺎﻛ ﻙﺎﺒﺘﺷﺍ ﻡﻮﺠﻫ ﻱﺩﺎﻔﺘﻟ ﺔﺻﺮﻓ\n\n. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻕﻼﻃﺇ ﻭﺃ ﺐﻳﻮﺼﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻯﺩﺎﻔﺘﺗ ﻦﻟ ﺕﺎﻴﺼﺨﺸﻟﺍ</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﻙﺎﺒﺘﺷﺍ ﺭﺮﺿ</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>. ﻙﺎﺒﺘﺷﺍ ﻝﻼﺧ ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﺭﺮﻀﻟﺍ ﻂﺳﻮﺘﻣ\n\n. ﻉﺭﺪﻟﺍﻭ ﺔﻏﻭﺍﺮﻤﻟﺍ ﻞﺜﻣ ﻑﺪﻬﻟﺍ ﺕﺎﻋﺎﻓﺩ ﺔﻴﺋﺎﺼﺣﻹﺍ ﻩﺬﻫ ﻞﻫﺎﺠﺘﺗ</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>ﻙﺎﺒﺘﺷﺍ ﺏﺮﺿ ﺔﺻﺮﻓ</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>. ﻙﺎﺒﺘﺷﺍ ﻲﻓ ﻑﺪﻫ ﺔﺑﺎﺻﺇ ﺔﺻﺮﻓ\n\n. ﻩﺎﻨﺑﺎﺻﺃ ﺪﻗ ﺎﻨﻛ ﻮﻟ ﻰﺘﺣ ﺏﺮﻬﺘﻟﺍ ﻦﻣ ﻑﺪﻬﻟﺍ ﻦﻜﻤﺘﻳ ﺪﻗ</MeleeHitChance.description>
+  
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.label>ﻥﻭﺎﻬﻟﺍ ﺄﻄﺧ ﺮﻄﻗ ﻒﺼﻧ ﻑِﻋﺎﺿُﻣ</MortarMissRadiusFactor.label>
+  <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
+  <MortarMissRadiusFactor.description>. ﺔﻗﺩ ﺮﺜﻛﺃ ﻥﻭﺎﻫ ﻒﺋﺍﺬﻗ ﻲﻨﻌﺗ ﺮﻐﺻﻷﺍ ﻡﺎﻗﺭﻷﺍ ؛ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻞﺒﻗ ﻦﻣ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﻥﻭﺎﻬﻟﺍ ﻒﺋﺍﺬﻘﻟ ﺄﻄﺨﻟﺍ ﺮﻄﻗ ﻒﺼﻧ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</MortarMissRadiusFactor.description>
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.labelForFullStatList>ﻥﻭﺎﻬﻟﺍ ﺄﻄﺧ ﺮﻄﻗ ﻒﺼﻧ ﻑِﻋﺎﺿُﻣ</MortarMissRadiusFactor.labelForFullStatList>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>ﺦﻔﻟﺍ ﻕﻼﻄﻧﺍ ﻝﺎﻤﺘﺣﺍ</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>. ﺔﻴﺼﺨﺸﻠﻟ ﻙﺭﺪﻣ ﺮﻴﻏ ﺦﻓ ﻞﻴﻌﻔﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ</PawnTrapSpringChance.description>
+  
+  <!-- EN: ranged cooldown multiplier -->
+  <RangedCooldownFactor.label>ﺪﻴﻌﺒﻟﺍ ﺡﻼﺴﻟﺍ ﺔﺋﺪﻬﺗ ﻒﻋﺎﻀﻣ</RangedCooldownFactor.label>
+  <!-- EN: A multiplier on the cooldown between bursts when using a ranged weapon. -->
+  <RangedCooldownFactor.description>. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺕﺎﺑﻭّﻨﻟﺍ ﻦﻴﺑ ﺔﺋﺪﻬﺘﻟﺍ ﺓﺮﺘﻓ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</RangedCooldownFactor.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>)ﻞﻳﻮﻃ (ﺔﻗﺪﻟﺍ ﻞﻣﺎﻋ</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>. ﺮﺜﻛﺃ ﻭﺃ ﺔﻴﻠﺧ 40 ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻗﺪﻠﻟ ﻑِﻋﺎﺿُﻣ</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>)ﻂﺳﻮﺘﻣ (ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>. ﺔﻴﻠﺧ 25 ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻗﺪﻠﻟ ﻑِﻋﺎﺿُﻣ</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>. ﺔﻴﻠﺧ 12 ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻗﺪﻠﻟ ﻑِﻋﺎﺿُﻣ</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>)ﺐﻳﺮﻗ (ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>. ﻞﻗﺃ ﻭﺃ ﺎﻳﻼﺧ 3 ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻗﺪﻠﻟ ﻑِﻋﺎﺿُﻣ</ShootingAccuracyFactor_Touch.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>ﺐﻳﻮﺼﺘﻟﺍ ﺔﻗﺩ</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>. ﻲﻣﺮﻟﺍ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻴﻠﺧ ﻞﻜﻟ ﻲﺳﺎﺳﻷﺍ ﻕﺎﻔﺧﻹﺍ ﻡﺪﻋ ﻝﺎﻤﺘﺣﺍ\n\n. ﺓﺮﻴﺜﻛ ﻯﺮﺧﺃ ﻞﻣﺍﻮﻌﺑ ﺍًﻀﻳﺃ ﺔﺑﺎﺻﻹﺍ ﻝﺎﻤﺘﺣﺍ ﺮﺛﺄﺘﻳ\n\n. ﻑﺪﻬﻟﺍ ﻕﻮﻓ ﺮﻳﺮﻤﺘﻟﺍﻭ ﻲﻣﺍﺮﻟﺍ ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﺔﻴﻣﺭ ﻱﻷ ﺔﺑﺎﺻﻹﺍ ﻝﺎﻤﺘﺣﻻ ﺡﺮﺷ ﺔﻳﺅﺭ ﻦﻜﻤﻳ</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>)ﺩﺍﺮﻓﺃ (ﺐﻳﻮﺼﺘﻟﺍ ﺔﻗﺩ</ShootingAccuracyPawn.labelForFullStatList>
+  
+  <!-- EN: stagger time multiplier -->
+  <StaggerDurationFactor.label>ﺢﻧﺮﺘﻟﺍ ﻦﻣﺯ ﻒﻋﺎﻀﻣ</StaggerDurationFactor.label>
+  <!-- EN: A multiplier on the duration of the stagger-slowdown that occurs when damage is taken. -->
+  <StaggerDurationFactor.description>. ﺭﺮﻀﻟﺍ ﻲﻘﻠﺗ ﺪﻨﻋ ﺙﺪﺤﻳ ﻱﺬﻟﺍ ﺢﻧﺮﺘﻟﺍﻭ ﺆﻃﺎﺒﺘﻟﺍ ﺓﺪﻤﻟ ﻑِﻋﺎﺿُﻣ</StaggerDurationFactor.description>
+  
+</LanguageData>

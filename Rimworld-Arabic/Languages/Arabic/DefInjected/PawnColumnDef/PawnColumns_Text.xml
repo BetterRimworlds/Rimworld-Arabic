@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <ManhunterOnDamageChance.headerTip>. ﻪﺘﺑﺎﺻﺇ ﺪﻨﻋ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺔﻤﺟﺎﻬﻣ ﺔﻴﻟﺎﻤﺘﺣﺍ\n\n. ﺏﺮﻗﺃ ﻢﺟﺎﻬﻤﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﻰﺘﺣ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ ﻩﺬﻫ ﺩﺍﺩﺰﺗ\n\n. ﺪﻴﺼﻟﺍ ﺀﺎﻨﺛﺃ ﺎﻬﻠﻴﻌﻔﺘﻟ ﺔﺿﺮﻋ ﻞﻗﺃ ﺍًﺭﺮﺿ ﺮﺜﻛﻷﺍﻭ ﺍًﻗﻼﻃﺇ ﺄﻄﺑﻷﺍ ﺔﺤﻠﺳﻷﺍ ﻥﺃ ﻲﻨﻌﻳ ﺍﺬﻫﻭ. ﺍًﺭﺮﺿ ﺎﻬﻴﻓ ﻰﻘﻠﺘﻳ ﺓﺮﻣ ﻞﻛ ﻲﻓ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ ﻩﺬﻫ ﻕَّﺒﻃُﺗ</ManhunterOnDamageChance.headerTip>
+  
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <ManhunterOnTameFailChance.headerTip>. ﻞﺸﻔﻳﻭ ﻪﻀﻳﻭﺮﺗ ﺏﺭﺩُﻣ ﻝﻭﺎﺤﻳ ﺎﻣﺪﻨﻋ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺔﻤﺟﺎﻬﻣ ﺔﻴﻟﺎﻤﺘﺣﺍ</ManhunterOnTameFailChance.headerTip>
+  
+</LanguageData>

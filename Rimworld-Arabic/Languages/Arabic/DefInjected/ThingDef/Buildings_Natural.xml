@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab cocoon -->
+  <CocoonMegascarab.label>ﺔﻗﻼﻤﻋ ﺀﺎﺴﻔﻨﺧ ﺔﻘﻧﺮﺷ</CocoonMegascarab.label>
+  <!-- EN: A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegascarab.description>. ﺔﻗﻼﻤﻋ ﺀﺎﺴﻔﻨﺧ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺕﺎﺒﺳ ﺔﻘﻧﺮﺷ\n\n. ﺕﺍﻮﻨﺴﻟ ﻯﺮﺧﻷﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍﻭ ﻯﻮﺼﻘﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺪﻟﺍﻭ ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺔﻣﻼﺳ ﻰﻠﻋ ﻖﻧﺍﺮﺸﻟﺍ ﻩﺬﻫ ﻆﻓﺎﺤﺗ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺮﻔﺤﺗﻭ ﺕﺎﺒﺳ ﻖﻧﺍﺮﺷ ﺍًﻧﺎﻴﺣﺃ ﺕﺍﺮﺸﺤﻟﺍ ﻞﻜﺸﺗ ،ﺔﻴﺗﺍﻮﻣ ﺮﻴﻏ ﻑﻭﺮﻈﻟﺍ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ\n\n. ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻦﻣ ﻖﻧﺍﺮﺸﻟﺍ ﺏﺬﺠﺗ ﻥﺃ ﺔﻳﻮﻘﻟﺍ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳﻭ ،ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺎﻫﺭﻮﻬﻇ ﻲﻓ ﺐﺒﺴﺘﺗﻭ ﻖﻧﺍﺮﺸﻟﺍ ﺰﻔﺤﺗ ﻥﺃ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳ\n\n. ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻲﻓ ﻯﺮﺧﻷﺍ ﺔﺒﻳﺮﻘﻟﺍ ﻖﻧﺍﺮﺸﻟﺍ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻱﺩﺆﻳ ﺎﻤﻣ ،ﻢﺠﻬﺗﻭ ﺎﻬﻠﺧﺍﺪﺑ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ ﻆﻘﻴﺘﺴﺘﺳ ،ﺎﻫﺮﻴﻣﺪﺗ ﻭﺃ ﺔﻘﻧﺮﺸﻟﺍ ﺝﺎﻋﺯﺇ ﻢﺗ ﺍﺫﺇ. ﺞﻋﺯُﺗ ﻢﻟ ﺍﺫﺇ ﺍًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ ﻖﻧﺍﺮﺸﻟﺍ</CocoonMegascarab.description>
+  
+  <!-- EN: megaspider cocoon -->
+  <CocoonMegaspider.label>ﻕﻼﻤﻋ ﺕﻮﺒﻜﻨﻋ ﺔﻘﻧﺮﺷ</CocoonMegaspider.label>
+  <!-- EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegaspider.description>. ﻕﻼﻤﻋ ﺕﻮﺒﻜﻨﻋ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺕﺎﺒﺳ ﺔﻘﻧﺮﺷ\n\n. ﺕﺍﻮﻨﺴﻟ ﻯﺮﺧﻷﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍﻭ ﻯﻮﺼﻘﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺪﻟﺍﻭ ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺔﻣﻼﺳ ﻰﻠﻋ ﻖﻧﺍﺮﺸﻟﺍ ﻩﺬﻫ ﻆﻓﺎﺤﺗ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺮﻔﺤﺗﻭ ﺕﺎﺒﺳ ﻖﻧﺍﺮﺷ ﺍًﻧﺎﻴﺣﺃ ﺕﺍﺮﺸﺤﻟﺍ ﻞﻜﺸﺗ ،ﺔﻴﺗﺍﻮﻣ ﺮﻴﻏ ﻑﻭﺮﻈﻟﺍ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ\n\n. ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻦﻣ ﻖﻧﺍﺮﺸﻟﺍ ﺏﺬﺠﺗ ﻥﺃ ﺔﻳﻮﻘﻟﺍ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳﻭ ،ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺎﻫﺭﻮﻬﻇ ﺐﺒﺴﺗﻭ ﻖﻧﺍﺮﺸﻟﺍ ﺰﻔﺤﺗ ﻥﺃ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳ\n\n. ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻲﻓ ﻯﺮﺧﻷﺍ ﺔﺒﻳﺮﻘﻟﺍ ﻖﻧﺍﺮﺸﻟﺍ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻱﺩﺆﻳ ﺎﻤﻣ ،ﻢﺠﻬﺗﻭ ﺎﻬﻠﺧﺍﺪﺑ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ ﻆﻘﻴﺘﺴﺘﺳ ،ﺕﺭِّﻣُﺩ ﻭﺃ ﺔﻘﻧﺮﺸﻟﺍ ﺖﺠﻋﺯُﺃ ﺍﺫﺇ. ﺞﻋﺯُﺗ ﻢﻟ ﺍﺫﺇ ﺍًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ ﻖﻧﺍﺮﺸﻟﺍ</CocoonMegaspider.description>
+  
+  <!-- EN: spelopede cocoon -->
+  <CocoonSpelopede.label>ﺔﻴﻔﻬﻛ ﺓﺮﺸﺣ ﺔﻘﻧﺮﺷ</CocoonSpelopede.label>
+  <!-- EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonSpelopede.description>. ﺔﻴﻔﻬﻛ ﺓﺮﺸﺣ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺕﺎﺒﺳ ﺔﻘﻧﺮﺷ\n\n. ﺕﺍﻮﻨﺴﻟ ﻯﺮﺧﻷﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍﻭ ﻯﻮﺼﻘﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺩﻭ ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺔﻣﻼﺳ ﻰﻠﻋ ﻖﻧﺍﺮﺸﻟﺍ ﻩﺬﻫ ﻆﻓﺎﺤﺗ. ﺽﺭﻷﺍ ﺖﺤﺗ ﺮﻔﺤﺗﻭ ﺕﺎﺒﺳ ﻖﻧﺍﺮﺷ ﺍًﻧﺎﻴﺣﺃ ﺕﺍﺮﺸﺤﻟﺍ ﻞﻜﺸﺗ ،ﺔﻴﺗﺍﻮﻣ ﺮﻴﻏ ﻑﻭﺮﻈﻟﺍ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ\n\n. ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻦﻣ ﻖﻧﺍﺮﺸﻟﺍ ﺏﺬﺠﺗ ﻥﺃ ﺔﻳﻮﻘﻟﺍ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳﻭ ،ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺎﻫﺭﻮﻬﻇ ﺐﺒﺴﺗﻭ ﻖﻧﺍﺮﺸﻟﺍ ﺰﻔﺤﺗ ﻥﺃ ﺕﺎﺛﻮﻠﻤﻠﻟ ﻦﻜﻤﻳ\n\n. ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻲﻓ ﻯﺮﺧﻷﺍ ﺔﺒﻳﺮﻘﻟﺍ ﻖﻧﺍﺮﺸﻟﺍ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻱﺩﺆﻳ ﺎﻤﻣ ،ﻢﺠﻬﺗﻭ ﺎﻬﻠﺧﺍﺪﺑ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ ﻆﻘﻴﺘﺴﺘﺳ ،ﺕﺮﻣُﺩ ﻭﺃ ﺔﻘﻧﺮﺸﻟﺍ ﺖﺠﻋﺯُﺃ ﺍﺫﺇ. ﺞﻋﺯُﺗ ﻢﻟ ﺍﺫﺇ ﺍًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ ﻖﻧﺍﺮﺸﻟﺍ</CocoonSpelopede.description>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>ﺓﺭﺎﻬﻨﻣ ﺭﻮﺨﺻ</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>. ﻒﻘﺳ ﻢﻋﺪﻟ ٍﻑﺎﻛ ﻡﺎﻜﺣﺈﺑ ﺔﻃﻮﻐﻀﻣ ،ﺔﻤﻛﺍﺮﺘﻣ ﺭﻮﺨﺻ</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>ﺞﻫﻮﺗ ﺔﻟﻮﺴﺒﻛ</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>. ﺕﻮﻤﺗ ﻢﺛ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺹﺎﺨﻟﺍ ﺎﻬﺋﻮﻀﺑ ﺞﻫﻮﺘﺗ ،ﺔﻗﻼﻤﻋ ﺕﺍﺮﺸﺣ ﺎﻬﺠﺘﻨﺗ ﺍًﻴﺟﻮﻟﻮﻴﺑ ﺔﺌﻴﻀﻣ ﺔﻧﺮﻗ</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>ﺔﻴﻠﺧ</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>. ﻡّﻴﻗ ﺕﺍﺮﺸﺣ ﻡﻼﻫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺔﻴﻓﺎﺿﺇ ﺎﻳﻼﺧﻭ ﺕﺍﺮﺸﺣ ﺥﺮﻓُﺘﺳ ﺎﻬﻧﺈﻓ ،ﺎﻬﻄﻴﺸﻨﺗ ﻢﺗ ﺍﺫﺇ. ﺕﺍﺮﺸﺤﻠﻟ ﺔﻤﺨﺿ ﺔﻴﻠﺧ</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>ﺔﻓَّﺜﻛُﻣ ﺕﻻﺁ</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>. ﺓﺪﻴﻔﻣ ﺕﺎﻧﻮﻜﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻨﻳﺪﻌﺗ ﻦﻜﻤﻳ. ﻦﻣﺰﻟﺍ ﺮﺒﻋ ﺔﻃﻮﻐﻀﻣ ،ﺔﻤﻳﺪﻗ ﺕﻻﺁ</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>ﺐﻫﺫ ﻡﺎﺧ</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>. ﺐﻫﺬﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺓﺮﺨﺻ</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>ﻢﺸﻳ</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>. ﻢﺸﻴﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺓﺮﺨﺻ</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>ﻁﻮﻐﻀﻣ ﻞﻴﺘﺳﻼﺑ</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>. ﻞﻴﺘﺳﻼﺒﻟﺎﺑ ﺔﻴﻨﻏ ﺔﻃﻮﻐﻀﻣ ﺔﻤﻳﺪﻗ ﺽﺎﻘﻧﺃ</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>ﺔﻀﻓ ﻡﺎﺧ</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>. ﺔﻀﻔﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺓﺮﺨﺻ</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>ﻁﻮﻐﻀﻣ ﺫﻻﻮﻓ</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>. ﺫﻻﻮﻔﻟﺎﺑ ﻲﻨﻏ. ﺭﺎﻬﻨﻣ ﻢﻳﺪﻗ ﻞﻜﻴﻫ ﺎﻳﺎﻘﺑ</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻡﺎﺧ</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>. ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻦﻣ ﻊﻄﻗ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺓﺮﺨﺻ</MineableUranium.description>
+  
+  <!-- EN: raised rocks -->
+  <RaisedRocks.label>ﺔﻌﻔﺗﺮﻣ ﺭﻮﺨﺻ</RaisedRocks.label>
+  <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
+  <RaisedRocks.description>. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺭﺎﻬﻨﻳ ﻑﻮﺳﻭ ،ﺽﺎﻘﻧﻷﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ﺶﻫ ﻂﺋﺎﺣ</RaisedRocks.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>ﺔﻳﺭﺎﺨﺑ ﺓﺭﻮﻓﺎﻧ</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>. ﺔﻋﺮﺴﺑ ﻮﻬﻄﺘﺳ ﺍﺬﻫ ﻕﻮﻓ ﺔﻴﻨﺒﻤﻟﺍ ﻑﺮﻐﻟﺍ. ﺭﺎﺨﺒﻟﺍ ﺔﻗﺎﻃ ﺮﻴﺨﺴﺗ ﺔﻴﺿﺭﻷﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺕﺍﺪﻟﻮﻤﻠﻟ ﻦﻜﻤﻳ. ﻂﻐﻀﻟﺍ ﻲﻟﺎﻋ ﺭﺎﺨﺒﻠﻟ ﻲﻌﻴﺒﻃ ﺭﺪﺼﻣ</SteamGeyser.description>
+  
+</LanguageData>

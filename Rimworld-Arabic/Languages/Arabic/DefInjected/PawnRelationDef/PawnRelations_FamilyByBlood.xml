@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son -->
+  <Child.label>ﻦﺑﺍ</Child.label>
+  <!-- EN: daughter -->
+  <Child.labelFemale>ﺔﻨﺑﺍ</Child.labelFemale>
+  
+  <!-- EN: cousin -->
+  <Cousin.label>ﻢﻌﻟﺍ ﻦﺑﺍ</Cousin.label>
+  <Cousin.labelFemale>ﺔﻟﺎﺧ/ّﻢﻋ ﺔﻨﺑﺍ</Cousin.labelFemale>
+  
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>ﺪﻴﻌﺑ ﻢﻋ ﻦﺑﺍ</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>ﺓﺪﻴﻌﺑ ّﻢﻋ ﺔﻨﺑﺍ</CousinOnceRemoved.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>ﺪﻴﻔﺣ</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>ﺓﺪﻴﻔﺣ</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>ﺥﻷﺍ ﻦﺑﺍ ﻦﺑﺍ</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>ﺖﺧﻷﺍ ﻦﺑﺍ ﺔﻨﺑﺍ</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>ﺪﺟ</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>ﺓّﺪﺟ</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>ﺪﺠﻟﺍ ﻢﻋ</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>ﺪﺠﻟﺍ ﺔﻤﻋ</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>ﺪﻴﻔﺤﻟﺍ ﺪﻴﻔﺣ</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>ﺓﺪﻴﻔﺤﻟﺍ ﺓﺪﻴﻔﺣ</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>ّﺪﺠﻟﺍ ّﺪﺟ</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>ﻯﺮﺒﻛ ﺓﺪﺟ</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>ﺥﺃ</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>ﺖﺧﺃ</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
+  <Kin.label>ﻡﺩ ﺐﻳﺮﻗ</Kin.label>
+  <Kin.labelFemale>ﺔﺒﻳﺮﻗ</Kin.labelFemale>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>ﺥﺃ ﻦﺑﺍ</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>ﺖﺧﺃ ﻭﺃ ﺥﺃ ﺔﻨﺑﺍ</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>ﺏﺃ</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>ﺔﻨﺿﺎﺣ ٌّﻡﺃ</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>ﺔﻴﻧﺎﺜﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﻢﻋ ﻦﺑﺍ</SecondCousin.label>
+  <SecondCousin.labelFemale>ﺔﻴﻧﺎﺜﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﻢﻋ ﺔﻨﺑﺍ</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>ﺥﺃ</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>ﺖﺧﺃ</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>ﻢﻋ</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>ﺔﻤﻋ</UncleOrAunt.labelFemale>
+  
+</LanguageData>

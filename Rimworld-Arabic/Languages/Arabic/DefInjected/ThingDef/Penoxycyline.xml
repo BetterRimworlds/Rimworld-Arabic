@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: penoxycyline -->
+  <Penoxycyline.label>ﻦﻴﻠﻴﺴﻴﺴﻛﻮﻨﻴﺑ</Penoxycyline.label>
+  <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
+  <Penoxycyline.description>. ًﻻﺎﻌﻓ ﻰﻘﺒﻴﻟ ﻡﺎﻳﺃ ﺔﺴﻤﺧ ﻞﻛ ﻪﻟﻭﺎﻨﺗ ﺐﺠﻳ. ﻥﻮﻋﺎﻄﻟﺍﻭ ﻡﻮﻨﻟﺍ ﺀﺍﺩﻭ ﺎﻳﺭﻼﻤﻟﺍ ﻊﻨﻤﻳ. ﻦﻃﻮﺘﺗ ﻥﺃ ﻞﺒﻗ ﻯﻭﺪﻌﻟﺍ ﻊﻨﻤﻟ ﺀﺍﻭﺩ\n\n. ﺪﻌﺑ ﻒﺸﺘﻛُﺗ ﻢﻟ ﻲﺘﻟﺍ ﻚﻠﺗ ﻰﺘﺣ - ﺓﺩﻮﺟﻮﻤﻟﺍ ﻯﻭﺪﻌﻟﺍ ﺞﻟﺎﻌﻳ ﻻ. ﻂﻘﻓ ﺓﺪﻳﺪﺠﻟﺍ ﻯﻭﺪﻌﻟﺍ ﻊﻨﻤﻳ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ</Penoxycyline.description>
+  <!-- EN: Take {0} -->
+  <Penoxycyline.ingestible.ingestCommandString>{0} ﻝَﻭﺎﻨﺗ</Penoxycyline.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Penoxycyline.ingestible.ingestReportString>.{0} ﻝﻭﺎﻨﺘﻳ</Penoxycyline.ingestible.ingestReportString>
+  
+</LanguageData>

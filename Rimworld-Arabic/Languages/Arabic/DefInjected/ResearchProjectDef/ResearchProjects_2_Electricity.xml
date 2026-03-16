@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>ﺀﺍﻮﻫ ﻒﻴﻴﻜﺗ</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>.ﻒﻠﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﻊﺋﺎﻀﺒﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺕﺍﺪﻤﺠﻣ ِﻦﺑﺍ ﻭﺃ ،ﺭﺎﺤﻟﺍ ﺲﻘﻄﻟﺍ ﻲﻓ ﻦﻴﺣﺎﺗﺮﻣ ﺱﺎﻨﻟﺍ ﻞﻌﺠﻟ ﺕﺍﺩﺮﺒﻣ ِﻦﺑﺍ</AirConditioning.description>
+  <!-- EN:
+    <li>subject->air conditioning</li>
+    <li>subject_story->visited the hottest town on the planet</li>
+    <li>subject_story->worked at the ice caps, in an interstellar warehouse kept near to absolute zero</li>
+    <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
+    <li>subject_gerund->building air conditioning units</li>
+  -->
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->ﺀﺍﻮﻫ ﻒﻴﻴﻜﺗ</li>
+    <li>subject_def->ﺀﺍﻮﻬﻟﺍ ﻒﻴﻜﻣ ﻦﻣ</li>
+    <li>subject_story->ﺐﻛﻮﻜﻟﺍ ﻰﻠﻋ ﺔﻳﺮﻗ ﺮﺣﺃ ﺭﺍﺯ</li>
+    <li>subject_story->.ﻖﻠﻄﻤﻟﺍ ﺮﻔﺼﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻪﻴﻠﻋ ﻆﻓﺎﺤُﻣ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﻉﺩﻮﺘﺴﻣ ﻲﻓ ،ﺔﻳﺪﻴﻠﺠﻟﺍ ﻢﻤﻘﻟﺍ ﻲﻓ ﻞﻤﻋ</li>
+    <li>subject_story->.ﻝﺰﻨﻤﻟﺍ ﻰﻟﺇ ﺩﺎﻋ ﻢﺛ ،ﺕﺍﺪﻤﺠﻤﻟﺍﻭ ﺀﺍﻮﻬﻟﺍ ﻒﻴﻴﻜﺗ ﻦﻋ ﺀﻴﺷ ﻞﻛ ﻢﻠﻌﺗ</li>
+    <li>subject_gerund->ﺀﺍﻮﻬﻟﺍ ﻒﻴﻴﻜﺗ ﺕﺍﺪﺣﻭ ﻊﻴﻨﺼﺗ</li>
+  </AirConditioning.generalRules.rulesStrings>
+
+  <!-- EN: autodoor -->
+  <Autodoors.label>ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺏﺍﻮﺑﺃ</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>.ﺪﺣﺃ ﺔﻛﺮﺣ ﺀﺎﻄﺑﺇ ﻥﻭﺩ ،ﺎﻣ ﺺﺨﺷ ﺏﺮﺘﻘﻳ ﺎﻣﺪﻨﻋ ﺎًﻴﺋﺎﻘﻠﺗ ﺢﺘﻔﺗ ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺎًﺑﺍﻮﺑﺃ ِﻦﺑﺍ</Autodoors.description>
+  <!-- EN:
+    <li>subject->autodoors</li>
+    <li>subject->automatic doors</li>
+    <li>subject_story->was recruited by a robotics security firm, opening the door to a career as an automation tester</li>
+    <li>subject_story->prototyped unique models of autodoors</li>
+    <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
+    <li>subject_gerund->constructing autodoors</li>
+  -->
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺏﺍﻮﺑﺃ</li>
+    <li>subject_def->ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺄﻟﺍ ﺏﺍﻮﺑﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﺘﻤﺗﺄﻠﻟ ﻢّﻴﻘﻤﻛ ﺔﻴﻨﻬﻣ ﺓﺮﻴﺴﻤﻟ ﺏﺎﺒﻟﺍ ﻪﻟ ﺢﺘﻓ ﺎﻤﻣ ،ﺕﺎﺗﻮﺑﻭﺭ ﻦﻣﺃ ﺔﻛﺮﺷ ﻞﺒﻗ ﻦﻣ ﻩﺪﻴﻨﺠﺗ ﻢﺗ</li>
+    <li>subject_story->.ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺄﻟﺍ ﺏﺍﻮﺑﺄﻟﺍ ﻦﻣ ًﺓﺪﻳﺮﻓ َﺝﺫﺎﻤﻧ َﺝَﺬﻤﻧ</li>
+    <li>subject_story->.ﺎﻬﻗﺎﻠﻏﺇ ﻭﺃ ﺎﻬﺤﺘﻓ ﺪﻨﻋ ٍﺽﺮُﻣ "ﺶﺸﺷ" ﺕﻮﺼﻟ ﺏﺍﻮﺑﺄﻟﺍ ﺭﺍﺪﺻﺇ ﻥﺎﻤﻀﻟ ﺪﺠﺑ ﻞﻤﻋ</li>
+    <li>subject_gerund->ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺏﺍﻮﺑﺃ ﺀﺎﻨﺑ</li>
+  </Autodoors.generalRules.rulesStrings>
+
+  <!-- EN: battery -->
+  <Batteries.label>ﺕﺎﻳﺭﺎﻄﺑ</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>.ﺀﺎﺑﺮﻬﻜﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺕﺎﻳﺭﺎﻄﺑ ِﻦﺑﺍ</Batteries.description>
+  <!-- EN:
+    <li>subject->batteries</li>
+    <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
+    <li>subject_story->was in charge of maintaining the life support if the colony lost power</li>
+    <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
+    <li>subject_gerund->building batteries</li>
+  -->
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺏﺍﻮﺑﺃ</li>
+    <li>subject_def->ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻴﻌﻴﺒﻃ ﺔﻳﺭﺎﻄﺒﻛ ﻞﻤﻌﺗ ﺖﻧﺎﻛ ﺖﻴﻣ ﻢﻟﺎﻋ ﻲﻓ ﺹﺎﺻﺮﻟﺍ ﺊﻃﺍﻮﺷ ﻰﻠﻋ ﺔﻴﻀﻤﺣ ﺓﺮﻴﺤﺑ ﻥﺃ ﻒﺸﺘﻛﺍ</li>
+    <li>subject_story->.ﺔﻗﺎﻄﻟﺍ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺪﻘﻓ ﺍﺫﺇ ﺓﺎﻴﺤﻟﺍ ﻢﻋﺩ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺎﺑ ﺎًﻔﻠﻜﻣ ﻥﺎﻛ</li>
+    <li>subject_story->.ﺕﺎﻳﺭﺎﻄﺒﻟﺍﻭ ﺕﺎﻟﺂﻟﺍ ﺡﺎﻠﺻﺇ ،ﺓﺩﺮﺨﻟﺍ ﻢﻟﺍﻮﻋ ﻲﻓ ﻞﻤﻋ</li>
+    <li>subject_gerund->ﺕﺎﻳﺭﺎﻄﺑ ﺀﺎﻨﺑ</li>
+  </Batteries.generalRules.rulesStrings>
+
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>ﻱﻮﻴﺤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻲﻓﺎﺼﻣ</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>.ﺔﻤﻌﻃﺄﻟﺍ ﻭﺃ ﺐﺸﺨﻟﺍ ﻞﺜﻣ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻱﻮﻴﺤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻊﻴﻨﺼﺘﻟ ﻲﻓﺎﺼﻣ ِﻦﺑﺍ</BiofuelRefining.description>
+  <!-- EN:
+    <li>subject->biofuel</li>
+    <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
+    <li>subject_story->used automated biorefineries to begin the long terraforming process on an iceworld</li>
+    <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
+    <li>subject_gerund->refining biofuel</li>
+  -->
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->ﺕﺎﻳﺭﺎﻄﺑ</li>
+    <li>subject_def->ﻱﻮﻴﺤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻦﻣ</li>
+    <li>subject_story->ﺕﺎﻛﺮﺤﻤﻟﺍ ﻞﻴﻐﺸﺗ ﺓﺩﺎﻋﺇﻭ ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﻰﻟﺇ ﺔﻳﺮﺸﺑ ﺎﻳﺎﻘﺑ ﻞﻳﻮﺤﺘﻟ ﺮﻳﺮﻜﺘﻟﺎﺑ ﻪﺘﻓﺮﻌﻣ ﻡﺪﺨﺘﺳﺍ ﺔﻗﺎﻄﻟﺍ ﻞﻴﺟ ﺔﻨﻴﻔﺳ ﺕﺪﻘﻓ ﺎﻣﺪﻨﻋ {PAWN_gender ? o : a}ﻖﻠﻋ</li>
+    <li>subject_story->.ﺪﻤﺠﺘﻣ ﻢﻟﺎﻌﻟ ﺔﻠﻳﻮﻄﻟﺍ ﻲﺌﻴﺒﻟﺍ ﻞﻳﻮﺤﺘﻟﺍ ﺔﻴﻠﻤﻋ ﺀﺪﺒﻟ ﺔﻴﻟﺁ ﺔﻳﻮﻴﺣ ﻲﻓﺎﺼﻣ ﻡﺪﺨﺘﺳﺍ</li>
+    <li>subject_story->.ﻚﻟﺫ ﻦﻣ ًﺎﻟﺪﺑ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻮﻛ ﻪﻋﺎﺒﻓ ،ﺏﺮﺸﻠﻟ ﺢﻟﺎﺻ ﺮﻴﻏ ﻪﻧﺃ ﻙﺭﺩﺃ ﻪﻨﻜﻟ ،ﻲﻟﺰﻨﻣ ﻲﻟﻮﺤﻛ ﺏﻭﺮﺸﻣ ﺝﺎﺘﻧﺈﻟ ﺮﻴﻄﻘﺗ ﻞﻤﻌﻣ ﺃﺪﺑ</li>
+    <li>subject_gerund->ﻱﻮﻴﺤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﺮﻳﺮﻜﺗ</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>ﺩﺍﺪﺗﺭﺎﻟﺍ ﺔﻴﻠﻤﻋ</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>.ﺕﺎﺷﺎﺷﺮﻟﺍﻭ ﺔﻴﻟﺂﻟﺍ ﺕﺎﺳﺪﺴﻤﻟﺍ ﻞﺜﻣ ،ﺔﻴﻟﺁﻭ ﺔﻴﻟﺁ ﻒﺼﻧ ﺔﻄﻴﺴﺑ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</BlowbackOperation.description>
+  <!-- EN:
+    <li>subject->pistols</li>
+    <li>subject->blowback firearms</li>
+    <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
+    <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
+    <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
+    <li>subject_gerund->crafting blowback firearms</li>
+  -->
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->ﻱﻮﻴﺣ ﺩﻮﻗﻭ</li>
+    <li>subject->ﺕﺎﺳﺪﺴﻣ</li>
+    <li>subject_def->ﺕﺎﺳﺪﺴﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_def->ﺔﺤﻠﺳﺄﻟﺍ ﺩﺍﺪﺗﺭﺍ</li>
+    <li>subject_story->.ﺐﻛﻮﻜﻟﺍ ﺖﺣﺎﺘﺟﺍ ﻲﺘﻟﺍ ﻕﺩﺎﻨﺨﻟﺍ ﻙﺭﺎﻌﻣ ﻲﻓ ﺔﺷﺎﺷﺭ ﺕﺎﺳﺪﺴﻣ ﻡﺪﺨﺘﺳﺍ</li>
+    <li>subject_story->.ﺕﺍﺭﺍﺪﻤﻟﺍ ﻲﻓ ﻦﻣﺄﻟﺍ ﺕﺍﻮﻘﻟ ﺔﻴﻘﻴﻘﺣ ﺔﻗﺎﻄﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﺕﺎﺳﺪﺴﻣ ﻉﺎﺑ</li>
+    <li>subject_story->.ﺮﻈﻨﻟﺍ ﺮﺼﻗ ﻱﻭﺫ ﻦﻳﺪﻨﺠﻤﻠﻟ ﺩﺍﺪﺗﺭﺎﻟﺎﺑ ﻞﻤﻌﺗ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</li>
+    <li>subject_gerund->ﺔﻳﺩﺍﺪﺗﺭﺍ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+
+  <!-- EN: advanced lights -->
+  <ColoredLights.label>ﺓﺭﻮﻄﺘﻣ ﺀﺍﻮﺿﺃ</ColoredLights.label>
+  <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
+  <ColoredLights.description>.ﺔﻴﺴﻤﺸﻟﺍ ﺢﻴﺑﺎﺼﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﺎﻟ ﺍﺬﻫ .ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺔﻗﺎﻄﻠﻟ ﺎﻬﻛﺎﻠﻬﺘﺳﺍ ﻦﻣ ﻞّﻠﻗﻭ ﺔﻴﺳﺎﻴﻘﻟﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺢﻴﺑﺎﺼﻤﻟﺍ ﻥﻮﻟ ﺮّﻴﻏ</ColoredLights.description>
+  <!-- EN:
+    <li>subject->advanced lighting</li>
+    <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
+    <li>subject_story->made sure that the planet's dark side was well-lit</li>
+    <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
+    <li>subject_gerund->building advanced lights</li>
+  -->
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->ﺔﻳﺩﺍﺪﺗﺭﺍ ﺔﺤﻠﺳﺃ</li>
+    <li>subject_def->ﺔﻣﺪﻘﺘﻤﻟﺍ ﺀﺍﻮﺿﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﻦﺠﺳ ﻢﻟﺎﻌﻟ ﺓﺪﻳﺪﻌﻟﺍ ﺔﻴﻨﻣﺄﻟﺍ ﺕﺎﻄﻴﺤﻤﻟﺍ ﻝﻮﺣ ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺔﻔﺷﺎﻛ ﺀﺍﻮﺿﺃ ﺖّﺒﺛ</li>
+    <li>subject_story->.ﺪﻴﺟ ﻞﻜﺸﺑ ﺀﺎﻀﻣ ﺐﻛﻮﻜﻟﺍ ﻦﻣ ﻢﻠﻈﻤﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ</li>
+    <li>subject_story->.ﺔﻨﻴﻔﺴﻠﻟ ﺔﻤﺨﻀﻟﺍ ﺓﺀﺎﺿﺈﻟﺍ ﺔﻤﻈﻧﺄﺑ ﻢﻜﺤﺘﻟﺍ ﻲﻓ ﺎًﺼﺼﺨﺘﻣ ،ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﻦﻴﻟﻮﺠﺘﻤﻟﺍ ﻦﻴﻨﻐﻤﻠﻟ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺕﺎﻠﻔﺤﻟﺍ ﻢﻴﻈﻨﺗ ﻲﻓ ﻁﺮﺨﻧﺍ</li>
+    <li>subject_gerund->ﺓﺭﻮﻄﺘﻣ ﺀﺍﻮﺿﺃ ﺀﺎﻨﺑ</li>
+  </ColoredLights.generalRules.rulesStrings>
+
+  <!-- EN: electricity -->
+  <Electricity.label>ﺀﺎﺑﺮﻬﻛ</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>.ﺔﻔﻠﺘﺨﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ ﺕﺎﺌﻤﻟ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺓﻮﻗ ﻞﻐﺘﺳﺍ</Electricity.description>
+  <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+  <Electricity.discoveredLetterText>ﻚﺗﺮﻤﻌﺘﺴﻣ ﺓﺎﻴﺣ ﺐﻧﺍﻮﺟ ﻞﻛ ﺮﻴﻴﻐﺗ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﺎﻬﻳﺪﻟ "ﺀﺎﺑﺮﻬﻜﻟﺍ" ﺀﺎﺑﺮﻐﻟﺍ ﺎﻬﻴﻤﺴﻳ ﻲﺘﻟﺍ ﺓﻮﻘﻟﺍ ﻚﺗﺮﻤﻌﺘﺴﻣ ﺖﻠﻐﺘﺳﺍ ﺪﻘﻟ\n\nﺓﺰﻬﺟﺄﻟﺍﻭ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺕﺍﺪﻟﻮﻤﻟﺍ ﻂﺑﺮﺗ ﻲﺘﻟﺍ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺔﻜﺒﺷ ﺎًﻀﻳﺃ "ﺀﺎﺑﺮﻬﻜﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﺎﻠﻋ ﺽﺮﻌﺗ ﺎﻤﻛ ﺓﺪﻳﺪﺠﻟﺍ ﺓﻮﻘﻟﺍ ﻩﺬﻫ ﻲﻓ ﻢﻜﺤﺘﻠﻟ ﻯﺮﺧﺃ ﺕﺎﻴﻟﺁﻭ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﺍﻮﻨﻗﻭ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﺍﺪﻟﻮﻣ ﺀﺎﻨﺑ ﺎﻬﻟﺎﻠﺧ ﻦﻣ ﻚﻨﻜﻤﻳ ﻲﺘﻟﺍﻭ ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ "ﺀﺎﺑﺮﻬﻜﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﺎﻠﻋ ﺖﺤﺘﻓ ﺪﻘﻟ</Electricity.discoveredLetterText>
+  <!-- EN: About: Electricity -->
+  <Electricity.discoveredLetterTitle>ﺀﺎﺑﺮﻬﻜﻟﺍ</Electricity.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->electricity</li>
+    <li>subject_story->was struck by lighting and became determined to harness it</li>
+    <li>subject_story->created the first generator and lightbulb on a medieval world</li>
+    <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
+    <li>subject_gerund->harnessing electricity</li>
+  -->
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->ﺔﻣﺪﻘﺘﻣ ﺓﺀﺎﺿﺇ</li>
+    <li>subject_def->ﺀﺎﺑﺮﻬﻜﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺎﻫﺮﻴﺨﺴﺗ ﻰﻠﻋ ﺮﺻﺃﻭ ﺔﻘﻋﺎﺻ ﺔﺑﺮﻀﻟ ﺽﺮﻌﺗ</li>
+    <li>subject_story->.ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻦﻣ ﻢﻟﺎﻋ ﻲﻓ ﻲﺋﺎﺑﺮﻬﻛ ﺡﺎﺒﺼﻣﻭ ﺪﻟﻮﻣ ﻝﻭﺃ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﺭﻮﻨﻟﺍ ﻪﻘﻠﺨﻟ ﺮﻔﻜﻟﺍ ﺔﻤﻬﺘﺑ ﻲﻋﺎﻄﻗﺇ ﻢﻟﺎﻋ ﻲﻓ َﻡِﺪﻋُﺃ</li>
+    <li>subject_gerund->ﺀﺎﺑﺮﻬﻜﻟﺍ ﺮﻴﺨﺴﺗ</li>
+  </Electricity.generalRules.rulesStrings>
+
+  <!-- EN: firefoam -->
+  <Firefoam.label>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>.ﺓﺪﻋﺎﺼﺘﻤﻟﺍ ﻥﺍﺮﻴﻨﻠﻟ ًﺔﺑﺎﺠﺘﺳﺍ ﻖﻳﺮﺤﻠﻟ ﺔﻣﻭﺎﻘﻣ ﺓﻮﻏﺭ ﺮﺸﻨﺗ ﻖﺋﺍﺮﺤﻟﺍ ﺪﺿ ﺔﻴﻟﺁ ﻥﺎﻣﺃ ﺓﺰﻬﺟﺃ ،ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ ﺕﺎﻓﺫﺎﻗ ِﻦﺑﺍ</Firefoam.description>
+  <!-- EN:
+    <li>subject->firefoam poppers</li>
+    <li>subject->fire safety devices</li>
+    <li>subject_story->headed up an agency promulgating fire safety to the whole population</li>
+    <li>subject_story->became a firefighter</li>
+    <li>subject_story->was saved by the poppers when an oil fire spiraled out of control</li>
+    <li>subject_gerund->constructing firefoam poppers</li>
+    <li>subject_gerund->suppressing fires with poppers</li>
+  -->
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->ﺓﻮﻏﺮﻟﺍ ﺀﺎﻔﻃﺇ ﺓﺰﻬﺟﺃ</li>
+    <li>subject->ﺔﻳﺭﺎﻨﻟﺍ ﺓﻮﻏﺮﻟﺍ ﺕﺍﺩﺭﺎﻃ</li>
+    <li>subject_def->ﺓﻮﻏﺮﻟﺍ ﺀﺎﻔﻃﺇ ﺓﺰﻬﺟﺃ ﻦﻣ</li>
+    <li>subject_def->ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺔﻣﺎﻠﺴﻟﺍ ﺓﺰﻬﺟﺃ ﻦﻣ</li>
+    <li>subject_story->.ﻥﺎﻜﺴﻟﺍ ﻊﻴﻤﺠﻟ ﻖﻳﺮﺤﻟﺍ ﺔﻣﺎﻠﺴﻟ ﺝﻭﺮﺗ ﺖﻧﺎﻛ ﺔﻟﺎﻛﻭ ﺱﺃﺮﺗ</li>
+    <li>subject_story->ﺀﺎﻔﻃﺇ ﻞﺟﺭ ﺢﺒﺻﺃ</li>
+    <li>subject_story->.ﺓﺮﻄﻴﺴﻟﺍ ﻦﻋ ﺖﻳﺰﻟﺍ ﻖﻳﺮﺣ ﺝﺮﺧ ﺎﻣﺪﻨﻋ ﻖﻳﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﻱﻭﺎﻏﺭ ﺔﻄﺳﺍﻮﺑ َﺬِﻘﻧُﺃ</li>
+    <li>subject_gerund->ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ ﺕﺎﻓﺫﺎﻗ ﻊﻨﺻ</li>
+    <li>subject_gerund->ﺓﺰﻬﺟﺄﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</li>
+  </Firefoam.generalRules.rulesStrings>
+
+  <!-- EN: flak armor -->
+  <FlakArmor.label>ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﻉﻭﺭﺩ</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>.ًﺎﻠﻴﻠﻗ ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﺗ ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺔﻠﻴﻘﺜﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻩﺬﻫ .ﺕﺍﺭﺎﺠﻔﻧﺎﻟﺍﻭ ﺹﺎﺻﺮﻟﺍ ﺔﻣﻭﺎﻘﻤﻟ ﺔﻄﻴﺨﻣ ﺔﻴﻧﺪﻌﻣ ﺢﺋﺎﻔﺼﺑ ﺔﻋﺭﺪﻣ ﺲﺑﺎﻠﻣ ﻊﻨﺻﺍ</FlakArmor.description>
+  <!-- EN:
+    <li>subject->flak armor</li>
+    <li>subject_story->supplied flak armor to the militias that ran the cities</li>
+    <li>subject_story->learned to sew metal plates into clothing, to protect kin from the roving gangs</li>
+    <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
+    <li>subject_gerund->crafting flak armor</li>
+  -->
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺲﺑﺎﻠﻣ</li>
+    <li>subject_def->ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻮﻟﺍ ﺲﺑﺎﻠﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺲﺑﺎﻠﻤﺑ ﻥﺪﻤﻟﺍ ﻰﻠﻋ ﺮﻄﻴﺴﺗ ﻲﺘﻟﺍ ﺕﺎﻴﺸﻴﻠﻴﻤﻟﺍ ﺩّﻭﺯ</li>
+    <li>subject_story->.ﺔﻟﻮﺠﺘﻤﻟﺍ ﺕﺎﺑﺎﺼﻌﻟﺍ ﻦﻣ ﺏﺭﺎﻗﺄﻟﺍ ﺔﻳﺎﻤﺤﻟ ﺲﺑﺎﻠﻤﻟﺍ ﻲﻓ ﺔﻴﻧﺪﻌﻣ ﺢﺋﺎﻔﺻ ﺔﻃﺎﻴﺧ ﻢﻠﻌﺗ</li>
+    <li>subject_story->.ﺭﺪﺼﻟﺍ ﺐﻴﺟ ﻲﻓ ﺔﻄﻴﺨﻤﻟﺍ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺔﺣﻮﻠﻟﺍ ﻞﻀﻔﺑ ﺔﻴﻗﺪﻨﺑ ﺔﺻﺎﺻﺭ ﻦﻣ ﺎﺠﻧ</li>
+    <li>subject_gerund->ﺔﻴﻗﺍﻭ ﻉﻭﺭﺩ ﻊﻨﺻ</li>
+  </FlakArmor.generalRules.rulesStrings>
+
+  <!-- EN: foam turret -->
+  <FoamTurret.label>ﻱﻮﻏﺭ ﺝﺮﺑ</FoamTurret.label>
+  <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
+  <FoamTurret.description>.ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺵﺮﻟ ﻪﻠﻴﻌﻔﺗ ﻦﻜﻤﻳ ﺎًﺟﺮﺑ ﻊّﻨﺻ</FoamTurret.description>
+  <!-- EN:
+    <li>subject->foam turrets</li>
+    <li>subject->fire suppression turrets</li>
+    <li>subject_story->redesigned gun turrets to put out fires, not create them</li>
+    <li>subject_story->incorporated heat sensors and foam ejectors into a standard turret chassis</li>
+    <li>subject_story->was praised after installing cheap foam turrets in public areas and saving many lives</li>
+    <li>subject_gerund->constructing fire suppression turrets</li>
+    <li>subject_gerund->suppressing fires with turrets</li>
+  -->
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject->ﻒﺋﺍﺬﻘﻠﻟ ﺓﺩﺎﻀﻤﻟﺍ ﻉﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﺃ</li>
+    <li>subject->ﺔﻳﻮﻏﺭ ﺝﺍﺮﺑﺃ</li>
+    <li>subject_def->ﺓﻮﻏﺮﻟﺍ ﺝﺍﺮﺑﺃ ﻦﻣ</li>
+    <li>subject_def->ﻖﺋﺍﺮﺤﻟﺍ ﻊﻤﻗ ﺝﺍﺮﺑﺃ ﻦﻣ</li>
+    <li>subject_story->.ﺎﻬﻟﺎﻌﺷﺈﻟ ﺲﻴﻟﻭ ،ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺈﻟ ﺔﻴﻌﻓﺪﻤﻟﺍ ﺝﺍﺮﺑﺃ ﻢﻴﻤﺼﺗ ﺩﺎﻋﺃ</li>
+    <li>subject_story->.ﻲﺳﺎﻴﻗ ﺝﺮﺑ ﻞﻜﻴﻫ ﻲﻓ ﺓﻮﻏﺮﻟﺍ ﺕﺎﻓﺫﺎﻗﻭ ﺓﺭﺍﺮﺤﻟﺍ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺰﻬﺟﺃ ﺞﻣﺩ</li>
+    <li>subject_story->.ﺡﺍﻭﺭﺄﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺫﺎﻘﻧﺇﻭ ﺔﻣﺎﻌﻟﺍ ﻦﻛﺎﻣﺄﻟﺍ ﻲﻓ ﺔﺼﻴﺧﺭ ﺔﻳﻮﻏﺭ ﺝﺍﺮﺑﺃ ﺐﻴﻛﺮﺗ ﺪﻌﺑ ﻪﻴﻠﻋ ﻲﻨﺛُﺃ</li>
+    <li>subject_gerund->ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺑ</li>
+    <li>subject_gerund->ﺕﺎﺟﺮﺒﻟﺎﺑ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</li>
+  </FoamTurret.generalRules.rulesStrings>
+
+  <!-- EN: gas operation -->
+  <GasOperation.label>ﺯﺎﻐﻟﺎﺑ ﻞﻴﻐﺸﺗ</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>.ﺔﻠﻴﻘﺜﻟﺍ ﺔﺷﺎﺷﺮﻟﺍ ﺕﺎﺳﺪﺴﻤﻟﺍﻭ ،ﺔﻠﻴﻘﺜﻟﺍ ﺕﺎﺷﺎﺷﺮﻟﺍﻭ ،ﺔﻴﻟﺂﻟﺍ ﻥﺯﻮﺸﻟﺍ ﻕﺩﺎﻨﺒﻟﺍ ﻞﺜﻣ ﺔﻗﺎﻄﻟﺍ ﺔﻴﻟﺎﻋ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</GasOperation.description>
+  <!-- EN:
+    <li>subject->heavy weaponry</li>
+    <li>subject->high-power firearms</li>
+    <li>subject_story->equipped the special weapons squads of the tyrant's guard with light machine guns</li>
+    <li>subject_story->supplied several planetary armies with heavy firearms</li>
+    <li>subject_story->designed new types of high-power gun, still known today</li>
+    <li>subject_gerund->crafting heavy firearms</li>
+  -->
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->ﻖﺋﺍﺮﺤﻟﺍ ﻊﻤﻗ ﺝﺍﺮﺑﺃ</li>
+    <li>subject->ﺓﺭﺪﻘﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ</li>
+    <li>subject_def->ﺔﻠﻴﻘﺜﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_def->ﺔﻗﺎﻄﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻔﻴﻔﺧ ﺕﺎﺷﺎﺷﺮﺑ ﺔﻴﻏﺎﻄﻟﺍ ﺱﺮﺤﺑ ﺔﺻﺎﺨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻕﺮﻓ ﺩّﻭﺯ</li>
+    <li>subject_story->.ﺔﻠﻴﻘﺛ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺄﺑ ﺔﻴﺒﻛﻮﻛ ﺵﻮﻴﺟ ﺓﺪﻋ ﺩّﻭﺯ</li>
+    <li>subject_story->.ﻡﻮﻴﻟﺍ ﻰﺘﺣ ﺔﻓﻭﺮﻌﻣ ﻝﺍﺰﺗ ﺎﻟ ﺔﻗﺎﻄﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻦﻣ ﺓﺪﻳﺪﺟ ﺎًﻋﺍﻮﻧﺃ ﻢﻤﺻ</li>
+    <li>subject_gerund->ﺔﻠﻴﻘﺛ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</li>
+  </GasOperation.generalRules.rulesStrings>
+
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>ﺔﻴﺿﺭﺄﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>.ﻞﺻﺍﻮﺘﻣ ﻲﺋﺎﺑﺮﻬﻛ ﺩﺍﺪﻣﺇ ﺮﻴﻓﻮﺘﻟ ﺭﺎﺨﺒﻟﺍ ﻊﻴﺑﺎﻨﻳ ﻕﻮﻓ ﺔﻴﺿﺭﺃ ﺔﻳﺭﺍﺮﺣ ﺔﻗﺎﻃ ﺕﺎﻄﺤﻣ ِﻦﺑﺍ</GeothermalPower.description>
+  <!-- EN:
+    <li>subject->geothermal power</li>
+    <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
+    <li>subject_story->tapped the power of a dormant volcano to power the local grid</li>
+    <li>subject_story->argued with the local population who wanted to preserve the scenic geysers, not use them for power</li>
+    <li>subject_gerund->tapping geothermal energy</li>
+    <li>subject_gerund->building geothermal power plants</li>
+  -->
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺿﺭﺄﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ</li>
+    <li>subject_def->ﺔﻴﺿﺭﺄﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻘﻄﻨﻤﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﻴﺿﺭﺃ ﺔﻳﺭﺍﺮﺣ ﺔﻗﺎﻃ ﺕﺎﻄﺤﻣ ﺄﺸﻧﺃﻭ ﺭﺎﺨﺒﻟﺍ ﺓﻮﻗ ﺱﺭﺩ</li>
+    <li>subject_story->.ﺔﻴﻠﺤﻤﻟﺍ ﺔﻜﺒﺸﻟﺍ ﻞﻴﻐﺸﺘﻟ ﺪﻣﺎﺧ ﻥﺎﻛﺮﺑ ﺔﻗﺎﻃ ﻞﻐﺘﺳﺍ</li>
+    <li>subject_story->.ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺘﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﺲﻴﻟﻭ ،ﺔﺑﺎﻠﺨﻟﺍ ﺮﻇﺎﻨﻤﻟﺍ ﺕﺍﺫ ﺓﺭﺎﺤﻟﺍ ﻊﻴﺑﺎﻨﻴﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﺍﻭﺩﺍﺭﺃ ﻦﻳﺬﻟﺍ ﻦﻴﻴﻠﺤﻤﻟﺍ ﻥﺎﻜﺴﻟﺍ ﻝﺩﺎﺟ</li>
+    <li>subject_gerund->ﺔﻴﺿﺭﺄﻟﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻝﺎﻠﻐﺘﺳﺍ</li>
+    <li>subject_gerund->ﺔﻴﺿﺭﺃ ﺔﻳﺭﺍﺮﺣ ﺔﻗﺎﻃ ﺕﺎﻄﺤﻣ ﺀﺎﻨﺑ</li>
+  </GeothermalPower.generalRules.rulesStrings>
+
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>ﺔﺤﻠﺳﺄﻟﺍ ﺔﻋﺎﻨﺻ</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>.ﺔﻗﺭﺎﺤﻟﺍ ﺕﺎﻓﺫﺎﻘﻣﻭ ﻖﻠﻈﻨﻤﻟﺍ ﺕﺍﺫ ﻕﺩﺎﻨﺒﻟﺍﻭ ﺦﻀﻟﺍ ﻕﺩﺎﻨﺒﻟﺍﻭ ﺕﺎﺳﺪﺴﻤﻟﺍ ﻞﺜﻣ ﺎًﻳﻭﺪﻳ ﻞﻤﻌﺗ ﺔﻄﻴﺴﺑ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</Gunsmithing.description>
+  <!-- EN:
+    <li>subject->simple firearms</li>
+    <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
+    <li>subject_story->specialized in simple gunsmithing, providing shotguns and rifles for hunters</li>
+    <li>subject_story->set up as a gunsmith, achieving fame across the sector</li>
+    <li>subject_gerund->gunsmithing</li>
+    <li>subject_gerund->crafting firearms</li>
+  -->
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->ﺔﻄﻴﺴﺑ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ</li>
+    <li>subject_def->ﺔﻄﻴﺴﺒﻟﺍ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﻯﺮﺧﺄﻟﺍ ﻮﻠﺗ ﺓﺯﺭﺎﺒﻣ ﻲﻓ ﺯﺎﻓﻭ ﺔﻘﻠﻃ 12 ﻦﻣ ﺍًﺪﻳﺮﻓ ﺎًﺳﺪﺴﻣ ﻰﻨﺑ</li>
+    <li>subject_story->.ﻦﻳﺩﺎﻴﺼﻠﻟ ﻕﺩﺎﻨﺒﻟﺍﻭ ﺪﻴﺼﻟﺍ ﻕﺩﺎﻨﺑ ﻡﺪﻗﻭ ،ﺔﻄﻴﺴﺒﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﺔﻋﺎﻨﺻ ﻲﻓ ﺺﺼﺨﺗ</li>
+    <li>subject_story->.ِﻉﺎَﻄِﻘْﻟﺍ ِّﻞُﻛ ﻲِﻓ ًﺓَﺮْﻬُﺷ َﻖَّﻘَﺣَﻭ ،ٍﺔَﺤِﻠْﺳَﺃ ِﻊِﻧﺎَﺼَﻛ ُﻪَﺴْﻔَﻧ َﺲَّﺳَﺃ</li>
+    <li>subject_gerund->ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﺔﻋﺎﻨﺻ</li>
+    <li>subject_gerund->ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﺄﻟﺍ ﻊﻨﺻ</li>
+  </Gunsmithing.generalRules.rulesStrings>
+
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>ﺔﻴﻌﻓﺪﻣ ﺝﺍﺮﺑﺃ</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>.ﻚﺗﺮﻤﻌﺘﺴﻣ ﻦﻋ ﻉﺎﻓﺪﻠﻟ ﺔﻄﻴﺴﺑ ﺔﻴﻟﺁ ﺔﺤﻠﺴﻣ ﺎًﺟﺍﺮﺑﺃ ِﻦﺑﺍ</GunTurrets.description>
+  <!-- EN:
+    <li>subject->gun turrets</li>
+    <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
+    <li>subject_story->designed a modular gun turret holster, capable of taking any weapon type</li>
+    <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
+    <li>subject_gerund->constructing automated gun turrets</li>
+  -->
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->ﺔﺤﻠﺴﻣ ﺝﺍﺮﺑﺃ</li>
+    <li>subject_def->ﺔﺤﻠﺴﻤﻟﺍ ﺝﺍﺮﺑﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺀﺍﺪﻋﺄﻟﺍﻭ ﺀﺎﻗﺪﺻﺄﻟﺍ ﻦﻴﺑ ﺰﻴﻴﻤﺘﻟﺍ ﻦﻣ ﺔﺤﻠﺴﻤﻟﺍ ﺝﺍﺮﺑﺄﻟﺍ ﻦﻴﻜﻤﺘﻟ ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻟﺍ ﺕﺍﺀﺍﺮﺟﺇ ﻰﻠﻋ ﻞﻤﻋ</li>
+    <li>subject_story->.ﺔﺤﻠﺳﺄﻟﺍ ﻦﻣ ﻉﻮﻧ ﻱﺃ ﺏﺎﻌﻴﺘﺳﺍ ﻰﻠﻋ ﺍًﺭﺩﺎﻗ ،ﺔﺤﻠﺳﺄﻟﺍ ﺝﺮﺒﻟ ﺎًﻳﺭﺎﻴﻌﻣ ﺎًﻠﻣﺎﺣ ﻢﻤﺻ</li>
+    <li>subject_story->.ﻡﻮﺠﻬﻟﺍ ﺩﻮﻘﻳ ﻥﺃ ﻞﺒﻗ ﺪﻌﺑ ﻦﻋ ﻭﺪﻌﻠﻟ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﺄﻟﺍ ﻞّﻄﻋ</li>
+    <li>subject_gerund->ﺔﺤﻠﺴﻣ ﺔﻴﻟﺁ ﺔﻴﻌﻓﺪﻣ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺑ</li>
+  </GunTurrets.generalRules.rulesStrings>
+
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>ﺔﻴﺋﺎﻣ ﺔﻋﺍﺭﺯ</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>.ﺔﻘﻠﻐﻤﻟﺍ ﻦﻛﺎﻣﺄﻟﺍ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺰﻟ ﺔﻴﺋﺎﻣ ﺎًﺿﺍﻮﺣﺃ ِﻦﺑﺍ</Hydroponics.description>
+  <!-- EN:
+    <li>subject->hydroponics</li>
+    <li>subject_story->joined a generation ship crew as their crop specialist</li>
+    <li>subject_story->established a hydroponics facility to feed the hungry</li>
+    <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>
+    <li>subject_gerund->building hydroponics</li>
+    <li>subject_gerund->growing plants indoors</li>
+  -->
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->ﻊﻓﺍﺪﻤﻟﺍ ﺝﺍﺮﺑﺃ</li>
+    <li>subject_def->ﺔﻴﺋﺎﻤﻟﺍ ﺔﻋﺍﺭﺰﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﻞﻴﺻﺎﺤﻣ ﻲﺋﺎﺼﺧﺄﻛ ﻞﻴﺟ ﺔﻨﻴﻔﺳ ﻢﻗﺎﻃ ﻰﻟﺇ ﻢﻀﻧﺍ</li>
+    <li>subject_story->.ﻉﺎﻴﺠﻟﺍ ﻡﺎﻌﻃﺈﻟ ﺔﻴﺋﺎﻣ ﺔﻴﻋﺍﺭﺯ ﺓﺄﺸﻨﻣ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﺔﻴﻋﺎﻨﻄﺻﺎﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﺔﻴﻔﻴﻛ ﺩﺪﺠﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻢﻠﻌﻳ ﻮﻫﻭ ﻞﻘﻨﺗ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻣ ﺕﺎﻳﻭﺎﺣ ﺀﺎﻨﺑ</li>
+    <li>subject_gerund->ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ</li>
+  </Hydroponics.generalRules.rulesStrings>
+
+  <!-- EN: IEDs -->
+  <IEDs.label>ﺔﻠﺠﺗﺮﻤﻟﺍ ﺔﻔﺳﺎﻨﻟﺍ ﻡﺎﻐﻟﺄﻟﺍ</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>.ﻥﻭﺎﻬﻟﺍ ﻒﺋﺍﺬﻗ ﻦﻣ ﻉﻮﻧ ﻱﺃ ﻦﻣ ﺔﻠﺠﺗﺮﻣ ﺎًﺧﺎﺨﻓ ِﻦﺑﺍ</IEDs.description>
+  <!-- EN:
+    <li>subject->improvised explosive traps</li>
+    <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
+    <li>subject_story->came under mortar fire, only surviving by crafting traps from the enemy's many dud shells</li>
+    <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
+    <li>subject_gerund->crafting improvised explosive traps</li>
+  -->
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->ﺔﻠﺠﺗﺮﻣ ﺓﺮﺠﻔﺘﻣ ﺥﺎﺨﻓ</li>
+    <li>subject_def->ﺔﻠﺠﺗﺮﻤﻟﺍ ﺓﺮﺠﻔﺘﻤﻟﺍ ﺥﺎﺨﻔﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺓﺪﻳﺪﺠﻟﺍ ﺔﻬﺒﺠﻟﺍ ﻰﻟﺇ ﺎﻬﻟﺎﺳﺭﺈﻟ ﻡﺎﻐﻟﺃ ﻰﻟﺇ ﺎﻬﻟﻮﺣﻭ ،ﺏﺮﺤﻟﺍ ﻦﻣ ﺔﻴﻘﺒﺘﻤﻟﺍ ﻒﺋﺍﺬﻘﻟﺍ ﻞﻴﺘﻓ ﻉﺰﻧ</li>
+    <li>subject_story->.ﺓﺩﺪﻌﺘﻤﻟﺍ ﺔﻠﺷﺎﻔﻟﺍ ﻭﺪﻌﻟﺍ ﻒﺋﺍﺬﻗ ﻦﻣ ﺥﺎﺨﻓ ﻊﻨﺼﺑ ﺎﻟﺇ ُﺞﻨﻳ ﻢﻟﻭ ،ﻲﻌﻓﺪﻣ ﻒﺼﻘﻟ ﺽﺮﻌﺗ</li>
+    <li>subject_story->.ﺎًﻤﺋﺍﺩ ﺍًﺮﻄﺧ ﺓﺮﺠﻔﻨﻤﻟﺍ ﺮﻴﻏ ﺮﺋﺎﺧﺬﻟﺍ ﺖﻧﺎﻛ ﺚﻴﺣ ،ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻕﻮﻘﺣ ﻦﻋ ﻊﻓﺍﺩ</li>
+    <li>subject_gerund->ﺔﻠﺠﺗﺮﻣ ﺓﺮﺠﻔﺘﻣ ﺥﺎﺨﻓ ﻊﻨﺻ</li>
+  </IEDs.generalRules.rulesStrings>
+
+  <!-- EN: machining -->
+  <Machining.label>ﻞَّﻜَﺸُﻣ</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>.ﺩﺭﺍﻮﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻦﻴﺘﻴﻤﻟﺍ ﺩﻮﻧﺎﻜﻴﻤﻟﺍ ﻚﻴﻜﻔﺗﻭ ،ﺹﺎﺻﺮﻟﺍ ﻦﻣ ﺔﻴﻗﺍﻭ ﺕﺍﺮﺘﺳﻭ ﻞﺑﺎﻨﻘﻟﺍﻭ ﺕﺎﺳﺪﺴﻤﻟﺍ ﻊﻨﺼﻟ ﻊﻴﻨﺼﺗ ﺕﺎﻟﻭﺎﻃ ِﻦﺑﺍ</Machining.description>
+  <!-- EN:
+    <li>subject->machining</li>
+    <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
+    <li>subject_story->quietly built an arsenal of self-made weapons in the basement of a suburban home</li>
+    <li>subject_story->built machining tables for many gunsmiths, despite being a pacifist</li>
+    <li>subject_gerund->building machining equipment</li>
+    <li>subject_gerund->machining</li>
+  -->
+  <Machining.generalRules.rulesStrings>
+    <li>subject->ﺔﻠﺠﺗﺮﻣ ﺓﺮﺠﻔﺘﻣ ﺥﺎﺨﻓ</li>
+    <li>subject_def->ﺔﻟﺂﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺩﺭﺍﻮﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻜﻜﻓﻭ ﺔﺘﻴﻤﻟﺍ ﺩﻮﻧﺎﻜﻴﻤﻟﺍ ﺎﻳﺎﻘﺑ ﻊﻤﺟ</li>
+    <li>subject_story->.ﻲﺣﺍﻮﺿ ﻝﺰﻨﻣ ﻮﺒﻗ ﻲﻓ ﻪﺴﻔﻨﺑ ﺎﻬﻌﻨﺻ ﺔﺤﻠﺳﺃ ﺔﻧﺎﺳﺮﺗ ﺀﻭﺪﻬﺑ ﻰﻨﺑ</li>
+    <li>subject_story->.ﺎًﻤﻟﺎﺴﻣ ﻪﻧﻮﻛ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺔﺤﻠﺳﺄﻟﺍ ﻲﻌﻧﺎﺻ ﻦﻣ ﺪﻳﺪﻌﻠﻟ ﻊﻴﻨﺼﺗ ﺕﺎﻟﻭﺎﻃ ﻰﻨﺑ</li>
+    <li>subject_gerund->ﻲﻟﺂﻟﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺕﺍﺪﻌﻣ ﺀﺎﻨﺑ</li>
+    <li>subject_gerund->ﻞﻴﻜﺸﺗ</li>
+  </Machining.generalRules.rulesStrings>
+
+  <!-- EN: mortars -->
+  <Mortars.label>ﺕﺎﻧﻭﺎﻫ</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>.ﻥﺍﺭﺪﺠﻟﺍ ﻕﻮﻓ ﻰﺘﺣ ،ﺔﻠﻳﻮﻃ ﺕﺎﻓﺎﺴﻤﻟ ﻒﺋﺍﺬﻘﻟﺍ ﻕﺎﻠﻃﺈﻟ ﻥﻭﺎﻫ ﻊﻓﺍﺪﻣ ِﻦﺑﺍ</Mortars.description>
+  <!-- EN:
+    <li>subject->artillery</li>
+    <li>subject->mortars</li>
+    <li>subject_story->was instrumental in the glasshouse siege that overthrew the town council</li>
+    <li>subject_story->developed a collapsible, lightweight mortar tube for the local police</li>
+    <li>subject_story->demolished the many derelict buildings from a distance, with explosive shells</li>
+    <li>subject_gerund->crafting mortars</li>
+    <li>subject_gerund->constructing simple artillery</li>
+  -->
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->ﻞﻴﻜﺸﺗ</li>
+    <li>subject->ﺔﻴﻌﻓﺪﻣ</li>
+    <li>subject_def->ﺔﻴﻌﻓﺪﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_def->ﻊﻓﺍﺪﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﻱﺪﻠﺒﻟﺍ ﺲﻠﺠﻤﻟﺎﺑ ﺡﺎﻃﺃ ﻱﺬﻟﺍ ﺔﻴﺟﺎﺟﺰﻟﺍ ﺕﻮﻴﺒﻟﺍ ﺭﺎﺼﺣ ﻲﻓ ًﺎﻴﺳﺎﺳﺃ ﻥﺎﻛ</li>
+    <li>subject_story->.ﺔﻴﻠﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺔﻃﺮﺸﻟ ﻥﺯﻮﻟﺍ ﻒﻴﻔﺧﻭ ﻲﻄﻠﻟ ﻞﺑﺎﻗ ﻥﻭﺎﻫ ﻊﻓﺪﻣ ﺏﻮﺒﻧﺃ ﺭّﻮﻃ</li>
+    <li>subject_story->.ﺓﺮﺠﻔﺘﻣ ﻒﺋﺍﺬﻘﺑ ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺓﺭﻮﺠﻬﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺮﻣﺩ</li>
+    <li>subject_gerund->ﻊﻓﺍﺪﻤﻟﺍ ﻊﻨﺻ</li>
+    <li>subject_gerund->ﺔﻄﻴﺴﺑ ﺔﻴﻌﻓﺪﻣ ﺀﺎﻨﺑ</li>
+  </Mortars.generalRules.rulesStrings>
+
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>ﻱّﺬﻐﻣ ﻥﻮﺠﻌﻣ</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>.ﺔﻟﺎﻤﻋ ﻱﺃ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻥﻭﺩ ،ﺔﻳﺬﻐﻤﻟﺍ ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺓﺀﺎﻔﻜﺑ ﺎًﻣﺎﻌﻃ ﺞﺘﻨﺗ ﻲﺘﻟﺍ ﺕﺎﻳﺬﻐﻤﻟﺍ ﻥﻮﺠﻌﻣ ﺕﺎﻋﺯﻮﻣ ِﻦﺑﺍ</NutrientPaste.description>
+  <!-- EN:
+    <li>subject->nutrient paste</li>
+    <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
+    <li>subject_story->lost [ANYPAWN_possessive] taste of smell to disease, so devised a cheap, flavorless nutrient paste</li>
+    <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
+    <li>subject_gerund->building nutrient paste dispensers</li>
+  -->
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->ﻥﻭﺎﻫ ﻊﻓﺪﻣ</li>
+    <li>subject_def->ﺔﻳﺬﻐﻤﻟﺍ ﺔﻧﻭﺮﻜﻌﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﻞﻤﻌﻟﺍ ﻞﻛ ﺐﻨﺠﺘﻟ ﺔﻠﻴﺳﻮﻛ ﺕﺎﻳﺬﻐﻤﻟﺍ ﻥﻮﺠﻌﻣ ﻖﻠﺘﺧﺍﻭ ﻊﻨﺼﻣ ﺎﻳﺮﻴﺘﻓﺎﻛ ﻲﻓ ﻞﻤﻋ</li>
+    <li>subject_story->.ﺔﻬﻜﻧ ﺎﻠﺑﻭ ﺎًﺼﻴﺧﺭ ﺎًﻴﺋﺍﺬﻏ ﺎًﻧﻮﺠﻌﻣ ﺮﻜﺘﺑﺍ ﺍﺬﻟ ،ﺽﺮﻣ ﺐﺒﺴﺑ ﻢﺸﻟﺍ ﺔﺳﺎﺣ ﺪﻘﻓ</li>
+    <li>subject_story->.ﺚﺜﺠﻟﺍ ﻰﺘﺣ ،ٍﺬﻐﻣ ﻥﻮﺠﻌﻣ ﻰﻟﺇ ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻊﻴﻤﺟ ﺮﻳﻭﺪﺗ ﺓﺩﺎﻋﺇ ﻰﻟﺇ ﺎﻋﺩ</li>
+    <li>subject_gerund->ﺕﺎﻳﺬﻐﻤﻟﺍ ﻥﻮﺠﻌﻣ ﺕﺎﻋﺯﻮﻣ ﺀﺎﻨﺑ</li>
+  </NutrientPaste.generalRules.rulesStrings>
+
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺕﺎﺒﺟﻭ</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>.ﺮﻔﺴﻠﻟ ﻊﺋﺍﺭ .ﺍًﺪﺑﺃ ﺪﺴﻔﺗ ﺎﻟ ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺕﺎﺒﺟﻭ ﺝﺎﺘﻧﺇ</PackagedSurvivalMeal.description>
+  <!-- EN:
+    <li>subject->packaged survival meals</li>
+    <li>subject->non-perishable food</li>
+    <li>subject_story-> knew, when disaster struck, there were enough packaged meals to survive until rescuers arrived</li>
+    <li>subject_story->established a social kitchen, which donated survival meals to all outgoing vessels</li>
+    <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
+    <li>subject_gerund->preparing survival meals</li>
+  -->
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->ﺄﺒﻌُﻣ ﻲﺋﺍﺬﻏ ﻥﻮﺠﻌﻣ</li>
+    <li>subject->ﺔﺒﻠﻌﻤﻟﺍ ﺀﺎﻘﺒﻟﺍ ﺕﺎﺒﺟﻭ</li>
+    <li>subject_def->ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﺺﺼﺣ ﻦﻣ</li>
+    <li>subject_def->ﻒﻠﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺮﻴﻏ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺫﺎﻘﻧﺈﻟﺍ ﻝﺎﺟﺭ ﻝﻮﺻﻭ ﻰﺘﺣ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺓﺄﺒﻌﻤﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ ،ﺔﺛﺭﺎﻛ ﺙﺪﺤﻳ ﺎﻣﺪﻨﻋ ﻪﻧﺃ ﺖﻓﺮﻋ</li>
+    <li>subject_story->.ﺓﺭﺩﺎﻐﻤﻟﺍ ﻦﻔﺴﻟﺍ ﻊﻴﻤﺠﻟ ﺀﺎﻘﺑ ﺕﺎﺒﺟﻮﺑ ﻉﺮﺒﺘﻳ ﻥﺎﻛ ﺎًﻴﻌﻤﺘﺠﻣ ﺎًﺨﺒﻄﻣ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﻦﻴﻨﺴﻟﺍ ﺕﺎﺌﻤﺑ ﺔﻤﻳﺪﻗ ﺖﻧﺎﻛ ﻝﺎﺒﺠﻟﺍ ﻲﻓ ﺀﺎﻘﺑ ﺺﺼﺣ ﻒﺸﺘﻛﺍ</li>
+    <li>subject_gerund->ﺓﺎﺠﻨﻟﺍ ﺺﺼﺣ ﺮﻴﻀﺤﺗ</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>.ﺎﻬﺒﻴﻛﺮﺘﻟ ﺍًﺮﻫﺎﻣ ﺎًﺒﻴﺒﻃ ﻚﻟﺫ ﺐﻠﻄﺘﻳ .ﺓﺩﻮﻘﻔﻤﻟﺍ ﻑﺍﺮﻃﺄﻟﺍ ﻝﺍﺪﺒﺘﺳﺎﻟ ﺔﺼﻴﺧﺭ ﺔﻴﻋﺎﻨﺻ ﺎًﻓﺍﺮﻃﺃ ﻊﻨﺻ</Prosthetics.description>
+  <!-- EN:
+    <li>subject->prosthesis</li>
+    <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
+    <li>subject_story->opened a prosthetics clinic</li>
+    <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
+    <li>subject_gerund->crafting prosthetics</li>
+  -->
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ</li>
+    <li>subject_def->ﺔﻴﻋﺎﻨﺼﻟﺍ ﻑﺍﺮﻃﺄﻠﻟ</li>
+    <li>subject_story->.ﺮﻣﺄﻟﺍ ﺔﻟﻮﻬﺳ ﻯﺪﻣ ﺭﺎﻬﻇﺈﻟ ﺔﺤﻳﺮﺸﺑ ﻑﺮﻃ ﻝﺍﺪﺒﺘﺳﺍ ﻢﺗ</li>
+    <li>subject_story->ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ ﺓﺩﺎﻴﻋ ﺢﺘﻓ</li>
+    <li>subject_story->.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻦﻴﺑﺭﺎﺤﻤﻟﺍ ﻰﻣﺍﺪﻗ ﻦﻣ ﺪﻳﺪﻌﻠﻟ ﺔﺼﺼﺨﻣ ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ ﺔﻋﺎﻨﺻ ﻲﻓ ﺃﺪﺑ</li>
+    <li>subject_gerund->ﺔﻴﻋﺎﻨﻄﺻﺎﻟﺍ ﻑﺍﺮﻃﺄﻟﺍ ﻊﻨﺻ</li>
+  </Prosthetics.generalRules.rulesStrings>
+
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>ﻥﺎﺧﺩ ﺕﺍﻮﺒﻋ</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>.ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﺎﻠﻃﺇ ﺪﻨﻋ ﺔﻴﻋﺎﻓﺩ ﻥﺎﺧﺩ ﺓﺭﺎﺘﺳ ﻞﻴﻌﻔﺘﺑ ﻱﺪﺗﺭﺎﻠﻟ ﺢﻤﺴﺗ ﻥﺎﺧﺩ ﺱﺎﻴﻛﺃ ِﻦﺑﺍ</SmokepopBelt.description>
+  <!-- EN:
+    <li>subject->smokescreen</li>
+    <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
+    <li>subject_story->established a defensive smokepop perimeter around the local towns, to keep the wildlife back</li>
+    <li>subject_story->used smokepop packs to train new firefighters, without the peril of actual fire</li>
+    <li>subject_gerund->building smokepop packs</li>
+    <li>subject_gerund->deploying smokescreens</li>
+  -->
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->ﻥﺎﺧﺩ ﺮﺋﺎﺘﺳ</li>
+    <li>subject_def->ﻥﺎﺧﺪﻟﺍ ﺮﺋﺎﺘﺳ ﻦﻣ</li>
+    <li>subject_story->.ﺔﺻﺎﺨﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻠﻟ ﺔﻴﻧﺎﺧﺩ ﻞﺑﺎﻨﻗ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻕﺮﻔﻠﻟ ﻞﻗﺎﻨﻛ ﻞﻤﻋ</li>
+    <li>subject_story->.ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ ﺩﺎﻌﺑﺈﻟ ﺔﻴﻠﺤﻤﻟﺍ ﻥﺪﻤﻟﺍ ﻝﻮﺣ ﻥﺎﺧﺪﻟﺍ ﻞﺑﺎﻨﻗ ﻦﻣ ﺎًﻴﻋﺎﻓﺩ ﺎًﻄﻴﺤﻣ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﻲﻠﻌﻔﻟﺍ ﻖﻳﺮﺤﻟﺍ ﺮﻄﺧ ﻥﻭﺩ ﺩﺪﺠﻟﺍ ﺀﺎﻔﻃﺈﻟﺍ ﻝﺎﺟﺭ ﺐﻳﺭﺪﺘﻟ ﻥﺎﺧﺩ ﻞﺑﺎﻨﻗ ﻡﺪﺨﺘﺳﺍ</li>
+    <li>subject_gerund->ﺔﻴﻧﺎﺧﺩ ﻞﺑﺎﻨﻗ ﻊﻨﺻ</li>
+    <li>subject_gerund->ﻥﺎﺧﺪﻟﺍ ﺮﺋﺎﺘﺳ ﺮﺸﻧ</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+
+  <!-- EN: solar panel -->
+  <SolarPanels.label>ﺔﻴﺴﻤﺷ ﺡﺍﻮﻟﺃ</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>.ﺲﻤﺸﻟﺍ ﺀﻮﺿ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺪﻴﻟﻮﺘﻟ ﺔﻴﺴﻤﺷ ﺎًﺣﺍﻮﻟﺃ ِﻦﺑﺍ</SolarPanels.description>
+  <!-- EN:
+    <li>subject->solar panels</li>
+    <li>subject->solar energy</li>
+    <li>subject_story->established a multi-spectrum solar farm</li>
+    <li>subject_story->studied ways of maximizing the percentage of solar energy captured</li>
+    <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
+    <li>subject_gerund->building solar panels</li>
+  -->
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺴﻤﺷ ﺡﺍﻮﻟﺃ</li>
+    <li>subject->ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ</li>
+    <li>subject_story->ﻑﺎﻴﻃﺄﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺔﻴﺴﻤﺷ ﺔﻋﺭﺰﻣ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻁﺎﻘﺘﻟﺍ ﺔﺒﺴﻧ ﻢﻴﻈﻌﺘﻟ ﺎًﻗﺮﻃ ﺱﺭﺩ</li>
+    <li>subject_story->.ﺲﻤﺸﻠﻟ ﺀﻮﻀﻟﺍ ﺔﻘﺒﻃ ﺔﺒﻗﺍﺮﻤﻟ ﺔﻴﺴﻤﺷ ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻲﻓ ﻖﻠﻄﻧﺍ</li>
+    <li>subject_gerund->ﺔﻴﺴﻤﺷ ﺡﺍﻮﻟﺃ ﺀﺎﻨﺑ</li>
+  </SolarPanels.generalRules.rulesStrings>
+
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>ﺔﻤﻘﻌﻣ ﺩﺍﻮﻣ</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>.ﻲﻬﻄﻟﺍﻭ ﺚﺤﺒﻟﺍﻭ ﻲﺒﻄﻟﺍ ﺝﺎﻠﻌﻠﻟ ﺔﻴﻟﺎﻌﻓﻭ ﺎًﻧﺎﻣﺃ ﺮﺜﻛﺃ ﺔﻔﻴﻈﻧ ﻑﺮﻏ ﺀﺎﺸﻧﺈﻟ ﺎًﻤﻘﻌﻣ ﺎًﻃﺎﻠﺑ ِﻦﺑﺍ</SterileMaterials.description>
+  <!-- EN:
+    <li>subject->sterile surfaces</li>
+    <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
+    <li>subject_story->started a kibble kitchen which, uniquely for the system, was known to be free of food poisoning</li>
+    <li>subject_story->established a decorative tile factory, with a sideline in medical equipment and sterile tiles</li>
+    <li>subject_gerund->sterilizing surfaces</li>
+    <li>subject_gerund->constructing sterilized surfaces</li>
+  -->
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ</li>
+    <li>subject_def->ﺔﻠﺣﺎﻘﻟﺍ ﺢﻄﺳﺄﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻴﺒﻄﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻊﻴﻤﺠﻟ ﻖﺴﺘﻣﻭ ﻝﺎﻌﻓ ﻢﻴﻘﻌﺗ ﻰﻠﻋ ﺭﺍﺮﺻﺈﻟﺎﺑ ﺕﺎﻴﻓﻮﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺖﻌﻨﻣ</li>
+    <li>subject_story->.ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﻦﻣ ﻩﻮﻠﺨﺑ ﺎًﻓﻭﺮﻌﻣﻭ ،ﻡﺎﻈﻨﻟﺍ ﻲﻓ ﻪﻋﻮﻧ ﻦﻣ ﺍًﺪﻳﺮﻓ ﻥﺎﻛ ﻱﺬﻟﺍﻭ ،ﻒﻠﻌﻟﺍ ﺝﺎﺘﻧﺈﻟ ﺎًﺨﺒﻄﻣ ﺃﺪﺑ</li>
+    <li>subject_story->.ﻢﻘﻌﻤﻟﺍ ﻁﺎﻠﺒﻟﺍﻭ ﺔﻴﺒﻄﻟﺍ ﺕﺍﺪﻌﻤﻠﻟ ﺺﺼﺨﻣ ﻱﻮﻧﺎﺛ ﺝﺎﺘﻧﺇ ﻂﺧ ﻊﻣ ،ﻲﻓﺮﺧﺰﻟﺍ ﻁﺎﻠﺒﻠﻟ ﺎًﻌﻨﺼﻣ ﺄﺸﻧﺃ</li>
+    <li>subject_gerund->ﺢﻄﺳﺄﻟﺍ ﻢﻴﻘﻌﺗ</li>
+    <li>subject_gerund->ﺔﻤﻘﻌﻣ ﺢﻄﺳﺃ ﺀﺎﻨﺑ</li>
+  </SterileMaterials.generalRules.rulesStrings>
+
+  <!-- EN: tube television -->
+  <TubeTelevision.label>ﺔﻋﻮﻄﻘﻤﻟﺍ ﺐﻴﺑﺎﻧﺄﻟﺍ ﻥﻮﻳﺰﻔﻠﺗ</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>.ﻪﻴﻓﺮﺘﻟﺍ ﺓﺩﺎﻳﺰﻟ ﻱﺩﻮﺛﺎﻜﻟﺍ ﺏﻮﺒﻧﺄﻟﺍ ﺕﺍﺫ ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺓﺰﻬﺟﺃ ﻊﻴﻨﺼﺗ ﻦﻣ ﻦِّﻜﻤُﻳ</TubeTelevision.description>
+  <!-- EN:
+    <li>subject->tube televisions</li>
+    <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
+    <li>subject_story->moved into broadcasting, producing programmes just for the archaic tube televisions</li>
+    <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
+    <li>subject_gerund->producing tube televisions</li>
+  -->
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->ﺔﻳﺩﻮﺛﺎﻜﻟﺍ ﺔﻌﺷﺄﻟﺍ ﺕﺎﻧﻮﻳﺰﻔﻠﺗ</li>
+    <li>subject_def->ﺔﻏﺮﻔﻤﻟﺍ ﺐﻴﺑﺎﻧﺄﻟﺍ ﺕﺍﺫ ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺓﺰﻬﺟﺃ ﻦﻣ</li>
+    <li>subject_story->.ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺕﺍﺭﺎﺷﺈﻟﺍ ﻁﺎﻘﺘﻟﺍ ﻪﻨﻜﻤﻳ ﻒﻳﺰﻣ ﺯﺍﺮﻄﻟﺍ ﻢﻳﺪﻗ ﻥﻮﻳﺰﻔﻠﺗ ﺯﺎﻬﺟ ﻢﻤﺻ</li>
+    <li>subject_story->.ﺔﻏﺮﻔﻤﻟﺍ ﺐﻴﺑﺎﻧﺄﻟﺍ ﺕﺍﺫ ﺔﻤﻳﺪﻘﻟﺍ ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺓﺰﻬﺟﺄﻟ ﺎًﻳﺮﺼﺣ ﺞﻣﺍﺮﺑ ﺎًﺠﺘﻨﻣ ،ﺚﺒﻟﺍ ﻝﺎﺠﻣ ﻲﻓ ﻁﺮﺨﻧﺍ</li>
+    <li>subject_story->.ﺔﻳﺩﻮﺛﺎﻜﻟﺍ ﺔﻌﺷﺄﻟﺍ ﺐﻴﺑﺎﻧﺃ ﺮﻃﺎﺨﻣ ﻥﻮﻓﺮﻌﻳ ﻊﻴﻤﺠﻟﺍ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ</li>
+    <li>subject_gerund->ﺔﻴﻄﺒﻬﻤﻟﺍ ﺔﻌﺷﺄﻟﺍ ﺐﻴﺑﺎﻧﺃ ﺕﺍﺫ ﻥﻮﻳﺰﻔﻠﺗ ﺓﺰﻬﺟﺃ ﺝﺎﺘﻧﺇ</li>
+  </TubeTelevision.generalRules.rulesStrings>
+
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>ﺔﻴﺋﺎﻣ ﺔﻧﻮﺣﺎﻃ</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>.ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺖﺑﺎﺛ ﺩﺍﺪﻣﺇ ﺪﻴﻟﻮﺘﻟ ﺭﺎﻬﻧﺄﻟﺍ ﻰﻠﻋ ﺔﻴﺋﺎﻣ ﻦﻴﺣﺍﻮﻃ ِﻦﺑﺍ</WatermillGenerator.description>
+  <!-- EN:
+    <li>subject->watermill generators</li>
+    <li>subject_story->watched twigs and leaves get pulled downstream and envisioned the power there</li>
+    <li>subject_story->hooked cabling up to an ancient flour mill on a feudalworld</li>
+    <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
+    <li>subject_gerund->watermill generators</li>
+  -->
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺋﺎﻣ ﻦﻴﺣﺍﻮﻃ</li>
+    <li>subject_def->ﻩﺎﻴﻤﻟﺍ ﻦﻴﺣﺍﻮﻃ ﻦﻣ</li>
+    <li>subject_story->.ﺪﻬﺸﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻨﻣﺎﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻞﻴﺨﺗﻭ ،ﺭﺎﻴﺘﻟﺍ ﻊﻣ ﻕﺍﺭﻭﺄﻟﺍﻭ ﻥﺎﺼﻏﺄﻟﺍ ﺖﻓﺮﺟ ﻒﻴﻛ ﺐﻗﺍﺭ</li>
+    <li>subject_story->.ﻲﻋﺎﻄﻗﺇ ﻢﻟﺎﻋ ﻲﻓ ﺔﻤﻳﺪﻗ ﻖﻴﻗﺩ ﺔﻧﻮﺣﺎﻄﺑ ﺕﺎﻠﺑﺎﻛ ﻞﺻﻭ</li>
+    <li>subject_story->.ﺔﻴﺋﺎﻣ ﺔﻧﻮﺣﺎﻃ ﻰﻟﺇ ﺎﻬﺘﻟﻮﺣﻭ ﺮﻣﺪﻣ ﻢﻟﺎﻋ ﺊﻃﺍﻮﺷ ﻰﻠﻋ ﺔﻳﺭﺎﺨﺑ ﺔﻨﻴﻔﺳ ﺖﺤﻨﺟ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻣ ﺕﺍﺪﻟﻮﻣ ﺀﺎﻨﺑ</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+
+</LanguageData>

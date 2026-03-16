@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>ﻝﺎﻘﺘﻋﻻﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓ</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>. ﺔﻣﻭﺎﻘﻣ ﻥﻭﺩ ﺎﻣ ﺺﺨﺷ ﻝﺎﻘﺘﻋﺍ ﻦﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻦﻜﻤﺗ ﺔﺻﺮﻓ ﻰﻠﻋ ﺍﺬﻫ ﺮﺛﺆﻳ. ﺱﺎﻨﻟﺍ ﻝﺎﻘﺘﻋﺍ ﻲﻓ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺔﻴﻟﺎﻌﻓ ﻯﺪﻣ</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>ﻂﺑﺍﺮﺘﻟﺍ ﺔﺻﺮﻓ ﻞﻣﺎﻋ</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>. ﻪﻌﻣ ﻞﻋﺎﻔﺘﻟﺍ ﺪﻨﻋ ﻥﺍﻮﻴﺣ ﻊﻣ ﻂﺑﺍﺮﺘﻟﺍ ﺔﺻﺮﻓ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>ﺀﺍﻭﺪﻟﺍ ﻊﻴﺑ ﺮﻌﺳ ﻦﻴﺴﺤﺗ</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>. ﺔﻳﻮﺌﻤﻟﺍ ﺔﺒﺴﻨﻟﺍ ﻩﺬﻬﺑ ﺭﺎﻌﺳﻷﺍ ﻦﺴﺤﺘﺗ ،ﺔﻴﺒﻃ ﺮﻴﻏ ﺔﻳﻭﺩﺃ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻊﻴﺒﻳ ﺎﻣﺪﻨﻋ</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>ﺽﻭﺎﻔﺗ ﺓﺭﺎﻬﻣ</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>. ﺽﻭﺎﻔﺘﻤﻛ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺔﻴﻟﺎﻌﻓ ﻯﺪﻣ\n\n. ﻡﻼﺴﻟﺍ ﺕﺎﺛﺩﺎﺤﻣ ﺞﺋﺎﺘﻧﻭ ،ﺎﻳﺍﺪﻬﻟﺍ ﻢﻳﺪﻘﺗ ﺪﻨﻋ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺎﻗﻼﻋ ﻰﻠﻋ ﺮﻴﺛﺄﺘﻟﺍﻭ ،ﺀﺎﻨﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﺔﻋﺮﺳ ﻰﻠﻋ ﺍﺬﻫ ﺮﺛﺆﻳ</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>ﻝﺎﻤﺟ</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>. ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﺎﻣ ﻮﻫﻭ ،ﺩﺮﻔﻟﺍ ﺍﺬﻬﻟ ﺔﻳﺪﺴﺠﻟﺍ ﺔﻴﺑﺫﺎﺠﻟﺍ ﻯﺪﻣ</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>ﻲﻋﺎﻤﺘﺟﺍ ﺮﻴﺛﺄﺗ</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>. ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ ﺺﺨﺸﻟﺍ ﺍﺬﻬﻟ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﺮﻴﺛﺄﺘﻟ ﻑِﻋﺎﺿُﻣ</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻝﺎﻤﺘﺣﺍ</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>. ﺔﻨﻴﻌﻣ ﺔﻟﻭﺎﺤﻣ ﻱﺃ ﻲﻓ ﻥﺍﻮﻴﺣ ﺾﻳﻭﺮﺗ ﻲﻓ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﺡﺎﺠﻨﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﺻﺮﻔﻟﺍ\n\n. ﻥﺍﻮﻴﺤﻟﺍ ﺔﻳﺮﺒﺑ ﺍًﻀﻳﺃ ﺔﻴﻠﻌﻔﻟﺍ ﺔﺻﺮﻔﻟﺍ ﺮﺛﺄﺘﺗ\n\n. ﺔﺳﺍﺮﺷ ﺮﺜﻛﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ًﺔﺻﺎﺧ ،ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻤﺠﻫ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﺔﻠﺷﺎﻔﻟﺍ ﺾﻳﻭﺮﺘﻟﺍ ﺔﻟﻭﺎﺤﻣ ﻱﺩﺆﺗ ﺪﻗ</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>ﻝﻭﺍﺪﺘﻟﺍ ﺮﻌﺳ ﻦﻴﺴﺤﺗ</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>. ﺔﻳﻮﺌﻤﻟﺍ ﺔﺒﺴﻨﻟﺍ ﻩﺬﻬﺑ ﻊﻴﺒﻟﺍﻭ ﺀﺍﺮﺸﻟﺍ ﺭﺎﻌﺳﺃ ﻦﺴﺤﺘﺗ ،ﺓﺭﺎﺠﺘﻟﺍ ﺽﻭﺎﻔﺘﻣ ﺭﻭﺩ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻰﻟﻮﺘﻳ ﺎﻣﺪﻨﻋ</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﺔﺻﺮﻓ</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>. ﺔﻨﻴﻌﻣ ﺔﻟﻭﺎﺤﻣ ﻲﻓ ﻥﺍﻮﻴﺣ ﺐﻳﺭﺪﺗ ﻲﻓ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺡﺎﺠﻨﻟ ﻲﺳﺎﺳﻷﺍ ﻝﺎﻤﺘﺣﻻﺍ\n\n. ﻚﻟﺫ ﻰﻟﺇ ﺎﻣﻭ ،ﺏﺭﺪﻤﻟﺎﺑ ﺍًﻄﺒﺗﺮﻣ ﻥﺎﻛ ﺍﺫﺇ ﺎﻣﻭ ،ﻥﺍﻮﻴﺤﻟﺍ ﺔﻴﺸﺣﻭ ﻯﺪﻣ ﻰﻠﻋ ﺍًﻀﻳﺃ ﺔﻨﻴﻌﻣ ﺔﻟﻭﺎﺤﻣ ﻲﻓ ﻲﻠﻌﻔﻟﺍ ﻝﺎﻤﺘﺣﻻﺍ ﺪﻤﺘﻌﻴﺳ</TrainAnimalChance.description>
+  
+</LanguageData>

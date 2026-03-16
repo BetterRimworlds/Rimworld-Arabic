@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kibble -->
+  <Kibble.label>ﻒﻠﻋ</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>. ﺓﺪﺸﺑ ﻪﻧﻮﻫﺮﻜﻳ ﻢﻬﻨﻜﻟ ،ﻪﻠﻛﺃ ﺮﺸﺒﻠﻟ ﻦﻜﻤﻳ. ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﻡﻮﺤﻠﻟﺍ ﻦﻣ ﺔﻄﻠﺘﺨﻣ ﺭﺩﺎﺼﻣ ﻦﻣ ﻉﻮﻨﺼﻣ ﻲﻧﺍﻮﻴﺣ ﻒﻠﻋ</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>ﺓﺪﻴﺟ ﺔﺒﺟﻭ</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>. ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﻦﻣ ﺔﻳﺎﻨﻌﺑ ﻉَّﻤﺟُﻣ ﺪﻘﻌﻣ ﻖﺒﻃ</MealFine.description>
+  
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>ﻡﻮﺤﻠﻟ ﺓﺪﻴﺟ ﺔﺒﺟﻭ</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>. ﻡﻮﺤﻟ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻳﺎﻨﻌﺑ ﻉَّﻤﺟُﻣ ﺪﻘﻌﻣ ﻖﺒﻃ</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>ﺔﻴﺗﺎﺒﻧ ﺓﺪﻴﺟ ﺔﺒﺟﻭ</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>. ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻳﺎﻨﻌﺑ ﻉَّﻤﺟُﻣ ﺪﻘﻌﻣ ﻖﺒﻃ</MealFine_Veg.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>. ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ،ﻲﻬﻄﻟﺍ ﻥﻮﻨﻓ ﻦﻣ ﺔﻔﺤﺗ</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>ﻡﻮﺤﻠﻟ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>. ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ،ﻲﻬﻄﻟﺍ ﻥﻮﻨﻓ ﻦﻣ ﺔﻔﺤﺗ</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>ﺔﻴﺗﺎﺒﻧ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>. ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ،ﻲﻬﻄﻟﺍ ﻥﻮﻨﻓ ﻦﻣ ﺔﻔﺤﺗ</MealLavish_Veg.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﺔﺒﺟﻭ</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>. ﺍًﻣﺎﻤﺗ ﺯﺍﺰﺌﻤﺷﻼﻟ ﺮﻴﺜﻣﻭ ،ﻢﺴﺠﻟﺍ ﻪﺟﺎﺘﺤﻳ ﺎﻣ ﻞﻛ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ،ﻥﺩﺎﻌﻤﻟﺍﻭ ﺔﻴﻨﻴﻣﻷﺍ ﺽﺎﻤﺣﻷﺍﻭ ﺕﺎﻨﻴﻣﺎﺘﻴﻔﻟﺍﻭ ﺕﺍﺭﺪﻴﻫﻮﺑﺮﻜﻟﺍﻭ ﻦﻴﺗﻭﺮﺒﻟﺍ ﻦﻣ ﻲﻋﺎﻨﻄﺻﺍ ﺞﻳﺰﻣ</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>. ﺪﺣﺍﻭ ﻲﺴﻴﺋﺭ ﻥﻮﻜﻣ ﻦﻣ ﺔﻋﺮﺴﺑ ﻰﻬﻃُﺗ ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺔﺒﺟﻭ</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>. ﺮﻔﺴﻠﻟ ﺔﻌﺋﺍﺭ. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺖﻛﺭُﺗ ﺍﺫﺇ ﺭﻮﻫﺪﺘﺗ ﺪﻗ ﺎﻬﻧﺃ ﻻﺇ ،ﺍًﺪﺑﺃ ﺪﺴﻔﺗ ﻻ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺀﺎﻘﺒﻟﺍ ﺕﻻﺎﺣ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻌﻨﺼﻣ ،ﺓﺩﻮﺠﻟﺍ ﺔﻴﻟﺎﻋ ﺓﺄﺒﻌﻣ ﺔﺒﺟﻭ</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>ﻥﺎﻜﻴﻤﻴﺑ</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>. ﺮﻔﺴﻠﻟ ﺯﺎﺘﻤﻣ. ﺪﻳﺮﺒﺗ ﻥﻭﺪﺑ ﺍًﺪﺟ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻡﻭﺪﻳ. ﺍًﺯﺰﻘﻣ ﺲﻴﻟ ﻪﻨﻜﻟﻭ ،ﺖﻫﺎﺑ ﻪﻗﺍﺬﻣ. ﻲﺗﺎﺒﻨﻟﺍ ﺀﺍﺬﻐﻟﺍﻭ ﻥﻮﻫﺪﻟﺍ ﻦﻣ ﻅﻮﻔﺤﻣ ﺱﻭﺮﻬﻣ ﺞﻳﺰﻣ</Pemmican.description>
+  
+</LanguageData>

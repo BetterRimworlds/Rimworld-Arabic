@@ -1,0 +1,14 @@
+﻿//Se usan para describir los restos de una explosión mecanoide e.j: dejando un montón de "aceite quemado" por todos lados
+الزيت المحترق
+الأسلاك المحروقة
+الأحشاء المتحللة
+العظام المكسورة
+الأمعاء المتحللة
+المزلق المحترق
+العضلات
+الأعضاء المفتوحة
+الدم
+الدماغ
+البراغي المكسورة
+الأحشاء
+اللُب

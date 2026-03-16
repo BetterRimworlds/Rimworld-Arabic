@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net480</TargetFramework>
+    <LangVersion>10</LangVersion>
+    <ProjectGuid>{675CE9D5-460C-496A-A6A9-8D3873EDDD88}</ProjectGuid>
+    <RootNamespace>BetterRimworlds</RootNamespace>
+    <AssemblyName>Rimworld-Arabic</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release v1.6' ">
+    <DefineConstants>RIMWORLD16</DefineConstants>
+    <OutputPath>../Rimworld-Arabic/Assemblies</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup Condition=" '$(Configuration)' == 'Release v1.6' ">
+    <Reference Include="Assembly-CSharp">
+      <HintPath>/rimworld/1.6/RimWorldLinux_Data/Managed/Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>/rimworld/1.6/RimWorldLinux_Data/Managed/UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>/rimworld/1.6/RimWorldLinux_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>/rimworld/1.6/RimWorldLinux_Data/Managed/UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

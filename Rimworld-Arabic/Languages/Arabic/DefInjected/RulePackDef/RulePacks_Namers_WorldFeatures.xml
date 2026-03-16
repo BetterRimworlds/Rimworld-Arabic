@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->islands</li>
+    <li>terrain_word(p=3)->isles</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rocks</li>
+    <li>terrain_word->islets</li>
+    <li>terrain_word->points</li>
+    <li>terrain_word->chain</li>
+  -->
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name] ﺓﺮﻳﺰﺟ</li>
+    <li>terrain_word(p=4)->ﺭﺰﺟ</li>
+    <li>terrain_word(p=3)->ﺭﺰﺟ</li>
+    <li>terrain_word(p=3)->ﻞﻴﺒﺧﺭﺃ</li>
+    <li>terrain_word->ﺔَّﻴِﻧﺎَﺟْﺮَﻣ ﺐَﻌُﺷ</li>
+    <li>terrain_word->ﻲﻘﻠﺣ ﻥﺎﺟﺮﻣ</li>
+    <li>terrain_word->ﺭﻮﺨﺻ</li>
+    <li>terrain_word->ﺓَﺮﻴِﻐَﺻ ﺕﺍَﺮْﻳَﺰُﺟ</li>
+    <li>terrain_word->ﻁﺎﻘﻧ</li>
+    <li>terrain_word->ﺔﻠﺴﻠﺳ</li>
+  </NamerArchipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->shrubland</li>
+    <li>terrain_word(p=4)->scrubland</li>
+    <li>terrain_word(p=2)->plateau</li>
+    <li>terrain_word(p=2)->scrub</li>
+    <li>terrain_word->desert</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ﺕﺍﺮﻴﺠﺷ ﻲﺿﺍﺭﺃ</li>
+    <li>terrain_word(p=4)->ﺔﻳﺮﻴﺠﺷ ﻝﻮﻬﺳ</li>
+    <li>terrain_word(p=2)->ﺔﺒﻀﻫ</li>
+    <li>terrain_word(p=2)->ﺕﺍﺮﻴﺠﺷ</li>
+    <li>terrain_word->ﺀﺍﺮﺤﺻ</li>
+    <li>terrain_word->ﺓﺮﻴﺠﺷ</li>
+    <li>terrain_word->ﺕﺍﺮﻴﺠﺷ</li>
+    <li>terrain_word->ﺮْﻔَﻗ</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->bight</li>
+    <li>terrain_word->gulf</li>
+    <li>terrain_word->anchorage</li>
+    <li>terrain_word->cove</li>
+  -->
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name] ﺞﻴﻠﺧ</li>
+    <li>terrain_word(p=6)->ﺞﻴﻠﺧ</li>
+    <li>terrain_word->ﺮﻴﻐﺻ ﺞﻴﻠﺧ</li>
+    <li>terrain_word->ﺞﻴﻠﺧ</li>
+    <li>terrain_word->ﻰﺳﺮﻣ</li>
+    <li>terrain_word->ﺞﻴﻠﺧ</li>
+  </NamerBay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word(p=3)->taiga</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->tangle</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->ﺔﺑﺎﻏ</li>
+    <li>terrain_word(p=3)->ﺎﻐﻳﺎﺗ ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺔﻔﻴﺜﻛ ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺓﺮﻴﻐﺻ ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺓﺮﻴﺠُﺷ</li>
+    <li>terrain_word->ﺔﻤﺟﺃ</li>
+  </NamerBorealForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
+    <li>desert_adjective->flat</li>
+    <li>desert_adjective->white</li>
+    <li>desert_adjective->endless</li>
+    <li>desert_adjective->heartless</li>
+    <li>desert_adjective->parched</li>
+    <li>desert_adjective->dry</li>
+    <li>desert_adjective->long</li>
+    <li>desert_adjective->sunburned</li>
+    <li>desert_adjective->sunny</li>
+    <li>desert_adjective->dazzling</li>
+    <li>desert_adjective->hot</li>
+    <li>desert_adjective->sweaty</li>
+    <li>desert_adjective->sandy</li>
+    <li>desert_adjective->rocky</li>
+    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->flats</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wastes</li>
+    <li>terrain_word->wasteland</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name] [desert_adjective]</li>
+    <li>desert_adjective->ٍﻮَﺘْﺴُﻣ</li>
+    <li>desert_adjective->ﺾﻴﺑﺃ</li>
+    <li>desert_adjective->ﺔﻳﺎﻬﻧ ﺎﻟ</li>
+    <li>desert_adjective->ٍﺱﺎﻗ</li>
+    <li>desert_adjective->ﻥﺎﺸﻄﻋ</li>
+    <li>desert_adjective->ﻑﺎﺟ</li>
+    <li>desert_adjective->ﻞﻳﻮﻃ</li>
+    <li>desert_adjective->ِﺲْﻤَّﺸﻟﺍ َﻦِﻣ ﻕﻭُﺮْﺤُﻣ</li>
+    <li>desert_adjective->ﺲﻤﺸﻣ</li>
+    <li>desert_adjective->ﺮﻫﺎﺑ</li>
+    <li>desert_adjective->ّﺭﺎﺣ</li>
+    <li>desert_adjective->ﻕّﺮﻌﺘﻣ</li>
+    <li>desert_adjective->ﻲﻠﻣﺭ</li>
+    <li>desert_adjective->ﻱﺮﺨﺻ</li>
+    <li>terrain_word(p=6)->ﺀﺍﺮﺤﺻ</li>
+    <li>terrain_word->ﺔﺒﻀﻫ</li>
+    <li>terrain_word->ﻞﻬﺳ</li>
+    <li>terrain_word->ﺽﺍﻮﺣﺃ</li>
+    <li>terrain_word->ﺔﻠﺣﺎﻗ ٍﺽﺍﺭﺃ</li>
+    <li>terrain_word->ﺮْﻔَﻗ</li>
+    <li>terrain_word->ﺮْﻔَﻗ</li>
+  </NamerDesert.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ٌﻥﺎَﺘْﺴُﺑ</li>
+    <li>terrain_word->ﺵﺍﺮﺣﺃ</li>
+    <li>terrain_word->ﺓﺮﻴﻐﺻ ﺔﺑﺎﻏ</li>
+  </NamerForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->sheet</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word(p=0.5)->reach</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->span</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->tract</li>
+  -->
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>terrain_word->ﺪﻴﻠﺟ</li>
+    <li>terrain_word->ﻑﺍﺮﻃﺄﻟﺍ ﻲﻣﺍﺮﺘﻣ</li>
+    <li>terrain_word(p=0.5)->ﻯﺪﻣ</li>
+    <li>terrain_word(p=0.3)->ﻞﻘﺣ</li>
+    <li>terrain_word(p=0.3)->ﻖﻴﻀﻣ</li>
+    <li>terrain_word(p=0.3)->ﻞﻘﺣ</li>
+    <li>terrain_word(p=0.3)->ﺩﺍﺪﺘﻣﺍ</li>
+    <li>terrain_word(p=0.3)->ﻱﺪﺑﺃ ﺪﻴﻠﺟ</li>
+  </NamerIceSheet.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->island</li>
+    <li>terrain_word(p=2)->isle</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rock</li>
+    <li>terrain_word->islet</li>
+    <li>terrain_word->point</li>
+  -->
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name] ﺓﺮﻳﺰﺟ</li>
+    <li>terrain_word(p=4)->ﺓﺮﻳﺰﺟ</li>
+    <li>terrain_word(p=2)->ﺓﺮﻳﺰﺟ</li>
+    <li>terrain_word->ﺔَّﻴِﻧﺎَﺟْﺮَﻣ ﺐَﻌُﺷ</li>
+    <li>terrain_word->ﻲﻘﻠﺣ ﻥﺎﺟﺮﻣ</li>
+    <li>terrain_word->ﺓﺮﺨﺻ</li>
+    <li>terrain_word->ﺓﺮﻴﻐﺻ ﺓﺮﻳﺰُﺟ</li>
+    <li>terrain_word->ﺱﺃﺭ</li>
+  </NamerIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->lake</li>
+    <li>terrain_word->pond</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word(p=0.3)->puddle</li>
+    <li>terrain_word(p=0.3)->loch</li>
+  -->
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name->[narrative_name] ﺓﺮﻴﺤﺑ</li>
+    <li>terrain_word(p=6)->ﺓَﺮْﻴَﺤُﺑ</li>
+    <li>terrain_word->ﺔﻛﺮﺑ</li>
+    <li>terrain_word->ﺽﻮﺣ</li>
+    <li>terrain_word->ﻥﺍَّﺰَﺧ</li>
+    <li>terrain_word->ﺓﻭﺭﺫ</li>
+    <li>terrain_word(p=0.3)->ﺓﺮﻴﻐﺻ ﺔﻛﺮﺑ</li>
+    <li>terrain_word(p=0.3)->ﺓﺮﻴﻐﺻ ﺓﺮﻴﺤﺑ</li>
+    <li>terrain_word(p=0.3)->ﺓَﺮْﻴَﺤُﺑ</li>
+  </NamerLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->mount [narrative_name]</li>
+    <li>terrain_word(p=5)->mountains</li>
+    <li>terrain_word(p=2)->range</li>
+    <li>terrain_word->peaks</li>
+    <li>terrain_word->hills</li>
+    <li>terrain_word->cliffs</li>
+  -->
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name] ﻝﺎﺒﺟ ﺔﻠﺴﻠﺳ</li>
+    <li>terrain_word(p=5)->ﻝﺎﺒﺟ</li>
+    <li>terrain_word(p=2)->ﺔﻴﻠﺒﺟ ﺔﻠﺴﻠﺳ</li>
+    <li>terrain_word->ﻝﺎﻠﺗ</li>
+    <li>terrain_word->ﺕﺍﺭﺪﺤﻨﻣ</li>
+    <li>terrain_word->ﺭﺪﺤﻨﻣ</li>
+  </NamerMountainRange.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->blue</li>
+    <li>ocean_adjective->white</li>
+    <li>ocean_adjective->gray</li>
+    <li>ocean_adjective->clear</li>
+    <li>ocean_adjective->windy</li>
+    <li>ocean_adjective->stormy</li>
+    <li>ocean_adjective->calm</li>
+    <li>ocean_adjective->broad</li>
+    <li>ocean_adjective->endless</li>
+    <li>ocean_adjective->flat</li>
+    <li>ocean_adjective->still</li>
+    <li>ocean_adjective->wavy</li>
+    <li>ocean_adjective->gentle</li>
+    <li>terrain_word(p=6)->ocean</li>
+    <li>terrain_word(p=3)->sea</li>
+    <li>terrain_word->expanse</li>
+  -->
+  <NamerOcean.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name] [ocean_adjective]</li>
+    <li>ocean_adjective->ﻕﺭﺯﺃ</li>
+    <li>ocean_adjective->ﺾﻴﺑﺃ</li>
+    <li>ocean_adjective->ﻱﺩﺎﻣﺭ</li>
+    <li>ocean_adjective->ٍﻑﺎﺻ</li>
+    <li>ocean_adjective->ﻒﺻﺎﻋ</li>
+    <li>ocean_adjective->ﻒﺻﺎﻋ</li>
+    <li>ocean_adjective->ﺉﺩﺎﻫ</li>
+    <li>ocean_adjective->ﻊﺳﺍﻭ</li>
+    <li>ocean_adjective->ﺔﻳﺎﻬﻧ ﺎﻟ</li>
+    <li>ocean_adjective->ٍﻮَﺘْﺴُﻣ</li>
+    <li>ocean_adjective->ﻦﻛﺎﺳ</li>
+    <li>ocean_adjective->ﺝﻮﻤﺘﻣ</li>
+    <li>ocean_adjective->ﻒﻴﻄﻟ</li>
+    <li>terrain_word(p=6)->ﻂﻴِﺤُﻣ</li>
+    <li>terrain_word(p=3)->ﺮﺤﺑ</li>
+    <li>terrain_word->ﺱﺃﺭ</li>
+  </NamerOcean.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->point [narrative_name]</li>
+    <li>r_name(p=0.2)->cape [narrative_name]</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->point</li>
+    <li>terrain_word->cape</li>
+    <li>terrain_word->headland</li>
+    <li>terrain_word->horn</li>
+  -->
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>standardname(p=0.2)->[narrative_name] ﺔﻄﻘﻧ</li>
+    <li>standardname(p=0.2)->[narrative_name] ﺱﺃﺭ</li>
+    <li>terrain_word(p=5)->ﺓﺮﻳﺰﺟ ﻪﺒﺷ</li>
+    <li>terrain_word(p=2)->ﺓﺮﻳﺰﺟ ﻪﺒﺷ</li>
+    <li>terrain_word->ﺱﺃﺭ</li>
+    <li>terrain_word->ﻥﺮﻗ</li>
+    <li>terrain_word->ﺓﺮﻴﺤﺑ</li>
+  </NamerPeninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->lagoon</li>
+    <li>terrain_word->ocean</li>
+  -->
+  <NamerSea.rulePack.rulesStrings>
+    <li>standardname(p=0.1)->[narrative_name] ﺭﺎﻣ</li>
+    <li>terrain_word(p=6)->ﺮﺤﺑ</li>
+    <li>terrain_word->ﻂﻴِﺤُﻣ</li>
+  </NamerSea.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.1)->fen [narrative_name]</li>
+    <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective->wet</li>
+    <li>swamp_adjective->steamy</li>
+    <li>swamp_adjective->choking</li>
+    <li>swamp_adjective->rotten</li>
+    <li>swamp_adjective->rotting</li>
+    <li>swamp_adjective->overgrown</li>
+    <li>swamp_adjective->tangled</li>
+    <li>swamp_adjective->viny</li>
+    <li>swamp_adjective->thorny</li>
+    <li>terrain_word(p=6)->swamp</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wetlands</li>
+    <li>terrain_word->bayou</li>
+    <li>terrain_word->bog</li>
+    <li>terrain_word->marsh</li>
+    <li>terrain_word->fen</li>
+  -->
+  <NamerSwamp.rulePack.rulesStrings>
+    <li>standardname(p=0.1)->[narrative_name] ﺭﺍﻮﻫﺃ</li>
+    <li>standardname(p=0.3)->[narrative_name] [swamp_adjective]</li>
+    <li>swamp_adjective->ﺐﻃﺭ</li>
+    <li>swamp_adjective->ﻲﺑﺎﺒﺿ</li>
+    <li>swamp_adjective->ﻖﻧﺎﺧ</li>
+    <li>swamp_adjective->ﻦﻔﻋ</li>
+    <li>swamp_adjective->ﻞﻛﺁ</li>
+    <li>swamp_adjective->ﺮِﻫَﺩْﺰُﻣ</li>
+    <li>swamp_adjective->ﻚﺑﺎﺸﺘﻣ</li>
+    <li>swamp_adjective->ﻚِﺑﺎَﺸَﺘُﻣ</li>
+    <li>swamp_adjective->ﻚﺋﺎﺷ</li>
+    <li>terrain_word(p=6)->ﺭﺍﻮﻫﺃ</li>
+    <li>terrain_word->ﺽﻮﺣ</li>
+    <li>terrain_word->ﺔﺒﻃﺭ ﻲﺿﺍﺭﺃ</li>
+    <li>terrain_word->ﺭﺍﻮﻫﺃ</li>
+    <li>terrain_word->ٌﺔَﺒْﻃَﺭ ٌﺽﺭَﺃ</li>
+    <li>terrain_word->ﺭﺍﻮﻫﺃ</li>
+    <li>terrain_word->ﺭﺍﻮﻫﺃ</li>
+  </NamerSwamp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
+    <li>rainforest_adjective->wet</li>
+    <li>rainforest_adjective->steamy</li>
+    <li>rainforest_adjective->choking</li>
+    <li>rainforest_adjective->overgrown</li>
+    <li>rainforest_adjective->tangled</li>
+    <li>rainforest_adjective->viny</li>
+    <li>rainforest_adjective->thorny</li>
+    <li>terrain_word(p=6)->rainforest</li>
+    <li>terrain_word(p=3)->jungle</li>
+    <li>terrain_word->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->tangle</li>
+  -->
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>standardname(p=0.3)->[narrative_name] [rainforest_adjective]</li>
+    <li>rainforest_adjective->ﺔﺒﻃﺭ</li>
+    <li>rainforest_adjective->ﻱﺭﺎﺨﺑ</li>
+    <li>rainforest_adjective->ﻖﻧﺎﺧ</li>
+    <li>rainforest_adjective->ﺔَﻋِﺭَﺩْﺰُﻣ</li>
+    <li>rainforest_adjective->ﺔﻜﺑﺎﺸﺘﻣ</li>
+    <li>rainforest_adjective->ﻒﻴﺨُﻣ</li>
+    <li>rainforest_adjective->ﺔﻜﺋﺎﺷ</li>
+    <li>terrain_word(p=6)->ﺓﺮﻴﻄﻣ ﺔﺑﺎﻏ</li>
+    <li>terrain_word(p=3)->ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺔﻤﺟﺃ</li>
+    <li>terrain_word->ﺔﺑﺎﻏ</li>
+    <li>terrain_word->ﺔﻤﺟﺃ</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->plateau</li>
+    <li>terrain_word(p=4)->barrens</li>
+    <li>terrain_word(p=2)->taiga</li>
+    <li>terrain_word->scrub</li>
+    <li>terrain_word->shrubland</li>
+    <li>terrain_word->scrubland</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word->prairie</li>
+    <li>terrain_word->flats</li>
+  -->
+  <NamerTundra.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ﺔﺒﻀﻫ</li>
+    <li>terrain_word(p=4)->ﺍﺭﺪﻨﺗ</li>
+    <li>terrain_word(p=2)->ﺎﻐﻳﺎﺗ</li>
+    <li>terrain_word->ﻞﻬﺳ</li>
+    <li>terrain_word->ﺕﺍﺮﻴﺠﺷ</li>
+    <li>terrain_word->ﻞﺣﺎﻗ ٌﻞﻬﺳ</li>
+    <li>terrain_word->ﺓﺮﻴﺠﺷ</li>
+    <li>terrain_word->ﺓﺎﺷﺮﻓ</li>
+    <li>terrain_word->ﺍﺭﺪﻨﺗ</li>
+    <li>terrain_word->ﻉﺎﺴﺗﺍ</li>
+    <li>terrain_word->ﻰﻋﺮﻣ</li>
+    <li>terrain_word->ﻞﻬﺳ</li>
+  </NamerTundra.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[narrative_name] [terrain_word]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[Color]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[Color] [Animal]</li>
+    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[subject]'s [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->folly</li>
+    <li>story_result->vice</li>
+    <li>story_result->lunacy</li>
+    <li>story_result->mistake</li>
+    <li>story_result->fault</li>
+    <li>story_result->misstep</li>
+    <li>story_result->delusion</li>
+    <li>story_result->joy</li>
+    <li>story_result->delight</li>
+    <li>story_result->wonder</li>
+    <li>story_result->pride</li>
+    <li>story_result->jewel</li>
+    <li>story_result->prize</li>
+    <li>story_result->bounty</li>
+    <li>story_result->honor</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->trophy</li>
+    <li>story_result->conceit</li>
+    <li>story_result->arrogance</li>
+    <li>story_result->stand</li>
+    <li>story_result->loss</li>
+    <li>story_result->debt</li>
+    <li>story_result->collapse</li>
+    <li>story_result->destruction</li>
+    <li>story_result->cataclysm</li>
+    <li>story_result->ruin</li>
+    <li>story_result->ruination</li>
+    <li>story_result->undoing</li>
+    <li>story_result->downfall</li>
+    <li>story_result->end</li>
+    <li>story_result->retirement</li>
+    <li>story_result->achievement</li>
+    <li>story_result->finale</li>
+    <li>story_result->bluff</li>
+    <li>story_result->ruse</li>
+    <li>story_result->deception</li>
+    <li>story_result->facade</li>
+    <li>story_result->fraud</li>
+  -->
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name->[terrain_word] [narrative_name]</li>
+    <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
+    <li>narrative_name(p=12)->[WordTribal_Cap]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[NaturalObject] [Color]</li>
+    <li>narrative_name->[NaturalObject_Fem] [Color_Fem]</li>
+    <li>narrative_name->[AdjectiveNatural] [BodyPart] ﻝﺍ</li>
+    <li>narrative_name->[AdjectiveNaturalFem] [BodyPartFem] ـﻝﺍ</li>
+    <li>narrative_name->[AnimalAny]</li>
+    <li>narrative_name->[ColorAny]</li>
+    <li>narrative_name->[Color] [Animal] ﻝﺍ</li>
+    <li>narrative_name->[Color_Fem] [Animal_Fem] ـﻝﺍ</li>
+    <li>narrative_name->[Animal] [AdjectiveNatural]</li>
+    <li>narrative_name->[Animal_Fem] [AdjectiveNaturalFem]</li>
+    <!-- Para animal y partes del cuerpo, pendiente crear dos archivos de partes del cuerpo de animales y dividirlos en aves y mamiferos 
+    <li>narrative_name->[Animal][BodyPart]</li> dejar en forma de comentario hasta hacer esos archivos -->
+    <li>narrative_name->[Color] [Animal] ﻝﺍ</li>
+    <li>narrative_name->[Color_Fem] [Animal_Fem] ـﻝﺍ</li>
+    <li>narrative_name->[Animal] [AdjectiveNatural]</li>
+    <li>storyname(p=50)->[subject] ـﻝ [story_result]</li>
+    <li>storyname(p=2)->[subject] ـﺏ ﺹﺎﺨﻟﺍ [BodyPartAny]</li>
+    <li>storyname->[subject] ﻦﻣ [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[AnimalAny]</li>
+    <li>subject->[WordTribal_Cap]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->ﺔﻗﺎﻤﺣ</li>
+    <li>story_result->ﺔﻠﻳﺫﺭ</li>
+    <li>story_result->ﻥﺎﻳﺬﻫ</li>
+    <li>story_result->ﺄﻄﺧ</li>
+    <li>story_result->ﻞﻠﺧ</li>
+    <li>story_result->ﻡﺪﻗ ﺔﻟﺯ</li>
+    <li>story_result->ﻢﻫﻭ</li>
+    <li>story_result->ﺡﺮﻓ</li>
+    <li>story_result->ﺔﺠﻬﺑ</li>
+    <li>story_result->ْﻞَّﻣَﺄَﺗ</li>
+    <li>story_result->ﺮﺨﻓ</li>
+    <li>story_result->ﺓَﺮَﻫْﻮَﺟ</li>
+    <li>story_result->ﺓﺰﺋﺎﺟ</li>
+    <li>story_result->ﺔَﻤﻴِﻨَﻏ</li>
+    <li>story_result->ﻑﺮﺷ</li>
+    <li>story_result->ﺰﻨَﻛ</li>
+    <li>story_result->ﺱﺄﻛ</li>
+    <li>story_result->ﺀﺎﻠﻴﺧ</li>
+    <li>story_result->ﺭﻭﺮﻏ</li>
+    <li>story_result->ﻉﺎﻓِﺩ</li>
+    <li>story_result->ﺓﺭﺎﺴﺧ</li>
+    <li>story_result->ﻦﻳﺩ</li>
+    <li>story_result->ﺭﺎﻴﻬﻧﺍ</li>
+    <li>story_result->ﺮﻴﻣﺪﺗ</li>
+    <li>story_result->ﺔﺛﺭﺎﻛ</li>
+    <li>story_result->ﺏﺍﺮَﺧ</li>
+    <li>story_result->ﺏﺍﺮﺧ</li>
+    <li>story_result->ﻙﺎﻠﻫ</li>
+    <li>story_result->ﻁﻮﻘﺳ</li>
+    <li>story_result->ﻲﺋﺎﻬﻧ</li>
+    <li>story_result->ﺪﻋﺎﻘﺗ</li>
+    <li>story_result->ﺯﺎﺠﻧﺇ</li>
+    <li>story_result->ﺓﺯﺎﻨﺟ</li>
+    <li>story_result->ﺔﻋﺪُﺧ</li>
+    <li>story_result->ﺔﻋْﺪُﺧ</li>
+    <li>story_result->ﻉﺍﺪﺧ</li>
+    <li>story_result->ﺔﻬﺟﺍﻭ</li>
+    <li>story_result->ﻝﺎﻴﺘﺣﺍ</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  
+</LanguageData>

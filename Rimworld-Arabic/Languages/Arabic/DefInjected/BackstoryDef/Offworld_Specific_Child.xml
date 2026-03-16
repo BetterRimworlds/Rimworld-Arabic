@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to do to survive. -->
+  <ApocalypseSurvivor23.description>{PAWN_gender ? . ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻡﺰﻠﻳ ﺎﻣ ﻞﻛ ﺎﻫﺍﺪﻟﺍﻭﻭ [PAWN_nameDef] ﺖﻠﻌﻓ. ﻰﺿﻮﻔﻟﺍ ﻰﻟﺇ ﺔﻴﻤﻠﺴﻟﺍ ﻝﻭﺪﻟﺍ ﺕﺭﺪﺤﻧﺍﻭ ﺕﺍﺭﺎﻴﻠﻤﻟﺍ ﺕﺎﻣ - ﻉﺎﺿﻭﻷﺍ ﺖﻤﻗﺎﻔﺗ ،ﺎﻫﻮﻤﻧ ﻊﻣﻭ. ﺕﺎﻧﺎﻀﻴﻔﻟﺍﻭ ﺔﻴﻋﺎﻤﺠﻟﺍ ﺔﻋﺎﺠﻤﻟﺍ ﺥﺎﻨﻤﻟﺍ ﺮﻴﻐﺗ ﺩﺪﻫ ﺚﻴﺣ ،ﻡﻷﺍ ﻢﻟﺎﻌﻟﺍ ﻰﻠﻋ ﺕﺎﺑﺍﺮﻄﺿﺍ ﻦﻣﺯ ﻲﻓ [PAWN_nameDef] ﺕﺪﻟُﻭ : . ﺀﺎﻘﺒﻟﺍ ﻞﺟﺃ ﻦﻣ ﻪﻠﻌﻓ ﺎﻤﻬﻴﻠﻋ ﻥﺎﻛ ﺎﻣ ﻞﻛ ﻩﺍﺪﻟﺍﻭﻭ [PAWN_nameDef] ﻞﻌﻓ. ﻰﺿﻮﻔﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻲﻓ ﺔﻴﻤﻠﺴﻟﺍ ﻝﻭﺪﻟﺍ ﺕﻮﻫﻭ ﺕﺍﺭﺎﻴﻠﻤﻟﺍ ﺕﺎﻣ - ﺍًﺀﻮﺳ ﺭﻮﻣﻷﺍ ﺕﺩﺍﺩﺯﺍ ،ﻩﻮﻤﻧ ﻊﻣﻭ. ﺕﺎﻧﺎﻀﻴﻔﻟﺍﻭ ﺔﻴﻋﺎﻤﺠﻟﺍ ﺔﻋﺎﺠﻤﻟﺍ ﺥﺎﻨﻤﻟﺍ ﺮﻴﻐﺗ ﺩﺪﻫ ﺚﻴﺣ ،ﻡﻷﺍ ﻢﻟﺎﻌﻟﺍ ﻰﻠﻋ ﺕﺎﺑﺍﺮﻄﺿﺍ ﻦﻣﺯ ﻲﻓ [PAWN_nameDef] ﺪﻟُﻭ}</ApocalypseSurvivor23.description>
+  <!-- EN: apocalypse survivor -->
+  <ApocalypseSurvivor23.title>ﻢﻟﺎﻌﻟﺍ ﺔﻳﺎﻬﻧ ﻦﻣ ٍﺝﺎﻧ</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleFemale>ﻢﻟﺎﻌﻟﺍ ﺔﻳﺎﻬﻧ ﻦﻣ ﺔﻴﺟﺎﻧ</ApocalypseSurvivor23.titleFemale>
+  <!-- EN: survivor -->
+  <ApocalypseSurvivor23.titleShort>ٍﺝﺎﻧ</ApocalypseSurvivor23.titleShort>
+  <ApocalypseSurvivor23.titleShortFemale>ﺔﻴﺟﺎﻧ</ApocalypseSurvivor23.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe's fungus crops. -->
+  <CaveworldTender26.description>{PAWN_gender ? . ﺔﻠﻴﺒﻘﻟﺎﺑ ﺔﺻﺎﺨﻟﺍ ﺮﻄﻔﻟﺍ ﻞﻴﺻﺎﺤﻣ ﺔﻳﺎﻋﺭ ﻲﻓ ﻦﻳﺮﺧﻵﺍ ﻝﺎﻔﻃﻷﺍ ﻊﻣ ﺖﻠﻤﻋ. ﻑﺎﻴﻀﻣ ﺮﻴﻏ ﻢﻟﺎﻋ ﺢﻄﺳ ﺖﺤﺗ ﻖﻴﻤﻋ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﺔﻠﻴﺒﻘﻟﺎﺑ ﺔﺻﺎﺨﻟﺍ ﺮﻄﻔﻟﺍ ﻞﻴﺻﺎﺤﻣ ﺔﻳﺎﻋﺭ ﻲﻓ ﻦﻳﺮﺧﻵﺍ ﻝﺎﻔﻃﻷﺍ ﻊﻣ ﻞﻤﻋ. ﻑﺎﻴﻀﻣ ﺮﻴﻏ ﻢﻟﺎﻋ ﺢﻄﺳ ﺖﺤﺗ ﻖﻴﻤﻋ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</CaveworldTender26.description>
+  <!-- EN: caveworld tender -->
+  <CaveworldTender26.title>ﻑﻮﻬﻜﻟﺍ ﻲﻋﺍﺭ</CaveworldTender26.title>
+  <CaveworldTender26.titleFemale>ﻑﻮﻬﻜﻟﺍ ﺔﻴﻋﺍﺭ</CaveworldTender26.titleFemale>
+  <!-- EN: cave kid -->
+  <CaveworldTender26.titleShort>ﻒﻬﻜﻟﺍ ﻞﻔﻃ</CaveworldTender26.titleShort>
+  <CaveworldTender26.titleShortFemale>ﺔﻴﻔﻬﻛ ﺔﻠﻔﻃ</CaveworldTender26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
+  <CaveworldTunneler48.description>{PAWN_gender ? . ﻢﺨﻀﻟﺍ ﺔﻴﻓﻮﺠﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻊﻤﺠﻣ ﻲﻓ ﺓﺭﺍّﻔﺤﻛ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺍًﺒﻳﺮﻘﺗ ﻡّﺸﻟﺎﺑ ﻑﻮﻬﻜﻟﺍ ﻲﻓ ﻞﻘﻨﺘﺗ ﻥﺃ ﻊﻴﻄﺘﺴﺗ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺍًﺪﻴﺟ ﺭﻮﺨﺼﻟﺍ ﻑﺮﻌﺗ ﺎﻬﻧﺇ : . ﻢﺨﻀﻟﺍ ﺔﻴﻓﻮﺠﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻊﻤﺠﻣ ﻲﻓ ﺭﺍّﻔﺤﻛ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﻢﺸﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺍًﺒﻳﺮﻘﺗ ﻑﻮﻬﻜﻟﺍ ﻲﻓ ﻞﻘﻨﺘﻳ ﻥﺃ ﻊﻴﻄﺘﺴﻳ ﻪﻧﺃ ﺔﺟﺭﺪﻟ ﺍًﺪﻴﺟ ﺭﻮﺨﺼﻟﺍ ﻑﺮﻌﻳ ﻪﻧﺇ}</CaveworldTunneler48.description>
+  <!-- EN: caveworld tunneler -->
+  <CaveworldTunneler48.title>ﻑﻮﻬﻛ ﺭﺎﻔﺣ</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleFemale>ﻑﻮﻬﻛ ﺓﺭﺎﻔﺣ</CaveworldTunneler48.titleFemale>
+  <!-- EN: tunneler -->
+  <CaveworldTunneler48.titleShort>ﻕﺎﻔﻧﺃ ﺭﺎﻔﺣ</CaveworldTunneler48.titleShort>
+  <CaveworldTunneler48.titleShortFemale>ﺓﺭﺎﻔﺣ</CaveworldTunneler48.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
+  <IndustrialOrphan13.description>{PAWN_gender ? . ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﺎﻬﻤﻟﺎﻋ ﻲﻓ ﻞﻤﻌﻟﺍ ﺭﻭﺩﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﺡﺪﻜﻟﺍ ﻲﻫ ﺎﻬﺗﺎﻳﺮﻛﺫ ﻡﺪﻗﺃ ﺖﻧﺎﻛ. ﻂﻗ ﺎﻬﻳﺪﻟﺍﻭ [PAWN_nameDef] ﻑﺮﻌﺗ ﻢﻟ\n\n. ﺍًﺪﺑﺃ ﺍًﺒﺳﺎﻨﻣ ﺍًﻤﻴﻠﻌﺗ ﻖﻠﺘﺗ ﻢﻟ ،ﻚﻟﺫ ﺐﺒﺴﺑﻭ : . ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻪﻤﻟﺎﻋ ﻲﻓ ﻞﻤﻌﻟﺍ ﺭﻭﺩﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﺡﺪﻜﻟﺍ ﻲﻫ ﻪﺗﺎﻳﺮﻛﺫ ﻡﺪﻗﺃ ﺖﻧﺎﻛ. ﻂﻗ ﻪﻳﺪﻟﺍﻭ [PAWN_nameDef] ﻑﺮﻌﻳ ﻢﻟ\n\n. ﺍًﺒﺳﺎﻨﻣ ﺍًﻤﻴﻠﻌﺗ ﻖﻠﺘﻳ ﻢﻟ ،ﻚﻟﺬﻟ ﺔﺠﻴﺘﻧﻭ}</IndustrialOrphan13.description>
+  <!-- EN: industrial orphan -->
+  <IndustrialOrphan13.title>ﻲﻋﺎﻨﺼﻟﺍ ﺮﺼﻌﻟﺍ ﻢﻴﺘﻳ</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleFemale>ﻲﻋﺎﻨﺼﻟﺍ ﺮﺼﻌﻟﺍ ﺔﻤﻴﺘﻳ</IndustrialOrphan13.titleFemale>
+  <!-- EN: orphan -->
+  <IndustrialOrphan13.titleShort>ﻢﻴﺘﻳ</IndustrialOrphan13.titleShort>
+  <IndustrialOrphan13.titleShortFemale>ﺔﻤﻴﺘﻳ</IndustrialOrphan13.titleShortFemale>
+  
+  <!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
+  <Scout44.description>{PAWN_gender ? . ﺔﻳﺮﻜﺴﻌﻟﺍ ﺔﻓﺎﺸﻜﻟﺍ ﺕﺍﺭﺎﻬﻣ ﻰﻠﻋ ﺎﻬﺑّﺭﺩ ﺏﺎﺒﺷ ﺞﻣﺎﻧﺮﺒﺑ ﺖﻘﺤﻟُﺃﻭ ،ﻢﻟﺎﻌﻟﺍ ﺔﻓﺎﺣ ﻰﻠﻋ ﺓﺮﻤﻌﺘﺴﻣ ﺓﺭﺍﺩﻹ [PAWN_nameDef] ﺕﺪﻟُﻭ\n\n. ﺔﻠﺌﺳﺃ ﻝﺄﺴﺗ ﻻﺃﻭ ،ﻊﻴﻄﺗ ﻒﻴﻛﻭ ،ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺶﻴﻌﺗ ﻒﻴﻛ ﺖﻤﻠﻌﺗ : . ﺔﻳﺮﻜﺴﻌﻟﺍ ﺔﻓﺎﺸﻜﻟﺍ ﺕﺍﺭﺎﻬﻣ ﻰﻠﻋ ﻪﺑّﺭﺩ ﺏﺎﺒﺷ ﺞﻣﺎﻧﺮﺒﺑ ﻖﺤﻟُﺃﻭ ،ﻢﻟﺎﻌﻟﺍ ﺔﻓﺎﺣ ﻰﻠﻋ ﺓﺮﻤﻌﺘﺴﻣ ﺓﺭﺍﺩﻹ [PAWN_nameDef] ﺪﻟُﻭ\n\n. ﺔﻠﺌﺳﺃ ﻝﺄﺴﻳ ﻻﺃﻭ ،ﻊﻴﻄﻳ ﻒﻴﻛﻭ ،ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺶﻴﻌﻳ ﻒﻴﻛ ﻢﻠﻌﺗ}</Scout44.description>
+  <!-- EN: scout -->
+  <Scout44.title>ﻑﺎﺸﻛ</Scout44.title>
+  <Scout44.titleFemale>ﺔﻓﺎﺸﻛ</Scout44.titleFemale>
+  <!-- EN: scout -->
+  <Scout44.titleShort>ﻑﺎﺸﻛ</Scout44.titleShort>
+  <Scout44.titleShortFemale>ﺔﻓﺎﺸﻛ</Scout44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
+  <ShelterChild50.description>{PAWN_gender ? . ﻲﻧﺪﺑ ﻞﻤﻋ ﻱﺄﺑ ﻡﺎﻴﻘﻟﺍ ﺔﺻﺮﻓ ﺎﻬﻟ ﺢﺘﺗ ﻢﻟ ﻦﻜﻟ ،ًﻼﻣﺎﺷ ﺍًﻤﻴﻠﻌﺗ ﺖﻘﻠﺗ. ﻡﺎﺳ ﻢﻟﺎﻋ ﺖﺤﺗ ﻖﻴﻤﻋ ﺄﺠﻠﻣ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﻲﻧﺪﺒﻟﺍ ﻞﻤﻌﻠﻟ ﺔﺻﺮﻓ ﻪﻳﺪﻟ ﻦﻜﺗ ﻢﻟ ﻦﻜﻟ ،ًﻼﻣﺎﺷ ﺍًﻤﻴﻠﻌﺗ ﻰﻘﻠﺗ. ﻡﺎﺳ ﻢﻟﺎﻋ ﺖﺤﺗ ﻖﻴﻤﻋ ﺄﺠﻠﻣ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</ShelterChild50.description>
+  <!-- EN: shelter child -->
+  <ShelterChild50.title>ﺄﺠﻠﻣ ﻞﻔﻃ</ShelterChild50.title>
+  <ShelterChild50.titleFemale>ﺄﺠﻠﻣ ﺔﻠﻔﻃ</ShelterChild50.titleFemale>
+  <!-- EN: shelterkid -->
+  <ShelterChild50.titleShort>ﺄﺠﻠﻣ ﻞﻔﻃ</ShelterChild50.titleShort>
+  <ShelterChild50.titleShortFemale>ﺄﺠﻠﻣ ﺔﻠﻔﻃ</ShelterChild50.titleShortFemale>
+  
+  <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
+  <TestSubject15.description>{PAWN_gender ? . ﺔﻴﻟﺎﺜﻣ ﺔﻗﺭﺎﺧ ﺔﻳﺪﻨﺟ ﻰﻟﺇ ﺎﻬﻠﻳﻮﺤﺘﻟ ﺔﻟﻭﺎﺤﻣ ﻲﻓ ﺔﻴﻛﻮﻠﺴﻟﺍ ﺏﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻠﺴﻠﺴﻟ ﺖﻌﻀﺧﻭ ،ﺓﺩﻻﻮﻟﺍ ﺬﻨﻣ ﺔﻘﻠﻐﻣ ﺓﺄﺸﻨﻣ ﻲﻓ ًﺓﺪﻴﺣﻭ [PAWN_nameDef] ﺖﻴﻘﺑُﺃ. ﺚﺤﺒﻟﺍ ﻢﺳﺎﺑ ﻒﺻﻭُﺗ ﻻ ﻊﺋﺎﻈﻓ ﺮﻴﻤﻀﻟﺍ ﻮﻤﻳﺪﻋ ﺀﺎﻤﻠﻌﻟﺍ ﺐﻜﺗﺮﻳ ،ﺍًﺩﺎﺴﻓ ﺔﻳﺮﻀﺤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﺮﺜﻛﺃ ﻲﻓ : . ﻲﻟﺎﺜﻣ ﻕﺭﺎﺧ ﻱﺪﻨﺟ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺘﻟ ﺔﻟﻭﺎﺤﻣ ﻲﻓ ﺔﻴﻛﻮﻠﺴﻟﺍ ﺏﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻠﺴﻠﺴﻟ ﻊﻀﺧﻭ ،ﺓﺩﻻﻮﻟﺍ ﺬﻨﻣ ﺔﻘﻠﻐﻣ ﺓﺄﺸﻨﻣ ﻲﻓ ﺍًﺪﻴﺣﻭ [PAWN_nameDef] ﻲﻘﺑُﺃ. ﺚﺤﺒﻟﺍ ﻢﺳﺎﺑ ﻒﺻﻭُﺗ ﻻ ﻊﺋﺎﻈﻓ ﺮﻴﻤﻀﻟﺍ ﻮﻤﻳﺪﻋ ﺀﺎﻤﻠﻌﻟﺍ ﺐﻜﺗﺮﻳ ،ﺍًﺩﺎﺴﻓ ﺔﻳﺮﻀﺤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﺮﺜﻛﺃ ﻲﻓ}</TestSubject15.description>
+  <!-- EN: test subject -->
+  <TestSubject15.title>{PAWN_gender ? ﺏﺭﺎﺠﺘﻠﻟ ﺔﻌﺿﺎﺧ : ﺏﺭﺎﺠﺘﻠﻟ ﻊﺿﺎﺧ}</TestSubject15.title>
+  <!-- EN: testee -->
+  <TestSubject15.titleShort>{PAWN_gender ? ﺓﺮﺒﺘﺨﻣ : ﺮﺒﺘﺨﻣ}</TestSubject15.titleShort>
+  
+  <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
+  <UrbworldUrchin61.description>{PAWN_gender ? . ﻡﺎﻌﻃ ﺕﺎﺘﻓ ﻞﻛ ﻞﺟﺃ ﻦﻣ ﺢﻓﺎﻜﺗ ﻥﺃ ﺎﻬﻴﻠﻋ ﻥﺎﻛ. ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻞﺜﻣ ﻦﻣ ﺓﺭﻮﺠﻬﻤﻟﺍﻭ ﺔﻤﻠﻈﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ. ﻢﺴﻟﺍﻭ ﺔﻴﻧﺎﺴﻧﻹﺎﺑ ﺞﻌﺗ ﺔﻘﻴﻤﻋﻭ ﺔﻤﻳﺪﻗ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻥﺪﻣ — ﺔﻳﺮﻀﺣ ﻢﻟﺍﻮﻋ : . ﻡﺎﻌﻃ ﺕﺎﺘﻓ ﻞﻛ ﻞﺟﺃ ﻦﻣ ﺢﻓﺎﻜﻳ ﻥﺃ ﻪﻴﻠﻋ ﻥﺎﻛ. ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻞﺜﻣ ﻦﻣ ﺓﺭﻮﺠﻬﻤﻟﺍﻭ ﺔﻤﻠﻈﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ. ﻢﺴﻟﺍﻭ ﺔﻴﻧﺎﺴﻧﻹﺎﺑ ﺞﻌﺗ ﺔﻘﻴﻤﻋﻭ ﺔﻤﻳﺪﻗ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﻥﺪﻣ — ﺔﻳﺮﻀﺣ ﻢﻟﺍﻮﻋ}</UrbworldUrchin61.description>
+  <!-- EN: urbworld urchin -->
+  <UrbworldUrchin61.title>ﻱﺮﻀﺤﻟﺍ ﻢﻟﺎﻌﻟﺍ ﻲﻘﺷ</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleFemale>ﻱﺮﻀﺤﻟﺍ ﻢﻟﺎﻌﻟﺍ ﺔﻴﻘﺷ</UrbworldUrchin61.titleFemale>
+  <!-- EN: urchin -->
+  <UrbworldUrchin61.titleShort>ﻲﻘﺷ</UrbworldUrchin61.titleShort>
+  <UrbworldUrchin61.titleShortFemale>ﺔﻴﻘﺷ</UrbworldUrchin61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
+  <WreckageExplorer93.description>{PAWN_gender ? . ﺐﻛﻮﻜﻟﺍ ﻝﻮﺣ ﺓﺮﺸﺘﻨﻤﻟﺍ ﺔﻤﻄﺤﻤﻟﺍ ﺔﻴﺑﺮﺤﻟﺍ ﻦﻔﺴﻟﺍ ﻒﺸﻜﺘﺴﺘﻟ ﺎﻬﺗﺎﺒﺟﺍﻭ ﻦﻣ ﺏﺮﻬﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ ﺎﻬﻨﻜﻟ ،ﺎﻬﺘﻠﺋﺎﻋ ﻥﺎﻌﻄﻗ ﺔﺒﻗﺍﺮﻤﺑ [PAWN_nameDef] ﺖﻓّﻟُﻛ : . ﺐﻛﻮﻜﻟﺍ ﻝﻮﺣ ﺓﺮﺸﺘﻨﻤﻟﺍ ﺔﻤﻄﺤﻤﻟﺍ ﺔﻴﺑﺮﺤﻟﺍ ﻦﻔﺴﻟﺍ ﻑﺎﺸﻜﺘﺳﻻ ﻪﺗﺎﺒﺟﺍﻭ ﻦﻣ ﺏﺮﻬﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ ﻪﻨﻜﻟ ،ﻪﺘﻠﺋﺎﻋ ﻥﺎﻌﻄﻗ ﺔﺒﻗﺍﺮﻤﺑ [PAWN_nameDef] ﻑّﻟُﻛ}</WreckageExplorer93.description>
+  <!-- EN: wreckage explorer -->
+  <WreckageExplorer93.title>ﻡﺎﻄﺣ ﻒﺸﻜﺘﺴﻣ</WreckageExplorer93.title>
+  <WreckageExplorer93.titleFemale>ﻡﺎﻄﺣ ﺔﻔﺸﻜﺘﺴﻣ</WreckageExplorer93.titleFemale>
+  <!-- EN: explorer -->
+  <WreckageExplorer93.titleShort>ﻒﺸﻜﺘﺴﻣ</WreckageExplorer93.titleShort>
+  <WreckageExplorer93.titleShortFemale>ﺔﻔﺸﻜﺘﺴﻣ</WreckageExplorer93.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship structural beam -->
+  <Ship_Beam.label>ﺔﻨﻴﻔﺴﻠﻟ ﺔﻴﻠﻜﻴﻫ ﺔﺿﺭﺎﻋ</Ship_Beam.label>
+  <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
+  <Ship_Beam.description>. ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧﻭ ﺔﻗﺎﻄﻟﺍﻭ ﺕﻻﺎﺼﺗﻼﻟ ﺔﻣﺯﻼﻟﺍ ﺐﻴﺑﺎﻧﻷﺍﻭ ﺕﺍﻮﻨﻘﻟﺍ ﻊﻴﻤﺟ ﻦﻤﻀﺘﻳﻭ ،ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻪﻟﻮﺣ ﺀﺎﻨﺒﻟﺍ ﻦﻜﻤﻳ ﻲﻠﻜﻴﻫ ﺩﻮﻤﻋ</Ship_Beam.description>
+  
+  <!-- EN: ship computer core -->
+  <Ship_ComputerCore.label>ﺔﻨﻴﻔﺴﻟﺍ ﺏﻮﺳﺎﺣ ﺓﺍﻮﻧ</Ship_ComputerCore.label>
+  <!-- EN: A computer core housing a machine persona who can guide a starship through any challenge during a multi-decade starflight. -->
+  <Ship_ComputerCore.description>. ﺩﻮﻘﻌﻟ ﺪﺘﻤﺗ ﺔﻴﻤﺠﻧ ﺔﻠﺣﺭ ﻝﻼﺧ ٍﺪﺤﺗ ﻱﺃ ﺮﺒﻋ ﺔﻴﻤﺠﻧ ﺔﻨﻴﻔﺳ ﻪﻴﺟﻮﺗ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻴﻟﺁ ﺔﻴﺼﺨﺷ ﻦﻀﺘﺤﺗ ﺔﻴﺑﻮﺳﺎﺣ ﺓﺍﻮﻧ</Ship_ComputerCore.description>
+  
+  <!-- EN: ship cryptosleep casket -->
+  <Ship_CryptosleepCasket.label>ﺔﻨﻴﻔﺴﻠﻟ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Ship_CryptosleepCasket.label>
+  <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
+  <Ship_CryptosleepCasket.description>. ﻱﻮﺠﻟﺍ ﻝﻮﺧﺪﻟﺍ ﻦﻣ ﺓﺎﺠﻨﻟﺍﻭ ﻥﻭﺮﻘﻟ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﻲﻓ ﺺﺨﺷ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ. ﺀﺎﻀﻔﻟﺍ ﺮﻃﺎﺨﻣ ﺪﺿ ﻥَّﺼﺣُﻣ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</Ship_CryptosleepCasket.description>
+  
+  <!-- EN: ship engine -->
+  <Ship_Engine.label>ﺔﻨﻴﻔﺴﻟﺍ ﻙﺮﺤﻣ</Ship_Engine.label>
+  <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
+  <Ship_Engine.description>. ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺔﻌﺳﺎﺸﻟﺍ ﺕﺎﺣﺎﺴﻤﻟﺍ ﺮﺒﻋ ﻒﺣﺰﻟﺍﻭ ،ﺭﺍﺪﻤﻟﺍ ﻰﻟﺇ ﺔﻨﻴﻔﺳ ﻕﻼﻃﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺩﺍﺪﺗﺭﻻﺍ ﻢﻳﺪﻋ ﺎﻛﺎﻧﺎﺗ- ﻥﻮﺴﻧﻮﺟ ﻙﺮﺤﻣ</Ship_Engine.description>
+  
+  <!-- EN: ship reactor -->
+  <Ship_Reactor.label>ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ</Ship_Reactor.label>
+  <!-- EN: Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders. -->
+  <Ship_Reactor.description>. ﺓﺍﺰﻐﻟﺍ ﺏﺬﺠﺗ ﻥﺃ ﺢﺟﺮﻤﻟﺍ ﻦﻣ ﻞﻋﺎﻔﻤﻟﺍ ﻞﻴﻐﺸﺘﻟ ﺔﻠﻳﻮﻃ ﺔﻴﻠﻤﻋ ﻉﻼﻗﻹﺍ ﺐﻠﻄﺘﻳ. ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺎﻬﺘﻠﺣﺭ ﻲﻓ ﺔﻗﺎﻄﻟﺎﺑ ﺔﻨﻴﻔﺴﻟﺍ ﺩّﻭﺰﻳ</Ship_Reactor.description>
+  
+  <!-- EN: sensor cluster -->
+  <Ship_SensorCluster.label>ﺕﺍﺮﻌﺸﺘﺴﻣ ﺔﻋﻮﻤﺠﻣ</Ship_SensorCluster.label>
+  <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
+  <Ship_SensorCluster.description>. ﻯﺮﺧﺃ ﺽﺍﺮﻏﺃﻭ ،ﺶﻳﻮﺸﺘﻟﺍﻭ ،ﻉﺍﺪﺨﻟﺍﻭ ،ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻑﺎﺸﺘﻛﺍﻭ ،ﺕﻻﺎﺼﺗﻼﻟ ﻍﺍﺮﻔﻟﺍ ﺮﺒﻋ ﺕﺍﺭﺎﺷﻹﺍ ﻝﺎﺳﺭﺇﻭ ﺢﺴﻤﻟﺍ ﺎﻬﻨﻜﻤﻳ. ﻒﺋﺎﻇﻮﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</Ship_SensorCluster.description>
+  
+</LanguageData>

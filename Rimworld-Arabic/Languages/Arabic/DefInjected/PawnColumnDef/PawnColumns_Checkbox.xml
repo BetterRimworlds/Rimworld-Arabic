@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>. ﺪﻴﻨﺠﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺪﺋﺎﻘﻟﺍ ﻊﺒﺗﺍ</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>).ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻭﺃ ﺪﻴﺼﻟﺍ (ﻲﻧﺍﺪﻴﻤﻟﺍ ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﺪﺋﺎﻘﻟﺍ ﻊﺒﺗﺍ</FollowFieldwork.headerTip>
+  
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <Hunt.headerTip>. ﻙﻭﺩﺎﻴﺻ ﺎﻫﺩﺎﻄﺼﻴﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺔﻣﻼﻋ ﻊﺿ\n\n. ﻂﻘﻓ ﺔﺒﺳﺎﻨﻣ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﺃ ﻥﻮﻜﻠﺘﻤﻳ ﻦﻳﺬﻟﺍ ﻥﻭﺩﺎﻴﺼﻟﺍ ﺩﺎﻄﺼﻴﺳ</Hunt.headerTip>
+  
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﻕﻼﻃﺇ</ReleaseAnimalToWild.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>ﺢﺑﺫ</Slaughter.headerTip>
+  
+  <!-- EN: Sterilize -->
+  <Sterile.headerTip>ﻢﻴﻘﻌﺗ</Sterile.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>. ﺍًﻳﺮﺑ ﺍًﻧﺍﻮﻴﺣ ﺽّﻭﺭ</Tame.headerTip>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat --><!-- EN: ratabum -->
+  <Boomrat.label>ﻡﻮﺑﺎﺗﺍﺭ</Boomrat.label><!-- EN: ratas-bum -->
+  <Boomrat.labelPlural>ﻡﻮﺑ- ﺎﺗﺍَﺭ</Boomrat.labelPlural><!-- EN: cría de ratabum -->
+  <Boomrat.lifeStages.0.label>ﻡﻮﺑﺎﺗﺍﺭ ﺭﺎﻐﺻ</Boomrat.lifeStages.0.label><!-- EN: crías de ratabum -->
+  <Boomrat.lifeStages.0.labelPlural>ﻡﻮﺑﺎﺗﺍﺭ ﺭﺎﻐﺻ</Boomrat.lifeStages.0.labelPlural><!-- EN: ratabum joven -->
+  <Boomrat.lifeStages.1.label>ﻊﻓﺎﻳ ﻡﻮﺑﺎﺗﺍﺭ</Boomrat.lifeStages.1.label><!-- EN: ratas-bum jóvenes -->
+  <Boomrat.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻴﻟﺍ ﻡﻮﺑ- ﺕﺎﻗﺍﺮﻳ</Boomrat.lifeStages.1.labelPlural><!-- EN: ratabum -->
+  <Boomrat.lifeStages.2.label>ﻡﻮﺑﺎﺗﺍﺭ</Boomrat.lifeStages.2.label><!-- EN: ratas-bum -->
+  <Boomrat.lifeStages.2.labelPlural>ﻡﻮﺑ- ﺎﺗﺍَﺭ</Boomrat.lifeStages.2.labelPlural>
+  
+  <!-- EN: iguana --><!-- EN: iguana -->
+  <Iguana.label>ﺎﻧﺍﻮﻏﺇ</Iguana.label><!-- EN: iguanas -->
+  <Iguana.labelPlural>ﺎﻧﺍﻮﻏﺇ</Iguana.labelPlural><!-- EN: cría de iguana -->
+  <Iguana.lifeStages.0.label>ﺎﻧﺍﻮﻏﻹﺍ ﺭﺎﻐﺻ</Iguana.lifeStages.0.label><!-- EN: crías de iguana -->
+  <Iguana.lifeStages.0.labelPlural>ﺎﻧﺍﻮﻏﻹﺍ ﺭﺎﻐﺻ</Iguana.lifeStages.0.labelPlural><!-- EN: iguana joven -->
+  <Iguana.lifeStages.1.label>ﺮﻴﻐﺻ ﺎﻧﺍﻮﻏﺇ</Iguana.lifeStages.1.label><!-- EN: iguanas jóvenes -->
+  <Iguana.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﺎﻧﺍﻮﻏﺇ</Iguana.lifeStages.1.labelPlural><!-- EN: iguana -->
+  <Iguana.lifeStages.2.label>ﺎﻧﺍﻮﻏﺇ</Iguana.lifeStages.2.label><!-- EN: iguanas -->
+  <Iguana.lifeStages.2.labelPlural>ﺎﻧﺍﻮﻏﺇ</Iguana.lifeStages.2.labelPlural>
+  
+  <!-- EN: raccoon --><!-- EN: mapache -->
+  <Raccoon.label>ﻥﻮﻛﺍﺭ</Raccoon.label><!-- EN: mapaches -->
+  <Raccoon.labelPlural>ﺕﺎﻧﻮﻛﺍﺭ</Raccoon.labelPlural><!-- EN: cría de mapache -->
+  <Raccoon.lifeStages.0.label>ﻥﻮﻛﺍﺮﻟﺍ ﺭﺎﻐﺻ</Raccoon.lifeStages.0.label><!-- EN: crías de mapache -->
+  <Raccoon.lifeStages.0.labelPlural>ﻥﻮﻛﺍﺮﻟﺍ ﺭﺎﻐﺻ</Raccoon.lifeStages.0.labelPlural><!-- EN: mapache joven -->
+  <Raccoon.lifeStages.1.label>ﺮﻴﻐﺻ ﻥﻮﻛﺍﺭ</Raccoon.lifeStages.1.label><!-- EN: mapaches jóvenes -->
+  <Raccoon.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﺎﻧﻮﻛﺍﺭ</Raccoon.lifeStages.1.labelPlural><!-- EN: mapache -->
+  <Raccoon.lifeStages.2.label>ﻥﻮﻛﺍﺭ</Raccoon.lifeStages.2.label><!-- EN: mapaches -->
+  <Raccoon.lifeStages.2.labelPlural>ﺕﺎﻧﻮﻛﺍﺭ</Raccoon.lifeStages.2.labelPlural>
+  
+  <!-- EN: rat --><!-- EN: rata -->
+  <Rat.label>ﺫﺮﺟ</Rat.label><!-- EN: ratas -->
+  <Rat.labelPlural>ﻥﺍﺫﺮﺟ</Rat.labelPlural><!-- EN: cría de rata -->
+  <Rat.lifeStages.0.label>ﻥﺍﺫﺮﺠﻟﺍ ﺭﺎﻐﺻ</Rat.lifeStages.0.label><!-- EN: crías de rata -->
+  <Rat.lifeStages.0.labelPlural>ﻥﺍﺫﺮﺠﻟﺍ ﺭﺎﻐﺻ</Rat.lifeStages.0.labelPlural><!-- EN: rata joven -->
+  <Rat.lifeStages.1.label>ﺮﻴﻐﺻ ﺫﺮﺟ</Rat.lifeStages.1.label><!-- EN: ratas jóvenes -->
+  <Rat.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﺎﻗﺍﺮﻳ</Rat.lifeStages.1.labelPlural><!-- EN: rata -->
+  <Rat.lifeStages.2.label>ﺫﺮﺟ</Rat.lifeStages.2.label><!-- EN: ratas -->
+  <Rat.lifeStages.2.labelPlural>ﻥﺍﺫﺮﺟ</Rat.lifeStages.2.labelPlural>
+  
+  <!-- EN: squirrel --><!-- EN: ardilla -->
+  <Squirrel.label>ﺏﺎﺠﻨﺳ</Squirrel.label><!-- EN: ardillas -->
+  <Squirrel.labelPlural>ﺐﺟﺎﻨﺳ</Squirrel.labelPlural><!-- EN: cría de ardilla -->
+  <Squirrel.lifeStages.0.label>ﺏﺎﺠﻨﺴﻟﺍ ﺭﺎﻐﺻ</Squirrel.lifeStages.0.label><!-- EN: cría de ardilla -->
+  <Squirrel.lifeStages.0.labelPlural>ﺏﺎﺠﻨﺴﻟﺍ ﺭﺎﻐﺻ</Squirrel.lifeStages.0.labelPlural><!-- EN: ardilla joven -->
+  <Squirrel.lifeStages.1.label>ﺮﻴﻐﺻ ﺏﺎﺠﻨﺳ</Squirrel.lifeStages.1.label><!-- EN: ardillas jóvenes -->
+  <Squirrel.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺐﺟﺎﻨﺳ</Squirrel.lifeStages.1.labelPlural><!-- EN: ardilla -->
+  <Squirrel.lifeStages.2.label>ﺏﺎﺠﻨﺳ</Squirrel.lifeStages.2.label><!-- EN: ardillas -->
+  <Squirrel.lifeStages.2.labelPlural>ﺐﺟﺎﻨﺳ</Squirrel.lifeStages.2.labelPlural>
+  
+</LanguageData>

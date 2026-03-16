@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure scaria -->
+  <CureScaria.label>ﺎﻳﺭﺎﻜﺴﻟﺍ ﺝﻼﻋ</CureScaria.label>
+  <!-- EN: This special medical operation cures scaria. -->
+  <CureScaria.description>. ﺎﻳﺭﺎﻜﺴﻟﺍ ﺽﺮﻣ ﺔﺻﺎﺨﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﺞﻟﺎﻋُﺗ</CureScaria.description>
+  <!-- EN: Curing scaria. -->
+  <CureScaria.jobString>. ﺎﻳﺭﺎﻜﺴﻟﺍ ﺝﻼﻋ</CureScaria.jobString>
+  <!-- EN: {0} has successfully cured {1}'s scaria. -->
+  <CureScaria.successfullyRemovedHediffMessage>.{1} ﺎﻳﺭﺎﻜﺳ ﺝﻼﻋ ﻲﻓ {0} ﺢﺠﻧ</CureScaria.successfullyRemovedHediffMessage>
+  
+  <!-- EN: sterilize -->
+  <Sterilize.label>ﻢﻴﻘﻌﺗ</Sterilize.label>
+  <!-- EN: Sterilize a creature so it can no longer reproduce. -->
+  <Sterilize.description>. ﻥﻵﺍ ﺪﻌﺑ ﺮﺛﺎﻜﺘﻟﺍ ﻦﻣ ﻦﻜﻤﺘﻳ ﻻ ﺚﻴﺤﺑ ﺎﻣ ًﺎﻨﺋﺎﻛ ﻢﻘﻋ</Sterilize.description>
+  <!-- EN: sterilizing TargetA. -->
+  <Sterilize.jobString>TargetA. ﻢﻴﻘﻌﺗ</Sterilize.jobString>
+  <!-- EN: {0} has successfully sterilized {1}. -->
+  <Sterilize.successfullyRemovedHediffMessage>.{0} ﺔﻄﺳﺍﻮﺑ ﺡﺎﺠﻨﺑ {1} ﻢﻴﻘﻌﺗ ﻢﺗ</Sterilize.successfullyRemovedHediffMessage>
+  
+</LanguageData>

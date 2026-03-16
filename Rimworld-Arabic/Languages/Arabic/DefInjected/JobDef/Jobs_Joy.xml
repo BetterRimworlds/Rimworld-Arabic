@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>. ﺞﻠﺜﻟﺍ ﻞﺟﺭ ﺀﺎﻨﺑ</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>. ﺔﻫﺰﻧ ﻲﻓ</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>. ﻞﻣﺄﺘﻳ</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>. ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺐﻌﻠﻳ</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>. ﺞﻧﺮﻄﺸﻟﺍ ﺐﻌﻠﻳ</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>. ﺭﻭﺃ ﺔﺒﻌﻟ ﺐﻌﻠﻳ</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>. ﻕﻮﻄﻟﺍ ﺮﺠﺣ ﺐﻌﻠﻳ</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>. ﻥﺎﺼﺤﻟﺍ ﺓﻭﺪﺣ ﻲﻣﺮﻳ</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing TargetA. -->
+  <Play_MusicalInstrument.reportString>TargetA. ﻰﻠﻋ ﻑﺰﻌﻳ</Play_MusicalInstrument.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>. ﺮﻛﻮﺒﻟﺍ ﺐﻌﻠﻳ</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>. ﻲﻠﺼﻳ</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>. ﺀﺎﻤﺴﻟﺍ ﺐﻗﺮﺗ</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>. ﺍًﻴﻋﺎﻤﺘﺟﺍ ﻲﺧﺮﺘﺴﻳ</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>. ﺏﻮﻜﺴﻠﺘﻟﺍ ﻡﺪﺨﺘﺴﻳ</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>. ﻦﻔﻟﺍ ﺪﻫﺎﺸﻳ</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>. ﺮﺒﻘﻟﺍ ﺭﻭﺰﻳ</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>TargetA. ﺾﻳﺮﻤﻟﺍ ﺞﻬﺑُﻳ</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>. ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺪﻫﺎﺸﻳ</WatchTelevision.reportString>
+  
+</LanguageData>

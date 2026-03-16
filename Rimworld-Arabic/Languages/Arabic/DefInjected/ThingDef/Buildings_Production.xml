@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>ﻱﻮﻴﺣ ﺩﻮﻗﻭ ﺓﺎﻔﺼﻣ</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>. ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻰﻟﺇ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺩﺍﻮﻤﻟﺍﻭ ﺐﺸﺨﻟﺎﻛ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺭِّﺮﻛُﻳ</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>ﺭْﻋِﺟ ﺓَﻋَﻧْﺻَﻣ</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺓﺮﻴﺑ ﺢﺒﺼﻴﻟ ﻲﻟﻭﻷﺍ ﺏﺍﺮﺸﻟﺍ ﺮﻴﻤﺨﺗ ﺐﺠﻳﻭ ،ﺓﺮﻴﺒﻠﻟ ﻲﻟﻭﻷﺍ ﺏﺍﺮﺸﻟﺍ ﻂﻠﺨﻟ ﺔﻣﺯﻼﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻞﻤﻋ ﺔﻄﺤﻣ</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>ﺭﺍّﺰﺟ ﻊﻗﻮﻣ</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>. ﻦﺋﺎﻛ ﻞﻛ ﺩﻮﻠﺟﻭ ﻡﻮﺤﻟ ﻦﻣ ﻂﻘﻓ 70% ﺎﻨﻫ ﺢﺑﺬﻟﺍ ﺞﺘﻨﻳ ،ﺕﺍﺪﻌﻤﻟﺍ ﺺﻘﻧ ﺐﺒﺴﺑ. ﺎﻬﻌﻴﻄﻘﺗﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺬﻟ ﻥﺎﻜﻣ</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>ﻊﻨﺼﻟﺍ ﻥﺎﻜﻣ</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>. ﺕﺍﻭﺩﻷﺍ ﺺﻘﻧ ﺐﺒﺴﺑ ﺀﻴﻄﺑ ﺎﻨﻫ ﺝﺎﺘﻧﻹﺍ. ﺱﺍﻮﻗﻷﺍ ﻭﺃ ﻦﻴﻛﺎﻜﺴﻟﺍ ﻞﺜﻣ ﺔﻄﻴﺴﺑ ﺮﺻﺎﻨﻋ ﻊﻨﺼﻟ ﻥﺎﻜﻣ</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>ﺔﻘﻴﻤﻋ ﺓﺭﺎﻔﺣ</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>. ﺔﻳﺮﺤﺑ ﻪﻌﺿﻭ ﺓﺩﺎﻋﺇ ﻦﻜﻤﻳ. ﺓﺩﻮﺟﻮﻣ ﺩﺭﺍﻮﻣ ﻙﺎﻨﻫ ﻦﻜﺗ ﻢﻟ ﺍﺫﺇ ﺮﺠﺤﻟﺍ ﻦﻣ ﺍًﻌﻄﻗ ﺐﻘﺜﻤﻟﺍ ﺍﺬﻫ ﺞﺘﻨﻴﺳ. ﺩﺭﺍﻮﻤﻟﺍ ﻑﺎﺸﺘﻛﻻ ﺍًﻴﺿﺭﺃ ﺍًﺤﺳﺎﻣ ﻡﺪﺨﺘﺳﺍ. ﺢﻄﺴﻟﺍ ﺖﺤﺗ ﻕﺎﻤﻋﺃ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﻖﻴﻤﻋ ﺮﻔﺣ ﺯﺎﻬﺟ</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>ﺔﻳﻭﺩﺃ ﺮﺒﺘﺨﻣ</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>. ﺮﻴﻗﺎﻘﻌﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ ﺝﺎﺘﻧﻹ ﺱﺎﻴﻗ ﺓﺰﻬﺟﺃﻭ ﺕﺎﻧّﺨﺴﻣﻭ ﺕﺎﻳﻭﺎﺤﺑ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>ﻲﺋﺎﺑﺮﻬﻛ ﻕﺮﺤﻣ</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>. ًﺍﺪﺟ ﺔﻴﻟﺎﻋ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺪﺑ ﺚﺜﺠﻟﺍ ﺭّﺨﺒﺗ ﺔﻤﺨﺿ ﺔﻳﺮﺠﺣ ﺔﻗﺮﺤﻣ</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>ﻲﺋﺎﺑﺮﻬﻛ ﺭِّﻫَﺻُﻣ</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>. ﺔﻗﺎﻄﻟﺍ ﻦﻣ ًﺍﺮﻴﺒﻛ ًﺍﺭﺪﻗ ﻚﻠﻬﺘﺴﻳ. ﻯﺮﺧﻷﺍ ﺔﻄﻠﺘﺨﻤﻟﺍ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍﻭ ﺚﺒﺨﻟﺍ ﻞﺘﻛ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ ﻞﺑﺎﻘﻟﺍ ﻥﺪﻌﻤﻟﺍ ﺝﺮﺨﺘﺴﻳ</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>ﺔﻴﺋﺎﺑﺮﻬﻛ ﺓﺩﺍﺪﺣ</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>. ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﺔﻋﺎﻨﺼﻟ ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻄﺤﻣ</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>ﻲﺋﺎﺑﺮﻬﻛ ﺪﻗﻮﻣ</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>. ﺕﺎﺒﺟﻮﻟﺍ ﺩﺍﺪﻋﻹ ﻖﺤﻠﻣ ﻞﻤﻋ ﺢﻄﺳ ﻊﻣ ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﻞﻤﻌﻳ ﺪﻗﻮﻣ</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻃﺎﻴﺧ ﺓﺪﻀﻨﻣ</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>. ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻒﺼﻨﺑ ﺀﺎﺑﺮﻬﻛ ﻥﻭﺪﺑ ﻞﻤﻌﻟﺍ ﺎﻬﻨﻜﻤﻳﻭ ،ﺲﺑﻼﻤﻠﻟ ﺔﻌﻳﺮﺴﻟﺍ ﺔﻃﺎﻴﺨﻠﻟ ﺔﻃﺎﻴﺧ ﺔﻟﺂﺑ ﺓﺩﻭﺰﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>ﻊﻴﻨﺼﺗ ﺔﺼﻨﻣ</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>. ﺔﻄﻴﺴﺑ ﺩﺍﻮﻣ ﻦﻣ ﺔﻴﻨﻘﺗ ﺕﺎﻋﺍﺪﺑﺇ ﺝﺎﺘﻧﻹ ﺓﺭﻮﻄﺘﻣ ﺕﺍﻭﺩﺄﺑ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>ﺮﻴﻤﺨﺗ ﻞﻴﻣﺮﺑ</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>. ﺓﺮﻴﺑ ﻰﻟﺇ ﻲﻟﻭﻷﺍ ﺏﺍﺮﺸﻟﺍ ﺮﻴﻤﺨﺘﻟ ﻞﻴﻣﺮﺑ</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>ﺓﺪﻗﻮﻣ ﺓﺩﺍﺪﺣ</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>. ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﺔﻋﺎﻨﺼﻟ ﺐﻄﺤﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻄﺤﻣ</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>ﺩﻮﻗﻮﻟﺎﺑ ﺩَّﻭﺯُﻣ ﺪﻗﻮﻣ</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>. ﺕﺎﺒﺟﻮﻟﺍ ﺩﺍﺪﻋﻹ ﻖﺤﻠﻣ ﻞﻤﻋ ﺢﻄﺳ ﻊﻣ ﺐﻄﺤﻟﺎﺑ ﻞﻤﻌﻳ ﺪﻗﻮﻣ</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>ﺔﻳﻭﺪﻳ ﺔﻃﺎﻴﺧ ﺓﺪﻀﻨﻣ</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>. ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻃﺎﻴﺨﻟﺍ ﺓﺪﻀﻨﻣ ﺔﻋﺮﺳ ﻦﻣ ٪ 50 ﺔﺒﺴﻨﺑ ﻞﻤﻌﺗ. ﺪﻴﻟﺎﺑ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺨﻟ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>ﺓﺭﻮﻄﺘﻣ ﺚﺤﺑ ﺔﺼﻨﻣ</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>. ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﻴﺜﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻤﻟﺍ ﺢﺘﻔﺗﻭ ﻉﺮﺳﺃ ﺙﺎﺤﺑﺃ ﺀﺍﺮﺟﺇ ﺢﻴﺘﺗ. ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺱﺎﻴﻗ ﺕﺍﺪﻌﻣﻭ ﺏﻮﺳﺎﺣ ﺓﺰﻬﺟﺄﺑ ﺓﺩﻭﺰﻣ ﺓﺭﻮﻄﺘﻣ ﺓﺪﻀﻨﻣ</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>ﻢﻴﻘﻠﺗ ﻊﻤﻗ</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>. ﺔﻳﺬﻐﻤﻟﺍ ﺔﻨﻴﺠﻌﻟﺍ ﺕﺎﻋﺯﻮﻤﻛ ﺕﻻﻵﺍ ﺔﻄﺳﺍﻮﺑ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﺩﺭﺍﻮﻤﻟﺍ ﻥﺰﺨﻳ</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>ﺔﻴﺋﺎﻣ ﺔﻋﺍﺭﺯ ﺽﻮﺣ</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>. ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﺭﺎﻴﺘﻟﺍ ﻊﻄﻘﻧﺍ ﺍﺫﺇ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺕﻮﻤﺘﺳ ؛ﺭﺍﺮﻤﺘﺳﺎﺑ ﺕﺎﻳﺬﻐﻤﻟﺍ ﺕﺎﺨﻀﻣ ﻞﻤﻌﺗ ﻥﺃ ﺐﺠﻳ. ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ﻲﻋﺎﻨﻄﺻﺍ ﺔﻳﺬﻐﺗ ﺽﻮﺣ</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻉﺯﻮﻣ</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>. ﺶﻘﻟﺎﻛ ﺔﻨﺸﺨﻟﺍ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻞﺒﻘﺗ ﻻ ﺎﻬﻨﻜﻟ ،ﺀﻴﻨﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻞﺒﻘﺗ. ﺔﻳﺬﻐﻤﻟﺍ ﺔﻨﻴﺠﻌﻟﺍ ﻝﻭﺎﻨﺗ ﺐﺤﻳ ﻻ ًﺍﺪﺣﺃ ﻥﺃ ﺮﻴﻏ ،ﺕﺎﺒﺟﻮﻟﺍ ﺝﺎﺘﻧﻹ ﻯﺮﺧﺃ ﺔﻘﻳﺮﻃ ﻱﺃ ﻦﻣ ﻞﻗﺃ ًﺎﺘﻗﻭﻭ ﺕﺎﻧﻮﻜﻣ ﻚﻠﻬﺘﺴﺗ. ﺓﺭﻭﺎﺠﻣ ﻦﻴﺑﺍﻮﻗ ﻲﻓ ﻊﺿﻮﺗ ﺔﻳﻮﻀﻋ ﻡﺎﺧ ﺩﺍﻮﻣ ﻦﻣ ﻞﻛﻸﻟ ﺔﺤﻟﺎﺻ ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻉِّﻨﺻُﺗ ﺔﻟﺁ</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>ﺔﻄﻴﺴﺑ ﺚﺤﺑ ﺔﺼﻨﻣ</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>. ﺓﺪﻳﺪﺟ ﺀﺎﻴﺷﺃ ﻑﺎﺸﺘﻛﻻ ﺎﻬﻴﻠﻋ ﻥﻮﺜﺣﺎﺒﻟﺍ ﻞﻤﻌﻳ ،ﺔﻄﻴﺴﺑ ﺱﺎﻴﻗ ﺓﺰﻬﺟﺃﻭ ﺔﻴﺑﺎﺘﻛ ﺕﺍﻭﺩﺄﺑ ﺓﺩﻭﺰﻣ ﺔﻄﻴﺴﺑ ﺓﺪﻀﻨﻣ</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>ﺭﺍّﺰﺟ ﺓﺪﻀﻨﻣ</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Rotting or dessicated corpses cannot be butchered. -->
+  <TableButcher.description>. ﺔﻔﻔﺠﻤﻟﺍ ﻭﺃ ﺔﻨﻔﻌﺘﻤﻟﺍ ﺚﺜﺠﻟﺍ ﻊﻴﻄﻘﺗ ﻦﻜﻤﻳ ﻻ. ﺔﺌﻴﻧ ﻢﺤﻟ ﻊﻄﻗ ﻰﻟﺇ ﺔﻘﻓﺎﻨﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻴﻄﻘﺘﻟ ﺔﻠﻴﻘﺛ ﺔﻟﻭﺎﻃ</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>ﻞﻴﻜﺸﺗ ﺓﺪﻀﻨﻣ</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>. ﺔﻘﻓﺎﻨﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻚﻴﻜﻔﺗ ﻭﺃ ،ﺮﺋﺎﺧﺬﻟﺍﻭ ﺔﺤﻠﺳﻷﺎﻛ ﺕﻻﻵﺍ ﻊﻴﻤﺠﺘﻟ ﻞﻤﻋ ﺔﻄﺤﻣ</TableMachining.description>
+  
+  <!-- EN: art bench -->
+  <TableSculpting.label>ﻲﻨﻓ ﺪﻌﻘﻣ</TableSculpting.label>
+  <!-- EN: A workbench equipped for creating art. -->
+  <TableSculpting.description>. ﺔﻴﻨﻔﻟﺍ ﻝﺎﻤﻋﻷﺍ ﺀﺎﺸﻧﻹ ﺓﺰﻬﺠﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>ﺮﺠﺤﻟﺍ ﺖﺤﻧ ﺓﺪﻀﻨﻣ</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>. ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻛﻮﻠﺑ ﻰﻟﺇ ﺮﺠﺤﻟﺍ ﻞﺘﻛ ﻊﻄﻘﻟ ﻞﻴﻣﺍﺯﺃﻭ ﺮﻴﺷﺎﻨﻤﺑ ﺓﺩﻭﺰﻣ ﻞﻤﻋ ﺓﺪﻀﻨﻣ</TableStonecutter.description>
+  
+</LanguageData>

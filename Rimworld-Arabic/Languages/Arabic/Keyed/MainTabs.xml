@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>ﺔﻳﻭﺪﻳ ﺕﺎﻳﻮﻟﻭﺃ</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>ﻰﻠﻋﺃ ﺔﻳﻮﻟﻭﺃ</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>ﻞﻗﺃ ﺔﻳﻮﻟﻭﺃ</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
+  <RelevantSkills>{0}: ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺕﺍﺭﺎﻬﻤﻟﺍ\n{1}: ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻂﺳﻮﺘﻣ</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>: ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>. ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻬﺑ ﻡﺎﻴﻘﻟﺍ ﻪﻨﻜﻤﻳ ﻻ {1_labelShort}</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>ﺔﺟﺮﺣ ﺪﻋﺍﻮﻗ</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>. ﺔﻴﺤﺼﻟﺍ ﻪﺘﻟﺎﺣ ﺐﺒﺴﺑ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻦﻣ ﻞﻤﻋ ﻱﺄﺑ ﻡﺎﻴﻘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺍﺬﻫ</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>. ﺍًﺪﺟ ﺾﻔﺨﻨﻣ ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻂﺳﻮﺘﻣ: ﺮﻳﺬﺤﺗ</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>. ًﺍﺮﻴﺧﺃ ﺰﺠﻧُﺗ 4 ﺔﻳﻮﻟﻭﻷﺍ. ًﻻﻭﺃ ﺰﺠﻧُﺗ 1 ﺔﻳﻮﻟﻭﻷﺍ</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>ﻞﻌﻔﺗ ﻦﻟ</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>ﻯﻮﺼﻗ ﺔﻳﻮﻟﻭﺃ</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>ﺔﻴﻟﺎﻋ ﺔﻳﻮﻟﻭﺃ</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>ﺔﻳﺩﺎﻋ ﺔﻳﻮﻟﻭﺃ</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>ﺔﻀﻔﺨﻨﻣ ﺔﻳﻮﻟﻭﺃ</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\n. ﺍًﻴﻟﺎﺣ {1_nameDef} ﻪﻴﻟﺇ ﻲﻤﺘﻨﻳ ﻱﺬﻟﺍ ﻞﻴﺼﻔﻟﺍ\n\n. ﻞﻴﺼﻔﻟﺍ ﺽﺮﻌﻟ ﺮﻘﻧﺍ</PawnFactionInfo>
+  <!-- EN: Disabled by {0} backstory -->
+  <WorkDisabledByBackstory>{0} ﺔﻴﻔﻠﺧ ﺔﺼﻗ ﺐﺒﺴﺑ ﻞﻄﻌﻣ</WorkDisabledByBackstory>
+  <!-- EN: Disabled by {0} trait -->
+  <WorkDisabledByTrait>{0} ﺔﻤﺳ ﺐﺒﺴﺑ ﻞﻄﻌﻣ</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest '{0}' -->
+  <WorkDisabledByQuest>'{0} 'ﺔﻤﻬﻤﻟﺍ ﺐﺒﺴﺑ ﻞﻄﻌﻣ</WorkDisabledByQuest>
+  
+  <!-- Assign tab -->
+  <!-- EN: Unchangeable -->
+  <Unchangeable>ﺮﻴﻴﻐﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</Unchangeable>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>ﺭَﺒﺟُﻤﻟﺍ ﺢﺴﻣ</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>ﺭَﺒﺟُﻣ</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>ﻞﻔﻘﻣ</ApparelLockedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>ﺓﺭَﺒﺟُﻣ ﺲﺑﻼﻣ</ForcedApparel>
+  <!-- EN: Edit -->
+  <AssignTabEdit>ﺮﻳﺮﺤﺗ</AssignTabEdit>
+  <!-- EN: Manage apparel policies -->
+  <ManageApparelPolicies>ﺲﺑﻼﻤﻟﺍ ﺕﺎﺳﺎﻴﺳ ﺓﺭﺍﺩﺇ</ManageApparelPolicies>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>ﺕﺍﺭﺪﺨﻤﻟﺍ ﺕﺎﺳﺎﻴﺳ ﺓﺭﺍﺩﺇ</ManageDrugPolicies>
+  <!-- EN: Manage food policies -->
+  <ManageFoodPolicies>ﺀﺍﺬﻐﻟﺍ ﺕﺎﺳﺎﻴﺳ ﺓﺭﺍﺩﺇ</ManageFoodPolicies>
+  <!-- EN: Manage reading policies -->
+  <ManageReadingPolicies>ﺓﺀﺍﺮﻘﻟﺍ ﺕﺎﺳﺎﻴﺳ ﺓﺭﺍﺩﺇ</ManageReadingPolicies>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
+  <Copy>ﺦﺴﻧ</Copy>
+  <!-- EN: Paste -->
+  <Paste>ٍّﺬﻐﻣ ﻥﻮﺠﻌﻣ</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﺔﻘﻄﻨﻣ</AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
+  <Master>ﺮﻴﺒﺧ</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>){1}/{0} (ﻞﻣﺎﺣ</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>ـﺏ ﻂﺒﺗﺮﻣ</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>. ﻥﺍﻮﻴﺣ ﻢﻴﻘﻌﺗ</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>. ﻢﻴﻘﻋ ﻥﺍﻮﻴﺤﻟﺍ</AnimalAlreadySterile>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>. ﺮﺸﺒﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ﺎﻤﺑﺭ – ﺮﻐﺻﺃ ﺕﺎﻗﻮﻠﺨﻣ ﺩﺎﻄﺼﻴﺳ ،ﻉﻮﺠﻳ ﺎﻣﺪﻨﻋ. ﺱﺮﺘﻔﻣ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>{0}: ﺍًﻴﻟﺎﺣ ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>ﻲﺋﺍﺪﻋ</Hostile>
+  <!-- EN: Ally -->
+  <Ally>ﻒﻴﻠﺣ</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>ﻲﺋﺍﺪﻋ</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>ﻒﻴﻠﺣ</AllyLower>
+  <!-- EN: defeated -->
+  <DefeatedLower>ﻡَﺰﻫُﻣ</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>{0} ﻭﺪﻋ</HostileTo>
+  <!-- EN: Enemy of: -->
+  <EnemyOf>: ـﻝ ﻭﺪﻋ</EnemyOf>
+  <!-- EN: Recent events -->
+  <RecentEvents>ﺔﺜﻳﺪﺣ ﺙﺍﺪﺣﺃ</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>ﺔﻳﺭﺎﺟ ﺙﺍﺪﺣﺃ</OngoingEvents>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>. ﺐﺒﺳ ﻱﻷ ﻢﻬﻌﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻦﺴﺤﺘﺗ ﻦﻟ. ﻚﻠﻓﺍﻮﻗﻭ ﻚﺗﺎﻨﻃﻮﺘﺴﻣ ﻭﺰﻐﺘﺳ. ﻢﺋﺍﺩ ﻞﻜﺸﺑ ﺔﻳﺩﺎﻌﻣ ﻞﻴﺼﻔﻟﺍ ﻩﺬﻫ</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>. ﺓﺪﻳﺎﺤﻣ ﺢﺒﺼﺘﺴﻓ ،{0} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ. ﻦﻜﻣﺃ ﻰﺘﻣ ﻚﺗﺪﻋﺎﺴﻤﻟ ﻦﻴﻠﺗﺎﻘﻣ ﻞﺳﺭُﺘﺳ. ﺔﻔﻟﺎﺤﺘﻣ ﻞﻴﺼﻔﻟﺍ ﻩﺬﻫ</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>. ﻚﺗﺪﻋﺎﺴﻤﻟ ﻁﺎﺸﻨﺑ ﻞﻤﻌﻟﺎﺑ ﺃﺪﺒﺗﻭ ﻚﺘﻔﻴﻠﺣ ﺢﺒﺼﺘﺴﻓ ،{1} ﻕﻮﻓ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻌﻔﺗﺭﺍ ﺍﺫﺇ. ﺔﻴﺋﺍﺪﻋ ﺢﺒﺼﺘﺴﻓ ،{0} ﻥﻭﺩ ﺎﻣ ﻰﻟﺇ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ. ﺔﻳﺮﺤﺑ ﻚﻌﻣ ﺙﺪﺤﺘﺗﻭ ﻝﻭﺍﺪﺘﺘﺳ. ﺓﺪﻳﺎﺤﻣ ﻞﻴﺼﻔﻟﺍ ﻩﺬﻫ</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>. ﺓﺪﻳﺎﺤﻣ ﺢﺒﺼﺘﺴﻓ ،{0} ﻕﻮﻓ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻌﻔﺗﺭﺍ ﺍﺫﺇ. ﻚﻠﻓﺍﻮﻗﻭ ﻚﺗﺎﻨﻃﻮﺘﺴﻣ ﻭﺰﻐﺘﺳ. ﺔﻳﺩﺎﻌﻣ ﻞﻴﺼﻔﻟﺍ ﻩﺬﻫ</CurrentGoodwillTip_Hostile>
+
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>ﻖﻳﺪﺻ</Friend>
+  <!-- EN: Rival -->
+  <Rival>ﻢﺼﺧ</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>ﻑﺭﺎﻌﻣ</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>ﻲﻧﺎﻴﺑ ﻢﺳﺭ</Graph>
+  <!-- EN: Messages -->
+  <Messages>ﻞﺋﺎﺳﺭ</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>ﺕﺎﻴﺋﺎﺼﺣﺇ</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>ﻲﻧﺎﻴﺑ ﻢﺳﺭ ﺪﻳﺪﺤﺗ</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>ﺍًﻣﻮﻳ ٣٠ ﺮﺧﺁ</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>. ﻡﻮﻳ ١٠٠ ﺮﺧﺁ</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>ﻡﻮﻳ ٣٠٠ ﺮﺧﺁ</Last300Days>
+  <!-- EN: All -->
+  <AllDays>ﻞﻜﻟﺍ</AllDays>
+  <!-- EN: Value -->
+  <Value>ﺔﻤﻴﻗ</Value>
+  <!-- EN: External -->
+  <External>ﻲﺟﺭﺎﺧ</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>ﻑﻭﺮﺤﻟﺍ ﺭﺎﻬﻇﺇ</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>ﻞﺋﺎﺳﺮﻟﺍ ﺽﺮﻋ</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>. ﺎﻬﺘﻴﺒﺜﺗ ِﻎﻟﺃ ﻭﺃ ﺔﻟﺎﺳﺮﻟﺍ ﻩﺬﻫ ﺕّﺒﺛ\n\n. ﺔﻟﺎﺳﺭ {0} ﺪﺣ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻌﺑ ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ ﺍًﻴﺋﺎﻘﻠﺗ ﺔﺘﺒﺜﻤﻟﺍ ﺮﻴﻏ ﻞﺋﺎﺳﺮﻟﺍ ﻡﺪﻗﺃ ﻑﺬﺣ ﻢﺘﻴﺳ</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>. ﺔﺟﺮﺣ ﺪﻋﺍﻮﻗ</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>ﺐﻌﻠﻟﺍ ﺖﻗﻭ</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>)ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ (ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>)ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ) (ﺮﺻﺎﻨﻌﻟﺍ (ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>)ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ) (ﻲﻧﺎﺒﻤﻟﺍ (ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>)ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ) (ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺹﺎﺨﺷﻷﺍ (ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>ﺓﺮﻴﺒﻛ ﺕﺍﺪﻳﺪﻬﺗ</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>ﺀﺍﺪﻋﻷﺍ ﺕﺍﺭﺎﻏ</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>)ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ (ﺓﺎﻘﻠﺘﻤﻟﺍ ﺭﺍﺮﺿﻷﺍ</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻠﺘﻗ</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>ﺀﺎﻀﻔﻟﺍ ﻰﻟﺇ ﺍﻮﻘﻠﻃُﺃ ﻦﻳﺬﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: Research -->
+  <Research>ﺚﺤﺑ</Research>
+  <!-- EN: Study -->
+  <Study>ﺔﺳﺍﺭﺩ</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>{0} ﺔﺳﺍﺭﺩ</StudyThing>
+  <!-- EN: Unresearched -->
+  <Unresearched>ﻑَﺷَﺘﻛُﻣ ﺮﻴﻏ</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>ﻞﻤﺘﻜﻣ</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>ﺬﻴﻔﻨﺘﻟﺍ ﺪﻴﻗ</InProgress>
+  <!-- EN: Locked -->
+  <Locked>ﻞﻔﻘﻣ</Locked>
+  <!-- EN: Prerequisites -->
+  <Prerequisites>ﺔﻴﺳﺎﺳﺃ ﺕﺎﺒﻠﻄﺘﻣ</Prerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>{1}/{0} ﺔﺑﻮﻠﻄﻣ ﺔﻴﻨﻘﺗ ﺕﺎﻄﻄﺨﻣ</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>){1}/{0} (ٍﻑﺎﻛ ﺮﻴﻏ ﺔﻘﺒﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ ﺕﺎﻄﻄﺨﻤﻟﺍ ﺩﺪﻋ</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>ﺔﻠﻤﺘﻜﻣ ﺮﻴﻏ ﺕﺎﺒﻠﻄﺘﻣ</PrerequisitesNotCompleted>
+  <!-- EN: No project active. -->
+  <NoProjectSelected>. ﻂﺸﻧ ﻉﻭﺮﺸﻣ ﺪﺟﻮﻳ ﻻ</NoProjectSelected>
+  <!-- EN: Active projects -->
+  <ActiveProjectPlural>ﺔﻄﺸﻧ ﻊﻳﺭﺎﺸﻣ</ActiveProjectPlural>
+  <!-- EN: Active project -->
+  <ActiveProject>ﻂﺸﻧ ﻉﻭﺮﺸﻣ</ActiveProject>
+  <!-- EN: Stop research -->
+  <StopResearch>ﺚﺤﺒﻟﺍ ﻑﺎﻘﻳﺇ</StopResearch>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>. ﺓﺩﻮﻘﻔﻣ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺚﺤﺒﻟﺍ ﻖﻓﺍﺮﻣ</MissingRequiredResearchFacilities>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>ﺔﺑﻮﻠﻄﻣ ﺚﺤﺑ ﺔﺼﻨﻣ</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺚﺤﺒﻟﺍ ﺔﺼﻨﻣ ﻖﻓﺍﺮﻣ</RequiredResearchBenchFacilities>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>. ﻚﺘﻴﻨﻘﺗ ﻯﻮﺘﺴﻣ ﺐﺒﺴﺑ ﻚﻟ {1} ﺢﺒﺼﺗ {0} ﺔﻴﺳﺎﺳﻷﺍ ﺓﺪﻋﺎﻘﻟﺍ ﺔﻔﻠﻜﺗ</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>: ﻡﺎﻬﻤﻟﺍﻭ ﺓﺭﺎﺠﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻞﺋﺎﺼﻔﻟﺍ ﻩﺬﻫ ﻦﻣ ﺔﺣﺎﺘﻣ ﺔﻴﻨﻘﺗ ﺕﺎﻄﻄﺨﻣ</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>.{2} ـﺏ ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﺏﺮﺿ ﻢﺘﻴﺳ. {1} ﻮﻫ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ ﺔﻴﻨﻘﺗ ﻯﻮﺘﺴﻣ ﻦﻜﻟ ،{0} ﻮﻫ ﻚﺘﻠﻴﺼﻓ ﺔﻴﻨﻘﺗ ﻯﻮﺘﺴﻣ</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>ـﺏ ﺡﻮﺘﻔﻣ</UnlockedWith>
+  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <UnknownResearchDescription>. ﻪﻓﺎﺸﺘﻛﻻ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ ﺕﺎﺒﻠﻄﺘﻣ ﻦﻣ ﺮﺜﻛﺃ ﻭﺃ ﺪﺣﺍﻭ ﻦﻋ ﺚﺤﺑﺍ</UnknownResearchDescription>
+  <!-- EN: unknown -->
+  <UnknownResearch>ﻑﻭﺮﻌﻣ ﺮﻴﻏ</UnknownResearch>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>ﻞﺋﺎﺼﻓ</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>ﺔﻓﻭﺮﻌﻣ ﻞﺋﺎﺼﻓ ﻻ</NoFactions>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>ﺡﺎﺘﻣ</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>ﻂﺸﻧ</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>ﻲﺨﻳﺭﺎﺗ</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>. ﺓﺩﺪﺤﻣ ﺔﻤﻬﻣ ﺪﺟﻮﻳ ﻻ</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>ﺍًﻣﻮﻳ {0} ﺬﻨﻣ ﺮﻬﻇ</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>{0} ﻲﻓ ﺮﻬﻇ</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>{0} ﻞﺒﻗ ﻪﻟﻮﺒﻗ ﻢﺗ</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>{0} ﻲﻓ ﻝﻮﺒﻘﻟﺍ ﻢﺗ</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>{1} ﺔﻄﺳﺍﻮﺑ {0} ﺬﻨﻣ ﻪﻟﻮﺒﻗ ﻢﺗ</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>{1} ﺔﻄﺳﺍﻮﺑ {0} ﻲﻓ ﻪﻟﻮﺒﻗ ﻢﺗ</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>{0} ﻲﻓ ﻲﻬﺘﻨﻳ</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>{0} ﻲﻓ ﻲﻬﺘﻨﻳ</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>{1}): ﻲﺿﺎﻤﻟﺍ {0} ﻝﻼﺧ (ﻑﻮﻴﻀﻠﻟ ﻡﺎﻌﻟﺍ ﺝﺍﺰﻤﻟﺍ</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>. ﺔﻴﺿﺎﻤﻟﺍ {1} ﻝﻼﺧ {0} ـﻝ ﻡﺎﻌﻟﺍ ﺝﺍﺰﻤﻟﺍ</QuestAveragePawnMoodTargets>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>{0} ﻰﻟﺇ ﻙﻮﻜﻣ ﻝﻮﺻﻭ</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>{0} ﻰﻟﺇ ﻲﺋﺎﻀﻓ ﻙﻮﻜﻣ ﺖﻠﺻﻭ</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>{0} ﻝﻼﺧ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻳ</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>{0} ﻲﻓ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻳ</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>{0} ﻝﻼﺧ ﻑﻮﻴﻀﻟﺍ ﺭﺩﺎﻐﻳ</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>{0} ﻲﻓ ﻑﻮﻴﻀﻟﺍ ﺭﺩﺎﻐﻳ</GuestsDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>{0} ﻞﺒﻗ ﻰﻬﺘﻧﺍ</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>ﺔﻤﻬﻤﻟﺍ ﻞﺒﻗﺍ</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>{0_labelShort} ـﺏ ﻝﻮﺒﻗ</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>ـﻝ ﺔﻘﻓﺍﻮﻣ</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>. ﺓﺄﻓﺎﻜﻤﻟﺍ ﻩﺬﻫ ﻞﺑﺎﻘﻣ ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﻮﺒﻘﻟ ﺮﻘﻧﺍ</AcceptQuestForTip>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>. ﺽﺮﻌﻟﺍ ﻰﻬﺘﻧﺍ</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>. ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ َﺖﻠﻤﻛﺃ</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>. ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻲﻓ َﺖﻠﺸﻓ</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>. ﻪﻟﻮﺒﻗ ﻞﺒﻗ ﺢﻟﺎﺻ ﺮﻴﻏ ﺐﻠﻄﻟﺍ ﺍﺬﻫ ﺢﺒﺻﺃ</QuestOutcomeInfo_Invalid>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>{0} ﻰﻟﺇ ﺰﻔﻘﻟﺍ</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>ﺎﻳﻼﺨﻟﺍ ﺮﺘﺧﺍ</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>. ﺮﺒﻛﺃ ﺕﺂﻓﺎﻜﻣ ﺢﻨﻤﺗ ﺍًﻳﺪﺤﺗ ﺮﺜﻛﻷﺍ ﻡﺎﻬﻤﻟﺍ. ﺔﻴﻟﺎﺤﻟﺍ ﻚﺗﻮﻘﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺔﻤﻬﻤﻟﺍ ﺔﺑﻮﻌﺼﻟ ﻡﺎﻋ ﺮﻳﺪﻘﺗ ﺍﺬﻫ. ﺔﺑﻮﻌﺼﻟﺍ ﺮﻳﺪﻘﺗ\n\nﻱﺩﺎﻋ 1:\nﺐﻌﺻ 2:\nﺔﺑﻮﻌﺼﻟﺍ ﻎﻟﺎﺑ 3:\nﻲﺋﺎﻬﻨﻟﺍ 4:</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺖﻧﺃ ،ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻞﺒﻘﺗ ﻲﻜﻟ</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>. ﻥﺍﻮﻨﻌﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ ﻲﺒﻠﺗ ﺓﺮﺣ ﻡﻮﻧ ﻑﺮﻏ</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>ﺐﻘﻠﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ ﻲﻓﻮﺘﺴﺗ ﺓﺮﺣ ﻡﻮﻧ ﺔﻓﺮﻏ</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>.{TITLE} {PAWN_definite} ﺐﻘﻟ ﺕﺎﺒﻠﻄﺘﻣ ﻲﺒﻠﺗ ﺵﺮﻋ ﺔﻓﺮﻏ</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>{PAWN_definite} ـﻝ ﺍًﺷﺮﻋ ﻥّﻴﻋ</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
+  <QuestNoColonistWithTitle>{0} ﺐﻘﻠﺑ ﺮﻤﻌﺘﺴﻣ</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>ﻚﺗﺮﻤﻌﺘﺴﻣ ﻲﻓ ﻥﻮﻜﻴﻟ {PAWN_definite}</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>. ﺢﻧﺎﻤﻟﺍ ﻞﻴﺼﻓ ﺀﺍﺪﻋﺃ ﻦﻣ ﺔﻴﻟﺎﺧ ﺔﻄﻳﺮﺨﻟﺍ</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>.{PROJECT_label} ﻲﻓ ﺚﺤﺒﻟﺍ ﻢﺗ ﺪﻗ ﻥﻮﻜﻳ ﻥﺃ</QuestRequiresResearch>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>ﺓﺮﻤﺘﺴﻤﻟﺍ ﺢﻨﻤﻟﺍ ﻢﺳﺍﺮﻣ ﺔﻤﻬﻣ ﺀﺎﻬﻧﻹ</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>ﺕﺂﻓﺎﻜﻤﻟﺍ ﺕﻼﻴﻀﻔﺗ</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>. ﻞﻌﻔﻟﺎﺑ ﺖﺿﺭُﻋ ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ ﺍﺬﻫ. ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻲﻓ ﺎﻫﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺕﺂﻓﺎﻜﻤﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻋ ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺮﺒﺧﺃ</ChooseRewardsDesc>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>{FACTION_royalFavorLabel} ﻝﻮﺒﻗ</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>.{FACTION_name} ﻦﻣ {FACTION_royalFavorLabel} ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ\n\n. ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺕﺂﻓﺎﻜﻤﻟﺍ ﻦﻣ ﻯﺮﺧﺃ ﺍًﻋﺍﻮﻧﺃ {FACTION_name} ﻡﺪﻘﺘﺴﻓ ،ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ\n\n. ﺓﺪﻳﺪﺠﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻰﻠﻋ ﻂﻘﻓ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺮﺛﺆﻳ</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﻝّﺒﻘﺗ</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>.{FACTION_name} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺗ ﻝﻼﺧ ﻦﻣ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ\n\n. ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺕﺂﻓﺎﻜﻤﻟﺍ ﻦﻣ ﻯﺮﺧﺃ ﺍًﻋﺍﻮﻧﺃ {FACTION_name} ﻡﺪﻘﺘﺴﻓ ،ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ\n\n. ﺍًﺜﻳﺪﺣ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺘﻳ ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻰﻠﻋ ﻂﻘﻓ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺮﺛﺆﻳ</AcceptGoodwillDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>.{FACTION_royalFavorLabel} ﻝﺎﺒﻘﺘﺳﺍ ﻰﻠﻋ ﺍًﻴﻟﺎﺣ ﻖﻓﺍﻮﺗ ﺖﻧﺃ</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>.{FACTION_royalFavorLabel} ﻲﻘﻠﺗ ﻦﻋ ﻰﻠﺨﺘﺗ ﺍًﻴﻟﺎﺣ ﺖﻧﺃ</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>.{1} ﺭﺍﺪﻘﻤﺑ {0_name} ـﺏ ﻚﺘﻗﻼﻋ ﻦﺴﺤﺘﺘﺳ</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort} ﻢﻀﻨﻳ</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>. ﺍًﻓﺪﻫ {0} ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ: ﺔﻧﺎﻴﺧ ﺽﺮﻋ</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>.{1} ﺩﺍﺮﻓﺃ ﻊﻴﻤﺟ ﻞﺘﻗ ﻞﺑﺎﻘﻣ ًﺓﺄﻓﺎﻜﻣ {0} ﻚﺤﻨﻤﻴﺳ</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>{0} ﻦﻋ ﻞﻘﺗ ﻻ ﺔﻤﻴﻘﺑ ﺓﺮﻤﻌﺘﺴﻣ ﺓﻭﺮﺛ</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>{0} ﻊﻣ ﻒﻟﺎﺤﺗ</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>{0} ﻩﺎﺠﺗ ﻲﺋﺍﺪﻋ</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>{0} ﻩﺎﺠﺗ ﺪﻳﺎﺤﻣ</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>{0_labelShort} ﺏَّﺭﺩُﻣ</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>.{ﺍﻟﻄﺒﻘﺔ} {ﺍﻟﻔﻌﻞ ﺍﻟﻤُﺳﻨﺪ} ﻝﻮﺒﻗ ﻦﻜﻤﻳ ﻻ</QuestRequiredLayer>
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>. ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﻝﻮﺒﻘﻟﺍ ﻦﻜﻤﻳ ﻻ</QuestNotSpace>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>ﺔﺟﺎﺣ ﺊﺸﻧُﻳ</CreatesNeed>
+  <!-- EN: Change defaults... -->
+  <ChangeDefaults>…ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺮﻴﻴﻐﺗ</ChangeDefaults>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>ﻞﻳﺪﻌﺘﻠﻟ ﺮﻘﻧﺍ</ClickToEdit>
+  <!-- EN: Assign -->
+  <AssignButton>ﻦﻴﻴﻌﺗ</AssignButton>
+  <!-- EN: Unassign -->
+  <UnassignButton>ﻦﻴﻴﻌﺗ ﺀﺎﻐﻟﺇ</UnassignButton>
+  
+  <!-- Books -->
+  <!-- EN: Mental break chance -->
+  <BookMentalBreakChance>ﻲﻠﻘﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﻝﺎﻤﺘﺣﺍ</BookMentalBreakChance>
+  
+  <!-- EN: Recreation gain multiplier -->
+  <BookJoyFactor>ﻁﺎﺸﻨﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻒﻋﺎﻀﻣ</BookJoyFactor>
+  
+</LanguageData>

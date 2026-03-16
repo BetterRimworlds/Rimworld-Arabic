@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite flagstone -->
+  <FlagstoneGranite.label>ﺖﻴﻧﺍﺮﺟ ﻒﻴﺻﺭ ﺮﺠﺣ</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGranite.description>. ﺩﺭﺍﻮﻣ ﻱﺃ ﺞﺘﻨﻳ ﻻ ﻱﺮﺠﺤﻟﺍ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ. ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻠﻟ ﺓﺪﻴﺟ ﺍًﺤﻄﺳﺃ ﻊﻨﺼﺗ ﺎﻬﻨﻜﻟ ،ﺔﻠﻴﻤﺟ ﺖﺴﻴﻟ ﻩﺬﻫ. ﻦﺸﺧ ﻱﺮﺠﺣ ﻁﻼﺑ</FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <FlagstoneLimestone.label>ﻱﺮﻴﺟ ﻲﻔﻴﺻﺭ ﺮﺠﺣ</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestone.description>. ﺩﺭﺍﻮﻣ ﻱﺃ ﺞﺘﻨﻳ ﻻ ﻱﺮﺠﺤﻟﺍ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ. ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻠﻟ ﺓﺪﻴﺟ ﺍًﺤﻄﺳﺃ ﻊﻨﺼﺗ ﺎﻬﻨﻜﻟ ،ﺔﻠﻴﻤﺟ ﺖﺴﻴﻟ ﻩﺬﻫ. ﻦﺸﺧ ﻱﺮﺠﺣ ﻁﻼﺑ</FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <FlagstoneMarble.label>ﻲﻣﺎﺧﺭ ﻁﻼﺑ</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarble.description>. ﺩﺭﺍﻮﻣ ﻱﺃ ﺞﺘﻨﻳ ﻻ ﻱﺮﺠﺤﻟﺍ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ. ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻠﻟ ﺓﺪﻴﺟ ﺍًﺤﻄﺳﺃ ﻊﻨﺼﺗ ﺎﻬﻨﻜﻟ ،ﺔﻠﻴﻤﺟ ﺖﺴﻴﻟ ﻩﺬﻫ. ﻦﺸﺧ ﻱﺮﺠﺣ ﻁﻼﺑ</FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>ﻁَّﻠﺑُﻣ ﻲﻠﻣﺭ ﺮﺠﺣ</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>. ﺩﺭﺍﻮﻣ ﻱﺃ ﺞﺘﻨﻳ ﻻ ﻱﺮﺠﺤﻟﺍ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ. ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻠﻟ ﺓﺪﻴﺟ ﺍًﺤﻄﺳﺃ ﻊﻨﺼﺗ ﺎﻬﻨﻜﻟ ،ﺔﻠﻴﻤﺟ ﺖﺴﻴﻟ ﻩﺬﻫ. ﻊﻄﻘﻟﺍ ﻦﺸﺧ ﻱﺮﺠﺣ ﻁﻼﺑ</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>ﻲﺤﻔﺻ ﺯﺍﻭﺩﺭﺃ</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>. ﺩﺭﺍﻮﻣ ﻱﺃ ﺞﺘﻨﻳ ﻻ ﻱﺮﺠﺤﻟﺍ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ. ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻠﻟ ﺓﺪﻴﺟ ﺍًﺤﻄﺳﺃ ﻞﻜﺸﺗ ﺎﻬﻨﻜﻟ ،ﺔﻠﻴﻤﺟ ﺖﺴﻴﻟ ﻩﺬﻫ. ﻦﺸﺧ ﻱﺮﺠﺣ ﻁﻼﺑ</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>ﺖﻴﻧﺍﺮﺟ ﻁﻼﺑ</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>. ﺐﻴﻛﺮﺘﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟﻭ ﺮﻬﻈﻤﻟﺍ ﻞﻴﻤﺟ ﻮﻫﻭ ،ﺔﻌﻠﻘﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺀﺎﻔﺿﻹ ﺔﻳﺎﻨﻌﺑ ﺏَّﻛﺭُﻣﻭ ﻉَّﻄﻗُﻣ ﻱﺮﺠﺣ ﻁﻼﺑ</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>ﻱﺮﻴﺟ ﺮﺠﺣ ﻁﻼﺑ</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>. ﺐﻴﻛﺮﺘﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟﻭ ﺮﻬﻈﻤﻟﺍ ﻞﻴﻤﺟ ﻮﻫﻭ ،ﺔﻌﻠﻘﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺀﺎﻔﺿﻹ ﺔﻳﺎﻨﻌﺑ ﺏَّﻛﺭُﻣﻭ ﻉَّﻄﻗُﻣ ﻱﺮﺠﺣ ﻁﻼﺑ</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>ﻲﻣﺎﺧﺭ ﻁﻼﺑ</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>. ﺐﻴﻛﺮﺘﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟﻭ ﺮﻬﻈﻤﻟﺍ ﻞﻴﻤﺟ ﻮﻫﻭ ،ﺔﻌﻠﻘﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺀﺎﻔﺿﻹ ﺔﻳﺎﻨﻌﺑ ﺏَّﻛﺭُﻣﻭ ﻉَّﻄﻗُﻣ ﻱﺮﺠﺣ ﻁﻼﺑ</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>ﻲﻠﻣﺭ ﺮﺠﺣ ﻁﻼﺑ</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>. ﺐﻴﻛﺮﺘﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟﻭ ﺮﻬﻈﻤﻟﺍ ﻞﻴﻤﺟ ﻮﻫﻭ ،ﺔﻌﻠﻘﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺀﺎﻔﺿﻹ ﺔﻳﺎﻨﻌﺑ ﺏَّﻛﺭُﻣﻭ ﻉَّﻄﻗُﻣ ﻱﺮﺠﺣ ﻁﻼﺑ</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>ﺯﺍﻭﺩﺭﻷﺍ ﻁﻼﺑ</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>. ﺐﻴﻛﺮﺘﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟﻭ ﺮﻬﻈﻤﻟﺍ ﻞﻴﻤﺟ ﻮﻫﻭ ،ﺔﻌﻠﻘﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺀﺎﻔﺿﻹ ﺔﻳﺎﻨﻌﺑ ﺏَّﻛﺭُﻣﻭ ﻉَّﻄﻗُﻣ ﻱﺮﺠﺣ ﻁﻼﺑ</TileSlate.description>
+  
+</LanguageData>

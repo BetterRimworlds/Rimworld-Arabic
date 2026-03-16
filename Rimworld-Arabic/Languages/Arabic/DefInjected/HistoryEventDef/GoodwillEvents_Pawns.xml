@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked member -->
+  <AttackedMember.label>ﻡَﺟﺎﻫُﻣ ﻮﻀﻋ</AttackedMember.label>
+  
+  <!-- EN: tended to member -->
+  <FriendlyExitedMapTended.label>ﻪﺑ ﻰﻨﺘﻋُﻣ ﻮﻀﻋ</FriendlyExitedMapTended.label>
+  
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>ﺕﺎﻣ ﺐﻧﺬﻣ ﻦﻴﺠﺳ</GuiltyPrisonerDied.label>
+  
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>ﻲﻓﻮﺗ ﺀﻳﺮﺑ ﻦﻴﺠﺳ</InnocentPrisonerDied.label>
+  
+  <!-- EN: member captured -->
+  <MemberCaptured.label>ﺮﻴﺳﺃ ﻮﻀﻋ</MemberCaptured.label>
+  
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>ﻕَﺤﺳُﻣ ﻮﻀﻋ</MemberCrushed.label>
+  
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>ًﺎﻤﻟﺎﺳ ﺔﻄﻳﺮﺨﻟﺍ ﺭﺩﺎﻏ ﻮﻀﻋ</MemberExitedMapHealthy.label>
+  
+  <!-- EN: member killed -->
+  <MemberKilled.label>ﻝﻮﺘﻘﻣ ﻮﻀﻋ</MemberKilled.label>
+  
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>َﺕﺎﻣ ٌﻮﻀﻋ</MemberNeutrallyDied.label>
+  
+  <!-- EN: member sold -->
+  <MemberSold.label>ﻉﺎﺒﻣ ﻮﻀﻋ</MemberSold.label>
+  
+  <!-- EN: member stripped -->
+  <MemberStripped.label>ﺩّﺮﺠﻣ ﻮﻀﻋ</MemberStripped.label>
+  
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>ﻮﻀﻌﻠﻟ ﺓﺭﺎﺿ ﺔﺣﺍﺮﺟ</PerformedHarmfulSurgery.label>
+  
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>ﻰﻓﻮﺘﻣ ﻦﻴﺠﺳ</PrisonerDied.label>
+  
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>ﺏﺎﺼﻣ ﻮﻀﻋ</UsedHarmfulItem.label>
+  
+  <!-- EN: member's xenogerm absorbed -->
+  <XenogermAbsorbed.label>ﻮﻀﻌﻠﻟ ﺺﺘﻤﻣ ﻲﺒﻨﺟﺃ ﻡﺮﺟ</XenogermAbsorbed.label>
+  
+</LanguageData>

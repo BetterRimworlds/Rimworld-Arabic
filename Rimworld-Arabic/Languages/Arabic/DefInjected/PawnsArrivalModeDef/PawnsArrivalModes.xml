@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>!ﻚﻗﻮﻓ ﺓﺮﺷﺎﺒﻣ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻄﻘﺳ</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>!ﻚﻗﻮﻓ ﺓﺮﺷﺎﺒﻣ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻄﻘﺳ</CenterDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
+  <CenterDrop.textWillArrive>. ﻚﻗﻮﻓ ﺓﺮﺷﺎﺒﻣ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0_pawnsPluralDef} ﻞﺼﺘﺳ</CenterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>. ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>. ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDrop.textWillArrive>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0_pawnsPluralDef} ﻞﺼﺘﺳ</EdgeDrop.textWillArrive>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>. ﻚﻨﻣ ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ {0} ﻦﻣ ﺔﻠﺼﻔﻨﻣ ﺕﺎﻋﻮﻤﺠﻣ ﺓﺪﻋ ﺖﻠﺻﻭ</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>. ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻠﺼﻔﻨﻣ ﺕﺎﻋﻮﻤﺠﻣ ﺓﺪﻋ ﺖﻠﺻﻭ</EdgeDropGroups.textFriendly>
+  <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDropGroups.textWillArrive>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0_pawnsPluralDef} ﻦﻣ ﺔﻠﺼﻔﻨﻣ ﺕﺎﻋﻮﻤﺠﻣ ﺓﺪﻋ ﻞﺼﺘﺳ</EdgeDropGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>. ﺏﺮﻘﻟﺎﺑ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>. ﺏﺮﻘﻟﺎﺑ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeWalkIn.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkIn.textWillArrive>. ﻡﺍﺪﻗﻷﺍ ﻰﻠﻋ ﺍًﺮﻴﺳ {0_pawnsPluralDef} ﻞﺼﺘﺳ</EdgeWalkIn.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textEnemy>. ﻩﺎﺠﺗﺍ ﻞﻛ ﻦﻣ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeWalkInDistributed.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textFriendly>. ﻩﺎﺠﺗﺍ ﻞﻛ ﻦﻣ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</EdgeWalkInDistributed.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot from every direction. -->
+  <EdgeWalkInDistributed.textWillArrive>. ﻩﺎﺠﺗﺍ ﻞﻛ ﻦﻣ ﻡﺍﺪﻗﻷﺍ ﻰﻠﻋ ﺍًﺮﻴﺳ {0_pawnsPluralDef} ﻞﺼﺘﺳ</EdgeWalkInDistributed.textWillArrive>
+  
+  <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textEnemy>. ﺓﺩﺪﻌﺘﻣ ﺎﻳﺍﻭﺯ ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ ،ﺏﺮﻘﻟﺎﺑ {1} ﻦﻣ {0} ﻞﺻﻭ</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textFriendly>. ﺓﺩﺪﻌﺘﻣ ﺎﻳﺍﻭﺯ ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ ،ﺏﺮﻘﻟﺎﺑ {1} ﻦﻣ ﻥﻭﺩﻭﺩﻮﻟﺍ {0} ﻞﺻﻭ</EdgeWalkInGroups.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
+  <EdgeWalkInGroups.textWillArrive>. ﺪﺣﺍﻭ ﻥﺁ ﻲﻓ ﺓﺩﺪﻌﺘﻣ ﺎﻳﺍﻭﺯ ﻦﻣ ﺏﺮﺘﻘﺗﻭ ،ﻡﺍﺪﻗﻷﺍ ﻰﻠﻋ ﺍًﺮﻴﺳ {0_pawnsPluralDef} ﻞﺼﺘﺳ</EdgeWalkInGroups.textWillArrive>
+  
+  <!-- EN: Several {0} are emerging from the water. -->
+  <EmergeFromWater.textEnemy>. ﺀﺎﻤﻟﺍ ﻦﻣ {0} ﻦﻣ ﺩﺪﻋ ﺝﺮﺨﻳ</EmergeFromWater.textEnemy>
+  <!-- EN: {0_pawnsPluralDef} will emerge from the water. -->
+  <EmergeFromWater.textWillArrive>. ﺀﺎﻤﻟﺍ ﻦﻣ {0_pawnsPluralDef} ﺝﺮﺨﺘﺳ</EmergeFromWater.textWillArrive>
+  
+  <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
+  <MechClusterDrop.textEnemy>. ﺔﺒﻳﺮﻗ ﻁﻮﺒﻫ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻄﺒﻫ</MechClusterDrop.textEnemy>
+  <!-- EN: The mech cluster will arrive in drop pods. -->
+  <MechClusterDrop.textWillArrive>. ﻁﻮﺒﻫ ﺕﻻﻮﺴﺒﻛ ﻲﻓ ﺕﻻﻵﺍ ﺔﻋﻮﻤﺠﻣ ﻞﺼﺘﺳ</MechClusterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>!ﺔﻘﻄﻨﻤﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺓﺮﺛﺎﻨﺘﻣ ﻂﺒﻬﺗﻭ ﺖﻠﻄﻌﺗ ﻢﻬﺗﻻﻮﺴﺒﻛ. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>!ﺔﻘﻄﻨﻤﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺓﺮﺛﺎﻨﺘﻣ ﻂﺒﻬﺗﻭ ﺖﻠﻄﻌﺗ ﻢﻬﺗﻻﻮﺴﺒﻛ. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</RandomDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <RandomDrop.textWillArrive>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0_pawnsPluralDef} ﻞﺼﺘﺳ</RandomDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textEnemy>. ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</SpecificDropDebug.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textFriendly>. ﺏﺮﻘﻟﺎﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {1} ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</SpecificDropDebug.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <SpecificDropDebug.textWillArrive>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ {0_pawnsPluralDef} ﻞﺼﺘﺳ</SpecificDropDebug.textWillArrive>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: keeping name -->
+  <GotMarried_KeptName.label>ﻢﺳﻻﺎﺑ ﻅﺎﻔﺘﺣﻻﺍ</GotMarried_KeptName.label>
+  
+  <!-- EN: taking man's name -->
+  <GotMarried_TookMansName.label>ﻞﺟﺭ ﻢﺳﺍ ﺬﺧﺃ</GotMarried_TookMansName.label>
+  
+  <!-- EN: taking woman's name -->
+  <GotMarried_TookWomansName.label>ﺓﺃﺮﻣﺍ ﻢﺳﺍ ﺬﺧﺃ</GotMarried_TookWomansName.label>
+  
+</LanguageData>

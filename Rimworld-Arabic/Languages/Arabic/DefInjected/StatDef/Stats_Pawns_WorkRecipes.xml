@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>ﺓﺭﺍﺰﺟ ﺓﺀﺎﻔﻛ</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>. ﻢﺤﻠﻟﺍ ﺕﺍﺫ ﺔﻴﺤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺦﻠﺳ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ\n\n. ﻦﺋﺎﻜﻟﺍ ﻢﺠﺣ ﻰﻠﻋ ﺍًﻀﻳﺃ ﺔﻴﻠﻌﻔﻟﺍ ﺔﻴﻤﻜﻟﺍ ﺪﻤﺘﻌﺗ</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>ﺓﺭﺍﺰﺟ ﺔﻋﺮﺳ</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>. ﺔﻴﺤﻟﺍ ﺕﺎﻨﺋﺎﻜﻠﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻊﻴﻄﻘﺗ ﺔﻋﺮﺳ</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻖﻳﺰﻤﺗ ﺓﺀﺎﻔﻛ</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>. ﺩﺭﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺖﻴﻣ ﺪﻳﻮﻧﺎﻜﻴﻣ ﻚﻴﻜﻔﺗ ﺪﻨﻋ ﺺﺨﺸﻟﺍ ﺎﻬﻴﻠﻋ ﻞﺼﺤﻳ ﻲﺘﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ\n\n. ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻢﺠﺤﺑ ﺍًﻀﻳﺃ ﺔﻄﺒﺗﺮﻣ ﺔﻴﻠﻌﻔﻟﺍ ﺔﻴﻤﻜﻟﺍ ﻥﺃ ﺎﻤﻛ</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻖﻳﺰﻤﺗ ﺔﻋﺮﺳ</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>. ﺩﺭﺍﻮﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺪﻳﻮﻧﺎﻜﻴﻤﻠﻟ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻊﻴﻄﻘﺗ ﺔﻋﺮﺳ</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>ﻲﻬﻃ ﺔﻋﺮﺳ</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>. ﺕﺎﺒﺟﻮﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺩﺍﺪﻋﺇ ﺔﻋﺮﺳ</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>ﺀﺍﻭﺪﻟﺍ ﻲﻬﻃ ﺔﻋﺮﺳ</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>. ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﺕﻼﺻﻭ ﻞﺜﻣ ﺔﻄﻴﺴﺑ ﺕﺎﺠﺘﻨﻣ ﺔﻋﺎﻨﺻ ﻭﺃ ،ﻱﺎﺸﻟﺍﻭ ﺓﺮﻴﺒﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺮﻴﻀﺤﺗ ﺔﻋﺮﺳ</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>ﺔﻳﻭﺩﻷﺍ ﻊﻴﻨﺼﺗ ﺔﻋﺮﺳ</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>. ﺓﺪﻘﻌﻤﻟﺍ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺔﻳﻭﺩﻸﻟ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﺐﻴﻛﺮﺗ ﺔﻋﺮﺳ ﻲﻫ ﻢﻛ</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﻝﺎﻤﺘﺣﺍ</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>. ﺪﺼﻗ ﺮﻴﻏ ﻦﻋ ﻪﺨﺒﻄﺗ ﻱﺬﻟﺍ ﻡﺎﻌﻄﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﻢﻴﻤﺴﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ\n\n. ﺀﻴﻘﻟﺍﻭ ﻒﻌﻀﻟﺍﻭ ﻢﻟﻷﺍ ﻦﻣ ﺍًﺘﻗﺆﻣ ﻲﻧﺎﻌﻴﺳ ﺔﻣﻮﻤﺴﻣ ﺔﺒﺟﻭ ﻝﻭﺎﻨﺘﻳ ﺺﺨﺷ ﻱﺃ</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>)ﺔﺒﺟﻭ ﻢﻴﻤﺴﺗ ﺔﺻﺮﻓ (ﻡﺎﻌﻄﻟﺍ ﻢﻤﺴﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>ﻡﺎﻌﻟﺍ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>. ﺝﺎﺘﻧﻹﺍ ﺔﻋﺮﺳ ﻦﻣ ًﻻﺪﺑ ﺞﺘﻨﻤﻟﺍ ﺓﺩﻮﺟ ﻰﻠﻋ ﺓﺭﺎﻬﻤﻟﺍ ﺎﻬﻴﻓ ﺮﺛﺆﺗ ﻲﺘﻟﺍ ﻚﻠﺗ ﻚﻟﺬﻛﻭ ،ﺓﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﻻ ﻲﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻰﻠﻋ ﺀﺎﺼﺣﻹﺍ ﺍﺬﻫ ﻖﺒﻄﻨﻳ. ﺚﺒﺨﻟﺍ ﺮﻬﺻﻭ ،ﺔﺤﻠﺳﺃﻭ ﻉﺭﺩ ﻊﻨﺻﻭ ،ﺔﻴﻨﻔﻟﺍ ﻝﺎﻤﻋﻷﺍ ﺀﺎﺸﻧﺇﻭ ،ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺧﻭ ،ﺮﺻﺎﻨﻌﻟﺍ ﻕﺮﺣﻭ ،ﺓﺎﻔﺼﻤﻟﺍ ﻲﻓ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻊﻨﺻﻭ ،ﺮﺠﺤﻟﺍ ﻞﺘﻛ ﻊﻨﺻ ﻞﺜﻣ ﺔﻣﺎﻌﻟﺍ ﻝﺎﻤﻋﻸﻟ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﺯﺎﺠﻧﺇ ﺔﻋﺮﺳ</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>ﺮﻬﺻ ﺔﻋﺮﺳ</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>. ﺩﺍﻮﻤﻠﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺮﻬﺻ ﺔﻋﺮﺳ\n\n. ﺓﺭﺎﻬﻣ ﻱﺄﺑ ﺮﺛﺄﺘﺗ ﻻ ﺮﻬﺼﻟﺍ ﺔﻋﺮﺳ ﻥﺈﻓ ،ﻂﻴﺴﺑ ﻱﻭﺪﻳ ﻞﻤﻋ ﺮﻬﺼﻟﺍ ﻥﻷ ﺍًﺮﻈﻧ</SmeltingSpeed.description>
+  
+</LanguageData>

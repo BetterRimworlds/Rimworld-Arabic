@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Save -->
+  <SaveButton>ﻆﻔﺣ</SaveButton>
+  <!-- EN: Clear -->
+  <ClearBinding>ﺢﺴﻣ</ClearBinding>
+  <!-- EN: Reset to default -->
+  <ResetBinding>ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﺿﻮﻟﺍ ﻰﻟﺇ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
+  <BindingButtonToolTip>. ﺕﺍﺭﺎﻴﺨﻠﻟ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ ﻭﺃ ﺡﺎﺘﻔﻤﻟﺍ ﺍﺬﻫ ﻂﺑﺮﻟ ﺮﺴﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ</BindingButtonToolTip>
+  <!-- EN: Click to bind this key or left trigger button for options -->
+  <BindingButtonToolTipController>. ﺕﺍﺭﺎﻴﺨﻠﻟ ﺮﺴﻳﻷﺍ ﻞﻐﺸﻤﻟﺍ ﺭﺯ ﻭﺃ ﺡﺎﺘﻔﻤﻟﺍ ﺍﺬﻫ ﻂﺑﺮﻟ ﺮﻘﻧﺍ</BindingButtonToolTipController>
+  <!-- EN: Press any key or Esc to cancel... -->
+  <PressAnyKeyOrEsc>…ﺀﺎﻐﻟﻺﻟ Esc ﻭﺃ ﺡﺎﺘﻔﻣ ﻱﺃ ﻰﻠﻋ ﻂﻐﺿﺍ</PressAnyKeyOrEsc>
+  <!-- EN: Press any button or {Key:Cancel} to cancel... -->
+  <PressAnyKeyOrEscController>…ﺀﺎﻐﻟﻺﻟ {Key:Cancel} ﻭﺃ ﺭﺯ ﻱﺃ ﻰﻠﻋ ﻂﻐﺿﺍ</PressAnyKeyOrEscController>
+  <!-- EN: Key binding overwritten: {0} -->
+  <KeyBindingOverwritten>{0}: ﺡﺎﺘﻔﻤﻟﺍ ﻂﺑﺭ ﺯﻭﺎﺠﺗ ﻢﺗ</KeyBindingOverwritten>
+  
+</LanguageData>

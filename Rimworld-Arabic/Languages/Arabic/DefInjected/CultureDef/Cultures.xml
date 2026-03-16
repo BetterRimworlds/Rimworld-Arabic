@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astropolitan -->
+  <Astropolitan.label>ﺔﻳﺮﻀﺣ ﺓﺮﻤﻌﺘﺴﻣ</Astropolitan.label>
+  <!-- EN: A broad collection of cultures common among frequent space travelers. -->
+  <Astropolitan.description>. ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﻦﻴﻤﻈﺘﻨﻤﻟﺍ ﻦﻳﺮﻓﺎﺴﻤﻟﺍ ﻦﻴﺑ ﺔﻌﺋﺎﺷ ﺕﺎﻓﺎﻘﺜﻟﺍ ﻦﻣ ﺔﻌﺳﺍﻭ ﺔﻋﻮﻤﺠﻣ</Astropolitan.description>
+  
+  <!-- EN: corunan -->
+  <Corunan.label>ﻥﺎﻧﻭﺭﻮﻛ</Corunan.label>
+  <!-- EN: An ancient culture common among rimworld tribes. -->
+  <Corunan.description>. ﺔﻓﺎﺤﻟﺍ ﻢﻟﺎﻋ ﻞﺋﺎﺒﻗ ﻦﻴﺑ ﺔﻌﺋﺎﺷ ﺔﻤﻳﺪﻗ ﺔﻓﺎﻘﺛ</Corunan.description>
+  
+  <!-- EN: kriminul -->
+  <Kriminul.label>ﻝﻮﻨﻤﻳﺮﻛ</Kriminul.label>
+  <!-- EN: A broad category describing the styles and practices of many pirate groups. -->
+  <Kriminul.description>. ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺎﻋﻮﻤﺠﻣ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺕﺎﺳﺭﺎﻤﻣﻭ ﻁﺎﻤﻧﺃ ﻒﺼﺗ ﺔﻌﺳﺍﻭ ﺔﺌﻓ</Kriminul.description>
+  
+  <!-- EN: rustican -->
+  <Rustican.label>ﻥﺎﻜﻴﺘﺳﺭ</Rustican.label>
+  <!-- EN: A hardy industrial culture common among rimworld outlanders. -->
+  <Rustican.description>. ﻢﻳﺭ ﻢﻟﺎﻋ ﻲﻓ ﺐﻧﺎﺟﻷﺍ ﻦﻴﺑ ﺔﻌﺋﺎﺷ ﺔﻳﻮﻗ ﻲﻋﺎﻨﺻ ﺮﺼﻋ ﺔﻓﺎﻘﺛ</Rustican.description>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf dependence -->
+  <SmokeleafAddiction.label>ﻥﺎﺧﺩ ﺔﻗﺭﻭ ﺩﺎﻤﺘﻋﺍ</SmokeleafAddiction.label>
+  <!-- EN: A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <SmokeleafAddiction.description>. ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻥﻭﺪﺑ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻳ ﻥﺃ ﻍﺎﻣﺪﻠﻟ ﻦﻜﻤﻳ ﻻ ﺚﻴﺤﺑ ،ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻐﺗ ﻰﻟﺇ ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻮﻟ ﺪﻣﻷﺍ ﻞﻳﻮﻃ ﻡﺍﺪﺨﺘﺳﻻﺍ ﻯﺩﺃ. ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻥﺎﻣﺩﺇ\n\n. ﻥﺎﻣﺩﻹﺍ ﻞﺤﻳ ﺎﻤﻣ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻟﺎﺣ ﻊﻣ ﻯﺮﺧﺃ ﺓﺮﻣ ﻒﻴﻜﺘﻟﺍ ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ ﺮﺒﺠﻴﺳ ﻝﻮﻄﻤﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ ﻥﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺏﺎﺤﺴﻧﻻﺍ ﺽﺍﺮﻋﺃ ﺃﺪﺒﺘﺳ ،ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﻦﻣ ﺔﻤﻈﺘﻨﻣ ﺕﺎﻋﺮﺟ ﻥﻭﺪﺑ</SmokeleafAddiction.description>
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>ﺏﺎﺤﺴﻧﺍ</SmokeleafAddiction.stages.withdrawal.label>
+  
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>ﻥﺎﺧﺩ ﺔﻗﺭﻭ ﻥِّﺧَﺩُﻣ</SmokeleafHigh.label>
+  <!-- EN: Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+  <SmokeleafHigh.description>. ﺔﻴﺑﺎﺒﻀﻟﺍ ﺔﻴﻫﺎﻓﺮﻟﺎﺑ ﺍًﻤﻋﺎﻧ ﺍًﺭﻮﻌﺷ ﺪﻟﻮﺗ. ﻡﺪﻟﺍ ﻯﺮﺠﻣ ﻲﻓ ﺔﻄﺸﻨﻟﺍ ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﺓﺩﺎﻣ</SmokeleafHigh.description>
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>ﻥﺎﺧﺩ ﺔﻗﺭﻭ ﺓﻮﺸﻧ</SmokeleafHigh.labelNoun>
+  
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>ﻥﺎﺧﺩ ﺔﻗﺭﻭ ﻞﻤﺤﺗ</SmokeleafTolerance.label>
+  <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
+  <SmokeleafTolerance.description>. ﺮﻴﺛﺄﺘﻟﺍ ﺲﻔﻧ ﻖﻴﻘﺤﺘﻟ ﺔﻣﺯﻼﻟﺍ ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﺔﻴﻤﻛ ﺕﺩﺍﺯ ،ﺢﻣﺎﺴﺘﻟﺍ ﺍﺬﻫ ﺩﺍﺯ ﺎﻤﻠﻛ. ﻥﺎﺧﺪﻟﺍ ﺔﻗﺭﻭ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺗ ﻢﻛﺍﺮﺗ</SmokeleafTolerance.description>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small.label>ﺮﻴﻐﺻ</SmokeleafTolerance.stages.small.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>ﺮﻴﺒﻛ</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>ﻢﺨﺿ</SmokeleafTolerance.stages.massive.label>
+  
+</LanguageData>

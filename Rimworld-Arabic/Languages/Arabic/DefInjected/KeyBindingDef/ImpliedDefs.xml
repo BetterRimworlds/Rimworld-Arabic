@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Toggle animales tab -->
+  <MainTab_Animals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻞﻳﺪﺒﺗ</MainTab_Animals.label>
+  
+  <!-- EN: Toggle arquitecto tab -->
+  <MainTab_Architect.label>ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺐﻳﻮﺒﺗ</MainTab_Architect.label>
+  
+  <!-- EN: Toggle asignar tab -->
+  <MainTab_Assign.label>ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻦﻴﻴﻌﺗ ﻞﻳﺪﺒﺗ</MainTab_Assign.label>
+  
+  <!-- EN: Toggle historia tab -->
+  <MainTab_History.label>ﺔﻴﺨﻳﺭﺎﺘﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻞﻳﺪﺒﺗ</MainTab_History.label>
+  
+  <!-- EN: Toggle investigación tab -->
+  <MainTab_Research.label>ﺚﺤﺒﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻞﻳﺪﺒﺗ</MainTab_Research.label>
+  
+  <!-- EN: Toggle trabajo tab -->
+  <MainTab_Work.label>ﻞﻤﻌﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻞﻳﺪﺒﺗ</MainTab_Work.label>
+  
+  <!-- EN: Toggle mundo tab -->
+  <MainTab_World.label>ﻢﻟﺎﻌﻟﺍ ﺐﻳﻮﺒﺗ</MainTab_World.label>
+  
+</LanguageData>

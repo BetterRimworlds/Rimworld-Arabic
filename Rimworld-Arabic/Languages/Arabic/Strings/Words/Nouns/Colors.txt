@@ -1,0 +1,12 @@
+﻿// Solo colores simples, sin malva ni puce. Mantener género masculino.
+أصفر
+أزرق
+أبيض
+رمادي
+بني
+أرجواني
+أسود
+أصفر ترابي
+بنفسجي
+أحمر
+أخضر

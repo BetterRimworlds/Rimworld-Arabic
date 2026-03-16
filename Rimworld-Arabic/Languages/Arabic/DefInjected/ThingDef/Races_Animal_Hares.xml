@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>ﺐﻧﺭﺃ</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>. ﺮﻄﺨﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ ﺔﻋﺮﺴﺑ ﺰﻔﻘﻳ ﻥﺃ ﻝﺰﻌﻨﻤﻟﺍ ﺮﻴﻐﺼﻟﺍ ﺐﺷﺎﻌﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>ﺱﺃﺭ</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>ﺞﻠﺜﻟﺍ ﺐﻧﺭﺃ</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>. ﻞﻛﻸﻟ ﺔﺤﻟﺎﺼﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻠﻟ ﺞﻠﺜﻟﺍ ﻲﻓ ﺮﻔﺤﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻲﺳﺎﻘﻟﺍ ﻩﺩﻼﺑ ﺀﺎﺘﺷ ﻦﻣ ﻱﻮﻘﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻫ ﻮﺠﻨﻳ</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>ﺱﺃﺭ</Snowhare.tools.head.label>
+  
+</LanguageData>

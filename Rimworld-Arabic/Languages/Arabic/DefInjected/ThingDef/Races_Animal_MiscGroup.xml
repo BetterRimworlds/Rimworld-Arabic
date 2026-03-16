@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>ﺮﻴﻔﻴﺑﺎﻔﻟﺃ</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>. ﺖﺠﻋﺯُﺃ ﺎﻣ ﺍﺫﺇ ﻢﺟﺎﻬﺗ ﻥﺃ ﺢﺟﺮﻤﻟﺍ ﻦﻣﻭ ،ﺎﻬﻠﻤﻛﺄﺑ ﺭﺎﺠﺷﻷﺍ ﻞﻛﺃ ﻰﻠﻋ ﺎﻫﺮﺒﺠﺗ ﺝﺎﻴﻫ ﺔﻟﺎﺣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ ﻞﺧﺪﺗ ،ﺺﺼﺨﺘﻤﻟﺍ ﻒﻠﻌﻟﺍ ﺏﺎﻴﻏ ﻲﻓ. ﺔﻴﻟﺁ ﺓﺀﺎﻔﻜﺑ ﺏﺎﺸﺧﻷﺍ ﻲﻨﺠﻟ ﺍًﻴﺛﺍﺭﻭ ﺱﺪﻨﻫُﻣ ،ﺱﺪﻨﻘﻟﺍ ﻪﺒﺸﻳ ﺮﻴﺒﻛ ﻕﻮﻠﺨﻣ</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Alphabeaver.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Alphabeaver.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>ﺱﺃﺭ</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>. ﺔﻴﺤﻀﻟﺍ ﻲﻓ ﻡﺎﺴﻟﺍ ﻢﺴﻟﺍ ﻦﻘﺤﺗ ﺎﻬﺘﻏﺪﻟﻭ ،ﺕَﺮﻳِﺛُﺃ ﺍﺫﺇ ﺔﻳﺎﻐﻠﻟ ﺔﻴﻧﺍﻭﺪﻋ ﺍﺮﺑﻮﻜﻟﺍ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ. ﺓﺮﻴﺒﻛ ﺔﺳﺮﺘﻔﻣ ﻰﻌﻓﺃ</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>ﻰﻌﻓﻷﺍ ﻢﺤﻟ</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>ﻢﺴﻟﺍ ﺏﺎﻴﻧﺃ</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>ﺱﺃﺭ</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>ﻮﺒﻣﻭﺮﺛ</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>. ﺍًﻈﻫﺎﺑ ﺍًﺮﻌﺳ ﺐﻠﺠﻳ ﻞﺼﻨﻟﺎﻛ ﺩﺎﺤﻟﺍ ﻪﻧﺮﻗ. ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﻒﻠﺘﻠﻟ ﺍًﻀﻳﺃ ﻡﻭﺎﻘﻣ ﻩﺪﻠﺟ ﻥﺈﻓ ،ﺔﻳﺎﻐﻠﻟ ﻞﻴﻤﺟ ﻞﻳﻮﻄﻟﺍ ﻪﺋﺍﺮﻓ ﻥﺃ ﻦﻴﺣ ﻲﻓ. ﺐﻀﻐﻳ ﺎﻣﺪﻨﻋ ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ ﻪﻨﻜﻟ ،ﻪﻌﺒﻄﺑ ﻊﻳﺩﻭ ﻮﺒﻣﻭﺮﺜﻟﺍ. ﻝﻮﻬﺠﻣ ﻞﺻﺃ ﻭﺫ ﻖﻴﺷﺭﻭ ﻢﺨﺿ ﻕﻮﻠﺨﻣ\n\n. ﺙﺪﺤﺘﻟﺍ ﻡﺪﻋ ﺭﺎﺘﺨﻳ ﺔﻃﺎﺴﺒﺑ ﻪﻧﺇ - ﻥﻮﻜﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻣ ﻢﻜﺣﺃ ﻮﻫ ﺯﻮﺠﻌﻟﺍ ﻮﺒﻣﻭﺮﺜﻟﺍ ﻥﺃ ﺮﻴﻃﺎﺳﻷﺍ ﻝﻮﻘﺗ</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>ﻥﺮﻗ</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>ﻡﺪﻗ</Thrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>ﻡﺪﻗ</Thrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>ﺱﺃﺭ</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>ﺓﺎﻔﺤﻠﺳ</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>. ﺔﻟﻮﻄﻣ ﺔﻴﻟﺎﺘﻗ ﺕﺎﻛﺎﺒﺘﺷﺍ ﻝﻼﺧ ﺔﻤﻴﺴﺟ ﺍًﺭﺍﺮﺿﺃ ﺐﺒﺴﻳ ﻥﺃ ﻦﻜﻤﻳﻭ ﻞﺘﻘﻟﺍ ﺐﻌﺻ ﻪﻧﺈﻓ ،ﻲﻌﻴﺒﻄﻟﺍ ﻪﻋﺭﺪﻟ ﺍًﺮﻈﻧ. ﺊﺟﺎﻔﻣ ﻞﻜﺸﺑ ﺔﺳﺮﺸﻟﺍ ﻪﺘﻏﺪﻟﻭ ﺔﺌﻴﻄﺒﻟﺍ ﻪﺘﻋﺮﺴﺑ ﻑﻭﺮﻌﻣ ﺔﺴﺑﺎﻴﻟﺍ ﻰﻠﻋ ﺶﻴﻌﻳ ﻱﺬﻟﺍ ﺓﺪﺸﺑ ﻉﺭﺪﻤﻟﺍ ﻒﺣﺍﺰﻟﺍ ﺍﺬﻫ</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>ﺭﺎﻘﻨﻣ</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>ﺱﺃﺭ</Tortoise.tools.head.label>
+  
+</LanguageData>

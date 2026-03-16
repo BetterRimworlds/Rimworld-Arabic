@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient air conditioner -->
+  <AncientAirConditioner.label>ﻢﻳﺪﻗ ﺀﺍﻮﻫ ﻒﻴﻜﻣ</AncientAirConditioner.label>
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <AncientAirConditioner.description>. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺎﻬﻨﻣ ﺐﻬﻧُﻳ ﻢﻟ ﺎﻣ ﺃﺪﺻ ﺪﻗﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻫﺅﺍﺰﺟﺃ ﺖﻤﻄﺤﺗ. ﺔﻤﻳﺪﻗ ﻒﻴﻴﻜﺗ ﺔﻟﺁ</AncientAirConditioner.description>
+  
+  <!-- EN: ancient ruined APC -->
+  <AncientAPC.label>ﺓﺭﺎﻬﻨﻣ ﺔﻤﻳﺪﻗ ﺔﻋﺭﺪﻣ ﺔﺒﻛﺮﻣ</AncientAPC.label>
+  <!-- EN: The remains of an ancient armored troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientAPC.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺕﺭﻮﻫﺪﺗ ﻭﺃ ﺓﺪﻴﻔﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻊﻴﻤﺟ ﺖﺒﻫُﻧ. ﺎﻣ ﻞﻴﻘﺛ ﺡﻼﺴﺑ ﺕﺭّﻣُﺩ ﺔﻤﻳﺪﻗ ﺔﻋﺭﺪﻣ ﺩﻮﻨﺟ ﺔﻠﻣﺎﺣ ﺎﻳﺎﻘﺑ</AncientAPC.description>
+  
+  <!-- EN: ancient ATM -->
+  <AncientATM.label>ﻢﻳﺪﻗ ﻲﻟﺁ ﻑﺍﺮﺻ</AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientATM.description>. ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﺢﺒﺻﺃ ،ﺃﺪﺼﻣﻭ ﻢﻄﺤﻣ. ﻢﻳﺪﻗ ﻲﻟﺁ ﻑﺍﺮﺻ\n\n. ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ</AncientATM.description>
+  
+  <!-- EN: ancient dropship engine -->
+  <AncientDropshipEngine.label>ﺔﻤﻳﺪﻗ ﻁﻮﺒﻫ ﺔﻨﻴﻔﺳ ﻙﺮﺤﻣ</AncientDropshipEngine.label>
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientDropshipEngine.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﺖﺒﻫُﻧ ﺪﻗﻭ ،ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﺤﻟﺎﺻ ﺮﻴﻏﻭ ﺔﺋﺪﺻ ﺔﻘﻴﻗﺪﻟﺍ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻩﺅﺍﺰﺟﺃ. ﺔﻳﺮﻜﺴﻋ ﺩﻮﻨﺟ ﺔﻠﻗﺎﻧ ﻦﻋ ﻞﺼﻔﻧﺍ ﺎﻤﺑﺭ. ﺔﻤﻳﺪﻗ ﻝﺍﺰﻧﺇ ﺔﻨﻴﻔﺳ ﻙﺮﺤﻣ</AncientDropshipEngine.description>
+  
+  <!-- EN: ancient fence -->
+  <AncientFence.label>ﻢﻳﺪﻗ ﺝﺎﻴﺳ</AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <AncientFence.description>. ﺔﻴﻧﺎﺳﺮﺧ ﺡﺍﻮﻟﺄﺑ ﺔﻠﺼﺘﻣ ﺓﺯﺰﻌﻣ ﺔﻴﻧﺎﺳﺮﺧ ﺓﺪﻤﻋﺃ ﻦﻣ ﻉﻮﻨﺼﻣ ﻢﻳﺪﻗ ﺝﺎﻴﺳ</AncientFence.description>
+  
+  <!-- EN: ancient giant wheel -->
+  <AncientGiantWheel.label>ﺔﻤﻳﺪﻗ ﺔﻗﻼﻤﻋ ﺔﻠﺠﻋ</AncientGiantWheel.label>
+  <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
+  <AncientGiantWheel.description>. ﺃﺪﺼﻟﺎﺑ ﻞﻛﺂﺗﻭ ﻥﺪﻌﻤﻟﺍ ﻯﻮﻠﺗﻭ ﻁﺎﻄﻤﻟﺍ ﺖﺘﻔﺗ ﺪﻘﻟ. ﺔﻠﻳﻮﻃ ﺭﻮﺼﻋ ﺬﻨﻣ ﺓﺮﻴﺒﻛ ﺔﺒﻛﺮﻣ ﻦﻋ ﺖﻠﺼﻔﻧﺍ ﺔﻤﺨﺿ ﺔﻠﺠﻋ</AncientGiantWheel.description>
+  
+  <!-- EN: ancient hydrant -->
+  <AncientHydrant.label>ﻢﻳﺪﻗ ﻲﺋﺎﻣ ﺭﻮﺒﻨﺻ</AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientHydrant.description>. ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﻥﻵﺍ ﻮﻫﻭ ،ﺓﺪﺸﺑ ﻞﻛﺂﺘﻣ. ﻢﻳﺪﻗ ﻲﺋﺎﻣ ﺭﻮﺒﻨﺻ\n\n. ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ</AncientHydrant.description>
+  
+  <!-- EN: ancient jet engine -->
+  <AncientJetEngine.label>ﻢﻳﺪﻗ ﺙﺎﻔﻧ ﻙﺮﺤﻣ</AncientJetEngine.label>
+  <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <AncientJetEngine.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﺖﺒﻫُﻧ ﺪﻗﻭ ،ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﺖﺤﺒﺻﺃﻭ ﺕﺃﺪﺻ ﺔﻘﻴﻗﺪﻟﺍ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻩﺅﺍﺰﺟﺃ. ﺓﺮﻴﺒﻛ ﺓﺮﺋﺎﻃ ﻦﻋ ﻞﺼﻔﻧﺍ ﺎﻤﺑﺭ ،ﻢﻳﺪﻗ ﺙﺎﻔﻧ ﻙﺮﺤﻣ</AncientJetEngine.description>
+  
+  <!-- EN: ancient container -->
+  <AncientLargeContainer.label>ﻢﻳﺪﻗ ﺀﺎﻋﻭ</AncientLargeContainer.label>
+  <!-- EN: A shipping container from some ancient freight-carrying vehicle. It has long since deteriorated into uselessness. -->
+  <AncientLargeContainer.description>. ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﺖﺤﺒﺻﺃﻭ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﺕﺭﻮﻫﺪﺗ ﺪﻘﻟ. ﻊﺋﺎﻀﺒﻟﺍ ﻞﻘﻨﻟ ﺔﻤﻳﺪﻗ ﺔﺒﻛﺮﻣ ﻦﻣ ﻦﺤﺷ ﺔﻳﻭﺎﺣ</AncientLargeContainer.description>
+  
+  <!-- EN: ancient large crate -->
+  <AncientLargeCrate.label>ﺮﻴﺒﻛ ﻱﺮﺛﺃ ﻕﻭﺪﻨﺻ</AncientLargeCrate.label>
+  <!-- EN: A large crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLargeCrate.description>. ﻪﻴﻓ ﺀﻴﺷ ﻱﺃ ﻦﻳﺰﺨﺗ ﻊﻨﻤﻳ ﻩﺃﺪﺻ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺭﻮﺠﻬﻣ ﺮﻴﺒﻛ ﻕﻭﺪﻨﺻ</AncientLargeCrate.description>
+  
+  <!-- EN: ancient macro-engine block -->
+  <AncientLargeRustedEngineBlock.label>ﻢﺨﺿ ﻢﻳﺪﻗ ﻙﺮﺤﻣ ﺔﻠﺘﻛ</AncientLargeRustedEngineBlock.label>
+  <!-- EN: A large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
+  <AncientLargeRustedEngineBlock.description>. ﺎﻬﺗﺩﺎﻌﺘﺳﻻ ﺎﻬﺣﻼﺻﺇ ﻦﻜﻤﻳ ﻻ. ﺖﻟﺍﺯ ﺪﻗ ﺓﺪﻴﻔﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻊﻴﻤﺟﻭ ،ﻞﻣﺎﻜﻟﺎﺑ ﺃﺪﺻ ﺪﻘﻟ. ﺎﻣ ﻕﻼﻤﻋ ﺔﻗﺎﻃ ﺭﺪﺼﻣ ﻭﺃ ﺔﺒﻛﺮﻣ ﻦﻣ ﺔﻤﺨﺿ ﺔﻤﻳﺪﻗ ﻙﺮﺤﻣ ﺔﻠﺘﻛ</AncientLargeRustedEngineBlock.description>
+  
+  <!-- EN: ancient long crate -->
+  <AncientLongCrate.label>ﻞﻳﻮﻃ ﻢﻳﺪﻗ ﻕﻭﺪﻨﺻ</AncientLongCrate.label>
+  <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientLongCrate.description>. ﻪﻴﻓ ﺀﻴﺷ ﻱﺃ ﻦﻳﺰﺨﺗ ﻦﻜﻤﻳ ﻻ ﺚﻴﺤﺑ ﺓﺪﺸﺑ ﺃﺪﺻ ،ﺪﻴﻌﺑ ﻦﻣﺯ ﺬﻨﻣ ﻙﺭُﺗ ،ﻍﺭﺎﻓ ﻞﻳﻮﻃ ﻕﻭﺪﻨﺻ</AncientLongCrate.description>
+  
+  <!-- EN: ancient mega-cannon barrel -->
+  <AncientMegaCannonBarrel.label>ﻢﻳﺪﻗ ﻝﻮﻬﻣ ﻊﻓﺪﻣ ﺓﺭﻮﺳﺎﻣ</AncientMegaCannonBarrel.label>
+  <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
+  <AncientMegaCannonBarrel.description>. ﺪﻴﻔﻣ ﻥﻮﻜﻣ ﻞﻛ ﺐﻫُﻧ ﺪﻗﻭ ،ﺍًﻣﺎﻤﺗ ﺡﻼﺻﻹﺍ ﻕﺎﻄﻧ ﺝﺭﺎﺧ ﻮﻫ ،ﻥﻵﺍ. ﺐﻋﺮﻣ ﻞﻜﺸﺑ ﺍًﻳﻮﻗ ﻥﺎﻛ ﻪﻧﺃ ﺪﺑ ﻻ ،ﺍًﺪﻳﺪﺟ ﻥﺎﻛ ﺎﻣﺪﻨﻋ. ﻦﻔﺴﻠﻟ ﺓﺩﺎﻀﻤﻟﺍ ﺕﺎﻣﺍﺪﺨﺘﺳﻻﺍ ﻭﺃ ﺔﻴﻌﻓﺪﻤﻠﻟ ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻊﻓﺪﻣ ﻦﻣ ﻞﻴﻣﺮﺑ</AncientMegaCannonBarrel.description>
+  
+  <!-- EN: ancient mega-cannon platform -->
+  <AncientMegaCannonTripod.label>ﻢﻳﺪﻗ ﺎﺠﻴﻣ ﻊﻓﺪﻣ ﺔﺼﻨﻣ</AncientMegaCannonTripod.label>
+  <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
+  <AncientMegaCannonTripod.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺓﺪﻴﻔﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻞﻛ ﺖﻗﺭُﺳﻭ ،ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ﺖﻠﻄﻌﺗ ﺪﻘﻟ. ﻡﻮﻳ ﺕﺍﺫ ﺎﻣ ﺍًﻌﻓﺪﻣ ﻞﻤﺤﺗ ﺖﻧﺎﻛ ﺐﻴﻛﺮﺗ ﺔﺼﻨﻣ</AncientMegaCannonTripod.description>
+  
+  <!-- EN: ancient warsprinter remains -->
+  <AncientMiniWarwalkerRemains.label>ﺔﻤﻳﺪﻗ ﺏﻭﺮﺣ ﺔﻌﺑﺎﻃ ﺎﻳﺎﻘﺑ</AncientMiniWarwalkerRemains.label>
+  <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
+  <AncientMiniWarwalkerRemains.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺖﺒﻫُﻧ ﺎﻫﺮﻴﻣﺪﺗ ﺪﻨﻋ ﻒﻠﺘﺗ ﻢﻟ ﺀﺍﺰﺟﺃ ﻱﺃ. ﻢﺠﺤﻟﺍ ﺓﺮﻴﻐﺻ ﺔﻤﻳﺪﻗ ﺔﻴﺑﺮﺣ ﺓﺮﺋﺎﻄﻟ ﺔﻤﻄﺤﻣ ﺎﻳﺎﻘﺑ</AncientMiniWarwalkerRemains.description>
+  
+  <!-- EN: ancient pipeline section -->
+  <AncientPipelineSection.label>ﻢﻳﺪﻗ ﺏﻮﺒﻧﺃ ﺔﻌﻄﻗ</AncientPipelineSection.label>
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <AncientPipelineSection.description>. ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﺢﺒﺼﻴﻟ ﺭﻮﻫﺪﺗﻭ ﺐﻫُﻧ ﻥﻵﺍ. ﻲﺿﺎﻤﻟﺍ ﻲﻓ ﺔﻠﻳﻮﻃ ﺕﺎﻓﺎﺴﻤﻟ ًﺎﻤﻴﻗ ًﻼﺋﺎﺳ ﻞﻤﺤﻳ ﻥﺎﻛ. ﻢﻳﺪﻗ ﺐﻴﺑﺎﻧﺃ ﻂﺧ ﻦﻣ ﺀﺰﺟ</AncientPipelineSection.description>
+  
+  <!-- EN: ancient pipes -->
+  <AncientPipes.label>ﺔﻤﻳﺪﻗ ﺐﻴﺑﺎﻧﺃ</AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AncientPipes.description>. ﺎﻨﻫ ﻑﺎﻄﻤﻟﺍ ﺎﻬﺑ ﻰﻬﺘﻧﺍ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺔﻤﻳﺪﻘﻟﺍ ﺔﺋﺪﺼﻟﺍ ﺐﻴﺑﺎﻧﻷﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ</AncientPipes.description>
+  
+  <!-- EN: ancient pod car -->
+  <AncientPodCar.label>ﺔﻤﻳﺪﻗ ﺓﺭﺎﻴﺳ ﺔﻟﻮﺴﺒﻛ</AncientPodCar.label>
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <AncientPodCar.description>. ﺓﺪﺸﺑ ﺭﻮﻫﺪﺘﻣ ﻲﻗﺎﺒﻟﺍﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻤﻴﻘﻟﺍ ﺎﻫﺅﺍﺰﺟﺃ ﺖﺒﻫُﻧ. ﻲﻟﻵﺍ ﻥﺍﺮﻴﻄﻟﺍ ﻰﻠﻋ ﻡﻮﻳ ﺕﺍﺫ ﺓﺭﺩﺎﻗ ﺖﻧﺎﻛ ﺔﻤﻳﺪﻗ ﺔﻟﻮﺴﺒﻛ ﺓﺭﺎﻴﺳ</AncientPodCar.description>
+  
+  <!-- EN: ancient postbox -->
+  <AncientPostbox.label>ﻢﻳﺪﻗ ﺪﻳﺮﺑ ﻕﻭﺪﻨﺻ</AncientPostbox.label>
+  <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
+  <AncientPostbox.description>. ﻑﻭﺮﻌﻣ ﺮﻴﻏ ﺐﺒﺴﻟ ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺎﻨﻫ ﻰﻟﺇ ﻞﻗُﻧ ﻪﻧﺃ ﻭﺪﺒﻳ. ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﺢﺒﺻﺃ ﻰﺘﺣ ﺭﻮﻫﺪﺘﻣﻭ ﻢﻄﺤﻣ ،ﻢﻳﺪﻗ ﺪﻳﺮﺑ ﻕﻭﺪﻨﺻ</AncientPostbox.description>
+  
+  <!-- EN: ancient razor wire -->
+  <AncientRazorWire.label>ﻢﻳﺪﻗ ﻚﺋﺎﺷ ﻚﻠﺳ</AncientRazorWire.label>
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <AncientRazorWire.description>. ﺮﻄﺧ ﻱﺃ ﻞﻜﺸﺗ ﺪﻌﺗ ﻢﻟﻭ ﻦﻴﻨﺴﻟﺍ ﺮﻣ ﻰﻠﻋ ﺕﺭﻮﻫﺪﺗ. ﻢﻳﺪﻗ ﻚﺋﺎﺷ ﻚﻠﺳ ﻦﻣ ﺔﻌﻄﻗ</AncientRazorWire.description>
+  
+  <!-- EN: ancient car -->
+  <AncientRustedCar.label>ﺔﻤﻳﺪﻗ ﺓﺭﺎﻴﺳ</AncientRustedCar.label>
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedCar.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺐﻫُﻧ ﺃﺪﺼﻳ ﻢﻟ ﺎﻣ ﻞﻛ. ﺓﺭﻮﺴﻜﻣ ﺔﻤﻳﺪﻗ ﺓﺭﺎﻴﺳ</AncientRustedCar.description>
+  
+  <!-- EN: ancient car frame -->
+  <AncientRustedCarFrame.label>ﻢﻳﺪﻗ ﺓﺭﺎﻴﺳ ﻞﻜﻴﻫ</AncientRustedCarFrame.label>
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <AncientRustedCarFrame.description>. ﻰﺷﻼﺗ ﻰﺘﺣ ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺓﺭﺎﻴﺴﻟﺍ ﻞﻜﻴﻫ ﻞﻛﺂﺗ ﺪﻘﻟ. ﺉﺪﺻ ﻢﻳﺪﻗ ﺓﺭﺎﻴﺳ ﻞﻜﻴﻫ</AncientRustedCarFrame.description>
+  
+  <!-- EN: ancient dropship -->
+  <AncientRustedDropship.label>ﺔﻤﻳﺪﻗ ﻝﺍﺰﻧﺇ ﺔﺒﻛﺮﻣ</AncientRustedDropship.label>
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <AncientRustedDropship.description>. ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﺢﺒﺼﺘﻟ ﺕﺭﻮﻫﺪﺗ ﺀﺍﺰﺟﻷﺍ ﺔﻴﻘﺑﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﺖﺒﻫُﻧ. ﺔﻤﻳﺪﻗ ﻝﺍﺰﻧﺇ ﺔﻨﻴﻔﺳ ﺎﻳﺎﻘﺑ</AncientRustedDropship.description>
+  
+  <!-- EN: ancient engine block -->
+  <AncientRustedEngineBlock.label>ﺔﻤﻳﺪﻗ ﻙﺮﺤﻣ ﺔﻠﺘﻛ</AncientRustedEngineBlock.label>
+  <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
+  <AncientRustedEngineBlock.description>. ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﻭﺃ ﺎﻬﺣﻼﺻﺇ ﻦﻜﻤﻳ ﻻﻭ ،ﻞﻣﺎﻜﻟﺎﺑ ﺔﺋﺪﺻ ﺔﻤﻳﺪﻗ ﻙﺮﺤﻣ ﺔﻠﺘﻛ</AncientRustedEngineBlock.description>
+  
+  <!-- EN: ancient troop carrier -->
+  <AncientRustedJeep.label>ﺔﻤﻳﺪﻗ ﺩﻮﻨﺟ ﺔﻠﻣﺎﺣ</AncientRustedJeep.label>
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <AncientRustedJeep.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺃﺪﺼﻳ ﻢﻟ ﺎﻣ ﻞﻛ ﺐﻫُﻧ. ﺔﻜﻟﺎﻬﺘﻣﻭ ﺔﻤﻳﺪﻗ ﺩﻮﻨﺟ ﺔﻠﻣﺎﺣ</AncientRustedJeep.description>
+  
+  <!-- EN: ancient truck -->
+  <AncientRustedTruck.label>ﺔﻤﻳﺪﻗ ﺔﻨﺣﺎﺷ</AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AncientRustedTruck.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺐﻫُﻧ ﻭﺃ ﺃﺪﺻ ﻥﺃ ﺎﻣﺇ ﺍًﺪﻴﻔﻣ ﻥﺎﻛ ﺎﻣ ﻞﻛ. ﺓﺭﻮﺴﻜﻣ ﺔﻤﻳﺪﻗ ﺔﻨﺣﺎﺷ</AncientRustedTruck.description>
+  
+  <!-- EN: ancient nav beacon -->
+  <AncientShipBeacon.label>ﺔﻤﻳﺪﻗ ﺔﺣﻼﻣ ﺓﺭﺎﻨﻣ</AncientShipBeacon.label>
+  <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
+  <AncientShipBeacon.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺪﻴﻔﻣ ﻥﻮﻜﻣ ﻞﻛ ﺐﻫُﻧ. ﺔﻤﻄﺤﻣﻭ ﺔﻤﻳﺪﻗ ﺔﻨﻴﻔﺳ ﺔﺣﻼﻣ ﺓﺭﺎﻨﻣ</AncientShipBeacon.description>
+  
+  <!-- EN: ancient shopping cart -->
+  <AncientShoppingCart.label>ﺔﻤﻳﺪﻗ ﻕﻮﺴﺗ ﺔﺑﺮﻋ</AncientShoppingCart.label>
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <AncientShoppingCart.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻨﻳﺰﺣ ﺎﻤﺑﺭﻭ ﺔﻠﻳﻮﻃ ﺔﺼﻘﻟﺍ ﻦﻜﻟ ،ﺰﻐﻟ ﻂﺒﻀﻟﺎﺑ ﺎﻨﻫ ﻰﻟﺇ ﺖﻠﺻﻭ ﻒﻴﻛ. ﺔﺋﺪﺻﻭ ﺔﻤﻳﺪﻗ ﻕﻮﺴﺗ ﺔﺑﺮﻋ</AncientShoppingCart.description>
+  
+  <!-- EN: ancient small crate -->
+  <AncientSmallCrate.label>ﻢﻳﺪﻗ ﺮﻴﻐﺻ ﻕﻭﺪﻨﺻ</AncientSmallCrate.label>
+  <!-- EN: A small, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <AncientSmallCrate.description>. ﻪﻴﻓ ﺀﻴﺷ ﻱﺃ ﻦﻳﺰﺨﺗ ﻦﻜﻤﻳ ﻻ ﺚﻴﺤﺑ ﺓﺪﺸﺑ ﺃﺪﺻ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﻙﺭُﺗ ،ﻍﺭﺎﻓ ﺮﻴﻐﺻ ﻕﻭﺪﻨﺻ</AncientSmallCrate.description>
+  
+  <!-- EN: ancient ruined tank -->
+  <AncientTank.label>ﺔﻣﺪﻬﻣ ﺔﻳﺮﺛﺃ ﺔﺑﺎﺑﺩ</AncientTank.label>
+  <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientTank.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺕﺭﻮﻫﺪﺗ ﻭﺃ ﺓﺪﻴﻔﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻊﻴﻤﺟ ﺖﺒﻫُﻧ. ﺎﻣ ﻉﻮﻧ ﻦﻣ ﻞﻴﻘﺛ ﺡﻼﺴﺑ ﺕﺭّﻣُﺩ ﺔﻤﻳﺪﻗ ﺔﺑﺎﺑﺩ ﺎﻳﺎﻘﺑ</AncientTank.description>
+  
+  <!-- EN: ancient tank trap -->
+  <AncientTankTrap.label>ﻢﻳﺪﻗ ﺕﺎﺑﺎﺑﺩ ﺦﻓ</AncientTankTrap.label>
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <AncientTankTrap.description>. ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ﺭﻮﻫﺪﺗ ﺪﻗﻭ ،ﺕﺎﺒﻛﺮﻤﻟﺍ ﻑﺎﻘﻳﻹ ﻲﻋﺎﻓﺩ ﻦﻴﺼﺤﺗ</AncientTankTrap.description>
+  
+  <!-- EN: ancient toilet -->
+  <AncientToilet.label>ﻢﻳﺪﻗ ﺽﺎﺣﺮﻣ</AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now. -->
+  <AncientToilet.description>. ﻥﻵﺍ ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﻮﻫﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﻢﻄﺤﺗ. ﻢﻳﺪﻗ ﺽﺎﺣﺮﻣ</AncientToilet.description>
+  
+  <!-- EN: ancient vending machine -->
+  <AncientVendingMachine.label>ﺔﻳﺮﺛﺃ ﻊﻴﺑ ﺔﻟﺁ</AncientVendingMachine.label>
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <AncientVendingMachine.description>. ﺰﻐﻟ ﺎﻨﻫ ﻑﺎﻄﻤﻟﺍ ﺎﻬﺑ ﻰﻬﺘﻧﺍ ﻒﻴﻛ. ﺍًﺪﻴﻔﻣ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﺀﺰﺟ ﻞﻛ ﺍﻭﺬﺧﺃﻭ ﻦﻴﺑﺎﻬﻨﻟﺍ ﻦﻣ ﻝﺎﻴﺟﺃ ﺎﻬﺘﻗﺮﺳﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺎﻫﺮﻴﻣﺪﺗ ﻢﺗ. ﺔﻤﻳﺪﻗ ﻊﻴﺑ ﺔﻟﺁ</AncientVendingMachine.description>
+  
+  <!-- EN: ancient warspider remains -->
+  <AncientWarspiderRemains.label>ﻢﻳﺪﻗ ﺏﺮﺣ ﺕﻮﺒﻜﻨﻋ ﺎﻳﺎﻘﺑ</AncientWarspiderRemains.label>
+  <!-- EN: The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot. -->
+  <AncientWarspiderRemains.description>. ﻢﺋﺎﻨﻐﻠﻟ ﺔﻤﻴﻗ ﻱﺫ ﺀﻴﺷ ﻖﺒﺘﻳ ﻢﻟﻭ ،ﺓﺪﻳﺪﻋ ﺕﺍﺮﻣ ﺐﻫُﻧ. ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ ﻢﻳﺪﻗ ﺏﺮﺣ ﺕﻮﺒﻜﻨﻌﻟ ﺓﺮﻣﺪﻣ ﺎﻳﺎﻘﺑ</AncientWarspiderRemains.description>
+  
+  <!-- EN: ancient warwalker claw -->
+  <AncientWarwalkerClaw.label>ﻢﻳﺪﻗ ﺏﺮﺣ ﻝﻮﺠﺘﻣ ﺐﻠﺨﻣ</AncientWarwalkerClaw.label>
+  <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
+  <AncientWarwalkerClaw.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻨﻴﻤﺜﻟﺍ ﻩُﺗﺎﻧﻮﻜﻣ ﺖﺒﻫُﻧ. ﺔﺒﻳﺮﻗ ﺔﻓﺎﺴﻣ ﻦﻣ ﻞﻴﻘﺜﻟﺍ ﻞﻴﺘﺳﻼﺒﻟﺍ ﻉﺭﺩ ﻖﻳﺰﻤﺗ ﻲﻓ ﺍًﺼﺼﺨﺘﻣ ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻥﺎﻛ. ﻢﺠﺤﻟﺍ ﺔﻄﺳﻮﺘﻣ ﺔﻤﻳﺪﻗ ﺏﺮﺣ ﺓﺎﺸﻤﺑ ﺹﺎﺨﻟﺍ ﻡﻮﺠﻬﻟﺍ ﺐﻠﺨﻣ</AncientWarwalkerClaw.description>
+  
+  <!-- EN: ancient warwalker foot -->
+  <AncientWarwalkerFoot.label>ﻢﻳﺪﻗ ﺏﻭﺮﺣ ﺮﺑﺎﻋ ﻡﺪﻗ</AncientWarwalkerFoot.label>
+  <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <AncientWarwalkerFoot.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺕﺭﻮﻫﺪﺗ ﻭﺃ ﺓﺪﻴﻔﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻊﻴﻤﺟ ﺖﺒﻫُﻧ. ﻞﻴﻘﺛ ﺡﻼﺴﺑ ﺎﻬﺒﺣﺎﺻ ﻦﻋ ﺖﻠﺼﻔﻧﺍ ﺎﻬﻧﺃ ﻭﺪﺒﻳ. ﺔﻤﻳﺪﻗ ﺔﻴﺑﺮﺣ ﺓﺎﺸﻣ ﺔﻟﺁ ﻦﻣ ﺔﻤﺨﺿ ﻡﺪﻗ</AncientWarwalkerFoot.description>
+  
+  <!-- EN: ancient warwalker leg -->
+  <AncientWarwalkerLeg.label>ﻢﻳﺪﻘﻟﺍ ﻲﺸﻤﻟﺍ ﻞﺟﺍﺭ ﻕﺎﺳ</AncientWarwalkerLeg.label>
+  <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
+  <AncientWarwalkerLeg.description>. ﺔﻴﻘﺒﺘﻣ ﺔﻤﻴﻗ ﺕﺎﻧﻮﻜﻣ ﻱﺃ ﻙﺎﻨﻫ ﺪﻌﺗ ﻢﻟﻭ ،ﻦﻴﺑﺎﻬﻨﻟﺍ ﻞﺒﻗ ﻦﻣ ﻞﻣﺎﻜﻟﺎﺑ ﺎﻬﻐﻳﺮﻔﺗ ﻢﺗ ﺪﻗﻭ. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺎﻨﻫ ﺖﻄﻘﺳ ﻢﺠﺤﻟﺍ ﺔﻄﺳﻮﺘﻣ ﺔﻴﺑﺮﺣ ﺔﺒﻛﺮﻤﻟ ﺔﻤﻄﺤﻣ ﻕﺎﺳ</AncientWarwalkerLeg.description>
+  
+  <!-- EN: ancient warwalker shell -->
+  <AncientWarwalkerShell.label>ﻢﻳﺪﻗ ﺏﺮﺣ ﺮﻴﺴﻣ ﻞﻜﻴﻫ</AncientWarwalkerShell.label>
+  <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
+  <AncientWarwalkerShell.description>. ﺓﺪﺸﺑ ﺭﻮﻫﺪﺘﻣ ﻲﻗﺎﺒﻟﺍﻭ ،ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﻊﻴﻤﺟ ﺖﺒﻫُﻧ. ﻞﺋﺎﻫ ﺔﺤﻠﺳﺃ ﻡﺎﻈﻧ ﻞﻌﻔﺑ ﻉﺯُﻧ ﻪﻧﺃ ﻭﺪﺒﻳ. ﺔﻴﺑﺮﺣ ﺔﺒﻛﺮﻤﻟ ﻲﺟﺭﺎﺨﻟﺍ ﻉﺭﺪﻟﺍ ﻢﻈﻌﻣ</AncientWarwalkerShell.description>
+  
+  <!-- EN: ancient warwalker torso -->
+  <AncientWarwalkerTorso.label>ﻢﻳﺪﻗ ﺏﺮﺣ ﺮﻴﺴﻣ ﻉﺬﺟ</AncientWarwalkerTorso.label>
+  <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
+  <AncientWarwalkerTorso.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﺖﺒﻫُﻧ. ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻲﻓ ﺎﻨﻫ ﺖﻄﻘﺳ ﻢﺠﺤﻟﺍ ﺔﻄﺳﻮﺘﻣ ﺔﻴﺑﺮﺣ ﺓﺎﺸﻣ ﺔﻟﺁ ﻉﺬﺟ</AncientWarwalkerTorso.description>
+  
+  <!-- EN: ancient washing machine -->
+  <AncientWashingMachine.label>ﺔﻤﻳﺪﻗ ﺔﻟﺎﺴﻏ</AncientWashingMachine.label>
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientWashingMachine.description>. ﻥﻵﺍ ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﺢﺒﺻﺃ ،ﺃﺪﺼﻣﻭ ﻢﻄﺤﻣ. ﺕﺎﺟﻮﺴﻨﻤﻟﺍ ﻞﺴﻐﻟ ﻡﺪﺨﺘﺳُﻳ ﻢﻳﺪﻗ ﺯﺎﻬﺟ\n\n. ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ</AncientWashingMachine.description>
+  
+  <!-- EN: ancient wheel -->
+  <AncientWheel.label>ﺔﻤﻳﺪﻗ ﺔﻠﺠﻋ</AncientWheel.label>
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <AncientWheel.description>. ﺃﺪﺼﻟﺎﺑ ﻞﻛﺂﺗﻭ ﻥﺪﻌﻤﻟﺍ ﻯﻮﻠﺗﻭ ﻁﺎﻄﻤﻟﺍ ﺖﺘﻔﺗ ﺪﻘﻟ ،ﺕﺎﺒﻛﺮﻤﻟﺍ ﻦﻣ ﻉﻮﻧ ﻦﻣ ﺔﻤﻳﺪﻗ ﺔﻠﺠﻋ</AncientWheel.description>
+  
+  <!-- EN: mechanoid slag chunk -->
+  <ChunkMechanoidSlag.label>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺚﺒﺧ ﺔﻠﺘﻛ</ChunkMechanoidSlag.label>
+  <!-- EN: The remains of a smashed mechanoid. While useless in its current form, it can be smelted to recover steel. -->
+  <ChunkMechanoidSlag.description>. ﺫﻻﻮﻔﻟﺍ ﺓﺩﺎﻌﺘﺳﻻ ﻩﺮﻬﺻ ﻦﻜﻤﻳ ،ﺔﻴﻟﺎﺤﻟﺍ ﻪﺗﺭﻮﺻ ﻲﻓ ﻪﺗﺪﺋﺎﻓ ﻡﺪﻋ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻢﻄﺤﻣ ﺪﻳﻮﻧﺎﻜﻴﻣ ﺎﻳﺎﻘﺑ</ChunkMechanoidSlag.description>
+  
+</LanguageData>

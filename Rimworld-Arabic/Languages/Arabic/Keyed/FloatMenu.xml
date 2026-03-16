@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>{0} ـﺏ ﻞﺼﺗﺍ</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>{0}: ﺝﺮﺣ ﺮﻄﺧ</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>ﺔﻴﺋﻮﺿﻭﺮﻬﻛ ﻞﻴﻄﻌﺗ ﺔﻀﺒﻧ</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>. ﺔﻗﺎﻃ ﻻ</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>. ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>ﺯﻮﺠﺤﻣ</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>ﻞﻤﺘﻜﻣ ﺮﻴﻏ</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>. ﺡﺎﺘﻣ ﺮﻴﻏ {1_labelShort} ﺪﺋﺎﻘﻟﺍ</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>. ﺡﺎﺘﻣ ﺮﻴﻏ ﻢﻴﻋﺰﻟﺍ</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>ﺡﻮﻤﺴﻣ ﺮﻴﻏ</NotAllowed>
+  
+  <!-- EN: Attack {1_labelShort} -->
+  <Attack>{1_labelShort} ﻡﻮﺠﻫ</Attack>
+  <!-- EN: Fire at {1_labelShort} -->
+  <FireAt>{1_labelShort} ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ</FireAt>
+  <!-- EN: Remove -->
+  <Remove>ﺔﻟﺍﺯﺇ</Remove>
+
+  <!-- EN: out of range -->
+  <OutOfRange>ﻕﺎﻄﻨﻟﺍ ﺝﺭﺎﺧ</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>ًﺍﺪﺟ ﺐﻳﺮﻗ</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>. ﻑﺪﻬﻟﺍ ﺔﺑﺎﺻﺇ ﻦﻜﻤﻳ ﻻ</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>. ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ {1_labelShort}</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>. ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ {0_labelShort}</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>. ﺪﻨﺠﻣ ﺮﻴﻏ {1_labelShort}</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>. ﺎﻬﺑ ﻢﻜﺤﺘﺗ ﻻ ﺕﺎﻴﺼﺨﺸﻟ ﺮﻣﺍﻭﺃ ﺭﺍﺪﺻﺇ ﻦﻜﻤﻳ ﻻ</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>. ﻡﻮﺠﻬﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotAttack>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>. ﺕﺍﺬﻟﺍ ﻰﻠﻋ ﻡﻮﺠﻬﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>. ﻞﻴﺼﻔﻟﺍ ﻒﻴﻠﺣ ﺔﻤﺟﺎﻬﻣ ﻦﻜﻤﻳ ﻻ</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>. ﻖﺋﺍﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>{1_labelShort} ﻝُﺟَﺭ</OrderManThing>
+  
+  <!-- EN: Melee attack {1_labelShort} -->
+  <MeleeAttack>{1_labelShort} ﻙﺎﺒﺘﺷﺍ ﻡﻮﺠﻫ</MeleeAttack>
+  <!-- EN: Melee attack {1_labelShort} to death -->
+  <MeleeAttackToDeath>{1_labelShort} ـﻝ ﺖﻴﻤﻣ ﻙﺎﺒﺘﺷﺍ ﻡﻮﺠﻫ</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>ﺭﺎﺴﻣ ﻻ</NoPath>
+  <!-- EN: burying -->
+  <Burying>ﻦﻓﺩ</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>{0} ـﻝ ﺹَّﺼﺧُﻣ</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>. ﻉﻮﻨﻤﻣ</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ ﺔﻘﻄﻨﻣ</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>. ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺝﺭﺎﺧ</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>ﻕﺍﺮﺘﺣﺍ</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>. ﻪﻨﻳﺰﺨﺘﻟ ﺡﺎﺘﻣﻭ ﻍﺭﺎﻓ ﻥﺎﻜﻣ ﺪﺟﻮﻳ ﻻ</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>. ﺞﻣﺪﻠﻟ ﺡﺎﺘﻣ ﻥﻭﺰﺨﻣ ﺪﺟﻮﻳ ﻻ</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺊﻠﺘﻤﻣ</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>{0} ﺩﻮﻘﻔﻣ</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>'.{CATEGORY} 'ﺪﻴﻴﻘﺘﻠﻟ ﺀﺍﻭﺩ ﻻ</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>{0} ﺔﺑﻮﻠﻄﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﺖﺤﺗ</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>{0} ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﺖﺤﺗ</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>{0} ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻕﻮﻓ</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>. ﻝﻮﺻﻮﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻴﺟﺭﺎﺧ ﺔﻴﻠﺧ ﺪﺟﻮﺗ ﻻ</NoReachableOutsideCell>
+  <!-- EN: cannot exit map -->
+  <CannotExitMap>ﺔﻄﻳﺮﺨﻟﺍ ﺓﺭﺩﺎﻐﻣ ﻦﻜﻤﻳ ﻻ</CannotExitMap>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>. ﺩﻮﻘﻔﻣ ﺏﻮﻠﻄﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>. ﺍًﺪﺟ ﺍًﺮﺧﺆﻣ ﻥﺍﻮﻴﺤﻟﺍ ﻞﻋﺎﻔﺗ</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>. ﺍًﺪﺟ ﺍًﺮﺧﺆﻣ ﺎﻬﻌﻣ/ﻪﻌﻣ ﺖﻠﻋﺎﻔﺗ/ﻞﻋﺎﻔﺗ</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>ﻝﺎﻤﻌﺘﺳﻼﻟ ﺢﻟﺎﺻ ﻡﺎﻌﻃ ﺪﺟﻮﻳ ﻻ</NoUsableFood>
+  <!-- EN: not enough food -->
+  <NoFood>ﻡﺎﻌﻄﻠﻟ ٍﻑﺎﻛ ﺮﻴﻏ</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>. ﻡﺎﻌﻄﻟﺍ ﺔﻘﺑﺎﻄﻣ ﻰﻠﻋ ﺩﻮﻴﻗ ﻻ</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>{0_label} ﺪﺟﻮﻳ ﻻ</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>{0} ﻦﻣ ﻞﻗﺃ ﺕﺎﺒﻠﻄﺘﻣ</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>{0} ﻰﻟﺇ ﺝﺎﺘﺤﺗ - ﺍًﺪﺟ ﺔﻀﻔﺨﻨﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺭﺎﻬﻣ</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>ﻂﻘﺳُﻣ ﻥﺍﻮﻴﺣ</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>ﻥﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>ﻝﻮﻐﺸﻣ ﻥﺍﻮﻴﺣ</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>. ﻝﻮﺻﻮﻟﺍ ﻕﺎﻄﻧ ﻲﻓ ﺔﺣﺎﺘﻣ ﻡﻼﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>ﺓﺭﻮﺼﺤﻣ ﻡﻼﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>. ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﻡﻼﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>. ﺔﺣﺎﺘﻣ ﻡﻼﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>ﺲﻣُﻳ ﻻ</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>. ﻢﻠﻘﻠﻟ ﻥﺎﻜﻣ ﺪﺟﻮﻳ ﻻ</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{1} ﺔﻟﺎﺣ ﻲﻓ {0_labelShort}</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>: ﺔﻤﺳﺎﺣ ﺪﻋﺍﻮﻗ\nﻦﻴﺳﻮﻗ ﻦﻴﺑ ﺕﺎﻘﻴﻠﻌﺗ ﻭﺃ ،ﺕﺎﻈﺣﻼﻣ ،ﺕﺍﺮﻴﺴﻔﺗ ﻻ-\nﻞﺋﺍﺪﺑ ﻻ - ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺔﻤﺟﺮﺗ-</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>ﺍًﺪﺟ ﺔﻀﻔﺨﻨﻣ {0} ﺓﺭﺎﻬﻣ</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>ﺕﺎﻧﻮﻜﻣ ﺝﺎﺘﺤﺗ</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>{0} ﻰﻟﺇ ﺔﺟﺎﺤﺑ</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>ﺕﺭﻭﻭ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>. ﻰﻠﻋﺃ ﺔﻳﻮﻟﻭﺃ ﻱﺫ ﻥﺰﺨﻣ ﻲﻓ ﺩﻮﺟﻮﻣ ﺡﺎﺘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﻻ</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>ﻞﻄﻌﻣ ﻲﺗﺍﺫ ﺝﻼﻋ</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>ﺀﺎﻨﺠﺴﻠﻟ ﺯﻮﺠﺤﻣ</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>. ﺔﺣﺍﺮﺠﻠﻟ ﺪﻌﺘﺴﻣ ﺮﻴﻏ</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>ﺓﺭﺎﻬﻤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>ﺍًﺪﺟ ﻊﻃﺎﺳ</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>ﻑﻮﺸﻜﻣ</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>ﻚﻔﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>ﻦﻳﺪﻌﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>ﺝﺍﺮﺨﺘﺳﻼﻟ ﺔﻣَّﻠﻋُﻣ ﺓﺮﺠﺷ</TreeMarkedForExtraction>
+  <!-- EN: angers faction -->
+  <AngersFaction>ﻞﻴﺼﻔﻟﺍ ﺐﻀﻏُﻳ</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﻻ</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>ًﺍﺮﻤﻌﺘﺴﻣ ﺲﻴﻟ</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>ﻞﻌﻔﻟﺎﺑ ٌﺕَّﺑَﺛُﻣ</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>. ﺍًﺩﻮﺟﻮﻣ {0} ﺐﻠﻄﺘﻳ</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>ﻯﻮﺘﺴﻣ ﻰﺼﻗﺃ</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>{0} ﻰﻧﺩﺃ ﻯﻮﺘﺴﻣ ﺐﻠﻄﺘﻳ</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>ﺍًﻴﺴﻔﻧ ﻢﺻﺃ</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>{1} ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ {0} ِﻖﺗﺭﺍ</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>ﻞﻴﺼﻔﻟﺍ ﻒﻴﻠﺣ ﻙﺎﻬﺘﻧﺍ</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>{0_labelShort} ﺔﻄﺳﺍﻮﺑ ﻞﻤﺣُﻳ</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>ﻞﻣﺎﻛ</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>ﻞﻌﻔﻟﺎﺑ ﻥَّﻴﻋُﻣ</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>{1_labelShort} ﻙﻼﻬﺘﺳﺍ</ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>. ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ: ﺎﻨﻫ ﻰﻟﺇ ﺏﺎﻫﺬﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>ﺎﻨﻫ ﻰﻟﺇ ﺐﻫﺫﺍ</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>{0} ﻑّﻈﻧ</CleanRoom>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>{0} ﻝﺎﻘﺘﻋﺍ</Arrest>
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
+  <TryToArrest>){2} ﻝﺎﻤﺘﺣﺍ ({1_labelShort} ﻝﺎﻘﺘﻋﺍ ﻝﻭﺎﺣ</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>ﻝﺎﻘﺘﻋﻻﺍ ﻦﻜﻤﻳ ﻻ</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>ﻝﺎﻘﺘﻋﻼﻟ {0} ﺔﺻﺮﻓ</ArrestChance>
+
+  <!-- EN: Capture {1_labelShort} -->
+  <Capture>{1_labelShort} ﻁﺎﻘﺘﻟﺍ</Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>{0_labelShort} ﻁﺎﻘﺘﻟﺍ</CaptureLower>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>ﻁﺎﻘﺘﻟﻻﺍ ﻦﻜﻤﻳ ﻻ</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>ﺓﺩﺍﻮﻫ ﻼﺑ ﺺﻠﺨﻣ</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>ﺪﻴﻨﺠﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>{0_label} ﻞﻘﻧ</TransferEntity> 
+
+  <!-- EN: Rescue {1_labelShort} -->
+  <Rescue>{1_labelShort} ﺫﺎﻘﻧﺇ</Rescue>
+  <!-- EN: Put {1_labelShort} somewhere safe -->
+  <PutSomewhereSafe>. ﻦﻣﺁ ﻥﺎﻜﻣ ﻲﻓ {1_labelShort} ﻊﺿ</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>. ﺵﺍﺮﻔﻟﺍ ﻰﻟﺇ {0_labelShort} ﺬﺧﺃ</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>ﺫﺎﻘﻧﻹﺍ ﻦﻜﻤﻳ ﻻ</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN_labelShort} -->
+  <CannotRescuePawn>{PAWN_labelShort} ﺫﺎﻘﻧﺇ ﻦﻜﻤﻳ ﻻ</CannotRescuePawn>
+
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ {1_labelShort} ﻲﻠﻤﺣﺍ/ﻞﻤﺣﺍ</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ ﻞﻤﺣ ﻦﻜﻤﻳ ﻻ</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_labelShort} to shuttle -->
+  <CarryToShuttle>ﻙﻮﻜﻤﻟﺍ ﻰﻟﺇ {0_labelShort} ﻞﻤﺣﺍ</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﺪﺟﻮﻳ ﻻ</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>. ﻞﺋﺎﺼﻔﻟﺍ ﻲﻓ ﻦﻴﺘﻗﺆﻤﻟﺍ ﺀﺎﻀﻋﻷﺎﺑ ﺢﻤﺳُﻳ ﻻ</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>. ﺀﺎﻨﺠﺴﻟﺍ ﺔﻓﺎﻀﺘﺳﺎﺑ ﺢﻤﺳُﻳ ﻻ</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>. ﻞﻌﻔﻟﺎﺑ ﻝﻮﻐﺸﻣ</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>. ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻲﻓﻭ ،ﺀﺎﻨﺠﺴﻟﺎﺑ ﺹﺎﺧ ﻪﻧﺄﺑ ﻡّﻠﻋُﻣﻭ ،ﻪﻴﻓ ﻡﻮﻨﻠﻟ ﺡﺎﺘﻣ ﻭﺃ ﺯﻮﺠﺤﻣ ﺮﻳﺮﺳ ﺪﺟﻮﻳ ﻻ</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>. ﺡﺎﺘﻣ ﺮﻴﺳﻸﻟ ﺮﻳﺮﺳ ﺪﺟﻮﻳ ﻻ</NoPrisonerBedShort>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>. ﻯﺮﺳﻷﺍ ﺮﻴﻐﻟ ﺯﻮﺠﺤﻣ ﺮﻴﻏﻭ ﺡﺎﺘﻣ ﺔﺒﺳﺎﻨﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻲﻓ ﻦﻣﺁ ﺮﻳﺮﺳ ﺪﺟﻮﻳ ﻻ</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>. ﺔﺒﺳﺎﻨﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺪﺑﻭ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻠﻟ ﻞﺑﺎﻗﻭ ﻦﻣﺁ ﻕﺎﻄﻧ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺣ ﺮﻳﺮﺳ ﻻ</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>{0} ﺯﻮﺠﺤﻣ ﺮﻴﻏ ،ﺭﻮﻈﺤﻣ ﺮﻴﻏ ،ﻝﻭﺎﻨﺘﻤﻟﺍ ﻲﻓ ﻥﺎﻜﻣ ﺪﺟﻮﻳ ﻻ</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>{0} ﺯﻮﺠﺤﻣ ﺮﻴﻏ ،ﺭﻮﻈﺤﻣ ﺪﺟﻮﻳ ﻻ</NoItemReserved>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>. ﺮﺧﺁ ﺺﺨﺷ ﻞﺒﻗ ﻦﻣ ﺯﻮﺠﺤﻣ</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>{1_labelShort} ﺔﻄﺳﺍﻮﺑ ﺯﻮﺠﺤﻣ</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>.{1} ﺔﻄﺳﺍﻮﺑ ﺯﻮﺠﺤﻣ {0}</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>ًﺍﺪﺟ ﻞﻴﻘﺛ</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>. ﻞﻴﺼﻔﻟﺍ ﺲﻔﻧ ﻲﻓ {0_labelShort}</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>ﺭﺩﺎﻗ ﺮﻴﻏ</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>{0} ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>{0_label} ﻪﻳﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>ﺎﻴﻧﺩ ﺓﺭﺎﻬﻣ</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>{0} ﺯّﻬﺟ</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>)ٍﺽﺍﺭ ﺮﻴﻏ ﻥﻮﻜﻴﺳ ﺮﺟﺎﺸﻤﻟﺍ(</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>{0} ﺰﻴﻬﺠﺗ ﻦﻜﻤﻳ ﻻ</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>{1_labelShort} ﻞﻴﻐﺸﺗ ﻦﻜﻤﻳ ﻻ</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>{1_labelShort} ـﻝ ﻱﺭﺎﺒﺟﺇ ﺀﺍﺪﺗﺭﺍ</ForceWear>
+  <!-- EN: Force target to wear {1_labelShort}... -->
+  <ForceTargetToWear>…{1_labelShort} ﺀﺍﺪﺗﺭﺍ ﻰﻠﻋ ﻑﺪﻬﻟﺍ ﺭﺎﺒﺟﺇ</ForceTargetToWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>{1_label} ﺀﺍﺪﺗﺭﺍ ﻦﻜﻤﻳ ﻻ</CannotWear>
+  <!-- EN: Cannot force target to wear {1_label} -->
+  <CannotForceTargetToWear>{1_label} ﺀﺍﺪﺗﺭﺍ ﻰﻠﻋ ﻑﺪﻬﻟﺍ ﺭﺎﺒﺟﺇ ﻦﻜﻤﻳ ﻻ</CannotForceTargetToWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>{1_labelShort} ـﻝ ﻱﺭﺎﺒﺟﺇ ﺰﻴﻬﺠﺗ</ForceEquipApparel>
+  <!-- EN: Force target to equip {1_labelShort}... -->
+  <ForceTargetToEquipApparel>…{1_labelShort} ﺰﻴﻬﺠﺗ ﻰﻠﻋ ﻑﺪﻬﻟﺍ ﺭﺎﺒﺟﺇ</ForceTargetToEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>{1_label} ﺰﻴﻬﺠﺗ ﻦﻜﻤﻳ ﻻ</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1_label} -->
+  <CannotForceTargetToEquipApparel>{1_label} ﺰﻴﻬﺠﺗ ﻰﻠﻋ ﻑﺪﻬﻟﺍ ﺭﺎﺒﺟﺇ ﻦﻜﻤﻳ ﻻ</CannotForceTargetToEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>ﺓﺩﻮﻘﻔﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>{AMMO_label} ـﺏ {GEAR_labelShort} ﺔﺌﺒﻌﺗ ﺪﻋﺃ</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>ﺊﻠﺘﻤﻣ</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>ًﺍﺪﺟ ﻞﻴﻠﻗ</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>. ﺓﺪﺣﺍﻭ ﺔﻨﺤﺷ ﺔﺌﺒﻌﺗ ﺓﺩﺎﻋﻹ {AMMO_label} ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻞﻤﺣ ﻦﻜﻤﻳ ﻻ</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>{1_labelShort} ﻁﺎﻘﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>)ﻞﻜﻟﺍ ({1_label} ﻁﺎﻘﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>1× {1_labelShort} ﻂﻘﺘﻟﺍ</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>)ﻞﻜﻟﺍ ({1_label} ﻁﺎﻘﺘﻟﺍ</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>…{1_labelShort} ﻁﺎﻘﺘﻟﺍ</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>{{0}}× {1_labelShort} ﻂﻘﺘﻟﺍ</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>{1_labelShort} ﻁﺎﻘﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>ﺡﻮﻤﺴﻣ {1} {0}</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>. ﻞﻣﺎﺤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ {1_label} ﻞﻴﻤﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>. ﻞﻣﺎﺤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ) ﻞﻜﻟﺍ ({1_label} ﻞﻴﻤﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>. ﻞﻤﺣ ﻥﺍﻮﻴﺣ ﻰﻠﻋ {1_label} ﻝِّﻣَﺣ</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>. ﻞﻣﺎﺤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ) ﺎﻬﻠﻛ ({1_label} ﻝِّﻣَﺣ</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>…ﻞﻤﺣ ﻥﺍﻮﻴﺣ ﻰﻠﻋ {1_labelShort} ﻞﻴﻤﺤﺗ</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>. ﻞﻤﺤﻟﺍ ﻥﺍﻮﻴﺣ ﻰﻠﻋ {0} ﺔﻴﻤﻜﺑ {1_labelShort} ﻞﻴﻤﺤﺗ</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>. ﺔﻠﻓﺎﻘﻟﺍ ﻲﻓ {1_label} ﻞﻴﻤﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>. ﺔﻠﻓﺎﻘﻟﺍ ﻲﻓ) ﻞﻜﻟﺍ ({1_label} ﻞﻴﻤﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>ﺔﻠﻓﺎﻘﻟﺍ ﻲﻓ {1_label} ﻞﻴﻤﺤﺗ</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>ﺔﻠﻓﺎﻘﻟﺍ ﻰﻟﺇ) ﻞﻜﻟﺍ ({1_label} ﻞﻴﻤﺤﺗ</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>…ﺔﻠﻓﺎﻘﻟﺍ ﻲﻓ {1_labelShort} ﻞﻴﻤﺤﺗ</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>{{0}}× {1_labelShort} ﻞﻴﻤﺤﺗ</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>ﻥﺯﻭ ﺓﺩﺎﻳﺯ</OverweightLower>
+
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
+  <CannotCarryToExit>. ﺔﻘﻄﻨﻤﻟﺍ ﺓﺭﺩﺎﻐﻣ ﻭ {1_labelShort} ﻞﻤﺣ ﻦﻜﻤﻳ ﻻ</CannotCarryToExit>
+  <!-- EN: Carry {1_labelShort} and leave the area -->
+  <CarryToExit>. ﺔﻘﻄﻨﻤﻟﺍ ﻙﺮﺗﺍﻭ {1_labelShort} ﻞﻤﺣﺍ</CarryToExit>
+  <!-- EN: Capture {1_labelShort} and leave the area -->
+  <CarryToExitAndCapture>. ﺔﻘﻄﻨﻤﻟﺍ ﻙﺮﺗﺍﻭ {1_labelShort} ﻂﻘﺘﻟﺍ</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_labelShort} -->
+  <Strip>{1_labelShort} ﻉﺰﻧ</Strip>
+  <!-- EN: Cannot strip {1_labelShort} -->
+  <CannotStrip>{1_labelShort} ﺪﻳﺮﺠﺗ ﻦﻜﻤﻳ ﻻ</CannotStrip>
+  <!-- EN: Cannot drop {1_labelShort} -->
+  <CannotDrop>{1_labelShort} ﻁﺎﻘﺳﺇ ﻦﻜﻤﻳ ﻻ</CannotDrop>
+  <!-- EN: Carry {0_labelShort} -->
+  <Carry>{0_labelShort} ﻞﻤﺣﺍ</Carry>
+  <!-- EN: Cannot carry {0_labelShort} -->
+  <CannotCarry>{0_labelShort} ﻞﻤﺣ ﻦﻜﻤﻳ ﻻ</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>ﻲﺋﺍﺪﻋ</CarriedPawnHostile>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>ﺖﻗﺆﻣ ﻞﻴﺼﻓ ﻮﻀﻋ</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>. ﻞﻴﺼﻔﻟﺍ ﻲﻓ ﻦﻴﺘﻗﺆﻤﻟﺍ ﺀﺎﻀﻋﻸﻟ ﺲﺑﻼﻤﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ ﻻ</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>. ﺔﻠﻔﻘﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻞﺤﻣ ﻞﺤﻴﺳ</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>.{1_label} ﻲﻓ {0_label} ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>{1_label} ﻲﻓ {0_label} ﻊﺿ</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>ﺎﻨﻫ ﻲﺗﺍﺫ ﺮﻴﻣﺪﺗ</SelfDestructHere>
+  
+  <!-- EN: Drop {1_labelShort} -->
+  <Drop>{1_labelShort} ﻁﺎﻘﺳﺇ</Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>. ﺀﺎﻔﺸﻟﺍ ﻰﺘﺣ ﺡﺮﺘﺳﺍ</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>ﺏﺎﺼﻣ ﺮﻴﻏ</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>ﺐﻴﺒﻃ ﻻ</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>. ﺪﻴﺒﻌﻠﻟ ﺲﻴﻟ ﻲﺒﻃ ﺮﻳﺮﺳ</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>ﺔﻠﻄﻌﻣ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ</MedicalCareDisabled>
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>{0} ﺔﻄﺳﺍﻮﺑ ﻝﻮﻐﺸﻣ</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>{0} ﻊﻣ ﻝﻭﺍﺪﺘﻟﺍ</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>ﺮﺟﺎﺘﻟﺍ ﺾﻓﺭﺍ</DismissTrader>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>ﻝﻭﺍﺪﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>ﺮﺟﺎﺘﻟﺍ ﺩﺮﻃ ﻢﺗ</TraderDismissed>
+
+  <!-- EN: Open {0_label} -->
+  <Open>{0_label} ﺢﺘﻓﺍ</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>{0_label} ﺢﺘﻓ ﻦﻜﻤﻳ ﻻ</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>{0} ﻞﺧﺩﺃ</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>{0} ﺓﺭﺎﻳﺯ</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>{0} ﺓﺭﺎﻳﺯ</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>{0} ﺓﺭﺎﻳﺯ</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>{0} ﻡﻮﺠﻫ</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>{0} ﺏﺍﺮﺘﻗﺍ</ApproachSite>
+  <!-- EN: Approaching {0}. -->
+  <ApproachingSite>.{0} ﻦﻣ ﺏﺍﺮﺘﻗﻻﺍ</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>ﺎﻳﺍﺪﻫ ﻢﻳﺪﻘﺗ</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>{0} ﻊﻣ ﻝﻭﺍﺪﺘﻟﺍ</TradeWithSettlement>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﺢﺘﻓﺍ</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>ﻙﻮﻜﻤﻟﺍ ﻞﺧﺩﺍ</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>{1} {0} ﻦﻜﻤﻳ ﻻ</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>{0} ﻦﻜﻤﻳ ﻻ</CannotGenericWorkCustom>
+
+  <!-- EN: Incapable of {0} -->
+  <CannotMissingHealthActivities>{0} ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>{2_labelShort} {0} ﻞﻌﻔﻟﺎﺑ ّﻢﺗ</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>{0} ﻞﻌﻔﻟﺎﺑ</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>. ﺍًﺪﺑﺃ {0} ﻞﻌﻔﺗ/ﻞﻌﻔﻳ ﻦﻟ</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>ﻱﺭﻭﺮﻀﻟﺍ ﻥﺍﻮﻨﻌﻟﺍ ﺺﻗﺎﻧ</MissingTitleAbility>
+
+  <!-- EN: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>. ﺍًﺪﺑﺃ {0} ﻦﻟ</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>. ﺍًﺪﺑﺃ {0} ﻦﻟ</WillNever>
+
+  <!-- EN: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>{0} ـﻝ ﻥَّﻴﻋُﻣ ﺮﻴﻏ</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>ﻥَّﻴﻋُﻣ ﺮﻴﻏ</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>{0} ـﻝ ﻥَّﻴﻋُﻣ ﺮﻴﻏ</NotAssignedToWorkType>
+
+  <!-- EN: Research is a long-term task -->
+  <CannotPrioritizeResearch>. ﺪﻣﻷﺍ ﺔﻠﻳﻮﻃ ﺔﻤﻬﻣ ﺚﺤﺒﻟﺍ</CannotPrioritizeResearch>
+
+  <!-- EN: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>{1_label} ﻉﻮﻨﻤﻣ</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>ﺭﻮﻈﺤﻣ: ﺔﻳﻮﻟﻭﻷﺍ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺝﺭﺎﺧ</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>ﻦﻓﺪﻟﺍ ﺔﻳﻮﻟﻭﺃ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>{1} {0} ﺔﻳﻮﻟﻭﺃ</PrioritizeGeneric>
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>{0} ﺔﻳﻮﻟﻭﺃ</PrioritizeGenericSimple>
+
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>{LOCATION_label} ﻰﻟﺇ ﻕﻼﻃﺇ</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>؟ﻕﻼﻃﻹﺍ ﻦﻣ ٌﺪﻛﺄﺘﻣ َﺖﻧﺃ ﻞﻫ</LaunchToConfirmation>
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>ﺔﻓﺎﺤﻟﺍ ﺪﻨﻋ ﻁﺎﻘﺳﺇ</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>ﺰﻛﺮﻤﻟﺍ ﻲﻓ ﻁﺎﻘﺳﺇ</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>{0} ﻡﻮﺠﻫ</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>ﺔﻓﺎﺤﻟﺍ ﺪﻨﻋ ﻁﺎﻘﺳﺇ: {0} ﻡﻮﺠﻫ</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>ﺰﻛﺮﻤﻟﺍ ﻲﻓ ﻁﺎﻘﺳﺇ: {0} ﻡﻮﺠﻫ</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>ﺆﻴﻘﺗ</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>ﺔﻌﻃﺎﻘﻤﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>. ﺎﻨﻫ ﺓﺪﻳﺪﺟ ﻖﻳﺮﻃ ﺔﻄﻘﻧ ﻒﺿﺃ</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>ﻩﺬﻫ ﻖﻳﺮﻄﻟﺍ ﺔﻄﻘﻧ ﺔﻟﺍﺯﺇ</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>ﺕﺎﻨﻴﻴﻌﺘﻟﺍ ﻊﻴﻤﺟ ﺀﺎﻐﻟﺇ</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>ﻞﻜﻟﺍ ﺩﺪﺣ</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} ﺮﺛﺄﺗ</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ﺮﻈﺣ</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ﺮﻈﺣ ﺀﺎﻐﻟﺇ</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>{0} ﻲﻓ ﻁﻮﺒﻫ ﻊﻗﻮﻣ ﺭﺎﻴﺘﺧﺍﻭ ﺮﻴﺒﻜﺘﻟﺎﺑ ﻲﻣﻮﻗ/ﻢﻗ</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>. ﺕﺎﻳﻮﺘﺤﻤﻟﺍ ﻊﻴﻀﺘﺳ</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>ﺍَﻧُﻫ ًﺓَﻟِﻓﺍَﻗ ْﻝِّﻛَﺷ</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>{0} ـﻝ ِﻂﻋﺃ</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>){1} ({0} ﻰﻟﺇ ِﺩْﻫُﺃ</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>ﻕﻼﻃﻹﺍ ﺔﻋﻮﻤﺠﻣ ﻦﻤﺿ ﺲﻴﻟ</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>ﻦﻴﺠﺳ ﺭﺮﺣ</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>ﺓﺪﻋﺎﺴﻣ ﻢﻳﺪﻘﺗ</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>{0} ﻕّﺒﻃ</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>. ًﺍﺪﺟ ﺮﻴﻄﺧ</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>ﻪﺑ ﻝﺎﺼﺗﻼﻟ ﺪﺣﺃ ﻻ</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>{0} ِﻉﺪﺘﺳﺍ</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>{0} ﻞﻴﻌﻔﺗ ﺭﺬﻌﺗ</CannotInvoke>
+  <!-- EN: power -->
+  <Power>ﺔﻗﺎﻃ</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>ﻞﻌﻔﻟﺎﺑ ﻝَّﻋَﻓُﻣ</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>{0} ـﺏ ﻲﻨﺘﻋﺍ</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>{0} ـﺏ ﺀﺎﻨﺘﻋﻻﺍ ﻦﻜﻤﻳ ﻻ</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>. ﺔﻳﺎﻋﺭ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻻ {0}</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>ﺀﺍﻭﺩ ﻥﻭﺪﺑ</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>{0} ﺡﻼﺻﺇ</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>{0} ﺡﻼﺻﺇ ﻦﻜﻤﻳ ﻻ</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>ﻝﻮﺧﺪﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>{0} ﻰﻟﺇ ﻝﻮﺧﺪﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>ﻖﻠﻐﻣ</PortalClosed>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>{0} ﻊﻣ ﺔﻴﻣﺍﺮﻏ ﺔﻗﻼﻋ ﺔﻣﺎﻗﺇ ﻦﻜﻤﻳ ﻻ</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>{0} ﺔﻴﺴﻧﺎﻣﻭﺭ</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>ﻪﻴﻓ ﺏﻮﻏﺮﻣ ﺮﻴﻏ ﻡﺎﻌﻃ</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>ﺢﻟﺎﺻ ﺮﻴﻏ ﻡﺎﻌﻃ</FoodNotSuitable>
+
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>ﺐﺳﺎﻨﻣ ﺮﻴﻏ ﺀﺍﻭﺩ</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>…ﺓﺀﺍﺮﻗ ﻦﻴﻴﻌﺗ</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>{0} ﺃﺮﻗﺍ</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>{0} ﺓﺀﺍﺮﻗ ﻦﻜﻤﻳ ﻻ</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ ﺔﻳﻮﻟﻭﺃ</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>. ﺍًﻘﺒﺴﻣ ﻞﻴﻠﺤﺘﻟﺍ ﻢﺗ</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>. ﺯﻮﺠﺤﻣ ﺮﻴﻏﻭ ﺡﺎﺘﻣ ﺚﺤﺑ ﺪﻌﻘﻣ ﺪﺟﻮﻳ ﻻ</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>{0} ﻕﺍﺮﺘﺧﺍ</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>. ﺍﺬﻫ ﻕﺍﺮﺘﺧﻻ ًﺍﺮﻤﻌﺘﺴﻣ ﺮﺘﺧﺍ</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>{0} ﻕﺍﺮﺘﺧﺍ ﺭﺬﻌﺗ</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>ﻞﻔﻘﻣ</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>ﻞﻌﻔﻟﺎﺑ ﻕَﺭَﺗْﺧُﻣ</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>ﻕﺍﺮﺘﺧﻻﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>ﺕﺍﺩﺍﺪﻣﺇ ﻁﺎﻘﺳﺇ</ToDropSupplies>
+
+</LanguageData>

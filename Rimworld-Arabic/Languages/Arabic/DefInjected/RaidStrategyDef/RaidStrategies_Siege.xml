@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>. ﻢﻬﻴﻠﻋ ﺀﺎﻀﻘﻠﻟ ﺏﺎﻫﺬﻟﺍ ﻭﺃ - ﺍﻮﻠﺣﺮﻳ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍ ﺔﻟﻭﺎﺤﻣ ﻢﻜﻨﻜﻤﻳ. ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺕﺎﻧﻭﺎﻬﺑ ﻢﻜﻔﺼﻗﻭ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺎﺼﺣ ﻥﻭﺪﻳﺮﻳ ﻢﻬﻧﺃ ﻭﺪﺒﻳ</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>. ﻚﺗﺪﻋﺎﺴﻤﻟ ﺭﺎﺼﺤﻟﺍ ﺕﺎﻜﻴﺘﻜﺗ ﻡﺍﺪﺨﺘﺳﺍ ﻥﻭﺪﻳﺮﻳ ﻢﻬﻧﺃ ﻭﺪﺒﻳ</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>ﺭﺎﺼﺣ</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</Siege.letterLabelFriendly>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite tea -->
+  <PsychiteTea.label>ﺪﻳﻮﻜﻳﺎﺳ ﻱﺎﺷ</PsychiteTea.label>
+  <!-- EN: A fragrant tea infused with leaves of the psychoid plant. Drinking it induces a subtle psychite euphoria. This tea is easy to produce at cooking facilities, but can produce psychite addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals. -->
+  <PsychiteTea.description>. ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﻪﻟﻭﺎﻨﺗ ﻢﺗ ﺍﺫﺇ ﺪﻳﻮﻜﻳﺎﺴﻠﻟ ﺍًﻧﺎﻣﺩﺇ ﺐﺒﺳُﻳ ﺪﻗ ﻪﻨﻜﻟﻭ ،ﻲﻬﻄﻟﺍ ﺕﺂﺸﻨﻣ ﻲﻓ ﺝﺎﺘﻧﻹﺍ ﻞﻬﺳ ﻱﺎﺸﻟﺍ ﺍﺬﻫ. ﺔﻔﻴﻔﺧ ﺔﻴﺴﻔﻧ ﺓﻮﺸﻧ ﺙﺪﺣُﻳ ﻪﺑﺮﺷ. ﺪﻳﻮﻜﻳﺎﺴﻟﺍ ﺕﺎﺒﻧ ﻕﺍﺭﻭﺄﺑ ﻉﻮﻘﻨﻣ ﺮﻄﻌﻣ ﻱﺎﺷ\n\n. ﺔﻴﻨﻳﺪﻟﺍﻭ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺱﻮﻘﻄﻟﺍ ﻦﻣ ﺀﺰﺠﻛ ﻭﺃ ﻲﻣﻮﻳ ﻂﺸﻨﻤﻛ ﺀﺍﻮﺳ ،ﺪﻳﻮﻜﻳﺎﺴﻟﺍ ﻱﺎﺷ ﻞﺋﺎﺒﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻡﺪﺨﺘﺴﺗ</PsychiteTea.description>
+  <!-- EN: Drink {0} -->
+  <PsychiteTea.ingestible.ingestCommandString>{0} ﺏﺮﺷﺍ</PsychiteTea.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <PsychiteTea.ingestible.ingestReportString>.{0} ﺏﺮﺷ</PsychiteTea.ingestible.ingestReportString>
+  
+</LanguageData>

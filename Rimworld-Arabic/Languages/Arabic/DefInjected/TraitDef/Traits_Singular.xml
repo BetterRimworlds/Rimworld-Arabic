@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abrasive -->
+  <Abrasive.degreeDatas.abrasive.label>ّﻆﻓ</Abrasive.degreeDatas.abrasive.label>
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_gender ? . ﺱﺎﻨﻟﺍ ﺝﺎﻋﺯﺇ ﻰﻟﺇ ﻞﻴﻤﻳ ﺍﺬﻫ. {PAWN_objective} ﺞﻋﺰﻳ ﻥﺎﻛ ﺍﺫﺇ ًﺔﺻﺎﺧ ،ﺎﻬﻨﻫﺫ {PAWN_possessive} ﻲﻓ ﺭﻭﺪﻳ ﺎﻣ ﻂﺒﻀﻟﺎﺑ {PAWN_nameDef} ﻝﻮﻘﺗ ﺎﻣ ﺍًﻤﺋﺍﺩ : . ﺱﺎﻨﻟﺍ ﺝﺎﻋﺯﺇ ﻰﻟﺇ ﻞﻴﻤﻳ ﺍﺬﻫ. {PAWN_objective} ﺞﻋﺰﻳ ﺍﺬﻫ ﻥﺎﻛ ﺍﺫﺇ ًﺔﺻﺎﺧ ،ﻪﻨﻫﺫ {PAWN_possessive} ﻲﻓ ﺭﻭﺪﻳ ﺎﻣ ﻂﺒﻀﻟﺎﺑ {PAWN_nameDef} ﻝﻮﻘﻳ ﺎﻣ ﺍًﻤﺋﺍﺩ}</Abrasive.degreeDatas.abrasive.description>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>ﺞﻋﺰﻣ ﺕﻮﺻ</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_gender ? .{PAWN_objective} ـﺏ ﺏﺎﺠﻋﻹﺍ ﻡﺪﻋ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﻦﻳﺮﺧﻵﺍ ﻞﻌﺠﻳ ﺍﺬﻫ. ﺔﻫّﻮﺸﻣﻭ ﺔﻋﻮﻄﻘﻣ ﺕﺍﺭﺎﺒﻌﺑ ﺙﺪﺤﺘﻟﺍ ﻰﻟﺇ {PAWN_pronoun} ﻞﻴﻤﺗﻭ ،ﺹﺎﺧ ﻞﻜﺸﺑ ﻲﻔﻧﺃﻭ ﻦﺸﺧ ﻊﺑﺎﻃ {PAWN_nameDef} ﺕﻮﺼﻟ : .{PAWN_objective} ـﺏ ﺏﺎﺠﻋﻹﺍ ﻡﺪﻋ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﻦﻳﺮﺧﻵﺍ ﻞﻌﺠﻳ ﺍﺬﻫ. ﺔﻫّﻮﺸﻣﻭ ﺔﻋﻮﻄﻘﻣ ﺕﺍﺭﺎﺒﻌﺑ ﺙﺪﺤﺘﻟﺍ ﻰﻟﺇ {PAWN_pronoun} ﻞﻴﻤﻳﻭ ،ﺹﺎﺧ ﻞﻜﺸﺑ ﻲﻔﻧﺃﻭ ﻦﺸﺧ ﻊﺑﺎﻃ {PAWN_nameDef} ﺕﻮﺼﻟ}</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <!-- EN: ascetic -->
+  <Ascetic.degreeDatas.ascetic.label>ﺪﻫﺍﺯ</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.labelFemale>ﺓﺪﻫﺍﺯ</Ascetic.degreeDatas.ascetic.labelFemale>
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_gender ? . ﺍًﺪﺑﺃ ﻢﻫﺮﻬﻈﻤﺑ ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ {PAWN_pronoun} ﻢﻜﺤﺗ ﻻ. ﺍًﺌﻴﻧ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻞﻀﻔﺗﻭ ﺮﺧﺎﻔﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻩﺮﻜﺗ ﺎﻬﻧﺃ ﺎﻤﻛ. ﺔﻳﺎﻐﻠﻟ ﺓﺮﺧﺎﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﺎﻬﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﺓﺪﻴﻌﺳ ﺮﻴﻏ {PAWN_pronoun} ﺢﺒﺼﺘﺳ. ﻲﻘﻧﻭ ﻂﻴﺴﺑ ﺓﺎﻴﺣ ﺏﻮﻠﺳﺃ ﺢﻟﺎﺼﻟ ﺔﻳﺪﺴﺠﻟﺍ ﻊﺘﻤﻟﺍﻭ ﺔﺣﺍﺮﻟﺍ ﻞﺋﺎﺳﻭ ﻦﻋ {PAWN_nameDef} ﺕّﻠﺨﺗ : . ﺍًﺪﺑﺃ ﻢﻫﺮﻬﻈﻤﺑ ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ {PAWN_pronoun} ﻢﻜﺤﻳ ﻻ. ﺍًﺌﻴﻧ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻞﻀﻔﻳﻭ ﺮﺧﺎﻔﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻩﺮﻜﻳ {PAWN_pronoun} ﻥﺃ ﺎﻤﻛ. ﺔﻳﺎﻐﻠﻟ ﺔﻤﺨﻓ ﻪﺘﻓﺮﻏ ﺖﻧﺎﻛ ﺍﺫﺇ ﺪﻴﻌﺳ ﺮﻴﻏ {PAWN_pronoun} ﺢﺒﺼﻴﺳ. ﻲﻘﻧﻭ ﻂﻴﺴﺑ ﺓﺎﻴﺣ ﺏﻮﻠﺳﺃ ﺢﻟﺎﺼﻟ ﺔﻳﺪﺴﺠﻟﺍ ﻊﺘﻤﻟﺍﻭ ﺔﺣﺍﺮﻟﺍ ﻞﺋﺎﺳﻭ ﻦﻋ {PAWN_nameDef} ﻰﻠﺨﺗ}</Ascetic.degreeDatas.ascetic.description>
+  
+  <!-- EN: asexual -->
+  <Asexual.degreeDatas.asexual.label>ﻲﺴﻨﺟ ﺮﻴﻏ</Asexual.degreeDatas.asexual.label>
+  <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
+  <Asexual.degreeDatas.asexual.description>{PAWN_gender ? . ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺺﺨﺷ ﻱﺃ ﻩﺎﺠﺗ ﻲﺴﻨﺟ ﺏﺍﺬﺠﻧﺍ ﻱﺄﺑ {PAWN_nameDef} ﺮﻌﺸﺗ ﻻ : . ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺺﺨﺷ ﻱﺃ ﻩﺎﺠﺗ ﻲﺴﻨﺟ ﺏﺍﺬﺠﻧﺍ ﻱﺄﺑ {PAWN_nameDef} ﺮﻌﺸﻳ ﻻ}</Asexual.degreeDatas.asexual.description>
+  
+  <!-- EN: bisexual -->
+  <Bisexual.degreeDatas.bisexual.label>ﻝﻮﻴﻤﻟﺍ ﺝﻭﺩﺰﻣ</Bisexual.degreeDatas.bisexual.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
+  <Bisexual.degreeDatas.bisexual.description>{PAWN_gender ? . ﺀﺎﺴﻨﻟﺍﻭ ﻝﺎﺟﺮﻟﺍ ﻦﻣ ﻞﻛ ﻰﻟﺇ ًﺎﻴﻔﻃﺎﻋ {PAWN_nameDef} ﺏﺬﺠﻨﺗ : . ﺀﺎﺴﻨﻟﺍﻭ ﻝﺎﺟﺮﻟﺍ ﻦﻣ ﻞﻛ ﻰﻟﺇ ًﺎﻴﻔﻃﺎﻋ {PAWN_nameDef} ﺏﺬﺠﻨﻳ}</Bisexual.degreeDatas.bisexual.description>
+  
+  <!-- EN: bloodlust -->
+  <Bloodlust.degreeDatas.bloodlust.label>ﺀﺎﻣﺪﻠﻟ ﺶﻄﻋ</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.labelFemale>ﺀﺎﻣﺪﻠﻟ ﺶﻄﻋ</Bloodlust.degreeDatas.bloodlust.labelFemale>
+  <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﻲﻋﺎﻤﺘﺟﺍ ﺭﺎﺠﺷ ﺀﺪﺒﻟ ﻑﺎﻌﺿﺃ ﺔﻌﺑﺭﺄﺑ ﺔﺿﺮﻋ ﺮﺜﻛﺃ ﺎﻬﻧﺇ. ﺕﻮﻤﻟﺍ ﻭﺃ ﺀﺎﻣﺪﻟﺍ ﺔﻳﺅﺭ ﺍًﺪﺑﺃ ﻊﻧﺎﻤﺗ ﻻﻭ ،ﺱﺎﻨﻟﺍ ﺀﺍﺬﻳﺇ ﻦﻣ ﺓﺭﺎﺛﺇ ﻰﻠﻋ {PAWN_nameDef} ﻞﺼﺤﺗ : . ﻩﺮﻴﻏ ﻦﻣ ﻲﻋﺎﻤﺘﺟﺍ ﺭﺎﺠﺷ ﺀﺪﺒﻟ ﻑﺎﻌﺿﺃ ﺔﻌﺑﺭﺄﺑ ﺔﺿﺮﻋ ﺮﺜﻛﺃ {PAWN_pronoun}. ﺕﻮﻤﻟﺍ ﻭﺃ ﺀﺎﻣﺪﻟﺍ ﺮﻈﻨﻤﻟ ﺍًﺪﺑﺃ ﺙﺮﺘﻜﻳ ﻻﻭ ،ﺱﺎﻨﻟﺍ ﺀﺍﺬﻳﺇ ﻦﻣ ﺓﻮﺸﻧ ﻰﻠﻋ {PAWN_nameDef} ﻞﺼﺤﻳ}</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <!-- EN: body purist -->
+  <BodyPurist.degreeDatas.body_purist.label>ﺪﺴﺠﻟﺍ ﻲﻘﻧ</BodyPurist.degreeDatas.body_purist.label>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_gender ? . ﺯﺍﺰﺌﻤﺷﻼﻟ ﺓﺮﻴﺜﻣﻭ ﺔﻴﻗﻼﺧﺃ ﺮﻴﻏ ﺔﺒﻳﺮﻐﻟﺍ ﺕﺎﻨﻴﺠﻟﺍﻭ ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺀﺍﺰﺟﻷﺍ ﻥﺈﻓ ،{PAWN_objective} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ. ﺎﻣ ﺐﺒﺴﻟ ﺩﻭﺪﺤﻣ ﻱﺮﺸﺒﻟﺍ ﻢﺴﺠﻟﺍ ﻥﺃ {PAWN_nameDef} ﺪﻘﺘﻌﺗ : . ﺯﺍﺰﺌﻤﺷﻼﻟ ﺓﺮﻴﺜﻣﻭ ﺔﻴﻗﻼﺧﺃ ﺮﻴﻏ ﺔﺒﻳﺮﻐﻟﺍ ﺕﺎﻨﻴﺠﻟﺍﻭ ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺀﺍﺰﺟﻷﺍ ﻥﺈﻓ ،{PAWN_objective} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ. ﺎﻣ ﺐﺒﺴﻟ ﺩﻭﺪﺤﻣ ﻱﺮﺸﺒﻟﺍ ﻢﺴﺠﻟﺍ ﻥﺃ {PAWN_nameDef} ﺪﻘﺘﻌﻳ}</BodyPurist.degreeDatas.body_purist.description>
+  
+  <!-- EN: brawler -->
+  <Brawler.degreeDatas.brawler.label>ﻙِﺑﺍَﺷَﺗُﻣ</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.labelFemale>ﺓَﻛِﺑﺍَﺷَﺗُﻣ</Brawler.degreeDatas.brawler.labelFemale>
+  <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
+  <Brawler.degreeDatas.brawler.description>{PAWN_gender ? . ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻞﻤﺣ ﺎﻬﻨﻣ ﺐﻟُﻃ ﺍﺫﺇ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻴﻌﺳ ﺮﻴﻏ ﻥﻮﻜﺘﺳ {PAWN_pronoun} ﻦﻜﻟ ،ﻢﺣﻼﺘﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺮﻴﺒﻛ ﻞﻜﺸﺑ {PAWN_possessive} ﺔﻗﺩ ﺩﺍﺩﺰﺗ. ﺏﺭُﻗ ﻦﻋ ﻝﺎﺘﻘﻟﺍ {PAWN_nameDef} ّﺐﺤﺗ : . ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻞﻤﺣ ﻪﻨﻣ ﺐﻟُﻃ ﺍﺫﺇ ﺔﻳﺎﻐﻠﻟ ﺪﻴﻌﺳ ﺮﻴﻏ ﻥﻮﻜﻴﺳ {PAWN_pronoun} ﻦﻜﻟ ،ﻢﺣﻼﺘﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺮﻴﺒﻛ ﻞﻜﺸﺑ {PAWN_possessive} ﺔﻗﺩ ﺩﺍﺩﺰﺗ. ﺏﺭُﻗ ﻦﻋ ﻝﺎﺘﻘﻟﺍ {PAWN_nameDef} ّﺐﺤﻳ}</Brawler.degreeDatas.brawler.description>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.degreeDatas.cannibal.label>ﺮﺸﺑ ﻡﻮﺤﻟ ﻞﻛﺁ</Cannibal.degreeDatas.cannibal.label>
+  <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_gender ? . ﺎﻬﺒﺠﻋﺃﻭ …ﻚﻟﺫ {PAWN_pronoun} ﺖﺑّﺮﺟ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ،ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻲﻓ ﻦﻜﻟ. ﻊﻴﻈﻓﻭ ﺊﻃﺎﺧ ﺮﻣﺃ ﺮﺸﺒﻟﺍ ﻡﻮﺤﻟ ﻞﻛﺃ ﻥﺃ {PAWN_nameDef} ﺖﻣّﻠﻌﺗ : . ﻪﺒﺠﻋﺃﻭ …ﻚﻟﺫ {PAWN_pronoun} ﺏّﺮﺟ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ،ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻲﻓ ﻦﻜﻟ. ﻊﻴﻈﻓﻭ ﺊﻃﺎﺧ ﺮﻣﺃ ﺮﺸﺒﻟﺍ ﻡﻮﺤﻟ ﻞﻛﺃ ﻥﺃ {PAWN_nameDef} ﻡّﻠﻌﺗ}</Cannibal.degreeDatas.cannibal.description>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>ﺝِﻋﺯُﻣ ﺲﻔﻨﺗ</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_gender ? . ﺍًﻔﻴﺨﻣ ﻚﻟﺫ ﺱﺎﻨﻟﺍ ﺪﺠﻳ. ﺭﺍﺮﻤﺘﺳﺎﺑ ﻕﺮﻌﺘﺗﻭ ،ﺖﻗﻮﻟﺍ ﻝﺍﻮﻃ ﺔﺑﻮﻌﺼﺑ {PAWN_nameDef} ﺲﻔﻨﺘﺗ : . ﺍًﻔﻴﺨﻣ ﻚﻟﺫ ﺱﺎﻨﻟﺍ ﺪﺠﻳ. ﺭﺍﺮﻤﺘﺳﺎﺑ ﻕﺮﻌﺘﻳﻭ ،ﺖﻗﻮﻟﺍ ﻝﺍﻮﻃ ﺔﺑﻮﻌﺼﺑ {PAWN_nameDef} ﺲﻔﻨﺘﻳ}</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <!-- EN: misandrist -->
+  <DislikesMen.degreeDatas.misandrist.label>ﻝﺎﺟﺮﻠﻟ ُﺽِﻐﺑُﻣ</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.labelFemale>ﻝﺎﺟﺮﻠﻟ ﺔﺿِﻐﺑُﻣ</DislikesMen.degreeDatas.misandrist.labelFemale>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_gender ? . ﻢﻬﺑ ﻖﺜﺗ ﻻﻭ ﺓﺪﺸﺑ ﻝﺎﺟﺮﻟﺍ {PAWN_nameDef} ﻩﺮﻜﺗ : . ﻢﻬﺑ ﻖﺜﻳ ﻻﻭ ﺓﺪﺸﺑ ﻝﺎﺟﺮﻟﺍ {PAWN_nameDef} ﻩﺮﻜﻳ}</DislikesMen.degreeDatas.misandrist.description>
+  
+  <!-- EN: misogynist -->
+  <DislikesWomen.degreeDatas.misogynist.label>ﺓﺃﺮﻤﻠﻟ ٍﺩﺍَﻋُﻣ</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.labelFemale>ﺓﺃﺮﻤﻠﻟ ﺔﻳﺩﺎﻋُﻣ</DislikesWomen.degreeDatas.misogynist.labelFemale>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_gender ? . ﻦﻬﺑ ﻖﺜﺗ ﻻﻭ ﺓﺪﺸﺑ ﺀﺎﺴﻨﻟﺍ {PAWN_nameDef} ﻩﺮﻜﺗ : . ﻦﻬﺑ ﻖﺜﻳ ﻻﻭ ﺓﺪﺸﺑ ﺀﺎﺴﻨﻟﺍ {PAWN_nameDef} ﻩﺮﻜﻳ}</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <!-- EN: fast learner -->
+  <FastLearner.degreeDatas.fast_learner.label>ﻊﻳﺮﺳ ﻢﻠﻌﺘﻣ</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.labelFemale>ﺔﻌﻳﺮﺳ ﺔﻤﻠﻌﺘﻣ</FastLearner.degreeDatas.fast_learner.labelFemale>
+  <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﺭﻮﻣﻷﺍ ﺐﻋﻮﺘﺴﺗ ﺎﻬﻧﺇ. ﻢﻠﻌﺘﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ {PAWN_nameDef} ﻚﻠﻤﺗ : . ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﺭﻮﻣﻷﺍ ﻂﻘﺘﻠﻳ {PAWN_pronoun}. ﻢﻠﻌﺘﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ {PAWN_nameDef} ﻯﺪﻟ}</FastLearner.degreeDatas.fast_learner.description>
+  
+  <!-- EN: gay -->
+  <Gay.degreeDatas.gay.label>ﺲﻨﺠﻟﺍ ﻲﻠﺜﻣ</Gay.degreeDatas.gay.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
+  <Gay.degreeDatas.gay.description>{PAWN_gender ? . ﺎﻬﺴﻨﺟ ﺲﻔﻧ ﻦﻣ ﺹﺎﺨﺷﻷﺍ ﻰﻟﺇ ًﺎﻴﻔﻃﺎﻋ {PAWN_nameDef} ﺏﺬﺠﻨﺗ : . ﻪﺴﻨﺟ ﺲﻔﻧ ﻦﻣ ﺹﺎﺨﺷﻷﺍ ﻰﻟﺇ ًﺎﻴﻔﻃﺎﻋ {PAWN_nameDef} ﺏﺬﺠﻨﻳ}</Gay.degreeDatas.gay.description>
+  
+  <!-- EN: gourmand -->
+  <Gourmand.degreeDatas.gourmand.label>ﻢﻬﻧ</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.labelFemale>ﺔﻤﻬﻧ</Gourmand.degreeDatas.gourmand.labelFemale>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_gender ? . ﺔﻌﺋﺎﺟ ﻥﻮﻜﺗ ﻻ ﻦﻴﺣ ﻰﺘﺣ ﺔﻫﺍﺮﺸﺑ ﻞﻛﻷﺍ ﻲﻓ ﺔﺒﻏﺮﻟﺍ ﺎﻬﺒﻠﻐﺗ ﺍًﻧﺎﻴﺣﺃﻭ ،ﺔﻋﺮﺴﺑ ﻉﻮﺠﻟﺎﺑ {PAWN_pronoun} ﺮﻌﺸﺗ. ﻡﺎﻌﻄﻟﺍ ﻝﻮﺣ {PAWN_nameDef} ﺓﺎﻴﺣ ﺭﻭﺪﺗ : . ﺍًﻌﺋﺎﺟ ﻥﻮﻜﻳ ﻻ ﻦﻴﺣ ﻰﺘﺣ ﺔﻫﺍﺮﺸﺑ ﻞﻛﻷﺍ ﻲﻓ ﺔﺒﻏﺮﻟﺍ ﻪﺒﻠﻐﺗ ﺍًﻧﺎﻴﺣﺃﻭ ،ﺔﻋﺮﺴﺑ ﻉﻮﺠﻟﺎﺑ {PAWN_pronoun} ﺮﻌﺸﻳ. ﻡﺎﻌﻄﻟﺍ ﻝﻮﺣ {PAWN_nameDef} ﺓﺎﻴﺣ ﺭﻭﺪﺗ}</Gourmand.degreeDatas.gourmand.description>
+  
+  <!-- EN: great memory -->
+  <GreatMemory.degreeDatas.great_memory.label>ﺔﻳﻮﻗ ﺓﺮﻛﺍﺫ</GreatMemory.degreeDatas.great_memory.label>
+  <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﻝﺪﻌﻣ ﻒﺼﻧ ﻝﺪﻌﻤﺑ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺪﻘﻔﺘﺳ {PAWN_pronoun}. ﻞﻴﺻﺎﻔﺘﻠﻟ ًﺔﻌﺋﺍﺭ ًﺓﺮﻛﺍﺫ {PAWN_nameDef} ﻚﻠﺘﻤﺗ : . ﻦﻳﺮﺧﻵﺍ ﻝﺪﻌﻣ ﻒﺼﻧ ﻝﺪﻌﻤﺑ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺕﺍﺭﺎﻬﻤﻟﺍ {PAWN_pronoun} ﺪﻘﻔﻴﺳ. ﻞﻴﺻﺎﻔﺘﻠﻟ ﺔﻌﺋﺍﺭ ﺓﺮﻛﺍﺫ {PAWN_nameDef} ﻯﺪﻟ}</GreatMemory.degreeDatas.great_memory.description>
+  
+  <!-- EN: greedy -->
+  <Greedy.degreeDatas.greedy.label>ﻉﺎﻤﻃ</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.labelFemale>ﺔﻋﺍَﻣَﻃ</Greedy.degreeDatas.greedy.labelFemale>
+  <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
+  <Greedy.degreeDatas.greedy.description>{PAWN_gender ? .{PAWN_pronoun} ﻩﺪﻳﺮﺗ ﺎﻣ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﺗ ﻢﻟ ﺍﺫﺇ ﻖﻴﻀﻟﺎﺑ {PAWN_pronoun} ﺮﻌﺸﺗ. ﺍًﻘﺣ ﺔﻠﻫﺫُﻣ ﻡﻮﻧ ﺔﻓﺮﻏ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﺗ : . ﻩﺪﻳﺮﻳ ﺎﻣ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﻳ ﻢﻟ ﺍﺫﺇ ﻞﻣﺃ ﺔﺒﻴﺨﺑ {PAWN_pronoun} ﺮﻌﺸﻳ. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﻳ}</Greedy.degreeDatas.greedy.description>
+  
+  <!-- EN: jealous -->
+  <Jealous.degreeDatas.jealous.label>ﺭﻭُﻳَﻏ</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.labelFemale>ﺓَﺭﻭُﻳَﻏ</Jealous.degreeDatas.jealous.labelFemale>
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
+  <Jealous.degreeDatas.jealous.description>{PAWN_gender ? . ﺔﻣﺎﺨﻓ ﺮﺜﻛﺃ ﻡﻮﻧ ﺔﻓﺮﻏ ﻦﻃﻮﺘﺴﻣ ﻱﺃ ﻯﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﺝﺍﺰﻤﻟﺍ ﻲﻓ ﻊﺟﺍﺮﺘﺑ {PAWN_pronoun} ﺏﺎﺻُﺗ. ﺮﺧﺁ ﺺﺨﺷ ﺔﻓﺮﻏ ﻦﻣ ﺔﻣﺎﺨﻓ ﻞﻗﺃ ﺎﻬﻣﻮﻧ ﺔﻓﺮﻏ ﻥﻮﻜﺗ ﻥﺃ ﻦﻴﻬﻤﻟﺍ ﻦﻣ ،{PAWN_nameDef} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ : . ﺔﻣﺎﺨﻓ ﺮﺜﻛﺃ ﻡﻮﻧ ﺔﻓﺮﻏ ﻦﻃﻮﺘﺴﻣ ﻱﺃ ﻯﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﺝﺍﺰﻤﻟﺍ ﻲﻓ ﻊﺟﺍﺮﺘﺑ {PAWN_pronoun} ﺏﺎﺻُﻳ. ﺮﺧﺁ ﺺﺨﺷ ﺔﻓﺮﻏ ﻦﻣ ﺔﻣﺎﺨﻓ ﻞﻗﺃ ﻪﻣﻮﻧ ﺔﻓﺮﻏ ﻥﻮﻜﺗ ﻥﺃ ﻦﻴﻬﻤﻟﺍ ﻦﻣ ،{PAWN_nameDef} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ}</Jealous.degreeDatas.jealous.description>
+  
+  <!-- EN: kind -->
+  <Kind.degreeDatas.kind.label>ﺐﻠﻘﻟﺍ ﺐﻴﻃ</Kind.degreeDatas.kind.label>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>{PAWN_gender ? . ﺓﺪﺋﺎﺴﻟﺍ ﺀﺍﺭﻵﺍ ﻊﻣ ﻖﻓﺍﻮﺘﻠﻟ ﺔﺿﺮﻋ ﺮﺜﻛﺃ {PAWN_objective} ﺍًﻀﻳﺃ {PAWN_possessive} ﺔﻋﺍّﺩﻭ ﻞﻌﺠﺗ. ﺍًﺪﺑﺃ ﻢﻫﺮﻬﻈﻤﺑ ﺱﺎﻨﻟﺍ ﻰﻠﻋ ﻢﻜﺤﺗ ﻻ ﺎﻬﻧﺃ ﺎﻤﻛ. {PAWN_objective} ﺎﻬﻟﻮﺣ ﻦﻣ ﺔﺳﺎﻌﺗ ﺪﻳﺪﺒﺘﻟ ﺔﺒﻴﻃ ﺕﺎﻤﻠﻛ ﻡﺪﻘﺗ ﺍًﻧﺎﻴﺣﺃﻭ ،ﻦﻳﺮﺧﻵﺍ {PAWN_pronoun} ﻦﻴﻬﺗ ﺎﻣ ﺍًﺭﺩﺎﻧ. ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﺔﻤﻳﺮﻛﻭ ﺓﺩﻭﺩﻭ ﺔﻴﺼﺨﺷ {PAWN_nameDef} : . ﺓﺪﺋﺎﺴﻟﺍ ﺀﺍﺭﻵﺍ ﻊﻣ ﻖﻓﺍﻮﺘﻠﻟ ﺔﺿﺮﻋ ﺮﺜﻛﺃ {PAWN_objective} ﺍًﻀﻳﺃ {PAWN_possessive} ّﺩﻭ ﻞﻌﺠﺗ. ﻢﻫﺮﻬﻈﻤﺑ ﺍًﺪﺑﺃ ﺱﺎﻨﻟﺍ ﻰﻠﻋ ﻢﻜﺤﻳ ﻻ {PAWN_pronoun} ﻥﺃ ﺎﻤﻛ. {PAWN_objective} ﻪﻟﻮﺣ ﻦﻣ ﺝﺍﺰﻣ ﺔﺌﻴﻬﺘﻟ ﺔﺒﻴﻃ ﺕﺎﻤﻠﻛ ﺽﺮﻌﻳ ﺍًﻧﺎﻴﺣﺃﻭ ،ﻦﻳﺮﺧﻵﺍ {PAWN_pronoun} ﻦﻴﻬﻳ ﺎﻣ ﺍًﺭﺩﺎﻧ. ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻢﻳﺮﻛﻭ ﺩﻭﺩﻭ ﺺﺨﺷ {PAWN_nameDef}}</Kind.degreeDatas.kind.description>
+  
+  <!-- EN: masochist -->
+  <Masochist.degreeDatas.masochist.label>ﻲﺷﻮﺳﺎﻣ</Masochist.degreeDatas.masochist.label>
+  <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
+  <Masochist.degreeDatas.masochist.description>{PAWN_gender ? . ﺔﻔﻠﺘﺨﻣ ﺔﻘﻳﺮﻄﺑ ﺔﻣَّﻤﺻُﻣ ﺔﻃﺎﺴﺒﺑ ﺎﻬﻧﺇ ،ﺐﺒﺴﻟﺍ {PAWN_pronoun} ﻑﺮﻌﺗ ﻻ. ﻯﺫﻸﻟ ﺽﺮﻌﺘﻟﺍ ﻲﻓ ﺮﻴﺜﻣ ﺀﻴﺷ ﻙﺎﻨﻫ ،{PAWN_nameDef} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ : . ﺔﻔﻠﺘﺨﻣ ﺔﻘﻳﺮﻄﺑ ﻡَّﻤﺻُﻣ ﺔﻃﺎﺴﺒﺑ ﻪﻧﺇ ،ﺐﺒﺴﻟﺍ {PAWN_pronoun} ﻑﺮﻌﻳ ﻻ. ﻯﺫﻸﻟ ﺽﺮﻌﺘﻟﺍ ﻲﻓ ﺮﻴﺜﻣ ﺀﻴﺷ ﻙﺎﻨﻫ ،{PAWN_nameDef} ـﻝ ﺔﺒﺴﻨﻟﺎﺑ}</Masochist.degreeDatas.masochist.description>
+  
+  <!-- EN: night owl -->
+  <NightOwl.degreeDatas.night_owl.label>ّﻱِﻟْﻳَﻟ ﺓَﻣﻭُﺑ</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.labelFemale>ﺔﻴﻠﻴﻟ ﺔﻣﻭُﺑ</NightOwl.degreeDatas.night_owl.labelFemale>
+  <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_gender ? . ﺭﺎﻬﻨﻟﺍ ﻝﻼﺧ ﻡﺎﻨﺗﻭ ،ﻞﻴﻠﻟﺍ ﻝﻼﺧ ﺔﻈﻘﻴﺘﺴﻣ ﻥﻮﻜﺗ ﻥﺃ {PAWN_nameDef} ﺐﺤﺗ\n\n18:00). ﻰﻟﺇ 11:00 ﺔﻋﺎﺴﻟﺍ ﻦﻣ (ﺭﺎﻬﻨﻟﺍ ﻝﻼﺧ ﺔﻈﻘﻴﺘﺴﻣ ﺖﻧﺎﻛ ﺍﺫﺇ ﺍًﺟﺍﺰﻣ ﺮﺴﺨﺗﻭ) ﺍًﺣﺎﺒﺻ 6:00 ﻰﻟﺇ 23:00 ﺔﻋﺎﺴﻟﺍ ﻦﻣ (ﻞﻴﻠﻟﺍ ﻲﻓ ﺔﻈﻘﻴﺘﺴﻣ ﺖﻧﺎﻛ ﺍﺫﺇ ﺔﻴﺟﺍﺰﻣ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﺗ\n\n. ﻡﻼﻈﻟﺍ ﻲﻓ ﺎﻫﺪﺟﺍﻮﺗ ﺐﺒﺴﺑ ﺔﻴﺟﺍﺰﻣ ﺔﺑﻮﻘﻋ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﺗ ﻻ : . ﺭﺎﻬﻨﻟﺍ ﻝﻼﺧ ﻡﺎﻨﻳﻭ ،ﻞﻴﻠﻟﺍ ﻝﻼﺧ ﺍًﻈﻘﻴﺘﺴﻣ ﻥﻮﻜﻳ ﻥﺃ {PAWN_nameDef} ﺐﺤﻳ\n\n18:00). ﻰﻟﺇ 11:00 ﺔﻋﺎﺴﻟﺍ ﻦﻣ (ﺭﺎﻬﻨﻟﺍ ﻝﻼﺧ ﺍًﻈﻘﻴﺘﺴﻣ ﻥﺎﻛ ﺍﺫﺇ ﺝﺍﺰﻤﻠﻟ ﻥﺍﺪﻘﻓﻭ) ﺍًﺣﺎﺒﺻ 6:00 ﻰﻟﺇ 23:00 ﺔﻋﺎﺴﻟﺍ ﻦﻣ (ﻞﻴﻠﻟﺍ ﻲﻓ ﺍًﻈﻘﻴﺘﺴﻣ ﻥﺎﻛ ﺍﺫﺇ ﺔﻴﺟﺍﺰﻣ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﻳ\n\n. ﻡﻼﻈﻟﺍ ﻲﻓ ﻩﺩﻮﺟﻭ ﺐﺒﺴﺑ ﺔﻴﺟﺍﺰﻣ ﺔﺑﻮﻘﻋ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﻳ ﻻ}</NightOwl.degreeDatas.night_owl.description>
+  
+  <!-- EN: nimble -->
+  <Nimble.degreeDatas.nimble.label>ﻖﻴﺷﺭ</Nimble.degreeDatas.nimble.label>
+  <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
+  <Nimble.degreeDatas.nimble.description>{PAWN_gender ? . ﺔﻌﻴﺒﻄﻠﻟ ﺔﻗﺭﺎﺧ ﺔﻗﺎﺷﺮﺑ ﺮﻄﺨﻟﺍ ﻝﻮﺣ ﺺﻗﺮﺗ ﺎﻬﻧﺄﻛﻭ {PAWN_pronoun} ﻭﺪﺒﺗ. ﺍًﻇﻮﺤﻠﻣ ﺍًﻴﻛﺮﺣ ًﺀﺎﻛﺫ {PAWN_nameDef} ﻚﻠﺘﻤﺗ : . ﺔﻌﻴﺒﻄﻠﻟ ﺔﻗﺭﺎﺧ ﺔﻤﻌﻨﺑ ﺮﻄﺨﻟﺍ ﻝﻮﺣ ﺺﻗﺮﻳ ﻪﻧﺃ ﻭﺪﺒﻳ. ﻅﻮﺤﻠﻣ ﻲﻛﺮﺣ ﺀﺎﻛﺫ {PAWN_nameDef} ﻯﺪﻟ}</Nimble.degreeDatas.nimble.description>
+  
+  <!-- EN: nudist -->
+  <Nudist.degreeDatas.nudist.label>ٍﺭﺎﻋ</Nudist.degreeDatas.nudist.label>
+  <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
+  <Nudist.degreeDatas.nudist.description>{PAWN_gender ? . ﺎﻬﻧﻭﺪﺑ ﺪﻌﺳﺃ ﻥﻮﻜﺘﺳ ﺎﻬﻨﻜﻟ ،ﺲﺑﻼﻤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺎﻬﻨﻜﻤﻳ. ﻱﺮﻌﺘﻟﺍ ﻦﻣ ﻲﺗﺄﻳ ﻱﺬﻟﺍ ﺔﻳﺮﺤﻟﺎﺑ ﺭﻮﻌﺸﻟﺎﺑ {PAWN_nameDef} ﻊﺘﻤﺘﺴﺗ : . ﺎﻬﻧﻭﺪﺑ ﺪﻌﺳﺃ ﻥﻮﻜﻴﺳ ﻪﻨﻜﻟﻭ ،ﺲﺑﻼﻤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻪﻨﻜﻤﻳ. ﻱﺮﻌﺘﻟﺍ ﻦﻣ ﻲﺗﺄﻳ ﻱﺬﻟﺍ ﺔﻳﺮﺤﻟﺎﺑ ﺭﻮﻌﺸﻟﺎﺑ {PAWN_nameDef} ﻊﺘﻤﺘﺴﻳ}</Nudist.degreeDatas.nudist.description>
+  
+  <!-- EN: psychopath -->
+  <Psychopath.degreeDatas.psychopath.label>ﺙﺎﺑﻮﻜﻳﺎﺳ</Psychopath.degreeDatas.psychopath.label>
+  <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_gender ? . ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﺻﺍﻮﺘﻟﺍ ﻝﻼﺧ ﻦﻣ ﺝﺍﺰﻤﻟﺍ ﻲﻓ ﻦﺴﺤﺗ ﻱﺄﺑ ﺮﻌﺸﺗ ﻻ ﺎﻬﻧﺃ ﺎﻤﻛ. {PAWN_objective} ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻳ ﻢﻟ ﺎﻣ - ﺔﻳﺩﻮﺒﻌﻟﺍ ﻲﻓ ﻢﻬﻌﻴﺑ ﻭﺃ ،ﻢﻬﻨﺠﺳ ﻭﺃ ،ﻦﻓﺩ ﻥﻭﺩ ﻢﻬﻛﺮﺗ ﻭﺃ ،ﻦﻳﺮﺧﻵﺍ ﻊﻴﻄﻘﺗ ﻢﺗ ﺍﺫﺇ {PAWN_objective} ﻊﻧﺎﻤﺗ ﻻ. ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﻦﻳﺮﺧﻵﺍ ﺓﺎﻧﺎﻌﻣ ﺎﻬﺠﻋﺰﻳ ﻻ. ﻒﻃﺎﻌﺗ ﻱﺃ {PAWN_nameDef} ﻚﻠﻤﺗ ﻻ : . ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﺻﺍﻮﺘﻟﺍ ﻝﻼﺧ ﻦﻣ ﺝﺍﺰﻤﻟﺍ ﻲﻓ ﻦﺴﺤﺗ ﻱﺄﺑ ﺍًﻀﻳﺃ ﺮﻌﺸﻳ ﻻ {PAWN_pronoun}. {PAWN_objective} ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻳ ﻢﻟ ﺎﻣ - ﺔﻳﺩﻮﺒﻌﻟﺍ ﻲﻓ ﻢﻬﻌﻴﺑ ﻭﺃ ،ﻢﻬﻨﺠﺳ ﻭﺃ ،ﻦﻓﺩ ﻥﻭﺩ ﻢﻬﻛﺮﺗ ﻭﺃ ،ﻦﻳﺮﺧﻵﺍ ﻊﻴﻄﻘﺗ ﻢﺗ ﺍﺫﺇ ﻊﻧﺎﻤﻳ ﻻ {PAWN_pronoun}. ﻕﻼﻃﻹﺍ ﻰﻠﻋ {PAWN_objective} ﻦﻳﺮﺧﻵﺍ ﺓﺎﻧﺎﻌﻣ ﺞﻋﺰﻳ ﻻ. ﻒﻃﺎﻌﺗ ﻱﺃ {PAWN_nameDef} ﻚﻠﺘﻤﻳ ﻻ}</Psychopath.degreeDatas.psychopath.description>
+  
+  <!-- EN: pyromaniac -->
+  <Pyromaniac.degreeDatas.pyromaniac.label>ﻥﺍﺮﻴﻨﻟﺍ ﻝﺎﻌﺷﺈﺑ ﺱﻭﻮﻬﻣ</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.labelFemale>ﻥﺍﺮﻴﻨﻟﺍ ﻝﺎﻌﺷﺈﺑ ﺔﺳﻭﻮﻬﻣ</Pyromaniac.degreeDatas.pyromaniac.labelFemale>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_gender ? . ﻕﺭﺎﺣ ﺡﻼﺳ ﻞﻤﺣ ﺪﻨﻋ ًﺓﺩﺎﻌﺳ ﺮﺜﻛﺃﻭ ،ﺐﻬﻠﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ًﺓﺪﻴﻌﺳ {PAWN_pronoun} ﻥﻮﻜﺘﺳ. ﻖﺋﺍﺮﺤﻟﺍ ﻝﺎﻌﺷﻹ ﺔﻴﺋﺍﻮﺸﻋ ﺕﺎﺑﻮﻧ ﻲﻓ ﺍًﻧﺎﻴﺣﺃ ﻊﻓﺪﻨﺘﺳﻭ ،ﺍًﺪﺑﺃ ﻥﺍﺮﻴﻨﻟﺍ {PAWN_pronoun} ﺊﻔﻃُﺗ ﻦﻟ. ﺭﺎﻨﻟﺍ {PAWN_nameDef} ّﺐﺤﺗ : . ﻕﺭﺎﺣ ﺡﻼﺳ ﻞﻤﺣ ﺪﻨﻋ ﺓﺩﺎﻌﺳ ﺮﺜﻛﺃﻭ ،ﺐﻬﻠﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺍًﺪﻴﻌﺳ {PAWN_pronoun} ﻥﻮﻜﻴﺳ. ﻖﺋﺍﺮﺤﻟﺍ ﻝﺎﻌﺷﻹ ﺔﻴﺋﺍﻮﺸﻋ ﺕﺎﺑﻮﻧ ﻲﻓ ﺍًﻧﺎﻴﺣﺃ ﻖﻠﻄﻨﻴﺳﻭ ،ﺍًﺪﺑﺃ ﻖﺋﺍﺮﺤﻟﺍ {PAWN_pronoun} ﺊﻔﻄﻳ ﻦﻟ. ﺭﺎﻨﻟﺍ {PAWN_nameDef} ﺐﺤﻳ}</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <!-- EN: quick sleeper -->
+  <QuickSleeper.degreeDatas.quick_sleeper.label>ﻡﻮﻨﻟﺍ ﻊﻳﺮﺳ</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_gender ? . ﺩﺎﺘﻌﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﺜﻠﺛ ﻲﻟﺍﻮﺣ ﻲﻓ ﺔﺣﺍﺮﻟﺍ ﻞﻣﺎﻛ ﻲﻓ {PAWN_pronoun} ﻥﻮﻜﺘﺳ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺃ ﺮﻳﺮﺳ ﻰﻠﻋ ﻡﺎﻨﺗ {PAWN_pronoun} ﺖﻧﺎﻛ ﺀﺍﻮﺳ. ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻞﺜﻣ ﻡﻮﻨﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺭﺪﻗ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﺗ ﻻ : . ﺩﺎﺘﻌﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﺜﻠﺛ ﻲﻟﺍﻮﺣ ﻲﻓ ﺔﺣﺍﺮﻟﺍ ﻞﻣﺎﻜﺑ {PAWN_pronoun} ﻥﻮﻜﻳ ﻑﻮﺴﻓ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺃ ﺮﻳﺮﺳ ﻰﻠﻋ ﺍًﻤﺋﺎﻧ {PAWN_pronoun} ﻥﺎﻛ ﺀﺍﻮﺳ. ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻞﺜﻣ ﻡﻮﻨﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺭﺪﻗ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﻳ ﻻ}</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <!-- EN: slow learner -->
+  <SlowLearner.degreeDatas.slow_learner.label>ﺀﻴﻄﺑ ﻢﻠﻌﺘﻣ</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.labelFemale>ﺔﺌﻴﻄﺑ ﺔﻤﻠﻌﺘﻣ</SlowLearner.degreeDatas.slow_learner.labelFemale>
+  <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_gender ? . ﺎﻫﺮﻴﻏ ﻦﻣ ﺮﻴﺜﻜﺑ ﺄﻄﺑﺃ ﻢﻠﻌﺘﺗ {PAWN_pronoun}. ﻢﻬﻔﻟﺍ ﺔﺌﻴﻄﺑ {PAWN_nameDef} : . ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﺄﻄﺑﺃ ﻢﻠﻌﺘﻳ {PAWN_pronoun}. ﻢﻬﻔﻟﺍ ﺀﻴﻄﺑ {PAWN_nameDef}}</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <!-- EN: too smart -->
+  <TooSmart.degreeDatas.too_smart.label>ًﺍﺪﺟ ﻲﻛﺫ</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.labelFemale>ًﺍﺪﺟ ﺔﻴﻛﺫ</TooSmart.degreeDatas.too_smart.labelFemale>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_gender ? . ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺭﺍﻮﻃﻷﺍ ﺔﺒﻳﺮﻏ ﻥﻮﻜﺗ ﺪﻗ ﺎﻬﻨﻜﻟﻭ ،ﻊﻴﻤﺠﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﺀﻴﺷ ﻞﻛ ﻢﻠﻌﺘﺗ. ﺎﻬﺴﻔﻨﺑ ﺮﻀﺗ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺍًﺪﺟ ﺔﻴﻛﺫ {PAWN_nameDef} : . ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺭﺍﻮﻃﻷﺍ ﺐﻳﺮﻏ ﻥﻮﻜﻳ ﺪﻗ ﻪﻨﻜﻟﻭ ،ﻊﻴﻤﺠﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﺀﻴﺷ ﻞﻛ {PAWN_pronoun} ﻢﻠﻌﺘﻳ. ﻪﺘﺤﻠﺼﻣ ﻲﻓ ﻚﻟﺫ ﻥﻮﻜﻳ ﻥﺃ ﻦﻣ ﻰﻛﺫﺃ {PAWN_nameDef}}</TooSmart.degreeDatas.too_smart.description>
+  
+  <!-- EN: tortured artist -->
+  <TorturedArtist.degreeDatas.tortured_artist.label>ﺏﺬﻌﻣ ﻥﺎﻨﻓ</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.labelFemale>ﺔﺑﺬﻌﻣ ﺔﻧﺎﻨﻓ</TorturedArtist.degreeDatas.tortured_artist.labelFemale>
+  <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_gender ? . ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺪﻌﺑ ﻲﻋﺍﺪﺑﺇ ﻡﺎﻬﻟﺇ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ) ٪ 50 (ﺔﺻﺮﻓ ﺐﺴﺘﻜﺘﺳ ﺎﻬﻨﻜﻟﻭ ،ﺓﺮﻤﺘﺴﻣ ﺔﻴﺒﻠﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻦﻣ {PAWN_pronoun} ﻲﻧﺎﻌﺘﺳ. ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻞﺒﻗ ﻦﻣ ﻢﻬﻔﻟﺍ ﺀﻮﺳﻭ ﺔﻟﺰﻌﻟﺎﺑ {PAWN_nameDef} ﺮﻌﺸﺗ : . ﻲﻠﻘﻋ ﺭﺎﻴﻬﻧﺍ ﺪﻌﺑ ﻲﻋﺍﺪﺑﺇ ﻡﺎﻬﻟﺇ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ) ٪ 50 (ﺔﺻﺮﻓ ﺐﺴﺘﻜﻴﺳ ﻪﻨﻜﻟﻭ ،ﺓﺮﻤﺘﺴﻣ ﺔﻴﺒﻠﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻰﻠﻋ {PAWN_pronoun} ﻞﺼﺤﻴﺳ. ﻦﻳﺮﺧﻵﺍ ﺮﺸﺒﻟﺍ ﻞﺒﻗ ﻦﻣ ﻢﻬﻔﻟﺍ ﺀﻮﺳﻭ ﺔﻟﺰﻌﻟﺎﺑ {PAWN_nameDef} ﺮﻌﺸﻳ}</TorturedArtist.degreeDatas.tortured_artist.description>
+  <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>{PAWN_gender ? . ﺍًﻣﺎﻬﻟﺇ [PAWN_nameIndef] ﺕﺮﺒﺘﺧﺍ ﺪﻘﻓ ،ﻲﻧﺎﻌﺗ ﺔﺑﺬﻌﻣ ﺔﻧﺎﻨﻓ ﺎﻫﺭﺎﺒﺘﻋﺎﺑ : . ﺍًﻣﺎﻬﻟﺇ [PAWN_nameIndef] ﺮﺒﺘﺧﺍ ﺪﻗ ،ﻲﻧﺎﻌﻳ ﺍًﺑﺬﻌﻣ ﺍًﻧﺎﻨﻓ ﻪﺘﻔﺼﺑ}</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: tough -->
+  <Tough.degreeDatas.tough.label>ﺐﻠﺻ</Tough.degreeDatas.tough.label>
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
+  <Tough.degreeDatas.tough.description>{PAWN_gender ? .{PAWN_pronoun} ﻞﺘﻗ ﺍًﺪﺟ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺕﺎﺑﺮﻀﻟﺍ ﺲﻔﻧ ﻦﻣ ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻗﺃ ﺍًﺭﺮﺿ {PAWN_pronoun} ﻰﻘﻠﺘﺗ. ﺔﻨﻴﺘﻣ ﺍًﻣﺎﻈﻋﻭ ﺍًﻔﻴﺜﻛ ﺍًﻤﺤﻟﻭ ﺍًﻜﻴﻤﺳ ﺍًﺪﻠﺟ {PAWN_nameDef} ﻚﻠﺘﻤﺗ : .{PAWN_pronoun} ﻞﺘﻗ ﺍًﺪﺟ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺕﺎﺑﺮﻀﻟﺍ ﺲﻔﻧ ﻦﻣ ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻗﺃ ﺍًﺭﺮﺿ {PAWN_pronoun} ﻰﻘﻠﺘﻳ. ﺔﻨﻴﺘﻣ ﻡﺎﻈﻋﻭ ﻒﻴﺜﻛ ﻢﺤﻟﻭ ﺔﻜﻴﻤﺳ ﺓﺮﺸﺒﺑ {PAWN_nameDef} ﻊﺘﻤﺘﻳ}</Tough.degreeDatas.tough.description>
+  
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>ﺪﺴﺠﻟﺍ ﻝِّﺪﻋُﻣ</Transhumanist.degreeDatas.body_modder.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_gender ? . ﺐﻳﺮﻐﻟﺍ ﺔﺛﺍﺭﻮﻟﺍ ﻢﻠﻋ ﻭﺃ ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻨﻄﺻﺍ ﺀﺍﺰﺟﺄﺑ ﻦﻴﺴﺤﺘﻟﺎﺑ {PAWN_pronoun} ﻢﻠﺤﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ. {PAWN_possessive} ﻒﻴﻌﻀﻟﺍ ﻱﺮﺸﺒﻟﺍ ﺎﻫﺪﺴﺟ ﻲﻓ ﺩﻮﻴﻘﻟﺎﺑ {PAWN_nameDef} ﺮﻌﺸﺗ : . ﺐﻳﺮﻐﻟﺍ ﺔﺛﺍﺭﻮﻟﺍ ﻢﻠﻋ ﻭﺃ ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻨﻄﺻﺍ ﺀﺍﺰﺟﺄﺑ ﻦﻴﺴﺤﺘﻟﺎﺑ {PAWN_pronoun} ﻢﻠﺤﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ. {PAWN_possessive} ﻒﻴﻌﻀﻟﺍ ﻱﺮﺸﺒﻟﺍ ﻩﺪﺴﺟ ﻲﻓ ﺪﻴﻴﻘﺘﻟﺎﺑ {PAWN_nameDef} ﺮﻌﺸﻳ}</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- EN: undergrounder -->
+  <Undergrounder.degreeDatas.undergrounder.label>ﻕﺎﻔﻧﻷﺍ ﺭﺍّﻔﺣ</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.labelFemale>ﻕﺎﻔﻧﻷﺍ ﺓﺭﺍّﻔﺣ</Undergrounder.degreeDatas.undergrounder.labelFemale>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_gender ? . ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺎﻫﺪﺟﺍﻮﺗ ﺀﺎﻨﺛﺃ ﺓﺪﻴﻌﺳ ﺮﻴﻏ {PAWN_nameDef} ﻥﻮﻜﺘﺳ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻤﻠﻈﻟﺍ ﺎﻬﺠﻋﺰﺗ ﻻﻭ ﺔﻨﻴﺑﺎﻜﻟﺍ ﻰﻤﺤﺑ ﺔﺑﺎﺻﻹﺍ ﻭﺃ ﻖﻴﻀﻟﺎﺑ ﺍًﺪﺑﺃ {PAWN_pronoun} ﺮﻌﺸﺗ ﻦﻟ. ﺀﻮﻀﻟﺍ ﻭﺃ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺔﺑﺮﺠﺗ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﺗ ﻻ : . ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻩﺩﻮﺟﻭ ﺀﺎﻨﺛﺃ ﺪﻴﻌﺳ ﺮﻴﻏ {PAWN_nameDef} ﻥﻮﻜﻴﺳ ،ﻚﻟﺫ ﻊﻣﻭ. ﻡﻼﻈﻟﺍ ﻪﺠﻋﺰﻳ ﻻﻭ ﺔﻨﻴﺑﺎﻜﻟﺍ ﻰﻤﺤﺑ ﺔﺑﺎﺻﻹﺍ ﻭﺃ ﻖﻴﻀﻟﺎﺑ ﺍًﺪﺑﺃ {PAWN_pronoun} ﺮﻌﺸﻳ ﻦﻟ. ﺀﻮﻀﻟﺍ ﻭﺃ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺔﺑﺮﺠﺗ ﻰﻟﺇ {PAWN_nameDef} ﺝﺎﺘﺤﻳ ﻻ}</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <!-- EN: wimp -->
+  <Wimp.degreeDatas.wimp.label>ﻥﺎﺒﺟ</Wimp.degreeDatas.wimp.label>
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
+  <Wimp.degreeDatas.wimp.description>{PAWN_gender ? .{PAWN_objective} ﻝِّﻄﻋُﻴﺳ ﻢﻟﻷﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻰﺘﺣ. ﺔﻧﺎﺒﺟﻭ ﺔﻔﻴﻌﺿ {PAWN_nameDef} : .{PAWN_objective} ّﻞﺸﻴﺳ ﻢﻟﻷﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻰﺘﺣ. ﻥﺎﺒﺟﻭ ﻒﻴﻌﺿ {PAWN_nameDef}}</Wimp.degreeDatas.wimp.description>
+  
+</LanguageData>

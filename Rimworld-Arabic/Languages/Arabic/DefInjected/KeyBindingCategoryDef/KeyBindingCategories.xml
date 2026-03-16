@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>ﻱﺭﺎﻤﻌﻣ ﺱﺪﻨﻬﻣ</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﻊﺿﻮﻟ ﺔﻣﺎﻌﻟﺍ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</Architect.description>
+  
+  <!-- EN: debug menu -->
+  <DebugMenu.label>ﺢﻴﺤﺼﺗ ﺔﻤﺋﺎﻗ</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>. ﻂﻘﻓ ﺮﻳﻮﻄﺘﻟﺍ ﻊﺿﻭ ﻲﻓ ﺔﻄﺸﻧ. ﺢﻴﺤﺼﺘﻟﺍ ﻢﺋﺍﻮﻗ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</DebugMenu.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>ﺭﻮﻄﻤﻟﺍ ﺕﺍﻭﺩﺃ</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>. ﻂﻘﻓ ﺮﻳﻮﻄﺘﻟﺍ ﻊﺿﻭ ﻲﻓ ﺔﻄﺸﻧ ﻲﻫﻭ ،ﻯﻮﺘﺤﻤﻟﺍ ﻲﺌﺸﻨﻣﻭ ﻦﻳﺭﻮﻄﻤﻠﻟ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>ﺔﺒﻌﻠﻟﺍ ﺔﻣﺎﻋ</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>. ﺕﻻﺎﺤﻟﺍ ﻢﻈﻌﻣ ﻲﻓ ﻖﺒﻄﻨﺗ ﻲﺘﻟﺍﻭ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﺿﻭ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>ﺍﺮﻴﻣﺎﻛ</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>. ﺍﺮﻴﻣﺎﻜﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>ﺔﻴﺴﻴﺋﺭ ﺕﺎﻣﻼﻋ</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>. ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺎﻣﻼﻌﻠﻟ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>ﺕﻻِّﺪﻋُﻣ</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>. ﻯﺮﺧﻷﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﻞﻳﺪﻌﺘﻟ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>ﺕﺎﻋﻮﻨﺘﻣ</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>. ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺕﺎﻨﺋﺎﻜﻟﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻝﻼﺧ ﻦﻣ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﻡﺪﺨﺘﺳُﺗ ﻲﺘﻟﺍ ﺔﻣﺎﻌﻟﺍ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>ّﺹﺎﺧ</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>. ﺔﻨﻴﻌﻣ ﺕﺎﻨﺋﺎﻛ ﻰﻠﻋ ﺓﺩﺪﺤﻣ ﻒﺋﺎﻇﻮﻟ ﺔﻇﻮﻔﺤﻣ ﺔﺻﺎﺧ ﻢﻜﺤﺗ ﺮﺻﺎﻨﻋ</SelectionSpecial.description>
+  
+</LanguageData>

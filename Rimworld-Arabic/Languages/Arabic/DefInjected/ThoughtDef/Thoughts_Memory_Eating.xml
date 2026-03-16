@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate corpse -->
+  <AteCorpse.stages.ate_corpse.label>ﺔﺜﺟ ﻞﻛﺃ</AteCorpse.stages.ate_corpse.label>
+  <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->
+  <AteCorpse.stages.ate_corpse.description>. ﻪﻴﻬﻃ ﻭﺃ ﻪﺨﻠﺳ ﻥﻭﺩ ﺖﻴﻣ ﻦﺋﺎﻛ ﻢﺤﻟ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ</AteCorpse.stages.ate_corpse.description>
+  
+  <!-- EN: ate fine meal -->
+  <AteFineMeal.stages.ate_fine_meal.label>ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﻝﻭﺎﻨﺗ</AteFineMeal.stages.ate_fine_meal.label>
+  <!-- EN: I ate a really tasty fine meal. Yum! -->
+  <AteFineMeal.stages.ate_fine_meal.description>!ﺓﺬﻠﻟ ﺎﻳ. ًﺍﺪﺟ ﺓﺬﻳﺬﻟ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ُﺖﻟﻭﺎﻨﺗ</AteFineMeal.stages.ate_fine_meal.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>ﺥﻮﺒﻄﻤﻟﺍ ﺮﺸﺒﻟﺍ ﻡﻮﺤﻟ ﻞﻛﺃ</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. This is horrible. -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>. ﻊﻴﻈﻓ ﺍﺬﻫ. ﺮﺧﺁ ٍﻥﺎﺴﻧﺇ ﻢﺤﻟ ﻦﻣ ًﺔﻋﻮﻨﺼﻣ ًﺔﺒﺟﻭ ُﺖﻟﻭﺎﻨﺗ</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>ﺔﺧﻮﺒﻄﻣ ﺔﻳﺮﺸﺑ ﻡﻮﺤﻟ ﻞﻛﺃ</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti. -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>. ﻊﺋﺍﺮﻟﺍ ﺬﻴﺒﻨﻟﺍﻭ ﻢﻃﺎﻤﻄﻟﺍﻭ ﻝﻮﻔﻟﺍ ﺾﻌﺑ ﻚﻠﺘﻣﺃ ﻲﻨﺘﻴﻟ. ﺔﻌﺘﻣ ﻦﻣ ﺎﻬﻟ ﺎﻳ. ﺮﺧﺁ ٍﻥﺎﺴﻧﺇ ﻢﺤﻟ ﻦﻣ ًﺔﻋﻮﻨﺼﻣ ًﺔﺒﺟﻭ ُﺖﻟﻭﺎﻨﺗ</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>ﻡﺎﺧ ﺔﻳﺮﺸﺑ ﻡﻮﺤﻟ ﻞﻛﺃ</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. This is a nightmare. -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>. ﺱﻮﺑﺎﻛ ﺍﺬﻫ. ﻥﺍﻮﻴﺤﻟﺍ ﻞﺜﻣ ،ﺍًﺌﻴﻧ ﺮﺧﺁ ﻥﺎﺴﻧﺇ ﻢﺤﻟ ﺖﻠﻛﺃ</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>ﺔﺌﻴﻧ ﺔﻳﺮﺸﺑ ﻡﻮﺤﻟ ﻞﻛﺃ</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. It was so... succulent. -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>... ﺍًﺪﺟ ﺍًﺬﻳﺬﻟ ﻥﺎﻛ. ﻥﺍﻮﻴﺤﻟﺍ ﻞﺜﻣ ،ﺍًﺌﻴﻧ ﺮﺧﺁ ﻥﺎﺴﻧﺇ ﻢﺤﻟ ﺖﻠﻛﺃ</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  
+  <!-- EN: ate cooked insect meat -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>ﺥﻮﺒﻄﻣ ﺕﺍﺮﺸﺣ ﻢﺤﻟ ﻞﻛﺃ</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  <!-- EN: I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify. -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>. ﺎﻫﺪﻳﺪﺤﺗ ﻊﻴﻄﺘﺳﺃ ﻻ ﻪﻴﻓ ﺔﻠﺋﺎﺳ ﺏﻮﻴﺟﻭ ﺩﺪﻏ ﻙﺎﻨﻫ ﺖﻧﺎﻛ ﻦﻜﻟ ،ﺍًﻴﺋﺰﺟ ﻢﻌﻄﻟﺍ ﺖﻄﻏ ﻞﺑﺍﻮﺘﻟﺍ. ﻖﻟﺯ ﻱﺩﺎﻣﺭ ﺕﺍﺮﺸﺣ ﻢﺤﻟ ﻦﻣ ﺖﻴﻫُﻃ ًﺔﺒﺟﻭ ُﺖﻟﻭﺎﻨﺗ</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+  
+  <!-- EN: ate insect meat -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.label>ﺕﺍﺮﺸﺣ ﻢﺤﻟ ﻞﻛﺃ</AteInsectMeatDirect.stages.ate_insect_meat.label>
+  <!-- EN: I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted. -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.description>. ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﻪﺘﻗﻭﺬﺗ ﺀﻴﺷ ﺃﻮﺳﺃ ﺍﺬﻫ ﻥﺎﻛ ﺎﻤﺑﺭ. ﺔﺟﺰﻠﻟﺍ ﺔﻳﺩﺎﻣﺮﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻡﻮﺤﻟ ﺾﻌﺑ ُﺖﻠﻛﺃ</AteInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  <!-- EN: ate kibble -->
+  <AteKibble.stages.ate_kibble.label>ﻒﻠﻋ ﻞﻛﺃ</AteKibble.stages.ate_kibble.label>
+  <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
+  <AteKibble.stages.ate_kibble.description>. ﺍًﻧﺎﺴﻧﺇ ﻥﻮﻛﺃ ﻥﺃ ﻊﻴﻄﺘﺳﺃ ﺪﻋﺃ ﻢﻟ ﻲﻨﻧﺃ ﻭﺪﺒﻳ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻒﻠﻋ ﻞﻛﺃ ﻰﻟﺇ ُﺕﺭﺮﻄﺿﺍ</AteKibble.stages.ate_kibble.description>
+  
+  <!-- EN: ate lavish meal -->
+  <AteLavishMeal.stages.ate_lavish_meal.label>ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﻝﻭﺎﻨﺗ</AteLavishMeal.stages.ate_lavish_meal.label>
+  <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
+  <AteLavishMeal.stages.ate_lavish_meal.description>. ﻲﺣﻭﺭﻭ ﻱﺪﺴﺟ ﺕّﺬﻏ. ﺔﻌﺋﺍﺭ ﺓﺮﺧﺎﻔﻟﺍ ﺔﺒﺟﻮﻟﺍ ﻚﻠﺗ ﺖﻧﺎﻛ</AteLavishMeal.stages.ate_lavish_meal.description>
+  
+  <!-- EN: ate raw food -->
+  <AteRawFood.stages.ate_raw_food.label>ﺊﻴﻧ ﻡﺎﻌﻃ ﻞﻛﺃ</AteRawFood.stages.ate_raw_food.label>
+  <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
+  <AteRawFood.stages.ate_raw_food.description>. ﺕﺎﻧﺍﻮﻴﺣ ﺎﻨﺴﻟ ﻦﺤﻧ. ﻪﻟﻭﺎﻨﺗ ﻞﺒﻗ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻲﻬﻃ ﺎﻨﻴﻠﻋ ﺐﺠﻳ. ﺊﻴﻧ ﻡﺎﻌﻃ ﻝﻭﺎﻨﺗ ﻰﻟﺇ ُﺕﺭﺮﻄﺿﺍ</AteRawFood.stages.ate_raw_food.description>
+  
+  <!-- EN: ate rotten food -->
+  <AteRottenFood.stages.ate_rotten_food.label>ﺍًﺪﺳﺎﻓ ﺍًﻣﺎﻌﻃ ﻞﻛﺃ</AteRottenFood.stages.ate_rotten_food.label>
+  <!-- EN: I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way. -->
+  <AteRottenFood.stages.ate_rotten_food.description>. ﺓﺪﻴﺠﻟﺍ ﺔﻘﻳﺮﻄﻟﺎﺑ ﺲﻴﻟ ﻦﻜﻟﻭ - ﻲﻤﻓ ﻲﻓ ﺏﻭﺬﻳ ﻥﺎﻛ. ﺍًﻨﻔﻋ ،ﺍًﻓﺮﻘﻣ ﺍًﻣﺎﻌﻃ ُﺖﻟﻭﺎﻨﺗ</AteRottenFood.stages.ate_rotten_food.description>
+  
+</LanguageData>

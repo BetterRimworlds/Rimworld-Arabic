@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>ﻁﻮﺒﻫ ﺔﻟﻮﺴﺒﻛ</ActiveDropPod.label>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPodMechanoid.label>ﻁﻮﺒﻫ ﺔﻟﻮﺴﺒﻛ</ActiveDropPodMechanoid.label>
+  
+  <!-- EN: fire -->
+  <Fire.label>ﺭﺎﻧ</Fire.label>
+  
+  <!-- EN: spark -->
+  <Spark.label>ﺓﺭﺍﺮﺷ</Spark.label>
+  
+</LanguageData>

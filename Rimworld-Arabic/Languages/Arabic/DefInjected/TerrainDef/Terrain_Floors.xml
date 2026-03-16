@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>ﺔﻧﺎﺳﺮﺧ</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>. ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺔﺤﻴﺒﻗ ﺎﻬﻨﻜﻟﻭ ،ﺀﺎﻨﺒﻟﺍ ﺔﻌﻳﺮﺳﻭ ﺔﺼﻴﺧﺭ ﺎﻬﻧﺇ. ﺔﻨﺸﺧ ﺔﻧﺎﺳﺮﺧ</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>ﻲﺒﻫﺫ ﻁﻼﺑ</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>. ﺍًﻠﻌﻓ ﻪﻴﻠﻋ ﺖﺸﻋ ﺍﺫﺇ ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﺱﺮﻄﻐﺘﻣ ﻚﻧﺃ ﺱﺎﻨﻟﺍ ﺪﻘﺘﻌﻴﺳﻭ ،ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻞﻴﻤﺟﻭ ،ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻦﻤﺜﻟﺍ ﻆﻫﺎﺑ ﻮﻬﻓ ؛ﻁﺮﻔﻤﻟﺍ ﺥﺬﺒﻟﺍ ﻲﻓ ﺐﻫﺬﻟﺍ ﻁﻼﺑ ﻲﻫﺎﻀﻳ ﺀﻴﺷ ﻻ</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>ﻱﺫﻻﻮﻓ ﻁﻼﺑ</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>. ﺔﻴﺒﻄﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻲﻓ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺔﻓﺎﻈﻨﻠﻟ ﺓﺄﻓﺎﻜﻣ ﺢﻨﻤﻳﻭ ﻒﻴﻈﻨﺘﻟﺍ ﻊﻳﺮﺳ ﻪﻧﺇ. ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻪﺒﺸﺗ ﺔﻟﻼﻃﻹ ،ﻱﺫﻻﻮﻓ ﻁﻼﺑ</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>ﻑﻮﺻﺮﻣ ﻁﻼﺑ</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>. ﺀﺎﻨﺒﻟﺍ ﺀﻴﻄﺑﻭ ﺮﻬﻈﻤﻟﺍ ﺚﻴﺣ ﻦﻣ ﺪﻳﺎﺤﻣ ﻪﻨﻜﻟﻭ ،ﺺﻴﺧﺭ. ﻲﻧﺎﺳﺮﺧ ﻁﻼﺑ</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>ﻲﻀﻓ ﻁﻼﺑ</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>. ﺔﻓﺎﻈﻨﻠﻟ ﺓﺄﻓﺎﻜﻣ ﺢﻨﻤﻳﻭ ﻒﻴﻈﻨﺘﻟﺍ ﻊﻳﺮﺳ ﻮﻫﻭ ،ﺓﺮﺧﺎﻔﻟﺍ ﻑﺮﻐﻟﺍ ﻊﻣ ﻲﻟﺎﺜﻣ ﻞﻜﺸﺑ ﻲﻀﻔﻟﺍ ﻁﻼﺒﻟﺍ ﺐﺳﺎﻨﺘﻳ ،ﺔﻴﻜﻠﻣ ﺔﻴﻠﺒﻘﺘﺴﻣ ﺔﻟﻼﻃﻹ</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>ﻢﻘﻌﻣ ﻁﻼﺑ</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>. ﻒﻴﻈﻨﺘﻟﺍ ﻊﻳﺮﺳ ﻪﻨﻜﻟﻭ ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺍًﺪﺟ ﺀﻴﻄﺑ ﻁﻼﺒﻟﺍ ﺍﺬﻫﻭ ،ﺙﺎﺤﺑﻷﺍ ﺕﺍﺮﺒﺘﺨﻣﻭ ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﺞﺋﺎﺘﻨﻟﺍ ﻦﺴﺤﺗ ﺔﻓﺎﻈﻨﻟﺍ ﺔﻘﺋﺎﻓ ﻑﺮﻐﻟﺍﻭ ،ﺔﻓﺎﻈﻨﻟﺍ ﺯﺰﻌﺗ ﺔﺻﺎﺧ ﺺﺋﺎﺼﺨﺑ ﺔﻤﻘﻌﻣ ﺕﺎﻃﻼﺑ</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>ﺶﻗ ﺓﺮﻴﺼﺣ</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>. ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺍًﺪﺟ ﻞﻴﻠﻘﻟﺍ ﺐﻋﻮﺘﺴﻳﻭ ﺺﻴﺧﺭ ﻪﻧﺇ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺮﺋﺎﻈﺣ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺶﻘﻟﺍ ﻦﻣ ﻦﺸﺧ ﺵﺮﻓ</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>ﺔﻴﺒﺸﺧ ﺔﻴﺿﺭﺃ</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>. ﻝﺎﻌﺘﺷﻻﺍ ﺓﺪﻳﺪﺷ ﺎﻬﻧﺃ ﻻﺇ ،ﺎﻬﺒﻴﻛﺮﺗ ﺔﻟﻮﻬﺳ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ ،ﺢﻳﺮﻤﻟﺍﻭ ﺊﻓﺍﺪﻟﺍ ﺭﻮﻌﺸﻟﺍ ﻚﻟﺫ ﺀﺎﻔﺿﻹ ﺔﻴﺒﺸﺧ ﺡﺍﻮﻟﺃ ﻦﻣ ﺔﻴﺿﺭﺃ</WoodPlankFloor.description>
+  
+</LanguageData>

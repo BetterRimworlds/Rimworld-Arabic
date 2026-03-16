@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EMP -->
+  <EMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ</EMP.label>
+  <!-- EN: {0} has been EMPed to death. -->
+  <EMP.deathMessage>. ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ ﺔﻄﺳﺍﻮﺑ {0} ﺮﻴﻣﺪﺗ ﻢﺗ ﺪﻘﻟ</EMP.deathMessage>
+  
+  <!-- EN: stun -->
+  <Stun.label>ﻝﻮﻫﺫ</Stun.label>
+  <!-- EN: {0} has been stunned to death. -->
+  <Stun.deathMessage>. ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻝﻮﻫﺬﻟﺎﺑ {0} ﺐﻴﺻُﺃ ﺪﻘﻟ</Stun.deathMessage>
+  
+</LanguageData>

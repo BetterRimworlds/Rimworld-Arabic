@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>ﻚﻴﺗﻮﻛﺭﺃ ﻉﺍﺭﺫ</ArchotechArm.label>
+  <!-- EN: An installed archotech arm. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻟﺍ ﻊﻴﻤﺠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻪﺗﺎﻴﻟﺁ ﻥﺇ. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻪﺴﻔﻧ ﺢﻠﺼﻳ ﻪﻧﺈﻓ ،ﺭﺮﻀﻠﻟ ﺽﺮﻌﺗ ﻮﻟ ﻰﺘﺣ. ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ﺔﻧﺎﺘﻣ ﺮﺜﻛﺃ ﻪﻨﻜﻟﻭ ،ﻲﻌﻴﺒﻃ ﻢﺤﻟ ﻪﻧﺄﻛﻭ ﺮﻌﺸﻳﻭ ﻭﺪﺒﻳ. ﺯﺭﺃ ﺔﺒﺣ ﻰﻠﻋ ﺔﺘﻴﻧﻮﺳ ﺔﺑﺎﺘﻜﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻖﻴﻗﺩﻭ ،ﻩﺪﻳ ﻲﻓ ﻚﻴﻤﺳ ﻲﺒﺸﺧ ﻦﺼﻏ ﻖﺤﺴﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻱﻮﻗ ﻪﻧﺇ. ٌﺕَّﺒﺛُﻣ ﻚﻴﺗﻮﻛﺭﺃ ﻉﺍﺭﺫ</ArchotechArm.description>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>ﺔﻀﺒﻗ</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>ﻚﻴﺗﻮﻛﺭﺃ ﻉﺍﺭﺫ</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>ﻚﻴﺗﻮﻛﺭﺃ ﻦﻴﻋ</ArchotechEye.label>
+  <!-- EN: An installed archotech eye. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
+  <ArchotechEye.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻬﺗﺎﻴﻟﺁ. ﺓﺪﻴﻔﻤﻟﺍ ﺔﻴﺋﺮﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺯﺍﺮﺑﺇ ﻲﻓ ﺪﻋﺎﺴﻳ ﻲﻠﺧﺍﺩ ﻲﻋﺮﻓ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺫ ﺎﻬﻳﺪﻟﻭ ،ﻱﻭﺪﻳ ﺡﺎﺒﺼﻣ ﻞﺜﻣ ﻉﺎﻌﺷﻹﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﺔﻴﺟﻮﻣ ﻝﺍﻮﻃﺃ ﺭﺍﺪﺻﺇ ﺎﻬﻨﻜﻤﻳ. ﺍًﺮﺘﻣ ﻦﻳﺮﺸﻋ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻳﻭﺪﻴﻟﺍ ﺔﺑﺎﺘﻜﻟﺍ ﺓﺀﺍﺮﻘﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻘﻴﻗﺩ ﺎﻫﺮﺼﺑ ﺓﺪﺣ. ﺎﻣﺎﺟ ﺔﻌﺷﺃﻭ ﺔﻴﻨﻴﺴﻟﺍ ﺔﻌﺷﻷﺍﻭ ﺀﻮﻀﻟﺍﻭ ﺀﺍﺮﻤﺤﻟﺍ ﺖﺤﺗ ﺔﻌﺷﻷﺍﻭ ﻮﻳﺩﺍﺮﻟﺍ ﺕﺎﺟﻮﻣ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﻉﺎﻌﺷﻹﺍ ﻉﺍﻮﻧﺃ ﻞﻛ ﻙﺭﺪﺗ. ﺔﺘﺒﺛُﻣ ﻚﻴﺗﻮﻛﺭﺃ ﻦﻴﻋ</ArchotechEye.description>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ﻚﻴﺗﻮﻛﺭﺃ ﻦﻴﻋ</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>ﻚﻴﺗﻮﻛﺭﺃ ﻕﺎﺳ</ArchotechLeg.label>
+  <!-- EN: An installed archotech leg. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻟﺍ ﻊﻴﻤﺠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻬﺗﺎﻴﻟﺁ ﻥﺇ. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺎﻬﺴﻔﻧ ﺢﻠﺼﺗ ﺎﻬﻧﺈﻓ ،ﺕﺭﺮﻀﺗ ﺍﺫﺇ ﻰﺘﺣﻭ. ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ﻒﻠﺘﻠﻟ ﺔﻣﻭﺎﻘﻣ ﺮﺜﻛﺃ ﻲﻫﻭ ،ﺓﺪﻴﺟ ﺓﺭﺎﻴﺳ ﺔﻋﺮﺴﺑ ﻡﺪﺨﺘﺴﻤﻟﺍ ﻙﺮﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﺎﻬﻨﻣ ﺍًﺟﻭﺯ ﻦﻜﻟﻭ ،ﻲﻌﻴﺒﻃ ﻢﺤﻟ ﺎﻬﻧﺄﻛﻭ ﺮﻌﺸﺗﻭ ﻭﺪﺒﺗ. ﺔﺘﺒﺛُﻣ ﻚﻴﺗﻮﻛﺭﺃ ﻕﺎﺳ</ArchotechLeg.description>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ﻚﻴﺗﻮﻛﺭﺃ ﻕﺎﺳ</ArchotechLeg.labelNoun>
+  
+</LanguageData>

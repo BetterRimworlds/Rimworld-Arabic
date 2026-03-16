@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca --><!-- EN: alpaca -->
+  <Alpaca.label>ﺔﻜﺒﻟﺃ</Alpaca.label><!-- EN: alpacas -->
+  <Alpaca.labelPlural>ﺔﻛَﺒﻟﺃ</Alpaca.labelPlural><!-- EN: cría de alpaca -->
+  <Alpaca.lifeStages.0.label>ﺔﻜﺒﻟﻷﺍ ﺭﺎﻐﺻ</Alpaca.lifeStages.0.label><!-- EN: crías de alpaca -->
+  <Alpaca.lifeStages.0.labelPlural>ﺔﻜﺒﻟﻷﺍ ﺭﺎﻐﺻ</Alpaca.lifeStages.0.labelPlural><!-- EN: alpaca joven -->
+  <Alpaca.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺔﻜﺒﻟﺃ</Alpaca.lifeStages.1.label><!-- EN: alpacas jóvenes -->
+  <Alpaca.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺔﻜﺒﻟﺃ</Alpaca.lifeStages.1.labelPlural><!-- EN: alpaca -->
+  <Alpaca.lifeStages.2.label>ﺔﻜﺒﻟﺃ</Alpaca.lifeStages.2.label><!-- EN: alpacas -->
+  <Alpaca.lifeStages.2.labelPlural>ﺔﻛَﺒﻟﺃ</Alpaca.lifeStages.2.labelPlural>
+  
+  <!-- EN: capybara --><!-- EN: capibara -->
+  <Capybara.label>ﺍﺭﺎﺑ ﻲﺑﺎﻛ</Capybara.label><!-- EN: capibaras -->
+  <Capybara.labelPlural>ﺱﺍﺭﺎﺑ ﻲﺑﺎﻛ</Capybara.labelPlural><!-- EN: cría de capibara -->
+  <Capybara.lifeStages.0.label>ﺍﺭﺎﺑﺎﻴﺑﺎﻜﻟﺍ ﺭﺎﻐﺻ</Capybara.lifeStages.0.label><!-- EN: crías de capibara -->
+  <Capybara.lifeStages.0.labelPlural>ﺍﺭﺎﺑ‌ﻲﺑﺎﻛ ﺭﺎﻐﺻ</Capybara.lifeStages.0.labelPlural><!-- EN: capibara joven -->
+  <Capybara.lifeStages.1.label>ﺮﻴﻐﺻ ﺍﺭﺎﺒﻴﺑﺎﻛ</Capybara.lifeStages.1.label><!-- EN: capibaras jóvenes -->
+  <Capybara.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺍﺭﺎﺒﻴﺑﺎﻛ</Capybara.lifeStages.1.labelPlural><!-- EN: capibara -->
+  <Capybara.lifeStages.2.label>ﺍﺭﺎﺑ ﻲﺑﺎﻛ</Capybara.lifeStages.2.label><!-- EN: capibaras -->
+  <Capybara.lifeStages.2.labelPlural>ﺱﺍﺭﺎﺑ ﻲﺑﺎﻛ</Capybara.lifeStages.2.labelPlural>
+  
+  <!-- EN: megasloth --><!-- EN: megaperezoso -->
+  <Megasloth.label>ﻕﻼﻤﻋ ﻥﻼﺴﻛ</Megasloth.label><!-- EN: megaperezosos -->
+  <Megasloth.labelPlural>ﺔﻗﻼﻤﻋ ﻰﻟﺎﺴﻛ</Megasloth.labelPlural><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.label>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﺮﻴﻐﺻ</Megasloth.lifeStages.0.label><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemale>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﺓﺮﻴﻐﺻ</Megasloth.lifeStages.0.labelFemale><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemalePlural>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﺭﺎﻐﺻ</Megasloth.lifeStages.0.labelFemalePlural><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelPlural>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﺭﺎﻐﺻ</Megasloth.lifeStages.0.labelPlural><!-- EN: megaperezoso joven -->
+  <Megasloth.lifeStages.1.label>ﺮﻴﻐﺻ ﻕﻼﻤﻋ ﻥﻼﺴﻛ</Megasloth.lifeStages.1.label><!-- EN: megaperezosos jóvenes -->
+  <Megasloth.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺔﻗﻼﻤﻋ ﻰﻟﺎﺴﻛ</Megasloth.lifeStages.1.labelPlural><!-- EN: megaperezoso -->
+  <Megasloth.lifeStages.2.label>ﻕﻼﻤﻋ ﻥﻼﺴﻛ</Megasloth.lifeStages.2.label><!-- EN: megaperezosos -->
+  <Megasloth.lifeStages.2.labelPlural>ﺔﻗﻼﻤﻋ ﻰﻟﺎﺴﻛ</Megasloth.lifeStages.2.labelPlural>
+  
+  <!-- EN: sheep --><!-- EN: oveja -->
+  <Sheep.label>ﻑﻭﺮﺧ</Sheep.label>
+  <!-- EN: ewe --><!-- EN: oveja -->
+  <Sheep.labelFemale>ﺔﺠﻌﻧ</Sheep.labelFemale><!-- EN: ovejas -->
+  <Sheep.labelFemalePlural>ﻡﺎﻨﻏﺃ</Sheep.labelFemalePlural>
+  <!-- EN: ram --><!-- EN: carnero -->
+  <Sheep.labelMale>ﺶﺒﻛ</Sheep.labelMale><!-- EN: carneros -->
+  <Sheep.labelMalePlural>ﺵﺎﺒﻛ</Sheep.labelMalePlural>
+  <!-- EN: sheep --><!-- EN: ovejas -->
+  <Sheep.labelPlural>ﻡﺎﻨﻏﺃ</Sheep.labelPlural>
+  <!-- EN: lamb --><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.label>ٌﻝَﻣَﺣ</Sheep.lifeStages.lamb.label><!-- EN: cordera -->
+  <Sheep.lifeStages.lamb.labelFemale>ﺔﻟَﻣَﺣ</Sheep.lifeStages.lamb.labelFemale><!-- EN: corderas -->
+  <Sheep.lifeStages.lamb.labelFemalePlural>ﺕﻼَﻣَﺣ</Sheep.lifeStages.lamb.labelFemalePlural><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.labelMale>ﻝَﻣَﺣ</Sheep.lifeStages.lamb.labelMale><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelMalePlural>ﻥﻼﻣِﺣ</Sheep.lifeStages.lamb.labelMalePlural>
+  <!-- EN: lambs --><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelPlural>ﻥﻼﻣِﺣ</Sheep.lifeStages.lamb.labelPlural><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.label>ﺮﻴﻐﺻ ﻝَﻣَﺣ</Sheep.lifeStages.1.label><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺓﺎﺷ</Sheep.lifeStages.1.labelFemale><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﻥﻼﻣِﺣ</Sheep.lifeStages.1.labelFemalePlural><!-- EN: carnero joven -->
+  <Sheep.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺶﺒﻛ</Sheep.lifeStages.1.labelMale><!-- EN: carneros jóvenes -->
+  <Sheep.lifeStages.1.labelMalePlural>ﺭﺎﻐﺻ ﺵﺎﺒﻛ</Sheep.lifeStages.1.labelMalePlural><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﻥﻼﻤﺣ</Sheep.lifeStages.1.labelPlural><!-- EN: oveja -->
+  <Sheep.lifeStages.2.label>ﻑﻭﺮﺧ</Sheep.lifeStages.2.label><!-- EN: oveja -->
+  <Sheep.lifeStages.2.labelFemale>ﺔﺠﻌﻧ</Sheep.lifeStages.2.labelFemale><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelFemalePlural>ﻡﺎﻨﻏﺃ</Sheep.lifeStages.2.labelFemalePlural><!-- EN: carnero -->
+  <Sheep.lifeStages.2.labelMale>ﺶﺒﻛ</Sheep.lifeStages.2.labelMale><!-- EN: carneros -->
+  <Sheep.lifeStages.2.labelMalePlural>ﺵﺎﺒﻛ</Sheep.lifeStages.2.labelMalePlural><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelPlural>ﻡﺎﻨﻏﺃ</Sheep.lifeStages.2.labelPlural>
+  
+</LanguageData>

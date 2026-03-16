@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>ﺍﻟﻌﻤﻴﻖ ﺍﻟﺤﻔﺮ</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>ﺍﻟﻤﻮﺍﺭﺩ ﻋﻠﻰ ﻟﻠﻌﺜﻮﺭ ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻣﺎﺳﺢ ﺇﻟﻰ ﺳﺘﺤﺘﺎﺝ ﺍﻷﺭﺽ. ﺗﺤﺖ ﻣﻦ ﺍﻟﻤﻮﺍﺭﺩ ﻻﺳﺘﺨﺮﺍﺝ ﻋﻤﻴﻖ ﺣﻔﺮ ﻣﺜﺎﻗﺐ ﺍﺑﻦِ.</DeepDrilling.description>
+  <!-- EN:
+    <li>subject->deep mining</li>
+    <li>subject_story->moved in with a dirtmole-led corp, studying its deepest excavations</li>
+    <li>subject_story->drilled down to the ice cap's root to discover the world's extinct prehuman biome</li>
+    <li>subject_story->became wealthy from the resources dug out of the world's core</li>
+    <li>subject_gerund->mining deeply</li>
+  -->
+  <DeepDrilling.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻌﻤﻴﻖ ﺍﻟﺘﻌﺪﻳﻦ</li>
+    <li>subject_FemMas->ﺍﻟﻌﻤﻴﻖ ﺍﻟﺘﻌﺪﻳﻦ</li>
+    <li>subject_def->ﺍﻟﻌﻤﻴﻖ ﻟﻠﺘﻌﺪﻳﻦ</li>
+    <li>subject_def2->ﺍﻟﻌﻤﻴﻖ ﺍﻟﺘﻌﺪﻳﻦ ﺇﻟﻰ</li>
+    <li>subject_story->ﺣﻔﺮﻳﺎﺗﻬﺎ ﺃﻋﻤﻖ ﻭﺩﺭﺱ ﺍﻟﺪﻳﺮﺗﻤﻮﻝ، ﻓﺼﻴﻠﺔ ﺗﻘﻮﺩﻫﺎ ﺷﺮﻛﺔ ﻣﻊ ﻟﻠﻌﻴﺶ ﺍﻧﺘﻘﻞ</li>
+    <li>subject_story->ﺍﻟﻌﺎﻟﻢ ﻓﻲ ﺍﻟﻤﻨﻘﺮﺽ ﺍﻟﺒﺸﺮﻱ ﻗﺒﻞ ﻣﺎ ﺍﻟﺤﻴﻮﻱ ﺍﻹﻗﻠﻴﻢ ﻻﻛﺘﺸﺎﻑ ﺍﻟﺠﻠﻴﺪﻱ ﺍﻟﻐﻄﺎﺀ ﺟﺬﺭ ﺣﺘﻰ ﺣﻔﺮ</li>
+    <li>subject_story->ﺍﻟﻌﺎﻟﻢ ﻧﻮﺍﺓ ﻣﻦ ﺍﻟﻤﺴﺘﺨﺮﺟﺔ ﺍﻟﻤﻮﺍﺭﺩ ﻣﻦ ﺛﺮﻳًﺎ ﺃﺻﺒﺢ</li>
+    <li>subject_gerund->ﺑﻌﻤﻖ ﺍﻟﺘﻌﺪﻳﻦ</li>
+  </DeepDrilling.generalRules.rulesStrings>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>ﻣﺴﻄﺤﺔ ﺑﺸﺎﺷﺔ ﺗﻠﻔﺎﺯ</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>ﺃﻛﺒﺮ ﻟﻤﺘﻌﺔ ﻣﺴﻄﺤﺔ ﺑﺸﺎﺷﺔ ﺍﻟﺪﻗﺔ ﻋﺎﻟﻴﺔ ﺗﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ ﺃﻧﺘﺞ.</FlatscreenTelevision.description>
+  <!-- EN:
+    <li>subject->flatscreen televisions</li>
+    <li>subject_story->experimented with removing tubes from televisions</li>
+    <li>subject_story->agitated for galaxy-wide, high-resolution broadcasts of [tv_content]</li>
+    <li>tv_content->soap operas</li>
+    <li>tv_content->news programmes</li>
+    <li>tv_content->revolutionary propaganda</li>
+    <li>tv_content->glitterworld fashion</li>
+    <li>tv_content->docartoons</li>
+    <li>subject_story->became a television executive, in charge of [tv_content]</li>
+    <li>subject_gerund->producing flatscreen televisions</li>
+  -->
+  <FlatscreenTelevision.generalRules.rulesStrings>
+    <li>subject->ﻣﺴﻄﺤﺔ ﺑﺸﺎﺷﺔ ﺗﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ</li>
+    <li>subject_FemMas->ﺍﻟﻤﺴﻄﺤﺔ ﺍﻟﺸﺎﺷﺔ ﺫﺍﺕ ﺍﻟﺘﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ</li>
+    <li>subject_def->ﺍﻟﻤﺴﻄﺤﺔ ﺍﻟﺸﺎﺷﺔ ﺫﺍﺕ ﺍﻟﺘﻠﻔﺎﺯ ﻷﺟﻬﺰﺓ</li>
+    <li>subject_def2->ﺍﻟﻤﺴﻄﺤﺔ ﺍﻟﺸﺎﺷﺔ ﺫﺍﺕ ﺍﻟﺘﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﺘﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ ﻣﻦ ﺍﻷﻧﺎﺑﻴﺐ ﺇﺯﺍﻟﺔ ﺟﺮّﺏ</li>
+    <li>subject_story->ﻟﻤﺤﺘﻮﻯ ﺍﻟﻤﺠﺮﺓ ﻣﺴﺘﻮﻯ ﻋﻠﻰ ﺍﻟﺪﻗﺔ ﻋﺎﻟﻴﺔ ﺑﺜّﺎﺕ ﺃﺟﻞ ﻣﻦ ﻧﺎﺿﻞ [tv_content]</li>
+    <li>subject_story->ﻋﻦ ﻣﺴﺆﻭﻟًﺎ ﻟﻠﺘﻠﻔﺰﻳﻮﻥ، ﺗﻨﻔﻴﺬﻳًﺎ ﻣﺪﻳﺮًﺍ ﺃﺻﺒﺢ [tv_content]</li>
+    <li>tv_content->ﺩﺭﺍﻣﻴﺔ ﻣﺴﻠﺴﻻﺖ</li>
+    <li>tv_content->ﺃﺧﺒﺎﺭ ﺑﺮﺍﻣﺞ</li>
+    <li>tv_content->ﺛﻮﺭﻳﺔ ﺩﻋﺎﻳﺔ</li>
+    <li>tv_content->ﺍﻟﻐﻠﻴﺘﺮ ﻋﻮﺍﻟﻢ ﻣﻮﺿﺔ</li>
+    <li>tv_content->ﻭﺛﺎﺋﻘﻴﺔ ﺭﺳﻮﻡ</li>
+    <li>subject_gerund->ﻣﺴﻄﺤﺔ ﺑﺸﺎﺷﺔ ﺗﻠﻔﺎﺯ ﺃﺟﻬﺰﺓ ﺇﻧﺘﺎﺝ</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻣﺎﺳﺢ</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>ﻣﺘﻘﺪﻣًﺎ ﻣﻜﻮّﻧًﺎ ﺍﻟﺒﻨﺎﺀ ﻳﺘﻄﻠﺐ ﺍﻟﺴﻄﺢ ﺗﺤﺖ ﻟﻠﺤﻔﺮ ﺍﻟﻘﺎﺑﻠﺔ ﺍﻟﻤﻮﺍﺭﺩ ﺍﻛﺘﺸﺎﻑ ﻳﻤﻜﻨﻬﺎ. ﺍﻷﺭﺽ ﻻﺧﺘﺮﺍﻕ ﻣﺎﺳﺤﺎﺕ ﺍﺑﻦِ.</GroundPenetratingScanner.description>
+  <!-- EN:
+    <li>subject->geophysics</li>
+    <li>subject->ground-penetrating scanners</li>
+    <li>subject_story->discovered the bones of ancient giants, far below the planet's surface</li>
+    <li>subject_story->stumbled across a rich gold seam whilst scanning for tin and became fabulously wealthy</li>
+    <li>subject_story->scanned the ground for ancient minefields, to protect the people</li>
+    <li>subject_gerund->constructing geophysical scanners</li>
+  -->
+  <GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺠﻴﻮﻟﻮﺟﻴﺔ ﺍﻟﻔﻴﺰﻳﺎﺀ</li>
+    <li>subject_FemMas->ﺍﻟﺠﻴﻮﻟﻮﺟﻴﺔ ﺍﻟﻔﻴﺰﻳﺎﺀ</li>
+    <li>subject->ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻣﺎﺳﺤﺎﺕ</li>
+    <li>subject_FemMas->ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻣﺎﺳﺤﺎﺕ</li>
+    <li>subject_def->ﺍﻟﺠﻴﻮﻟﻮﺟﻴﺔ ﻟﻠﻔﻴﺰﻳﺎﺀ</li>
+    <li>subject_def2->ﺍﻟﺠﻴﻮﻟﻮﺟﻴﺔ ﺍﻟﻔﻴﺰﻳﺎﺀ ﺇﻟﻰ</li>
+    <li>subject_def->ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻟﻤﺎﺳﺤﺎﺕ</li>
+    <li>subject_def2->ﺍﻷﺭﺽ ﺍﺧﺘﺮﺍﻕ ﻣﺎﺳﺤﺎﺕ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﻜﻮﻛﺐ ﺳﻄﺢ ﺗﺤﺖ ﻋﻤﻴﻘًﺎ ﻗﺪﻣﺎﺀ، ﻋﻤﺎﻟﻘﺔ ﻋﻈﺎﻡ ﺍﻛﺘﺸﻒ</li>
+    <li>subject_story->ﻓﺎﺣﺸًﺎ ﺛﺮﺍﺀً ﺛﺮﻳًﺎ ﻭﺃﺻﺒﺢ ﺍﻟﻘﺼﺪﻳﺮ ﻋﻦ ﺑﺤﺜًﺎ ﺍﻟﻤﺴﺢ ﺃﺛﻨﺎﺀ ﻏﻨﻲ ﺫﻫﺐ ﻋِﺮﻕ ﻋﻠﻰ ﻣﺼﺎﺩﻓﺔً ﻋﺜﺮ</li>
+    <li>subject_story->ﺍﻟﻨﺎﺱ ﻟﺤﻤﺎﻳﺔ ﻗﺪﻳﻤﺔ ﺃﻟﻐﺎﻡ ﺣﻘﻮﻝ ﻋﻦ ﺑﺤﺜًﺎ ﺍﻷﺭﺽ ﻣﺴﺢ</li>
+    <li>subject_gerund->ﺟﻴﻮﻓﻴﺰﻳﺎﺋﻴﺔ ﻣﺎﺳﺤﺎﺕ ﺑﻨﺎﺀ</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>ﺁﻟﻲ ﻣﺪﻓﻊ ﺑﺮﺝ</HeavyTurrets.label>
+  <!-- EN: Produce the heavy autocannon turret. -->
+  <HeavyTurrets.description>ﺍﻟﻤﺴﺘﻌﻤﺮﺓ ﻋﻦ ﻟﻠﺪﻓﺎﻉ ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪﺓ ﺛﻘﻴﻠﺔ ﺁﻟﻴﺔ ﻣﺪﺍﻓﻊ ﺃﺑﺮﺍﺝ ﺍﺑﻦِ.</HeavyTurrets.description>
+  <!-- EN:
+    <li>subject->autocannon turrets</li>
+    <li>subject_story->held off a cultist assault alone, hiding behind a wall of turrets</li>
+    <li>subject_story->was hired to establish a defensive perimeter of sandbags and turrets for the locals</li>
+    <li>subject_story->built turret after turret, never asking who was buying them</li>
+    <li>subject_gerund->crafting heavy autocannon turrets</li>
+  -->
+  <HeavyTurrets.generalRules.rulesStrings>
+    <li>subject->ﺁﻟﻴﺔ ﻣﺪﺍﻓﻊ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_FemMas->ﺍﻵﻟﻴﺔ ﺍﻟﻤﺪﺍﻓﻊ ﺃﺑﺮﺍﺝ</li>
+    <li>subject_def->ﺍﻵﻟﻴﺔ ﺍﻟﻤﺪﺍﻓﻊ ﻷﺑﺮﺍﺝ</li>
+    <li>subject_def2->ﺍﻵﻟﻴﺔ ﺍﻟﻤﺪﺍﻓﻊ ﺃﺑﺮﺍﺝ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻷﺑﺮﺍﺝ ﻣﻦ ﺟﺪﺍﺭ ﺧﻠﻒ ﻣﺨﺘﺒﺌًﺎ ﻭﺣﺪﻩ، ﻟﻄﺎﺋﻔﻴﻴﻦ ﻫﺠﻮﻣًﺎ ﺻﺪّ</li>
+    <li>subject_story->ﺍﻟﻤﺤﻠﻴﻴﻦ ﺍﻟﺴﻜﺎﻥ ﻟﺼﺎﻟﺢ ﻭﺍﻷﺑﺮﺍﺝ ﺍﻟﺮﻣﻞ ﺃﻛﻴﺎﺱ ﻣﻦ ﺩﻓﺎﻋﻲ ﻣﺤﻴﻂ ﻹﻧﺸﺎﺀ ﺗﻮﻇﻴﻔﻪ ﺗﻢ</li>
+    <li>subject_story->ﻳﺸﺘﺮﻳﻬﺎ ﻛﺎﻥ ﻣﻦ ﻳﺴﺄﻝ ﺃﻥ ﺩﻭﻥ ﺍﻵﺧﺮ ﺗﻠﻮ ﺑﺮﺟًﺎ ﺑﻨﻰ</li>
+    <li>subject_gerund->ﺛﻘﻴﻠﺔ ﺁﻟﻴﺔ ﻣﺪﺍﻓﻊ ﺃﺑﺮﺍﺝ ﺗﺼﻨﻴﻊ</li>
+  </HeavyTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>ﻣﺴﺘﺸﻔﻰ ﺳﺮﻳﺮ</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>ﺍﻟﻄﺒﻲ ﺍﻟﻌﻻﺞ ﻧﺘﺎﺋﺞ ﺗﺤﺴّﻦ ﻣﺴﺘﺸﻔﻰ ﺃﺳﺮّﺓ ﺍﺑﻦِ.</HospitalBed.description>
+  <!-- EN:
+    <li>subject->hospitalization</li>
+    <li>subject_story->oversaw a revolution in the standards of medical care</li>
+    <li>subject_story->constructed the first of the system's public hospitals</li>
+    <li>subject_story->focused on profit, selling [ANYPAWN_pronoun] superior medical suites to the wealthy</li>
+    <li>subject_gerund->constructing hospital beds</li>
+  -->
+  <HospitalBed.generalRules.rulesStrings>
+    <li>subject->ﺍﻻﺳﺘﺸﻔﺎﺀ</li>
+    <li>subject_FemMas->ﺍﻻﺳﺘﺸﻔﺎﺀ</li>
+    <li>subject_def->ﻟﻻﺴﺘﺸﻔﺎﺀ</li>
+    <li>subject_def2->ﺍﻻﺳﺘﺸﻔﺎﺀ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﻄﺒﻴﺔ ﺍﻟﺮﻋﺎﻳﺔ ﻣﻌﺎﻳﻴﺮ ﻓﻲ ﺛﻮﺭﺓ ﻋﻠﻰ ﺃﺷﺮﻑ</li>
+    <li>subject_story->ﺍﻟﻨﻈﺎﻡ ﻓﻲ ﻋﺎﻡ ﻣﺴﺘﺸﻔﻰ ﺃﻭﻝ ﺷﻴّﺪ</li>
+    <li>subject_story->ﻟﻷﺜﺮﻳﺎﺀ ﻓﺎﺋﻘﺔ ﻃﺒﻴﺔ ﺃﺟﻨﺤﺔ ﻭﺑﺎﻉ ﺍﻟﺮﺑﺢ، ﻋﻠﻰ ﺭﻛّﺰ</li>
+    <li>subject_gerund->ﻣﺴﺘﺸﻔﻰ ﺃﺳﺮّﺓ ﺑﻨﺎﺀ</li>
+  </HospitalBed.generalRules.rulesStrings>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪ ﻣﻌﺎﺩﻥ ﻣﺎﺳﺢ</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>ﻣﺘﻘﺪﻣﺔ ﻣﻜﻮّﻧﺎﺕ ﺍﻟﺒﻨﺎﺀ ﻳﺘﻄﻠﺐ ﻣﺤﺪﺩ ﻣﻌﺪﻥ ﻋﻠﻰ ﻟﻠﻌﺜﻮﺭ ﺿﺒﻄﻬﺎ ﻳﻤﻜﻦ ﺍﻟﻜﻮﻛﺐ ﻋﺒﺮ ﺍﻟﺜﻤﻴﻨﺔ. ﺍﻟﻤﻌﺎﺩﻥ ﻻﻛﺘﺸﺎﻑ ﺍﺳﺘﺨﺪﺍﻣﻬﺎ ﻟﺒﺎﺣﺜﻴﻚ ﻳﻤﻜﻦ ﺍﻟﻤﺪﻯ. ﺑﻌﻴﺪﺓ ﻣﻌﺎﺩﻥ ﻣﺎﺳﺤﺎﺕ ﺍﺑﻦِ.</LongRangeMineralScanner.description>
+  <!-- EN:
+    <li>subject->long-range mineral detection</li>
+    <li>subject_story->built so many scanners that the planet's entire geology was revealed</li>
+    <li>subject_story->discovered with a scanner what the other settlements were mining and made huge profits through trading</li>
+    <li>subject_story->mined out the entirety of the planet's jade for religious effigies</li>
+    <li>subject_gerund->constructing long-range mineral scanners</li>
+  -->
+  <LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪ ﺍﻟﻤﻌﺎﺩﻥ ﻛﺸﻒ</li>
+    <li>subject_FemMas->ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪ ﺍﻟﻤﻌﺎﺩﻥ ﻛﺸﻒ</li>
+    <li>subject_def->ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪ ﺍﻟﻤﻌﺎﺩﻥ ﻟﻜﺸﻒ</li>
+    <li>subject_def2->ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪ ﺍﻟﻤﻌﺎﺩﻥ ﻛﺸﻒ ﺇﻟﻰ</li>
+    <li>subject_story->ﺑﺄﻛﻤﻠﻬﺎ ﺍﻟﻜﻮﻛﺐ ﺟﻴﻮﻟﻮﺟﻴﺎ ﺍﻧﻜﺸﻔﺖ ﺣﺘﻰ ﺍﻟﻤﺎﺳﺤﺎﺕ ﻣﻦ ﻫﺎﺋﻠًﺎ ﻋﺪﺩًﺍ ﺑﻨﻰ</li>
+    <li>subject_story->ﺍﻟﺘﺠﺎﺭﺓ ﻋﺒﺮ ﺿﺨﻤﺔ ﺃﺭﺑﺎﺣًﺎ ﻭﺣﻘﻖ ﺗﺴﺘﺨﺮﺟﻪ ﺍﻷﺧﺮﻯ ﺍﻟﻤﺴﺘﻮﻃﻨﺎﺕ ﻛﺎﻧﺖ ﻣﺎ ﻣﺎﺳﺢ ﺑﻮﺍﺳﻄﺔ ﺍﻛﺘﺸﻒ</li>
+    <li>subject_story->ﺩﻳﻨﻴﺔ ﺗﻤﺎﺛﻴﻞ ﻟﺼﻨﻊ ﺍﻟﻜﻮﻛﺐ ﻳﺸﻢّ ﻛﺎﻣﻞ ﺍﺳﺘﺨﺮﺝ</li>
+    <li>subject_gerund->ﺍﻟﻤﺪﻯ ﺑﻌﻴﺪﺓ ﻣﻌﺎﺩﻥ ﻣﺎﺳﺤﺎﺕ ﺑﻨﺎﺀ</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>ﺍﻟﺪﻭﺍﺀ ﺇﻧﺘﺎﺝ</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>ﻭﺍﻟﻘﻤﺎﺵ ﻭﺍﻟﻨﻴﺘﺮﻭﺃﻣﻴﻦ ﺍﻟﻌﺸﺒﻲ ﺍﻟﺪﻭﺍﺀ ﺩﻣﺞ ﻋﺒﺮ ﺻﻨﺎﻋﻴﺔ ﺑﺘﻘﻨﻴﺔ ﻗﻴﺎﺳﻴًﺎ ﺩﻭﺍﺀً ﺃﻧﺘﺞ.</MedicineProduction.description>
+  <!-- EN:
+    <li>subject->medical synthesis</li>
+    <li>subject->medicine production</li>
+    <li>subject_story->researched urbworld medicine, aiming to distribute the knowledge more widely</li>
+    <li>subject_story->was puzzled by the origins of neutroamine and determined to find out more</li>
+    <li>subject_story->seized the resources of a drug-dealer and produced useful medicines instead</li>
+    <li>subject_gerund->producing industrial-tech medicine</li>
+  -->
+  <MedicineProduction.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﻄﺒﻲ ﺍﻟﺘﺨﻠﻴﻖ</li>
+    <li>subject_FemMas->ﺍﻟﻄﺒﻲ ﺍﻟﺘﺨﻠﻴﻖ</li>
+    <li>subject->ﺍﻟﺪﻭﺍﺀ ﺇﻧﺘﺎﺝ</li>
+    <li>subject_FemMas->ﺍﻟﺪﻭﺍﺀ ﺇﻧﺘﺎﺝ</li>
+    <li>subject_def->ﺍﻟﻄﺒﻲ ﻟﻠﺘﺨﻠﻴﻖ</li>
+    <li>subject_def2->ﺍﻟﻄﺒﻲ ﺍﻟﺘﺨﻠﻴﻖ ﺇﻟﻰ</li>
+    <li>subject_def->ﺍﻟﺪﻭﺍﺀ ﻹﻧﺘﺎﺝ</li>
+    <li>subject_def2->ﺍﻟﺪﻭﺍﺀ ﺇﻧﺘﺎﺝ ﺇﻟﻰ</li>
+    <li>subject_story->ﺃﻭﺳﻊ ﻧﻄﺎﻕ ﻋﻠﻰ ﺍﻟﻤﻌﺮﻓﺔ ﻧﺸﺮ ﺇﻟﻰ ﺳﺎﻋﻴًﺎ ﺍﻟﻤﺪﻥ، ﻋﻮﺍﻟﻢ ﻃﺐ ﻓﻲ ﺑﺤﺚ</li>
+    <li>subject_story->ﺍﻟﻤﺰﻳﺪ ﻣﻌﺮﻓﺔ ﻋﻠﻰ ﻭﻋﺰﻡ ﺍﻟﻨﻴﺘﺮﻭﺃﻣﻴﻦ ﺃﺻﻮﻝ ﻣﻦ ﺗﺤﻴّﺮ</li>
+    <li>subject_story->ﻣﻔﻴﺪﺓ ﺃﺩﻭﻳﺔ ﺫﻟﻚ ﻣﻦ ﺑﺪﻟًﺎ ﻭﺃﻧﺘﺞ ﻣﺨﺪﺭﺍﺕ ﺗﺎﺟﺮ ﻣﻮﺍﺭﺩ ﻋﻠﻰ ﺍﺳﺘﻮﻟﻰ</li>
+    <li>subject_gerund->ﺻﻨﺎﻋﻴﺔ ﺑﺘﻘﻨﻴﺔ ﺩﻭﺍﺀ ﺇﻧﺘﺎﺝ</li>
+  </MedicineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ ﺃﺳﺎﺳﻴﺎﺕ</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>ﺍﻻﺗﺼﺎﻻﺕ ﻭﻭﺣﺪﺓ ﺍﻟﺘﻘﻨﻴﺔ ﻋﺎﻟﻴﺔ ﺍﻟﺒﺤﺚ. ﻃﺎﻭﻟﺔ ﻫﺬﺍ ﻳﻔﺘﺢ ﻣﻌﻘﺪﺓ ﺩﻗﻴﻘﺔ ﺇﻟﻜﺘﺮﻭﻧﻴﺎﺕ ﻋﻠﻰ ﺍﻋﻤﻞ.</MicroelectronicsBasics.description>
+  <!-- EN:
+    <li>subject->microelectronics</li>
+    <li>subject_story->moved into the development of microelectronics</li>
+    <li>subject_story->constructed the first of many research bench variants</li>
+    <li>subject_story->moved from town to town, praising the virtues of pure research</li>
+    <li>subject_gerund->crafting microelectronics</li>
+  -->
+  <MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ</li>
+    <li>subject_FemMas->ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ</li>
+    <li>subject_def->ﺍﻟﺪﻗﻴﻘﺔ ﻟﻹﻠﻜﺘﺮﻭﻧﻴﺎﺕ</li>
+    <li>subject_def2->ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ ﺗﻄﻮﻳﺮ ﺇﻟﻰ ﺍﺗﺠﻪ</li>
+    <li>subject_story->ﺍﻟﺒﺤﺚ ﻃﺎﻭﻻﺕ ﻧﻤﺎﺫﺝ ﻣﻦ ﺍﻟﻌﺪﻳﺪ ﺑﻴﻦ ﻣﻦ ﻧﻤﻮﺫﺝ ﺃﻭﻝ ﺷﻴّﺪ</li>
+    <li>subject_story->ﺍﻟﺨﺎﻟﺺ ﺍﻟﺒﺤﺚ ﻓﻀﺎﺋﻞ ﻣﺎﺩﺣًﺎ ﺃﺧﺮﻯ ﺇﻟﻰ ﺑﻠﺪﺓ ﻣﻦ ﺗﻨﻘّﻞ</li>
+    <li>subject_gerund->ﺍﻟﺪﻗﻴﻘﺔ ﺍﻹﻟﻜﺘﺮﻭﻧﻴﺎﺕ ﺗﺼﻨﻴﻊ</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>ﺭﻃﻮﺑﺔ ﻣﻀﺨﺔ</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>ﻋﺎﺩﻱ ﺭﻣﻞ ﺇﻟﻰ ﺍﻟﻨﺎﻋﻢ ﺍﻟﺮﻣﻞ ﻭﺗﺤﻮﻳﻞ ﺍﻟﺮﻃﺒﺔ ﺍﻷﺭﺽ ﺗﺠﻔﻴﻒ ﻳﻤﻜﻨﻬﺎ. ﺷﺪﻳﺪ ﺑﺒﻂﺀ ﺣﻮﻟﻬﺎ ﺍﻷﺭﺽ ﻓﻲ ﺍﻟﺮﻃﻮﺑﺔ ﺗُﻄﺒّﻊ ﺭﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ ﺍﺑﻦِ.</MoisturePump.description>
+  <!-- EN:
+    <li>subject->moisture pumps</li>
+    <li>subject_story->studied the ancient windmill moisture pumps of Earth</li>
+    <li>subject_story->drained the great swamps that bred disease</li>
+    <li>subject_story->tried to drain the seas, foolishly</li>
+    <li>subject_gerund->constructing moisture pumps</li>
+  -->
+  <MoisturePump.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺮﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ</li>
+    <li>subject_FemMas->ﺍﻟﺮﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ</li>
+    <li>subject_def->ﺍﻟﺮﻃﻮﺑﺔ ﻟﻤﻀﺨﺎﺕ</li>
+    <li>subject_def2->ﺍﻟﺮﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻷﺭﺽ ﻋﻠﻰ ﺍﻟﻬﻮﺍﺋﻴﺔ ﺍﻟﻄﻮﺍﺣﻴﻦ ﺫﺍﺕ ﺍﻟﻘﺪﻳﻤﺔ ﺍﻟﺮﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ ﺩﺭﺱ</li>
+    <li>subject_story->ﺍﻷﻣﺮﺍﺽ ﺗُﻨﺘﺞ ﻛﺎﻧﺖ ﺍﻟﺘﻲ ﺍﻟﻌﻈﻴﻤﺔ ﺍﻟﻤﺴﺘﻨﻘﻌﺎﺕ ﺟﻔّﻒ</li>
+    <li>subject_story->ﺑﺤﻤﺎﻗﺔ ﺍﻟﺒﺤﺎﺭ ﺗﺠﻔﻴﻒ ﺣﺎﻭﻝ</li>
+    <li>subject_gerund->ﺭﻃﻮﺑﺔ ﻣﻀﺨﺎﺕ ﺑﻨﺎﺀ</li>
+  </MoisturePump.generalRules.rulesStrings>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>ﺍﻟﺴﺒﻄﺎﻧﺎﺕ ﻣﺘﻌﺪﺩﺓ ﺃﺳﻠﺤﺔ</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>ﺑﺘﺠﻤﻴﻊ ﻗﻢ miniguns.</MultibarrelWeapons.description>
+  <!-- EN:
+    <li>subject->miniguns</li>
+    <li>subject_story->constructed a unique portable minigun, which was the only thing found after the squad's disappearance</li>
+    <li>subject_story->designed massive hoppers to ensure the minigun ammo didn't run out</li>
+    <li>subject_story->built guns explicitly to kill every last person in a room</li>
+    <li>subject_gerund->crafting multibarrel weapons</li>
+  -->
+  <MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subject->miniguns</li>
+    <li>subject_FemMas->miniguns</li>
+    <li>subject_def->ﻝـ miniguns</li>
+    <li>subject_def2->ﺇﻟﻰ miniguns</li>
+    <li>subject_story->ﺍﻟﻔﺼﻴﻠﺔ minigun ﺍﺧﺘﻔﺎﺀ ﺑﻌﺪ ﻋﻠﻴﻪ ﻋُﺜﺮ ﺍﻟﺬﻱ ﺍﻟﻮﺣﻴﺪ ﺍﻟﺸﻲﺀ ﻭﻛﺎﻧﺖ ﻓﺮﻳﺪﺓ، ﻣﺤﻤﻮﻟﺔ ﺻﻨﻊ</li>
+    <li>subject_story->ﺍﻝـ ﺫﺧﻴﺮﺓ ﺗﻨﻔﺪ ﺃﻻ ﻟﻀﻤﺎﻥ ﺿﺨﻤﺔ ﻗﻮﺍﺩﻳﺲ ﺻﻤّﻢ minigun</li>
+    <li>subject_story->ﻏﺮﻓﺔ ﻓﻲ ﺃﺧﻴﺮ ﺷﺨﺺ ﻛﻞ ﻟﻘﺘﻞ ﺧﺼﻴﺼًﺎ ﺃﺳﻠﺤﺔ ﺑﻨﻰ</li>
+    <li>subject_gerund->ﺍﻟﺴﺒﻄﺎﻧﺎﺕ ﻣﺘﻌﺪﺩﺓ ﺃﺳﻠﺤﺔ ﺗﺼﻨﻴﻊ</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>ﺩﻗﻴﻘﺔ ﺑﻨﺎﺩﻕ</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>ﺍﻟﻘﻨﺺ ﻭﺑﻨﺎﺩﻕ ﺍﻟﻬﺠﻮﻡ ﺑﻨﺎﺩﻕ ﻣﺜﻞ ﺑﺪﻗﺔ ﻣُﺸﻐَّﻠﺔ ﺃﺳﻠﺤﺔ ﺍﺻﻨﻊ.</PrecisionRifling.description>
+  <!-- EN:
+    <li>subject->rifles</li>
+    <li>subject_story->improved the tolerances of a foundry's processes, enabling the production of quality rifling</li>
+    <li>subject_story->was hunted by neanderthals but constructed a sniper rifle to safely kill their leader</li>
+    <li>subject_story->became briefly famous for shooting an ambrosia fruit out of the overlord's hand</li>
+    <li>subject_gerund->crafting rifles</li>
+  -->
+  <PrecisionRifling.generalRules.rulesStrings>
+    <li>subject->ﺑﻨﺎﺩﻕ</li>
+    <li>subject_FemMas->ﺍﻟﺒﻨﺎﺩﻕ</li>
+    <li>subject_def->ﻟﻠﺒﻨﺎﺩﻕ</li>
+    <li>subject_def2->ﺍﻟﺒﻨﺎﺩﻕ ﺇﻟﻰ</li>
+    <li>subject_story->ﺍﻟﺠﻮﺩﺓ ﻋﺎﻟﻲ ﺑﻨﺎﺩﻕ ﺗﺨﺪﻳﺪ ﺇﻧﺘﺎﺝ ﺃﺗﺎﺡ ﻣﻤﺎ ﻣﺴﺒﻚ، ﻋﻤﻠﻴﺎﺕ ﻓﻲ ﺍﻟﺴﻤﺎﺣﻴﺔ ﻫﻮﺍﻣﺶ ﺣﺴّﻦ</li>
+    <li>subject_story->ﺑﺄﻣﺎﻥ ﺯﻋﻴﻤﻬﻢ ﻟﻘﺘﻞ ﻗﻨﺺ ﺑﻨﺪﻗﻴﺔ ﺻﻨﻊ ﻟﻜﻨﻪ ﺍﻟﻨﻴﺎﻧﺪﺭﺗﺎﻝ ﻃﺎﺭﺩﻩ</li>
+    <li>subject_story->ﺍﻟﻤﺘﺴﻠﻂ ﺍﻟﺴﻴﺪ ﻳﺪ ﻣﻦ ﻭﺇﺳﻘﺎﻃﻬﺎ ﺃﻣﺒﺮﻭﺯﻳﺎ ﺛﻤﺮﺓ ﻹﺻﺎﺑﺘﻪ ﻭﺟﻴﺰﺓ ﻟﻔﺘﺮﺓ ﻣﺸﻬﻮﺭًﺍ ﺃﺻﺒﺢ</li>
+    <li>subject_gerund->ﺍﻟﺒﻨﺎﺩﻕ ﺗﺼﻨﻴﻊ</li>
+  </PrecisionRifling.generalRules.rulesStrings>
+  
+  <!-- EN: shields -->
+  <ShieldBelt.label>ﺩﺭﻭﻉ</ShieldBelt.label>
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
+  <ShieldBelt.description>ﺍﻟﺤﻘﻞ ﺣﺪﻭﺩ ﻋﺒﻮﺭ ﻣﻦ ﺍﻟﻤﻘﺬﻭﻓﺎﺕ. ﻟﻤﻨﻊ ﺍﻟﺰﺧﻢ ﺻﺪّ ﺗﻘﻨﻴﺔ ﺍﻟﺪﺭﻭﻉ ﺗﺴﺘﺨﺪﻡ ﻟﻻﺮﺗﺪﺍﺀ ﻗﺎﺑﻞ ﺩﺭﻉ ﻋﺘﺎﺩ ﺍﺑﻦِ.</ShieldBelt.description>
+  <!-- EN:
+    <li>subject->personal shielding</li>
+    <li>subject_story->survived an assassination attempt, thanks to a prototype shield</li>
+    <li>subject_story->hustled at billiards, using a hidden momentum repeller</li>
+    <li>subject_story->killed an enemy by advancing a blade slowly enough to bypass their shield</li>
+    <li>subject_gerund->crafting personal shields</li>
+  -->
+  <ShieldBelt.generalRules.rulesStrings>
+    <li>subject->ﺍﻟﺸﺨﺼﻴﺔ ﺍﻟﺪﺭﻭﻉ</li>
+    <li>subject_FemMas->ﺍﻟﺸﺨﺼﻴﺔ ﺍﻟﺪﺭﻭﻉ</li>
+    <li>subject_def->ﺍﻟﺸﺨﺼﻴﺔ ﻟﻠﺪﺭﻭﻉ</li>
+    <li>subject_def2->ﺍﻟﺸﺨﺼﻴﺔ ﺍﻟﺪﺭﻭﻉ ﺇﻟﻰ</li>
+    <li>subject_story->ﻧﻤﻮﺫﺟﻲ ﺩﺭﻉ ﺑﻔﻀﻞ ﺍﻏﺘﻴﺎﻝ ﻣﺤﺎﻭﻟﺔ ﻣﻦ ﻧﺠﺎ</li>
+    <li>subject_story->ﻣﺨﻔﻴًﺎ ﺯﺧﻢ ﻃﺎﺭﺩ ﻣﺴﺘﺨﺪﻣًﺎ ﺍﻟﺒﻠﻴﺎﺭﺩﻭ ﻓﻲ ﺍﺣﺘﺎﻝ</li>
+    <li>subject_story->ﺩﺭﻋﻪ ﻟﺘﺠﺎﻭﺯ ﻛﺎﻑٍ ﺑﺒﻂﺀ ﻧﺼﻞ ﺑﺘﻘﺪﻳﻢ ﻋﺪﻭًﺍ ﻗﺘﻞ</li>
+    <li>subject_gerund->ﺷﺨﺼﻴﺔ ﺩﺭﻭﻉ ﺗﺼﻨﻴﻊ</li>
+  </ShieldBelt.generalRules.rulesStrings>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>ﻧﻘﻞ ﻛﺒﺴﻮﻻﺕ</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>ﺫﻟﻚ ﻭﻏﻴﺮ ﺍﻟﻬﺪﺍﻳﺎ ﻭﺇﺭﺳﺎﻝ ﻭﺍﻟﺴﻔﺮ ﻟﻠﻐﺎﺭﺍﺕ ﺍﺳﺘﺨﺪﺍﻣﻬﺎ ﻳﻤﻜﻦ ﺍﻟﻜﻮﻛﺐ ﺳﻄﺢ ﻋﺒﺮ ﻃﻮﻳﻠﺔ ﻟﻤﺴﺎﻓﺎﺕ ﻭﺍﻹﻣﺪﺍﺩﺍﺕ ﺍﻷﺷﺨﺎﺹ. ﻹﺭﺳﺎﻝ ﺍﺳﺘﺨﺪﺍﻣﻬﺎ ﻳﻤﻜﻨﻚ ﻟﻹﻄﻻﻖ ﻗﺎﺑﻠﺔ ﻧﻘﻞ ﻛﺒﺴﻮﻻﺕ ﺍﺑﻦِ.</TransportPod.description>
+  <!-- EN:
+    <li>subject->transport pods</li>
+    <li>subject_story->landed a pod in the middle of a feral tribe and barely escaped alive</li>
+    <li>subject_story->spent a fortune sending a transport pod to the object of [ANYPAWN_possessive] affection, carrying a single wedding ring</li>
+    <li>subject_story->staved off famine through judicious pod deployment</li>
+    <li>subject_gerund->constructing transport pods</li>
+  -->
+  <TransportPod.generalRules.rulesStrings>
+    <li>subject->ﻧﻘﻞ ﻛﺒﺴﻮﻻﺕ</li>
+    <li>subject_FemMas->ﺍﻟﻨﻘﻞ ﻛﺒﺴﻮﻻﺕ</li>
+    <li>subject_def->ﺍﻟﻨﻘﻞ ﻟﻜﺒﺴﻮﻻﺕ</li>
+    <li>subject_def2->ﺍﻟﻨﻘﻞ ﻛﺒﺴﻮﻻﺕ ﺇﻟﻰ</li>
+    <li>subject_story->ﺣﻴًﺎ ﺑﺎﻟﻜﺎﺩ ﻭﻧﺠﺎ ﻣﺘﻮﺣﺸﺔ ﻗﺒﻴﻠﺔ ﻭﺳﻂ ﻛﺒﺴﻮﻟﺔ ﺃﻧﺰﻝ</li>
+    <li>subject_story->ﻭﺍﺣﺪًﺍ ﺯﻓﺎﻑ ﺧﺎﺗﻢ ﺗﺤﻤﻞ ، ﻣﻮﺩﺓ ﻣﻮﺿﻮﻉ ﺇﻟﻰ [ANYPAWN_possessive]ﻧﻘﻞ ﻛﺒﺴﻮﻟﺔ ﻹﺭﺳﺎﻝ ﺛﺮﻭﺓ ﺃﻧﻔﻖ</li>
+    <li>subject_story->ﺑﺤﻜﻤﺔ ﺍﻟﻜﺒﺴﻮﻻﺕ ﻧﺸﺮ ﻋﺒﺮ ﺍﻟﻤﺠﺎﻋﺔ ﺩﺭﺃ</li>
+    <li>subject_gerund->ﻧﻘﻞ ﻛﺒﺴﻮﻻﺕ ﺑﻨﺎﺀ</li>
+  </TransportPod.generalRules.rulesStrings>
+  
+</LanguageData>

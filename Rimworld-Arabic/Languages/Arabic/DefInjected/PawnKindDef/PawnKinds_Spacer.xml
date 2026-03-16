@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier --><!-- EN: soldado antiguo -->
+  <AncientSoldier.label>ﻢﻳﺪﻗ ﻱﺪﻨﺟ</AncientSoldier.label><!-- EN: soldado antigua -->
+  <AncientSoldier.labelFemale>ﺍﻮﻜﻴﺘﻧﺃ ﺔﻳﺪﻨﺟ</AncientSoldier.labelFemale><!-- EN: soldados antiguos -->
+  <AncientSoldier.labelPlural>ﻰﻣﺍﺪﻗ ﺩﻮﻨﺟ</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee.label>ﻲﺋﺎﻀﻓ ﺊﺟﻻ</SpaceRefugee.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee.labelFemale>ﺔﻴﺋﺎﻀﻓ ﺔﺌﺟﻻ</SpaceRefugee.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee.labelPlural>ﻥﻮﻴﺋﺎﻀﻓ ﻥﻮﺌﺟﻻ</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee_Clothed.label>ﻲﺋﺎﻀﻓ ﺊﺟﻻ</SpaceRefugee_Clothed.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee_Clothed.labelFemale>ﺔﻴﺋﺎﻀﻓ ﺔﺌﺟﻻ</SpaceRefugee_Clothed.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee_Clothed.labelPlural>ﻥﻮﻴﺋﺎﻀﻓ ﻥﻮﺌﺟﻻ</SpaceRefugee_Clothed.labelPlural>
+  
+</LanguageData>

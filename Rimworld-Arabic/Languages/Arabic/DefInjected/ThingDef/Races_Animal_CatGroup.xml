@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>ﺔﻄﻗ</Cat.label>
+  <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
+  <Cat.description>. ﻪﻠﻴﻟﺪﺗ ﻊﺘﻣُﻳ ﻱﺬﻟﺍ ﻢﻋﺎﻨﻟﺍ ﺎﻬﺋﺍﺮﻓﻭ ﺔﺋﺩﺎﻬﻟﺍ ﺎﻬﺘﻌﻴﺒﻃﻭ ﺎﻬﺘﻴﻟﻼﻘﺘﺳﺍ ﺐﺒﺴﺑ ﺕﺎﻌﺋﺎﺷ ﺕﺎﻘﻴﻓﺭ ﻂﻄﻘﻟﺍ ﻞﻈﺗ ،ﺪﻌﺒﻟﺍﻭ ﻆﻔﺤﺘﻟﺎﺑ ﺎﻬﺗﺮﻬﺷ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺽﺭﺍﻮﻘﻟﺍ ﺩﺎﻄﺼﺗ ﺓﺮﻴﻐﺻ ﺔﻴﻳﺪﺛ ﻲﻫﻭ ،ﺮﺸﺒﻟﺍ ﻯﺪﻟ ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺋﺍﻭﺃ ﻦﻣ ﺔﻄﻘﻟﺍ</Cat.description>
+  <!-- EN: left claw -->
+  <Cat.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Cat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Cat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Cat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Cat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat.tools.head.label>ﺱﺃﺭ</Cat.tools.head.label>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>ﺎﻴﻨﻴﻏ ﺮﻳﺰﻨﺧ</GuineaPig.label>
+  <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
+  <GuineaPig.description>. ﺬﻳﺬﻟ ﺀﺎﺸﻋﻭ ﻒﻴﻟﺃ ﻥﺍﻮﻴﺤﻛ ﺓﺮﻴﻐﺼﻟﺍ ﺽﺭﺍﻮﻘﻟﺍ ﻩﺬﻫ ﻰﺑﺭُﺗ ،ﺎﻴﻨﻴﻏ ﺕﺎﻧﺍﻮﻴﺣ ﻦﻣ ﻻﻭ ﺍًﺮﻳﺰﻨﺧ ﺖﺴﻴﻟ</GuineaPig.description>
+  <!-- EN: left claw -->
+  <GuineaPig.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</GuineaPig.tools.left_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</GuineaPig.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <GuineaPig.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</GuineaPig.tools.right_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</GuineaPig.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <GuineaPig.tools.head.label>ﺱﺃﺭ</GuineaPig.tools.head.label>
+  
+  <!-- EN: husky -->
+  <Husky.label>ﻲﻜﺳﺎﻫ</Husky.label>
+  <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
+  <Husky.description>. ﺔﻴﺒﻄﻘﻟﺍ ﺕﺎﺌﻴﺒﻟﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﻚﻴﻤﺳ ﻭﺮﻓ ﻭﺫ ﻂﻴﺸﻧﻭ ﺮﻴﺒﻛ ﺐﻠﻛ</Husky.description>
+  <!-- EN: left claw -->
+  <Husky.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Husky.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Husky.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Husky.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Husky.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Husky.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Husky.tools.head.label>ﺱﺃﺭ</Husky.tools.head.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.label>
+  <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
+  <LabradorRetriever.description>. ﺔﻠﺋﺎﻌﻠﻟ ﺍًﻘﻳﺪﺻﻭ ﺐﻌﻠﻟ ﺍًﻘﻴﻓﺭﻭ ﺍًﺯﺎﺘﻤﻣ ﺍًﺳﺭﺎﺣ ﺮﺒﺘﻌﻳ ﺐﻠﻜﻟﺍ ﻥﺃ ﺎﻤﻛ ،ﺪﻴﺼﻟﺍ ﻲﻓ ﺎﻫﺩﺎﻴﻄﺻﺍ ﻢﺗ ﻲﺘﻟﺍ ﺭﻮﻴﻄﻟﺍ ﺓﺩﺎﻌﺘﺳﻻ ﻞﺻﻷﺍ ﻲﻓ ﻪﺘﻴﺑﺮﺗ ﻢﺗ. ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣﻭ ﺕﺎﻣﺍﺪﺨﺘﺳﻻﺍ ﺩﺪﻌﺘﻣ ﺐﻠﻛ</LabradorRetriever.description>
+  <!-- EN: left claw -->
+  <LabradorRetriever.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</LabradorRetriever.tools.left_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</LabradorRetriever.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <LabradorRetriever.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</LabradorRetriever.tools.right_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</LabradorRetriever.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <LabradorRetriever.tools.head.label>ﺱﺃﺭ</LabradorRetriever.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>ﺩﺮﻗ</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>. ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﻡﺎﻬﻣ ﺬﻴﻔﻨﺗ ﻰﻠﻋ ﺎﻬﺒﻳﺭﺪﺗ ﻦﻜﻤﻳﻭ ،ﺔﻴﻛﺫ ﺎﻬﻨﻜﻟﻭ ﺔﻴﻧﺎﻧﺃ ﺓﺩﺮﻘﻟﺍ. ﻯﺮﺧﺃ ﺀﺎﻴﺷﺄﺑ ﻡﺎﻴﻘﻠﻟ ﺓﺮﺣ ﻪﻳﺪﻳ ﻙﺮﺘﻳ ﺎﻤﻣ ،ﻥﺎﺼﻏﻷﺎﺑ ﺚﺒﺸﺘﻠﻟ ﺝﺮﻌﺘﻤﻟﺍ ﻪﻠﻳﺫ ﻡﺍﺪﺨﺘﺳﺍ ﻪﻨﻜﻤﻳ ،ﺮﻴﻐﺻ ﺩﺮﻗ ﻮﻫﻭ ،ﺩﺮﻘﻟﺍ</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>ﻯﺮﺴﻳ ﺔﻀﺒﻗ</Monkey.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.left_fist.labelNoLocation>ﺔﻀﺒﻗ</Monkey.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﺔﻀﺒﻗ</Monkey.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.right_fist.labelNoLocation>ﺔﻀﺒﻗ</Monkey.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>ﺱﺃﺭ</Monkey.tools.head.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.label>
+  <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweigh the cost of feeding it. -->
+  <YorkshireTerrier.description>. ﻪﻣﺎﻌﻃﺇ ﺔﻔﻠﻜﺗ ﻕﻮﻔﻳ ﺪﻗ ﻪﻔﻧﺄﺑ ﻊﻓﺪﻟﺎﺑ ﻪﺤﻨﻤﻳ ﻱﺬﻟﺍ ﺝﺍﺰﻤﻟﺍ ﻲﻓ ﻦﺴﺤﺘﻟﺍ ﻦﻜﻟ ،ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﺾﻌﺒﻟﺍ ﻩﺮﺒﺘﻌﻳ. ﺔﻘﻓﺮﻟﺍﻭ ﺽﻭﺮﻌﻠﻟ ﺍًﻧﺍﻮﻴﺣ ﺢﺒﺻﺃ ﻢﺛ ،ﻥﺍﺮﺌﻔﻟﺍ ﺪﻴﺼﻟ ﻞﺻﻷﺍ ﻲﻓ ﻰﺑﺮﺗ. ﻉﺎﺒﻄﻟﺍ ﻊﻳﺩﻭ ،ﺮﻴﻐﺻ ﺐﻠﻛ</YorkshireTerrier.description>
+  <!-- EN: left claw -->
+  <YorkshireTerrier.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</YorkshireTerrier.tools.left_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</YorkshireTerrier.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <YorkshireTerrier.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</YorkshireTerrier.tools.right_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</YorkshireTerrier.tools.right_claw.labelNoLocation>
+  <!-- EN: cute little teeth -->
+  <YorkshireTerrier.tools.cute_little_teeth.label>ﺔﻔﻴﻄﻟ ﺓﺮﻴﻐﺻ ﻥﺎﻨﺳﺃ</YorkshireTerrier.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <YorkshireTerrier.tools.head.label>ﺱﺃﺭ</YorkshireTerrier.tools.head.label>
+  
+</LanguageData>

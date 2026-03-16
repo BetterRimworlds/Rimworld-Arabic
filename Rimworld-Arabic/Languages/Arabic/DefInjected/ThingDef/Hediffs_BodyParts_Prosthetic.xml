@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>ﺔﻌﻗﻮﻗ ﺔﻋﺭﺯ</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>. ﻢﻤﺼﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﻪﻨﻜﻟﻭ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻥﺫﻷﺍ ﻞﺜﻣ ﺍًﺪﻴﺟ ﺲﻴﻟ ﻪﻧﺇ. ﻊﻤﺴﻟﺎﺑ ﺍًﺳﺎﺴﺣﺇ ﻖﻠﺨﻳ ﺎﻤﻣ ،ﺕﻮﺼﻠﻟ ﺍًﻘﻓﻭ ﺏﺎﺼﻋﻷﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺏﺎﻄﻗﻷﺍ ﺰﻔﺤﺗ. ﺔﻴﻠﺧﺍﺪﻟﺍ ﻥﺫﻷﺍ ﻲﻓ ﻲﻌﻤﺴﻟﺍ ﺭﺎﻌﺸﺘﺳﻻﺍ ﺏﺎﺼﻋﺃ ﻝﻮﺣ ﺔﻔﺘﻠﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺏﺎﻄﻗﺃ ﻰﻟﺇ ﺔﻴﺗﻮﺻ ﺓﺭﺎﺷﺇ ﻲﺟﺭﺎﺧ ﻥﻮﻓﻭﺮﻜﻴﻣ ﻞﻘﻨﻳ. ﻲﻌﻴﺒﻄﻟﺍ ﻊﻤﺴﻟﺍ ﻞﺤﻣ ﻞﺤﺗ ﺔﻋﺭﺯ</CochlearImplant.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ</Joywire.label>
+  <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>. ﺎﻬﻠﻤﻛﺄﺑ ﺕﺎﻓﺎﻘﺛ ﺮﻴﻣﺪﺘﺑ ﺔﻓﻭﺮﻌﻣﻭ ،ﻢﻟﺍﻮﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺔﺠﻬﺒﻟﺍ ﻙﻼﺳﺃ. ﻲﻘﻴﻘﺣ ﺀﻴﺷ ﻱﺃ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣ ﻞﻌﺠﺗ ﺓﺩﺎﻌﺴﻟﺍ ﺔﻘﺒﻃ ﻥﺈﻓ ،ﻡﺪﺨﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻦﺴﺤﺗ ﺎﻤﻨﻴﺑﻭ. ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﺔﻌﺘﻤﻟﺍ ﺰﻛﺍﺮﻣ ﺰﻔﺤﺗ ﺔﻴﻏﺎﻣﺩ ﺔﺳﺮﻏ</Joywire.description>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>ﻢﻟﺃ ﻦﻜﺴﻣ</Painstopper.label>
+  <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>. ﺔﻟﻮﻬﺳﻭ ﺓﺪﺸﺑ ﻯﺫﺄﺘﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ،ﻪﺑ ﺮﻌﺸﺗ ﻻ ﺎﻣﺪﻨﻋ. ﺽﺮﻏ ﻪﻟ ﻢﻟﻷﺍ ﻥﺃ ﺢﻀﺗﺍ ﻪﻧﺃ ﻻﺇ ،ﺪﻳﺰﻤﻟﺍ ﺯﺎﺠﻧﺈﺑ ﻡﺪﺨﺘﺴﻤﻠﻟ ﺢﻤﺴﺗ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻢﻟﻷﺎﺑ ﺱﺎﺴﺣﻹﺍ ﻭﺃ ،ﻡﻼﻳﻹﺍ ﻂﺒﺜﺗ ﺔﻴﻏﺎﻣﺩ ﺔﻋﺭﺯ</Painstopper.description>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>ﺔﻗﺎﻃ ﺐﻠﺨﻣ</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>. ﺍًﻠﻴﻠﻗ ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﻳ ﺢﻳﺮﻤﻟﺍ ﺮﻴﻏ ﻪﻤﺠﺣ ﻥﺈﻓ ﻚﻟﺫ ﻊﻣﻭ ،ﺔﻴﻟﺎﺘﻘﻟﺍ ﺮﻴﻏ ﻡﺎﻬﻤﻠﻟ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺪﻴﻟﺍ ﻞﺜﻣ ﺍًﺪﻴﻔﻣ ﻪﻠﻌﺠﻳ ﺎﻤﻣ ،ﺐﻟﺎﺨﻤﻟﺍ ﺐﺤﺳ ﻦﻜﻤﻳ. ﺔﻀﻴﺑ ﺪﻴﻟﺍ ﻖﺤﺴﺗ ﺎﻤﻛ ﺔﻤﺠﻤﺠﻟﺍ ﻖﺤﺴﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻱﻮﻗ ﻮﻫﻭ ،ﻖﻤﻌﺑ ﻊﻄﻘﻳ ﻪﻧﺇ. ﻊﺒﺻﺇ ﻞﻛ ﻰﻠﻋ ﻑﻮﻘﻌﻣ ﺐﻠﺨﻤﺑ ﺔﻴﻟﺁ ﺪﻳ ﻦﻣ ﻥﻮﻜﺘﻳ ﻲﻟﺎﺘﻗ ﺪﻳ ﻞﻳﺪﺑ</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>. ﻲﻘﻴﻘﺤﻟﺍ ﻉﺍﺭﺬﻟﺍ ﻦﻣ ًﺎﻧﺄﺷ ﻞﻗﺃ ﻲﻬﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻳﺎﻐﻠﻟ ﻊﻨﻘﻣ ﻞﻜﺸﺑ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻛﺮﺤﻟﺍ ﺪﻴﻠﻘﺘﺑ ﺎﻬﻟ ﺢﻤﺴﻳ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻞﺻﺎﻔﻤﻟﺍ ﻦﻣ ﺪﻘﻌﻤﻟﺍ ﺎﻬﺒﻴﺗﺮﺗ ﻥﺈﻓ ،ﺔﻴﺒﺼﻋ ﺔﻬﺟﺍﻭ ﻰﻟﺇ ﺎﻫﺭﺎﻘﺘﻓﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻉﺍﺭﺬﻠﻟ ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>ﻲﻋﺎﻨﻄﺻﺍ ﻲﺒﻠﻗ ﻢﻋُﻃ</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>. ﻞﻳﺪﺒﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻪﻨﻜﻟﻭ ،ﺐﻌﺘﻟﺎﺑ ﻢﻫﺭﻮﻌﺷ ﻦﻋ ﻥﻮﻣﺪﺨﺘﺴﻤﻟﺍ ﻎﻠﺒﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ. ﻢﺴﺠﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﺳﻼﺴﺑ ﻡﺪﻟﺍ ﺦﻀﻳ ﻲﺋﺎﺑﺮﻬﻛ ﻙﺮﺤﻣ ﻰﻠﻋ ﻱﻮﺘﺤﻳ. ﻲﺒﻠﻗ ﻢﻋُﻃ</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>. ﺔﻴﻘﻴﻘﺤﻟﺍ ﻕﺎﺴﻟﺍ ﻦﻣ ًﺎﻧﺄﺷ ﻞﻗﺃ ﻲﻬﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻳﺎﻐﻠﻟ ﻊﻨﻘﻣ ﻞﻜﺸﺑ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻛﺮﺤﻟﺍ ﺪﻴﻠﻘﺘﺑ ﺎﻬﻟ ﺢﻤﺴﻳ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻞﺻﺎﻔﻤﻟﺍ ﻦﻣ ﺪﻘﻌﻤﻟﺍ ﺎﻬﺒﻴﺗﺮﺗ ﻥﺈﻓ ،ﺔﻴﺒﺼﻋ ﺔﻬﺟﺍﻭ ﻰﻟﺇ ﺎﻫﺭﺎﻘﺘﻓﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻕﺎﺴﻠﻟ ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ</SimpleProstheticLeg.description>
+  
+</LanguageData>

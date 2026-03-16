@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ﺔﺟﺎﺟﺩ</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>. ﺍًﺪﺟ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﺾﻴﺒﻟﺍ ﻊﻀﺗﻭ ﺓﺮﻴﺒﻛ ﺔﻋﺮﺴﺑ ﻮﻤﻨﺗ. ﻡﻮﺤﻠﻟﺍﻭ ﺾﻴﺒﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻰﺑﺭُﺗﻭ ،ﺔﻳﺪﻴﻠﻘﺗ ﺮﺜﻛﻷﺍ ﻲﻋﺍﺭﺰﻟﺍ ﺮﺋﺎﻄﻟﺍ ﺔﺟﺎﺟﺪﻟﺍ ﺮﺒﺘﻋُﺗ</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>ﺐﻟﺎﺨﻣ</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>ﺭﺎﻘﻨﻣ</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>ﺱﺃﺭ</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>ﺔﻄﺑ</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>. ﺾﻴﺒﻟﺍ ﻊﻀﻳ ﺎﻣ ﺍًﺭﺩﺎﻧ ﻪﻨﻜﻟﻭ ﺔﻋﺮﺴﺑ ﻮﻤﻨﻳ. ﺬﻳﺬﻠﻟﺍ ﻪﻤﺤﻟ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻰﺑﺭُﻳﻭ ،ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺍًﻀﻳﺃ ﺮﻬﻈﻳ ،ﺍًﺪﺟ ﻊﺋﺎﺷ ﺔﻋﺭﺰﻣ ﺮﺋﺎﻃ ﻂﺒﻟﺍ</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>ﺐﻟﺎﺨﻣ</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>ﺭﺎﻘﻨﻣ</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>ﺱﺃﺭ</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>ﺓﺯﻭﺇ</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>. ﺲﻘﻔﻳ ﻰﺘﺣ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﻪﻨﻜﻟ ،ﺍًﺮﻴﺜﻛ ﺾﻴﺒﻟﺍ ﻊﻀﺗ. ﻡﻮﺤﻠﻟﺍﻭ ﺾﻴﺒﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻦﺟﺍﻭﺪﻛ ﺮﺸﺒﻟﺍ ﻪﺑ ﻆﻔﺘﺤﻳ ﻥّﺟﺩُﻣ ﺮﺋﺎﻃ</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>ﺐﻟﺎﺨﻣ</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>ﺭﺎﻘﻨﻣ</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>ﺱﺃﺭ</Goose.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>ﻲﻣﻭﺭ ﻚﻳﺩ</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>. ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺍًﻀﻳﺃ ﺶﻴﻌﻳ ﻪﻨﻜﻟﻭ ،ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﻪﻨﻴﺟﺪﺗ ﻢﺗ ﺪﻘﻟ ". ﺓﺮﻏﺮﻐﻟﺍ " ﻚﺤﻀﻤﻟﺍ ﻪﺗﻮﺼﺑ ﻑﻭﺮﻌﻣ ،ﻥﺍﺮﻴﻄﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ ،ﻦﻴﻤﺳ ،ﺮﻴﺼﻗ ﺮﺋﺎﻃ</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>ﺐﻟﺎﺨﻣ</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>ﺭﺎﻘﻨﻣ</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>ﺱﺃﺭ</Turkey.tools.head.label>
+  
+</LanguageData>

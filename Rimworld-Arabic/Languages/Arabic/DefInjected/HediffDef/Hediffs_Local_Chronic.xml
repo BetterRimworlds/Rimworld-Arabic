@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>ﺮﻤﻳﺎﻫﺰﻟﺍ ﺽﺮﻣ</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>. ﺓﺮﻴﺣ ﻲﻓ ﺍًﻧﺎﻴﺣﺃ ﻥﻮﻟﻮﺠﺘﻳﻭ ﻦﻴﺑﺮﻘﻤﻟﺍ ﺏﺭﺎﻗﻷﺍ ﻰﺿﺮﻤﻟﺍ ﻰﺴﻨﻳ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ،ﺮﻛﺬﺘﻟﺍﻭ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻲﻓ ﻲﺠﻳﺭﺪﺗ ﺭﻮﻫﺪﺗ ﻲﻓ ﺮﻤﻳﺎﻫﺰﻟﺍ ﺽﺮﻣ ﺐﺒﺴﺘﻳ ،ﺔﺧﻮﺨﻴﺸﻟﺎﺑ ًﺓﺩﺎﻋ ﻂﺒﺗﺮﻳ ﻲﻏﺎﻣﺩ ﺽﺮﻣ</Alzheimers.description><!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.labelNoun>. ﺓﺮﻴﺣ ﻲﻓ ﻝﻮﺠﺘﻟﺍ ﺍًﻧﺎﻴﺣﺃﻭ ﻦﻴﺑﺮﻘﻤﻟﺍ ﺏﺭﺎﻗﻷﺍ ﻥﺎﻴﺴﻨﺑ ﻰﺿﺮﻤﻟﺍ ﻑﺮﻋُﻳ. ﺮﻛﺬﺘﻟﺍﻭ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻲﻓ ﺍًﻴﺠﻳﺭﺪﺗ ﺍًﺭﻮﻫﺪﺗ ﺮﻤﻳﺎﻫﺰﻟﺍ ﺽﺮﻣ ﺐﺒﺴﻳ. ﺔﺧﻮﺨﻴﺸﻟﺎﺑ ًﺓﺩﺎﻋ ﻂﺒﺗﺮﻳ ﻲﻏﺎﻣﺩ ﺽﺮﻣ</Alzheimers.labelNoun>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>ﻒﻴﻔﻃ</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>ﻒﻴﻔﻃ</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>ﺝﺮﺣ</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>ﺝﺮﺣ</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>ﻮﺑﺭ</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>. ﺽﺍﺮﻋﻷﺍ ﻒﻴﻔﺨﺘﻟ ﺔﻤﻈﺘﻨﻣ ﺔﻳﺎﻋﺭ ﺐﻠﻄﺘﻳﻭ ،ﻦﻴﺘﺋﺮﻟﺍ ﻲﻓ ﺔﻴﺋﺍﻮﻬﻟﺍ ﻚﻟﺎﺴﻤﻟﺍ ﻲﻓ ﻦﻣﺰﻣ ﻲﺑﺎﻬﺘﻟﺍ ﺽﺮﻣ</Asthma.description><!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.labelNoun>. ﺽﺍﺮﻋﻷﺍ ﻊﻨﻤﻟ ﺔﻤﻈﺘﻨﻣ ﺔﻳﺎﻨﻋ ﺐﻠﻄﺘﻳ. ﻦﻴﺘﺋﺮﻟﺍ ﻲﻓ ﺔﻴﺋﺍﻮﻬﻟﺍ ﻚﻟﺎﺴﻤﻟﺍ ﻲﻓ ﻦﻣﺰﻣ ﻲﺑﺎﻬﺘﻟﺍ ﺽﺮﻣ</Asthma.labelNoun>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>ﻒﻴﻔﻃ</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>ﺝﺮﺣ</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>ﺝﺮﺣ</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>ﺐﻌﺘﻣ ﺮﻬﻇ</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>. ﺍًﺒﻌﺻ ﺍًﺮﻣﺃ ﺔﺳﻼﺴﺑ ﺀﺎﻨﺤﻧﻻﺍﻭ ﺔﻛﺮﺤﻟﺍ ﻞﻌﺠﻳ ﺎﻤﻣ ،ﻪﺑ ﺔﻄﻴﺤﻤﻟﺍ ﺕﻼﻀﻌﻟﺍﻭ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ ﻲﻓ ﺭﻮﻫﺪﺗ</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>ﺐﻌﺘﻣ ﺮﻬﻇ</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>ﻰﻤﻋ</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>. ﺔﻳﺅﺮﻠﻟ ﻞﻣﺎﻛ ﻥﺍﺪﻘﻓ</Blindness.description><!-- EN: Total inability to see. -->
+  <Blindness.labelNoun>. ﻡﺎﺗ ﻰﻤﻋ</Blindness.labelNoun>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>ﻲﻧﺎﻃﺮﺳ ﻡﺭﻭ</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>. ﺾﻳﺮﻤﻟﺍ ﺓﺎﻓﻭ ﻰﻟﺇ ﻱﺩﺆﻳ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓﻭ ﺽﺍﺮﻋﻷﺍ ﻢﻗﺎﻔﺗ ﺐﺒﺴﻳ ﺎﻤﻣ ،ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺚﻴﺒﺨﻟﺍ ﻡﺭﻮﻟﺍ ﻮﻤﻨﻴﺳ ،ﺝﻼﻋ ﻥﻭﺪﺑ. ﺔﻴﻧﺎﻃﺮﺴﻟﺍ ﺔﺠﺴﻧﻷﺍ ﻦﻣ ﺔﻠﺘﻛ\n\n. ﺚﻴﺒﺨﻟﺍ ﻡﺭﻮﻟﺍ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻱﺬﻟﺍ ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺠﻟﺍ ﺮﺘﺑ ﺩﺮﺠﻣ ﻦﻣ ﺮﻫﺎﻤﻟﺍ ﺮﻴﻏ ﺐﻴﺒﻄﻟﺍ ﻦﻜﻤﺘﻳ ﺪﻗ. ﺚﻴﺒﺨﻟﺍ ﻡﺭﻮﻟﺍ ﻝﺎﺼﺌﺘﺳﺍ ﺮﻫﺎﻤﻟﺍ ﺐﻴﺒﻄﻠﻟ ﻦﻜﻤﻳ</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>ﻲﻧﺎﻃﺮﺳ ﻡﺭﻭ</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>ﻒﻴﻔﻃ</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>ﻒﻴﻔﻃ</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>ﺝﺮﺣ</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>ﺝﺮﺣ</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>ﺝﺮﺣ</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>ﺝﺮﺣ</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>ﻦﻴﻌﻟﺍ ﺔﺳﺪﻋ ﻡﺎﺘﻋﺇ</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>. ﺔﻳﺅﺮﻟﺍ ﺩﺎﺴﻟﺍ ﻖﻴﻋُﻳ. ﻦﻴﻌﻟﺍ ﻲﻓ ﺀﺎﻀﻴﺑ ﺔﻣﺎﺘﻋ</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>ﻦﻴﻌﻟﺍ ﺔﺳﺪﻋ ﻡﺎﺘﻋﺇ</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>ﻑﺮﺧ</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>. ﻡﻮﻤﺴﻟﺍﻭ ﺔﻨﻴﻌﻣ ﺽﺍﺮﻣﺃﻭ ﺮﻤﻌﻟﺍ ﻲﻓ ﻡﺪﻘﺘﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ﺔﻔﻠﺘﺨﻣ ﺏﺎﺒﺳﻷ ﻑﺮﺨﻟﺍ ﺙﺪﺤﻳ ﻥﺃ ﻦﻜﻤﻳ. ﺮﻛﺬﺘﻟﺍﻭ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻲﻓ ﺍًﺰﺠﻋ ﺐﺒﺴﻳ ﻲﺒﺼﻋ ﺭﻮﻫﺪﺗ</Dementia.description><!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.labelNoun>. ﻡﻮﻤﺴﻟﺍﻭ ،ﺔﻨﻴﻌﻣ ﺽﺍﺮﻣﺃﻭ ،ﻦﺴﻟﺍ ﻲﻓ ﻡﺪﻘﺘﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ﺔﻋﻮﻨﺘﻣ ﺏﺎﺒﺳﺃ ﻪﻟ ﻑﺮﺨﻟﺍ. ﺮﻛﺬﺘﻟﺍﻭ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻲﻓ ﺍًﺰﺠﻋ ﺐﺒﺴﻳ ﻲﺒﺼﻋ ﺭﻮﻫﺪﺗ</Dementia.labelNoun>
+  
+  <!-- EN: frail -->
+  <Frail.label>ّﺵَﻫ</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>. ﺔﻴﻤﻈﻌﻟﺍﻭ ﺔﻴﻠﻀﻌﻟﺍ ﺔﻓﺎﺜﻜﻠﻟ ﻡﺎﻋ ﻥﺍﺪﻘﻓ</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>ﻦﻫﻭ</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>ﻲﻌﻤﺳ ﻥﺍﺪﻘﻓ</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>. ﺔﻌﻗﻮﻘﻟﺍ ﻲﻓ ﺔﻳﺮﻌﺸﻟﺍ ﺎﻳﻼﺨﻟﺍ ﺭﻮﻫﺪﺗ ﺐﺒﺴﺑ ﺔﺘﻓﺎﺨﻟﺍ ﺕﺍﻮﺻﻷﺍ ﻉﺎﻤﺳ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻡﺪﻋ</HearingLoss.description><!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.labelNoun>. ﺔﻌﻗﻮﻘﻟﺍ ﻲﻓ ﺔﻳﺮﻌﺸﻟﺍ ﺎﻳﻼﺨﻟﺍ ﺭﻮﻫﺪﺗ ﺐﺒﺴﺑ ﺔﺘﻓﺎﺨﻟﺍ ﺕﺍﻮﺻﻷﺍ ﻉﺎﻤﺳ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻡﺪﻋ</HearingLoss.labelNoun>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>ﻲﻧﺎﻳﺮﺷ ﺩﺍﺪﺴﻧﺍ</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>. ﺔﻴﺒﻠﻗ ﺕﺎﺑﻮﻧ ﺙﻭﺪﺣ ﻲﻓ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﺐﻠﻘﻟﺍ ﻦﻴﻳﺍﺮﺷ ﺕﺍﺩﺍﺪﺴﻧﺍ ﺐﺒﺴﺘﺗﻭ ،ﺐﻠﻘﻟﺍ ﻲﻓ ﺔﻳﻮﻴﺤﻟﺍ ﻦﻴﻳﺍﺮﺸﻟﺍ ﺪﺣﺃ ﻲﻓ ﺩﺍﺪﺴﻧﺍ</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>ﻲﻧﺎﻳﺮﺷ ﺩﺍﺪﺴﻧﺍ</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>ﻒﻴﻔﻃ</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>ﻒﻴﻔﻃ</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>ﺝﺮﺣ</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>ﺝﺮﺣ</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>ﺝﺮﺣ</HeartArteryBlockage.stages.extreme.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecay.label>ﺀﺎﻀﻋﻷﺍ ﻞﻠﺤﺗ</OrganDecay.label>
+  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
+  <OrganDecay.description>. ﺱﺎﻨﻟﺍ ﻦﻴﺑ ﺓﺮﺷﺎﺒﻣ ٍﺪﻌﻣ ﺮﻴﻏ ﻮﻬﻓ ؛ﻑﻭﺮﻌﻣ ﺮﻴﻏ ﻲﻌﻴﺒﻃ ﻉﺩﻮﺘﺴﻣ ﻦﻣ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﺏﺮﻀﻳ ﺽﺮﻤﻟﺍ ﻥﺃ ﻭﺪﺒﻳ. ﺍًﻴﺳﻭﺮﻴﻓ ﻭﺃ ﺍًﻳﺮﻴﺘﻜﺑ ﺐﺒﺴﻟﺍ ﻥﻮﻜﻳ ﺪﻗ. ﺪﺣﺍﻭ ﻮﻀﻋ ﻰﻠﻋ ﺮﺛﺆﻳ ﺝﻼﻌﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﻲﺴﻜﻨﺗ ﺽﺮﻣ\n\n. ﻲﻌﻴﺒﻃ ﻭﺃ ﻲﻧﻮﻴﺑ ﻮﻀﻌﺑ ﻪﻟﺪﺒﺘﺳﺍ. ﺍًﻣﺎﻤﺗ ﺕﻮﻤﻳ ﻥﺃ ﻞﺒﻗ ﺍًﻴﺠﻳﺭﺪﺗ ﻪﺘﻔﻴﻇﻭ ﻮﻀﻌﻟﺍ ﺍﺬﻫ ﺪﻘﻔﻴﺳ</OrganDecay.description>
+  <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_gender ? . ﺀﺎﻀﻋﻷﺍ ﻞﻠﺤﺗ ﺐﺒﺴﺑ {PAWN_labelShort} ـﺏ ﺔﺻﺎﺨﻟﺍ {1} ﺭِّﻣُﺩ : . ﺀﺎﻀﻋﻷﺍ ﻞﻠﺤﺗ ﺐﺒﺴﺑ {PAWN_labelShort} ـﺏ ﺹﺎﺨﻟﺍ {1} ﺭِّﻣُﺩ}</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <!-- EN: minor -->
+  <OrganDecay.stages.minor.label>ﻒﻴﻔﻃ</OrganDecay.stages.minor.label>
+  <!-- EN: moderate -->
+  <OrganDecay.stages.moderate.label>ﻝﺪﺘﻌﻣ</OrganDecay.stages.moderate.label>
+  <!-- EN: severe -->
+  <OrganDecay.stages.severe.label>ّﺩﺎﺣ</OrganDecay.stages.severe.label>
+  <!-- EN: extreme -->
+  <OrganDecay.stages.extreme.label>ﺝﺮﺣ</OrganDecay.stages.extreme.label>
+  
+</LanguageData>

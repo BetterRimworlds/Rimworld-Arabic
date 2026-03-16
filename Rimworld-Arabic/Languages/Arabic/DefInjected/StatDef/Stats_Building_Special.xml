@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rest effectiveness -->
+  <BedRestEffectiveness.label>ﺔﺣﺍﺮﻟﺍ ﺔﻴﻟﺎﻌﻓ</BedRestEffectiveness.label>
+  <!-- EN: How fast people sleeping on this gain rest. -->
+  <BedRestEffectiveness.description>. ﺍﺬﻫ ﻰﻠﻋ ﻦﻴﻤﺋﺎﻨﻟﺍ ﺹﺎﺨﺷﻸﻟ ﺔﺣﺍﺮﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻋﺮﺳ ﻢﻛ</BedRestEffectiveness.description>
+  
+  <!-- EN: door opening speed -->
+  <DoorOpenSpeed.label>ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﺔﻋﺮﺳ</DoorOpenSpeed.label>
+  <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
+  <DoorOpenSpeed.description>. ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﺭﺎﻴﺘﻟﺍ ﻉﺎﻄﻘﻧﺍ ﺪﻨﻋ ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﺔﻋﺮﺳ\n\n. ﺎﻬﻣﺪﺨﺘﺴﻳ ﺺﺨﺷ ﻱﺃ ﺔﻛﺮﺣ ﻖﻴﻌﺘﺳ ﺔﺌﻴﻄﺒﻟﺍ ﺏﺍﻮﺑﻷﺍ</DoorOpenSpeed.description>
+  
+  <!-- EN: immunity gain speed factor -->
+  <ImmunityGainSpeedFactor.label>ﺔﻋﺎﻨﻤﻟﺍ ﺏﺎﺴﺘﻛﺍ ﺔﻋﺮﺳ ﻝﺪﻌﻣ</ImmunityGainSpeedFactor.label>
+  <!-- EN: Immunity gain speed is multiplied by this value. -->
+  <ImmunityGainSpeedFactor.description>. ﻢﻗﺮﻟﺍ ﺍﺬﻬﺑ ﺔﻋﺎﻨﻤﻟﺍ ﺏﺎﺴﺘﻛﺍ ﺔﻋﺮﺳ ﺏﺮﺿُﺗ</ImmunityGainSpeedFactor.description>
+  
+  <!-- EN: recreation power -->
+  <JoyGainFactor.label>ﺔﻴﻬﻴﻓﺮﺗ ﺔﻗﺎﻃ</JoyGainFactor.label>
+  <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
+  <JoyGainFactor.description>. ﻪﻴﻓﺮﺘﻟﺍ ﺔﺟﺎﺣ ﺔﻴﺒﻠﺗﻭ ﺱﺎﻨﻟﺍ ﺔﻴﻠﺴﺗ ﻰﻠﻋ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺓﺭﺪﻗ ﻯﺪﻣ</JoyGainFactor.description>
+  
+  <!-- EN: medical tend quality offset -->
+  <MedicalTendQualityOffset.label>ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻨﻌﻟﺍ ﺓﺩﻮﺟ ﻞﻳﺪﻌﺗ</MedicalTendQualityOffset.label>
+  <!-- EN: Medical tend quality is offset by this value. -->
+  <MedicalTendQualityOffset.description>. ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻬﺑ ﻲﺒﻄﻟﺍ ﺝﻼﻌﻟﺍ ﺓﺩﻮﺟ ﺮﺛﺄﺘﺗ</MedicalTendQualityOffset.description>
+  
+  <!-- EN: max power output -->
+  <PowerPlantMaxPowerOuput.label>ﺝﺮﺧ ﺓﺭﺪﻗ ﻰﺼﻗﺃ</PowerPlantMaxPowerOuput.label>
+  <!-- EN: The maximum power that this generator can output in ideal conditions. -->
+  <PowerPlantMaxPowerOuput.description>. ﺔﻴﻟﺎﺜﻤﻟﺍ ﻑﻭﺮﻈﻟﺍ ﻲﻓ ﺎﻬﺟﺍﺮﺧﺇ ﺪﻟﻮﻤﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ ﺔﻗﺎﻃ ﻰﺼﻗﺃ</PowerPlantMaxPowerOuput.description>
+  <!-- EN: {0} W -->
+  <PowerPlantMaxPowerOuput.formatString>ﻭ {0}</PowerPlantMaxPowerOuput.formatString>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻝﺪﻌﻣ</ResearchSpeedFactor.label>
+  <!-- EN: The speed at which people do research is multiplied by this value. -->
+  <ResearchSpeedFactor.description>. ﻢﻗﺮﻟﺍ ﺍﺬﻬﺑ ﺹﺎﺨﺷﻷﺍ ﺚﺤﺑ ﻝﺪﻌﻣ ﺏﺮﺿُﻳ</ResearchSpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>ﺔﻓﺮﻐﻟﺍ ﺔﻓﺎﻈﻧ</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <!-- EN: Reading bonus -->
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>ﺓﺀﺍﺮﻗ ﺓﺄﻓﺎﻜﻣ</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: reading bonus -->
+  <RoomReadingBonus.label>ﺓﺀﺍﺮﻗ ﺓﺄﻓﺎﻜﻣ</RoomReadingBonus.label>
+  <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
+  <RoomReadingBonus.description>. ﺔﻧﺍﺰﺨﻟﺍ ﻲﻓ ﻰﻠﻋﻷﺍ ﺓﺩﻮﺠﻟﺍ ﺕﺍﺫ ﺐﺘﻜﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻊﺿﻮﺑ ﺮﻴﺛﺄﺘﻟﺍ ﺍﺬﻫ ﺩﺍﺩﺰﻳ. ﺐﺘﻜﻟﺍ ﺔﻧﺍﺰﺧ ﻊﻣ ﺔﻓﺮﻐﻟﺍ ﺲﻔﻧ ﻲﻓ ﺓﺀﺍﺮﻘﻟﺍ ﻦﻣ ﺐﺴﺘﻜﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍﻭ ،ﺓﺀﺍﺮﻘﻟﺍ ﻦﻣ ﺔﺒﺴﺘﻜﻤﻟﺍ ﺓﺮﺒﺨﻟﺍﻭ ،ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﺯّﺰﻋُﻳ</RoomReadingBonus.description>
+  <!-- EN: Reading bonus -->
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>ﺓﺀﺍﺮﻗ ﺓﺄﻓﺎﻜﻣ</RoomReadingBonus.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: surgery success chance factor -->
+  <SurgerySuccessChanceFactor.label>ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﻞﻣﺎﻋ</SurgerySuccessChanceFactor.label>
+  <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
+  <SurgerySuccessChanceFactor.description>. ﺎﻨﻫ ﺎﻬﺋﺍﺮﺟﺇ ﺪﻨﻋ ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﺔﻴﻟﺎﻤﺘﺣﻻ ﻑِﻋﺎﺿُﻣ\n\n. ﻡﺪﺨﺘﺴﻤﻟﺍ ﺀﺍﻭﺪﻟﺍﻭ ﺡﺍﺮﺠﻟﺍ ﺓﺭﺪﻗ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﺓﺮﻴﺜﻛ ﻯﺮﺧﺃ ﻞﻣﺍﻮﻌﺑ ﺍًﻀﻳﺃ ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﺹﺮﻓ ﺮﺛﺄﺘﺗ</SurgerySuccessChanceFactor.description>
+  <!-- EN: Room cleanliness -->
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>ﺔﻓﺮﻐﻟﺍ ﺔﻓﺎﻈﻧ</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  <!-- EN: trap melee damage -->
+  <TrapMeleeDamage.label>ﺦﻓ ﻙﺎﺒﺘﺷﺍ ﺭﺮﺿ</TrapMeleeDamage.label>
+  <!-- EN: How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>. ﺕﺍﺮﻣ ﺓﺪﻋ ﺦﻓ ﻞﻛ ﺏﺮﻀﻳ ﺚﻴﺣ ؛ﺔﺑﺮﺿ ﻞﻜﻟ ﻂﺳﻮﺘﻤﻟﺍ ﻲﻓ ﺦﻔﻟﺍ ﺍﺬﻫ ﻪﻘﺤﻠﻳ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﺭﺍﺪﻘﻣ\n\n. ﺍًﻴﺋﺍﻮﺸﻋ ﺕﻭﺎﻔﺘﻴﺳ ﺔﻟﺎﺣ ﻱﺃ ﻲﻓ ﻲﻠﻌﻔﻟﺍ ﺭﺮﻀﻟﺍ</TrapMeleeDamage.description>
+  
+  <!-- EN: trap spring chance -->
+  <TrapSpringChance.label>ﺦﻔﻟﺍ ﻕﻼﻄﻧﺍ ﻝﺎﻤﺘﺣﺍ</TrapSpringChance.label>
+  <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChance.description>. ﻙﺭﺪﻣ ﺮﻴﻏ ﻦﺋﺎﻛ ﻪﻗﻮﻓ ﺮﻤﻳ ﺎﻣﺪﻨﻋ ﺦﻔﻟﺍ ﻕﻼﻄﻧﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ</TrapSpringChance.description>
+  
+  <!-- EN: work efficiency factor -->
+  <WorkTableEfficiencyFactor.label>ﻞﻤﻌﻟﺍ ﺓﺀﺎﻔﻛ ﻞﻣﺎﻌﻣ</WorkTableEfficiencyFactor.label>
+  <!-- EN: Work efficiency is multiplied by this value. -->
+  <WorkTableEfficiencyFactor.description>. ﻢﻗﺮﻟﺍ ﺍﺬﻬﺑ ﻞﻤﻌﻟﺍ ﺓﺀﺎﻔﻛ ﺏﺮﺿُﺗ</WorkTableEfficiencyFactor.description>
+  
+  <!-- EN: work speed factor -->
+  <WorkTableWorkSpeedFactor.label>ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</WorkTableWorkSpeedFactor.label>
+  <!-- EN: Work speed is multiplied by this value. -->
+  <WorkTableWorkSpeedFactor.description>. ﻢﻗﺮﻟﺍ ﺍﺬﻬﺑ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﺏﺮﺿُﺗ</WorkTableWorkSpeedFactor.description>
+  
+  <!-- EN: work to build -->
+  <WorkToBuild.label>ﺀﺎﻨﺑ ﻞﻤﻋ</WorkToBuild.label>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>. ﺩﺍﻮﻤﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺟ ﺪﻌﺑ ،ﻞﻜﻴﻫ ﺀﺎﻨﺒﻟ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﻞﻤﻌﻟﺍ ﺔﻴﻤﻛ\n\n. ﺍﺬﻫ ﻰﻠﻋ ﺍًﻀﻳﺃ ﻞﻜﻴﻬﻟﺍ ﻚﻴﻜﻔﺘﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻞﻤﻌﻟﺍ ﺪﻤﺘﻌﻳ</WorkToBuild.description>
+  
+</LanguageData>

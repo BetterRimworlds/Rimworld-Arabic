@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>ﺔﻓﺁ</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>ﺭﺎﺠﻔﻧﺍ</Explosion.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer.label>ﺮﺋﺎﻃ</PawnFlyer.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer_Stun.label>ﺮﺋﺎﻃ</PawnFlyer_Stun.label>
+  
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>ﺔﺑﺮﻄﻀﻣ ﺔﺑﺮﺗ</PawnGroundSpawner.label>
+  
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>ﺏﺭﺎﻘﺗ ﻞﻐﺸﻣ</RadialTrigger.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>ﻞﻴﻄﺘﺴﻣ ﻞﻐﺸﻣ</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>ﺭﺎﺼﻋﺇ</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>ﺔﻏﺭﺎﻓ ﺔﻠﻋَﻓُﻣ ﺔﻳﻭﺎﺣ</TriggerContainerEmptied.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>ﺏﺎﺒﻀﻟﺍ ﺔﻟﺍﺯﺇ ﻝِّﻐﺷُﻣ</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>ﻖﻔﻧ</TunnelHiveSpawner.label>
+  
+</LanguageData>

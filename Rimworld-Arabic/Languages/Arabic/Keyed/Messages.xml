@@ -1,0 +1,870 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
+  <MessageSiegersAssaulting>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻮﻤﺟﺎﻬﻳ {1} ﻦﻣ {0} ﻭﺮﺻﺎﺤﻣ</MessageSiegersAssaulting>
+
+  <!-- EN: {0} from {1} are beginning their assault. -->
+  <MessageRaidersBeginningAssault>. ﻢﻬﻣﻮﺠﻫ {1} ﻦﻣ {0} ﺃﺪﺒﺗ</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
+  <MessageRaidersDetectedEarlyAssault>. ﺍًﺮﻜﺒﻣ ﻢﻬﻣﻮﺠﻫ ﺃﺪﺑﻭ ﻙﺩﻮﺟﻭ {1} ﻦﻣ {0} ﻒﺸﺘﻛﺍ</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
+  <MessageRaidersKidnapping>. ﺓﺭﺩﺎﻐﻤﻟﺍﻭ ﻢﻬﻨﻜﻤﻳ ﻦﻣ ﻑﺎﻄﺘﺧﺍ ،{0} ﻢﻬﻴﻓ ﻦﻤﺑ ،{1} ﻥﺎﻜﺳ ﺭﺮﻗ</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
+  <MessageRaidersStealing>. ﺓﺭﺩﺎﻐﻤﻟﺍﻭ ﻢﻬﻨﻜﻤﻳ ﺎﻣ ﺔﻗﺮﺳ {1} ﻦﻣ {0} ﺭﺮﻗ</MessageRaidersStealing>
+
+  <!-- EN: The mechanoids sense no more targets and are moving on. -->
+  <MechanoidsMovingOn>. ﺓﺪﻌﺘﺒﻣ ﻙﺮﺤﺘﺗﻭ ﻯﺮﺧﺃ ﺍًﻓﺍﺪﻫﺃ ﺮﻌﺸﺘﺴﺗ ﻻ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ</MechanoidsMovingOn>
+
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>.{2} ﻲﻓ ﻥﻮﻠﺼﻴﺳﻭ ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﺪﻳﺰﻤﻟﺍ! ﻥﻮﻤﺟﺎﻬﻳﻭ {1} ﻦﻣ {0} ﻞﺻﻭ</MessageCaravanDetectedRaidArrived>
+
+  <!-- EN: {0} from {1} are leaving. -->
+  <MessageRaidersLeaving>.{1} ﻦﻣ {0} ﺭﺩﺎﻐﻳ</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
+  <MessageRaidersGivenUpLeaving>. ﺍﻭﺭﺩﺎﻏﻭ {1} ﻦﻣ {0} ﻯّﻠﺨﺗ</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
+  <MessageRaidersSatisfiedLeaving>. ﻥﻭﺭﺩﺎﻐﻳ ﻢﻫﻭ ﻩﻮﻘﺤﻟﺃ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﻦﻋ ﻥﻮﺿﺍﺭ {1} ﻦﻣ {0}</MessageRaidersSatisfiedLeaving>
+
+  <!-- EN: {0} from {1} are fleeing. -->
+  <MessageFightersFleeing>.{1} ﻦﻣ {0} ﺏﺮﻬﻳ</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
+  <MessageFriendlyFightersLeaving>.{1} ﻦﻣ {0} ﺀﺎﻗﺪﺻﻷﺍ ﺭﺩﺎﻐﻳ</MessageFriendlyFightersLeaving>
+
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
+  <MessageVisitorsTakingWounded>. ﺍًﺑﺎﺼﻣ ﺍًﻔﻴﺿ {1} ﻦﻣ {0} ﺬﺧﺄﻳ</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
+  <MessageVisitorsTrappedLeaving>. ﺏﻭﺮﻬﻠﻟ ﻥﻭﺮﻔﺤﻳ ﻢﻫﻭ {1} ﻦﻣ {0} ﺮﺼﺣ ﻢﺗ</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
+  <MessageVisitorsDangerousTemperature>. ﺓﺮﻄﺨﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺐﺒﺴﺑ ﺔﻄﻳﺮﺨﻟﺍ {1} ﻦﻣ {0} ﺭﺩﺎﻐﻳ</MessageVisitorsDangerousTemperature>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
+  <MessageVisitorsAnomalousWeather>. ﺮﻴﻄﺨﻟﺍ ﺲﻘﻄﻟﺍ ﺐﺒﺴﺑ ﺔﻄﻳﺮﺨﻟﺍ {1} ﻦﻣ {0} ﺭﺩﺎﻐﻳ</MessageVisitorsAnomalousWeather>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
+  <MessageVisitorsDangerousConditions>. ﺓﺮﻄﺨﻟﺍ ﻑﻭﺮﻈﻟﺍ ﺐﺒﺴﺑ ﺔﻄﻳﺮﺨﻟﺍ {1} ﻦﻣ {0} ﺭﺩﺎﻐﻳ</MessageVisitorsDangerousConditions>
+
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>. ﺀﻴﺷ ﻻ ﻰﻟﺇ {1_nameFull} ﻪﻳﺪﺗﺮﻳ ﻱﺬﻟﺍ {0} ﺭﻮﻫﺪﺗ</MessageWornApparelDeterioratedAway>
+  <!-- EN: {0} has deteriorated away in storage. -->
+  <MessageDeterioratedAway>. ﻦﻳﺰﺨﺘﻟﺍ ﻲﻓ {0} ﺭﻮﻫﺪﺗ</MessageDeterioratedAway>
+
+  <!-- EN: {0} has begun. -->
+  <MessageSeasonBegun>.{0} ﺃﺪﺑ</MessageSeasonBegun>
+
+  <!-- EN: {0} has left comms range. -->
+  <MessageShipHasLeftCommsRange>. ﻝﺎﺼﺗﻻﺍ ﻕﺎﻄﻧ {0} ﺭﺩﺎﻏ</MessageShipHasLeftCommsRange>
+
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
+  <MessageNeedBeaconToTradeWithShip>. ﺔﻨﻴﻔﺳ ﻊﻣ ﻝﻭﺍﺪﺘﻠﻟ ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﺔﻟﻮﺻﻮﻣ ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: Caller must have the title of {0_label} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>. ﻰﻠﻋﺃ ﻭﺃ {0_label} ﺔﺒﺗﺭ ﻞﺼﺘﻤﻟﺍ ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageNeedRoyalTitleToCallWithShip>
+
+  <!-- EN: {0} has been destroyed. -->
+  <MessageConditionCauserDespawned>.{0} ﺮﻴﻣﺪﺗ ﻢﺗ</MessageConditionCauserDespawned>
+  
+  <!-- EN: Bill complete: {0}. -->
+  <MessageBillComplete>.{0}: ﺓﺭﻮﺗﺎﻔﻟﺍ ﻝﺎﻤﻛﺇ ﻢﺗ</MessageBillComplete>
+
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>. ﻞﻣﺎﻜﻟﺎﺑ ﺖﻓﺎﻌﺗ/ﻰﻓﺎﻌﺗ {1_label}</MessageFullyHealed>
+
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>. ﺏﺮﻬﻟﺍ ﻝﻭﺎﺤﻳ {1_labelShort} ﻦﻴﺠﺴﻟﺍ</MessagePrisonerIsEscaping>
+
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>.{GUN_label} ـﻝ ﺔﺒﻳﺮﻗ ﺓﺯﻮﺠﺤﻣ ﺮﻴﻏ ﻒﺋﺍﺬﻗ ﻱﺃ ﻰﻠﻋ {PAWN_labelShort} ﺮﺜﻌﻳ ﻢﻟ</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>.{GUN_label} ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺯﻮﺠﺤﻣ ﺮﻴﻏ {FUEL} ﻱﺃ ﻰﻠﻋ {PAWN_labelShort} ﺮﺜﻌﻳ ﻢﻟ</MessageOutOfNearbyFuelFor>
+
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
+  <MessageAnimalsGoPsychoHunted>. ﺩﺎﻴﺼﻟﺎﺑ ﺔﺻﺎﺨﻟﺍ ﻲﻔﺨﺘﻟﺍ ﺔﻴﺋﺎﺼﺣﺇﻭ ﺔﻓﺎﺴﻤﻟﺍ ﻰﻠﻋ ﺔﺻﺮﻔﻟﺍ ﺪﻤﺘﻌﺗ. ﻯﺫﻸﻟ ﺽﺮﻌﺘﻟﺍ ﺪﻨﻋ ﻡﻮﺠﻬﻠﻟ {1} ﺎﻫﺭﺪﻗ ﺔﻴﺳﺎﺳﺃ ﺔﺻﺮﻓ {ANIMAL_kindBasePlural} ﻯﺪﻟ: ﺮﻳﺬﺤﺗ</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>).ﻝﺎﻤﺘﺣﺍ {1} (ﺾﻳﻭﺮﺘﻟﺍ ﺕﻻﻭﺎﺤﻣ ﻞﺸﻓ ﺪﻨﻋ {ANIMAL_kindBasePlural} ﻢﺟﺎﻬﺗ ﺪﻗ: ﺮﻳﺬﺤﺗ</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>. ﺕﺍﺮﺸﺤﻟﺍ ﻊﻣ ﻒﻃﺎﻌﺘﻟﺍ ﺔﻤﺳ ﻪﻳﺪﻟ ﻦﻣ ﻻﺇ {INSECT_indefinite} ﺾﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ</MessageInsectTameDesignated>
+  <!-- EN: No colonists are assigned to hunt. -->
+  <MessageNoHuntersAvailable>. ﺪﻴﺼﻠﻟ ﻥﻮﻧَّﻴﻋُﻣ ﻥﻭﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ</MessageNoHuntersAvailable>
+  <!-- EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon. -->
+  <MessageNoHuntersWithProperWeapon>. ﺐﺳﺎﻨﻣ ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺴﺑ ﺍًﺩﺎﻴﺻ ﺩّﻭﺯ. ﺍًﺤﻟﺎﺻ ﺪﻴﺻ ﺡﻼﺳ ﺩﺎﻴﺻ ﻱﺃ ﻚﻠﻤﻳ ﻻ</MessageNoHuntersWithProperWeapon>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>. ﻪﻀﻳﻭﺮﺗ ﻚﻨﻃﻮﺘﺴﻣ ﻝﻭﺎﺤﻳ ﺎﻤﻨﻴﺑ ﻢﺟﺎﻬﻴﺳﻭ ﻲﺋﺍﺪﻋ {PAWN_labelShort}: ﺮﻳﺬﺤﺗ</MessageInsectsHostileOnTaming>
+  
+  <!-- EN: New recruit -->
+  <LetterLabelMessageRecruitSuccess>ﺪﻳﺪﺟ ﺪﻨﺠﻣ</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
+  <MessageRecruitSuccess>.{RECRUITEE_nameFull} ﺪﻴﻨﺠﺗ ﻲﻓ {RECRUITER_nameFull} ﺢﺠﻧ</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
+  <MessageTameSuccess>.{1} ﺾﻳﻭﺮﺗ ﻲﻓ {RECRUITER_labelShort} ﺢﺠﻧ</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>.{RECRUITEE_nameFull} ﻥﻵﺍ ﻰﻋﺩُﻳﻭ. {1} ﺾﻳﻭﺮﺗ ﻲﻓ {RECRUITER_labelShort} ﺢﺠﻧ</MessageTameAndNameSuccess>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻝﻮﺠﺘﻴﺳ. {ANIMAL_labelShort} ـﻝ ﺔﺒﺳﺎﻨﻣ ﺓﺮﻴﻈﺣ ﺪﺟﻮﻳ ﻻ</MessageTameNoSuitablePens>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>. ﻚﺗﺮﻤﻌﺘﺴﻣ ﻰﻟﺇ {RECRUITEE} ﻢﻀﻧﺍ</MessageRecruitJoinOfferAccepted>
+
+  <!-- EN: The colony cannot afford this deal. -->
+  <MessageColonyCannotAfford>. ﺔﻘﻔﺼﻟﺍ ﻩﺬﻫ ﻞﻤﺤﺗ ﻊﻴﻄﺘﺴﺗ ﻻ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
+  <MessageColonyNotEnoughSilver>. ﻝﻭﺍﺪﺘﻠﻟ ﺔﻀﻔﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ</MessageColonyNotEnoughSilver>
+
+  <!-- EN: Critical alert: {0} -->
+  <MessageCriticalAlert>{0}: ﺝﺮﺣ ﻪﻴﺒﻨﺗ</MessageCriticalAlert>
+
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestable>. ﺩﺎﺼﺤﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺔﻴﻣﺎﻨﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestableWood>. ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻴﻣﺎﻨﻟﺍﻭ ،ﺐﺸﺨﻠﻟ ﺔﺠﺘﻨﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateHarvestableWood>
+  <!-- EN: Prevent cutting is enabled for this plant. -->
+  <MessageMustPlantCuttingForbidden>. ﺔﺘﺒﻨﻟﺍ ﻩﺬﻫ ﻊﻄﻗ ﻊﻨﻣ ﻞﻴﻌﻔﺗ ﻢﺗ</MessageMustPlantCuttingForbidden>
+  <!-- EN: Must designate plants. -->
+  <MessageMustDesignatePlants>. ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
+  <MessageMustDesignateHaulable>. ﺎﻫﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻﻭ ﺍًﻤﺋﺍﺩ ﻞﻤﺤﻠﻟ ﺔﻠﺑﺎﻗ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ. ﻞﻤﺤﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
+  <MessageMustDesignateMineable>. ﺯﺎﻴﺘﺟﻼﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺮﻴﻏ ﻦﻳﺪﻌﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺭﻮﺨﺼﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
+  <MessageMustDesignateHuntable>. ﺪﻴﺼﻠﻟ ﺔﺤﻟﺎﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateHuntable>
+  <!-- EN: Must designate tameable animals. -->
+  <MessageMustDesignateTameable>. ﻦﻴﺟﺪﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned claimable structures or items. -->
+  <MessageMustDesignateClaimable>. ﺔﺒﻟﺎﻄﻤﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺓﺭﻮﺠﻬﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻭﺃ ﻞﻛﺎﻴﻬﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateClaimable>
+  <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
+  <MessageMustDesignatePaintableBuildings>.{0_label} ﺔﻴﻠﻄﻤﻟﺍ ﺮﻴﻏﻭ ﺀﻼﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePaintableBuildings>
+  <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
+  <MessageMustDesignatePaintableFloors>.{0_label} ﺪﻌﺑ ﺎﻬﺋﻼﻃ ﻢﺘﻳ ﻢﻟ ﻲﺘﻟﺍﻭ ﺀﻼﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePaintableFloors>
+  <!-- EN: Must designate painted buildings or floors. -->
+  <MessageMustDesignatePainted>. ﺔﻴﻠﻄﻤﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﻭﺃ ﻲﻧﺎﺒﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePainted>
+  <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
+  <MessageMustDesignateDeconstructibleMechCluster>. ﻪﻜﻴﻜﻔﺗ ﻦﻣ ﻦﻜﻤﺘﺗ ﻥﺃ ﻞﺒﻗ ﺕﻻﻵﺍ ﻊﻤﺠﺗ ﺔﻤﻳﺰﻫ ﺐﺠﻳ</MessageMustDesignateDeconstructibleMechCluster>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>. ﺔﻨﺸﺨﻟﺍ ﺔﻳﺮﺠﺤﻟﺍ ﺢﻄﺳﻷﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Must designate rough stone terrain. -->
+  <MessageMustDesignateSmoothableFloor>. ﻦﺸﺨﻟﺍ ﺮﺠﺤﻟﺍ ﺲﻳﺭﺎﻀﺗ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateSmoothableFloor>
+  <!-- EN: Must designate rough stone wall. -->
+  <MessageMustDesignateSmoothableWall>. ﻦﺸﺧ ﻱﺮﺠﺣ ﺭﺍﺪﺟ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateSmoothableWall>
+  <!-- EN: Nothing can remove thick roofs. -->
+  <MessageNothingCanRemoveThickRoofs>. ﺔﻜﻴﻤﺴﻟﺍ ﻒﻘﺳﻷﺍ ﺔﻟﺍﺯﺇ ﺀﻴﺷ ﻱﻷ ﻦﻜﻤﻳ ﻻ</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
+  <MessageAlreadyInStorage>. ﺔﺟﺎﺤﻟﺍ ﺐﺴﺣ ﺔﻴﻟﺎﻌﻟﺍ ﺔﻳﻮﻟﻭﻷﺍ ﻱﺫ ﻦﻳﺰﺨﺘﻟﺍ ﻰﻟﺇ ﻞﻘﻧُﻴﺳﻭ ﻞﻌﻔﻟﺎﺑ ﻥّﺰﺨﻣ ﺍﺬﻫ</MessageAlreadyInStorage>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
+  <MessageMustDesignateStrippable>. ﻉﺰﻨﻠﻟ ﺔﻠﺑﺎﻗ ﺲﺑﻼﻤﺑ ﻂﻘﺳُﻤﻟﺍ ﺺﺨﺸﻟﺍ ﻭﺃ ﺔﺜﺠﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
+  <MessageMustDesignateSlaughterable>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻲﻤﺘﻨﻳ ﻱﺬﻟﺍ ﻦﺟﺪﻤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
+  <MessageMustDesignateOpenable>. ﺔﻠﻣﺎﻜﻟﺍ ﺕﺎﻳﻭﺎﺤﻟﺍ ﻭﺃ ﺭﻮﺒﻘﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>. ﺓﺭﻮﻈﺤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>. ﺓﺭﻮﻈﺤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateUnforbiddable>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotClaimWhenPawnThreatsAreNear>. ﺏﺮﻘﻟﺎﺑ ﻝﺎﺘﻘﻟﺍ ﻰﻠﻋ ﻥﻭﺭﺩﺎﻗ {THREAT_factionPawnsPlural} ﺪﺟﻮﻳ ﺎﻤﻨﻴﺑ {CLAIMABLE_labelShort} ـﺏ ﺔﺒﻟﺎﻄﻤﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCannotClaimWhenPawnThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotAdoptWhilePawnThreatsAreNear>. ﺏﺮﻘﻟﺎﺑ ﻝﺎﺘﻘﻟﺍ ﻰﻠﻋ ﻥﻭﺭﺩﺎﻗ {THREAT_factionPawnsPlural} ﺪﺟﻮﻳ ﺎﻤﻨﻴﺑ {CLAIMABLE_labelShort} ﻲﻨﺒﺗ ﻦﻜﻤﻳ ﻻ</MessageCannotAdoptWhilePawnThreatsAreNear>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
+  <MessageCannotClaimWhenThreatsAreNear>. ﺍًﺒﻳﺮﻗ {THREAT} ﺪﺟﻮﻳ ﺎﻤﻨﻴﺑ {CLAIMABLE_labelShort} ـﺏ ﺔﺒﻟﺎﻄﻤﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCannotClaimWhenThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
+  <MessageCannotAdoptWhileThreatsAreNear>. ﺍًﺒﻳﺮﻗ {THREAT} ﺪﺟﻮﻳ ﺎﻤﻨﻴﺑ {CLAIMABLE_labelShort} ﻲﻨﺒﺗ ﻦﻜﻤﻳ ﻻ</MessageCannotAdoptWhileThreatsAreNear>
+  <!-- EN: Cannot remove foundation that supports a building. -->
+  <MessageCannotRemoveSupportingFoundation>. ﻰﻨﺒﻣ ﻢﻋﺪﻳ ﻱﺬﻟﺍ ﺱﺎﺳﻷﺍ ﺔﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻻ</MessageCannotRemoveSupportingFoundation>
+
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>!ﻝﺎﻘﺘﻋﻻﺍ {1_labelShort} ﺾﻓﺭ</MessageRefusedArrest>
+  
+  <!-- EN: There are no medical beds available. -->
+  <MessageNoMedicalBeds>. ﺔﺣﺎﺘﻣ ﺔﻴﺒﻃ ﺓّﺮﺳﺃ ﺪﺟﻮﺗ ﻻ</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
+  <MessageNoAnimalBeds>. ﺔﺣﺎﺘﻣ ﺕﺎﻧﺍﻮﻴﺣ ﺓّﺮﺳﺃ ﺪﺟﻮﺗ ﻻ</MessageNoAnimalBeds>
+  <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
+  <MessageWarningNoMedicineForRestriction>.{PAWN_possessive} ﺀﺍﻭﺩ ﺪﻴﻴﻘﺗ ﺮﻴﻴﻐﺗ ﻙﺭﺎﺒﺘﻋﺍ ﻲﻓ ﻊﺿ. ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻬﺑ ﻡﺎﻴﻘﻟﺍ) {RESTRICTIONLABEL} ({PAWN_nameDef} ﺀﺍﻭﺩ ﺪﻴﻴﻘﺗ ﻊﻨﻤﻳ: ﺮﻳﺬﺤﺗ</MessageWarningNoMedicineForRestriction>
+  
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>.{1}: ﺐﺒﺴﻟﺍ. {PAWN_labelShort} ﺕﺎﻣ</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>.{1_labelShort} ﺕﺎﻣ</PawnDied>
+
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>. ﻲﺸﻤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ {1_label} ﺪﻌﻳ ﻢﻟ</MessageNoLongerDowned>
+
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>. ﺪﻳﺪﺸﻟﺍ ﻕﺎﻫﺭﻹﺍ ﺐﺒﺴﺑ {1_labelShort} ﺭﺎﻬﻧﺍ</MessageInvoluntarySleep>
+
+  <!-- EN: This operation will anger {0}. -->
+  <MessageMedicalOperationWillAngerFaction>.{0} ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﺐﻀﻏُﺘﺳ</MessageMedicalOperationWillAngerFaction>
+
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>!ﻞﻣﺎﺣ {PAWN_nameDef}</MessageAnimalIsPregnant>
+  <!-- EN: {0} has miscarried due to starvation. -->
+  <MessageMiscarriedStarvation>. ﻉﻮﺠﻟﺍ ﺐﺒﺴﺑ {0} ﺖﻀﻬﺟﺃ</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
+  <MessageMiscarriedPoorHealth>. ﺔﺤﺼﻟﺍ ﻒﻌﺿ ﺐﺒﺴﺑ {0} ﺖﻀﻬﺟﺃ</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
+  <MessageGaveBirth>. ﺐﺠﻧﺃ/ﺖﺒﺠﻧﺃ {0}</MessageGaveBirth>
+  
+  <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsylinkNoSensitivity>. ﺔﻣﻭﺪﻌﻣ ﺔﻴﺴﻔﻧ ﺔﻴﺳﺎﺴﺣ ﻪﻳﺪﻟ {PAWN_pronoun} ﺎﻤﻨﻴﺑ {ﺭﺍﺑﻂ ﻧﻔﺴﻲ} ﻡﺍﺪﺨﺘﺳﺍ ﻦﻣ {PAWN_labelShort} ﻦﻜﻤﺘﻳ ﻦﻟ</MessagePsylinkNoSensitivity>
+  <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
+  <MessageLostImplantLevelFromHediff>.{2} ﺐﺒﺴﺑ {1} ﺔﺳﺮﻏ ﻦﻣ ًﻯﻮﺘﺴﻣ {PAWN_labelShort} ﺪﻘﻓ</MessageLostImplantLevelFromHediff>
+  <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
+  <MessageReceivedBrainDamageFromHediff>.{2} ﺐﺒﺴﺑ ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﺭﺮﺿ ﺔﻄﻘﻧ {1} ﻦﻣ {PAWN_labelShort} ﻰﻧﺎﻋ</MessageReceivedBrainDamageFromHediff>
+  <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
+  <MessageWentOverPsychicEntropyLimit>. ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻠﻟ ﻲﻌﻴﺒﻄﻟﺍ ﺪﺤﻟﺍ ﺯﻭﺎﺠﺗ {PAWN_labelShort}</MessageWentOverPsychicEntropyLimit>
+
+  <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>).{4} ﻯﻮﺘﺴﻤﺑ {HANDLER_labelShort} ﻮﻫ ﺭﺩﺎﻗ ﺏﺭﺩُﻣ ﻞﻀﻓﺃﻭ ،{2} ﻲﻓ {1} ﻯﻮﺘﺴﻤﻟﺍ ﺐﻠﻄﺘﻳ ({ANIMAL_kindBase} ﺾﻳﻭﺮﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺏﺭﺩُﻣ ﺪﺟﻮﻳ ﻻ</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>.{PREDATOR} ﺔﻄﺳﺍﻮﺑ {EATEN_labelShort} ﻞﻛﺃ ﻢﺗ</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>!{PREDATOR} ﻞﺒﻗ ﻦﻣ ﻡﻮﺠﻬﻠﻟ ﺽﺮﻌﺘﺗ {PREY_labelShort}</MessageAttackedByPredator>
+
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>. ﺓﺮﻴﻈﺣ ﻰﻟﺇ {PAWN_objective} ﺓﺩﺎﻋﺈﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻲﺑﺮﻣ ﻢﻘﻳ ﻢﻟ ﺎﻣ ﺔﻄﻳﺮﺨﻟﺍ {PAWN_pronoun} ﺭﺩﺎﻐﻴﺳ! ﺍًﺪﻴﻌﺑ ﻝﻮﺠﺘﻟﺎﺑ {PAWN_labelShort} ﺃﺪﺑ</MessageRoamerLeaving>
+
+  <!-- EN: A bug hive has reproduced itself. -->
+  <MessageHiveReproduced>. ﺕﺍﺮﺸﺤﻟﺍ ﺔﻴﻠﺧ ﺮﺛﺎﻜﺗ</MessageHiveReproduced>
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
+  <MessageTraderCaravanLeaving>. ﺭﺩﺎﻐﺗ {0} ﻦﻣ ﺓﺭﺎﺠﺘﻟﺍ ﺔﻠﻓﺎﻗ</MessageTraderCaravanLeaving>
+  <!-- EN: The trade caravan from {0} has been dismissed. -->
+  <MessageTraderCaravanDismissed>.{0} ﻦﻣ ﺓﺭﺎﺠﺘﻟﺍ ﺔﻠﻓﺎﻗ ﻖﻳﺮﻔﺗ ﻢﺗ</MessageTraderCaravanDismissed>
+
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>. ﻰﻓﻮﺘﻣ {1_labelShort}</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>. ﺔﻄﻳﺮﺨﻟﺍ ﺝﺭﺎﺧ {1_labelShort}</MessageCantSelectOffMapPawn>
+  
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>.{PAWN2_labelShort} ﻊﻣ ﺍًﻴﻋﺎﻤﺘﺟﺍ ﺍًﺭﺎﺠﺷ {PAWN1_labelShort} ﺃﺪﺑ</MessageSocialFight>
+  
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
+  <MessageNewMarriageCeremony>.{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﺝﺍﻭﺰﺑ ﻝﺎﻔﺘﺣﻼﻟ ﻥﻮﻌﻤﺘﺠﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>!ﺝﺍﻭﺰﻟﺍ ﻢﺳﺍﺮﻣ ﻥﺁﺪﺒﻳ {PAWN2_labelShort} ﻭ {PAWN1_labelShort}</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>.{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﻑﺎﻓﺯ ﻞﻔﺣ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>. ﻥﻵﺍ ﺔﺒﺳﺎﻨﻤﻟﺍ ﻩﺬﻬﺑ ﻥﻮﻠﻔﺘﺤﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ. {PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﺝﻭﺰﺗ</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>.{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﺝﺍﻭﺯ ﻞﻔﺣ ﻰﻬﺘﻧﺍ</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>. ﺔﻄﺑﺍﺭ ﻼﻜﺷ {ANIMAL_labelShort} ﻭ {HUMAN_labelShort}</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>.{ANIMAL_objective} ﻰﻠﻋ {ANIMAL_nameFull} ﻢﺳﺍ {HUMAN_labelShort} ﻖﻠﻃﺃ. ﺍًﻄﺑﺍﺭ ﻼﻜﺷ {1} ﻭ {HUMAN_labelShort}</MessageNewBondRelationNewName>
+  
+  <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>.{HUMAN_labelShort} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﺍًﻴﻠﻘﻋ ﺍًﺭﺎﻴﻬﻧﺍ {ANIMAL} ﻰﻧﺎﻋ</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>.{HUMAN_labelShort} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {ANIMAL_label} ﻰﻤﺴﻤﻟﺍ {ANIMAL_kindIndef} ﻰﻧﺎﻋ</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>.{HUMAN_labelShort} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻲﻠﻘﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ {0} ﺕﺎﻧﺍﻮﻴﺣ ﻰﻧﺎﻋ</MessageBondedAnimalsMentalBreak>
+  
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>.{PATIENT_labelShort} ـﺏ ﺹﺎﺨﻟﺍ {HEDIFF} ﺡﺎﺠﻨﺑ {SURGEON_labelShort} ﻝﺍﺯﺃ</MessageSuccessfullyRemovedHediff>
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
+  <MessageShipChunkDrop>. ﺩﺭﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻜﻴﻜﻔﺗ ﻚﻨﻜﻤﻳ. ﺏﺮﻘﻟﺎﺑ ﺔﻴﺋﺎﻀﻓ ﺔﺒﻛﺮﻣ ﻦﻣ ﺀﺍﺰﺟﺃ ﺖﻄﺒﻫ</MessageShipChunkDrop>
+
+  <!-- EN: Some items cannot be traded because of: -->
+  <MessageCannotSellItemsReason>: ﺐﺒﺴﺑ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻝﻭﺍﺪﺗ ﻦﻜﻤﻳ ﻻ</MessageCannotSellItemsReason>
+
+  <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>. ﺩﺭﺍﻮﻤﻟﺍ ﺾﻌﺑ ﺕﺭﺪﻫ ﺪﻗﻭ. {0} ﺀﺎﻨﺑ ﺀﺎﻨﺛﺃ {WORKER_labelShort} ﻞﺸﻓ</MessageConstructionFailed>
+
+  <!-- EN: Screenshot saved as: {0} -->
+  <MessageScreenshotSavedAs>{0}: ﻢﺳﺎﺑ ﺔﺷﺎﺸﻟﺍ ﺔﻄﻘﻟ ﻆﻔﺣ ﻢﺗ</MessageScreenshotSavedAs>
+  
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>. ﻲﻋﺎﻤﺘﺟﻻﺍ ﺭﺎﺠﺸﻟﺍ ﻦﻋ ﺎﻔﻗﻮﺗ {PAWN2_labelShort} ﻭ {PAWN1_labelShort}</MessageNoLongerSocialFighting>
+  
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>.{1} ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺮﻔﻳ {2_labelShort} ﺪﻌﺗ ﻢﻟ/ﺪﻌﻳ ﻢﻟ</MessageNoLongerBingingOnDrug>
+
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>.{TARGET_label} ـﻝ ﺔﻧﺎﻫﺇ ﺔﻟﺎﺣ ﻲﻓ {PAWN_labelShort} ﺪﻌﻳ ﻢﻟ</MessageNoLongerOnTargetedInsultingSpree>
+
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>. ﻦﻳﺰﺨﺘﻟﺍ ﻲﻓ {1_label} ﻥّﻔﻌﺗ</MessageRottedAwayInStorage>
+  
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>.{2}: ﺐﺒﺴﻟﺍ. {FOOD_labelShort}: ﻦﻣ ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺎﺑ {PAWN_labelShort} ﺐﻴﺻُﺃ</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>. ﺔﻠﻓﺎﻘﻟﺍ ﻦﻣ {0} ﻞﻳﺯُﺃ</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>. ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺔﻴﻠﻤﻋ ﺀﺎﻬﻧﺇ ﻢﺗ</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
+  <MessageForceSendingCaravan_AllLost>. ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺔﻴﻠﻤﻋ ﺀﺎﻬﻧﺇ ﻢﺗ. ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ</MessageForceSendingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
+  <MessageCaravanFormationPaused>. ﻲﺴﻔﻨﻟﺍ ﻩﺭﺎﻴﻬﻧﺍ ﻦﻣ ﻊﻴﻤﺠﻟﺍ ﻰﻓﺎﻌﺘﻳ ﺎﻣﺪﻨﻋ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺔﻴﻠﻤﻋ ﺮﻤﺘﺴﺘﺳ</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
+  <MessageCaravanFormationUnpaused>. ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺘﺑ ﻥﻵﺍ ﻙﻮﻨﻃﻮﺘﺴﻣ ﺃﺪﺒﻴﺳ</MessageCaravanFormationUnpaused>
+  
+  <!-- EN: One of the caravan members has had a mental break. -->
+  <MessageCaravanMemberHasExtremeMentalBreak>. ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﺔﻠﻓﺎﻘﻟﺍ ﺩﺍﺮﻓﺃ ﺪﺣﺃ ﺐﻴﺻﺃ</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
+  <MessageMaxPlanetCoveragePerformanceWarning>. ﺍًﺪﺟ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻪﻠﻤﻛﺄﺑ ﺐﻛﻮﻜﻟﺍ ﺪﻴﻟﻮﺗ ﻕﺮﻐﺘﺴﻳ ﺪﻗ: ﺮﻳﺬﺤﺗ</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <!-- EN: {0} has died because of cold. -->
+  <MessagePlantDiedOfCold>. ﺩﺮﺒﻟﺍ ﺐﺒﺴﺑ {0} ﺕ/ﻲﻓﻮﺗ ﺪﻘﻟ</MessagePlantDiedOfCold>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
+  <MessagePlantDiedOfRot_LeftUnharvested>. ﺩﺎﺼﺣ ﻥﻭﺩ ﻪﻛﺮﺘﻟ ﺔﺠﻴﺘﻧ ﻦﻔﻌﺘﻟﺍ ﺐﺒﺴﺑ {0} ﺕﺎﻣ</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
+  <MessagePlantDiedOfRot_ExposedToLight>. ﺀﻮﻀﻠﻟ ﺽﺮﻌﺘﻟﺍ ﺐﺒﺴﺑ {0} ﺕ/ﻲﻓﻮﺗ ﺪﻘﻟ</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
+  <MessagePlantDiedOfRot>. ﻦﻔﻌﺘﻟﺍ ﺐﺒﺴﺑ {0} ﺕﺎﻣ</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
+  <MessagePlantDiedOfPoison>. ﻢﻤﺴﺘﻟﺍ ﺐﺒﺴﺑ {0} ﺕ/ﻲﻓﻮﺗ ﺪﻘﻟ</MessagePlantDiedOfPoison>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>. ﻝﻮﺑﺬﻟﺍ ﺀﺍﺩ ﺐﺒﺴﺑ {1_label} ﺕ/ﻲﻓﻮﺗ ﺪﻘﻟ</MessagePlantDiedOfBlight>
+
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>!ﺓﺭﺍﺮﺤﻟﺍ ﻖﺋﺎﻓ ﺀﺍﻮﻬﺑ ﻕﺮﺘﺤﻳ {1_labelShort}</MessagePawnBeingBurned>
+
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>!{DRUG_labelShort} ﻝﻭﺎﻨﺗ ﺀﺎﻨﺛﺃ ﺄﻄﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺔﻋﺮﺠﻟﺍ {INGESTER} ﺯﻭﺎﺠﺗ</MessageAccidentalOverdose>
+  
+  <!-- EN: {0} has arrived at its destination. -->
+  <MessageCaravanArrivedAtDestination>. ﻪﺘﻬﺟﻭ ﻰﻟﺇ {0} ﻞﺻﻭ</MessageCaravanArrivedAtDestination>
+  
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>. ﺔﻠﻓﺎﻗ ﻝّﻜﺷﻭ ﺔﻘﻄﻨﻤﻟﺍ {1_labelShort} ﺭﺩﺎﻏ</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>. ﻪﻴﻟﺇ ﻡﺎﻤﻀﻧﻼﻟ ﻙﺮﺤﺘﺗ ﻚﺗﺎﻧﺍﻮﻴﺣ</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
+  <MessageSettledInExistingMap>. ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﻲﻓ ﺡﺎﺠﻨﺑ ﺕﺮﻘﺘﺳﺍ ﺪﻘﻟ</MessageSettledInExistingMap>
+  
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{0}: ﺐﺒﺴﻟﺍ. {PAWN_labelShort} ـﺏ ﺹﺎﺨﻟﺍ {2} ﻰﻓﺎﻌﺗ</MessagePermanentWoundHealed>
+  
+  <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
+  <MessageRescueeDidntJoin>. ﺓﺭﺩﺎﻐﻤﻟﺍ ﺭﺮﻗﻭ [PAWN_nameDef] ﻰﻓﺎﻌﺗ</MessageRescueeDidntJoin>
+  
+  <!-- EN: Some transport pods are unreachable. -->
+  <MessageTransporterUnreachable>. ﻝﻮﺻﻮﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺾﻌﺑ</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
+  <MessageTransportersNotAdjacent>. ﺓﺭﻭﺎﺠﺘﻣ ﺓﺩﺪﺤﻤﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﺑ ﺔﻠﺼﺘﻤﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺕﺎﻓﺫﺎﻗ ﻊﻴﻤﺟ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ</MessageTransportersNotAdjacent>
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
+  <MessageTransportersLoadCanceled_TransporterDestroyed>. ﺕﺭّﻣُﺩ ﺪﻗ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻯﺪﺣﺇ ﻥﻷ ﻞﻴﻤﺤﺘﻟﺍ ﺔﻴﻠﻤﻋ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>. ﺮﻣُﺩ ﺪﻗ ﻙﻮﻜﻤﻟﺍ ﻥﻷ ﻞﻴﻤﺤﺘﻟﺍ ﺔﻴﻠﻤﻋ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>. ﺭِّﻣُﺩ ﺪﻗ ﺕﻻﻮﺴﺒﻜﻟﺍ ﺕﺎﻓﺫﺎﻗ ﺪﺣﺃ ﻥﻷ ﻞﻴﻤﺤﺘﻟﺍ ﺔﻴﻠﻤﻋ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
+  <MessageTransportersLoadingProcessStarted>. ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻰﻟﺇ ﻦﻴﻧَّﻴﻋُﻤﻟﺍ ﺹﺎﺨﺷﻷﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻞﻴﻤﺤﺗ ﻥﻵﺍ ﻢﺘﻴﺳ</MessageTransportersLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
+  <MessageTransporterSingleLoadingProcessStarted>. ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻛ ﻰﻟﺇ ﻦﻴﻧَّﻴﻋُﻤﻟﺍ ﺹﺎﺨﺷﻷﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻞﻴﻤﺤﺗ ﻥﻵﺍ ﻢﺘﻴﺳ</MessageTransporterSingleLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <MessageShuttleLoadingProcessStarted>. ﻙﻮﻜﻤﻟﺍ ﻰﻟﺇ ﻦﻴﺼﺼﺨﻤﻟﺍ ﺹﺎﺨﺷﻷﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻞﻴﻤﺤﺗ ﻥﻵﺍ ﻢﺘﻴﺳ</MessageShuttleLoadingProcessStarted>
+
+  <!-- EN: Your transport pods have arrived. -->
+  <MessageTransportPodsArrived>. ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
+  <MessageTransportPodsArrivedAndLost>. ﻯﻮﺘﺤﻤﻟﺍ ﻉﺎﺿ ﺪﻘﻓ ،ﻥﻭﺮﻤﻌﺘﺴﻣ ﺎﻬﻠﺧﺍﺪﺑ ﻦﻜﻳ ﻢﻟ ﻪﻧﺃ ﺎﻤﺑ ﻦﻜﻟﻭ ،ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</MessageTransportPodsArrivedAndLost>
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
+  <MessageTransportPodsArrivedAndAddedToCaravan>.{0} ﻰﻟﺇ ﻯﻮﺘﺤﻤﻟﺍ ﻒﻴﺿُﺃ. ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <!-- EN: Transport pod loading complete. Launch when ready. -->
+  <MessageFinishedLoadingTransporters>. ﺩﺍﺪﻌﺘﺳﻻﺍ ﺪﻨﻋ ﻖﻠﻃﺃ. ﻞﻤﺘﻛﺍ ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻛ ﻞﻴﻤﺤﺗ</MessageFinishedLoadingTransporters>
+  <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
+  <MessageFinishedLoadingShuttle>. ﺩﺍﺪﻌﺘﺳﻻﺍ ﺪﻨﻋ ﻕﻼﻃﻹﺍ ﺎﻬﻨﻜﻤﻳﻭ ﺔﺑﻮﻠﻄﻤﻟﺍ ﻊﺋﺎﻀﺒﻟﺎﺑ ﺔﻠﻤﺤﻣ {SHUTTLE_label}</MessageFinishedLoadingShuttle>
+
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>).{2_labelShort} (ﻦﻳﺮﻓﻮﺘﻣ ﺮﻴﻏ ﺍﻮﺤﺒﺻﺃ ﺹﺎﺨﺷﻷﺍ ﻭﺃ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻥﻷ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻞﻴﻤﺤﺗ ﻝﺎﻤﻛﺇ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageCantLoadMoreIntoTransporters>
+  <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoShuttle>).{2_labelShort} (ﻦﻳﺮﻓﻮﺘﻣ ﺮﻴﻏ ﺍﻮﺤﺒﺻﺃ ﺹﺎﺨﺷﻷﺍ ﻭﺃ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻥﻷ ﻙﻮﻜﻤﻟﺍ ﻞﻴﻤﺤﺗ ﻝﺎﻤﻛﺇ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageCantLoadMoreIntoShuttle>
+  <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoPortal>).{2_labelShort} (ﻦﻴﺣﺎﺘﻣ ﺮﻴﻏ ﺍﻮﺤﺒﺻﺃ ﺹﺎﺨﺷﻷﺍ ﻭﺃ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻥﻷ {0} ﻰﻟﺇ ﻝﻮﺧﺪﻟﺍ ﻝﺎﻤﻛﺇ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageCantLoadMoreIntoPortal>
+  
+  <!-- EN: Selected destination is invalid. -->
+  <MessageTransportPodsDestinationIsInvalid>. ﺔﺤﻟﺎﺻ ﺮﻴﻏ ﺓﺭﺎﺘﺨﻤﻟﺍ ﺔﻬﺟﻮﻟﺍ</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
+  <MessageWorldObjectIsInvalid>. ﺔﺤﻟﺎﺻ ﺔﻬﺟﻭ ﺖﺴﻴﻟ {OBJECT_labelCap}</MessageWorldObjectIsInvalid>
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
+  <MessageTransportPodsDestinationIsTooFar>. ﺪﻋُﺒﻟﺍ ﺍﺬﻬﺑ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻝﺎﺳﺭﻹ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ x {0} ﻦﻋ ﻞﻘﻳ ﻻ ﺎﻣ ﻰﻟﺇ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﺔﻓﺫﺎﻗ ﻞﻛ ﺝﺎﺘﺤﺘﺳ</MessageTransportPodsDestinationIsTooFar>
+  
+  <!-- EN: The caravan has been reformed. -->
+  <MessageReformedCaravan>. ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺪﻴﻋﺃ</MessageReformedCaravan>
+  
+  <!-- EN: You can't banish the last colonist. -->
+  <MessageCantBanishLastColonist>. ﺮﻤﻌﺘﺴﻣ ﺮﺧﺁ ﻲﻔﻧ ﻚﻨﻜﻤﻳ ﻻ</MessageCantBanishLastColonist>
+
+  <!-- EN: Cannot equip: {0}. -->
+  <MessageCantEquipCustom>.{0}: ﺰﻴﻬﺠﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCantEquipCustom>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>. ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺓ/ﺭﺩﺎﻗ ﺮﻴﻏ {1_labelShort}: ﺰﻴﻬﺠﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>. ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ {1_labelShort}: ﺰﻴﻬﺠﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCantEquipIncapableOfShooting>
+  <!-- EN: Cannot equip: Incapable. -->
+  <MessageCantEquipIncapableOfManipulation>. ﺰﺟﺎﻋ: ﺰﻴﻬﺠﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCantEquipIncapableOfManipulation>
+  <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
+  <MessageCantWearApparelMissingBodyParts>. ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻳﺪﺴﺠﻟﺍ ﺀﺍﺰﺟﻷﺍ {1_labelShort} ﺪﻘﺘﻔﻳ: ﺀﺍﺪﺗﺭﻻﺍ ﻦﻜﻤﻳ ﻻ</MessageCantWearApparelMissingBodyParts>
+  <!-- EN: This person refuses to remove this. -->
+  <MessageCantUnequipLockedApparel>. ﺍﺬﻫ ﺔﻟﺍﺯﺇ ﺾﻓﺮﻳ ﺺﺨﺸﻟﺍ ﺍﺬﻫ</MessageCantUnequipLockedApparel>
+  <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
+  <MessageWouldReplaceLockedApparel>. ﺎﻬﺘﻟﺍﺯﺇ ﺾﻓﺮﻳﻭ {1_labelShort} ﺲﺑﻼﻤﻟﺍ ﻞﺤﻣ ﺍﺬﻫ ﻞﺤﻴﺳ: ﺀﺍﺪﺗﺭﻻﺍ ﻦﻜﻤﻳ ﻻ</MessageWouldReplaceLockedApparel>
+  
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>. ﺪﻴﻌﺳ ﺮﻴﻏ {BONDED_labelShort} {DESIGNATED_labelShort} ﺢﺑﺫ ﻞﻌﺠﻴﺳ ،ﺎﻤﻬﻃﺎﺒﺗﺭﺍ ﺐﺒﺴﺑ</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>. ﺪﻴﻌﺳ ﺮﻴﻏ {BONDED_labelShort} ﻞﻌﺠﻴﺳ {DESIGNATED_labelShort} ﺮﻳﺮﺤﺗ ﻥﺈﻓ ،ﻥﺎﻄﺒﺗﺮﻣ ﺎﻤﻬﻧﻷ</MessageReleaseBondedAnimal>
+  
+  <!-- EN: {0} has run out of food. -->
+  <MessageCaravanRanOutOfFood>.{0} ﻡﺎﻌﻃ ﺪﻔﻧ</MessageCaravanRanOutOfFood>
+  <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
+  <MessageCaravanDeathCorpseAddedToInventory>. ﺔﻠﻓﺎﻘﻟﺍ ﺮﺻﺎﻨﻋ ﺔﻣﻼﻋ ﻲﻓ ﺎﻬﻛﺮﺗ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻠﻓﺎﻘﻟﺍ ﻞﻄﻌﺗ ﺪﻗﻭ ﺔﻠﻴﻘﺛ ﺎﻬﻧﺇ. ﺔﻠﻓﺎﻘﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺎﻬﻃﺎﻘﺘﻟﺍ ﻢﺗ ﺪﻗ {PAWN_definite} ﺔﺜﺟ</MessageCaravanDeathCorpseAddedToInventory>
+
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
+  <MessageSelectOwnBaseToFormCaravan>. ﻙﺩﺍﺮﻓﺃ ﻪﺑ ﺍًﻌﻗﻮﻣ ﻭﺃ ﻚﺗﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ ،ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺘﻟ</MessageSelectOwnBaseToFormCaravan>
+
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
+  <MessageScreenResTooSmallForUIScale>َﺃ ﻝُﻓﺍَﻋَّﺘﻟﺍ ِﻩْﺟَﻭ ِﺱﺍَﻳْﻗُﻣ ُﺺﻳِﻟْﻗَﺗ ﻯَﺟﺮﻳ. ﺓَﺷﺍَّﺸﻟﺍ ﻯَﻟَﻋ ِﺓَﺑْﻋُّﻠﻟﺍ ُﻩْﺟَﻭ ُﻉَﺳَﺗَﻳ ﺍَﻟ ،ﻝُﻓﺍَﻋَّﺘﻟﺍ ِﻩْﺟَﻭ ِﺱﺍَﻳْﻗُﻣَﻭ ِّﻕَّﺪﻟﺍ ﺍَﺫَﻫِﺑ</MessageScreenResTooSmallForUIScale>
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
+  <MessageYouHaveToReformCaravanNow>. ﻩﺀﺍﺭﻭ ﻒﻠﺨﺗ ﻦﻣ ﻞﻛ ﻙﺮﺗُﻴﺳ. ﻥﻵﺍ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﻚﻴﻠﻋ ﺐﺠﻳ</MessageYouHaveToReformCaravanNow>
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <MessageDefendersAttacking>.{2} ﻊﻗﻮﻣ {1} ﻦﻣ {0} ﻢﺟﺎﻬﺗ</MessageDefendersAttacking>
+  <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
+  <MessageMechanoidsAssembled>. ﺎﻬﻌﻤﺠﺗ ﻦﻋ ﻊﻓﺍﺪﺗ ﻑﻮﺳﻭ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺕﺩِﻟُﻭ</MessageMechanoidsAssembled>
+  <!-- EN: Remaining mechanoids to gestate -->
+  <MessageMechanoidsLeftToAssemble>. ﻥﻮﻜﺘﺘﻟ ﺔﻴﻘﺒﺘﻣ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ</MessageMechanoidsLeftToAssemble>
+  <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
+  <MessageMechanoidsReinforcementsDrop>. ﺔﺒﻳﺮﻗ ﻁﻮﺒﻫ ﺕﻻﻮﺴﺒﻛ ﻲﻓ ﺕﺍﺰﻳﺰﻌﺗ ﺀﺎﻋﺪﺘﺳﺍ ﺕﻻﻵﺍ ﻁﻮﺒﻫ ﺓﺭﺎﻨﻣ ﻞﻌﺷﺃ</MessageMechanoidsReinforcementsDrop>
+
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>. ﺐﻴﺒﻄﻟﺍ ﻞﻤﻌﻟ ﺍًﻀﻳﺃ {1_labelShort} ﻦﻴﻴﻌﺗ ﺐﺠﻳ ،ﺕﺍﺬﻟﺎﺑ ﺔﻳﺎﻨﻌﻠﻟ</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>. ﻪﺴﻔﻨﺑ ﺀﺎﻨﺘﻋﻻﺍ ﻪﻨﻜﻤﻳ ﻻﻭ ،ﺐﻴﺒﻄﻟﺍ ﻞﻤﻌﺑ ﻡﺎﻴﻘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ {1_labelShort}</MessageCannotSelfTendEver>
+  
+  <!-- EN: This tile is impassable. -->
+  <MessageCantAddWaypointBecauseImpassable>. ﺓﺮﺑﺎﻋ ﺮﻴﻏ ﺔﻴﻠﺨﻟﺍ ﻩﺬﻫ</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
+  <MessageCantAddWaypointBecauseUnreachable>. ﻖﻳﺮﻃ ﺔﻄﻘﻧ ﺮﺧﺁ ﻦﻣ ﻊﺑﺮﻤﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
+  <MessageCantAddWaypointBecauseLimit>. ﻖﻳﺮﻃ ﺔﻄﻘﻧ {0} ﻦﻣ ﺮﺜﻛﺃ ﺔﻓﺎﺿﺇ ﻚﻨﻜﻤﻳ ﻻ</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
+  <MessageCantRemoveWaypointBecauseFirst>. ﻩﺬﻫ ﻖﻳﺮﻄﻟﺍ ﺔﻄﻘﻧ ﺔﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻻ</MessageCantRemoveWaypointBecauseFirst>
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>. ﺬﻴﻔﻨﺘﻟﺍ ﻢﺘﻳ ﻦﻟ. ﻒﻨﻌﻟﺍ ﺏﺎﻜﺗﺭﺍ ﻚﻴﻧﺎﺠﺳ ﻦﻣ ﻱﺃ ﻊﻴﻄﺘﺴﻳ ﻻ</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>. ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻠﻋ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﻚﻨﻜﻤﻳ. ﻥﻵﺍ ﺔﻨﻣﺁ ﺔﻘﻄﻨﻤﻟﺍ</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>. ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻠﻋ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﻭﺃ ﺮﺜﻛﺃ ﻑﺎﺸﻜﺘﺳﻻﺍ ﻚﻨﻜﻤﻳ. ﺔﻔﺸﻜﺘﺴﻣ ﺮﻴﻏ ﻑﺮﻐﻟﺍ ﺾﻌﺑ ﻰﻘﺒﺗ ﻦﻜﻟ ،ﻥﻵﺍ ﺔﻨﻣﺁ ﺔﻘﻄﻨﻤﻟﺍ</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>. ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﺗ/ﻊﻴﻄﺘﺴﻳ ﻻ {1_pronoun} ﻥﻷ {1_labelShort} ﻲﻔﻧ ﻦﻜﻤﻳ ﻻ</MessageCantBanishDownedPawn>
+
+  <!-- EN: {0} have woken up. -->
+  <MessageSleepingPawnsWokenUp>.{0} ﻆﻘﻴﺘﺳﺍ</MessageSleepingPawnsWokenUp>
+  <!-- EN: Mech cluster buildings have been defeated. -->
+  <MessageMechClusterDefeated>. ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻊﻤﺠﺗ ﻡﺰﻫ</MessageMechClusterDefeated>
+
+  <!-- EN: Item produced: {0}. -->
+  <MessageCompSpawnerSpawnedItem>.{0}: ﺝﺎﺘﻧﺇ ﻢﺗ</MessageCompSpawnerSpawnedItem>
+
+  <!-- EN: Health condition healed: {0}. -->
+  <MessageHediffCuredByItem>.{0}: ﺔﺤﺼﻟﺍ ﺔﻟﺎﺣ ﺖﻨﺴﺤﺗ</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
+  <MessageBodyPartCuredByItem>.{0}: ﻢﺴﺠﻟﺍ ﺀﺰﺟ ﺓﺩﺎﻌﺘﺳﺍ ﻢﺗ</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
+  <MessageResearchProjectFinishedByItem>.{0}: ﺔﻴﻨﻘﺗ ﻢﻳﺪﻘﺗ ﻢﺗ</MessageResearchProjectFinishedByItem>
+
+  <!-- EN: {0} has been brought back to life! -->
+  <MessagePawnResurrected>!{0} ﺀﺎﻴﺣﺇ ﺪﻴﻋُﺃ</MessagePawnResurrected>
+
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>.{RELATIVE_labelShort} ﺍﺬﻫ ﻥﺰﺤﻴﺳ. {PAWN_labelShort} ﺫﺎﻘﻧﺇ ﻲﻓ ﺖﻠﺸﻓ ﺪﻘﻟ</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>.{RELATIVE_labelShort} ﺪﻌﺴﻴﺳ ﺍﺬﻫ. {PAWN_labelShort} َﺕﺬﻘﻧﺃ ﺪﻘﻟ</MessageRescuedRelative>
+
+  <!-- EN: The tornado has left the map. -->
+  <MessageTornadoLeftMap>. ﺔﻄﻳﺮﺨﻟﺍ ﺭﺎﺼﻋﻹﺍ ﺭﺩﺎﻏ</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
+  <MessageTornadoDissipated>. ﺔﻳﺭﺎﺼﻋﻹﺍ ﺔﻔﺻﺎﻌﻟﺍ ﺖﻠﺤﻤﺿﺍ</MessageTornadoDissipated>
+
+  <!-- EN: No conscious, capable diplomat. -->
+  <MessagePeaceTalksNoDiplomat>. ﺭﺩﺎﻗ ٍﻉﺍﻭ ﻲﺳﺎﻣﻮﻠﺑﺩ ﺪﺟﻮﻳ ﻻ</MessagePeaceTalksNoDiplomat>
+
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
+  <MessageWarningCavePlantsExposedToLight>. ﺀﻮﻀﻠﻟ ﺽﺮﻌﺘﻟﺍ ﺪﻨﻋ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ {0} ـﻝ ﻦﻜﻤﻳ ﻻ: ﺮﻳﺬﺤﺗ</MessageWarningCavePlantsExposedToLight>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>.{TARGET_label} ﻮﺤﻧ ﻪﺒﻀﻏ ﻪﻴﺟﻮﺗ {PAWN_pronoun} ﺭﺮﻗ ﺍﺬﻟ {OLDTARGET_label} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻣ {PAWN_labelShort} ﻦﻜﻤﺘﻳ ﻢﻟ</MessageTargetedTantrumChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>.{TARGET_label} ﻮﺤﻧ ﻪﺒﻀﻏ ﻪﻴﺟﻮﺗ {PAWN_pronoun} ﺭﺮﻗ ﺍﺬﻟ {OLDTARGET_label} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻣ {PAWN_labelShort} ﻦﻜﻤﺘﻳ ﻢﻟ</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>.{TARGET_label} ﻮﺤﻧ ﻪﺒﻀﻏ ﻪﻴﺟﻮﺗ {PAWN_labelShort} ﺭﺮﻗ</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>. ﻒﻘﺳ ﺖﺤﺗ ﻮﻤﻨﻳ ﻥﺃ {0} ـﻝ ﻦﻜﻤﻳ ﻻ</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>.{0} ﻕﻮﻓ ﻒﻘﺳ ﺀﺎﻨﺑ ﻦﻜﻤﻳ ﻻ</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>. ﻢﻟﺎﻌﻟﺍ ﺽﺮﻋ ﻲﻓ " ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ " ﺭﺯ ﻡﺪﺨﺘﺳﺍ ،ﺔﻘﻄﻨﻤﻟﺍ ﺓﺭﺩﺎﻐﻤﻟ</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>. ﻥﻵﺍ ﺔﻄﻳﺮﺨﻟﺍ ﺓﺭﺩﺎﻐﻣ ﻚﻨﻜﻤﻳ ﻻ</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>.{2} ﻰﻟﺇ {1} ﻦﻣ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺕﺮﻴﻐﺗ</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>).{3} ({2} ﻰﻟﺇ {1} ﻦﻣ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺕﺮﻴﻐﺗ</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>{1_labelShort} ﻰﻠﻋ ﻡﻮﺠﻬﻟﺍ ﻢﺗ</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>{TARGET_labelShort} ﻰﻠﻋ {ITEM_labelShort} ﻡِﺪﺧُﺘﺳﺍ</GoodwillChangedReason_UsedItem>
+  <!-- EN: used {0} on {1} -->
+  <GoodwillChangedReason_UsedAbility>{1} ﻰﻠﻋ {0} ﻡﺪﺧُﺘﺳﺍ</GoodwillChangedReason_UsedAbility>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>{0} ﺩﺎﺼﺣ ﻢﺗ</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: removed {0} -->
+  <GoodwillChangedReason_RemovedImplant>{0} ﺔﻟﺍﺯﺇ ﻢﺗ</GoodwillChangedReason_RemovedImplant>
+  <!-- EN: downgraded {0} -->
+  <GoodwillChangedReason_DowngradedImplant>{0} ﻯﻮﺘﺴﻣ ﺾﻴﻔﺨﺗ ﻢﺗ</GoodwillChangedReason_DowngradedImplant>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>ٍﻉﺍﺩ ﻼﺑ {0} ﺐﻴﻛﺮﺗ ﻢﺗ</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>{1_labelShort} َﺭِﺳُﺃ</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} ﻖﺣُﺳ</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>{1_labelShort} ﺕﺎﻣ</GoodwillChangedReason_PawnDied>
+  <!-- EN: {0_labelShort} stripped -->
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} ﺩِّﺭُﺟ</GoodwillChangedReason_PawnStripped>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>ﻝَﻭﺍﺪﺗُﻣ</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>. ﺔﻠﻓﺎﻗ ﻢﺟﺎﻫ</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>ﺓﺪﻴﺟ ﺔﺤﺼﺑ ﺔﻄﻳﺮﺨﻟﺍ {1_labelShort} ﺭﺩﺎﻏ</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>{1_labelShort} ـﺏ ﻰﻨﺘﻋﺍ</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>ﺔﻳﺪﻫ ﻯّﻘﻠﺗ</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>. ﻝﺩﺎﺒﺘﻟﺍ ﺽﺮﻋ ﻡﺎﻤﺗﺇ ﻢﺗ</GoodwillChangedReason_FulfilledTradeRequest>
+  <!-- EN: finished a quest -->
+  <GoodwillChangedReason_FinishedQuest>ﺔﻤﻬﻣ ﺰﺠﻧﺃ</GoodwillChangedReason_FinishedQuest>
+  <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
+  <GoodwillChangedReason_UsedForbiddenThing>{CULPRIT} {PAWN_labelShort} ﻡﺪﺨﺘﺳﺍ</GoodwillChangedReason_UsedForbiddenThing>
+  <!-- EN: sold {0_labelShort} -->
+  <GoodwillChangedReason_SoldPawn>{0_labelShort} ﻊﻳِﺑ</GoodwillChangedReason_SoldPawn>
+  <!-- EN: euthanized {PAWN_labelShort} -->
+  <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort} َﻡَﺪﻋُﺃ</GoodwillChangedReason_EuthanizedPawn>
+  <!-- EN: requested military aid -->
+  <GoodwillChangedReason_RequestedMilitaryAid>ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﺴﻣ ﺐﻠﻃ</GoodwillChangedReason_RequestedMilitaryAid>
+  <!-- EN: requested trader caravan -->
+  <GoodwillChangedReason_RequestedTrader>ﺮﺟﺎﺗ ﺔﻠﻓﺎﻗ ﺐﻠﻃ</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>ﻲﺒﺼﻋ ﻝﺍﺰﻟﺯ ﻯﺪﺻ</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>{PAWN_labelShort} ﻥﻮﻨﺟ ﻲﻓ ﺐﺒﺴﺗ</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>{0_name} ﺔﻤﺟﺎﻬﻣ ﻢﺗ</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>ﺮﻣﺪﻣ ﻙﻮﻜﻣ</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>ﻦﻴﻴﻧﺪﻣ ﺮﺋﺎﺴﺧ</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>ﺩﻮﻘﻔﻣ ﺪﺋﺎﻗ</GoodwillChangeReason_CommanderLost>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>. ﺎﻬﻧﻭﺭﺪﻘﻳ ﻻ ﻢﻬﻨﻜﻟ ﻚﺘﻳﺪﻫ ﻥﻮﻠﺒﻘﻳ {0}</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>. ﺮﺧﺁ ﺀﻴﺷ ﻱﺃ ﻞﻤﺣ ﺎﻬﻨﻜﻤﻳ ﻻﻭ ﻞﻌﻔﻟﺎﺑ ﺔﻠﻘﺜﻣ ﺔﻠﻓﺎﻘﻟﺍ</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>. ﻂﻘﻓ ﺍًﻴﻓﺎﺿﺇ {1} ﻞﻤﺣ ﺔﻠﻓﺎﻘﻠﻟ ﻦﻜﻤﻳ ﻦﻜﻟﻭ {0} ﺎﻳﺍﺪﻬﻟﺍ ﻥﺰﺗ. ﺍﺬﻫ ﻞﻛ ﻞﻤﺣ ﺔﻠﻓﺎﻘﻠﻟ ﻦﻜﻤﻳ ﻻ</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>. ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻠﻋ ﻪﻘﻳﺮﻃ ﻲﻓ ﻥﻵﺍ ﻮﻫﻭ {0} ﻞﻜﺸﺗ</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>ﺮﻣﺍﻭﺃ</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>.{2} ﻑﻭﺬﺤﻣ ﻥﻭﺰﺨﻣ ﻰﻟﺇ "{0}" ﻞﻴﺻﻮﺗ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>. ﺡﺎﺘﻤﻟﺍ ﺮﻴﻏ {2} ﻥﻭﺰﺨﻣ ﻰﻟﺇ "{0}" ﻞﻴﺻﻮﺗ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>. ﺩﻮﻴﻘﻟﺍ ﺔﻟﺍﺯﺇ ﺖﻤﺗ. {2} ﻲﻓ "{1}" ﻰﻠﻋ ﻞﻤﻌﻟﺍ {0} ﻥﺎﻜﻣﺈﺑ ﺪﻌﻳ ﻢﻟ</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>.{2} ﻑﻭﺬﺤﻣ ﻥﻭﺰﺨﻣ ﻲﻓ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻋ {1} ـﺏ ﺹﺎﺨﻟﺍ "{0}" ﻥﺎﻜﻣﺈﺑ ﺪﻌﻳ ﻢﻟ</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
+  <MessageBillValidationIncludeBuildingDeleted>.{2} ﻑﻭﺬﺤﻤﻟﺍ ﻰﻨﺒﻤﻟﺍ ﻲﻓ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻋ ﻥﻵﺍ ﺪﻌﺑ {1} ـﺏ ﺹﺎﺨﻟﺍ "{0}" ـﻝ ﻦﻜﻤﻳ ﻻ</MessageBillValidationIncludeBuildingDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
+  <MessageBillValidationIncludeStorageGroupDeleted>."{0}" ـﺏ ﺔﺻﺎﺨﻟﺍ {2} ﺔﻓﻭﺬﺤﻤﻟﺍ ﻦﻳﺰﺨﺘﻟﺍ ﺔﻋﻮﻤﺠﻣ ﻲﻓ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻋ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageBillValidationIncludeStorageGroupDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>."{0}" ﻦﻤﺿ ﻥﻵﺍ ﺪﻌﺑ ﺡﺎﺘﻤﻟﺍ ﺮﻴﻏ {2} ﻥﻭﺰﺨﻣ ﻲﻓ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻋ {1} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>.{2} ﻥﻭﺰﺨﻣ ﻰﻟﺇ ﺕﺎﺠﺘﻨﻤﻟﺍ ﻊﻴﻤﺟ ﻞﻴﺻﻮﺗ {1} ـﻝ ﻊﺑﺎﺘﻟﺍ "{0}" ﻥﺎﻜﻣﺈﺑ ﺪﻌﻳ ﻢﻟ</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>. ﺔﻳﺮﺒﻟﺍ ﻰﻟﺇ {1_labelShort} ﺕﺩﺎﻋ ،ﺾﻳﻭﺮﺘﻠﻟ ﺔﻧﺎﻴﺼﻟﺍ ﺺﻘﻧ ﺐﺒﺴﺑ</MessageAnimalReturnedWild>
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>. ﺔﻳﺮﺒﻟﺍ ﻰﻟﺇ {1_labelShort} ﺪﻴﻋُﺃ</MessageAnimalReturnedWildReleased>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>{1}: ﺓﺭﺎﻬﻣ {ANIMAL_labelShort} ﺪﻘﻓ ،ﺔﻧﺎﻴﺼﻟﺍ ﻰﻠﻋ ﺐﻳﺭﺪﺘﻟﺍ ﺺﻘﻧ ﺐﺒﺴﺑ</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>{0} ﻰﻟﺇ ﺔﻤﺟﺮﺘﻟﺍ ﺮﻳﺮﻘﺗ ﺔﺑﺎﺘﻛ ﻢﺗ</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>. ﺔﻬﺟﻮﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻣ {0} ﻦﻜﻤﺘﺗ/ﻦﻜﻤﺘﻳ ﻢﻟ</MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <MessageEnterCooldownBlocksEntering>.{0} ﻰﻟﺇ ﻝﻮﺧﺪﻟﺍ ﺓﺩﺎﻋﻹ ﺔﻳﺎﻐﻠﻟ ﺮﻄﺧ</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {0_labelShort} can now freely use "{1}". -->
+  <MessagePermitCooldownFinished>. ﺔﻳﺮﺤﺑ "{1}" ﻡﺍﺪﺨﺘﺳﺍ ﻥﻵﺍ {0_labelShort} ـﻝ ﻦﻜﻤﻳ</MessagePermitCooldownFinished>
+
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
+  <MessagePredatorHuntingPlayerAnimal>!ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ) {PREY_kindBase} ({PREY_definite} ﺩﺎﻄﺼﻳ {PREDATOR}</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>.{WARDEN_labelShort} ﺪﻳ ﻰﻠﻋ {PRISONER_labelShort} ﻦﻴﺠﺴﻟﺍ ﺔﻣﻭﺎﻘﻣ ﺕﺮﺴﻜﻧﺍ</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>. ﺪﻴﻨﺠﺘﻟﺍ ﺕﻻﻭﺎﺤﻣ ﺃﺪﺒﺘﺳ</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
+  <MessageModWithPackageIdAlreadyEnabled>. ﺍﺬﻫ ﻞﻴﻌﻔﺗ ﺔﻟﻭﺎﺤﻣ ﻞﺒﻗ {1} ﻞﻴﻄﻌﺘﺑ ﻢﻗ. ﻞﻌﻔﻟﺎﺑ ﻝّﻌﻓُﻣ {0} ﺔﻣﺰﺤﻟﺍ ﻑّﺮﻌﻤﺑ ﺮﺧﺁ ﻞﻳﺪﻌﺗ ﻙﺎﻨﻫ</MessageModWithPackageIdAlreadyEnabled>
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>. ﺓﺍﺩﻷﺍ ﻩﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﻞﺒﻗ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻊﻴﻤﺟ ﻝّﻄﻋ</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
+  <MessageUnpackBeforeCleaningTranslationFiles>. ﺓﺍﺩﻷﺍ ﻩﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﻞﺒﻗ ﺔﻐﻠﻟﺍ ﻩﺬﻬﻟ ﺔﻃﻮﻐﻀﻤﻟﺍ ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﻊﻴﻤﺟ ﻑﺬﺣ ﻢﺛ ﻂﻐﺿ ﻚﻔﺑ ﻢﻗ</MessageUnpackBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folders: {0} -->
+  <MessageTranslationFilesCleanupDone>{0}: ﺓﺮﺛﺄﺘﻤﻟﺍ ﺕﺍﺪﻠﺠﻤﻟﺍ. ﻢﺗ</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>. ًﻻﻭﺃ XML ﻞﻴﻠﺤﺗ ﺀﺎﻄﺧﺃ ﻊﻴﻤﺟ ﻞﺣ ﺐﺠﻳ). {0} (ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﺪﺣﺃ ﻞﻴﻤﺤﺗ ﺭﺬﻌﺗ</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>.{PAWN_factionName} ﻪﻠﻴﺼﻓ ﺐﻀﻏ ﺮﻴﺜﻴﺳ {PAWN_nameDef} ﺮﺳﺃ: ﺮﻳﺬﺤﺗ</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
+  <MessageStrippingWillAngerFaction>.{PAWN_factionName} ﺐﻀﻏ ﺮﻴﺜﻴﺳ {PAWN_nameDef} ﺪﻳﺮﺠﺗ: ﺮﻳﺬﺤﺗ</MessageStrippingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>. ﻙﺎﺒﺘﺷﺍ ﻲﻓ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻦﻜﻤﻳ ﻻ</MessageCantShootInMelee>
+
+  <!-- EN: None of your {0} can accept this quest now. -->
+  <MessageNoColonistCanAcceptQuest>. ﻥﻵﺍ ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﻮﺒﻗ ﻚﻳﺪﻟ {0} ﻦﻣ ﻱﻷ ﻦﻜﻤﻳ ﻻ</MessageNoColonistCanAcceptQuest>
+  <!-- EN: Cannot accept this quest. -->
+  <MessageCannotAcceptQuest>. ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﻮﺒﻗ ﻦﻜﻤﻳ ﻻ</MessageCannotAcceptQuest>
+  <!-- EN: {0_definite} has accepted a quest: {1} -->
+  <MessageQuestAccepted>{1}: ﺔﻤﻬﻣ {0_definite} ﻞﺒﻗ</MessageQuestAccepted>
+  <!-- EN: {0} is leaving. -->
+  <MessagePawnLeaving>. ﺭﺩﺎﻐﻣ {0}</MessagePawnLeaving>
+  <!-- EN: {0} are leaving. -->
+  <MessagePawnsLeaving>. ﻥﻭﺭﺩﺎﻐﻳ {0}</MessagePawnsLeaving>
+
+  <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>. ﻪﻠﺧﺍﺪﺑ ﻪﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ ﻰﻨﺒﻣ ﺀﺎﻨﺑ ﺐﺒﺴﺑ ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺗ</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
+  <MessageNoResearchBenchForTechprint>. ﺯﻮﺠﺤﻣ ﺮﻴﻏﻭ ﺡﺎﺘﻣ ﺚﺤﺑ ﺪﻌﻘﻣ ﺪﺟﻮﻳ ﻻ: ﻖﻴﺒﻄﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</MessageNoResearchBenchForTechprint>
+
+  <!-- EN: No valid destination found for {0} -->
+  <NoValidDestinationFound>{0} ـﻝ ﺔﺤﻟﺎﺻ ﺔﻬﺟﻭ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>. ﺔﺟﺮﺨﺘﺴﻣ ﺓﺮﺠﺷ ﺖﺗﺎﻣ</MessageMinifiedTreeDied>
+  
+  <!-- Research -->
+  <!-- EN: Warning: Research will not begin until you build a research bench. -->
+  <MessageResearchMenuWithoutBench>. ﺚﺤﺑ ﺓﺪﻀﻨﻣ ﺀﺎﻨﺒﺑ ﻡﻮﻘﺗ ﻰﺘﺣ ﺚﺤﺒﻟﺍ ﺃﺪﺒﻳ ﻦﻟ: ﺮﻳﺬﺤﺗ</MessageResearchMenuWithoutBench>
+
+  <!-- EN: {0_indefinite} has triggered a proximity activator. -->
+  <MessageActivatorProximityTriggered>. ﺏﺮﻘﻟﺎﺑ ًﻼّﻌﻓُﻣ {0_indefinite} ﻝّﻐﺷ</MessageActivatorProximityTriggered>
+
+  <!-- EN: {0_label} is currently hidden. -->
+  <MessageCannotSelectInvisibleStat>. ﺍًﻴﻟﺎﺣ ﻲﻔﺨﻣ {0_label}</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>. ٌﺮﻴﺳﺃ {PAWN_nameDef}</MessagePrisonerCannotEquipWeapon>
+
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>. ﺎﺿﺮﻟﺍ ﻡﺪﻌﺑ {0_pronoun} ﺮﻌﺸﻳ ﺪﻗ. {1} ﻞﻤﻌﻟﺍ ﻊﻣ {0_nameDef} ﺕﺍﺪﻘﺘﻌﻣ ﺽﺭﺎﻌﺘﺗ: ﺮﻳﺬﺤﺗ</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>.{1_nameDef} ـﻝ ﺍًﻧّﻴﻋُﻣ {0} ﺪﻌﻳ ﻢﻟ</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>.{1_nameDef} ـﻝ ﺺﺼﺨﻤﻟﺍ {0} ﺮﻴﻣﺪﺗ ﻢﺗ</MessageBedDestroyed>
+
+  <!-- Lord jobs -->
+  <!-- EN: You need {0_indefinite}. -->
+  <MessageLordJobNeedsAtLeastOneRolePawn>.{0_indefinite} ﺝﺎﺘﺤﺗ</MessageLordJobNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageLordJobNeedsAtLeastNumRolePawn>.{0} {1} ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺖﻧﺃ</MessageLordJobNeedsAtLeastNumRolePawn>
+
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>ﺓﺪﻫﺎﺸﻣ</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>{0} ـﻝ ﻥّﻴﻋ</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>.{0} ﺃﺪﺑ</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>.{1} ﻮﻫ {0} ﺩﺪﻌﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>. ﻞﻔﻗُﻣ {0} ﺭﻭﺩ</RoleIsLocked>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>. ﻞﻗﻷﺍ ﻰﻠﻋ ﺪﺣﺍﻭ ﻙﺭﺎﺸﻣ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>. ﻞﻗﻷﺍ ﻰﻠﻋ ﺪﺣﺍﻭ ﺝﺮﻔﺘﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>. ﺏﺎﺻُﻣ {0_labelShort}</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>. ﺍًﻴﻟﺎﺣ ﺭﺍﺮﻓ ﺔﻟﺎﺣ ﻲﻓ {0_labelShort}</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>. ﺍًﻴﻟﺎﺣ ﺓ/ﺩﺮﻤﺘﻣ {0_labelShort}</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>.{0_labelShort} ﺡﺍﺮﺳ ﻕﻼﻃﺇ ﻱﺮﺠﻳ</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>. ﺏﺎﺼﻣ {0_labelShort}</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>. ﺭﺍﻭﺩﻷﺍ ﻩﺬﻫ ﺪﺣﺃ {0_labelShort} ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>. ﺍًﻨﻴﺠﺳ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>. ﺍًﻧﺍﻮﻴﺣ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>. ﺍًﻧﺎﺴﻧﺇ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeABaby>. ًﻼﻔﻃ {0} ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotBeABaby>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>.{0_labelShort} ـﻝ ﺔﺣﺎﺘﻣ ﺭﺍﻭﺩﺃ ﺪﺟﻮﺗ ﻻ</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>. ﺓﺮﻤﻌﺘﺴﻣ ﺔﻧﺎﻳﺩ- ﺓﺪﻴﻘﻋ ﻱﺃ ﻲﻓ ﺍًﻮﻀﻋ ﺖﺴﻴﻟ/ﺲﻴﻟ {0_labelShort}</MessageRitualNotOfPlayerIdeo>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>. ﻥﻮﻴﻋ {0} ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>. ﻂﻳﺮﺸﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻻ {0_labelShort}</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0_labelShort} does not require blinding. -->
+  <MessageRitualRoleMustRequireBlinding>. ًﺀﺎﻤﻋﺇ ﺐﻠﻄﺘﻳ ﻻ {0_labelShort}</MessageRitualRoleMustRequireBlinding>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>. ﺍًﺪﺒﻋ ﻭﺃ ﺍًﻨﻴﺠﺳ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>. ﻝﺎﺘﻘﻟﺍ ﻰﻠﻋ ﺍًﺭﺩﺎﻗ {0_labelShort} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>. ﺭﻭﺪﻟﺍ ﺍﺬﻫ ﺐﻌﻠﻳ ﻥﺃ ﺮﺧﺁ ﺺﺨﺸﻟ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>. ﺍًﺮﺧﺆﻣ ﺖﻗﺰﻤﺗ {0_possessive} ﺔﻠﺻﻭ ﻥﻷ ﻦﻠﻧﺍﺭﻮﻏ ﺓﺮﺠﺸﺑ ﻝﺎﺼﺗﻻﺍ {0_labelShort} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>. ﻝِّﻮﺤﻤﻠﻟ ﺔﻴﻨﻳﺪﻟﺍ ﺓﺪﻴﻘﻌﻟﺍ ﺲﻔﻧ ﺎﻬﻳﺪﻟ/ﻪﻳﺪﻟ {0_labelShort}</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>. ﺔﺳﺍﺮﺤﻟﺍ ﻰﻠﻋ ﺍًﺭﺩﺎﻗ {0_labelShort} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>.{1} ﻰﻠﻋ ﺍًﺭﺩﺎﻗ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: {0} must be capable of violence. -->
+  <MessageRitualRoleMustBeCapableOfViolence>. ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺍًﺭﺩﺎﻗ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeCapableOfViolence>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>.{0} ﺀﺎﻨﺠﺴﻠﻟ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>.{1} ﻪﻨﻜﻤﻳ {0} ﻂﻘﻓ</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>.{1} ﺭﻭﺩ ﻸﻤﻳ ﻥﺃ ﻪﻨﻜﻤﻳ {0} ﻂﻘﻓ</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>.{0} ﺭﻭﺪﻟ ًﺍﺮﻤﻌﺘﺴﻣ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeColonist>
+  <!-- EN: must not be a prisoner for the {0} role. -->
+  <MessageRitualRoleMustBeFree>.{0} ﺭﻭﺪﻟ ﺍًﺮﻴﺳﺃ ﻥﻮﻜﻳ ﻻﺃ ﺐﺠﻳ</MessageRitualRoleMustBeFree>
+  <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
+  <MessageRitualWontAttendExtremeTemperature>. ﺱﻮﻘﻄﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﺓﺪﻳﺪﺸﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺐﺒﺴﺑ ﺮﻀﺤﻳ ﻦﻟ {0_labelShort}</MessageRitualWontAttendExtremeTemperature>
+  <!-- EN: must be colonist and not enslaved for the {0} role. -->
+  <MessageRitualRoleMustBeFreeColonist>.{0} ﺭﻭﺪﻟ ﺩَﺒﻌﺘﺴﻣ ﺮﻴﻏﻭ ﺍًﺭِﻤﻌﺘﺴﻣ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeFreeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>.{1} ﻢﺴﺠﻟﺍ ﻢﺠﺤﻟ ﻰﻧﺩﺃ ﺪﺤﺑ ﻥﺍﻮﻴﺣ {0} ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>. ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ ﻲﻓ {0_labelShort}</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>.{1} ﻞﻌﻔﻟﺎﺑ ﻲﻫ/ﻮﻫ {0_labelShort}</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>. ﺝﺮﻔﺘﻤﻟﺍ ﺮﻴﻏ ﺮﺧﺁ ﺭﻭﺩ ﻱﺃ ﻲﻟﻮﺗ {0_labelShort} ـﻝ ﻦﻜﻤﻳ ﻻ</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>. ﺍًﻧﻮﺠﺴﻣ ﺍًﻳﺮﺑ ًﺓﺃﺮﻣﺍ ﻭﺃ ﺍًﻠﺟﺭ {0} ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>. ﺍًﺮﺣ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustNotBeImprisoned>
+  <!-- EN: {0} cannot be a child. -->
+  <MessageRitualRoleCannotBeChild>. ًﻼﻔﻃ {0} ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotBeChild>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeBaby>. ًﻼﻔﻃ {0} ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotBeBaby>
+  <!-- EN: {0} is busy. -->
+  <MessageRitualRoleBusy>. ﻝﻮﻐﺸﻣ {0}</MessageRitualRoleBusy>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>. ﺔﻌﺑﺎﺘﻤﻠﻟ ﻊﻗﻮﻣ ﺭﺎﻴﺘﺧﺍ ﻚﻴﻠﻋ ﺐﺠﻳ</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>{0_labelShort} ﺔﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>. ﺔﺒﺼﺨﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ</MessageWarningNotEnoughFertility>
+  <!-- EN: Temperature too extreme. -->
+  <CannotPlantExtremeTemp>. ﺔﻐﻟﺎﺑ ﺓﺭﺍﺮﺣ</CannotPlantExtremeTemp>
+  <!-- EN: Plants cannot grow on this terrain. -->
+  <CannotPlantMissingTerrainTag>. ﺲﻳﺭﺎﻀﺘﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻮﻤﻨﺗ ﻥﺃ ﺕﺎﺗﺎﺒﻨﻠﻟ ﻦﻜﻤﻳ ﻻ</CannotPlantMissingTerrainTag>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>.{0_label} ﺔﻄﺳﺍﻮﺑ ﺯﻮﺠﺤﻣ</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>.{0_label} ﺐﻧﺎﺠﺑ ﺎﻬﺘﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>.{0_label} ﻦﻣ ﺍًﺪﺟ ﺐﻳﺮﻗ</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>.{0} ﺔﻋﺍﺭﺯ ﻊﻗﻮﻣ ﻦﻣ ﺍًﺪﺟ ﺐﻳﺮﻗ</TooCloseToOtherSeedPlantCell>
+  <!-- EN: Cannot be placed on {0}. -->
+  <MessageCannotBePlacedOn>.{0} ﻰﻠﻋ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ</MessageCannotBePlacedOn>
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>. ﻊﻄﻘﻠﻟ {0} ﺪﻳﺪﺤﺗ ﻢﺗ: ﺮﻳﺬﺤﺗ</MessageWarningCutImportantPlant>
+
+  <!-- EN: {0_labelShort} is incapable of manipulation. -->
+  <MessageIncapableOfManipulation>. ﺐﻋﻼﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ {0_labelShort}</MessageIncapableOfManipulation>
+
+  <!-- EN: {0_labelShort} activation canceled -->
+  <MessageActivationCanceled>{0_labelShort} ﻞﻴﻌﻔﺗ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageActivationCanceled>
+
+  <!-- EN: Nothing is currently buildable in category -->
+  <NothingAvailableInCategory>. ﺔﺌﻔﻟﺍ ﻲﻓ ﻩﺅﺎﻨﺑ ﻦﻜﻤﻳ ﺎﻣ ﺍًﻴﻟﺎﺣ ﺪﺟﻮﻳ ﻻ</NothingAvailableInCategory>
+
+  <!-- EN: Storage settings linked for {0} buildings. -->
+  <SettingsLinkedFor>. ﻰﻨﺒﻣ {0} ـﺏ ﺔﻄﺒﺗﺮﻣ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ</SettingsLinkedFor>
+  <!-- EN: Storage settings linked for 1 building. -->
+  <SettingsLinkedForSingular>. ﺪﺣﺍﻭ ﻰﻨﺒﻤﻟ ﺔﻄﺒﺗﺮﻣ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ</SettingsLinkedForSingular>
+  <!-- EN: Storage settings unlinked for {0} buildings. -->
+  <SettingsUnlinkedFor>. ٍﻥﺎﺒﻣ {0} ـﻝ ﺔﻄﺒﺗﺮﻣ ﺮﻴﻏ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ</SettingsUnlinkedFor>
+  <!-- EN: Storage settings unlinked for 1 building. -->
+  <SettingsUnlinkedForSingular>. ﺪﺣﺍﻭ ﻰﻨﺒﻤﻟ ﺔﻄﺒﺗﺮﻣ ﺮﻴﻏ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ</SettingsUnlinkedForSingular>
+  <!-- EN: Storage settings copied to clipboard. -->
+  <StorageSettingsCopiedToClipboard>. ﺔﻈﻓﺎﺤﻟﺍ ﻰﻟﺇ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﺦﺴﻧ ﻢﺗ</StorageSettingsCopiedToClipboard>
+  <!-- EN: Storage settings pasted from clipboard. -->
+  <StorageSettingsPastedFromClipboard>. ﺔﻈﻓﺎﺤﻟﺍ ﻦﻣ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻖﺼﻟ ﻢﺗ</StorageSettingsPastedFromClipboard>
+  
+  <!-- EN: {0_label} requires adjacent walls to function. -->
+  <MessageBuildingRequiresAdjacentWalls>. ﻞﻤﻌﻴﻟ ﺓﺭﻭﺎﺠﺘﻣ ﺍًﻧﺍﺭﺪﺟ ﺐﻠﻄﺘﻳ {0_label}</MessageBuildingRequiresAdjacentWalls>
+
+  <!-- EN: Cannot skip: Refugee -->
+  <MessageLodgersCantFarskip>ﺊﺟﻻ</MessageLodgersCantFarskip>
+  
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
+  <MessageHackerLockedOut>.{DURATION} ﺓﺪﻤﻟ {HACKER_pronoun} ﺮﻈﺣ ﻢﺗ. {HACKER_nameDef} ﺔﻨﺻﺮﻗ ﻑﺎﺸﺘﻛﺍ ﻢﺗ</MessageHackerLockedOut>
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
+  <MessageHackerLockedOutPermanently>. ﻢﺋﺍﺩ ﻞﻜﺸﺑ {HACKER_pronoun} ﺮﻈﺣ ﻢﺗ. {HACKER_nameDef} ﺔﻨﺻﺮﻗ ﻑﺎﺸﺘﻛﺍ ﻢﺗ</MessageHackerLockedOutPermanently>
+  <!-- EN: {0_labelShort} can be hacked again. -->
+  <MessageHackableUnlocked>. ﻯﺮﺧﺃ ﺓﺮﻣ {0_labelShort} ﻕﺍﺮﺘﺧﺍ ﻦﻜﻤﻳ</MessageHackableUnlocked>
+
+  <!-- EN: Shuttle cannot land here -->
+  <ShuttleCannotLand>. ﺎﻨﻫ ﻁﻮﺒﻬﻟﺍ ﻙﻮﻜﻤﻠﻟ ﻦﻜﻤﻳ ﻻ</ShuttleCannotLand>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>. ﻙﻮﻜﻤﻟﺍ ﺖﻠﺻﻭ</MessageShuttleArrived>
+
+  <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
+  <MessageGroundPenetratingScannerNoBedrock>. ﻲﺌﻴﺒﻟﺍ ﻂﻤﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﻞﻤﻌﻳ ﻦﻟ {THING_labelCap}: ﺮﻳﺬﺤﺗ</MessageGroundPenetratingScannerNoBedrock>
+
+</LanguageData>

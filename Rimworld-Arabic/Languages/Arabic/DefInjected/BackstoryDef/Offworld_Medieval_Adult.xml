@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>{PAWN_gender ? . ﺍًﻀﻳﺃ ﺎﻬﺘﻌﻨﺻ ﻲﺘﻟﺍ ﻑﻮﻴﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺔﺌﻴﺳ ﻦﻜﺗ ﻢﻟﻭ. ﺔﻴﻟﺎﻌﻟﺍ ﺎﻬﻠﻤﻋ ﺓﺩﻮﺠﻟ ﺔﺒﻴﻃ ﺔﻌﻤﺳ [PAWN_nameDef] ﺖﺒﺴﺘﻛﺍ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ًﺓﺩﺍﺪﺣ ﺎﻬﺘﻔﺼﺑ : . ﺍًﻀﻳﺃ ﺎﻬﻌﻨﺻ ﻲﺘﻟﺍ ﻑﻮﻴﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺍًﺌﻴﺳ ﻦﻜﻳ ﻢﻟﻭ. ﺔﻴﻟﺎﻌﻟﺍ ﻪﻠﻤﻋ ﺓﺩﻮﺠﻟ ﺔﺒﻴﻃ ﺔﻌﻤﺳ [PAWN_nameDef] ﺐﺴﺘﻛﺍ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺍًﺩﺍﺪﺣ ﻪﺘﻔﺼﺑ}</Blacksmith72.description>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>ﺩﺍﺪﺣ</Blacksmith72.title>
+  <Blacksmith72.titleFemale>ﺓﺩﺍﺪﺣ</Blacksmith72.titleFemale>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>ﺩﺍﺪﺣ</Blacksmith72.titleShort>
+  <Blacksmith72.titleShortFemale>ﺓﺩﺍﺪﺣ</Blacksmith72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>{PAWN_gender ? . ﺮﻌﺳ ﻞﺑﺎﻘﻣ — ﻢﻬﺗﺪﻋﺎﺴﻤﺑ ﺓﺪﻴﻌﺳ ﺖﻧﺎﻛ. ﺎﻬﺘﻘﻳﺪﺣ ﻲﻓ ﺎﻬﻋﺭﺰﺗ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺏﺎﺸﻋﻷﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺕﺍﺩﺎﻤﻀﻟﺍﻭ ﻢﻫﺍﺮﻤﻟﺍ ﺀﺍﺮﺸﻟ ﺎﻬﻴﻟﺇ ﻥﻮﺗﺄﻳ ﺍﻮﻧﺎﻛ ﻰﺿﺮﻤﻟﺍ ﻦﻴﻳﻭﺮﻘﻟﺍ ﻥﺃ ﻻﺇ ،ﺎﻬﻧﻮﺸﺨﻳ ﺍﻮﻧﺎﻛ ﻦﻴﻳﻭﺮﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺔﻳﺮﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺔﺑﺎﻐﻟﺍ ﻲﻓ [PAWN_nameDef] ﺖﺷﺎﻋ : . ﺮﻌﺳ ﻞﺑﺎﻘﻣ — ﻢﻬﺗﺪﻋﺎﺴﻤﺑ ﺍًﺪﻴﻌﺳ ﻥﺎﻛﻭ. ﻪﺘﻘﻳﺪﺣ ﻲﻓ ﺎﻬﻋﺭﺰﻳ ﻲﺘﻟﺍ ﺏﺎﺸﻋﻷﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺕﺍﺩﺎﻤﻀﻟﺍﻭ ﻢﻫﺍﺮﻤﻟﺍ ﺀﺍﺮﺸﻟ ﻪﻴﻟﺇ ﻥﻮﺗﺄﻳ ﺍﻮﻧﺎﻛ ﻢﻬﻨﻣ ﻰﺿﺮﻤﻟﺍ ﻥﺃ ﻻﺇ ،ﻪﻧﻮﺸﺨﻳ ﺍﻮﻧﺎﻛ ﻦﻴﻳﻭﺮﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺔﻳﺮﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺔﺑﺎﻐﻟﺍ ﻲﻓ [PAWN_nameDef] ﺵﺎﻋ}</Herbalist54.description>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>ﺏﺍّﺸﻋ</Herbalist54.title>
+  <Herbalist54.titleFemale>ﺔﺑﺍّﺸﻋ</Herbalist54.titleFemale>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>ﺏﺍّﺸﻋ</Herbalist54.titleShort>
+  <Herbalist54.titleShortFemale>ﺔﺑﺍّﺸﻋ</Herbalist54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>{PAWN_gender ? . ﻱﻮﻣﺪﻟﺍ ﻎﻳﺮﻔﺘﻟﺍ ﻦﻣ ﻞﻴﻠﻘﺑ ﺎﻬﺟﻼﻋ ﻦﻜﻤﻳ ﺽﺍﺮﻣﻷﺍ ﻢﻈﻌﻣ ﻥﺄﺑ ﺓﺪﺸﺑ ﻦﻣﺆﺗ ﻲﻫﻭ. ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻦﻣ ﺐﻛﻮﻛ ﻰﻠﻋ ﺔﺒﻴﺒﻄﻛ [PAWN_nameDef] ﺖﻠﻤﻋ\n\n. ﺱﺃﺮﻟﺍ ﻰﻠﻋ ﺔﻳﻮﻗ ﺔﺑﺮﺿ ﻦﻤﻀﺘﺗ ﺔﺼﺼﺨﺘﻣ ﺔﻴﻨﻘﺗ ﺕﺭﻮﻃ ﺚﻴﺣ ،ﺓﺮﻫﺎﻣ ﺮﻳﺪﺨﺗ ﺔﺒﻴﺒﻃ ﺖﻧﺎﻛ ﺎﻤﻛ : . ﻱﻮﻣﺪﻟﺍ ﻎﻳﺮﻔﺘﻟﺍ ﻦﻣ ﻞﻴﻠﻘﺑ ﺎﻬﺟﻼﻋ ﻦﻜﻤﻳ ﺽﺍﺮﻣﻷﺍ ﻢﻈﻌﻣ ﻥﺄﺑ ﺓﺪﺸﺑ ﻦﻣﺆﻳ ﻮﻫﻭ. ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻲﻓ ﺐﻛﻮﻛ ﻰﻠﻋ ﺍًﺒﻴﺒﻃ [PAWN_nameDef] ﻞﻤﻋ\n\n. ﺱﺃﺮﻟﺍ ﻰﻠﻋ ﺔﻳﻮﻗ ﺔﺑﺮﺿ ﻦﻤﻀﺘﺗ ﺔﺼﺼﺨﺘﻣ ﺔﻴﻨﻘﺗ ﺭﻮﻃ ﺚﻴﺣ ،ﺍًﺮﻫﺎﻣ ﺮﻳﺪﺨﺗ ﺐﻴﺒﻃ ﻥﺎﻛ ﺎﻤﻛ}</MedievalDoctor40.description>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>ﻲﻄﺳﻭﺮﻗ ﺐﻴﺒﻃ</MedievalDoctor40.title>
+  <MedievalDoctor40.titleFemale>ﺔﻴﻄﺳﻭﺮﻗ ﺔﺒﻴﺒﻃ</MedievalDoctor40.titleFemale>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>ﻝﺍّﺟﺩ</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>ﺔﻟﺍّﺟﺩ</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>. ﺩﺎﺼﺤﻟﺎﺑ ﺆﺒﻨﺘﻟﺍ, ﺭﻭﺬﺒﻟﺍ ﺔﻋﺍﺭﺯ, ﻕﺩﺎﻨﺨﻟﺍ ﺮﻔﺣ. ﺪﻴﻟﺍ ﺕﺎﺑﺮﻋ ﻊﻓﺩ, ﻥﺍﺮﻴﺜﻟﺍ ﺕﺎﺑﺮﻋ ﻪﻴﺟﻮﺗ, ﺓﺭﺎﻀﻟﺍ ﺏﺎﺸﻋﻷﺍ ﺔﻟﺍﺯﺇ, ﺙﺮﺣ, ﺡﻼﻓ\n\n. ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﻲﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻲﻓ ﺔﻛﺭﺎﺸﻤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﺀﺮﻤﻟﺍ ﻞﻌﺠﺗ ﺪﻗ ﺓﺎﻴﺤﻟﺍ ﻩﺬﻫ ﻞﺜﻣ ﻥﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺎﻴﺟﻮﻟﻮﻨﻜﺗ ﻥﻭﺪﺑ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﻦﻋ ﺮﻴﺜﻜﻟﺍ ﻥﻮﻓﺮﻌﻳ ﻢﻬﻨﻜﻟ ،ﺩﺎﺘﻌﻤﻟﺍ ﻰﻨﻌﻤﻟﺎﺑ ﻦﻴﻤﻠﻌﺘﻣ ﺍﻮﺴﻴﻟ ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻲﻓ ﻥﻮﺣﻼﻔﻟﺍ</MedievalFarmOaf58.description>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>ﻲﻄﺳﻭﺮﻗ ﺡﻼﻓ</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>ﺔﻴﻄﺳﻭﺮﻗ ﺔﺣﻼﻓ</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>ﻥﺎﻫﺫﻷﺍ ﺪﻴﻠﺑ</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>ﺓﺪﻴﻠﺑ</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>{PAWN_gender ? . ﻒﻴﺴﻟﺎﺑ ﺓﺯﺭﺎﺒﻤﻟﺍ ﺾﻌﺑ ﺖﻤﻠﻌﺗﻭ ﻞﺑ ،ﻦﻴﺳﻭﺅﺮﻤﻟﺍ ﺕﺭﺍﺩﺃﻭ ﺕﻼﻔﺤﻟﺍ ﺕﺮﻀﺣ__. ﻲﻋﺎﻨﺻ ﺮﺼﻋ __ﻞﺒﻗ ﺎﻣ ﺐﻛﻮﻛ ﻰﻠﻋ ًﺔﻠﻴﺒﻧ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﺍَﻬﻧﻭﺩ ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ ﺮﺒﺘﻌﺗ ،ﻥﻵﺍ. ﺎﻬﻠﻤﻛﺄﺑ ﺓﺮﺘﻔﻟﺍ ﻚﻠﺗ ﻝﻼﺧ ﺓﺍﺩﺃ ﻱﺄﺑ ﻥﺎﺘﻤﻋﺎﻨﻟﺍ ﺎﻫﺍﺪﻳ ﻚﺴﻤﺗ ﻢﻟ : . ﻒﻴﺴﻟﺎﺑ ﺓﺯﺭﺎﺒﻤﻟﺍ ﺾﻌﺑ ﻢﻠﻌﺗﻭ ﻞﺑ ،ﻦﻴﺳﻭﺅﺮﻤﻟﺍ ﺮﻳﺪﻳﻭ ،ﺕﻼﻔﺤﻟﺍ ﺮﻀﺤﻳ ﻥﺎﻛ__. ﻲﻋﺎﻨﺻ ﺮﺼﻋ __ﻞﺒﻗ ﺎﻣ ﺐﻛﻮﻛ ﻰﻠﻋ ﺍًﺩﺭﻮﻟ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻪﻧﻭﺩ ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ ﺮﺒﺘﻌﻳ ،ﻥﻵﺍﻭ. ﺓﺮﺘﻔﻟﺍ ﻚﻠﺗ ﻝﺍﻮﻃ ﺓﺪﺣﺍﻭ ﺓﺍﺩﺃ ﻥﺎﺘﻤﻋﺎﻨﻟﺍ ﻩﺍﺪﻳ ﻚﺴﻤﺗ ﻢﻟ}</MedievalLord57.description>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>{PAWN_gender ? ﺔﻴﻄﺳﻭﺮﻗ ﺓﺪﻴﺳ : ﻲﻄﺳﻭﺮﻗ ﺩﺭﻮﻟ}</MedievalLord57.title>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>{PAWN_gender ? ﺔﻠﻴﺒﻧ : ﻞﻴﺒﻧ}</MedievalLord57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>{PAWN_gender ? . ﻱِﻧﺍَﻏَﻷﺍ ﻱِّﻧَﻏُﺗ ْﻭَﺃ ِﺕﺍَﻳﺍَﻛِﺣْﻟﺍ ﻱِﻛْﺣُﺗ ُﺩَﺟﻭُﺗ ﺖﻧﺎﻛ ﺎﻣ ﺍًﻤﺋﺍﺩﻭ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ َﻪﻳِﻓْﺭَّﺘﻟﺍ ُﻡِّﺩَﻗُﺗ ًﺓَﻟِّﻭَﺟَﺗُﻣ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ِّﻕﺍَّﺸﻟﺍ ِﻝَﻣَﻋْﻟﺍ ُﺕْﻗَﻭ ُﻦﻳِﺣَﻳ ﺎﻣﺪﻨﻋ ُﻝِﻗَﺗْﻧَﺗ ﺍًﻤﺋﺍﺩ ﺖﻧﺎﻛ ،ﻚﻟﺫ ﻊﻣﻭ. ﺍَﻫِﺳْﻓَﻧ ِﺔﻳﺎﻤﺣ ﻰﻠﻋ ٌﺓﺭﺩﺎﻗ ﻲﻫ ﻚﻟﺬﻟ ،ًﺓَﺭِﻃَﺧ ُﻕﺭُّﻄﻟﺍ ﺖﻧﺎﻛ : . ﻲﻧﺎﻏﻷﺍ ﻱّﻨﻏُﻳ ﻭﺃ ﺺﺼﻘﻟﺍ ﻲﻜﺤﻳ ﻮﻫﻭ ﻯﺭُﻳ ﻥﺎﻛ ﺎﻣ ﺍًﻤﺋﺍﺩﻭ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺱﺎﻨﻟﺍ ﻱّﻠﺳُﻳ ًﻻّﻮﺠﺗُﻣ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻪﺑ ﻡﺎﻴﻘﻟﺍ ﺐﺠﻳ ﻕﺎﺷ ﻞﻤﻋ ﻙﺎﻨﻫ ﻥﺎﻛ ﺎﻣﺪﻨﻋ ﺍًﻤﺋﺍﺩ ﻞﻘﺘﻨﻳ ﻥﺎﻛ ،ﻚﻟﺫ ﻊﻣﻭ. ﻪﺴﻔﻧ ﺔﻳﺎﻤﺣ ﻰﻠﻋ ﺭﺩﺎﻗ ﻮﻬﻓ ﻚﻟﺬﻟ ،ﺓﺮﻴﻄﺧ ﻕﺮﻄﻟﺍ ﺖﻧﺎﻛ}</MedievalMinstrel95.description>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>ﻝﻮﺠﺘﻣ ﻲﻄﺳﻭﺮﻗ ﺪﺸﻨﻣ</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleFemale>ﺔﻟﻮﺠﺘﻣ ﺔﻴﻄﺳﻭﺮﻗ ﺓﺪﺸﻨﻣ</MedievalMinstrel95.titleFemale>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>ﻝﻮﺠﺘﻣ ﺪﺸﻨﻣ</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShortFemale>ﺔﻟﻮﺠﺘﻣ ﺓﺪﺸﻨﻣ</MedievalMinstrel95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>{PAWN_gender ? . ﺎﻬﺘﻌﻤﺟ ﻲﺘﻟﺍ ﺯﻮﻨﻜﻟﺍ ﻊﻴﺑ ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﻯﻮﺳ ﺀﻴﺷ ﻱﺄﺑ ﻡﺎﻴﻘﻟﺍ ﺖﻀﻓﺭ ﺎﻬﻧﺃ ﺔﺟﺭﺪﻟ ﺍًﺮﻴﺜﻛ ﺮﺤﺒﻟﺍ ﺖﺒﺣﺃ ﺪﻘﻟ. ﺍًﻧﺎﻴﺣﺃ ﺔﻨﺻﺍﺮﻘﻟﺍ ﻉﺩﺮﺗ ﺖﻧﺎﻛﻭ ،ﺔﺒﻳﺮﻏ ﻦﻛﺎﻣﺃ ﻦﻣ ﺔﻴﻧﺍﻮﻴﺣﻭ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻨﻴﻋ ﻦﻋ ًﺔﺜﺣﺎﺑ ،ﺔﻴﺒﺸﺧ ﺔﻨﻴﻔﺳ ﻦﺘﻣ ﻰﻠﻋ ﺕﺎﻄﻴﺤﻤﻟﺍ [PAWN_nameDef] ﺖﻔﺸﻜﺘﺳﺍ : . ﺎﻬﻌﻤﺟ ﻲﺘﻟﺍ ﺯﻮﻨﻜﻟﺍ ﻊﻴﺑ ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﻯﻮﺳ ﺀﻴﺷ ﻱﺄﺑ ﻡﺎﻴﻘﻟﺍ ﺾﻓﺭ ﻪﻧﺃ ﺔﺟﺭﺪﻟ ﺍًﺮﻴﺜﻛ ﺮﺤﺒﻟﺍ ﺐﺣﺃ ﺪﻘﻟ. ﻥﺎﻴﺣﻷﺍ ﺾﻌﺑ ﻲﻓ ﺔﻨﺻﺍﺮﻘﻟﺍ ﻉﺩﺮﻳ ﻥﺎﻛﻭ ،ﺔﺒﻳﺮﻏ ﻦﻛﺎﻣﺃ ﻦﻣ ﺔﻴﻧﺍﻮﻴﺣﻭ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻨﻴﻋ ﻦﻋ ﺍًﺜﺣﺎﺑ ،ﺔﻴﺒﺸﺧ ﺔﻨﻴﻔﺳ ﻦﺘﻣ ﻰﻠﻋ ﺕﺎﻄﻴﺤﻤﻟﺍ [PAWN_nameDef] ﻒﺸﻜﺘﺳﺍ}</MedievalSailor97.description>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>ﻲﻄﺳﻭﺮﻗ ﺭﺍّﺤﺑ</MedievalSailor97.title>
+  <MedievalSailor97.titleFemale>ﺔﻴﻄﺳﻭﺮﻗ ﺓﺭﺍّﺤﺑ</MedievalSailor97.titleFemale>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>ﺭﺍّﺤﺑ</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShortFemale>ﺓﺭﺍّﺤﺑ</MedievalSailor97.titleShortFemale>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.description>{PAWN_gender ? . ﺺﺨﺸﻟﺍ ﻚﻟﺫ ﻲﻫ [PAWN_nameDef] ﺖﻧﺎﻛ. ﺔﻠﺣﺮﻟﺍ ﻦﻣ ﻪﺗﺎﺠﻧ ﻲﻓ ﻞﻣﻷﺍﻭ ﻥﺎﺼﺣ ﻰﻠﻋ ﺺﺨﺸﻟ ﺎﻬﻤﻴﻠﺴﺗ ﻲﻫ ﺔﻟﺎﺳﺭ ﻝﺎﺳﺭﻹ ﺔﻘﻳﺮﻃ ﻉﺮﺳﺃ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ : . ﺺﺨﺸﻟﺍ ﺍﺬﻫ [PAWN_nameDef] ﻥﺎﻛ. ﺔﻠﺣﺮﻟﺍ ﻦﻣ ﻪﺗﺎﺠﻧ ﻲﻓ ﻞﻣﻷﺍﻭ ﻥﺎﺼﺣ ﻰﻠﻋ ﺺﺨﺸﻟ ﺎﻬﻤﻴﻠﺴﺗ ﻲﻫ ﺔﻟﺎﺳﺭ ﻝﺎﺳﺭﻹ ﺔﻘﻳﺮﻃ ﻉﺮﺳﺃ ،ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ}</MessageCarrier77.description>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>ﻞﺋﺎﺳﺭ ﻞﻣﺎﺣ</MessageCarrier77.title>
+  <MessageCarrier77.titleFemale>ﻞﺋﺎﺳﺭ ﺔﻠﻣﺎﺣ</MessageCarrier77.titleFemale>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>ﻝﻮﺳﺭ</MessageCarrier77.titleShort>
+  <MessageCarrier77.titleShortFemale>ﺔﻟﻮﺳﺭ</MessageCarrier77.titleShortFemale>
+  
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>{PAWN_gender ? . ﻲﻘﻴﻘﺣ ﻞﻤﻋ ﻱﺄﺑ ﺩﺎﻜﻟﺎﺑ ﻢﻘﺗ ﻢﻟﻭ ﺔﻧﺍﺪﺑ ﺕﺩﺍﺩﺯﺍﻭ ،ﻁﻼﺒﻟﺍ ﻲﻓ ﺔﻓﺮﺘﻣ ﺓﺎﻴﺣ ﺖﺷﺎﻋ. ﺔﻴﻜﻠﻤﻟﺍ ﺓﺪﺋﺎﻤﻟﺍ ﻰﻠﻋ ﻡَّﺪﻗُﻳ ﻖﺒﻃ ﻞﻛ ﻕﻭﺬﺘﺗ [PAWN_nameDef] ﺖﻧﺎﻛ ،ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻲﻓ ﻚﻠﻤﻟ ﻡﺎﻌﻄﻟﺍ ﺔﻗّﻭﺬﺘﻣ ﺎﻬﺘﻔﺼﺑ : . ﻲﻘﻴﻘﺣ ﻞﻤﻋ ﻱﺄﺑ ﺩﺎﻜﻟﺎﺑ ﻢﻘﻳ ﻢﻟﻭ ﺔﻧﺍﺪﺑ ﺩﺍﺩﺯﺍﻭ ،ﻁﻼﺒﻟﺍ ﻲﻓ ﺔﻓﺮﺘﻣ ﺓﺎﻴﺣ ﺵﺎﻋ. ﺔﻴﻜﻠﻤﻟﺍ ﺓﺪﺋﺎﻤﻟﺍ ﻰﻠﻋ ﻡَّﺪﻗُﻳ ﻖﺒﻃ ﻞﻛ ﻕﻭﺬﺘﻳ [PAWN_nameDef] ﻥﺎﻛ ،ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻲﻓ ﻚﻠﻤﻟ ﻡﺎﻌﻄﻟﺍ ﻕّﻭﺬﺘﻣ ﻪﺘﻔﺼﺑ}</Taster16.description>
+  <!-- EN: taster -->
+  <Taster16.title>ﻡﺎﻌﻃ ﻕّﻭﺬﺘﻣ</Taster16.title>
+  <Taster16.titleFemale>ﻡﺎﻌﻃ ﺔﻗّﻭﺬﺘﻣ</Taster16.titleFemale>
+  <!-- EN: taster -->
+  <Taster16.titleShort>ﻕّﻭﺬﺘﻣ</Taster16.titleShort>
+  <Taster16.titleShortFemale>ﺔﻗّﻭﺬﺘﻣ</Taster16.titleShortFemale>
+  
+</LanguageData>

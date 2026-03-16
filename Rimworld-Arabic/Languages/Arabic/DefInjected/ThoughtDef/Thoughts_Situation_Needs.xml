@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireFascination.stages.chemical_want.label>ﺔﻴﺋﺎﻴﻤﻴﻛ ﺔﺒﻏﺭ</DrugDesireFascination.stages.chemical_want.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
+  <DrugDesireFascination.stages.chemical_want.description>. ﺮﺜﻛﺃ ﺎﻬﺘﺑﺮﺠﺗ ﻲﻓ ﺐﻏﺭﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻥﻮﺘﻔﻣ ﺎﻧﺃ</DrugDesireFascination.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireFascination.stages.chemical_hunger.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﻮﺟ</DrugDesireFascination.stages.chemical_hunger.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
+  <DrugDesireFascination.stages.chemical_hunger.description>. ﺮﺒﻛﺃ ﺓﺪﺸﺑ ﺎﻫﺮﺒﺘﺧﺃ ﻥﺃ ﺪﻳﺭﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻥﻮﺘﻔﻣ ﺎﻧﺃ</DrugDesireFascination.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireFascination.stages.chemical_starvation.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﻮﺟ</DrugDesireFascination.stages.chemical_starvation.label>
+  <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
+  <DrugDesireFascination.stages.chemical_starvation.description>!ﺓﺪﺸﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ! ﺎﻫﺪﻳﺭﺃ. ﺕﺎﻄﺸﻨﻤﻟﺎﺑ ﻥﻮﺘﻔﻣ ﺎﻧﺃ</DrugDesireFascination.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>ﺔﻴﺋﺎﻴﻤﻴﻛ ﺔﺣﺍﺭ</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>. ﻲﺗﺎﺒﻏﺭ ﻉﺎﺒﺷﺇ ﺐﺣﺃﻭ ،ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻥﻮﺘﻔﻣ ﺎﻧﺃ</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﺎﺒﺷﺇ</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>. ﺎﻬﻟ ﻲﻛﻼﻬﺘﺳﺍ ﻦﻋ ﺍًﻣﺎﻤﺗ ٍﺽﺍﺭ ﺎﻧﺃﻭ ،ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻥﻮﺘﻔﻣ ﺎﻧﺃ</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireInterest.stages.chemical_want.label>ﺔﻴﺋﺎﻴﻤﻴﻛ ﺔﺒﻏﺭ</DrugDesireInterest.stages.chemical_want.label>
+  <!-- EN: I'm interested in drugs. I want to try more. -->
+  <DrugDesireInterest.stages.chemical_want.description>. ﺪﻳﺰﻤﻟﺍ ﺏﺮﺟﺃ ﻥﺃ ﺪﻳﺭﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻢﺘﻬﻣ ﺎﻧﺃ</DrugDesireInterest.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireInterest.stages.chemical_hunger.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﻮﺟ</DrugDesireInterest.stages.chemical_hunger.label>
+  <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
+  <DrugDesireInterest.stages.chemical_hunger.description>. ﺪﻳﺰﻤﻟﺍ ﺮﺒﺘﺧﺃ ﻥﺃ ﺪﻳﺭﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻢﺘﻬﻣ ﺎﻧﺃ</DrugDesireInterest.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireInterest.stages.chemical_starvation.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﻮﺟ</DrugDesireInterest.stages.chemical_starvation.label>
+  <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
+  <DrugDesireInterest.stages.chemical_starvation.description>. ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻲﻓ ﺓﺪﺸﺑ ﺐﻏﺭﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻢﺘﻬﻣ ﺎﻧﺃ</DrugDesireInterest.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>ﺔﻴﺋﺎﻴﻤﻴﻛ ﺔﺣﺍﺭ</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>. ﻲﺘﺒﻏﺭ ﻉﺎﺒﺷﺈﺑ ﺖﻌﺘﻤﺘﺳﺍ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻢﺘﻬﻣ ﺎﻧﺃ</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>ﻲﺋﺎﻴﻤﻴﻛ ﻉﺎﺒﺷﺇ</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>. ﺍًﺮﺧﺆﻣ ﺎﻬﻴﻠﻋ ﺖﻠﺼﺣ ﻲﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻞﻛ ﻦﻋ ﺍًﻣﺎﻤﺗ ٍﺽﺍﺭ ﺎﻧﺃ. ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻢﺘﻬﻣ ﺎﻧﺃ</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: hideous environment -->
+  <NeedBeauty.stages.hideous_environment.label>ﺔﺘﻴﻘﻣ ﺔﺌﻴﺑ</NeedBeauty.stages.hideous_environment.label>
+  <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
+  <NeedBeauty.stages.hideous_environment.description>. ﻥﻵﺍ ﺪﻌﺑ ﺍﺬﻫ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ. ﻕﺎﻄﻳ ﻻ ﻞﻜﺸﺑ ﻑﺮﻘﻣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ</NeedBeauty.stages.hideous_environment.description>
+  <!-- EN: ugly environment -->
+  <NeedBeauty.stages.ugly_environment.label>ﺔﺤﻴﺒﻗ ﺔﺌﻴﺑ</NeedBeauty.stages.ugly_environment.label>
+  <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
+  <NeedBeauty.stages.ugly_environment.description>. ﻥﻵﺍ ﺪﻌﺑ ﺍﺬﻫ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻰﻟﺇ ﺮﻄﺿﺃ ﻢﻟ ﻮﻟ ﻰﻨﻤﺗﺃ. ﺍًﻘﺣ ﺢﻴﺒﻗ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ</NeedBeauty.stages.ugly_environment.description>
+  <!-- EN: unsightly environment -->
+  <NeedBeauty.stages.unsightly_environment.label>ﺔﺤﻴﺒﻗ ﺔﺌﻴﺑ</NeedBeauty.stages.unsightly_environment.label>
+  <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
+  <NeedBeauty.stages.unsightly_environment.description>. ﺍﺬﻫ ﻞﻛ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻰﻟﺇ ﺮﻄﺿﺃ ﻢﻟ ﻮﻟ ﻰﻨﻤﺗﺃ. ﺎﻣ ﺍًﻋﻮﻧ ﺢﻴﺒﻗ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ</NeedBeauty.stages.unsightly_environment.description>
+  <!-- EN: pretty environment -->
+  <NeedBeauty.stages.pretty_environment.label>ﺔﻠﻴﻤﺟ ﺔﺌﻴﺑ</NeedBeauty.stages.pretty_environment.label>
+  <!-- EN: This place looks nice. -->
+  <NeedBeauty.stages.pretty_environment.description>. ﺍًﻔﻴﻄﻟ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻭﺪﺒﻳ</NeedBeauty.stages.pretty_environment.description>
+  <!-- EN: beautiful environment -->
+  <NeedBeauty.stages.beautiful_environment.label>ﺔﻠﻴﻤﺟ ﺔﺌﻴﺑ</NeedBeauty.stages.beautiful_environment.label>
+  <!-- EN: I really like this place. It's beautiful. -->
+  <NeedBeauty.stages.beautiful_environment.description>. ﻞﻴﻤﺟ ﻪﻧﺇ. ﺍًﻘﺣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﺐﺣﺃ ﺎﻧﺃ</NeedBeauty.stages.beautiful_environment.description>
+  <!-- EN: gorgeous environment -->
+  <NeedBeauty.stages.gorgeous_environment.label>ﺔﺑﻼﺧ ﺔﺌﻴﺑ</NeedBeauty.stages.gorgeous_environment.label>
+  <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
+  <NeedBeauty.stages.gorgeous_environment.description>. ﺓﺎﻴﺤﻟﺍ ﺐﺣﺃ ﻲﻨﻠﻌﺠﻳﻭ ﻲﺗﺎﻳﻮﻨﻌﻣ ﻊﻓﺮﻳ. ﻞﻴﻤﺟ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ</NeedBeauty.stages.gorgeous_environment.description>
+  
+  <!-- EN: uncomfortable -->
+  <NeedComfort.stages.uncomfortable.label>ﺢﻳﺮﻣ ﺮﻴﻏ</NeedComfort.stages.uncomfortable.label>
+  <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
+  <NeedComfort.stages.uncomfortable.description>. ﺎﻨﻫ ﻪﻴﻠﻋ ﺱﻮﻠﺠﻠﻟ ﻢﻋﺎﻧ ﺀﻴﺷ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻧ. ﺍًﺮﺧﺆﻣ ﺝﺎﻋﺰﻧﻻﺍ ﺾﻌﺒﺑ ﺕﺮﻌﺷ ﺪﻘﻟ</NeedComfort.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <NeedComfort.stages.comfortable.label>ﺔﺣﺍﺭ</NeedComfort.stages.comfortable.label>
+  <!-- EN: I've been comfortable recently. -->
+  <NeedComfort.stages.comfortable.description>. ﺍًﺮﺧﺆﻣ ﺍًﺣﺎﺗﺮﻣ ﺖﻨﻛ ﺪﻘﻟ</NeedComfort.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <NeedComfort.stages.quite_comfortable.label>ًﺍﺪﺟ ﺡﺎﺗﺮﻣ</NeedComfort.stages.quite_comfortable.label>
+  <!-- EN: I've been very comfortable recently. -->
+  <NeedComfort.stages.quite_comfortable.description>. ﺍًﺮﺧﺆﻣ ﺍًﺪﺟ ﺍًﺣﺎﺗﺮﻣ ﺖﻨﻛ ﺪﻘﻟ</NeedComfort.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <NeedComfort.stages.extremely_comfortable.label>ﺔﻳﺎﻐﻠﻟ ﺢﻳﺮﻣ</NeedComfort.stages.extremely_comfortable.label>
+  <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
+  <NeedComfort.stages.extremely_comfortable.description>!ﺍًﺪﺟ ﺢﻳﺮﻣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ. ﺍًﺮﺧﺆﻣ ﺔﻳﺎﻐﻠﻟ ﺍًﺣﺎﺗﺮﻣ ﺖﻨﻛ ﺪﻘﻟ</NeedComfort.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <NeedComfort.stages.luxuriantly_comfortable.label>ﺓﺮﺧﺎﻓ ﺔﺣﺍﺭ</NeedComfort.stages.luxuriantly_comfortable.label>
+  <!-- EN: I am resting on clouds of heaven. -->
+  <NeedComfort.stages.luxuriantly_comfortable.description>. ﺔﻨﺠﻟﺍ ﻦﻣ ﺐﺤﺳ ﻰﻠﻋ ﺔﻴﻘﻠﺘﺴﻣ/ٍﻖﻠﺘﺴﻣ ﺎﻧﺃ</NeedComfort.stages.luxuriantly_comfortable.description>
+  
+  <!-- EN: hungry -->
+  <NeedFood.stages.hungry.label>ﻉﻮﺟ</NeedFood.stages.hungry.label>
+  <!-- EN: I'm really hungry. -->
+  <NeedFood.stages.hungry.description>. ﺪﻳﺪﺷ ﻉﻮﺠﺑ ﺮﻌﺷﺃ</NeedFood.stages.hungry.description>
+  <!-- EN: ravenously hungry -->
+  <NeedFood.stages.ravenously_hungry.label>ﺪﻳﺪﺷ ﻉﻮﺟ</NeedFood.stages.ravenously_hungry.label>
+  <!-- EN: These hunger pangs are hard to ignore. -->
+  <NeedFood.stages.ravenously_hungry.description>. ﻞﻫﺎﺠﺘﻟﺍ ﺔﺒﻌﺻ ﺔﻴﻋﻮﺠﻟﺍ ﺕﺎﺼﻠﻘﺘﻟﺍ ﻩﺬﻫ</NeedFood.stages.ravenously_hungry.description>
+  <!-- EN: malnourished -->
+  <NeedFood.stages.malnourished.label>ﺔﻳﺬﻐﺗ ﺀﻮﺳ</NeedFood.stages.malnourished.label>
+  <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
+  <NeedFood.stages.malnourished.description>. ﻲﺷﻼﺘﻟﺍ ﻲﻓ ﻱﺪﺴﺟ ﺃﺪﺒﻳ. ﺰﻴﻛﺮﺘﻟﺍ ﺐﻌﺼﻳﻭ ﺔﻴﺑﺎﺒﻀﻟﺎﺑ ﺮﻌﺷﺃ. ﻡﺎﻌﻄﻠﻟ ﻲﻟﻭﺎﻨﺗ ﺬﻨﻣ ﻞﻳﻮﻃ ﺖﻗﻭ ﻰﻀﻣ</NeedFood.stages.malnourished.description>
+  <!-- EN: badly malnourished -->
+  <NeedFood.stages.badly_malnourished.label>ﺩﺎﺣ ﺔﻳﺬﻐﺗ ﺀﻮﺳ</NeedFood.stages.badly_malnourished.label>
+  <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
+  <NeedFood.stages.badly_malnourished.description>. ﻞﺒﻗ ﻦﻣ ﺙﺪﺤﻳ ﻢﻟ ﺎﻤﻛ ﻲﻨﻤﻟﺆﺗ ﻲﺗﺪﻌﻣ. ﻱﻭﺬﻳ ﻱﺪﺴﺠﺑ ﺮﻌﺷﺃ</NeedFood.stages.badly_malnourished.description>
+  <!-- EN: starving -->
+  <NeedFood.stages.starving.label>ﺩﺎﺣ ﻉﻮﺟ</NeedFood.stages.starving.label>
+  <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
+  <NeedFood.stages.starving.description>؟ﺕﻮﻣﺄﺳ ﻞﻫ. ﻲﻣﺎﻈﻋ ﻕﻮﻓ ﺩﺪﻤﺘﻳ ﻱﺪﻠﺟ. ﻡﺎﻌﻄﻟﺎﺑ ﻻﺇ ﺮﻴﻜﻔﺘﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ</NeedFood.stages.starving.description>
+  <!-- EN: advanced starvation -->
+  <NeedFood.stages.advanced_starvation.label>ﺩﺎﺣ ﻉﻮﺟ</NeedFood.stages.advanced_starvation.label>
+  <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
+  <NeedFood.stages.advanced_starvation.description>. ﻲﻴﻋﻭ ﺪﻘﻓﺄﺳ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ. ﻞﺒﻗ ﻦﻣ ﺙﺪﺤﻳ ﻢﻟ ﺎﻤﻛ ﻲﻨﻤﻟﺆﺗ ﻲﺗﺪﻌﻣ. ﻡﺎﻌﻄﻟﺍ ﻯﻮﺳ ﺀﻴﺷ ﻱﺃ ﻲﻓ ﺮﻴﻜﻔﺘﻟﺍ ﻭﺃ ﺩﺎﻜﻟﺎﺑ ﺔﻛﺮﺤﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ</NeedFood.stages.advanced_starvation.description>
+  <!-- EN: extreme starvation -->
+  <NeedFood.stages.extreme_starvation.label>ﺩﺎﺣ ﻉﻮﺟ</NeedFood.stages.extreme_starvation.label>
+  <!-- EN: Food... food... anything... please... -->
+  <NeedFood.stages.extreme_starvation.description>... ﻚﻠﻀﻓ ﻦﻣ... ﺀﻴﺷ ﻱﺃ... ﻡﺎﻌﻃ... ﻡﺎﻌﻃ</NeedFood.stages.extreme_starvation.description>
+  
+  <!-- EN: just outdoors -->
+  <NeedIndoors.stages.just_outdoors.label>ﺝﺭﺎﺨﻟﺍ ﻲﻓ</NeedIndoors.stages.just_outdoors.label>
+  <!-- EN: I shouldn't be outdoors. -->
+  <NeedIndoors.stages.just_outdoors.description>. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻥﻮﻛﺃ ﻥﺃ ﺐﺠﻳ ﻻ</NeedIndoors.stages.just_outdoors.description>
+  <!-- EN: outdoors -->
+  <NeedIndoors.stages.outdoors.label>ﺝﺭﺎﺨﻟﺍ ﻲﻓ</NeedIndoors.stages.outdoors.label>
+  <!-- EN: I've been outside too much recently. -->
+  <NeedIndoors.stages.outdoors.description>. ﺍًﺮﺧﺆﻣ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ُﺖﻴﻀﻗ ﺪﻘﻟ</NeedIndoors.stages.outdoors.description>
+  <!-- EN: long outdoors -->
+  <NeedIndoors.stages.long_outdoors.label>ﻝّﻮﻄﻣ ﺝﺭﺎﺧ</NeedIndoors.stages.long_outdoors.label>
+  <!-- EN: Being outside so much is wrong for me. -->
+  <NeedIndoors.stages.long_outdoors.description>. ﻲﻟ ﺐﺳﺎﻨﻣ ﺮﻴﻏ ّﺮﻤﺘﺴﻤﻟﺍ ﺝﻭﺮﺨﻟﺍ</NeedIndoors.stages.long_outdoors.description>
+  <!-- EN: very long outdoors -->
+  <NeedIndoors.stages.very_long_outdoors.label>ًﺍﺪﺟ ﻝّﻮﻄﻣ ﺝﺭﺎﺧ</NeedIndoors.stages.very_long_outdoors.label>
+  <!-- EN: I've been outside way too much recently. This open space is so disturbing. -->
+  <NeedIndoors.stages.very_long_outdoors.description>. ﺔﻳﺎﻐﻠﻟ ﺔﺠﻋﺰﻣ ﺔﺣﻮﺘﻔﻤﻟﺍ ﺔﺣﺎﺴﻤﻟﺍ ﻩﺬﻫ. ﺍًﺮﺧﺆﻣ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ُﺖﻴﻀﻗ ﺪﻘﻟ</NeedIndoors.stages.very_long_outdoors.description>
+  <!-- EN: brutal outdoors -->
+  <NeedIndoors.stages.brutal_outdoors.label>ﻲﺳﺎﻘﻟﺍ ﺝﺭﺎﺨﻟﺍ</NeedIndoors.stages.brutal_outdoors.label>
+  <!-- EN: These open spaces are driving me insane! -->
+  <NeedIndoors.stages.brutal_outdoors.description>!ﻥﻮﻨﺠﻟﺍ ﻰﻟﺇ ﻲﻨﻌﻓﺪﺗ ﺔﺣﻮﺘﻔﻤﻟﺍ ﺕﺎﺣﺎﺴﻤﻟﺍ ﻩﺬﻫ</NeedIndoors.stages.brutal_outdoors.description>
+  
+  <!-- EN: recreation-starved -->
+  <NeedJoy.stages.recreationstarved.label>ﻪﻴﻓﺮﺘﻠﻟ ﺶﻄﻌﺘﻣ</NeedJoy.stages.recreationstarved.label>
+  <!-- EN: It's been so long since I did anything for fun on my own time. -->
+  <NeedJoy.stages.recreationstarved.description>. ﻲﻏﺍﺮﻓ ﺖﻗﻭ ﻲﻓ ﻱﺩﺮﻔﻤﺑ ﺍًﻌﺘﻤﻣ ﺍًﺌﻴﺷ ﺖﻠﻌﻓ ﻥﺃ ﺬﻨﻣ ﻞﻳﻮﻃ ﺖﻗﻭ ﺮﻣ ﺪﻘﻟ</NeedJoy.stages.recreationstarved.description>
+  <!-- EN: recreation-deprived -->
+  <NeedJoy.stages.recreationdeprived.label>ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﻡﻭﺮﺤﻣ</NeedJoy.stages.recreationdeprived.label>
+  <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
+  <NeedJoy.stages.recreationdeprived.description>. ﺍًﻘﺣ ﻞﻤﻣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ. ﺎﻬﺑ ﻉﺎﺘﻤﺘﺳﻼﻟ ﺖﻗﻭ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻧﺃﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻲﻓ ﻉﻮﻨﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻧ</NeedJoy.stages.recreationdeprived.description>
+  <!-- EN: recreation unfulfilled -->
+  <NeedJoy.stages.recreation_unfulfilled.label>ﻕَّﻘﺣُﻣ ﺮﻴﻏ ﻪﻴﻓﺮﺗ</NeedJoy.stages.recreation_unfulfilled.label>
+  <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
+  <NeedJoy.stages.recreation_unfulfilled.description>. ﺎﻬﺑ ﻉﺎﺘﻤﺘﺳﻼﻟ ﺖﻗﻭ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻧﺃﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻲﻓ ﻉﻮﻨﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻧ</NeedJoy.stages.recreation_unfulfilled.description>
+  <!-- EN: recreation satisfied -->
+  <NeedJoy.stages.recreation_satisfied.label>ٍﺽﺭُﻣ ﻪﻴﻓﺮﺗ</NeedJoy.stages.recreation_satisfied.label>
+  <!-- EN: I've been having a great time doing various things I like to do. -->
+  <NeedJoy.stages.recreation_satisfied.description>. ﺎﻬﺒﺣﺃ ﺔﻔﻠﺘﺨﻣ ﺀﺎﻴﺷﺃ ﻞﻌﻓ ﻲﻓ ﻲﺘﻗﻮﺑ ﻊﺘﻤﺘﺳﺃ ﺖﻨﻛ ﺪﻘﻟ</NeedJoy.stages.recreation_satisfied.description>
+  <!-- EN: recreation fully satisfied -->
+  <NeedJoy.stages.recreation_fully_satisfied.label>ﻞﻤﺘﻜﻣ ﻪﻴﻓﺮﺗ</NeedJoy.stages.recreation_fully_satisfied.label>
+  <!-- EN: I've been enjoying myself so much, I love it! -->
+  <NeedJoy.stages.recreation_fully_satisfied.description>!ﻪﺒﺣﺃ ،ﺍًﺮﻴﺜﻛ ﻲﺘﻗﻮﺑ ﻊﺘﻤﺘﺳﺃ ﺎﻧﺃ</NeedJoy.stages.recreation_fully_satisfied.description>
+  
+  <!-- EN: entombed underground -->
+  <NeedOutdoors.stages.entombed_underground.label>ﺽﺭﻷﺍ ﺖﺤﺗ ﻥﻮﻓﺪﻣ</NeedOutdoors.stages.entombed_underground.label>
+  <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
+  <NeedOutdoors.stages.entombed_underground.description>. ﺡﺎﻳﺮﻟﺎﺑ ﺭﻮﻌﺸﻟﺍﻭ ﺀﺎﻤﺴﻟﺍ ﺔﻳﺅﺭ ﻰﻟﺇ ﺝﺎﺘﺣﺃ. ﻲﻨﻘﺤﺴﻳ ﻞﺒﺠﻟﺍ ﺍﺬﻫ ﻥﺯﻭ ﻥﺄﻛﻭ ﺮﻌﺷﺃ. ﺍًﺪﺟ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺽﺭﻷﺍ ﺖﺤﺗ ﺖﻴﻘﺑ ﺪﻘﻟ</NeedOutdoors.stages.entombed_underground.description>
+  <!-- EN: trapped underground -->
+  <NeedOutdoors.stages.trapped_underground.label>ﺽﺭﻷﺍ ﺖﺤﺗ ﺮﺻﺎﺤﻣ</NeedOutdoors.stages.trapped_underground.label>
+  <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
+  <NeedOutdoors.stages.trapped_underground.description>. ﺀﺎﻤﺴﻟﺍ ﺖﺤﺗ ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﺀﺎﻀﻗﻭ ﻲﻘﻨﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻰﻟﺇ ﺝﻭﺮﺨﻠﻟ ﺝﺎﺘﺣﺃ ؟ﺽﺭﻷﺍ ﺖﺤﺗ ﺖﻴﻀﻣ ﺖﻗﻮﻟﺍ ﻦﻣ ﻢﻛ</NeedOutdoors.stages.trapped_underground.description>
+  <!-- EN: cabin fever -->
+  <NeedOutdoors.stages.cabin_fever.label>ﺱﺎﺒﺤﻧﻻﺍ ﻰﻤﺣ</NeedOutdoors.stages.cabin_fever.label>
+  <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
+  <NeedOutdoors.stages.cabin_fever.description>. ﺀﺎﻤﺴﻟﺍ ﺔﻳﺅﺭﻭ ﺝﻭﺮﺨﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺣﺃ. ّﻲﻠﻋ ﻂﻐﻀﻳ ﻒﻘﺴﻟﺍ ﻥﺄﻛﻭ ﺮﻌﺷﺃ ﻲﻨﻧﺃ ﺔﺟﺭﺪﻟ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ًﻼﻳﻮﻃ ًﺎﺘﻗﻭ ُﺖﻴﻀﻗ</NeedOutdoors.stages.cabin_fever.description>
+  <!-- EN: trapped indoors -->
+  <NeedOutdoors.stages.trapped_indoors.label>ﻞﺧﺍﺪﻟﺎﺑ ﺮﺻﺎﺤﻣ</NeedOutdoors.stages.trapped_indoors.label>
+  <!-- EN: It's been too long since I've seen the sky. -->
+  <NeedOutdoors.stages.trapped_indoors.description>. ﺀﺎﻤﺴﻟﺍ ﺖﻳﺃﺭ ﻥﺃ ﺬﻨﻣ ﻞﻳﻮﻃ ﺖﻗﻭ ﺮﻣ ﺪﻘﻟ</NeedOutdoors.stages.trapped_indoors.description>
+  <!-- EN: stuck indoors -->
+  <NeedOutdoors.stages.stuck_indoors.label>ﻞﺧﺍﺪﻟﺎﺑ ﺭﻮﺼﺤﻣ</NeedOutdoors.stages.stuck_indoors.label>
+  <!-- EN: I'd like to go outside and get some fresh air. -->
+  <NeedOutdoors.stages.stuck_indoors.description>. ﻲﻘﻨﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍﻭ ﺝﻭﺮﺨﻟﺍ ﺩﻭﺃ</NeedOutdoors.stages.stuck_indoors.description>
+  
+  <!-- EN: drowsy -->
+  <NeedRest.stages.drowsy.label>ﻥﺎﺴﻌﻧ</NeedRest.stages.drowsy.label>
+  <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
+  <NeedRest.stages.drowsy.description>. ﺰﻴﻛﺮﺘﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺓﺮﺘﻓ ﺬﻨﻣ ﻢﻧﺃ ﻢﻟ</NeedRest.stages.drowsy.description>
+  <!-- EN: tired -->
+  <NeedRest.stages.tired.label>ﺐﻌﺘﻣ</NeedRest.stages.tired.label>
+  <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
+  <NeedRest.stages.tired.description>…ﻖﺋﺎﻗﺩ ﻊﻀﺒﻟ ﺡﺎﺗﺭﺃﻭ ﻲﻘﻠﺘﺳﺃ ﻥﺃ ﻂﻘﻓ ﺪﻳﺭﺃ. ًﺍﺪﺟ ﺐﻌﺘﻣ ﺎﻧﺃ</NeedRest.stages.tired.description>
+  <!-- EN: exhausted -->
+  <NeedRest.stages.exhausted.label>ﻚﻬﻨﻣ</NeedRest.stages.exhausted.label>
+  <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
+  <NeedRest.stages.exhausted.description>…ﻡﺎﻧﺃ ﻲﻨﻋﺩ. ﺹﺎﺻﺮﻟﺍ ﻥﺍﺯﻭﺄﺑ ﺔﻠﻘﺜﻣ ﻲﻧﻮﻔﺟ. ﻑﻮﻗﻮﻟﺍ ﻊﻴﻄﺘﺳﺃ ﺩﺎﻜﻟﺎﺑ ﻲﻨﻧﺃ ﺔﺟﺭﺪﻟ ﺔﻳﺎﻐﻠﻟ ﻚﻬﻨﻣ ﺎﻧﺃ</NeedRest.stages.exhausted.description>
+  
+  <!-- EN: confined interior -->
+  <NeedRoomSize.stages.confined_interior.label>ﺭﻮﺼﺤﻣ ﻞﺧﺍﺩ</NeedRoomSize.stages.confined_interior.label>
+  <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
+  <NeedRoomSize.stages.confined_interior.description>. ﺺﻔﻗ ﻲﻓ ﺭﺄﻓ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ. ﺔﻳﺎﻐﻠﻟ ﺔﻘﻴﺿ ﺔﺣﺎﺴﻤﻟﺍ ﻩﺬﻫ</NeedRoomSize.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <NeedRoomSize.stages.cramped_interior.label>ﻖﻴﺿ ﻞﺧﺍﺩ</NeedRoomSize.stages.cramped_interior.label>
+  <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
+  <NeedRoomSize.stages.cramped_interior.description>. ﺲﻔﻨﺘﻟﺍﻭ ﻞﻘﻨﺘﻠﻟ ﺮﺒﻛﺃ ﺔﺣﺎﺴﻣ ﻱﺪﻟ ﻥﺎﻛ ﻮﻟ ﻰﻨﻤﺗﺃ. ﺍًﺪﺟ ﺓﺮﻴﻐﺻ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ</NeedRoomSize.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <NeedRoomSize.stages.spacious_interior.label>ﻊﺳﺍﻭ ﻞﺧﺍﺩ</NeedRoomSize.stages.spacious_interior.label>
+  <!-- EN: This room is so expansive, I feel free. -->
+  <NeedRoomSize.stages.spacious_interior.description>. ﺔﻳﺮﺤﻟﺎﺑ ﺮﻌﺷﺃ ،ﺍًﺪﺟ ﺔﻌﺳﺍﻭ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ</NeedRoomSize.stages.spacious_interior.description>
+  
+</LanguageData>

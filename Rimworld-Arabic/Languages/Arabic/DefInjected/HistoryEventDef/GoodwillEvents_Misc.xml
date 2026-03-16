@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked building -->
+  <AttackedBuilding.label>ﻡَﺟﺎﻫُﻣ ﻰﻨﺒﻣ</AttackedBuilding.label>
+  
+  <!-- EN: debug event -->
+  <DebugGoodwill.label>ﺢﻴﺤﺼﺗ ﺙﺪﺣ</DebugGoodwill.label>
+  
+  <!-- EN: laborers missed shuttle -->
+  <LaborersMissedShuttle.label>ﻙﻮﻜﻤﻟﺍ ﻢﻬﺗﺎﻓ ﻝﺎﻤﻋ</LaborersMissedShuttle.label>
+  
+  <!-- EN: tendency to move toward natural goodwill -->
+  <ReachNaturalGoodwill.label>ﻲﻌﻴﺒﻄﻟﺍ ﻒﻄﻠﻟﺍ ﻮﺤﻧ ﻞﻴﻣ</ReachNaturalGoodwill.label>
+  
+  <!-- EN: ritual done -->
+  <RitualDone.label>ﺯَﺠﻧُﻣ ﺲﻘﻃ</RitualDone.label>
+  
+  <!-- EN: shuttle destroyed -->
+  <ShuttleDestroyed.label>ﺓﺮﻣﺪﻣ ﺔﻴﻛﻮﻜﻣ ﺔﺒﻛﺮﻣ</ShuttleDestroyed.label>
+  
+  <!-- EN: used forbidden thing -->
+  <UsedForbiddenThing.label>ﺭﻮﻈﺤﻣ ﺀﻴﺷ ﻡﺍﺪﺨﺘﺳﺍ</UsedForbiddenThing.label>
+  
+  <!-- EN: used harmful ability -->
+  <UsedHarmfulAbility.label>ﺓﺭﺎﺿ ﺓﺭﺪﻗ ﻡﺍﺪﺨﺘﺳﺍ</UsedHarmfulAbility.label>
+  
+</LanguageData>

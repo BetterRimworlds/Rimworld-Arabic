@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>ﺕﺎﻧﺍﻮﻴﺣ</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻨﺟﺪﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺔﻴﻔﻴﻛ ﺩﺪﺣُﻳ</Animals.description>
+  
+  <!-- EN: architect -->
+  <Architect.label>ﻱﺭﺎﻤﻌﻣ ﺱﺪﻨﻬﻣ</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>. ﻚﻟﺫ ﻰﻟﺇ ﺎﻣﻭ ،ﺮﺻﺎﻨﻌﻟﺍ ﻦﻳﺰﺨﺗﻭ ﺔﻋﺍﺭﺰﻟﺍﻭ ﺀﺎﻨﺒﻟﺍ ﻥﺎﻜﻣ ﺩَّﺪﺣُﻳ</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>ﻦﻴﻴﻌﺗ</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>. ﺀﺍﺪﻋﻷﺍ ﻰﻠﻋ ﺩﺮﻟﺍ ﺔﻴﻔﻴﻛ ﻭﺃ ،ﺎﻫﻮﻟﻭﺎﻨﺘﻳ ﻥﺃ ﺐﺠﻳ ﻲﺘﻟﺍ ﺔﻳﻭﺩﻷﺍ ﻭﺃ ،ﻩﻭﺪﺗﺮﻳ ﻥﺃ ﺐﺠﻳ ﺎﻣ ﻞﺜﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺕﺎﻴﻛﻮﻠﺳ ﻥّﻴﻋ</Assign.description>
+  
+  <!-- EN: factions -->
+  <Factions.label>ﻞﺋﺎﺼﻓ</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>. ﺎﻬﺗﺎﻗﻼﻋﻭ ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻊﺟﺍﺭ</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>ﻞﺠﺳ</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>. ﺔﻴﺨﻳﺭﺎﺘﻟﺍ ﺕﻼﺠﺴﻟﺍ ﻊﺟﺍﺭ</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>ﺺﺤﻓ</Inspect.label>
+  
+  <!-- EN: menu -->
+  <Menu.label>ﺔﻤﺋﺎﻗ</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>. ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ ﻭﺃ ،ﻞﻴﻤﺤﺘﻟﺍ ﻭﺃ ،ﻆﻔﺤﻟﺍ ﻭﺃ ،ﺕﺍﺭﺎﻴﺨﻟﺍ ﺮﻴﻴﻐﺗ</Menu.description>
+  
+  <!-- EN: quests -->
+  <Quests.label>ﻡﺎﻬﻣ</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>. ﺔﻴﺨﻳﺭﺎﺘﻟﺍﻭ ﺔﻄﺸﻨﻟﺍﻭ ﺔﺣﺎﺘﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ ﺪﻫﺎﺷ</Quests.description>
+  
+  <!-- EN: research -->
+  <Research.label>ﺚﺤﺑ</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>. ﺚﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻣ ﻥﺄﺸﺑ ﺕﺍﺭﺍﺮﻘﻟﺍ ﺫﺎﺨﺗﺍﻭ ﺺﺤﻓ</Research.description>
+  
+  <!-- EN: schedule -->
+  <Schedule.label>ﻲﻨﻣﺯ ﻝﻭﺪﺟ</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>. ﺎﻬﻴﻓ ﺪﺟﺍﻮﺘﻟﺎﺑ ﻢﻬﻟ ﺡﻮﻤﺴﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺪﻳﺪﺤﺗﻭ ،ﻡﻮﻴﻟﺍ ﻦﻣ ﺔﻨﻴﻌﻣ ﺕﺎﻗﻭﻷ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻄﺸﻧﺃ ﺔﻟﻭﺪﺟ</Schedule.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>ﺔﻳﺮﺑ ﺕﺎﻧﺍﻮﻴﺣ</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>. ﺾﻳﻭﺮﺘﻟﺍ ﻭﺃ ﺪﻴﺼﻠﻟ ﺎﻬﻨﻴﻴﻌﺗﻭ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺽﺮﻋ</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>ﻞﻤﻋ</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>. ﺐﻴﺗﺮﺗ ﻱﺄﺑﻭ ،ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻧ ﻱﺄﺑ ﻡﻮﻘﻳ ﺮﻤﻌﺘﺴﻣ ﻱﺃ ﺮﺘﺧﺍ</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>ﻢﻟﺎﻋ</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>. ﺎﻫﺭﺩﺃﻭ ،ﻞﻓﺍﻮﻘﻟﺍ ﻝّﻜﺷﻭ ،ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﺺﺤﻓﺍ</World.description>
+  
+</LanguageData>

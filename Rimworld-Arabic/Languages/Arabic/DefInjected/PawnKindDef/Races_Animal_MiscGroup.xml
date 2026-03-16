@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver --><!-- EN: alfacastor -->
+  <Alphabeaver.label>ﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.label><!-- EN: alfacastores -->
+  <Alphabeaver.labelPlural>ﺱِﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.labelPlural><!-- EN: cría de alfacastor -->
+  <Alphabeaver.lifeStages.0.label>ﺭﻮﺘﺳﺎﻛﺎﻔﻟﻷﺍ ﺭﺎﻐﺻ</Alphabeaver.lifeStages.0.label><!-- EN: crías de alfacastor -->
+  <Alphabeaver.lifeStages.0.labelPlural>ﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ ﺭﺎﻐﺻ</Alphabeaver.lifeStages.0.labelPlural><!-- EN: alfacastor joven -->
+  <Alphabeaver.lifeStages.1.label>ﻊﻓﺎﻳ ﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.lifeStages.1.label><!-- EN: alfacastores jóvenes -->
+  <Alphabeaver.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺲﻳﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.lifeStages.1.labelPlural><!-- EN: alfacastor -->
+  <Alphabeaver.lifeStages.2.label>ﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.lifeStages.2.label><!-- EN: alfacastores -->
+  <Alphabeaver.lifeStages.2.labelPlural>ﺲﻳﺭﻮﺘﺳﺎﻛﺎﻔﻟﺃ</Alphabeaver.lifeStages.2.labelPlural>
+  
+  <!-- EN: cobra --><!-- EN: cobra -->
+  <Cobra.label>ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ</Cobra.label><!-- EN: cobras -->
+  <Cobra.labelPlural>ﺕﺍﺮﺑﻭُﻛ</Cobra.labelPlural><!-- EN: cría de cobra -->
+  <Cobra.lifeStages.0.label>ﺍﺮﺑﻮﻜﻟﺍ ﺭﺎﻐﺻ</Cobra.lifeStages.0.label><!-- EN: crías de cobra -->
+  <Cobra.lifeStages.0.labelPlural>ﺍﺮﺑﻮﻜﻟﺍ ﺭﺎﻐﺻ</Cobra.lifeStages.0.labelPlural><!-- EN: cobra joven -->
+  <Cobra.lifeStages.1.label>ﺔﻌﻓﺎﻴﻟﺍ ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ</Cobra.lifeStages.1.label><!-- EN: cobras jóvenes -->
+  <Cobra.lifeStages.1.labelPlural>ﺔﻌﻓﺎﻴﻟﺍ ﺍﺮﺑﻮﻜﻟﺍ ﻲﻋﺎﻓﺃ</Cobra.lifeStages.1.labelPlural><!-- EN: cobra -->
+  <Cobra.lifeStages.2.label>ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ</Cobra.lifeStages.2.label><!-- EN: cobras -->
+  <Cobra.lifeStages.2.labelPlural>ﺕﺍﺮﺑﻮﻛ</Cobra.lifeStages.2.labelPlural>
+  
+  <!-- EN: thrumbo --><!-- EN: trumbo -->
+  <Thrumbo.label>ﻮﺒﻣﻭﺮﺗ</Thrumbo.label><!-- EN: trumbos -->
+  <Thrumbo.labelPlural>ﺱﻮﺒﻣﻭﺮﺗ</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf --><!-- EN: cría de trumbo -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>ﻮﺒﻣﻭﺮﺗ ﺮﻴﻐﺻ</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves --><!-- EN: crías de trumbo -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>ﻮﺒﻣﻭﺮﺗ ﺭﺎﻐﺻ</Thrumbo.lifeStages.thrumbo_calf.labelPlural><!-- EN: trumbo joven -->
+  <Thrumbo.lifeStages.1.label>ﻊﻓﺎﻳ ﻮﺒﻣﻭﺮﺗ</Thrumbo.lifeStages.1.label><!-- EN: trumbos jóvenes -->
+  <Thrumbo.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﻮﺒﻣﻭﺮﺗ</Thrumbo.lifeStages.1.labelPlural><!-- EN: trumbo -->
+  <Thrumbo.lifeStages.2.label>ﻮﺒﻣﻭﺮﺗ</Thrumbo.lifeStages.2.label><!-- EN: trumbos -->
+  <Thrumbo.lifeStages.2.labelPlural>ﺱﻮﺒﻣﻭﺮﺗ</Thrumbo.lifeStages.2.labelPlural>
+  
+  <!-- EN: tortoise --><!-- EN: tortuga -->
+  <Tortoise.label>ﺓﺎﻔﺤﻠﺳ</Tortoise.label><!-- EN: tortugas -->
+  <Tortoise.labelPlural>ﻒﺣﻼﺳ</Tortoise.labelPlural><!-- EN: cría de tortuga -->
+  <Tortoise.lifeStages.0.label>ﻒﺣﻼﺴﻟﺍ ﺭﺎﻐﺻ</Tortoise.lifeStages.0.label><!-- EN: crías de tortuga -->
+  <Tortoise.lifeStages.0.labelPlural>ﻒﺣﻼﺴﻟﺍ ﺭﺎﻐﺻ</Tortoise.lifeStages.0.labelPlural><!-- EN: tortuga joven -->
+  <Tortoise.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺓﺎﻔﺤﻠﺳ</Tortoise.lifeStages.1.label><!-- EN: tortugas jóvenes -->
+  <Tortoise.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻒﺣﻼﺳ</Tortoise.lifeStages.1.labelPlural><!-- EN: tortuga -->
+  <Tortoise.lifeStages.2.label>ﺓﺎﻔﺤﻠﺳ</Tortoise.lifeStages.2.label><!-- EN: tortugas -->
+  <Tortoise.lifeStages.2.labelPlural>ﻒﺣﻼﺳ</Tortoise.lifeStages.2.labelPlural>
+  
+</LanguageData>

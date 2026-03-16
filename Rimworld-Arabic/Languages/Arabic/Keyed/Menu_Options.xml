@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
+  <Audiovisuals>ﺕﺎﻴﺗﻮﺻﻭ ﺕﺎﻴﺋﺮﻣ</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>ﻲﺴﻴﺋﺮﻟﺍ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ</MasterVolume>
+  <!-- EN: Game volume -->
+  <GameVolume>ﺔﺒﻌﻠﻟﺍ ﺕﻮﺻ ﻯﻮﺘﺴﻣ</GameVolume>
+  <!-- EN: Music volume -->
+  <MusicVolume>ﻰﻘﻴﺳﻮﻤﻟﺍ ﺕﻮﺻ ﻯﻮﺘﺴﻣ</MusicVolume>
+  <!-- EN: Ambience volume -->
+  <AmbientVolume>ﻂﻴﺤﻤﻟﺍ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ ﺕﻮﺻ ﻯﻮﺘﺴﻣ</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>. ﺕﺍﻮﺻﻷﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﺮﺛﺆﻳ</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>. ﻥﺍﺭﺪﺠﻟﺍ ﺀﺎﻨﺑﻭ ،ﺭﺎﺠﺷﻷﺍ ﻊﻴﻄﻘﺗ ﻞﺜﻣ ،ﻢﻟﺎﻌﻟﺍ ﻲﻓ ﺕﺍﻮﺻﻷﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﺮﺛﺆﻳ</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>. ﻰﻘﻴﺳﻮﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>. ﺕﺍﺮﺸﺤﻟﺍﻭ ﺡﺎﻳﺮﻟﺍ ﻞﺜﻣ ،ﺔﻄﻴﺤﻤﻟﺍ ﺕﺍﻮﺻﻷﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﺮﺛﺆﻳ</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>. ﻞﺋﺎﺳﺮﻟﺍﻭ ﺭﺍﺭﺯﻷﺍ ﺕﺍﺮﻘﻧ ﻞﺜﻣ ،ﺔﻬﺟﺍﻮﻟﺍ ﺕﺍﻮﺻﺃ ﻊﻴﻤﺟ ﻰﻠﻋ ﺮﺛﺆﻳ</UIVolumeTooltip>
+  <!-- EN: Anti-aliasing -->
+  <Antialiasing>ﻑﺍﻮﺤﻟﺍ ﻢﻴﻌﻨﺗ</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- EN: Remember draw styles -->
+  <RememberDrawStyle>ﻢﺳﺮﻟﺍ ﻁﺎﻤﻧﺃ</RememberDrawStyle>
+  <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
+  <RememberDrawStyle_Tooltip>. ﺓﺪﻳﺪﺟ ﻖﻃﺎﻨﻣ ﻭﺃ ٍﻥﺎﺒﻣ ﻊﺿﻭ ﺪﻨﻋ ﻲﺿﺍﺮﺘﻓﻻﺍ ﻂﻤﻨﻟﺍ ﻰﻟﺇ ﻢﺳﺮﻟﺍ ﻁﺎﻤﻧﺃ ﺩﻮﻌﺗ ﻦﻟ ،ﻞﻴﻌﻔﺘﻟﺍ ﺪﻨﻋ</RememberDrawStyle_Tooltip>
+  <!-- EN: Zoom switches world map layers -->
+  <ZoomSwitchLayer>ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﺕﺎﻘﺒﻃ ﻝِّﺪﺑُﻳ</ZoomSwitchLayer>
+  <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
+  <ZoomSwitchLayer_Tooltip>. ﻯﺮﺧﺃ ﺓﺮﻣ ﺐﻛﻮﻜﻟﺍ ﺭﺎﻬﻇﺇ ﻰﻟﺇ ﻞﺧﺍﺪﻠﻟ ﺮﻴﺒﻜﺘﻟﺍ ﻱﺩﺆﻴﺳ. ﻱﺭﺍﺪﻣ ﺽﺮﻋ ﻰﻟﺇ ﻞﻳﻮﺤﺘﻟﺍ ﻰﻟﺇ ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻠﻋ ﺝﺭﺎﺨﻠﻟ ﺮﻴﺒﻜﺘﻟﺍ ﻱﺩﺆﻴﺳ ،ﻞﻴﻌﻔﺘﻟﺍ ﺪﻨﻋ</ZoomSwitchLayer_Tooltip>
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>ﺔﺷﺎﺸﻟﺍ ﺔﻓﺎﺤﺑ ﺓﺭﺄﻔﻟﺍ ﺮﻳﺮﻤﺗ</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>ﺱﻭﺎﻤﻟﺍ ﻰﻟﺇ ﺮﻴﺒﻜﺗ</ZoomToMouse>
+  <!-- EN: Pause on load -->
+  <PauseOnLoad>ﻞﻴﻤﺤﺘﻟﺍ ﺪﻨﻋ ﻑﺎﻘﻳﺇ</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
+  <PauseOnUrgentLetter>. ﺔﻠﺟﺎﻋ ﺔﻟﺎﺳﺭ ﻰﻠﻋ ﺖﻗﺆﻣ ﻑﺎﻘﻳﺇ</PauseOnUrgentLetter>
+  <!-- EN: Pause on letter -->
+  <AutomaticPauseModeSetting>ﻑﺮﺤﻠﻟ ﺖﻗﺆﻣ ﻑﺎﻘﻳﺇ</AutomaticPauseModeSetting>
+  <!-- EN: Disable game-specific cursor -->
+  <CustomCursor>ﺔﺒﻌﻠﻟﺍ ﺮﺷﺆﻣ ﻞﻴﻄﻌﺗ</CustomCursor>
+  <!-- EN: Hide hats on UI -->
+  <HatsShownOnlyOnMap>ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ ﻰﻠﻋ ﺕﺎﻌﺒﻘﻟﺍ ﺀﺎﻔﺧﺇ</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ ﺱﺎﻴﻘﻣ</UIScale>
+  <!-- EN: Keyboard configuration -->
+  <KeyboardConfig>ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻦﻳﻮﻜﺗ</KeyboardConfig>
+  <!-- EN: Controller configuration -->
+  <ControllerConfig>ﻢﻜﺤﺘﻤﻟﺍ ﻦﻳﻮﻜﺗ</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>ﻞﻳﺪﻌﺗ</ModifyConfig>
+  <!-- EN: Choose language -->
+  <ChooseLanguage>ﺔﻐﻠﻟﺍ ﺮﺘﺧﺍ</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
+  <ResetAdaptiveTutor>ﻲﻤﻴﻠﻌﺘﻟﺍ ﺪﻋﺎﺴﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>. ﺔﻳﺍﺪﺒﻟﺍ ﻦﻣ ﺱﻭﺭﺪﻟﺍ ﻊﻴﻤﺟ ﻚﻤﻴﻠﻌﺗ ﺓﺩﺎﻋﺇ ﻢﺘﺘﺳ. ﻢﻠﻌﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ ﻢﺗ</AdaptiveTutorIsReset>
+  <!-- EN: Keyboard mode -->
+  <SteamDeckKeyboardMode>ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻊﺿﻭ</SteamDeckKeyboardMode>
+  <!-- EN: Run in background -->
+  <RunInBackground>ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻞﻴﻐﺸﺗ</RunInBackground>
+  <!-- EN: Development mode -->
+  <DevelopmentMode>ﺮﻳﻮﻄﺘﻟﺍ ﻊﺿﻭ</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>. ﻞﻄﻌﺘﻟﺍ ﺪﻨﻋ ﺍًﻴﺋﺎﻘﻠﺗ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺒﺿ ﺓﺩﺎﻋﺇ</ResetModsConfigOnCrash>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺽﺮﻣ ﺎﻬﺑ ﺪﺟﻮﻳ ﻻ ﺔﻌﻳﺮﺴﻟﺍ ﺔﻳﺍﺪﺒﻟﺍ</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>. ﻞﻴﻐﺸﺘﻟﺍ ﺪﻴﻗ ﺮﻳﻮﻄﺘﻟﺍ ﺔﺣﻮﻟ ﻊﻣ ﺔﺒﻌﻠﻟﺍ ﺃﺪﺑﺍ</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>ﺕﺍﺮﻳﺬﺤﺘﻟﺍ ﻞﺠﺳ ﺢﺘﻓﺍ</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>ﺀﺎﻐﻟﺇ ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﻞﺠﺴﻟﺍ ﻖﻠﻏﺃ</CloseLogWindowOnEscape>
+  <!-- EN: Verbose logging -->
+  <LogVerbose>ﻝﻮﻄﻣ ﻞﻴﺠﺴﺗ</LogVerbose>
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>ﻆﻔﺤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﺪﻠﺠﻣ</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>ﺕﺎﻧﺎﻴﺒﻟﺍ ﻆﻔﺣ ﻊﻗﻮﻣ</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>ﻞﺠﺴﻟﺍ ﺕﺎﻔﻠﻣ ﺪﻠﺠﻣ</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>ﻞﻴﺠﺴﺘﻟﺍ ﻒﻠﻣ ﻊﻗﻮﻣ</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>ﺢﺘﻓ</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>ﺽﺮﻋ</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
+  <NamesYouWantToSee>ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺔﻠﻀﻔﻤﻟﺍ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺀﺎﻤﺳﺃ</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText>. ﺐﻌﻠﻟﺍ ﻝﻼﺧ ﺮﺜﻛﺃ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﺕﺎﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺮﻬﻈﺘﺳ</NamesYouWantToSeeSubText>
+  <!-- EN: Add name -->
+  <AddName>ﺍًﻤﺳﺍ ﻒﺿﺃ</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>. ﺔﻠﺋﺎﻌﻟﺍ ﻢﺳﺍ ﻭﺃ ﺐﻘﻠﻟﺍ ﻭﺃ ﻝﻭﻷﺍ ﻢﺳﻻﺍ ﺐﺘﻛﺍ</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>. ﺔﻠﻀﻔﻤﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ﻞﻌﻔﻟﺎﺑ ﺩﻮﺟﻮﻣ ﻢﺳﻻﺍ ﺍﺬﻫ</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
+  <ChangeStoryteller>ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ ﺕﺍﺩﺍﺪﻋﺇ</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
+  <AutosaveInterval>ﻲﺋﺎﻘﻠﺘﻟﺍ ﻆﻔﺤﻟﺍ ﺓﺮﺘﻓ</AutosaveInterval>
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>. ﻲﺋﺎﻘﻠﺗ ﻆﻔﺣ ﻞﻛ ﻦﻴﺑ ﺔﺒﻌﻠﻟﺍ ﻞﺧﺍﺩ ﻡﺎﻳﻷﺍ ﺩﺪﻋ</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
+  <TemperatureMode>ﺓﺭﺍﺮﺣ ﺓﺪﺣﻭ</TemperatureMode>
+  <!-- EN: Show realtime clock -->
+  <ShowRealtimeClock>ﻲﻠﻌﻔﻟﺍ ﺖﻗﻮﻟﺍ ﺔﻋﺎﺳ ﺽﺮﻋ</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>ﺔﻋﺎﺳ ١٢ ﺔﻋﺎﺳ ﻡﺍﺪﺨﺘﺳﺍ</TwelveHourClockMode>
+  <!-- EN: Disable tiny font -->
+  <DisableTinyText>ﻞﻄﻌﻣ ﺮﻴﻐﺻ ﻂﺧ</DisableTinyText>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>{0}: ﺕﺍﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺪﻌﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>{0}: ﻲﺋﺎﻘﻠﺘﻟﺍ ﻆﻔﺤﻟﺍ ﺩﺪﻋ</AutosavesCount>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>ﺔﻄﻳﺮﺨﻟﺍ ﻲﻓ ﺓﺭﺄﻔﻟﺍ ﺐﺤﺳ ﺔﻴﺳﺎﺴﺣ</MapDragSensitivity>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>ﺡﺎﻳﺮﻟﺎﺑ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻞﻳﺪﻬﺗ</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>. ﺭﺎﺒﺘﺧﻻﺍ ﻂﺋﺍﺮﺧ ﻡﺎﺠﺣﺃ ﻦﻴﻜﻤﺗ</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>. ﺍًﻣﻮﻳ {0} ﻮﻫ ﻢﺋﺍﺪﻟﺍ ﺕﻮﻤﻟﺍ ﻊﺿﻭ ﻲﻓ ﻲﺋﺎﻘﻠﺘﻟﺍ ﻆﻔﺤﻠﻟ ﻲﻨﻣﺯ ﻞﺻﺎﻓ ﻰﺼﻗﺃ</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>ﻞﻳﺪﻌﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>. ﺍًﻴﺋﺎﻬﻧ ﺮﻳﻮﻄﺘﻟﺍ ﻊﺿﻭ ﻞﻴﻄﻌﺗ</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>ﺞﻴﺴﻨﻟﺍ ﻂﻐﺿ</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>. ﺔﻴﻓﺎﺿﻹﺍ ﻮﻳﺪﻴﻔﻟﺍ ﺓﺮﻛﺍﺫ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻚﻳﺪﻟ ﻥﺃ ﻢﻠﻌﺗ ﺖﻨﻛ ﺍﺫﺇ ﻻﺇ ﻪﻓﺎﻘﻳﺈﺑ ﻢﻘﺗ ﻻ. ﺔﻴﻠﻴﺼﻔﺘﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﺍًﻠﻴﻠﻗ ﻞﻀﻓﺃ ﻭﺪﺒﻳ ﺞﻴﺴﻨﻟﺍ ﻞﻌﺠﻳ ﻪﻨﻜﻟ ،ﻮﻳﺪﻴﻔﻟﺍ ﺓﺮﻛﺍﺫ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻚﻠﻬﺘﺴﻴﺳ ﺞﻴﺴﻨﻟﺍ ﻂﻐﺿ ﻑﺎﻘﻳﺇ\n\n. ﺕﻼﻳﺪﻌﺘﻟﺍ ﺾﻌﺑ ﺖﻔﺿﺃ ﺍﺫﺇ ﻪﻠﻴﻐﺸﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺪﻗ ﺍﺬﻟ ،ﻮﻳﺪﻴﻔﻟﺍ ﺓﺮﻛﺍﺫ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻚﻠﻬﺘﺴﻴﺳ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺾﻌﺑ ﻡﺍﺪﺨﺘﺳﺍ ﻥﺃ ﻆﺣﻻ</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>ﺔﺴﻠﺳ ﺍﺮﻴﻣﺎﻛ ﺕﺍﺰﻔﻗ</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>. ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺰﻔﻘﺘﺳ ،ﻞﻴﻄﻌﺘﻟﺍ ﺪﻨﻋﻭ. ﺪﻳﺪﺟ ﻊﻗﻮﻣ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﺪﻨﻋ ﺔﻋﺮﺴﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻙﺮﺤﺘﺘﺳ ،ﻞﻴﻌﻔﺘﻟﺍ ﺪﻨﻋ</SmoothCameraJumpsDesc>
+  <!-- EN: Gravship cutscenes -->
+  <GravshipCutscenes>ﺔﻴﺑﺫﺎﺟ ﺔﻨﻴﻔﺳ ﺪﻫﺎﺸﻣ</GravshipCutscenes>
+  <!-- EN: When disabled, gravships will take off and land instantly. -->
+  <GravshipCutscenesDesc>. ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻂﺒﻬﺗﻭ ﺔﻴﺑﺫﺎﺠﻟﺍ ﻦﻔﺳ ﻊﻠﻘﺘﺳ ،ﻞﻴﻄﻌﺘﻟﺍ ﺪﻨﻋ</GravshipCutscenesDesc>
+
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
+  <Resolution>ﺔﻗﺪﻟﺍ</Resolution>
+  <!-- EN: Fullscreen -->
+  <Fullscreen>ﺔﺷﺎﺸﻟﺍ ﺀﻠﻣ</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>ﺩﻭﺪﺣ ﻼﺑ ﺔﺷﺎﺸﻟﺍ ﺀﻠﻣ</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>: ﺩﻭﺪﺣ ﻼﺑ ﺔﺷﺎﺸﻟﺍ ﺀﻠﻣ ﻊﺿﻭ ﻲﻓ RimWorld ﻞﻴﻐﺸﺘﻟ\n\n1) Steam ﺢﺘﻓﺍ\n2) ﻰﻠﻋﻷﺍ ﻲﻓ " ﺔﺒﺘﻜﻤﻟﺍ " ﺐﻳﻮﺒﺗ ﻰﻟﺇ ﺐﻫﺫﺍ\n3) ﻪﻴﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ RimWorld ﻦﻋ ﺚﺤﺑﺍ\n4) " …ﺺﺋﺎﺼﺧ " ﺮﺘﺧﺍ\n5) " ﻡﺎﻋ " ﺐﻳﻮﺒﺗ ﻲﻓ " ﻞﻴﻐﺸﺘﻟﺍ ﺕﺍﺭﺎﻴﺧ " ﻰﻟﺇ ﺱﺎﺒﺘﻗﺍ ﺕﺎﻣﻼﻋ ﻥﻭﺪﺑ "-popupwindow" ﻒﺿﺃ\n6) ﺔﺒﻌﻠﻟﺍ ﻞﻴﻐﺸﺗ ﺪﻋﺃ\n7) ﺓﺬﻓﺎﻨﻟﺍ ﻩﺬﻫ ﻯﺮﺗ ﻦﻠﻓ ،ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻢﺗ ﺍﺫﺇ\n\n. ﺕﺎﺷﺎﺸﻟﺍ ﻦﻴﺑ ﺓﺬﻓﺎﻨﻟﺍ ﻚﻳﺮﺤﺘﻟ ﻦﻴﻤﻳ/ﺭﺎﺴﻳ Windows + Shift + ﺡﺎﺘﻔﻣ ﻡﺪﺨﺘﺳﺍ: ﺢﻴﻤﻠﺗ</BorderlessFullscreenInstructions>
+
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>…ﻞﻳﺪﻌﺘﻟﺍ ﺮﺘﺧﺍ</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>. ﺔﻟَّﻤﺣُﻣ ﻦﻳﻮﻜﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺕﻼﻳﺪﻌﺗ ﺪﺟﻮﺗ ﻻ</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺓﺩﺎﻋﺇ</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
+  <RestoreToDefaultSettings>ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺓﺩﺎﻌﺘﺳﺍ</RestoreToDefaultSettings>
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>. ﺍًﻴﺋﺎﻘﻠﺗ ﺔﺒﻌﻠﻟﺍ ﻞﻴﻐﺸﺗ ﺩﺎﻋُﺘﺳ. ﺕﺍﺩﺍﺪﻋﻹﺍ ﻊﻴﻤﺟ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ ﻢﺗ</ResetAndRestart>
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>،ﻅﻮﻔﺤﻤﻟﺍ ﺮﻴﻏ ﻡﺪﻘﺘﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺘﻴﺳ. ﺔﺒﻌﻠﻟﺍ ﻞﻴﻐﺸﺗ ﺓﺩﺎﻋﺇ ﻢﺘﻴﺳﻭ ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﺿﻮﻟﺍ ﻰﻟﺇ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻊﻴﻤﺟ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ ﻢﺘﻴﺳ\n\n؟ﺔﻌﺑﺎﺘﻤﻟﺍ</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>. ﻅﻮﻔﺤﻤﻟﺍ ﺮﻴﻏ ﻡﺪﻘﺘﻟﺍ ﻊﻴﻀﻴﺳ. ﻞﻴﻐﺸﺗ ﺓﺩﺎﻋﺇ ﺞﻴﺴﻨﻟﺍ ﻂﻐﺿ ﺕﺍﺩﺍﺪﻋﺇ ﺮﻴﻴﻐﺗ ﺐﻠﻄﺘﻳ\n\n؟ﺔﻌﺑﺎﺘﻤﻟﺍ</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>ﺔﻤﺋﺎﻘﻟﺍ ﺔﻴﻔﻠﺧ</SetBackgroundImage>
+
+</LanguageData>

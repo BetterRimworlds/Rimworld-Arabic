@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} ﻥﻮﻨﺠﻣ</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>. ﻩﺍﺮﻳ ﻦﻣ ﻞﻛ ﻢﺟﺎﻬﻴﺳ. ﻥﻮﻨﺠﻟﺍ ﻲﻠﺤﻣ {ANIMAL_label} ﺏﺎﺻﺃ</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
+  <LetterLabelAnimalInsanityMultiple>{0} ﻥﻮﻨﺠﻣ</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <AnimalInsanityMultiple>…ﻦﻜﻟﻭ ،ﺮﻴﺨﺑ ﻙﻮﻨﻃﻮﺘﺴﻣ. ﺪﻬﺸﻤﻟﺍ ﺔﻴﺴﻔﻧ ﺔﺟﻮﻣ ﺖﺣﺎﺘﺟﺍ\n\n. ﻥﻮﻨﺠﻟﺎﺑ ﺍﻮﺒﻴﺻﺃ ﺪﻗ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ {0} ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻥﺃ ﻭﺪﺒﻳ</AnimalInsanityMultiple>
+
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>{PLANTDEF_labelPlural}: ﺔﻓﺁ</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>¡Se ha descubierto una plaga en tus {PLANTDEF_labelPlural}!\n\nDebes cortar o quemar las plantas afectadas antes de que la plaga se propague.</LetterCropBlight>
+
+  <!-- EN: Miracle -->
+  <LetterLabelMiracleHeal>ﺓﺰﺠﻌﻣ</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
+  <MiracleHeal>!ﺰﺠﻌﻣ ﻞﻜﺸﺑ {0} ﻰﻓﺎﻌﺗ</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <EnemyRaidLeaderPresent>. ﻞﻴﺼﻔﻟﺍ ﺪﺋﺎﻗ ﻮﻫ ،{LEADER_labelShort} - {LEADER_factionPawnsPlural} ﺪﺣﺃ</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>. ﻞﻴﺼﻔﻟﺍ ﺪﺋﺎﻗ ﻮﻫ ،{LEADER_labelShort} - {LEADER_factionPawnsPlural} ﺪﺣﺃ</FriendlyRaidLeaderPresent>
+
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻢﻄﺤﺗ</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>. ﺔﻐﻟﺎﺑ ﺔﺑﺎﺻﺇ ﺍًﺑﺎﺼﻣ {PAWN_pronoun} ﻥﻮﻜﻳ ﻑﻮﺴﻓ ،ﻡﺍﺪﻄﺻﻻﺍ ﻦﻣ {PAWN_pronoun} ﺎﺠﻧ ﺍﺫﺇ. ﺔﺒﻳﺮﻗ ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻲﻓ {PAWN_nameDef} ﻪﻤﺳﺍﻭ {PAWN_titleIndef} ﻂﺒﻬﻳ</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
+  <RefugeePodCrash_Child>.{AGE} ﺮﻤﻌﻟﺍ ﻦﻣ ﻎﻠﺒﻳ ﻞﻔﻃ {PAWN_nameDef}</RefugeePodCrash_Child>
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>. ﺩﺎﺒﻌﺘﺳﻻﺍ ﻭﺃ ﺪﻴﻨﺠﺘﻟﺍ ﺽﺍﺮﻏﻷ {PAWN_objective} ﺮﺳﺃ ﻭﺃ ،ﺍًﻋﻮﻃ {PAWN_pronoun} ّﻢﻀﻨﻳ ﻥﺃ ﻲﻓ ﻞﻣﻷﺍﻭ {PAWN_objective} ﺫﺎﻘﻧﺇ ﻚﻨﻜﻤﻳ. ﻞﻴﺼﻓ ﻱﻷ ٍﻢﺘﻨﻣ ﺮﻴﻏ {PAWN_nameDef}</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>. ﺔﻳﺩﻮﺒﻌﻟﺍ ﺽﺍﺮﻏﻷ ﻭﺃ ﺪﻴﻨﺠﺘﻠﻟ {PAWN_objective} ﺮﺳﺃ ﻚﻨﻜﻤﻳ. {PAWN_factionName} ﻙﻭﺪﻋ ﻦﻣ {PAWN_nameDef}</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If {PAWN_pronoun} returns home safely, {PAWN_pronoun} will spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>. ﻚﻴﺘﻠﻴﺼﻓ ﻦﻴﺑ ﺔﻴﻨﻟﺍ ﻦﺴﺣ {PAWN_pronoun} ﺮﺸﻨﻴﺴﻓ ،ﺍًﻤﻟﺎﺳ ﻦﻃﻮﻟﺍ ﻰﻟﺇ {PAWN_pronoun} ﺩﺎﻋ ﺍﺫﺇ. {PAWN_factionName} ﻦﻣ {PAWN_nameDef}\n\n.{PAWN_possessive} ﻞﻴﺼﻓ ﺐﻀﻐﻴﺳ ﺍﺬﻫ ﻦﻜﻟ ،ﺔﻳﺩﻮﺒﻌﻟﺍ ﺽﺍﺮﻏﻷ ﻭﺃ ﺪﻴﻨﺠﺘﻠﻟ {PAWN_objective} ﺮﺳﺃ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>{PAWN_nameDef}: ﻝّﻮﺠﺘﻣ ّﻢﻀﻧﺍ</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﺪﻳﺮﻳﻭ {PAWN_nameDef} ﻪﻤﺳﺍ {PAWN_title} ﻞﺻﻭ\n\n. ﺝﺎﺘﺤﻣ ﺺﺨﺷ ﻝﺎﺳﺭﺇ ﺐﺒﺴﺑ ﻙﻮﻨﻃﻮﺘﺴﻣ ﺏﺮﻄﻀﻴﺳ ،ﻚﻟﺫ ﻊﻣﻭ. ﺍًﺪﻴﻌﺑ ﻪﻟﺎﺳﺭﺇﻭ {PAWN_objective} ﺾﻓﺭ ﺭﺎﻴﺘﺧﺍ ﻚﻨﻜﻤﻳ. ﻪﻴﻟﺇ ﺐﻫﺬﻳ ﺮﺧﺁ ﻥﺎﻜﻣ ﻪﻳﺪﻟ ﺲﻴﻟ ﻪﻧﺃ ﺍًﻴﻋﺪﻣ ،ﺔﻴﻋﺍﻮﻃ ﺭﺩﺎﻐﻳ ﻦﻟ ﻪﻨﻜﻟ ،ﺔﻤﻫﺎﺴﻤﻠﻟ ﺩﺍﺪﻌﺘﺳﺍ ﻰﻠﻋ ﻪﻧﺇ</LetterWandererJoins>
+
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>ﻦﺤﺷ ﺕﻻﻮﺴﺒﻛ</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>. ﻚﻨﻣ ﺏﺮﻘﻟﺎﺑ ﻢﻄﺤﺘﺗ ﻲﻫﻭ ﻦﺤﺸﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻔﺸﺘﻛﺍ ﺪﻘﻟ\n\n. ﻡﺎﻄﺤﻟﺍ ﻲﻓ ﺍًﺪﻴﻔﻣ ﺍًﺌﻴﺷ ﺪﺠﺗ ﺎﻤﺑﺭ</CargoPodCrash>
+
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>. ﻲﺋﺎﺑﺮﻬﻛ ﺱﺎﻣ ﺙﻭﺪﺣ ﻰﻟﺇ {0} ﻲﻓ ﻞﻄﻋ ﻯﺩﺃ</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>. ﻖﻳﺮﺣ ﺏﻮﺸﻧ ﻰﻟﺇ ﻯﺩﺃ ﻲﺋﺎﺑﺮﻬﻛ ﺱﺎﻣ ﺙﻭﺪﺣ ﻲﻓ {0} ﻲﻓ ﻞﻄﻋ ﺐﺒﺴﺗ</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>. ﻲﺋﺎﺑﺮﻬﻛ ﺭﺎﺠﻔﻧﺍ ﻲﻓ ﺔﻠﺼﺘﻤﻟﺍ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻲﻓ ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﻁﺍﻭ {0} ﻞﻛ ﻎﻳﺮﻔﺗ ﻢﺗ</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>. ﺍًﺮﻴﺒﻛ ﺍًﺭﺎﺠﻔﻧﺍ ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻜﻟﺍ ﺔﻴﻤﻜﻟﺍ ﻩﺬﻫ ﺖﺛﺪﺣﺃ</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>. ﻭﺍﻭ. ﺍًﻘﺣ ﻢﺨﺿ ﺭﺎﺠﻔﻧﺍ ﺍﺬﻫ</ShortCircuitWasHuge>
+
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>. ﺏﺮﻘﻟﺎﺑ ﺔﻳﺭﺎﺠﺗ ﺔﻨﻴﻔﺳ ﺮﻤﺗ\n\n.{1} ﻢﻫ. {0} ﻢﺳﺎﺑ ﻥﻮﻓﺮﻋُﻳ\n\n{2}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>.{FACTION_name} ﻰﻟﺇ ﻥﻮﻤﺘﻨﻣ ﻢﻫ</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>. ﻞﻴﺼﻓ ﻱﺃ ﻰﻟﺇ ﻥﻮﻤﺘﻨﻳ ﻻ</TraderArrivalNoFaction>
+
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>.{PAWN_nameFull} ﻪﻤﺳﺍ. {1} ﻦﻣ {PAWN_title} ّﺮﻤﻳ</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>.{0} ﻦﻣ ﻦﻳﺮﻓﺎﺴﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺮﻤﺗ</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
+  <LetterLabelSingleVisitorArrives>ﺮﺋﺍﺯ</LetterLabelSingleVisitorArrives>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺭﺎﻳﺰﻟ {1} ﻦﻣ {PAWN_titleIndef} ﻲﺗﺄﻳ</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>. ﻝﻭﺍﺪﺘﻠﻟ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻪﻳﺪﻟ {PAWN_pronoun} ﻥﺃ ﻭﺪﺒﻳ</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>. ﻞﻴﺼﻔﻟﺍ ﺪﺋﺎﻗ ﻮﻫ {PAWN_pronoun}</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
+  <LetterLabelGroupVisitorsArrive>ﻥﻭﺮﺋﺍﺯ</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>{2}{1}. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ {0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺭﻭﺰﺗ</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>. ﻝﻭﺍﺪﺘﻠﻟ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻢﻬﻳﺪﻟ ﻥﺃ ﻭﺪﺒﻳ</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>. ﻞﻴﺼﻔﻟﺍ ﺓ/ﺪﺋﺎﻗ ﻲﻫ/ﻮﻫ ،{1_labelShort} - ﺭﺍﻭﺰﻟﺍ ﺪﺣﺃ</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>.{0} ﻦﻣ ﺭﺍﻭﺰﻟﺍ ﺭﺩﺎﻐﻳ</VisitorsLeaving>
+
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>ﺮﺸﺒﻟﺍ ﻱﺩﺎﻴﺻ ﺔﻣﺰﺣ</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>. ﺮﺸﺒﻟﺍ ﻡﻮﺤﻟ ﻦﻋ ﺍًﺜﺤﺑ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻥﻮﻟﻮﺠﺘﻳ ﻑﻮﺳﻭ ،ﺎﻳﺭﺎﻜﺴﻟﺍ ﺽﺮﻣ ﺐﺒﺴﺑ ﻥﻮﻨﺠﻟﺍ ﻢﻬﺑﺎﺻﺃ ﺪﻗﻭ! ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ﻦﻴﺸﺣﻮﺘﻤﻟﺍ {0} ﻦﻣ ﻊﻴﻄﻗ ﻞﺧﺩ\n\n. ﺎﻬﺘﻳﺎﻤﺤﻟ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻞﻴﻐﺸﺗ ﻑﺎﻘﻳﺈﺑ ﻢﻗ ﺍﺬﻟ ،ﺔﻔﻗﻮﺘﻤﻟﺍ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺍﻮﻤﺟﺎﻬﻳ ﻦﻟ ﻢﻬﻧﺃ ﺎﻤﻛ. ﻥﺎﻣﺄﺑ ﻥﻮﻜﺘﺳﻭ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺊﺒﺘﺧﺍ. ﺎﻬﻟﻼﺧ ﻦﻣ ﺮﻤﻳ ﺍًﺼﺨﺷ ﺍﻭﺮﻳ ﻢﻟ ﺎﻣ ﺏﺍﻮﺑﻷﺍ ﺍﻮﻤﺟﺎﻬﻳ ﻦﻟ\n\n. ﻢﻬﺘﺑﺭﺎﺤﻣ ﻭﺃ ،ﺍﻮﻠﺣﺮﻳ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍﻭ ﺀﺎﺒﺘﺧﻻﺍ ﻚﻨﻜﻤﻳ. ﻦﻴﻣﻮﻳ ﻭﺃ ﻡﻮﻳ ﻲﻓ ﺔﻘﻄﻨﻤﻟﺍ {0} ﺭﺩﺎﻐﻳ ﻑﻮﺳ</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>. ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻥﻮﻨﺟ ﻰﻟﺇ ﺕﺩﺃ ﺔﻴﺴﻔﻧ ﺔﻀﺒﻧ {SOURCE_label} ﺭﺪﺻﺃ</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>.{0} ﻦﻃﻮﺘﺴﻤﻟﺍ ﻥﻮﻨﺟ ﻰﻟﺇ ﺕﺩﺃ ﺓﺰﻛﺮﻣ ﺔﻴﺴﻔﻧ ﺔﻀﺒﻧ ﺔﻤﻄﺤﻤﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﺀﺰﺟ ﺭﺪﺻﺃ</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>. ﺍًﻣﻮﻳ {0} ﻞﺒﻗ ﺖﻈﻘﻴﺘﺳﺍ</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>. ﺍًﻣﻮﻳ {0} ﺬﻨﻣ ﻝَّﻌﻓُﻣ</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>. ﺍًﻣﻮﻳ {0} ﻞﺒﻗ ﻪﺤﺘﻓ ﻢﺗ</OpenedDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>{0}: ﺔﻴﺴﻔﻨﻟﺍ ﺔﺟﻮﻤﻟﺍ ﻯﻮﺘﺴﻣ</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>ﺭﺎﻴﻃ ﻥﻭﺪﺑ ﺓﺮﺋﺎﻄﻟﺍ ﻒﺜﻜﺗ</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>. ﻞﺒﻗ ﻱﺫ ﻦﻣ ﺮﺜﻛﺃ ﻚﺸﻟﺍﻭ ﺐﻋﺮﻟﺍﻭ ﺏﺍﺮﻄﺿﻻﺎﺑ ﻥﻵﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ {0} ﻥﺎﺴﻧﻹﺎﺑ ﻪﻴﺒﺷ ﻦﺋﺎﻛ ﻞﻛ ﺮﻌﺸﻳ. ﺓﻮﻗ ﺪﺷﺃ ﺔﻴﺴﻔﻧ ﺔﺟﻮﻣ ﺚﻌﺒﻳ ﺔﻤﻄﺤﻤﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﺀﺰﺟ ﺢﺒﺻﺃ</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <!-- EN: Agent -->
+  <LetterLabelAgentRevealed>ﻞﻴﻛﻭ</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>.{1} ﻙﻭﺪﻌﻟ ﻞﻴﻤﻌﻛ {0} ﻦﻋ ﻒﺸﻜﻟﺍ ﻢﺗ\n\n. ﻥﻵﺍ ﺏﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻳ</LetterAgentRevealed>
+
+  <!-- Beavers -->
+  <!-- EN: Beavers! -->
+  <LetterLabelBeaversArrived>!ﺓﺭﻮﺴﻗ</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>. ﺔﻌﺋﺎﺠﻟﺍ ﺮﻴﻔﻴﺑﺎﻔﻟﺃ ﺕﺎﻧﺍﻮﻴﺣ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ\n\n. ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺐﺸﺨﻠﻟ ﺭﺪﺼﻣ ﻞﻛ ﺮﻣﺪﺗ ﻥﺃ ﻞﺒﻗ ﺎﻬﻴﻠﻋ ﺀﺎﻀﻘﻟﺍ ﻝﻭﺎﺣ</BeaversArrived>
+  
+  <!-- Self-tame -->
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>ﺍًﻴﺗﺍﺫ ﺽَّﻭﺭُﻣ</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>. ﺍًﻔﻴﻟﺃ {0} ﺢﺒﺻﺃ</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>.{ANIMAL_nameFull} ﻢﺳﺎﺑ ﻥَّﻴﻋُﻣ ﻥﻵﺍ ﻮﻫﻭ. ﺍًﻔﻴﻟﺃ {0} ﺢﺒﺻﺃ</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>.{ANIMAL_nameFull} ﻪﺘﻴﻤﺴﺗ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺮﻗ. ﺍًﻔﻴﻟﺃ {0} ﺢﺒﺻﺃ</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>ﻢﻀﻨﻳ {0}</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>. ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ،ﻦﻴﻌﺋﺎﺿ ﻭﺃ ﻦﻳﺭﻮﺠﻬﻣ ،{0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ\n\n. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻥﻮﻤﻀﻨﻳﻭ ﺮﺸﺒﻟﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻰﻠﻋ ﻥﻭﺩﺎﺘﻌﻣ ﻢﻬﻧﺃ ﻭﺪﺒﻳ</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>ﺓﺭﺩﺎﻧ ﺕﺎﻫﻮﺒﻣﻭﺮﺛ</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>. ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻝﻮﺠﺗ ﺕﺎﻫﻮﺒﻣﻭﺮﺛ ﻦﻣ ﺮﻴﻐﺻ ﻊﻴﻄﻗ\n\n. ﻦﻴﻨﻴﻤﺜﻟﺍ ﺎﻬﻧﻭﺮﻗﻭ ﺎﻫﺪﻠﺟ ﻞﺑﺎﻘﻣ ﻝﺎﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻊﻓﺪﻟ ﺩﺍﺪﻌﺘﺳﺍ ﻰﻠﻋ ﺭﺎﺠﺘﻟﺍ ﺾﻌﺑ. ﺎﻬﺘﻬﺟﺍﻮﻣ ﺪﻨﻋ ﺔﻳﺎﻐﻠﻟ ﺓﺮﻴﻄﺧ ﺎﻬﻨﻜﻟ ،ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﻤﻟﺎﺴﻣ ﺓﺭﺩﺎﻨﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﻩﺬﻫ\n\n. ﺔﻠﻴﻠﻗ ﻡﺎﻳﺃ ﻥﻮﻀﻏ ﻲﻓ ﺔﻘﻄﻨﻤﻟﺍ ﺭﺩﺎﻐﺘﺳ ﺕﺎﻫﻮﺒﻣﻭﺮﺛ</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
+  <LetterLabelTraderCaravanArrival>{0} ﻦﻣ {1}</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>.{1} ﻢﻬﻧﺇ. ﺏﺮﺘﻘﺗ {0} ﻦﻣ ﺔﻠﻓﺎﻗ</LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>!ﻢﻬﻠﻴﺼﻓ ﺐﻀﻏ ﺮﻴﺜﻴﺳ ﺍﺬﻫ ﻦﻜﻟ - ﻢﻬﺘﻤﺟﺎﻬﻣ ﻚﻨﻜﻤﻳ. ﺓﺭﺩﺎﻐﻤﻟﺍ ﻞﺒﻗ ﺖﻗﻮﻟﺍ ﺾﻌﺒﻟ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻝﻮﺣ ﻥﻮﻘﺒﻴﺳ</LetterCaravanArrivalCommonWarning>
+    
+  <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>{0} ﻲﻓ ﺔﻳﺪﻓ ﺐﻠﻃ</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>. ﺔﻨﻴﻫﺮﻛ {PAWN_labelShort} ﻖﺑﺎﺴﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻥﻭﺰﺠﺘﺤﻳ ﻢﻬﻧﺇ. ﻮﻳﺩﺍﺮﻟﺍ ﺮﺒﻋ {1} ﻚﺑ ﻞﺼﺘﻳ\n\n. ﺔﻀﻓ {2} ﻞﺑﺎﻘﻣ {PAWN_objective} ﺡﺍﺮﺳ ﻕﻼﻃﻹ ﺩﺍﺪﻌﺘﺳﺍ ﻰﻠﻋ ﻢﻫ</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>ﻝﻮﺒﻗ</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>ﺾﻓﺭ</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>ﺔﻔﺷَﺘﻛُﻣ ﺔﻨﻴﻔﺳ</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>. ﺔﻴﻔﺨﻤﻟﺍ ﺔﻴﻤﺠﻨﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ َﺖﻔﺸﺘﻛﺍﻭ Name) (/ﻥﻮﺘﺴﺘﻳﺍﻭ ﻥﻮﻟﺭﺎﺸﺗ Name) (*ﺔﻄﺳﺍﻮﺑ ﺔﻠﺳﺮﻤﻟﺍ ﺕﺎﻴﺛﺍﺪﺣﻹﺍ ﻰﻟﺇ َﺖﻠﺻﻭ\n\n. ﺔﻴﺑﻮﺳﺎﺤﻟﺍ ﺓﺍﻮﻨﻟﺍ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺎﺑ ﻪﻠﻴﻐﺸﺗ ﻚﻨﻜﻤﻳ. ﺪﻌﺑ ﻥﺍﺮﻴﻄﻟﺍ ﺎﻬﻨﻜﻤﻳ ﻻ ﺍﺬﻟ ،ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﻊﺿﻭ ﻲﻓ ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ ﻝﺍﺰﻳ ﻻ\n\n. ﺔﻠﺗﺎﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺏﺍﺮﺳﺃﻭ ﻦﻴﺴﺋﺎﻴﻟﺍ ﺓﺍﺰﻐﻟﺍ ﺕﺎﺑﺎﺼﻋ ﺏﺬﺠﻴﺳﻭ ،ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺮﻔﺴﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻰﻟﺇ ﺔﻗﺎﻄﻟﺍ ﻊﻴﻗﻮﺗ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﺮﻴﺸﻳ. ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﻑﺎﺸﺘﻛﻼﻟ ًﻼﺑﺎﻗ ﻥﻮﻜﻴﺳ ﺔﻗﺎﻄﻟﺍ ﻊﻴﻗﻮﺗ ﻥﺃﻭ ،ﺍًﻣﻮﻳ 15 ﻲﻟﺍﻮﺣ ﻕﺮﻐﺘﺴﺘﺳ ﻞﻴﻐﺸﺘﻟﺍ ﺔﻴﻠﻤﻋ ﻥﺃ ﻦﻣ Name) (/ﻥﻮﺘﺴﺘﻳﺍﻭ ﻥﻮﻟﺭﺎﺸﺗ Name) (*ﻙﺭﺬﺤﻳ\n\n. ًﻻﻭﺃ ﺓﺪﻌﺘﺴﻣ ﻚﺗﺎﻋﺎﻓﺩ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ. ﻞﺒﻗ ﻦﻣ ﺎﻫﺪﻬﺸﺗ ﻢﻟ ﺓﺪﺸﺑ ﻡﻮﺠﻬﻟ ﺽﺮﻌﺘﺘﺳ</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>. ﺔﻴﻔﺨﻤﻟﺍ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﺖﻔﺸﺘﻛﺍﻭ Name)Charlon Whitestone(/Name) (*ﺔﻄﺳﺍﻮﺑ ﺔﻠﺳﺮﻤﻟﺍ ﺕﺎﻴﺛﺍﺪﺣﻹﺍ ﻰﻟﺇ ﺖﻠﺻﻭ\n\n. ﺔﻴﺑﻮﺳﺎﺤﻟﺍ ﺓﺍﻮﻨﻟﺍ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺎﺑ ﻪﻠﻴﻐﺸﺗ ﻚﻨﻜﻤﻳ. ﺪﻌﺑ ﻥﺍﺮﻴﻄﻟﺍ ﺎﻬﻨﻜﻤﻳ ﻻ ﺍﺬﻟ ،ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﻊﺿﻭ ﻲﻓ ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ ﻝﺍﺰﻳ ﻻ\n\n. ﺍًﻣﻮﻳ 15 ﻲﻟﺍﻮﺣ ﻕﺮﻐﺘﺴﺘﺳ ﻞﻴﻐﺸﺘﻟﺍ ﺔﻴﻠﻤﻋ ﻥﺃ ﻦﻣ Name)Charlon Whitestone(/Name) (*ﻙﺭﺬﺤﻳ</EscapeShipFoundPeaceful>
+
+  <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>{0} ﺔﻄﺳﺍﻮﺑ ﺔﻠﻓﺎﻗ ﺀﺎﻘﻟ</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>: ﻦﻣ ﻯﺮﺧﻷﺍ ﺔﻠﻓﺎﻘﻟﺍ ﻥﻮﻜﺘﺗ. {1} ﻦﻣ ﺔﻠﻓﺎﻗ ﻊﻣ ﻡﻼﺴﺑ {0} ﻰﻘﺘﻟﺍ\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>ﻝﺩﺎﺒﺗ</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
+  <CaravanMeeting_Attack>ﻡﻮﺠﻫ</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>ﻞﻘﺘﻧﺍ</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>. ﺓﺭﺎﺠﺘﻟﺍ ﻰﻠﻋ ﻥﻭﺭﺩﺎﻗ ﺔﻠﻓﺎﻗ ﺀﺎﻀﻋﺃ ﻻ</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>{1_name} ﻦﻣ {0} ﻥﺍﻮﻨﻌﺑ ﺮﺟﺎﺗ ﻰﻟﺇ ﺝﺎﺘﺤﻳ</CaravanMeeting_NoPermit>
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
+  <LetterLabelCaravanRequest>ﺔﻠﻓﺎﻗ ﺐﻠﻃ</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>: ﺀﺍﺮﺷ ﻲﻓ ﻥﻮﺒﻏﺮﻳ. ﺹﺎﺧ ﻱﺭﺎﺠﺗ ﺐﻠﻄﺑ ،{0} ،ﺔﺒﻳﺮﻗ ﺔﻨﻃﻮﺘﺴﻣ ﻚﻌﻣ ﻞﺻﺍﻮﺘﺗ\n\n){2} ﺔﻤﻴﻘﺑ ({1}\n\n: ﻥﻮﻣﺪﻘﻳ ،ﻞﺑﺎﻘﻤﻟﺍ ﻲﻓ\n\n){4} ﺔﻤﻴﻘﺑ ({3}\n\n{5}: ﺪﻌﺑ ﺐﻠﻄﻟﺍ ﺍﺬﻫ ﻲﻬﺘﻨﻳ\n\n. ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻠﻋ {0} ﺪﻳﺪﺤﺘﺑ ﺽﺮﻌﻟﺍ ﺍﺬﻫ ﺔﻌﺟﺍﺮﻣ ﻚﻨﻜﻤﻳ. {6} ﻮﻫ ﺭﺪﻘﻤﻟﺍ ﺮﻔﺴﻟﺍ ﺖﻗﻭ. ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺩﺍﺪﻣﻹﺍ ﻞﻤﺤﺗ ﺔﻠﻓﺎﻗ ﻞﺳﺭﺃ ،ﻝﺩﺎﺒﺘﻟﺍ ﺀﺍﺮﺟﺇ ﻲﻓ ﺐﻏﺮﺗ ﺖﻨﻛ ﺍﺫﺇ</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>)ﻲﻘﺒﺘﻣ {1}) ({2} ({0}</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>ﻞﻀﻓﺃ ﻭﺃ ﺔﻳﺩﺎﻋ ﺓﺩﻮﺟ</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>ﺙّﻮﻠﻣ ﺮﻴﻏ</NotTainted>
+
+  <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>{0} ﺔﻄﺳﺍﻮﺑ ﺔﻠﻓﺎﻗ ﺐﻠﻃ</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>: ﻢﻬﻟ ﻡﺪﻘﺗ ﻢﻟ ﺎﻣ ﻥﻮﻤﺟﺎﻬﻴﺳ. {1} ﻦﻣ {4} {2} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻞﺒﻗ ﻦﻣ ﻦﻴﻤﻜﻟ {0} ﺖﺿﺮﻌﺗ\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>ﻞﻘﻧﺍﻭ ِﻂﻋﺃ</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
+  <CaravanDemand_Fight>ﻞﺗﺎﻗﻭ ﺾﻓﺭﺍ</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>ﺔﺣﺎﺘﻣ ﺪﻌﺗ ﻢﻟ ﺔﻤﻬﻤﻟﺍ</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>ﺔﺣﺎﺘﻣ ﺪﻌﺗ ﻢﻟ ﻡﺎﻬﻤﻟﺍ</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>. ﺍًﺣﺎﺘﻣ {1} ﻊﻗﻮﻣ ﺪﻌﻳ ﻢﻟ ،{0} ﻊﻣ ﺍًﻴﺋﺍﺪﻋ ﺪﻌﺗ ﻢﻟ ﻚﻧﺃ ﺎﻤﺑ</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>ﺔﺣﺎﺘﻣ ﺔﻴﻟﺎﺘﻟﺍ ﻊﻗﺍﻮﻤﻟﺍ ﺪﻌﺗ ﻢﻟ ،{0} ﻊﻣ ﺍًﻴﺋﺍﺪﻋ ﺪﻌﺗ ﻢﻟ ﻚﻧﺃ ﺎﻤﺑ</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>. ﻲﺋﺍﺪﻋ {FACTION_name} ﻥﻷ ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﻥﺎﻜﻣﻹﺎﺑ ﺪﻌﻳ ﻢﻟ</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>. ﺮﺳُﺃ ﺪﻗ {SUBJECT_definite} ﻥﻷ ﻝﺎﻤﻛﻺﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺔﻤﻬﻤﻟﺍ ﺖﺤﺒﺻﺃ</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>.{SUBJECT_definite} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻝﺎﻤﻛﻺﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺔﻤﻬﻤﻟﺍ ﺖﺤﺒﺻﺃ ﺪﻘﻟ</LetterQuestAskerDied>
+
+</LanguageData>

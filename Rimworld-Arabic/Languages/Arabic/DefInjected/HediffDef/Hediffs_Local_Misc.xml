@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>. ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>. ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>ﺪﺒﻜﻟﺍ ﻒﻴﻠﺗ</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>. ﻝﻮﺤﻜﻠﻟ ﻁﺮﻔﻣ ﻙﻼﻬﺘﺳﺍ ﻦﻋ ﺞﺗﺎﻧ ﻲﺴﻜﻨﺗ ﻱﺪﺒﻛ ﺽﺮﻣ</Cirrhosis.description>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>ﺔﻣﺎﻴﻗ ﻥﺎﻫﺫ</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>. ﺓﺎﻓﻮﻟﺍﻭ ﻡﺎﺘﻟﺍ ﻥﺎﻫﺬﻟﺍ ﻰﻟﺇ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻱﺩﺆﻳﻭ ﺀﺎﻴﺣﻹﺍ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻥﺎﻫﺬﻟﺍ ﺭﻮﻄﺘﻳ. ﺀﺎﻴﺣﻹﺍ ﺕﺎﻴﻟﺁ ﺭﻮﻫﺪﺗ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﺑﺮﻄﻀﻣ ﺮﻴﻜﻔﺗ ﻁﺎﻤﻧﺃ\n\n. ﻲﺋﺎﻬﻨﻟﺍ ﺭﻮﻫﺪﺘﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﺕﺩﺍﺯﻭ ،ﻪﺋﺎﻴﺣﻹ ﺕﺎﻴﻟﻵﺍ ﻞﺧﺪﺗ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﺕﺩﺍﺯ ،ﻡﺪﻗﺃ ﺪﺴﺠﻟﺍ ﻥﺎﻛ ﺎﻤﻠﻛ. ﻱﺰﻛﺮﻤﻟﺍ ﻲﺒﺼﻌﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻲﻓ ﺍًﺭﺎﻣﺩ ﺐﺒﺴﺗ ﺎﻬﻧﺈﻓ ،ﻚﻟﺫ ﺙﺪﺣ ﺍﺫﺇﻭ ،ﺎﻬﻜﺳﺎﻤﺗ ﺕﺎﻴﻟﻵﺍ ﻥﺍﺪﻘﻔﻟ ﺔﺻﺮﻓ ﻙﺎﻨﻫ ﻥﻮﻜﺗ ﺎﻣ ﺍًﻤﺋﺍﺩ. ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻢﺴﺠﻟﺍ ﻒﺋﺎﻇﻭ ﺀﺎﻨﺑ ﺓﺩﺎﻋﻹ ﺕﺎﻴﻟﺁ ﻰﻟﺇ ﻢﻫﺅﺎﻴﺣﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺝﺎﺘﺤﻳ</ResurrectionPsychosis.description>
+  <!-- EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death. -->
+  <ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_gender ? . ﺓﺎﻓﻮﻟﺍ ﻰﻟﺇ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻱﺩﺆﺘﻟ ،ﺀﻄﺒﺑ ﺔﻟﺎﺤﻟﺍ ﻢﻗﺎﻔﺘﺘﺳ. ﺔﻣﺎﻴﻘﻟﺍ ﺕﺎﻴﻟﺁ ﺭﻮﻫﺪﺗ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﻟﺎﺣ ﻲﻫﻭ ،ﺔﻣﺎﻴﻘﻟﺍ ﻥﺎﻫﺬﻟﺍ ﻦﻣ ﺎﻬﻨﻣ ﺱﻭﺆﻴﻣ ﺔﻟﺎﺣ ﻦﻣ {PAWN_nameDef} ﻲﻧﺎﻌﺗ : . ﺓﺎﻓﻮﻟﺍ ﻰﻟﺇ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻱﺩﺆﻳ ﺎﻤﻣ ،ﺍًﻴﺠﻳﺭﺪﺗ ﺍًﺀﻮﺳ ﺔﻟﺎﺤﻟﺍ ﺩﺍﺩﺰﺘﺳ. ﺔﻴﻣﺎﻴﻘﻟﺍ ﺕﺎﻴﻟﻵﺍ ﻚﻜﻔﺗ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﻟﺎﺣ ﻲﻫﻭ ،ﺔﻣﺎﻴﻘﻟﺍ ﻥﺎﻫﺬﻟﺍ ﻦﻣ ﺎﻬﻨﻣ ﺱﻭﺆﻴﻣ ﺔﻟﺎﺣ ﻦﻣ [[PH:V0]] ﻲﻧﺎﻌﻳ}</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>. ﺕﻮﻤﻟﺍﻭ ﻥﺎﻫﺬﻟﺍ ﻰﻟﺇ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻱﺩﺆﻳﻭ ﻢﻗﺎﻔﺘﻣ ﺀﺎﻴﺣﻹﺍ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻥﺎﻫﺬﻟﺍ. ﺀﺎﻴﺣﻹﺍ ﺭﺎﺛﺁ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﺑﺮﻄﻀﻣ ﺮﻴﻜﻔﺗ ﻁﺎﻤﻧﺃ</ResurrectionPsychosis.descriptionShort>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>ﺮﻜﺒﻣ</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>ﺮﻜﺒﻣ</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>ﻝﺪﺘﻌﻣ</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>ﻡﺪﻘﺘﻣ</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>ّﺩﺎﺣ</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>ﻲﻟﺎﻤﺟﺇ</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>ﺔﻴﻧﺎﻫﺫ ﺔﻟﺎﺣ</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>ﺎﻳﺭﺎﻜﺳ ﺔﺑﺪﻧ</Scaria.label>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria can be cured through a special medical operation, but the creature must first be downed in order to make it possible to operate. The disease poisons the flesh, so creatures killed with scaria often appear rotten after death and cannot be butchered for meat or leather. After scaria rage has begun, the creature will last several days before dying from exhaustion. Scaria-infected animals can't be tamed. -->
+  <Scaria.description>. ﺎﻳﺭﺎﻜﺴﻟﺎﺑ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ. ﻕﺎﻫﺭﻹﺍ ﺐﺒﺴﺑ ﺕﻮﻤﻳ ﻥﺃ ﻞﺒﻗ ﻡﺎﻳﺃ ﺓﺪﻋ ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﺮﻤﺘﺴﻴﺳ ،ﺎﻳﺭﺎﻜﺴﻟﺍ ﺐﻀﻏ ﺀﺪﺑ ﺪﻌﺑ. ﺪﻠﺠﻟﺍ ﻭﺃ ﻢﺤﻠﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻌﻴﻄﻘﺗ ﻦﻜﻤﻳ ﻻﻭ ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺔﻨﻔﻌﺘﻣ ﺎﻳﺭﺎﻜﺴﻟﺍ ﺐﺒﺴﺑ ﺖﻠﺗُﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻭﺪﺒﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ ﺍﺬﻟ ،ﻢﺤﻠﻟﺍ ﺽﺮﻤﻟﺍ ﻡّﻤﺳُﻳ. ﺔﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇ ﺔﻴﻧﺎﻜﻣﺇ ﺔﺣﺎﺗﻹ ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﻁﺎﻘﺳﺇ ًﻻﻭﺃ ﺐﺠﻳ ﻦﻜﻟﻭ ،ﺔﺻﺎﺧ ﺔﻴﺒﻃ ﺔﻴﻠﻤﻋ ﻝﻼﺧ ﻦﻣ ﺎﻳﺭﺎﻜﺴﻟﺍ ﺽﺮﻣ ﺝﻼﻋ ﻦﻜﻤﻳ. ﻒﻴﻨﻌﻟﺍ ﻱﺮﻴﺘﺴﻬﻟﺍ ﺐﻀﻐﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺮﺸﺒﻟﺍ ﻊﻓﺪﻳ ﻥﺃ ﻦﻜﻤﻳ ٍﺪﻌﻣ ﺽﺮﻣ</Scaria.description>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
+  <Scaria.descriptionShort>. ﺎﻬﻀﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ ﺎﻳﺭﺎﻜﺴﻟﺎﺑ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ. ﻱﺮﻴﺘﺴﻫ ﺐﻀﻏ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺮﺸﺒﻟﺍ ﻊﻓﺪﻳ ﻥﺃ ﻦﻜﻤﻳ ٍﺪﻌﻣ ﺽﺮﻣ</Scaria.descriptionShort>
+  <!-- EN: Scaria infected. -->
+  <Scaria.inspectString>. ﺔﻴﻓﺪﺼﻟﺎﺑ ﺏﺎﺼﻣ</Scaria.inspectString>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.0.debugLabel>ﺎﻳﺭﺎﻜﺳ ﺕﺎﺣﺮﻘﺗ</Scaria.renderNodeProperties.0.debugLabel>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.1.debugLabel>ﺎﻳﺭﺎﻜﺳ ﺕﺎﺣﺮﻘﺗ</Scaria.renderNodeProperties.1.debugLabel>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>ﻢﻘﻌﻣ</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>. ﻢﺋﺍﺩ ﻞﻜﺸﺑ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻬﻟ ﻲﻠﺳﺎﻨﺘﻟﺍ ﺯﺎﻬﺠﻟﺍ َﻕِﻠﻏُﺃ</Sterilized.description>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>ﺔﻣﺪﺼﻟﺍ ﻱﺮﻘﺒﻋ</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>. ﻡﻼﻜﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻥﺍﺪﻘﻓ ﻊﻣ ،ﺔﺑﺎﺻﻺﻟ ًﺔﺑﺎﺠﺘﺳﺍ ﺕﻻﺎﺠﻤﻟﺍ ﺾﻌﺑ ﻲﻓ ﺔﻘﺋﺎﻓ ﺕﺍﺭﺪﻗ ﻍﺎﻣﺪﻟﺍ ﺭﻮﻃ ﺚﻴﺣ ،ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﺔﺑﺎﺻﺇ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﻴﺋﺎﻨﺜﺘﺳﺍ ﺔﻟﺎﺣ</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>ﺔﻣﺪﺻ</TraumaSavant.labelNoun>
+  
+</LanguageData>

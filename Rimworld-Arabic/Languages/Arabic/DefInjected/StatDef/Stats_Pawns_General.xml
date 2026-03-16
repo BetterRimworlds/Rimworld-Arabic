@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻢﻠﻌﺗ ﻞﻣﺎﻋ</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺭﺎﻬﻤﻟ ﻢﻠﻌﺘﻟﺍ ﻝﺪﻌﻤﻟ ﻑِﻋﺎﺿُﻣ</AnimalsLearningFactor.description>
+  
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>ﺵﺍﺮﻔﻟﺍ ﻉﻮﺟ ﻝﺪﻌﻣ ﻒﻋﺎﻀﻣ</BedHungerRateFactor.label>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>ﺔﻠﻓﺎﻘﻟﺍ ﺏﻮﻛﺭ ﺔﻋﺮﺳ</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>. ﻞﻓﺍﻮﻘﻟﺍ ﻲﻓ ﻻﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺏﻮﻛﺭ ﻦﻜﻤﻳ ﻻ. ﺔﻠﻓﺎﻗ ﻦﻣ ﺀﺰﺠﻛ ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻫ ﺏﻮﻛﺭ ﺪﻨﻋ ﺺﺨﺸﻟﺍ ﺔﻛﺮﺣ ﺔﻋﺮﺳ ﻰﻠﻋ ﻖﺒﻄﻤﻟﺍ ﻒﻋﺎﻀﻤﻟﺍ</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>ﻞﻤﺣ ﺔﻌﺳ</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>. ﻯﺮﺧﻷﺍ ﺐﻋﻼﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺃ ﻪﻤﻔﺑ ﻭﺃ ﻪﻳﺪﻴﺑ ﺎﻬﻠﻤﺣ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﺔﻴﻤﻛ\n\n. ﺐﻛﺍﻮﻜﻟﺍ ﺮﺒﻋ ﺔﻠﻳﻮﻃ ﺕﻼﺣﺭ ﻲﻓ ﻊﺋﺎﻀﺒﻟﺍ ﻞﻤﺣ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻦﻋ ﻞﺼﻔﻨﻣ ﺍﺬﻫ</CarryingCapacity.description>
+  
+  <!-- EN: max comfortable temperature -->
+  <ComfyTemperatureMax.label>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﻰﺼﻗﺃ</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>. ﺓﺪﻴﻌﺳ ﺮﻴﻏ ﺕﺎﻴﺼﺨﺸﻟﺍ ﻥﻮﻜﺘﺳ ،ﺔﺟﺭﺪﻟﺍ ﻩﺬﻫ ﻕﻮﻓ\n\n. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺕﻮﻤﺗ ﺪﻗﻭ ﺲﻤﺸﻟﺍ ﺔﺑﺮﻀﺑ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺏﺎﺼﺘﺳ ،ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺔﺟﺭﺪﻟﺍ ﻩﺬﻫ ﺓﺭﺍﺮﺤﻟﺍ ﺯﻭﺎﺠﺘﺗ ﺎﻣﺪﻨﻋ</ComfyTemperatureMax.description>
+  
+  <!-- EN: min comfortable temperature -->
+  <ComfyTemperatureMin.label>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﻞﻗﺃ</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>. ﺡﺎﻴﺗﺭﻻﺍ ﻡﺪﻌﺑ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺮﻌﺸﺘﺳ ،ﺪﺤﻟﺍ ﺍﺬﻫ ﻦﻋ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺾﻔﺨﻨﺗ ﺎﻣﺪﻨﻋ\n\n. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺕﻮﻤﺗ ﺪﻗﻭ ،ﻊﻴﻘﺼﻟﺍﻭ ﺩﺮﺒﻟﺍ ﺀﺍﺪﺑ ﺏﺎﺼﺘﺳ ،ﺪﺤﻟﺍ ﺍﺬﻫ ﻦﻋ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺾﻔﺨﻨﺗ ﺎﻣﺪﻨﻋ</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>ﻒﺣﺰﻟﺍ ﺔﻋﺮﺳ</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>. ﺔﻴﻧﺎﺜﻟﺎﺑ ﺎﻳﻼﺨﻟﺍ ﻲﻓ ﻒﺣﺰﻟﺍ ﺔﻋﺮﺳ</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>ﺙ/ﺙ {0}</CrawlSpeed.formatString>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>ﻞﻛﻷﺍ ﺔﻋﺮﺳ</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>. ﻞﻛﻷﺍ ﺔﻋﺮﺳ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</EatingSpeed.description>
+  
+  <!-- EN: EMP resistance -->
+  <EMPResistance.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻣﻭﺎﻘﻣ</EMPResistance.label>
+  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
+  <EMPResistance.description>. ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺾﺒﻨﻟﺍ ﻦﻋ ﺔﺠﺗﺎﻨﻟﺍ ﺕﺎﻣﺪﺼﻟﺍ ﺓﺪﻣ ﻦﻣ ﻞﻠﻘﻳ ﺎﻤﻣ ،ﺔﻳﻮﺌﻤﻟﺍ ﺔﺒﺴﻨﻟﺍ ﻩﺬﻬﺑ ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺾﺒﻨﻟﺍ ﺭﺮﺿ ﺮﻴﺛﺄﺗ ﻦﻣ ﻞﻠﻘﺗ ﺕﺎﻣﺪﺼﻟﺍ ﺪﻳﺪﺒﺗ ﻁﻮﻴﺧﻭ ﺔﺻﺎﺧ ﻉﻭﺭﺩ ﻰﻠﻋ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺍﺬﻫ ﻱﻮﺘﺤﻳ</EMPResistance.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>ﺥﺎﺳﻭﻷﺍ ﻝﺪﻌﻣ</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>. ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﺎﻬﺠﺘﻨﻳ ﻲﺘﻟﺍ ﺥﺎﺳﻭﻷﺍ ﺔﻴﻤﻛ\n\n. ﺔﻠﻜﺸﻣ ﺎﻬﺧﺎﺳﻭﺃ ﻞﻜﺸﺗ ﻻ ﺚﻴﺣ ﺶﻘﻟﺍ ﺮﻴﺼﺣ ﻰﻠﻋ ﻭﺃ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺥﺎﺳﻭﻸﻟ ﺔﺠﺘﻨﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺎﻘﺑﺇ ﻞﻀﻓﻷﺍ ﻦﻣ</FilthRate.description>
+  
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>ﻥﺍﺮﻴﻄﻟﺍ ﺔﺋﺪﻬﺗ</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>. ﻯﺮﺧﺃ ﺓﺮﻣ ﻥﺍﺮﻴﻄﻟﺍ ﻦﻣ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻦﻜﻤﺘﻳ ﻥﺃ ﻞﺒﻗ ﺔﻣﺯﻼﻟﺍ ﺔﻴﻨﻣﺰﻟﺍ ﺓﺪﻤﻟﺍ</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>{0}s</FlightCooldown.formatString>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>ﻒﻄﺘﻘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>. ﺔﻠﻓﺎﻗ ﻲﻓ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﺍًﻴﻣﻮﻳ ﺍًﻴﺋﺎﻘﻠﺗ ﺎﻬﻌﻤﺠﺑ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻡﻮﻘﻴﺳ ﻲﺘﻟﺍ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻴﻤﻛ</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>ﻡﺎﻌﻟﺍ ﻢﻠﻌﺘﻟﺍ ﻞﻣﺎﻋ</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>. ﺕﺍﺭﺎﻬﻤﻟﺍ ﻊﻴﻤﺠﻟ ﻢﻠﻌﺘﻟﺍ ﻝﺪﻌﻤﻟ ﻑِﻋﺎﺿُﻣ</GlobalLearningFactor.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>ﺔﻋﺎﻨﻤﻟﺍ ﺏﺎﺴﺘﻛﺍ ﺔﻋﺮﺳ</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>. ﺽﺍﺮﻣﻷﺍ ﺪﺿ ﺔﻋﺎﻨﻣ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺏﺎﺴﺘﻛﺍ ﺔﻋﺮﺳ\n\n. ﺔﻋﺎﻨﻤﻟﺍ ﺮﻳﻮﻄﺗ ﻞﺒﻗ ﺽﺮﻣ ﺐﺒﺴﺑ ﺔﻴﺼﺨﺸﻟﺍ ﻚﻠﻫُﺘﺴﻓ ،ﺍًﺪﺟ ﺔﺌﻴﻄﺑ ﺔﻋﺮﺴﻟﺍ ﻩﺬﻫ ﺖﻧﺎﻛ ﺍﺫﺇ</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>ﺕﺎﺑﺎﺻﻹﺍ ﺀﺎﻔﺷ ﻞﻣﺎﻋ</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>. ﺩﺮﻔﻟﺍ ﺕﺎﺑﺎﺻﺇ ﺀﺎﻔﺷ ﻝﺪﻌﻣ ﻰﻠﻋ ﻕَّﺒﻃُﻳ ﻑِﻋﺎﺿُﻣ</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>ﻪﻴﻓﺮﺘﻟﺍ ﺽﺎﻔﺨﻧﺍ ﻝﺪﻌﻣ</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>. ﺩﺮﻔﻟﺍ ﻯﺪﻟ ِﻪﻴﻓﺮﺘﻟﺍ ِﺔﺟﺎﺣ ِﺽﺎﻔﺨﻧﺍ ِﺓَﻋْﺭُﺳِﻟ ٌﻑِﻋﺎﺿُﻣ</JoyFallRateFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>ﺪﻠﺠﻟﺍ ﺔﻴﻤﻛ</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>. ﻞﺘﻘﻟﺍ ﺪﻨﻋ ﺍًﺑﺎﺼﻣ ﻥﺎﻛ ﺍﺫﺇ ﻭﺃ ،ﻒﻴﻈﻧ ﻞﻜﺸﺑ ﻦﺋﺎﻜﻟﺍ ﺢﺑﺫ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﻞﻘﺗ ؛ﺕﺎﻨﺋﺎﻜﻟﺍ ﻩﺬﻫ ﺦﻠﺳ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺪﻠﺠﻟﺍ ﺔﻴﻤﻛ</LeatherAmount.description>
+  
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>ﺮﻤﻌﻟﺍ ﻂﺳﻮﺘﻣ ﻞﻣﺎﻋ</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>. ﺮﻤﻌﻟﺍ ﻂﺳﻮﺘﻣ ﻦﻣ ﻞﻠﻘﻳﻭ ﺽﺮﻤﻟﺍ ﺭﻮﻬﻇ ﻉﺮﺴﻳ 100% ﻦﻋ ﻞﻘﻳ ﻱﺬﻟﺍ ﺮﻤﻌﻟﺍ ﻞﻣﺎﻋ ﺎﻤﻨﻴﺑ ،ﻲﻟﺎﻤﺟﻹﺍ ﺮﻤﻌﻟﺍ ﻂﺳﻮﺘﻣ ﻦﻣ ﺪﻳﺰﻳﻭ ﺽﺮﻤﻟﺍ ﺭﻮﻬﻇ ﺮﺧﺆﻳ 100% ﻦﻋ ﺪﻳﺰﻳ ﻱﺬﻟﺍ ﺮﻤﻌﻟﺍ ﻞﻣﺎﻋ. ﺮﻤﻌﻟﺎﺑ ﺔﻘﻠﻌﺘﻣ ﺽﺍﺮﻣﺄﺑ ﺏﺎﺼﻳ ﻰﺘﺣ ﺔﻴﻨﻣﺰﻟﺍ ﺓﺪﻤﻟﺍ ﺔﻟﺎﻃﺇ ﻭﺃ ﺮﻴﺼﻘﺗ ﻖﻳﺮﻃ ﻦﻋ ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﺮﻤﻋ ﻂﺳﻮﺘﻣ ﻰﻠﻋ ﺮﺛﺆﻳ ﺮﻤﻌﻟﺍ ﻞﻣﺎﻋ</LifespanFactor.description>
+  
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>ﻥﺍﺮﻴﻃ ﺓﺪﻣ ﻰﺼﻗﺃ</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>. ﻁﻮﺒﻬﻟﺍ ﻞﺒﻗ ﻥﺍﺮﻴﻃ ﺔﻟﺎﺣ ﻲﻓ ﺎﻬﻴﻓ ﺀﺎﻘﺒﻟﺍ ﻦﺋﺎﻜﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺓﺪﻤﻠﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>{0}s</MaxFlightTime.formatString>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>ﺔﻳﺬﻐﺗ ﻰﺼﻗﺃ</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>. ﻞﻣﺎﻜﻟﺎﺑ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﺓﺪﻌﻣ ﺀﻠﻤﻟ ﺔﻣﺯﻼﻟﺍ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻴﻤﻛ</MaxNutrition.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>ﻢﺤﻟ ﺔﻴﻤﻛ</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>. ﻞﺘﻘﻟﺍ ﺪﻨﻋ ﺍًﺑﺎﺼﻣ ﻥﺎﻛ ﺍﺫﺇ ﻭﺃ ،ﻒﻴﻈﻧ ﻞﻜﺸﺑ ﻦﺋﺎﻜﻟﺍ ﺢﺑﺫ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺾﻔﺨﻨﺗ. ﺕﺎﻨﺋﺎﻜﻟﺍ ﻩﺬﻫ ﺦﻠﺳ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ</MeatAmount.description>
+  
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>ﻲﺴﻔﻧ ﺰﻴﻛﺮﺗ ﺐﺴﻜﻣ</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>. ﺰﻴﻛﺮﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻦﻣ ﺕﺂﻓﺎﻜﻤﻟﺍ ﻞﻫﺎﺠﺗ ﻊﻣ ،ﻞﻣﺄﺘﻟﺍ ﻦﻣ ﺍًﻴﻣﻮﻳ ﺩﺮﻔﻟﺍ ﺎﻬﺒﺴﺘﻜﻳ ﻲﺘﻟﺍ ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ ﺔﻴﻤﻛ</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>ﻡﻮﻳ/{0}</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>ﻡﻮﻳ/{0}</MeditationFocusGain.formatStringUnfinalized>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>ﻲﻠﻘﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺔﺒﺘﻋ</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>. ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﺔﺑﺎﺻﻹﺍ ﺮﻄﺧ ﻲﻓ ﻥﻮﻜﻳ ،ﻯﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻞﻗﺃ ﺺﺨﺸﻟﺍ ﺝﺍﺰﻣ ﻥﺃ ﺎﻤﻟﺎﻃ\n\n. ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﻦﻋ ﻢﻬﺿﺎﻔﺨﻧﺍ ﻯﺪﻣ ﻰﻠﻋ ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺓﺭﻮﻄﺧ ﻯﺪﻣ ﺪﻤﺘﻌﻴﺳ</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>ﺎﻴﻧﺪﻟﺍ ﻞﻣﺎﻌﺘﻟﺍ ﺓﺭﺎﻬﻣ</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>. ﻯﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻦﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻲﻓ ﻪﺗﺭﺎﻬﻣ ﻞﻘﺗ ﺺﺨﺷ ﻱﺃ ﻞﺒﻗ ﻦﻣ ﺎﻬﻟ ﺮﻣﺍﻭﻷﺍ ﺭﺍﺪﺻﺇ ﻭﺃ ﺎﻬﺒﻳﺭﺪﺗ ﻭﺃ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻩﺬﻫ ﺾﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>ﺔﻛﺮﺣ ﺔﻋﺮﺳ</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>. ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﺎﻳﻼﺨﻟﺍ ﻲﻓ ﺔﻛﺮﺤﻟﺍ ﺔﻋﺮﺳ</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>ﺙ/ﺙ {0}</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>ﻢﻟﻷﺍ ﺔﻣﺪﺻ ﺔﺒﺘﻋ</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>. ﻢﻟﻷﺍ ﺐﺒﺴﺑ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻩﺪﻨﻋ ﻂﻘﺴﻳ ﻱﺬﻟﺍ ﻢﻟﻷﺍ ﻯﻮﺘﺴﻣ</PainShockThreshold.description>
+  
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺪﺣ</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>. ﻥﺎﻣﺄﺑ ﺎﻬﻠﻤﺤﺗ ﺩﺮﻔﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﻴﻤﻜﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</PsychicEntropyMax.description>
+  
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻝﺪﻌﻣ</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>. ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻯﺪﻟ ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺽﺎﻔﺨﻧﺍ ﻝﺪﻌﻣ</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>ﺙ/{0}</PsychicEntropyRecoveryRate.formatString>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>ﺔﻴﺴﻔﻧ ﺔﻴﺳﺎﺴﺣ</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>. ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺪﺣ ﻦﻣ ﺪﻳﺰﺗ ﻰﻠﻋﻷﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ ﻥﺃ ﺎﻤﻛ. ﺔﻴﺑﺎﺠﻳﻹﺍ ﻦﻣ ﺮﺜﻛﺃ ﻥﻭﺪﻴﻔﺘﺴﻳﻭ ،ﺔﻴﺒﻠﺴﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻥﻮﻧﺎﻌﻳ ﺔﻴﺳﺎﺴﺣ ﺮﺜﻛﻷﺍ ﺹﺎﺨﺷﻷﺍ</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>ﻡﻮﻨﻟﺍ ﺽﺎﻔﺨﻧﺍ ﻝﺪﻌﻣ</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>. ِﻡْﻭَّﻨﻟﺍ ﻯَﻟِﺇ ِﺹْﺧَّﺸﻟﺍ ِﺓَﺟﺍَﺣ ِﺽﺍَﻓِﺧْﻧﺍ ِﺓَﻋْﺭُﺳِﻟ ٌﻑِﻋﺎﺿُﻣ</RestFallRateFactor.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>ﺔﺣﺍﺮﻟﺍ ﻝﺪﻌﻣ ﻒﻋﺎﻀﻣ</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>. ِﻡْﻭَّﻨﻟﺍ َﺀﺎﻨﺛﺃ ِﻥِﺋﺍَﻜﻟﺍ ِﺀﺍَﺧْﺭِﺗْﺳِﺍ ِﺓَﻋْﺭُﺳِﻟ ٌﻑِﻋﺎﺿُﻣ</RestRateMultiplier.description>
+  
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>ﺔﻣﺎﺴﻟﺍ ﺔﺌﻴﺒﻟﺍ ﺔﻣﻭﺎﻘﻣ</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>. ﺐﺳﺎﻨﺘﻣ ﻞﻜﺸﺑ ﻢﺴﺠﻟﺍ ﻲﻓ ﻡﻮﻤﺴﻠﻟ ﻞﻗﺃ ﻢﻛﺍﺮﺗ ﺙﻮﻠﺘﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻦﻋ ﺞﺘﻨﻳ ،ﻰﻠﻋﺃ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ. ﻡﺎﺴﻟﺍ ﻦﻘﺤﻟﺍ ﻭﺃ ﻢﺴﻟﺎﺑ ﺓﺮﺷﺎﺒﻤﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻦﻣ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﺔﺛﻮﻠﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍﻭ ،ﻡﺎﺴﻟﺍ ﻂﻗﺎﺴﺘﻟﺍﻭ ،ﻦﻔﻌﺘﻟﺍ ﺔﺤﺋﺍﺭﻭ ،ﺔﻣﺎﺴﻟﺍ ﺕﺍﺯﺎﻐﻟﺍ ﻦﻣ ﻲﻤﺤﻳ. ﺔﻴﺌﻴﺒﻟﺍ ﻡﻮﻤﺴﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﺔﻣﻭﺎﻘﻣ ﻯﺪﻣ</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>ﻡﻮﻤﺴﻟﺍ ﺔﻣﻭﺎﻘﻣ</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>. ﻡﻮﻤﺴﻟﺍ ﻢﻛﺍﺮﺗ ﺔﻣﻭﺎﻘﻣ ﻰﻠﻋ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﺓﺭﺪﻗ ﻯﺪﻣ</ToxicResistance.description>
+  
+  <!-- EN: wildness -->
+  <Wildness.label>ﺔﻳﺮﺑ</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>. ﺎﻬﻌﻣ ﻞﻣﺎﻌﺘﻟﺍﻭ ﺐﻳﺭﺪﺘﻟﺍﻭ ﺾﻳﻭﺮﺘﻟﺍ ﻲﻓ ﺎﻬﺘﻌﻴﺒﻄﺑ ﺐﻌﺻﺃ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ</Wildness.description>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>ﺔﺌﻓ</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>ﺔﺤﺼﻟﺍ ﻁﺎﻘﻧ ﺔﺒﺴﻧ</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>ﺔﻠﺘﻛ</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>ﻢﺳﺍ</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>ﺪﺟﻮﻳ ﻻ</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>ﺓﺩﻮﺟ</Quality.label>
+  
+</LanguageData>

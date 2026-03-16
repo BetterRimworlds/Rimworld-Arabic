@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic droner -->
+  <PsychicDroner.label>ﻲﺴﻔﻧ ﻥﺎﻨﻃ</PsychicDroner.label>
+  <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
+  <PsychicDroner.description>. ﻥﻮﻨﺠﻟﺍ ﻰﻟﺇ {0} ﺲﻨﺟ ﺩﺍﺮﻓﺃ ﻊﻓﺪﺗ {0} ﺲﻨﺟ ﻰﻠﻋ ﺔﻃﻮﺒﻀﻣ ﻲﺴﻔﻧ ﻥﺎﻨﻃ ﺔﻟﺁ</PsychicDroner.description>
+  <!-- EN: A psychic droner machine has begun affecting this region. -->
+  <PsychicDroner.letterText>. ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺮﻴﺛﺄﺘﻟﺍ ﻲﻓ ﻲﺴﻔﻧ ﻥﺎﻨﻃ ﺔﻟﺁ ﺕﺃﺪﺑ</PsychicDroner.letterText>
+  
+</LanguageData>

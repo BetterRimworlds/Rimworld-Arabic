@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>ﺮﺸﺒﻟﺍ ﻱﺩﺎﻴﺻ ﻊﻴﻄﻗ</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>. ﺮﺸﺒﻟﺍ ﺩﺭﺎﻄﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﻊﻴﻄﻗ</Manhunters.description>
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>. ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺎﻳﺮﻜﺴﻟﺎﺑ ﺔﺑﺎﺼﻣ ﺔﺸﺣﻮﺘﻣ ﺕﺎﻧﺍﻮﻴﺣ ﻙﺎﻨﻫ</Manhunters.arrivedLetter>
+  
+</LanguageData>

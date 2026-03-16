@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: botched my surgery -->
+  <BotchedMySurgery.stages.botched_my_surgery.label>ﺔﻠﺷﺎﻓ ﺔﺣﺍﺮﺟ</BotchedMySurgery.stages.botched_my_surgery.label>
+  
+  <!-- EN: broke up with me -->
+  <BrokeUpWithMe.stages.broke_up_with_me.label>ﻲﻔﻃﺎﻋ ﻝﺎﺼﻔﻧﺍ</BrokeUpWithMe.stages.broke_up_with_me.label>
+  
+  <!-- EN: broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>{0} ﻖﻳﺮﻃ ﻦﻋ ﻞﺼﻔﻧﺍ</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <!-- EN: I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>. ﺔﻣﺎﻤﻗ ﺔﻣﻮﻛ ُﺖﻨﻛ ﻮﻟ ﺎﻤﻛ ﻮﺘﻠﻟ ﻲﻨﻋ ﺍﻭّﻠﺨﺗ ﺪﻘﻟ</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  
+  <!-- EN: cheated on me -->
+  <CheatedOnMe.stages.cheated_on_me.label>ﺔﻴﻔﻃﺎﻋ ﺔﻧﺎﻴﺧ</CheatedOnMe.stages.cheated_on_me.label>
+  
+  <!-- EN: cheated on by {0} -->
+  <CheatedOnMeMood.stages.cheated_on_by.label>{0} ﻦﻣ ﺔﻧﺎﻴﺧ</CheatedOnMeMood.stages.cheated_on_by.label>
+  <!-- EN: How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.cheated_on_by.description>!ﻲﻨﻧﻮﺨﻳ ﻥﺃ ﻢﻫﺪﺣﻷ ﻦﻜﻤﻳ ﻒﻴﻛ</CheatedOnMeMood.stages.cheated_on_by.description>
+  
+  <!-- EN: chitchat -->
+  <Chitchat.stages.chitchat.label>ﺓﺮﺛﺮﺛ</Chitchat.stages.chitchat.label>
+  
+  <!-- EN: crashed together -->
+  <CrashedTogether.stages.crashed_together.label>ﻞﺧﺍﺪﺘﻣ ﻡﺍﺪﻄﺻﺍ</CrashedTogether.stages.crashed_together.label>
+  
+  <!-- EN: deep talk -->
+  <DeepTalk.stages.deep_talk.label>ﻖﻴﻤﻋ ﺚﻳﺪﺣ</DeepTalk.stages.deep_talk.label>
+  
+  <!-- EN: divorced me -->
+  <DivorcedMe.stages.divorced_me.label>ﻲﻨﻗّﻠﻃ</DivorcedMe.stages.divorced_me.label>
+  
+  <!-- EN: divorced by {0} -->
+  <DivorcedMeMood.stages.divorced_by.label>{0} ﺔﻄﺳﺍﻮﺑ ﻕَّﻟَﻃُﻣ</DivorcedMeMood.stages.divorced_by.label>
+  <!-- EN: We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.divorced_by.description>. ﺍًﺑﺭﺇ ﻩﻮﻗّﺰﻣ ﺪﻗﻭ ،ﺍًﻣﺍﺰﺘﻟﺍ ﺎﻨﻌﻄﻗ ﺪﻘﻟ</DivorcedMeMood.stages.divorced_by.description>
+  
+  <!-- EN: failed to romance me -->
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>ﻲﻌﻣ ﺔﻟﺯﺎﻐﻤﻟﺍ ﻞﺸﻓ</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  
+  <!-- EN: had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>{0} ـﻝ ﻱﺪﺼﺗ</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <!-- EN: Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>. ًﺎﻴﻔﻃﺎﻋ ﻲﻨﻣ ﺏﺮﻘﺘﻟﺍ ﻪﺒﺣﺃ ﻻ ﺺﺨﺷ ﻝﻭﺎﺣ</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  
+  <!-- EN: forced me to take drugs -->
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻰﻠﻋ ﺮﺒﺟُﺃ</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  
+  <!-- EN: forced to take drugs -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻰﻠﻋ ﺭﺎﺒﺟﺇ</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>. ﺓﺭﺍﺬﻘﻟﺎﺑ ﺮﻌﺷﺃ! ﺕﺮﺒﺟُﺃ ﻲﻨﻨﻜﻟ. ﺍًﺪﺑﺃ ﻱﺭﺎﻴﺘﺧﺎﺑ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻰﻃﺎﻌﺗﺃ ﻦﻟ ؛ﻝﻮﺤﻜﻟﺍ ﻦﻋ ﻊﻨﺘﻤﻣ ﺎﻧﺃ</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  
+  <!-- EN: forced me to take luciferium -->
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>ﻡﻮﻳﺮﻔﻴﺳﻮﻟ ﻝﻭﺎﻨﺗ ﻰﻠﻋ ﺮﺒﺟُﺃ</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  
+  <!-- EN: forced to take luciferium -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>ﻡﻮﻳﺮﻔﻴﺳﻮﻟ ﻰﻠﻋ ﺭﺎﺒﺟﺇ</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>. ﺙﻮﻠﺘﻟﺎﺑ ﺮﻌﺷﺃ! ُﺕﺮﺒﺟُﺃ ﻲﻨﻨﻜﻟ. ﻱﺭﺎﻴﺘﺧﺎﺑ ًﺍﺪﺑﺃ ﻡﻮﻳﺮﻔﻴﺳﻮﻟ ﻝﻭﺎﻨﺗﺃ ﻦﻟ ؛ﺪﺴﺠﻟﺍ ﺀﺎﻘﻨﺑ ﻦﻣﺅﺃ ﺎﻧﺃ</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  
+  <!-- EN: got some lovin' -->
+  <GotSomeLovin.stages.got_some_lovin.label>ﺔﻤﻴﻤﺣ ﺕﺎﻈﺤﻟ</GotSomeLovin.stages.got_some_lovin.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.got_some_lovin.description>. ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺔﺒﻋﻼﻣ ﻞﺜﻣ ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻊﻓﺮﻳ ﺀﻴﺷ ﺪﺟﻮﻳ ﻻ</GotSomeLovin.stages.got_some_lovin.description>
+  
+  <!-- EN: angering fight -->
+  <HadAngeringFight.stages.angering_fight.label>ﺭﺎﺠﺷ ﺓﺭﺎﺛﺇ</HadAngeringFight.stages.angering_fight.label>
+  
+  <!-- EN: cathartic fight -->
+  <HadCatharticFight.stages.cathartic_fight.label>ﺉِّﺪﻫُﻣ ﻝﺎﺘﻗ</HadCatharticFight.stages.cathartic_fight.label>
+  
+  <!-- EN: harmed me -->
+  <HarmedMe.stages.harmed_me.label>ﻲﻧﺍﺫﺃ</HarmedMe.stages.harmed_me.label>
+  
+  <!-- EN: honeymoon phase -->
+  <HoneymoonPhase.stages.honeymoon_phase.label>ﻞﺴﻌﻟﺍ ﺮﻬﺷ ﺓﺮﺘﻓ</HoneymoonPhase.stages.honeymoon_phase.label>
+  
+  <!-- EN: insulted -->
+  <Insulted.stages.insulted.label>ﻥﺎﻬﻣ</Insulted.stages.insulted.label>
+  
+  <!-- EN: insulted -->
+  <InsultedMood.stages.insulted.label>ﻥﺎﻬﻣ</InsultedMood.stages.insulted.label>
+  <!-- EN: I've been directly insulted! What an awful person! -->
+  <InsultedMood.stages.insulted.description>!ﻊﻴﻈﻓ ﺺﺨﺷ ﻦﻣ ﻪﻟ ﺎﻳ! ﺮﺷﺎﺒﻣ ﻞﻜﺸﺑ ُﺖﻨﻫُﺃ ﺪﻘﻟ</InsultedMood.stages.insulted.description>
+  
+  <!-- EN: I rejected their proposal -->
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>ﻢﻬﺣﺍﺮﺘﻗﺍ ُﺖﻀﻓﺭ</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  
+  <!-- EN: killed my bonded animal -->
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>ﻖﺛﻮﻤﻟﺍ ﻲﻧﺍﻮﻴﺣ ﻞﺘﻗ</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  
+  <!-- EN: killed my brother -->
+  <KilledMyBrother.stages.killed_my_brother.label>ﻲﺧﺃ ﻞﺘﻗ</KilledMyBrother.stages.killed_my_brother.label>
+  
+  <!-- EN: killed my daughter -->
+  <KilledMyDaughter.stages.killed_my_daughter.label>ﻲﺘﻨﺑﺍ ﺖﻠﺘﻗ</KilledMyDaughter.stages.killed_my_daughter.label>
+  
+  <!-- EN: killed my father -->
+  <KilledMyFather.stages.killed_my_father.label>ﻱﺪﻟﺍﻭ ﻞﺘﻗ</KilledMyFather.stages.killed_my_father.label>
+  
+  <!-- EN: killed my fiance -->
+  <KilledMyFiance.stages.killed_my_fiance.label>ﻲﺒﻴﻄﺧ ﻞﺘﻗ</KilledMyFiance.stages.killed_my_fiance.label>
+  
+  <!-- EN: killed my friend -->
+  <KilledMyFriend.stages.killed_my_friend.label>ﻲﻘﻳﺪﺻ ﻞﺘﻗ</KilledMyFriend.stages.killed_my_friend.label>
+  
+  <!-- EN: killed my kin -->
+  <KilledMyKin.stages.killed_my_kin.label>ﻲﺑﺭﺎﻗﺃ ﻞﺘﻗ</KilledMyKin.stages.killed_my_kin.label>
+  
+  <!-- EN: killed my lover -->
+  <KilledMyLover.stages.killed_my_lover.label>ﻲﺒﻴﺒﺣ ﻞﺘﻗ</KilledMyLover.stages.killed_my_lover.label>
+  
+  <!-- EN: killed my mother -->
+  <KilledMyMother.stages.killed_my_mother.label>ﻲﻣﺃ ﻞﺘﻗ</KilledMyMother.stages.killed_my_mother.label>
+  
+  <!-- EN: killed my rival -->
+  <KilledMyRival.stages.killed_my_rival.label>ﻲﻤﺼﺧ ﺖﻠﺘﻗ</KilledMyRival.stages.killed_my_rival.label>
+  
+  <!-- EN: killed my sister -->
+  <KilledMySister.stages.killed_my_sister.label>ﻲﺘﺧﺃ ﺖﻠﺘﻗ</KilledMySister.stages.killed_my_sister.label>
+  
+  <!-- EN: killed my son -->
+  <KilledMySon.stages.killed_my_son.label>ﻲﻨﺑﺍ ﻞﺘﻗ</KilledMySon.stages.killed_my_son.label>
+  
+  <!-- EN: killed my spouse -->
+  <KilledMySpouse.stages.killed_my_spouse.label>ﻲﺘﺟﻭﺯ/ﻲﺟﻭﺯ ﺖﻠﺘﻗ</KilledMySpouse.stages.killed_my_spouse.label>
+  
+  <!-- EN: kind words -->
+  <KindWords.stages.kind_words.label>ﺔﺒﻴﻃ ﺕﺎﻤﻠﻛ</KindWords.stages.kind_words.label>
+  
+  <!-- EN: kind words -->
+  <KindWordsMood.stages.kind_words.label>ﺔﺒﻴﻃ ﺕﺎﻤﻠﻛ</KindWordsMood.stages.kind_words.label>
+  <!-- EN: I've been bestowed with kind words! What a nice person! -->
+  <KindWordsMood.stages.kind_words.description>!ﻒﻴﻄﻟ ﺺﺨﺷ ﻦﻣ ﻪﻟ ﺎﻳ! ﺔﺒﻴﻃ ﺕﺎﻤﻠﻛ ﺖﻠﻧ ﺪﻘﻟ</KindWordsMood.stages.kind_words.description>
+  
+  <!-- EN: rapport built -->
+  <RapportBuilt.stages.rapport_built.label>ﺔﻔﻟﺃ ﺀﺎﻨﺑ</RapportBuilt.stages.rapport_built.label>
+  
+  <!-- EN: rebuffed me -->
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>ﻲﻨﻀﻓﺭ</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  
+  <!-- EN: rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>{0} ﻦﻣ ﺽﻮﻓﺭُﻣ</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>. ﺊﻴﺳ ﺭﻮﻌﺷ ﻪﻧﺇ. ﺓﺩﺭﺎﺑ ﺔﻠﻣﺎﻌﻣ ﺖﻴﻘﻠﺗ ﻲﻨﻨﻜﻟ ،ﺔﻴﻣﺍﺮﻏ ﺔﻗﻼﻋ ﺀﺎﻨﺑ ُﺖﻟﻭﺎﺣ</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  
+  <!-- EN: recruited me -->
+  <RecruitedMe.stages.recruited_me.label>ﻲﻧﺩّﻨﺟ</RecruitedMe.stages.recruited_me.label>
+  
+  <!-- EN: rejected my proposal -->
+  <RejectedMyProposal.stages.rejected_my_proposal.label>ﻲﺣﺍﺮﺘﻗﺍ ﺾﻓﺭ</RejectedMyProposal.stages.rejected_my_proposal.label>
+  
+  <!-- EN: my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>{0} ﻞﺑِﻗ ﻦﻣ ﻲﺣﺍﺮﺘﻗﺍ ﺾﻓُﺭ</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <!-- EN: I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>. ﻮﺘﻠﻟ ُﺖﺿِﻓُﺭ ﻲﻨﻨﻜﻟﻭ ،ﺝﺍﻭﺰﻠﻟ ٌﺭَّﺪﻗُﻣ ﺎﻨﻧﺃ ُﺕﺪﻘﺘﻋﺍ</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  
+  <!-- EN: rescued me -->
+  <RescuedMe.stages.rescued_me.label>ﻲﻧﺬﻘﻧﺃ</RescuedMe.stages.rescued_me.label>
+  
+  <!-- EN: rescued me -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>ﻲﻧﺬﻘﻧﺃ</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>. ﺔﻳﺎﻐﻠﻟ ﻦﺘﻤﻣ ﺎﻧﺃ. ﻙﺎﻨﻫ ﺖﻧﺎﺣ ﺪﻗ ﻲﺘﻳﺎﻬﻧ ﻥﺃ ﻦﻇﺃ ُﺕﺪﻛ! ﺎﻣ ﺺﺨﺷ ﻞﺒﻗ ﻦﻣ ُﺕﺬﻘﻧُﺃ</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  
+  <!-- EN: slighted -->
+  <Slighted.stages.slighted.label>ﻥﺍَﻫُﻣ</Slighted.stages.slighted.label>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>ﻯَﺩْﻫُﻣ ﻂﺒﺗﺮﻣ ﻥﺍﻮﻴﺣ</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>!ﻖﺛﻮﻤﻟﺍ ﻒﻴﻟﻷﺍ ﻲﻧﺍﻮﻴﺤﺑ ﻉﺮﺒﺗ ﺪﻘﻟ</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>. ﻖﺛﻮﻤﻟﺍ ﻲﻧﺍﻮﻴﺣ ﻦﻣ ﺖﺼﻠﺨﺗ</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>ﻯَﺩْﻫُﻣ ﻂﺒﺗﺮﻣ ﻥﺍﻮﻴﺣ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>!ﻖﺛﻮﻤﻟﺍ ﻒﻴﻟﻷﺍ ﻲﻧﺍﻮﻴﺣ ﻉﺮﺒﺗ ﺪﻘﻟ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>. ﻖﺛﻮﻤﻟﺍ ﻲﻧﺍﻮﻴﺣ ﻦﻣ ﺖﺼﻠﺨﺗ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- EN: loved one sold -->
+  <SoldMyLovedOne.stages.loved_one_sold.label>ﻉﺎﺒﻣ ﺏﻮﺒﺤﻣ</SoldMyLovedOne.stages.loved_one_sold.label>
+  <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
+  <SoldMyLovedOne.stages.loved_one_sold.description>!ﻢﺤﻟ ﺔﻌﻄﻘﻛ ﺮﺟﺎﺗ ﻰﻟﺇ ﻪﺒﺣﺃ ﺺﺨﺷ ﻊﻳُﺑ</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>. ﺐﺣﺃ ﻦﻣ ُﺖﻌﺑ</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  
+</LanguageData>

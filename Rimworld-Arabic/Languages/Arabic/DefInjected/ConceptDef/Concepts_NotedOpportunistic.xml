@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>ﺏﺍﻮﺑﻷﺍ ﻰﻠﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﺠﻫ</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>. ﺔﻄﺸﻨﻟﺍ ﺮﻴﻏ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺍًﻀﻳﺃ ﻢﺟﺎﻬﺘﺳﻭ. ﺎﻬﻟﻼﺧ ﻦﻣ ﻙﺮﺤﺘﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺪﺣﺃ ﺕﺃﺭ ﺍﺫﺇ ﺏﺍﻮﺑﻷﺍ ﻢﺟﺎﻬﺘﺳ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>ﺮﻴﺗﺍﻮﻔﻟﺍ ﺔﻣﻼﻋ</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>. ﺎﻬﺤﺑﺫ ﺐﺠﻳ ﻲﺘﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍﻭ ،ﺎﻬﻌﻨﺻ ﺐﺠﻳ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍﻭ ،ﺎﻬﻴﻬﻃ ﺐﺠﻳ ﻲﺘﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ ،ﺎﻨﻫ ". ﺮﻴﺗﺍﻮﻔﻟﺍ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍﻭ ﺔﻟﻭﺎﻄﻟﺍ ﺩﺪﺣ ،ﺔﻟﻭﺎﻃ ﻰﻠﻋ ﻥﻮﻠﻤﻌﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﺘﻟ</BillsTab.helpText>
+  
+  <!-- EN: books -->
+  <Books.label>ﺐﺘﻛ</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>'. ﻞﻴﺻﺎﻔﺘﻟﺍ 'ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﺢﺘﻓﻭ ﻩﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻦﻴﻌﻣ ﺏﺎﺘﻛ ﺕﺍﺮﻴﺛﺄﺗ ﺔﻳﺅﺭ ﻚﻨﻜﻤﻳ. ﺪﻳﺰﻤﻟﺍﻭ ،ﺚﺤﺒﻟﺍ ﺢﺘﻓﻭ ،ﺕﺍﺭﺎﻬﻤﻟﺍ ﺏﺎﺴﺘﻛﺍﻭ ،ﻪﻴﻓﺮﺘﻠﻟ ﺐﺘﻜﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺃﺮﻘﻳ\n\n'. ﺓﺀﺍﺮﻘﻟﺍ ﺕﺎﺳﺎﻴﺳ 'ﻦﻳﻮﻜﺘﺑ ﻢﻗﻭ ' ﺺﻴﺼﺨﺗ 'ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ ،ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺃﺮﻘﻴﺳ ﺎﻣ ﺭﺎﻴﺘﺧﻻ\n\n. ﺔﻓﺮﻐﻟﺍ ﺲﻔﻧ ﻲﻓ ﺓﺀﺍﺮﻘﻟﺍ ﻦﻣ ﺐﺴﺘﻜﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍﻭ ،ﺓﺀﺍﺮﻘﻟﺍ ﻦﻣ ﺔﺒﺴﺘﻜﻤﻟﺍ ﺓﺮﺒﺨﻟﺍﻭ ،ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﻲﺒﻠﺳ ﻞﻜﺸﺑ ﺐﺘﻜﻟﺍ ﻑﻮﻓﺭ ﺪﻳﺰﺗ. ﺐﺘﻜﻟﺍ ﻑﺭ ﺔﻴﻟﺎﻤﺟ ﺓﺩﺎﻳﺯﻭ ،ﺎﻬﻨﻣ ﺏﺮﻘﻟﺎﺑ ﻲﺒﻠﺳ ﻞﻜﺸﺑ ﺓﺀﺍﺮﻘﻟﺍ ﻞﻤﻋﻭ ﻱﺮﻜﻔﻟﺍ ﻞﻤﻌﻟﺍ ﺰﻳﺰﻌﺘﻟ ﺐﺘﻜﻟﺍ ﻑﻮﻓﺭ ﻲﻓ ﺐﺘﻜﻟﺍ ﻥّﺰﺧ</Books.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>ﺔﻳﺭﺍﺪﻣ ﺓﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>. ﺎﻬﻨﻣ ﺏﺮﻘﻟﺎﺑ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﻥﻭﺰﺨﻣ ﻊﺿﻭﻭ ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﺀﺎﻨﺑ ﺐﺠﻳ ،ﻦﻴﻳﺭﺍﺪﻤﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻰﻟﺇ ﺔﻀﻔﻟﺍ ﻭﺃ ﺮﺻﺎﻨﻌﻟﺍ ﻝﺎﺳﺭﻹ</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>ﺮﺳﺃ</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>. ﻩُﺭْﺳَﺃ ﻚﻨﻜﻤﻳ ،ﺍًﺘﻴﻣ ﺲﻴﻟ ﻪﻨﻜﻟﻭ ﺍًﺿﺭﺃ ﻭﺪﻋ ﻂﻘﺴﻳ ﺎﻣﺪﻨﻋ\n\n. ﺮﺳﺃ ﺩﺪﺣﻭ ،ﻝّﻄﻌﻤﻟﺍ ﻭﺪﻌﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ،ﺍًﻨﻃﻮﺘﺴﻣ ﺩﺪﺣ ،ﺮﺳﻸﻟ\n\n. ﺀﺎﻨﺠﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﻻ ﺹّﺼﺧُﻣ ﻲﻓﺎﺿﺇ ﺮﻳﺮﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>. ﻩَﺭْﺳَﺃ ﻚﻨﻜﻤﻳ ،ﺍًﺘﻴﻣ ﺲﻴﻟ ﻪﻨﻜﻟﻭ ﺍًﺿﺭﺃ ﻭﺪﻋ ﻂﻘﺴﻳ ﺎﻣﺪﻨﻋ\n\n. ﺮﺳﺃ ﺩﺪﺣﻭ ،ﻝّﻄﻌﻤﻟﺍ ﻭﺪﻌﻟﺍ ﻰﻠﻋ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ،ﺍًﻨﻃﻮﺘﺴﻣ ﺩﺪﺣ ،ﺮﺳﻸﻟ\n\n. ﺀﺎﻨﺠﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﻻ ﺹّﺼﺧُﻣ ﻲﻓﺎﺿﺇ ﺮﻳﺮﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ</Capturing.helpTextController>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>ﺏﺍﻮﺑﻷﺍ ﺢﺘﻓ ﺕﺎﻋﺮﺳ</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>. ﺎﻬﺗﺩﺎﻣ ﺐﺴﺣ ﺔﻔﻠﺘﺨﻣ ﺕﺎﻋﺮﺴﺑ ﺏﺍﻮﺑﻷﺍ ﺢﺘﻔﺗ\n\n. ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺄﻃﺎﺒﺘﻴﺳ ﺎﻬﻟﻼﺧ ﻦﻣ ﺮﻤﻳ ﺺﺨﺷ ﻱﺃ. ﺪﻳﺪﺷ ﺀﻄﺒﺑ ﺔﻳﺮﺠﺤﻟﺍ ﺏﺍﻮﺑﻷﺍ ﺢﺘﻔﺗ: ﺮﻳﺬﺤﺗ</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>ﻝﺎﺘﻘﻠﻟ ﺪﻴﻨﺠﺘﻟﺍ</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>. ﺪﻴﻨﺠﺘﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍﻭ ﻢﻫﺪﻳﺪﺤﺘﺑ ﻢﻫﺪﻴﻨﺠﺘﺑ ﻢﻗ ،ﻝﺎﺘﻘﻟﺍ ﻲﻓ ًﺓﺮﺷﺎﺒﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺎﺑ ﻢﻜﺤﺘﻠﻟ\n\n. ﻦﻜﻣﺃ ﻥﺇ ﺎﻬﻧﻮﻣﺪﺨﺘﺴﻴﺳ ﺔﺤﻠﺳﺃ ﻢﻬﻳﺪﻟ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ. ﺔﻴﻟﺎﺘﻗ ﺕﺍﺀﺍﺮﺟﺇ ﺫﺎﺨﺗﺍ ﻰﻠﻋ ﺮﺼﺘﻘﻳﻭ ،ﻪﺑ ﻩﺮﻣﺄﺗ ﺎﻣ ﻂﻘﻓ ﺪﻨﺠﻤﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﻔﻴﺳ\n\n. ﺀﺎﺴﻌﺗ ﻥﻮﺤﺒﺼﻳﻭ ﻥﻮﻋﻮﺠﻳ ﻑﻮﺳ - ﺪﺑﻷﺍ ﻰﻟﺇ ﻦﻳﺪﻨﺠﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺮﺘﺗ ﻻ</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻥﺎﻣﺩﺇ</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>. ﻢﻬﺗﺎﺟﺎﻴﺘﺣﺍ ﺔﻣﻼﻋ ﻲﻓ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻲﻓ ﻚﻴﻨﻃﻮﺘﺴﻣ ﺔﺒﻏﺭ ﺺﺤﻓ ﻚﻨﻜﻤﻳ\n\n. ﺔﻔﻠﺘﺨﻣ ﺔﻴﺒﻠﺳ ﺔﻴﺒﻧﺎﺟ ﺭﺎﺛﺁ ﺎﻬﻟ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍﻭ " ﺏﺎﺤﺴﻧﺍ " ﺔﻟﺎﺣ ﻰﻟﺇ ﻝﻮﺤﺘﻳ ﻢﻬﻧﺎﻣﺩﺇ ﻥﺈﻓ ،ﺮﻔﺼﻟﺍ ﺪﻨﻋ ﻢﻬﺘﺟﺎﺣ ﻯﻮﺘﺴﻣ ﻥﺃ ﺎﻤﻟﺎﻃ\n\n. ﺕﺍﺭﺪﺨﻤﻟﺍ ﺔﺟﺎﺣ ﻲﻔﺘﺨﺘﺳﻭ ﻢﻬﻧﺎﻣﺩﺇ ﻲﻬﺘﻨﻴﺳ ،ﺏﺎﺤﺴﻧﻻﺍ ﻦﻣ ﺔﻴﻓﺎﻛ ﺓﺮﺘﻓ ﺪﻌﺑ ،ﻚﻟﺫ ﻊﻣﻭ</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>ﺔﻳﻭﺩﻷﺍ ﻕﺮﺣ</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>. ﺓﺭﺎﺿ ﺕﺎﻧﺎﻣﺩﺇ ﻰﻟﺇ ﺍًﻀﻳﺃ ﻱﺩﺆﺗ ﺪﻗ ﺎﻬﻨﻜﻟﻭ ،ﺓﺪﻴﻔﻣ ﺮﻴﻗﺎﻘﻌﻟﺍ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ\n\n. ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ ﻲﻓ ﺎﻬﻗﺮﺣ ﺭﺎﻴﺧ ﻚﻳﺪﻟ ،ﻚﺘﻨﻃﻮﺘﺴﻣ ﻲﻓ ﺮﻴﻗﺎﻘﻌﻟﺍ ﺐﻨﺠﺗ ﻲﻓ ﺐﻏﺮﺗ ﺖﻨﻛ ﺍﺫﺇ</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>ﺔﻳﻭﺩﻷﺍ ﺕﺎﺳﺎﻴﺳ</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>. ﺀﺍﺪﻌﺳ ﺀﺎﻘﺒﻠﻟ ﺍًﻴﻣﻮﻳ ﺓﺮﻴﺑ ﻥﻮﺑﺮﺸﻳ ﻭﺃ ،ﻡﺎﻈﺘﻧﺎﺑ ﻯﻭﺪﻌﻠﻟ ﺓﺩﺎﻀﻣ ﺔﻳﻭﺩﺃ ﻥﻮﻟﻭﺎﻨﺘﻳ ﻢﻬﻠﻌﺟ ﻚﻨﻜﻤﻳ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ. ﻦﻴﻌﻣ ﻲﻨﻣﺯ ﻝﻭﺪﺠﻟ ﺍًﻘﻓﻭ ﺓﺩﺪﺤﻣ ﺔﻳﻭﺩﺃ ﻝﻭﺎﻨﺘﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻒﻴﻠﻜﺗ ﻚﻨﻜﻤﻳ\n\n. ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺔﺳﺎﻴﺴﻟﺍ ﻩﺬﻫ ﻒﻴﻠﻜﺗ ﻚﻨﻜﻤﻳ ﻢﺛ. ﺓﺪﻳﺪﺟ ﺔﻳﻭﺩﺃ ﺔﺳﺎﻴﺳ ﺊﺸﻧﺃ ". ﺔﻳﻭﺩﻷﺍ ﺕﺎﺳﺎﻴﺳ ﺓﺭﺍﺩﺇ " ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍﻭ " ﻒﻴﻠﻛَﺗ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ\n\n!ﺔﺻﺎﺨﻟﺍ ﻢﻬﺗﺎﺒﻏﺭ ﺍًﻀﻳﺃ ﻥﻮﻌﺒﺘﻳ ﻢﻬﻨﻜﻟ ،ﻪﻠﻌﻓ ﻢﻬﻴﻠﻋ ﺐﺠﻳ ﺎﻤﺑ ﻢﻫﺭﺎﺒﺧﺇ ﻚﻨﻜﻤﻳ. ﻢﻬﺘﺳﺎﻴﺳ ﻲﻓ ﺔﺟﺭﺪﻤﻟﺍ ﺮﻴﻏ ﺔﻳﻭﺩﻷﺍ ﻝﻭﺎﻨﺗ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻊﻗﺍﻮﻣ ﺪﻳﺪﺤﺗ</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>. ﻂﺧ ﻞﻜﺷ ﻰﻠﻋ ﻦﻳﺪﻨﺠﻤﻟﺍ ﻚﻴﻠﺗﺎﻘﻣ ﻞﻴﻜﺸﺘﻟ ﺐﺤﺳﺍﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ\n\n!ﺔﺑﺎﺻﻹﺍ ﺔﻠﻬﺳ ﺔﻌﻤﺠﺘﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ – ﺍﻮﻗﺮﻔﺗ</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>. ﻂﺧ ﻞﻜﺷ ﻰﻠﻋ ﻦﻳﺪﻨﺠﻤﻟﺍ ﻚﻴﻠﺗﺎﻘﻣ ﻞﻴﻜﺸﺘﻟ ﺐﺤﺳﺍﻭ ﺮﺴﻳﻷﺍ ﻝّﻐﺸﻤﻟﺍ ﺭﺯ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﺎﺑ ﻂﻐﺿﺍ\n\n!ﺔﺑﺎﺻﻹﺍ ﺔﻠﻬﺳ ﺔﻌﻤﺠﺘﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ - ﺍﻮﻗﺮﻔﺗ</GroupGotoHereDragging.helpTextController>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>ﺭﺎﺠﺘﻟﺍ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺍ</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpText>. ﻡﺎﻬﻔﺘﺳﺍ ﺔﻣﻼﻋ ﻢﻬﺳﻭﺅﺭ ﻕﻮﻓ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻰﻟﺇ ﺙﺪﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n. ﻡﺎﻬﻔﺘﺳﺍ ﺔﻣﻼﻋ ﻪﺳﺃﺭ ﻕﻮﻓ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ًﺍﺮﻤﻌﺘﺴﻣ ﺮﺘﺧﺍ</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>. ﻢﻬﺳﻭﺅﺭ ﻕﻮﻓ ﻡﺎﻬﻔﺘﺳﺍ ﺔﻣﻼﻋ ﻢﻬﻳﺪﻟ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻰﻟﺇ ﺙﺪﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n. ﻪﺳﺃﺭ ﻕﻮﻓ ﻡﺎﻬﻔﺘﺳﺍ ﺔﻣﻼﻋ ﻪﻳﺪﻟ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻰﻠﻋ ﻞﻐﺸﻤﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ًﺍﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ</InteractingWithTraders.helpTextController>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ ﻡﺍﺪﺨﺘﺳﺍ</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>. ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻭ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ًﺍﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ ،ﻞﺻﺍﻮﺘﻠﻟ</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>. ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻮﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ًﺍﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ ،ﻞﺻﺍﻮﺘﻠﻟ</OpeningComms.helpTextController>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>ﺀﺎﻨﺠﺴﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>. ﻢﻬﻌﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺔﻴﻔﻴﻛ ﺪﻳﺪﺤﺘﻟ ﻦﻴﺠﺴﻠﻟ " ﻦﻴﺠﺳ " ﺐﻳﻮﺒﺗ ﻰﻟﺇ ﺮﻈﻧﺍ\n\n. ﻢﻬﺘﺤﺻ ﺐﻳﻮﺒﺗ ﻲﻓ ﻦﻴﺠﺴﻠﻟ ﺔﻴﺋﺍﺬﻏ ﺩﻮﻴﻗ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ. ﺎﻫﺎﻘﻠﺘﻳ ﻲﺘﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﻉﻮﻧﻭ ،ﻪﻣﺍﺪﻋﺇ ﻭﺃ ﻪﻠﻫﺎﺠﺗ ﻭﺃ ﻩﺪﻴﻨﺠﺗ ﻢﺘﻴﺳ ﻥﺎﻛ ﺍﺫﺇ ﺎﻣ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ\n\n. ﻦﻴﺠﺴﻟﺍ ﻊﻣ ﻥﻮﻠﻋﺎﻔﺘﻴﺳ " ﺱﺭﺎﺣ " ﻞﻤﻋ ﻉﻮﻧ ﻢﻬﻳﺪﻟ ﻦﻳﺬﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>ﺕﺎﺒﻠﻄﻟﺍ ﻢﻛﺍﺮﺗ</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>. ﻦﻳﺪﻨﺠﻤﻟﺍ ﺮﻴﻏ ﺩﺍﺮﻓﻷﺍ ﻒﻴﻠﻜﺗ ﺪﻨﻋ ﺍًﻀﻳﺃ ﻞﻤﻌﻳ ﺍﺬﻫ. "Shift" ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﺎﺑ ﻂﻐﻀﻟﺎﺑ ﺭﺎﻈﺘﻧﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺮﻣﺍﻭﺃ ﺓﺪﻋ ﻊﺿﻭ ﻚﻨﻜﻤﻳ ،ﺩﺍﺮﻓﻸﻟ ﺮﻣﺍﻭﻷﺍ ﺭﺍﺪﺻﺇ ﺪﻨﻋ</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>. ﻦﻳﺪﻨﺠﻤﻟﺍ ﺮﻴﻏ ﺩﺍﺮﻓﻷﺍ ﻒﻴﻠﻜﺗ ﺪﻨﻋ ﺍًﻀﻳﺃ ﻞﻤﻌﻳ ﺍﺬﻫ. {Key:QueueOrder} ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﻀﻟﺎﺑ ﺭﺎﻈﺘﻧﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺮﻣﺍﻭﺃ ﺓﺪﻋ ﻊﺿﻭ ﻚﻨﻜﻤﻳ ،ﺩﺍﺮﻓﻸﻟ ﺮﻣﺍﻭﻷﺍ ﺭﺍﺪﺻﺇ ﺪﻨﻋ</QueueOrders.helpTextController>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>ﻞﻓﺍﻮﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>. ﻢﻟﺎﻌﻟﺍ ﺽﺮﻋ ﻲﻓ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﺮﻣﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ ﺓﺩﺎﻋﺇ ﺔﻟﻮﻬﺴﺑ ﻚﻨﻜﻤﻳ ،ﺀﺎﻘﻟ ﺪﻌﺑ</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>ﺫﺎﻘﻧﺇ</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>. ﺏﺎﺼﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ ﻢﺛ ﺍًﻤﻴﻠﺳ ﺍًﻨﻃﻮﺘﺴﻣ ﺩﺪﺣ ،ﺏﺎﺼﻣ ﺺﺨﺷ ﺫﺎﻘﻧﻹ\n\n. ﻢﻫﺪﻴﻨﺠﺗ ﻢﺛ ﻢﻫﺮﺳﺄﺑ ﻢﻘﻓ ،ﻢﻬﻣﺎﻤﻀﻧﺍ ﻥﺎﻤﺿ ﺪﻳﺮﺗ ﺖﻨﻛ ﺍﺫﺇ. ﺀﺎﻔﺸﻟﺍ ﺪﻌﺑ ﺪﻌﺘﺒﻳ ﺪﻗ. ﺓﺭﻭﺮﻀﻟﺎﺑ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻟﺇ ﻢﻀﻨﻳ ﻻ ﺪﻘﻓ ،ﻦﻃﻮﺘﺴﻣ ﺮﻴﻏ ﺍًﺼﺨﺷ ﺕﺬﻘﻧﺃ ﺍﺫﺇ</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>. ﺏﺎﺼﻤﻟﺍ ﻰﻠﻋ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ ﻢﺛ ﺍًﻤﻴﻠﺳ ﺍًﻨﻃﻮﺘﺴﻣ ﺩﺪﺣ ،ﺏﺎﺼﻣ ﺺﺨﺷ ﺫﺎﻘﻧﻹ\n\n. ﻢﻫﺪﻴﻨﺠﺗﻭ ﻢﻫﺮﺳﺄﺑ ﻢﻗ ،ﻢﻬﻣﺎﻤﻀﻧﺍ ﻥﺎﻤﺿ ﺪﻳﺮﺗ ﺖﻨﻛ ﺍﺫﺇ. ﻲﻓﺎﻌﺘﻟﺍ ﺪﻌﺑ ﺔﻃﺎﺴﺒﺑ ﻞﺣﺮﻳ ﺪﻗ. ﺓﺭﻭﺮﻀﻟﺎﺑ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻟﺇ ﻢﻀﻨﻳ ﻻ ﺪﻘﻓ ،ﻦﻃﻮﺘﺴﻣ ﺮﻴﻏ ﺍًﺼﺨﺷ ﺕﺬﻘﻧﺃ ﺍﺫﺇ</Rescuing.helpTextController>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>ﺔﻋﺍﺭﺰﻠﻟ ﺕﺎﺒﻧ ﺪﻳﺪﺤﺗ</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>!ﺭﺎﺠﺷﻷﺍ ﺔﻋﺍﺭﺯ ﻰﺘﺣ ﻚﻨﻜﻤﻳ. ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻪﻋﺭﺰﺗ ﺎﻣ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ\n\n". ﺔﻋﺍﺭﺯ " ﺭﺯ ﻕﻮﻓ ﺮﻘﻨﻟﺍﻭ ، " ﺔﻋﺍﺭﺰﻟﺍ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﻭ ،ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﺪﻳﺪﺤﺗ ﻯﻮﺳ ﻚﻴﻠﻋ ﺎﻣ</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>ﻑﻮﻓﺭ</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>. ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻻﻭ ﺍًﺪﺑﺃ ﺭﻮﻫﺪﺘﺗ ﻦﻟ ﻑﻮﻓﺮﻟﺍ ﻰﻠﻋ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ. ﺔﻏﺭﺎﻔﻟﺍ ﺽﺭﻷﺍ ﻪﻧﺰﺨﺗ ﺎﻣ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﻑﻮﻓﺮﻟﺍ ﻥﺰﺨﺗ\n\n'. ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺑﺭ 'ﻕﻮﻓ ﺮﻘﻧﺍ ﻢﺛ ،ﺮﺜﻛﺃ ﻭﺃ ﺍًﻓﻮﻓﺭ ﺩﺪﺣ ،ًﻻﻭﺃ. ﺓﺪﺣﺍﻭ ﺓﺪﺣﻮﻛ ﺎﻬﻨﻳﻮﻜﺗﻭ ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﻑﻮﻓﺮﻟﺍ ﻂﺑﺭ ﻦﻜﻤﻳ</Shelves.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>ﻉﺭﺩ ﺔﻣﺰﺣﺃ</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>. ﻙﺎﺒﺘﺷﻻﺍ ﺕﺎﻤﺠﻫ ﻰﻠﻋ ﺮﻴﺛﺄﺗ ﺎﻬﻟ ﺲﻴﻟ. ﺝﻭﺮﺨﻟﺍ ﻭﺃ ﻝﻮﺧﺪﻟﺍ ﻦﻣ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺕﺎﻤﺠﻬﻟﺍ ﻉﺭﺪﻟﺍ ﺔﻣﺰﺣﺃ ﻒﻗﻮﺗ\n\n. ﺪﻴﻟﺎﺑ ﻞﺗﺎﻗ ﻭﺃ ،ﻑﺪﻬﻟﺍ ﻰﻠﻋ ﻥﺍﺮﻴﻨﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺰﻛﺭ ﺎﻣﺇ ،ﻉﺭﺪﻟﺍ ﺔﻣﺰﺣﺃ ﺔﻬﺟﺍﻮﻤﻟ</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>ﻰﺿﺮﻤﻠﻟ ﻥﻮﻳﺰﻔﻠﺗ</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>. ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺀﺎﻘﻠﺘﺳﻻﺍ ﺀﺎﻨﺛﺃ ﺯﺎﻔﻠﺘﻟﺍ ﺓﺪﻫﺎﺸﻣ ﻰﺿﺮﻤﻠﻟ ﻦﻜﻤﻳ</TVForSickPeople.helpText>
+  
+</LanguageData>

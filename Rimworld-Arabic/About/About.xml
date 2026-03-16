@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>HopeSeekr.BetterRimworlds.RimworldArabic</packageId>
+    <name>RimWorld Arabic</name>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <author>HopeSeekr</author>
+    <url>https://github.com/BetterRimworlds/Rimworld-Arabic</url>
+    <description>
+Version 1.0: 2026-01-14
+
+This is an autonomously-translated Arabic translation done via the Autonomo AI platform.
+
+Total time: 9 hours 27 minutes
+Total cost: $0.00
+    </description>
+</ModMetaData>

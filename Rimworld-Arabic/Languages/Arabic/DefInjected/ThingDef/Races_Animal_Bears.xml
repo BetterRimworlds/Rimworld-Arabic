@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>ﻲﻨﺑ ﺏﺩ</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>. ﺀﺎﺘﺸﻟﺍ ﻲﻓ ﺎﻬﺌﻓﺩ ﻰﻠﻋ ﺔﺒﺑﺪﻠﻟ ﺔﻜﻴﻤﺴﻟﺍ ﻭﺮﻔﻟﺍﻭ ﻢﺤﺸﻟﺍ ﺔﻘﺒﻃ ﻆﻓﺎﺤﺗ. ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻣ ،ﺀﻴﺷ ﻞﻜﻟ ﻞﻛﺁ ﻢﺨﺿ ﻲﻳﺪﺛ\n\n. ﺔﻤﺨﻀﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﻩﺬﻫ ﻞﺜﻤﻟ ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﺔﻌﻳﺮﺳ ﺎﻬﻧﺇ. ﺔﻴﺤﻟﺍ ﺲﺋﺍﺮﻔﻟﺍ ﻞﺘﻘﻟ ﺔﻠﺗﺎﻘﻟﺍ ﺎﻬﺒﻟﺎﺨﻣﻭ ﺔﻠﺋﺎﻬﻟﺍ ﺎﻬﺗﻮﻗ ﻡﺍﺪﺨﺘﺳﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻳﺩﺎﻣﺮﻟﺍ ﺔﺒﺑﺪﻟﺍ ﻥﺈﻓ ،ﺎﻬﻌﻤﺟ ﻢﺘﻳ ﻲﺘﻟﺍ ﻡﻮﺤﻠﻟﺍﻭ ﻞﺴﻌﻟﺍﻭ ﺕﻮﺘﻟﺍﻭ ﻙﺎﻤﺳﻷﺍ ﻦﻣ ﺩﺎﺘﻌﻤﻟﺍ ﻲﺋﺍﺬﻐﻟﺍ ﺎﻬﻣﺎﻈﻧ ﻥﻮﻜﺘﻳ ﺎﻤﻨﻴﺑ</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>ﺏﺩ ﻢﺤﻟ</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Bear_Grizzly.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Bear_Grizzly.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>ﺱﺃﺭ</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>ﻲﺒﻄﻗ ﺏﺩ</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>. ﺀﺎﺘﺸﻟﺍ ﻲﻓ ﻪﺌﻓﺩ ﻰﻠﻋ ﺔﻜﻴﻤﺴﻟﺍ ﻭﺮﻔﻟﺍﻭ ﻢﺤﺸﻟﺍ ﺔﻘﺒﻃ ﻆﻓﺎﺤﺗ. ﺓﺪﻤﺠﺘﻤﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻣ ﻢﻴﻈﻋ ﺾﻴﺑﺃ ﺏﺩ\n\n. ﻢﺨﻀﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻞﺜﻤﻟ ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﻊﻳﺮﺳ ﻪﻧﺇ. ﺔﻴﺤﻟﺍ ﺲﺋﺍﺮﻔﻟﺍ ﻞﺘﻘﻟ ﺔﻠﺗﺎﻘﻟﺍ ﻪﺒﻟﺎﺨﻣﻭ ﺔﻠﺋﺎﻬﻟﺍ ﻪﺗﻮﻗ ﻡﺍﺪﺨﺘﺳﺍ ﺍًﻀﻳﺃ ﻲﺒﻄﻘﻟﺍ ﺏﺪﻠﻟ ﻦﻜﻤﻳ ،ﺔﻠﺸﺘﻨﻤﻟﺍ ﻡﻮﺤﻠﻟﺍﻭ ﻙﺎﻤﺳﻷﺍ ﻦﻣ ﺩﺎﺘﻌﻤﻟﺍ ﻲﺋﺍﺬﻐﻟﺍ ﻪﻣﺎﻈﻧ ﻥﻮﻜﺘﻳ ﺎﻤﻨﻴﺑ</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Bear_Polar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Bear_Polar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Bear_Polar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Bear_Polar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>ﺱﺃﺭ</Bear_Polar.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->ﻦﻣ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻥﻮﻜﺘﺗ .[map_definite] ﻦﻋ ﺍًﺪﻴﻌﺑ ﺲﻴﻟ [itemStashContentsValue] ـﺏ ﺎﻬﺘﻤﻴﻗ ﺭﺪﻘﺗﻭ ،ﻚﻤﻬﺗ ﺪﻗ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻝﻮﺣ ﻞﺋﺎﺳﺮﻟﺍ ﺾﻌﺑ ﺎﻨﺿﺮﺘﻋﺍ\n\n[itemStashContents]\n\n[allSitePartsDescriptionsExceptFirst] ﻥﺃ ﻭﺪﺒﻳ</li>
+    <li>questDescription(asker_factionLeader==True)->:ﻦﻣ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻥﻮﻜﺘﺗ .ﺎﻨﻋ ﺍًﺪﻴﻌﺑ ﺲﻴﻟ [itemStashContentsValue] ـﺏ ﺭﺪﻘﺗ ﻲﺘﻟﺍ ﺔﻤﻴﻘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻦﻋ ﺎﻨﻐﻠﺑﺃ ،[asker_faction_name] ﻞﻴﺼﻓ ﻦﻣ [asker_faction_leaderTitle] ،[asker_nameDef]\n\n[itemStashContents]\n\n[allSitePartsDescriptionsExceptFirst] ﻥﺃ ﻝﻮﻘﻳ [asker_label]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef] ﻦﻣ [treasure] [stash] ـﻝ</li>
+    <li>questName->[treasure] [stash] ـﻝﺍ</li>
+    <li>stash->ﻥﻭﺰﺨﻣ</li>
+    <li>stash->ﺄﺒﺨﻣ</li>
+    <li>stash->ﺔﻋﻮﻤﺠﻣ</li>
+    <li>stash->ﺥﻮﻛ</li>
+    <li>treasure->ﺰﻨﻜﻟﺍ ﻦﻣ</li>
+    <li>treasure->ﺔﻨﻴﻤﺜﻟﺍ ﻊﺋﺎﻀﺒﻟﺍ</li>
+    <li>treasure->ﻆﺤﻟﺍ ﻦﻣ</li>
+    <li>treasure->ﺕﺎﻜﻠﺘﻤﻤﻟﺍ</li>
+    <li>treasure->ﺕﺍﺩﺍﺪﻣﺇ</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>[resolvedQuestName] :ﺔﻤﻬﻤﻟﺍ ﺖﻬﺘﻧﺍ</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>.ﺎﻬﺘﻴﺣﺎﻠﺻ ﺖﻬﺘﻧﺍ [resolvedQuestName] ﺔﻤﻬﻤﻟﺍ .ﻦﻳﺮﺧﺁ ﻞﺒﻗ ﻦﻣ ﺐﻠُﻃ ﺪﻗ ﺮﺼﻨﻌﻟﺍ ﺄﺒﺨﻣ ﻥﺃ ﻰﻟﺇ ﺎﻬﺿﺍﺮﺘﻋﺍ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻟﺎﺼﺗﺎﻟﺍ ﺮﻴﺸﺗ</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

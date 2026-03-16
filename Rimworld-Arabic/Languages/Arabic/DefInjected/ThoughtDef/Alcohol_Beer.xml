@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol withdrawal -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>ﻲﻟﻮﺤﻛ ﺏﺎﺤﺴﻧﺍ</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>. ﺏﺮﺸﻟﺍ ﻲﻓ ﺮﻴﻜﻔﺘﻟﺍ ﻦﻋ ﻒﻗﻮﺗﺃ ﻻ. ﻲﻨﺒﻀﻐﻳ ﺀﻴﺷ ﻞﻛ. ﻑﺎﺠﺗﺭﻻﺎﺑ ﺮﻌﺷﺃ</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>ﻒﻴﻔﺧ ﻉﺍﺪﺻ</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>. ﻝﻭﺰﻳ ﺩﺎﻜﻳ ﻉﺍﺪﺼﻟﺍ</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>ﺪﻳﺪﺷ ﻲﻟﻮﺤﻛ ﻉﺍﺪﺻ</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>. ﺮﻜﺴﻤﻟﺍ ﺍﺬﻫ ﻞﻛ ﻦﻣ ﻲﻨﻤﻟﺆﻳ ﻲﺳﺃﺭ</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>ﺩﺎﺣ ﻲﻟﻮﺤﻛ ﻉﺍﺪﺻ</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>. ﻲﺘﻤﺠﻤﺟ ﻰﻠﻋ ﺮﻘﻨﻳ ﺯﻭﻹﺍ ﻦﻣ ﺍًﻌﻴﻄﻗ ﻥﺄﻛﻭ ﻭﺪﺒﻳ</Hungover.stages.pounding_hangover.description>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>ﻝﻮﺤﻜﻟﺍ ﺀﻓﺩ</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>. ﺪﻴﺟ ﺍﺬﻫ. ﺏﺍﺮﺸﻟﺍ ﻚﻟﺫ ﺪﻌﺑ ﺀﺎﺧﺮﺘﺳﻻﺍ ﺾﻌﺒﺑ ﺮﻌﺷﺃ</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>ًﺍﺪﺟ ﻥﺍﺮﻜﺳ</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>. ﺔﻳﺎﻐﻠﻟ ﻊﺘﻤﻣ ﺍﺬﻫﻭ! ﻒﻴﻔﻃ ﺭﺍﻭﺪﺑ ﺮﻌﺷﺃ</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>ﻝِﻣَﺛ</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>!ﻊﺋﺍﺭ ﺖﻗﻭ ﺍﺬﻫ! ﻑﻮﺨﻟﺍ ﻡﺪﻋﻭ ﺭﺮﺤﺘﻟﺎﺑ ﺮﻌﺷﺃ</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>ﺢﻓﺎﻃ</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>؟ﺙﺪﺤﻳ ﻱﺬﻟﺍ ﺎﻣ! ﻲﻬﻟﺇ ﺎﻳ</Inebriated.stages.hammered.description>
+  
+</LanguageData>

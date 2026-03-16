@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
+  <Archer25.description>{PAWN_gender ? . ﻯﺮﺧﻷﺍ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍﻭ ﻼﻴﺒﻟﺍﻭ ﺱﺍﻮﻗﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺖﺼﺼﺨﺗﻭ ،ﺎﻬﺘﻠﻴﺒﻗ ﻞﺟﺃ ﻦﻣ [PAWN_nameDef] ﺖﻠﺗﺎﻗ : . ﻯﺮﺧﻷﺍ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍﻭ ﻼﻴﺒﻟﺍﻭ ﺱﺍﻮﻗﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﻮﻫ ﺺﺼﺨﺗ ﺪﻗﻭ. ﻪﺘﻠﻴﺒﻗ ﻞﺟﺃ ﻦﻣ [PAWN_nameDef] ﻞﺗﺎﻗ}</Archer25.description>
+  <!-- EN: archer -->
+  <Archer25.title>ﻡﺎﻬﺴﻟﺍ ﻲﻣﺍﺭ</Archer25.title>
+  <Archer25.titleFemale>ﺔﻴﻣﺍﺭ</Archer25.titleFemale>
+  <!-- EN: archer -->
+  <Archer25.titleShort>ﻡﺎﻬﺴﻟﺍ ﻲﻣﺍﺭ</Archer25.titleShort>
+  <Archer25.titleShortFemale>ﺔﻴﻣﺍﺭ</Archer25.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
+  <Banished68.description>{PAWN_gender ? . ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺎﻫﺩﺮﻔﻤﺑ ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺖﻴﻘﺑ. ﻱﻮﻣﺩ ﻉﺍﺰﻧ ﺪﻌﺑ ﺎﻫﺎﻳﺇ [PAWN_nameDef] ﺔﻠﻴﺒﻗ ﺖﻔﻧ : . ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺍًﺪﻴﺣﻭ ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺎﺠﻧ. ﻱﻮﻣﺩ ﻉﺍﺰﻧ ﺪﻌﺑ ﻩﺎﻳﺇ [PAWN_nameDef] ﺔﻠﻴﺒﻗ ﺖﻔﻧ}</Banished68.description>
+  <!-- EN: banished -->
+  <Banished68.title>ﻲﻔﻨﻣ</Banished68.title>
+  <Banished68.titleFemale>ﺔﻴﻔﻨﻣ</Banished68.titleFemale>
+  <!-- EN: banished -->
+  <Banished68.titleShort>ﻲﻔﻨﻣ</Banished68.titleShort>
+  <Banished68.titleShortFemale>ﺔﻴﻔﻨﻣ</Banished68.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
+  <Brave88.description>{PAWN_gender ? . ﺎﻬﺘﻠﻴﺒﻗ ﻙﺭﺎﻌﻣ ﻲﻓ ﻯﺪﻤﻟﺍ ﺔﺒﻳﺮﻘﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻦﻣ ﺎﻫﺮﻴﻏﻭ ﻲﺼﻌﻟﺍﻭ ﺱﻭﺆﻔﻟﺍﻭ ﺍﻮﻜﻳﻹﺍ ﺔﺤﻠﺳﺃ [PAWN_nameDef] ﺖﻣﺪﺨﺘﺳﺍ : . ﻪﺘﻠﻴﺒﻗ ﻞﺟﺃ ﻦﻣ ﻙﺭﺎﻌﻣ ﻲﻓ ﻯﺪﻤﻟﺍ ﺔﺒﻳﺮﻗ ﻯﺮﺧﺃ ﺔﺤﻠﺳﺃﻭ ﺍًﻴﺼﻋﻭ ﺍًﺳﻭﺆﻓﻭ ﺍﻮﻛﺇ [PAWN_nameDef] ﻞﻤﺣ}</Brave88.description>
+  <!-- EN: brave -->
+  <Brave88.title>ﻉﺎﺠﺷ</Brave88.title>
+  <Brave88.titleFemale>ﺔﻋﺎﺠﺷ</Brave88.titleFemale>
+  <!-- EN: brave -->
+  <Brave88.titleShort>ﻉﺎﺠﺷ</Brave88.titleShort>
+  <Brave88.titleShortFemale>ﺔﻋﺎﺠﺷ</Brave88.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
+  <Butcher40.description>{PAWN_gender ? . ﺮﻴﺼﻗ ﺖﻗﻭ ﻲﻓ ﺔﺜﺠﻟﺍ ﻦﻣ ﺔﻤﻴﻗ ﻞﻛ ﺹﻼﺨﺘﺳﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ،ﻦﻴﻜﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺓﺮﻫﺎﻣ ﺖﺤﺒﺻﺃ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺦﻠﺳ ﻲﻫ ﺪﻴﺼﻟﺍ ﻖﻳﺮﻓ ﻲﻓ [PAWN_nameDef] ـﻝ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﻬﻤﻟﺍ ﺖﻧﺎﻛ : . ﺮﻴﺼﻗ ﺖﻗﻭ ﻲﻓ ﺔﺜﺠﻟﺍ ﻦﻣ ﺔﻤﻴﻗ ﻞﻛ ﺹﻼﺨﺘﺳﺍ ﻰﻠﻋ ًﺍﺭﺩﺎﻗ ،ﻦﻴﻜﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ًﺍﺮﻫﺎﻣ ﺢﺒﺻﺃ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺦﻠﺳ ﻲﻫ ﺪﻴﺼﻟﺍ ﻖﻳﺮﻓ ﻲﻓ [PAWN_nameDef] ـﻝ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﻬﻤﻟﺍ ﺖﻧﺎﻛ}</Butcher40.description>
+  <!-- EN: butcher -->
+  <Butcher40.title>ﺭﺍﺰﺟ</Butcher40.title>
+  <Butcher40.titleFemale>ﺓﺭﺍﺰﺟ</Butcher40.titleFemale>
+  <!-- EN: butcher -->
+  <Butcher40.titleShort>ﺭﺍﺰﺟ</Butcher40.titleShort>
+  <Butcher40.titleShortFemale>ﺓﺭﺍﺰﺟ</Butcher40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
+  <Carver1.description>{PAWN_gender ? . ﺱﻮﻘﻄﻠﻟ ﺭﻮﺤﻣ ﺮﻴﻓﻮﺗﻭ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﻴﻤﺠﺘﻟ ﻯﺮﺧﺃ ﺍًﻧﺎﻴﺣﺃ ﺎﻬﺑ ﻆﻔﺘﺣُﺗﻭ ،ﺍًﻧﺎﻴﺣﺃ ﻉﺎﺑُﺗ ﻝﺎﻤﻋﻷﺍ ﺖﻧﺎﻛ. ﺔﺑﺍﺮﻏ ﺮﺜﻛﺃ ﺩﺍﻮﻣ ﻦﻣ ﺍًﻧﺎﻴﺣﺃﻭ ،ﺮﺠﺤﻟﺍﻭ ﺐﺸﺨﻟﺍ ﻦﻣ ﺎﻬﺘﻠﻴﺒﻘﻟ ﺔﻴﻨﻓ ﺍًﻟﺎﻤﻋﺃ [PAWN_nameDef] ﺖﺘﺤﻧ : . ﺱﻮﻘﻄﻠﻟ ﺭﻮﺤﻣ ﺮﻴﻓﻮﺗﻭ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﻴﻤﺠﺘﻟ ﻯﺮﺧﺃ ﺍًﻧﺎﻴﺣﺃ ﺎﻬﺑ ﻆﻔﺘﺣُﺗﻭ ،ﺍًﻧﺎﻴﺣﺃ ﻉﺎﺑُﺗ ﻝﺎﻤﻋﻷﺍ ﺖﻧﺎﻛ. ﺔﺑﺍﺮﻏ ﺮﺜﻛﺃ ﺩﺍﻮﻣ ﻦﻣ ﺍًﻧﺎﻴﺣﺃﻭ ،ﺮﺠﺤﻟﺍﻭ ﺐﺸﺨﻟﺍ ﻦﻣ ﻪﺘﻠﻴﺒﻘﻟ ﺔﻴﻨﻓ ﺍًﻟﺎﻤﻋﺃ [PAWN_nameDef] ﺖﺤﻧ}</Carver1.description>
+  <!-- EN: carver -->
+  <Carver1.title>ﺕﺎﺤﻧ</Carver1.title>
+  <Carver1.titleFemale>ﺔﺗﺎﺤﻧ</Carver1.titleFemale>
+  <!-- EN: carver -->
+  <Carver1.titleShort>ﺕﺎﺤﻧ</Carver1.titleShort>
+  <Carver1.titleShortFemale>ﺔﺗﺎﺤﻧ</Carver1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
+  <CaveBuilder81.description>{PAWN_gender ? . ﺔﻴﻔﻬﻜﻟﺍ ﺕﺎﻌﻤﺠﻤﻟﺍ ﺀﺎﻨﺑﻭ ﺮﻔﺣ ﻲﻓ [PAWN_nameDef] ﺖﺼﺼﺨﺗ : . ﺔﻴﻔﻬﻜﻟﺍ ﺕﺎﻌﻤﺠﻤﻟﺍ ﺀﺎﻨﺑﻭ ﺮﻔﺣ ﻲﻓ [PAWN_nameDef] ﺺﺼﺨﺗ}</CaveBuilder81.description>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.title>ﻑﻮﻬﻛ ﻲﻧﺎﺑ</CaveBuilder81.title>
+  <CaveBuilder81.titleFemale>ﻑﻮﻬﻛ ﺔﻴﻧﺎﺑ</CaveBuilder81.titleFemale>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.titleShort>ﻑﻮﻬﻛ ﻲﻧﺎﺑ</CaveBuilder81.titleShort>
+  <CaveBuilder81.titleShortFemale>ﻑﻮﻬﻛ ﺓﺀﺎﻨﺑ</CaveBuilder81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
+  <Digger31.description>{PAWN_gender ? . ﺓﺪﻳﺪﻋ ﺕﺎﺒﺳﺎﻨﻣ ﻲﻓ ﺎﻬﺋﺎﻗﺪﺻﻷ ﺀﺎﺒﺘﺧﺍ ﻦﻛﺎﻣﺃ ﺎﻬﻠﻤﻋ ﺮﻓﻭ ﺪﻗﻭ. ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻦﻣ ﺀﺎﺒﺘﺧﻻﺍﻭ ﺀﺎﻴﺷﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻦﻛﺎﻣﺃ ﺕﺮﻔﺣﻭ ،ﻑﻮﻬﻜﻟﺍﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﺪﺠﺑ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺓﺪﻳﺪﻋ ﺕﺎﺒﺳﺎﻨﻣ ﻲﻓ ﻪﺋﺎﻗﺪﺻﻷ ﺀﺎﺒﺘﺧﺍ ﻦﻛﺎﻣﺃ ﺮﻓﻭ ﻪﻠﻤﻋ. ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻦﻣ ﺀﺎﺒﺘﺧﻻﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺕﺎﺣﺎﺴﻣ ﺮﻔﺣ ،ﻑﻮﻬﻜﻟﺍﻭ ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﺪﺠﺑ [PAWN_nameDef] ﻞﻤﻋ}</Digger31.description>
+  <!-- EN: digger -->
+  <Digger31.title>ﺭﺍّﻔﺣ</Digger31.title>
+  <Digger31.titleFemale>ﺓﺭﺎﻔﺣ</Digger31.titleFemale>
+  <!-- EN: digger -->
+  <Digger31.titleShort>ﺭﺍّﻔﺣ</Digger31.titleShort>
+  <Digger31.titleShortFemale>ﺓﺭﺍّﻔﺣ</Digger31.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <Digger66.description>{PAWN_gender ? . ﻑﻮﻬﻜﻟﺍ ﻥﺍﺭﺪﺟ ﻡّﻋﺪﺗﻭ ﺭﻮﺨﺼﻟﺍ ﻲﻓ ﺚﺤﺒﺗ ﻲﻫﻭ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﺗ ﻥﺃ ﺖﻤﻠﻌﺗ. ﻝﺎﺒﺠﻟﺍﻭ ﻝﻼﺘﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﻥﺩﺎﻌﻤﻟﺍ ﺖﺟﺮﺨﺘﺳﺍﻭ ﺔﻴﺸﻴﻌﻣ ﺕﺎﺣﺎﺴﻣ [PAWN_nameDef] ﺖﺘﺤﻧ : . ﻑﻮﻬﻜﻟﺍ ﻥﺍﺭﺪﺟ ﻢﻴﻋﺪﺗﻭ ﺭﻮﺨﺼﻟﺍ ﻲﻓ ﺐﻴﻘﻨﺘﻟﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﻳ ﻥﺃ ﻢﻠﻌﺗ. ﻝﺎﺒﺠﻟﺍﻭ ﻝﻼﺘﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﻥﺩﺎﻌﻣ ﺝﺮﺨﺘﺳﺍﻭ ﺔﻴﺸﻴﻌﻣ ﺕﺎﺣﺎﺴﻣ [PAWN_nameDef] ﺖﺤﻧ}</Digger66.description>
+  <!-- EN: digger -->
+  <Digger66.title>ﺭﺍّﻔﺣ</Digger66.title>
+  <Digger66.titleFemale>ﺓﺭﺎﻔﺣ</Digger66.titleFemale>
+  <!-- EN: digger -->
+  <Digger66.titleShort>ﺭﺎﻔﺣ</Digger66.titleShort>
+  <Digger66.titleShortFemale>ﺓﺭﺎﻔﺣ</Digger66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
+  <Excavator55.description>{PAWN_gender ? . ﺮﻔﺤﻟﺍ ﺕﺍﻭﺩﺃ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﻡﺪﺨﺘﺴﺗ ﻒﻴﻛﻭ ﺽﺭﻷﺍ ﻲﻓ ﺔﻨﻴﻤﺜﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻒﺸﺘﻜﺗ ﻒﻴﻛ ﺖﻤﻠﻌﺗ. ﺔﺠﻣﺪﻤﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺽﺎﻘﻧﻷﺍ ﻦﻣ ﺔﻤﻴﻗ ﺩﺍﻮﻣﻭ ﺮﺻﺎﻨﻋ ﺖﺟﺮﺨﺘﺳﺍﻭ ،ﺐﻴﻘﻨﺘﻟﺍ ﻊﻗﺍﻮﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺮﻔﺤﻟﺍ ﺕﺍﻭﺩﺃ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛﻭ ﺽﺭﻷﺍ ﻲﻓ ﺔﻨﻴﻤﺜﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻒﺸﺘﻜﻳ ﻒﻴﻛ ﻢﻠﻌﺗ. ﺔﺠﻣﺪﻤﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺽﺎﻘﻧﻷﺍ ﻦﻣ ﺔﻤﻴﻗ ﺩﺍﻮﻣﻭ ﺮﺻﺎﻨﻋ ﺝﺮﺨﺘﺳﺍﻭ ،ﺐﻴﻘﻨﺘﻟﺍ ﻊﻗﺍﻮﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ}</Excavator55.description>
+  <!-- EN: excavator -->
+  <Excavator55.title>ﺭﺎﻔﺣ</Excavator55.title>
+  <Excavator55.titleFemale>ﺐﻴﻘﻨﺗ ﺔﺒﻘﻨﻣ</Excavator55.titleFemale>
+  <!-- EN: excavator -->
+  <Excavator55.titleShort>ﺭﺍّﻔﺣ</Excavator55.titleShort>
+  <Excavator55.titleShortFemale>ﺐﻴﻘﻨﺗ ﺔﺒﻘﻨﻣ</Excavator55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
+  <Framer37.description>{PAWN_gender ? . ﺎﻬﻠﻤﻋ ﻦﻣ ﺍًﺀﺰﺟ ﺔﻴﻠﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺀﺎﻨﺒﻟﺍ ﺩﺍﻮﻣ ﻊﻤﺟ ﻥﺎﻛ. ﺔﻤﺋﺍﺪﻟﺍ ﺕﺎﻌﻤﺠﺘﻟﺍﻭ ﻝﺎﺣﺮﺘﻠﻟ ﺔﺘﻗﺆﻤﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ—ﺎﻬﺘﻠﻴﺒﻗ ﺩﺍﺮﻓﺃ ﺎﻬﻨﻜﺴﺗ ﻲﺘﻟﺍ ﺕﺂﺸﻨﻤﻟﺍ ﺪﻴﻴﺸﺗ ﻦﻋ ﺔﻟﻭﺆﺴﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺔﻔﻴﻇﻮﻟﺍ ﻦﻣ ﺍًﺀﺰﺟ ﺔﻴﻠﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺀﺎﻨﺒﻟﺍ ﺩﺍﻮﻣ ﻊﻤﺟ ﻥﺎﻛ. ﺔﻤﺋﺍﺪﻟﺍ ﺕﺎﻌﻤﺠﺘﻟﺍﻭ ﻝﺎﺣﺮﺘﻠﻟ ﺔﺘﻗﺆﻤﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ—ﻪﺘﻠﻴﺒﻗ ﺩﺍﺮﻓﺃ ﺎﻬﻨﻜﺴﻳ ﻲﺘﻟﺍ ﺕﺂﺸﻨﻤﻟﺍ ﺪﻴﻴﺸﺗ ﻦﻋ ًﻻﻭﺆﺴﻣ [PAWN_nameDef] ﻥﺎﻛ}</Framer37.description>
+  <!-- EN: framer -->
+  <Framer37.title>ﺭﺎﻃﺇ ﺭﺎﺠﻧ</Framer37.title>
+  <Framer37.titleFemale>ﺓﺭﺎﺠﻧ</Framer37.titleFemale>
+  <!-- EN: framer -->
+  <Framer37.titleShort>ﺕﺍﺭﺎﻃﺇ ﺭﺎﺠﻧ</Framer37.titleShort>
+  <Framer37.titleShortFemale>ﺓﺭﺎﺠﻧ</Framer37.titleShortFemale>
+  
+  <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
+  <Gatherer70.description>{PAWN_gender ? . ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻋ ﺕﺪﻌﺘﺑﺍ. ﺔﻠﺣﺎﻘﻟﺍ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺮﻇﺎﻨﻤﻟﺍ ﺮﺜﻛﺃ ﻲﻓ ﻰﺘﺣ ﻡﺎﻌﻄﻟﺍ ﺪﺠﺗ ﻥﺃ [PAWN_nameDef] ﺖﻋﺎﻄﺘﺳﺍ ،ﺕﻮﺘﻟﺍﻭ ﺭﻭﺬﺠﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺎﺑ ﺎﻬﺘﻓﺮﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ : . ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻋ ﺪﻌﺘﺑﺍ ﺪﻘﻟ. ﺔﻠﺣﺎﻘﻟﺍ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺮﻇﺎﻨﻤﻟﺍ ﺮﺜﻛﺃ ﻲﻓ ﻰﺘﺣ ﻡﺎﻌﻄﻟﺍ ﺩﺎﺠﻳﺇ ﻰﻠﻋ ًﺍﺭﺩﺎﻗ [PAWN_nameDef] ﻥﺎﻛ ،ﺕﻮﺘﻟﺍﻭ ﺭﻭﺬﺠﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺎﺑ ﻪﺘﻓﺮﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ}</Gatherer70.description>
+  <!-- EN: gatherer -->
+  <Gatherer70.title>ﺩﺭﺍﻮﻣ ﻊﻣﺎﺟ</Gatherer70.title>
+  <Gatherer70.titleFemale>ﺔﻌﻣﺎﺟ</Gatherer70.titleFemale>
+  <!-- EN: gatherer -->
+  <Gatherer70.titleShort>ﺩﺭﺍﻮﻣ ﻊﻣﺎﺟ</Gatherer70.titleShort>
+  <Gatherer70.titleShortFemale>ﺔﻌﻣﺎﺟ</Gatherer70.titleShortFemale>
+  
+  <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
+  <Healer46.description>{PAWN_gender ? . ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﺔﻟﺎﻌﻓ ﺕﺎﺟﻼﻋ ﻲﻓ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﺓﺭﻭﺎﺠﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍﻭ ﺏﺎﺸﻋﻷﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﻲﻓ ﺎﻬﻣﺎﻳﺃ ﻲﻀﻘﺗ ﺖﻧﺎﻛ. ﺭﻭﺪﻟﺍ ﺍﺬﻫ [PAWN_nameDef] ﺖﻟﻮﺗ ،ﺓﺭﺎﻏ ﻲﻓ ﺔﻨﺴﻤﻟﺍ ﺔﻠﻴﺒﻘﻟﺍ ﺔﺠﻟﺎﻌﻣ ﻞﺘﻘﻣ ﺪﻌﺑ : . ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﺔﻟﺎﻌﻓ ﺕﺎﺟﻼﻋ ﻲﻓ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﺓﺭﻭﺎﺠﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍﻭ ﺏﺎﺸﻋﻷﺍ ﻊﻤﺟ ﻲﻓ ﻪﻣﺎﻳﺃ ﻲﻀﻘﻳ ﻥﺎﻛ. ﺭﻭﺪﻟﺍ ﺍﺬﻫ [PAWN_nameDef] ﻰﻟﻮﺗ ،ﺓﺭﺎﻏ ﻲﻓ ﺮﺒﻛﻷﺍ ﻪﺘﻠﻴﺒﻗ ﺞﻟﺎﻌﻣ ﻞﺘﻘﻣ ﺪﻌﺑ}</Healer46.description>
+  <!-- EN: healer -->
+  <Healer46.title>ﺞﻟﺎﻌﻣ</Healer46.title>
+  <Healer46.titleFemale>ﺔﺠﻟﺎﻌﻣ</Healer46.titleFemale>
+  <!-- EN: healer -->
+  <Healer46.titleShort>ﺞﻟﺎﻌﻣ</Healer46.titleShort>
+  <Healer46.titleShortFemale>ﺔﺠﻟﺎﻌﻣ</Healer46.titleShortFemale>
+  
+  <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
+  <HearthTender66.description>{PAWN_gender ? . ﻰﺿﺮﻤﻟﺍﻭ ﺭﺎﻐﺼﻟﺎﺑ ﺔﻳﺎﻋﺮﻟﺍﻭ ﻡﺎﻌﻄﻟﺍ ﻲﻬﻄﻟ ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﻰﻘﺒﺗ [PAWN_nameDef] ﺖﻧﺎﻛ ،ﻡﺎﻌﻄﻟﺍ ﻥﻮﻌﻤﺠﻳﻭ ﻥﻭﺩﺎﻄﺼﻳ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻥﻭﺮﺧﻵﺍ ﻥﺎﻛ ﺎﻤﻨﻴﺑ : . ﻰﺿﺮﻤﻟﺍﻭ ﺭﺎﻐﺼﻟﺎﺑ ﻲﻨﺘﻌﻳﻭ ﺦﺒﻄﻴﻟ ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﻰﻘﺒﻳ [PAWN_nameDef] ﻥﺎﻛ ،ﻡﺎﻌﻄﻟﺍ ﻥﻮﻌﻤﺠﻳﻭ ﻥﻭﺩﺎﻄﺼﻳ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻥﻭﺮﺧﻵﺍ ﻥﺎﻛ ﺎﻤﻨﻴﺑ}</HearthTender66.description>
+  <!-- EN: hearth tender -->
+  <HearthTender66.title>ﺪﻗﻮﻤﻟﺍ ﺊﻓﺍَﺩُﻣ</HearthTender66.title>
+  <HearthTender66.titleFemale>ﺭﺎﻧ ﺔﻴﺑﺮﻣ</HearthTender66.titleFemale>
+  <!-- EN: tender -->
+  <HearthTender66.titleShort>ﺐﻠﻘﻟﺍ ﻖﻴﻗﺭ</HearthTender66.titleShort>
+  <HearthTender66.titleShortFemale>ﺔﻘﻴﻗﺭ</HearthTender66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
+  <Herder33.description>{PAWN_gender ? . ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﺎﻬﺗﺎﺒﺟﻭ ﺩﺎﻴﻄﺻﺍ ﺔﻴﻔﻴﻛﻭ ،ﺵﻮﺣﻮﻟﺍ ﻪﻴﺟﻮﺗﻭ ﺔﺋﺪﻬﺗ ﺔﻴﻔﻴﻛ [PAWN_nameDef] ﺖﻤﻠﻌﺗ. ﺎﻬﻠﻘﻨﺗ ﺀﺎﻨﺛﺃ ﺲﺒﻠﻤﻟﺍﻭ ﺀﺍﺬﻐﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺎﻬﺘﻠﻴﺒﻗ ﺓﺪﻋﺎﺴﻤﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ [PAWN_nameDef] ﺖﻋﺭ : . ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﻪﺗﺎﺒﺟﻭ ﺩﺎﻴﻄﺻﺍ ﺔﻴﻔﻴﻛﻭ ،ﺵﻮﺣﻮﻟﺍ ﻪﻴﺟﻮﺗﻭ ﺔﺋﺪﻬﺗ ﺔﻴﻔﻴﻛ [PAWN_nameDef] ﻢﻠﻌﺗ. ﻞﻘﻨﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺀﺎﺴﻜﻟﺍﻭ ﺔﻳﺬﻐﺘﻟﺍ ﻰﻠﻋ ﻪﺘﻠﻴﺒﻗ ﺓﺪﻋﺎﺴﻤﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ [PAWN_nameDef] ﻰﻋﺭ}</Herder33.description>
+  <!-- EN: herder -->
+  <Herder33.title>ﻲﻋﺍﺭ</Herder33.title>
+  <Herder33.titleFemale>ﺔﻴﻋﺍﺭ</Herder33.titleFemale>
+  <!-- EN: herder -->
+  <Herder33.titleShort>ﻲﺷﺍﻮﻤﻟﺍ ﻲﻋﺍﺭ</Herder33.titleShort>
+  <Herder33.titleShortFemale>ﺔﻴﻋﺍﺭ</Herder33.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
+  <Hunter74.description>{PAWN_gender ? . ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﺘﻠﺘﻗﻭ ﺥﺎﺨﻔﻟﺍ ﺎﻬﻟ ﺖﺒﺼﻧﻭ ﺎﻬﺗﺪﻴﺻﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﺖﺒﻘﻌﺗ\n\n. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻧﺎﺠﺑ ﺩﺎﻄﺼﺗ ﺖﻧﺎﻛ ،ﻥﺎﻴﺣﻷﺍ ﺾﻌﺑ ﻲﻓ. ﻙﺎﺒﺘﺷﺍ ﺔﺤﻠﺳﺃﻭ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ [PAWN_nameDef] ﺖﻣﺪﺨﺘﺳﺍ : . ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻠﺘﻗﻭ ﺎﻫﺪﻴﺻﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ [PAWN_nameDef] ﺐﻘﻌﺗ\n\n. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﺐﻨﺟ ﻰﻟﺇ ﺍًﺒﻨﺟ ﺩﺎﻄﺼﻳ ﻥﺎﻛ ،ﻥﺎﻴﺣﻷﺍ ﺾﻌﺑ ﻲﻓ. ﻙﺎﺒﺘﺷﺍ ﺔﺤﻠﺳﺃﻭ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ [PAWN_nameDef] ﻡﺪﺨﺘﺳﺍ}</Hunter74.description>
+  <!-- EN: hunter -->
+  <Hunter74.title>ﺩﺎﻴﺻ</Hunter74.title>
+  <Hunter74.titleFemale>ﺓﺩﺎﻴﺻ</Hunter74.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter74.titleShort>ﺩﺎﻴﺻ</Hunter74.titleShort>
+  <Hunter74.titleShortFemale>ﺓﺩﺎﻴﺻ</Hunter74.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
+  <Logger16.description>{PAWN_gender ? . ﻡﺎﻣﻸﻟ ﻊﻓﺪﻨﺗ ﻮﻟﺎﻓﻮﻣ ﺓﻮﻗﻭ ﺔﻧﺎﻨﻓ ﺓﺭﺎﻬﻤﺑ ﺎﻬﺳﺄﻓ ﺖﻣﺪﺨﺘﺳﺍ. ﺔﻠﻴﺒﻘﻟﺍ ﻰﻟﺇ ﺎﻬﺒﺸﺧ ﺖﻠﻤﺣﻭ ﺭﺎﺠﺷﻷﺍ [PAWN_nameDef] ﺖﻌﻄﻗ : . ﺞﺋﺎﻬﻟﺍ ﻮﻟﺎﻓﻮﻣ ﺓﻮﻗﻭ ﻥﺎﻨﻔﻟﺍ ﺓﺭﺎﻬﻤﺑ ﻪﺳﺆﻓ ﻡﺪﺨﺘﺳﺍ. ﺔﻠﻴﺒﻘﻟﺍ ﻰﻟﺇ ﺎﻬﺒﺸﺧ ﻞﻤﺣﻭ ﺭﺎﺠﺷﻷﺍ [PAWN_nameDef] ﻊﻄﻗ}</Logger16.description>
+  <!-- EN: logger -->
+  <Logger16.title>ﺏﺎﻄﺣ</Logger16.title>
+  <Logger16.titleFemale>ﺔﺑﺎﻄﺣ</Logger16.titleFemale>
+  <!-- EN: logger -->
+  <Logger16.titleShort>ﺏﺎﻄﺣ</Logger16.titleShort>
+  <Logger16.titleShortFemale>ﺔﺑﺎﻄﺣ</Logger16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
+  <Loner61.description>{PAWN_gender ? . ﺭﻮﺨﺼﻟﺍ ﺮﺒﻋ ﺡﺎﻳﺮﻟﺍ ﺮﻴﻔﺻﻭ ﺡﻮﺘﻔﻤﻟﺍ ﻞﻬﺴﻟﺍ ﻞﻀﻔﺗ ﺖﻧﺎﻛ. ﺍًﺮﻴﺜﻛ ﺔﻳﻮﻨﺴﻟﺍ ﺕﺎﻧﺎﺟﺮﻬﻤﻟﺍ ﻭﺃ ﺔﻠﻴﺒﻘﻟﺍ ﺲﻠﺠﻣ [PAWN_nameDef] ﺐﺠﻌﺗ ﻢﻟ\n\n. ﺎﻬﺑ ﺔﺻﺎﺨﻟﺍ ﺀﺎﻘﺒﻟﺍ ﺕﺍﺭﺎﻬﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﺎﻬﺴﻔﻨﺑ ﺖﻨﺘﻋﺍ ﺎﻬﻨﻜﻟ ،ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ ﺎﻬﺘﻠﻴﺒﻗ ﺭﻭﺰﺗ ﺖﻧﺎﻛ : . ﺭﻮﺨﺼﻟﺍ ﺮﺒﻋ ﺡﺎﻳﺮﻟﺍ ﺮﻴﻔﺻﻭ ﺡﻮﺘﻔﻤﻟﺍ ﻞﻬﺴﻟﺍ ﻞﻀﻔﻳ ﻥﺎﻛ. ﺍًﺮﻴﺜﻛ ﺔﻳﻮﻨﺴﻟﺍ ﺕﺎﻧﺎﺟﺮﻬﻤﻟﺍ ﻭﺃ ﺔﻠﻴﺒﻘﻟﺍ ﺲﻠﺠﻣ ﺐﺤﻳ ' [PAWN_nameDef] 'ﻦﻜﻳ ﻢﻟ\n\n. ﻪﺑ ﺔﺻﺎﺨﻟﺍ ﺀﺎﻘﺒﻟﺍ ﺕﺍﺭﺎﻬﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻪﺴﻔﻨﺑ ﻰﻨﺘﻋﺍ ﻪﻨﻜﻟ ،ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ ﻪﺘﻠﻴﺒﻗ ﺭﻭﺰﻳ ﻥﺎﻛ}</Loner61.description>
+  <!-- EN: loner -->
+  <Loner61.title>ﻝﺰﻌﻨﻣ</Loner61.title>
+  <Loner61.titleFemale>ﺔﻟﺰﻌﻨﻣ</Loner61.titleFemale>
+  <!-- EN: loner -->
+  <Loner61.titleShort>ﻝﺰﻌﻨﻣ</Loner61.titleShort>
+  <Loner61.titleShortFemale>ﺔﻟﺰﻌﻨﻣ</Loner61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
+  <LoreKeeper51.description>{PAWN_gender ? . ﺺﺼﻘﻟﺍ ﻝﻼﺧ ﻦﻣ ﺓﺪﻴﻔﻤﻟﺍ ﺔﻤﻜﺤﻟﺍﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻓﺮﻌﻤﻟﺍ ﻞﻘﻨﺗ ﺖﻧﺎﻛ ،ﺭﺎﻨﻟﺍ ﻝﻮﺣ ﺔﻠﻴﻟ ﻞﻛ. ﺎﻬﺘﻠﻴﺒﻗ ﻲﻓ ﺕﺎﻳﺎﻜﺤﻟﺍ ﺕﺎﻈﻓﺎﺣ ﻦﻣ ﺔﻠﻳﻮﻃ ﺔﻟﻼﺳ ﻦﻣ ﺓﺪﺣﺍﻭ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺺﺼﻘﻟﺍ ﻝﻼﺧ ﻦﻣ ﺓﺪﻴﻔﻤﻟﺍ ﺔﻤﻜﺤﻟﺍﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻓﺮﻌﻤﻟﺍ ﻞﻘﻨﻳ ﻥﺎﻛ ،ﺭﺎﻨﻟﺍ ﻝﻮﺣ ﺔﻠﻴﻟ ﻞﻛ. ﻪﺘﻠﻴﺒﻗ ﻲﻓ ﺺﺼﻘﻟﺍ ﺓﺍﻭﺭ ﻦﻣ ﺔﻠﻳﻮﻃ ﺔﻟﻼﺳ ﻦﻣ [PAWN_nameDef] ﻥﺎﻛ}</LoreKeeper51.description>
+  <!-- EN: lore keeper -->
+  <LoreKeeper51.title>ﺕﺎﻳﺎﻜﺤﻟﺍ ﻆﻓﺎﺣ</LoreKeeper51.title>
+  <!-- EN: keeper -->
+  <LoreKeeper51.titleShort>ﻆﻓﺎﺣ</LoreKeeper51.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
+  <Malingerer28.description>{PAWN_gender ? . ﻝﺎﻔﻃﻸﻟ ﺺﺼﻘﻟﺍ ﻲﻜﺤﺗ ﺖﻧﺎﻛ ،ﻰﺿﺮﻤﻟﺍ ﺥﻮﻛ ﻲﻓ ﺢﻳﺮﺘﺴﺗ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑﻭ. ﺎﻬﺗﺎﻴﻟﻭﺆﺴﻣ ﺐﻨﺠﺘﻟ ﺽﺮﻤﻟﺎﺑ [PAWN_nameDef] ﺕﺮﻫﺎﻈﺗ ﺎﻣ ًﺎﺒﻟﺎﻏ : . ﻝﺎﻔﻃﻸﻟ ﺺﺼﻘﻟﺍ ﻲﻜﺤﻳ ﻥﺎﻛ ،ﻰﺿﺮﻤﻟﺍ ﺥﻮﻛ ﻲﻓ ﺡﺎﺗﺮﻳ ﻥﺎﻛ ﺎﻤﻨﻴﺑﻭ. ﻪﺗﺎﻴﻟﻭﺆﺴﻣ ﺐﻨﺠﺘﻟ ﺽﺮﻤﻟﺎﺑ [PAWN_nameDef] ﺮﻫﺎﻈﺗ ﺎﻣ ًﺎﺒﻟﺎﻏ}</Malingerer28.description>
+  <!-- EN: malingerer -->
+  <Malingerer28.title>ﺽﺮﻤﻟﺎﺑ ﺮﻫﺎﻈﺘﻣ</Malingerer28.title>
+  <Malingerer28.titleFemale>ﺓﺮﻫﺎﻈﺘﻣ</Malingerer28.titleFemale>
+  <!-- EN: malingerer -->
+  <Malingerer28.titleShort>ﺽﺮﻤﻟﺎﺑ ﺮﻫﺎﻈﺘﻣ</Malingerer28.titleShort>
+  <Malingerer28.titleShortFemale>ﺓﺮﻫﺎﻈﺘﻣ</Malingerer28.titleShortFemale>
+  
+  <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
+  <MuffaloShaman95.description>{PAWN_gender ? . ﺔﻤﻴﻈﻌﻟﺍ ﻮﻟﺎﻓﻮﻣ ﺡﻭﺮﺑ ﺹﺎﺧ ﻝﺎﺼﺗﺍ ﺎﻬﻳﺪﻟ ﻥﺎﻛ. ﺎﻬﺘﻠﻴﺒﻘﻟ ﺔﻴﺣﻭﺮﻟﺍ ﺓﺪﺷﺮﻤﻟﺍ [PAWN_nameDef] ﺖﺤﺒﺻﺃ ،ﺔﻤﻴﻈﻌﻟﺍ ﺎﻬﺗﻮﻗﻭ ﺔﺋﺩﺎﻬﻟﺍ ﺎﻬﺘﻤﻜﺣ ﺐﺒﺴﺑ : . ﺔﻤﻴﻈﻌﻟﺍ ﻮﻟﺎﻓﻮﻣ ﺡﻭﺮﺑ ﺹﺎﺧ ﻝﺎﺼﺗﺍ ﻪﻳﺪﻟ ﻥﺎﻛ. ﻪﺘﻠﻴﺒﻘﻟ ﻲﺣﻭﺮﻟﺍ ﺪﺷﺮﻤﻟﺍ [PAWN_nameDef] ﺢﺒﺻﺃ ،ﺔﻤﻴﻈﻌﻟﺍ ﻪﺗﻮﻗﻭ ﺔﺋﺩﺎﻬﻟﺍ ﻪﺘﻤﻜﺣ ﺐﺒﺴﺑ}</MuffaloShaman95.description>
+  <!-- EN: muffalo shaman -->
+  <MuffaloShaman95.title>ﻥﺎﻣﺎﺷ ﻮﻟﺎﻓﻮﻣ</MuffaloShaman95.title>
+  <!-- EN: shaman -->
+  <MuffaloShaman95.titleShort>ﻥﺎﻣﺎﺷ</MuffaloShaman95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
+  <PlankCutter72.description>{PAWN_gender ? . ﻪﻣﺎﺴﻘﻧﺍﻭ ﺐﺸﺨﻟﺍ ﻮﻤﻧ ﺔﻴﻔﻴﻜﻟ ﺍًﻘﻴﻗﺩ ﺍًﻤﻬﻓ [PAWN_nameDef] ﺕﺭﻮﻃ. ﺔﻨﻴﺘﻣ ﺡﺍﻮﻟﺃ ﻰﻟﺇ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﻖﻳﺮﻃ ﻦﻋ ﺔﻤﺨﺿ ﺔﻴﺒﺸﺧ ﻞﻛﺎﻴﻫ ﺀﺎﻨﺑ ﻲﻓ ﺎﻬﺘﻠﻴﺒﻗ [PAWN_nameDef] ﺕﺪﻋﺎﺳ : . ﻪﻣﺎﺴﻘﻧﺍﻭ ﺐﺸﺨﻟﺍ ﻮﻤﻧ ﺔﻴﻔﻴﻜﻟ ﺍًﻘﻴﻗﺩ ﺍًﻤﻬﻓ [PAWN_nameDef] ﺭﻮﻃ. ﺔﻨﻴﺘﻣ ﺡﺍﻮﻟﺃ ﻰﻟﺇ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﻝﻼﺧ ﻦﻣ ﺔﻤﺨﺿ ﺔﻴﺒﺸﺧ ﻞﻛﺎﻴﻫ ﺀﺎﻨﺑ ﻲﻓ ﻪﺘﻠﻴﺒﻗ [PAWN_nameDef] ﺪﻋﺎﺳ}</PlankCutter72.description>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.title>ﺡﺍﻮﻟﺃ ﻊﻃﺎﻗ</PlankCutter72.title>
+  <PlankCutter72.titleFemale>ﺡﺍﻮﻟﺃ ﺔﻌﻃﺎﻗ</PlankCutter72.titleFemale>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.titleShort>ﺡﺍﻮﻟﺃ ﻊﻃﺎﻗ</PlankCutter72.titleShort>
+  <PlankCutter72.titleShortFemale>ﺡﺍﻮﻟﺃ ﺔﻌﻃﺎﻗ</PlankCutter72.titleShortFemale>
+  
+  <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
+  <Scout59.description>{PAWN_gender ? . ﺔﻴﺴﻨﻤﻟﺍ ﺕﻻﻶﻟ ﺔﺣﺎﺗﺮﻣ ﺔﻤﻳﺪﻘﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺎﺑ ﺭﺮﻜﺘﻤﻟﺍ ﻝﺎﺼﺗﻻﺍ ﺎﻬﻠﻌﺟ. ﺓﺪﺷﺮﻣ ﺎﻬﻔﺻﻮﺑ ﺎﻬﺗﺎﻣﺪﺧ [PAWN_nameDef] ﺖﻣّﺪﻗ ،ﻦﻴﻴﻠﺤﻤﻟﺍ ﺀﺎﺑﺮﻐﻟﺍ ﻊﻣ ﺎﻬﺘﻠﻴﺒﻗ ﺖﻠﺻﺍﻮﺗ ﻥﺃ ﺪﻌﺑ : . ﺔﻴﺴﻨﻤﻟﺍ ﺕﻻﻶﻟ ﺍًﺣﺎﺗﺮﻣ ﺔﻤﻳﺪﻘﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺎﺑ ﺭﺮﻜﺘﻤﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻪﻠﻌﺟ. ﺍًﺪﺷﺮﻣ ﻪﻔﺻﻮﺑ ﻪﺗﺎﻣﺪﺧ [PAWN_nameDef] ﻡّﺪﻗ ،ﻦﻴﻴﻠﺤﻤﻟﺍ ﺀﺎﺑﺮﻐﻟﺍ ﻊﻣ ﻪﺘﻠﻴﺒﻗ ﺖﻠﺻﺍﻮﺗ ﻥﺃ ﺪﻌﺑ}</Scout59.description>
+  <!-- EN: scout -->
+  <Scout59.title>ﻑﺎﺸﻛ</Scout59.title>
+  <Scout59.titleFemale>ﺔﻓﺎﺸﻛ</Scout59.titleFemale>
+  <!-- EN: scout -->
+  <Scout59.titleShort>ﻑﺎﺸﻛ</Scout59.titleShort>
+  <Scout59.titleShortFemale>ﺔﻓﺎﺸﻛ</Scout59.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
+  <StewKeeper95.description>{PAWN_gender ? . ﺍًﻧﺎﻴﺣﺃ ﺎﻬﺴﻔﻨﺑ ﺎﻬﻌﻤﺟﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﺠﻟﺎﻌﻤﺑ ﻡﻮﻘﺗ ﺖﻧﺎﻛ ﺎﻣ ﺍًﺒﻟﺎﻏ. ﺔﻴﺤﺻﻭ ،ًﻼﻳﻮﻃ ﻡﻭﺪﺗﻭ ،ﺔﻳﺭﺍﺮﺤﻟﺍ ﺕﺍﺮﻌﺴﻟﺍ ﺚﻴﺣ ﻦﻣ ﺔﻟﺎﻌﻓ ﺎﻬﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻟﺍ ﺎﻬﻴﻠﻋ ﻥﺎﻛ. ﺎﻬﺘﻠﻴﺒﻗ ﻦﻣ ﻥﻭﺩﺎﻴﺼﻟﺍﻭ ﻥﻮﻋﺭﺍﺰﻤﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻌﻣﺎﺟ ﺎﻬﺒﻠﺟ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺕﺎﺒﺟﻮﻟﺍ [PAWN_nameDef] ﺕﺪﻋﺃ : . ﺍًﻧﺎﻴﺣﺃ ﻪﺴﻔﻨﺑ ﺎﻬﻌﻤﺠﻳﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺞﻟﺎﻌﻳ ﻥﺎﻛ ﺎﻣ ﺍًﺒﻟﺎﻏ. ﺔﻴﺤﺻﻭ ،ًﻼﻳﻮﻃ ﻡﻭﺪﺗﻭ ،ﺔﻳﺭﺍﺮﺤﻟﺍ ﺕﺍﺮﻌﺴﻟﺍ ﺚﻴﺣ ﻦﻣ ﺔﻟﺎﻌﻓ ﺎﻬﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻟﺍ ﻪﻴﻠﻋ ﻥﺎﻛ. ﻪﺘﻠﻴﺒﻗ ﻦﻣ ﻥﻭﺩﺎﻴﺼﻟﺍﻭ ﻥﻮﻋﺭﺍﺰﻤﻟﺍﻭ ﻡﺎﻌﻄﻟﺍ ﻮﻌﻣﺎﺟ ﺎﻬﺒﻠﺟ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺕﺎﺒﺟﻮﻟﺍ [PAWN_nameDef] ﺪﻋﺃ}</StewKeeper95.description>
+  <!-- EN: stew keeper -->
+  <StewKeeper95.title>ﺀﺎﺴﺤﻟﺍ ﻆﻓﺎﺣ</StewKeeper95.title>
+  <StewKeeper95.titleFemale>ﺀﺎﺴﺤﻟﺍ ﺔﻈﻓﺎﺣ</StewKeeper95.titleFemale>
+  <!-- EN: stewkeeper -->
+  <StewKeeper95.titleShort>ﺀﺎﺴﺤﻟﺍ ﻆﻓﺎﺣ</StewKeeper95.titleShort>
+  <StewKeeper95.titleShortFemale>ﺀﺎﺴﺤﻟﺍ ﺔﻈﻓﺎﺣ</StewKeeper95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
+  <Tamer79.description>{PAWN_gender ? . ﺔﻠﻴﺒﻘﻟﺍ ﻡﺪﺨﺗ ﻲﻫﻭ ﺎﻬﺑ ﺀﺎﻨﺘﻋﻻﺍﻭ ﺔﻳﺮﺒﻟﺍ ﺵﻮﺣﻮﻟﺍ ﺾﻳﻭﺮﺘﺑ ﺍًﻀﻳﺃ ﺖﻣﺎﻗ ،ﻲﺣﻭﺭ ﺭﻭﺩ ﺀﺍﺩﺃ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻢﻟﺎﻋ ﺔﺻﺎﺧ—ﺎﻬﻟﻮﺣ ﻦﻣ ﻲﻌﻴﺒﻄﻟﺍ ﻢﻟﺎﻌﻟﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻮﻫ ﺎﻬﺘﻠﻴﺒﻗ ﻲﻓ [PAWN_nameDef] ﺭﻭﺩ ﻥﺎﻛ : . ﺔﻠﻴﺒﻘﻟﺍ ﻡﺪﺨﺗ ﻲﻫﻭ ﺎﻬﺑ ﺀﺎﻨﺘﻋﻻﺍﻭ ﺔﻳﺮﺒﻟﺍ ﺵﻮﺣﻮﻟﺍ ﺾﻳﻭﺮﺘﺑ ﺍًﻀﻳﺃ ﻡﺎﻗ ﺪﻘﻓ ،ﻲﺣﻭﺭ ﺭﻭﺩ ﺀﺍﺩﺃ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻢﻟﺎﻋ ﺔﺻﺎﺧ—ﻪﻟﻮﺣ ﻦﻣ ﻲﻌﻴﺒﻄﻟﺍ ﻢﻟﺎﻌﻟﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻮﻫ ﻪﺘﻠﻴﺒﻗ ﻲﻓ [PAWN_nameDef] ﺭﻭﺩ ﻥﺎﻛ}</Tamer79.description>
+  <!-- EN: tamer -->
+  <Tamer79.title>ﺏﺭﺪﻣ</Tamer79.title>
+  <Tamer79.titleFemale>ﺔﺑﺭﺪﻣ</Tamer79.titleFemale>
+  <!-- EN: tamer -->
+  <Tamer79.titleShort>ﺏﺭﺪﻣ</Tamer79.titleShort>
+  <Tamer79.titleShortFemale>ﺔﺑﺭﺪﻣ</Tamer79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
+  <TreehouseBuilder86.description>{PAWN_gender ? . ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺗﺎﻘﺗ ﻒﻴﻛﻭ ،ﻪﺟﻭ ﻞﻀﻓﺃ ﻰﻠﻋ ﺎﻬﻣﺪﺨﺘﺴﺗﻭ ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﺠﺗ ﻒﻴﻛ [PAWN_nameDef] ﺖﻤﻠﻌﺗ. ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﻭﺃ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﺎﻬﺒﻌﺷ ﺎﻬﻣﺪﺨﺘﺴﻴﻟ ﺎﻬﻴﻓ ﺔﻘﻠﻌﻣ ﺍًﻧﺎﻴﺣﺃﻭ ﺭﺎﺠﺷﻷﺍ ﻦﻴﺑ ﺍًﺗﻮﻴﺑ [PAWN_nameDef] ﺖﻨﺑ : . ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺗﺎﻘﻳ ﻒﻴﻛﻭ ،ﻪﺟﻭ ﻞﻀﻓﺃ ﻰﻠﻋ ﺎﻬﻣﺪﺨﺘﺴﻳﻭ ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﺠﻳ ﻒﻴﻛ [PAWN_nameDef] ﻢﻠﻌﺗ. ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﻭﺃ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﻪﺒﻌﺷ ﺎﻬﻣﺪﺨﺘﺴﻴﻟ ﺎﻬﻴﻓ ﺔﻘﻠﻌﻣ ﺍًﻧﺎﻴﺣﺃﻭ ﺭﺎﺠﺷﻷﺍ ﻦﻴﺑ ﻝﺯﺎﻨﻣ [PAWN_nameDef] ﻰﻨﺑ}</TreehouseBuilder86.description>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.title>ﺮﺠﺸﻟﺍ ﺕﻮﻴﺑ ﻲﻧﺎﺑ</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleFemale>ﺮﺠﺸﻟﺍ ﺕﻮﻴﺑ ﺔﻴﻧﺎﺑ</TreehouseBuilder86.titleFemale>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.titleShort>ﺮﺠﺸﻟﺍ ﺕﻮﻴﺑ ﻲﻧﺎﺑ</TreehouseBuilder86.titleShort>
+  <TreehouseBuilder86.titleShortFemale>ﺮﺠﺸﻟﺍ ﺕﻮﻴﺑ ﺔﻴﻧﺎﺑ</TreehouseBuilder86.titleShortFemale>
+  
+  <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
+  <VengefulHunter32.description>{PAWN_gender ? . ﻩﺪﻠﺟ ﻱﺪﺗﺮﺗ ﺕﺎﻳﻭﺮﻘﻟﺍ ﻯﺪﺣﺇ ﺪﺠﺘﻟ ،ﺔﺒﻳﺮﻗ ﺔﻳﺮﻗ ﻰﻟﺇ ﻩﺮﺛﺃ ﺖﻌﺒﺘﺗ. ﻝﻭﺆﺴﻤﻟﺍ ﺶﺣﻮﻟﺍ [PAWN_nameDef] ﺕﺩﺭﺎﻃ ،ﻥﺍﻮﻴﺣ ﻡﻮﺠﻫ ﺀﺍﺮﺟ ﺔﺑﺮﻘﻣ ﺔﻘﻳﺪﺻ ﺓﺎﻓﻭ ﺪﻌﺑ : . ﻩﺪﻠﺟ ﻱﺪﺗﺮﻳ ﻦﻴﻳﻭﺮﻘﻟﺍ ﺪﺣﺃ ﻥﺃ ﻒﺸﺘﻜﻴﻟ ،ﺔﺒﻳﺮﻗ ﺔﻳﺮﻗ ﻰﻟﺇ ﻩﺮﺛﺃ ﻊﺒﺘﺗ. ﻝﻭﺆﺴﻤﻟﺍ ﺶﺣﻮﻟﺍ [PAWN_nameDef] ﺩﺭﺎﻃ ،ﻥﺍﻮﻴﺣ ﻡﻮﺠﻫ ﺀﺍﺮﺟ ﺏﺮﻘﻣ ﻖﻳﺪﺻ ﺓﺎﻓﻭ ﺪﻌﺑ}</VengefulHunter32.description>
+  <!-- EN: vengeful hunter -->
+  <VengefulHunter32.title>ﻢﻘﺘﻨﻣ ﺩﺎﻴﺻ</VengefulHunter32.title>
+  <VengefulHunter32.titleFemale>ﺔﻴﻣﺎﻘﺘﻧﺍ ﺓﺩﺎﻴﺻ</VengefulHunter32.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulHunter32.titleShort>ﻢﻘﺘﻨﻣ</VengefulHunter32.titleShort>
+  <VengefulHunter32.titleShortFemale>ﺔﻤﻘﺘﻨﻣ</VengefulHunter32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
+  <Warrior94.description>{PAWN_gender ? . ﻙﺭﺎﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺖﻛﺭﺎﺷ. ﺔﺤﻠﺳﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺓﺮﻫﺎﻣ ،ﺔﺳﺮﺷ ﺔﺑﺭﺎﺤﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﻙﺭﺎﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﻙﺭﺎﺷ. ﺔﺤﻠﺳﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺍًﺮﻫﺎﻣ ،ﺍًﺳﺮﺷ ﺍًﺑﺭﺎﺤﻣ [PAWN_nameDef] ﻥﺎﻛ}</Warrior94.description>
+  <!-- EN: warrior -->
+  <Warrior94.title>ﺏﺭﺎﺤﻣ</Warrior94.title>
+  <Warrior94.titleFemale>ﺔﺑﺭﺎﺤﻣ</Warrior94.titleFemale>
+  <!-- EN: warrior -->
+  <Warrior94.titleShort>ﺏﺭﺎﺤﻣ</Warrior94.titleShort>
+  <Warrior94.titleShortFemale>ﺔﺑﺭﺎﺤﻣ</Warrior94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
+  <Weaver63.description>{PAWN_gender ? . ﻯﺮﺧﻷﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻣ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﺎﻬﺑ ﺮﺟﺎﺗُﺗ ﺔﻳﻭﺪﻴﻟﺍ ﺎﻬﺗﺎﻋﻮﻨﺼﻣ ﺖﻧﺎﻛﻭ. ﺎﻬﺑﺭﺎﻗﻷ ﺔﻠﻴﻤﺟ ﺲﺑﻼﻣ ﻰﻟﺇ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻍﺎﺒﺻﻷﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﻑﺎﻴﻟﻷﺍﻭ ﻑﻮﺼﻟﺍ ﻞﻳﻮﺤﺗ ﻲﻓ ﺓﺮﻴﺒﺧ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﻯﺮﺧﻷﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻣ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﻝﺩﺎﺑُﺗ ﺔﻳﻭﺪﻴﻟﺍ ﻪﺗﺎﻋﻮﻨﺼﻣ ﺖﻧﺎﻛﻭ. ﻪﺑﺭﺎﻗﻷ ﺔﻠﻴﻤﺟ ﺲﺑﻼﻣ ﻰﻟﺇ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻍﺎﺒﺻﻷﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﻑﺎﻴﻟﻷﺍﻭ ﻑﻮﺼﻟﺍ ﻞﻳﻮﺤﺗ ﻲﻓ ﺍًﺮﻴﺒﺧ [PAWN_nameDef] ﻥﺎﻛ}</Weaver63.description>
+  <!-- EN: weaver -->
+  <Weaver63.title>{PAWN_gender ? ﺔﺠﺳﺎﻧ : ﺞﺳﺎﻧ}</Weaver63.title>
+  <!-- EN: weaver -->
+  <Weaver63.titleShort>{PAWN_gender ? ﺔﺠﺳﺎﻧ : ﺞﺳﺎﻧ}</Weaver63.titleShort>
+  
+</LanguageData>

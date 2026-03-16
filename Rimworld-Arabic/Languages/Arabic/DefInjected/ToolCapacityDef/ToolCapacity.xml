@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>ﺔﻀﻋ</Bite.label>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>ﻢﺗَﻛ ﺔﺑﺮﺿ</Blunt.label>
+  
+  <!-- EN: cut -->
+  <Cut.label>ﻊﻄﻗ</Cut.label>
+  
+  <!-- EN: demolish -->
+  <Demolish.label>ﻡﺪﻫ</Demolish.label>
+  
+  <!-- EN: kick material in eyes -->
+  <KickMaterialInEyes.label>ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﺓﺩﺎﻣ ﻞﻛﺭ</KickMaterialInEyes.label>
+  
+  <!-- EN: poke -->
+  <Poke.label>ﺔﻨﻌﻃ</Poke.label>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>ﺵﺪﺧ</Scratch.label>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>ﻡﺎﺳ ﺵﺪﺧ</ScratchToxic.label>
+  
+  <!-- EN: stab -->
+  <Stab.label>ﺔﻨﻌﻃ</Stab.label>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>ﺔﻣﺎﺳ ﺔﻀﻋ</ToxicBite.label>
+  
+</LanguageData>

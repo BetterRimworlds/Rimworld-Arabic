@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  -->
+  <GlobalUtility.rulePack.rulesFiles>
+    <!-- Donde se usan generalmente estos archivos-->
+    <!-- Adjetivos:-->
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveAngsty_Fem->Words/Adjectives/Angsty_Fem</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveBadass_Fem->Words/Adjectives/Badass_Fem</li>
+    <li>AdjectiveBadass_Plural->Words/Adjectives/Badass_Plural</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveFriendly_Fem->Words/Adjectives/Friendly_Fem</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveLarge_Fem->Words/Adjectives/Large_Fem</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>AdjectiveNaturalFem->Words/Adjectives/Natural_Fem</li>
+    <!-- Animales:-->
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>Animal_Cap->Words/Nouns/Animals_Cap</li>
+    <li>Animal_Fem->Words/Nouns/Animals_Fem</li>
+    <li>Animal_FemCap->Words/Nouns/Animals_FemCap</li>
+    <li>Animal_FemPlural->Words/Nouns/Animals_FemPlural</li>
+    <li>Animal_Plural->Words/Nouns/Animals_Plural</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalBadass_Cap->Words/Nouns/Animals_BadassCap</li>
+    <li>AnimalBadass_Fem->Words/Nouns/Animal_Badass_Fem</li>
+    <li>AnimalBadass_FemCap->Words/Nouns/Animal_Badass_FemCap</li>
+    <li>AnimalBadass_FemPlural->Words/Nouns/Animal_Badass_FemPlural</li>
+    <li>AnimalBadass_Plural->Words/Nouns/Animal_Badass_Plural</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>AnimalGroup_Fem->Words/Nouns/AnimalGroups_Fem</li>
+    <!--Vestimenta:-->
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Apparel_Fem->Words/Nouns/Apparel_Fem</li>
+    <!--Arte:-->
+    <li>Artwork->Words/Nouns/Artworks</li>
+    <li>Artwork_Fem->Words/Nouns/Artworks_Fem</li>
+    <!--Partes del Cuerpo:-->
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>BodyPart_Fem->Words/Nouns/Bodyparts_Fem</li>
+    <li>BodyPart_Human->Words/Nouns/Bodyparts_Human</li>
+    <!--Negocios:-->
+    <li>BusinessType->Words/Nouns/BusinessTypes</li>
+    <li>BusinessType_Cap->Words/Nouns/BusinessTypes_Cap</li>
+    <li>BusinessType_Fem->Words/Nouns/BusinessTypes_Fem</li>
+    <li>BusinessType_FemCap->Words/Nouns/BusinessTypes_FemCap</li>
+    <li>BusinessType_Plural->Words/Nouns/BusinessTypes_Plural</li>
+    <li>BusinessType_FemPlural->Words/Nouns/BusinessTypes_FemPlural</li>
+    <li>BusinessType_PluralCap->Words/Nouns/BusinessTypes_PluralCap</li>
+    <!--Colores:-->
+    <li>Color->Words/Nouns/Colors</li>
+    <li>Color_Cap->Words/Nouns/Colors_Cap</li>
+    <li>Color_Plural->Words/Nouns/Colors_Plural</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>ColorBadass_Fem->Words/Nouns/Colors_BadassFem</li>
+    <li>Color_Fem->Words/Nouns/Colors_Fem</li>
+    <li>Color_FemCap->Words/Nouns/Colors_FemCap</li>
+    <!--Comunidades:-->
+    <li>Community->Words/Nouns/Communities</li>
+    <li>Community_Fem->Words/Nouns/Communities_Fem</li>
+    <!--Conceptos:-->
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>ConceptAngsty_Fem->Words/Nouns/Concepts_AngstyFem</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptBadass_Fem->Words/Nouns/Concepts_BadassFem</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptPositive_Fem->Words/Nouns/Concepts_PositiveFem</li>
+    <!--Direcciones:-->
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <!--Enemigos:-->
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Enemy_Fem->Words/Nouns/Enemies_Fem</li>
+    <!--Juegos:-->
+    <li>Game->Words/Nouns/Games</li>
+    <li>Game_Fem->Words/Nouns/Games_Fem</li>
+    <li>Game_FemPlural->Words/Nouns/Games_FemPlural</li>
+    <li>Game_Plural->Words/Nouns/Games_Plural</li>
+    <!--Dantesco: Se usa en RulePack_Art_ImagesTales-->
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>GoreMech->Words/Nouns/Gore_Mech</li>
+    <li>GoreMechPl->Words/Nouns/Gore_MechPlural</li>
+    <li>Gore_Plural->Words/Nouns/Gore_Plural</li>
+    <!--Nombre de Grupos:-->
+    <li>GroupName->Words/Nouns/GroupNames</li>
+    <!--Números Romanos:-->
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <!--Letras:-->
+    <li>Letter->WordParts/CapitalLetters</li>
+    <!--Mecanoides:-->
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>Mechanoid_Fem->Words/Nouns/Mechanoid_Fem</li>
+    <li>Mechanoid_FemPl->Words/Nouns/Mechanoid_FemPlural</li>
+    <li>Mechanoid_Plural->Words/Nouns/Mechanoid_Plural</li>
+    <!--Objetos naturales:-->
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>NaturalObject_Fem->Words/Nouns/NaturalObject_Fem</li>
+    <!--Caracteristicas Personales:-->
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <li>PersonalCharacteristic_Fem->Words/Nouns/PersonalCharacteristics_fem</li>
+    <!--Tipos de Personajes:-->
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>PersonBadass_Fem->Words/Nouns/People_Badass_Fem</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonFamily_Fem->Words/Nouns/People_Family_Fem</li>
+    <!--Tipos de Trabajos:-->
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonJob_Plural->Words/Nouns/People_Jobs_Plural</li>
+    <li>PersonJob_Fem->Words/Nouns/People_JobsFem</li>
+    <!--Tipos de uniones modernas:-->
+    <li>PoliticalUnionOutlander->Words/Nouns/PoliticalUnions_Outlander</li>
+    <!--Tipos de uniones de tribus:-->
+    <li>PoliticalUnionTribal->Words/Nouns/PoliticalUnions_Tribal</li>
+    <!--Sílabas:-->
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <!--Nombre de los biomas:-->
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeature_Fem->Words/Nouns/TerrainFeatures_Fem</li>
+    <li>TerrainFeature_Pl->Words/Nouns/TerrainFeatures_Plural</li>
+    <li>TerrainFeature_PlFem->Words/Nouns/TerrainFeatures_PluralFem</li>
+    <!--Nombre de los árboles:-->
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>TreeType_Fem->Words/Nouns/TreeTypes_Fem</li>
+    <!--Nombre para los tribales-->
+    <li>TribalFirstName->Words/Foreign/TribalsFirstName</li>
+    <li>TribalLastName->Words/Foreign/TribalsLastName</li>
+    <!--Nombre para las tribus en mayúscula:-->
+    <li>WordTribal_Cap->Words/Foreign/Tribal_Cap</li>
+    <li>WordTribal_Name->Words/Foreign/Tribal_Names</li>
+    <li>WordTribal_NameCap->Words/Foreign/Tribal_NamesCap</li>
+    <!--Nombre de vegetales:-->
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Vegetable_Fem->Words/Nouns/Vegetables_Fem</li>
+    <!--Nombre de verbos amistosos:-->
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>VerbFriendly_Fem->Words/Verbs/Friendly_Fem</li>
+    <!--Armas:-->
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>WeaponVarPl->Words/Nouns/WeaponsVar</li>
+    <li>WeaponCac->Words/Nouns/Weapons_Cac</li>
+    <li>WeaponCac_Fem->Words/Nouns/Weapons_CacFem</li>
+    <li>WeaponCac_Plural->Words/Nouns/Weapons_CacPlural</li>
+    <li>WeaponCac_FemPlural->Words/Nouns/Weapons_CacFemPlural</li>
+    <li>Weapon_Fem->Words/Nouns/Weapons_Fem</li>
+    <li>Weapon_FemPlural->Words/Nouns/Weapons_FemPlural</li>
+    <li>Weapon_Plural->Words/Nouns/Weapons_Plural</li>
+    <!--Armas:WeaponLongRange-->
+    <li>Weapon_Ranged->Words/Nouns/Weapons_Ranged</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <!-- EN:
+    <li>Trans->of</li>
+    <li>Trans->for</li>
+    <li>Trans->by</li>
+    <li>Trans->with</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->two</li>
+    <li>Quantity_adjphrase->three</li>
+    <li>Quantity_adjphrase->four</li>
+    <li>Quantity_adjphrase->five</li>
+    <li>Quantity_adjphrase->six</li>
+    <li>Quantity_adjphrase->seven</li>
+    <li>Quantity_adjphrase->eight</li>
+    <li>Quantity_adjphrase->nine</li>
+    <li>Quantity_adjphrase->ten</li>
+    <li>Quantity_adjphrase->several</li>
+    <li>Quantity_adjphrase->a group of</li>
+    <li>Quantity_adjphrase->a large group of</li>
+    <li>Quantity_adjphrase->dozens of</li>
+    <li>Quantity_adjphrase->hundreds of</li>
+    <li>Quantity_adjphrase->a thousand</li>
+    <li>Quantity_adjphrase->thousands of</li>
+    <li>Shape->triangle</li>
+    <li>Shape->square</li>
+    <li>Shape->rectangle</li>
+    <li>Shape->cone</li>
+    <li>Shape->line</li>
+    <li>Shape->heart</li>
+    <li>Shape->star</li>
+    <li>Shape->circle</li>
+    <li>Shape->ellipse</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitals</li>
+    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
+    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+  -->
+  <GlobalUtility.rulePack.rulesStrings>
+    <!--Reglas Especiales-->
+    <!--asker-->
+    <li>asker_o_a(asker_gender!=Female)->ﻭﺃ</li>
+    <li>asker_o_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_e_a(asker_gender!=Female)->ﻭ</li>
+    <li>asker_e_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_x_a(asker_gender!=Female)-></li>
+    <li>asker_x_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_a(asker_gender!=Female)->ﺪﺣﺍﻭ</li>
+    <li>asker_a(asker_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>asker_aCap(asker_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>asker_aCap(asker_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>asker_TheCap(asker_gender!=Female)->ﻝﺍ</li>
+    <li>asker_TheCap(asker_gender==Female)->ﺎﻟ</li>
+    <li>asker_The(asker_gender!=Female)->ﻝﺍ</li>
+    <li>asker_The(asker_gender==Female)->ﺎﻟ</li>
+    <li>asker_a_al(asker_gender!=Female)->ﻝﺍ</li>
+    <li>asker_a_al(asker_gender==Female)->ﻰﻟﺇ</li>
+    <li>titleHeir_o_a(titleHeir_gender==Male)->ﻭﺃ</li>
+    <li>titleHeir_o_a(titleHeir_gender==Female)->ﺍ</li>
+    <li>titleHeir_o_a(titleHeir_gender==None)->ﻭﺃ</li>
+    <li>titleHeirDef(titleHeir_gender==Male)->ﻝﺍ</li>
+    <li>titleHeirDef(titleHeir_gender==Female)->ﺎﻟ</li>
+    <li>titleHeirDef(titleHeir_gender==None)->ﻝﺍ</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->ﻭﺃ</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﺍ</li>
+    <!--PRISONER-->
+    <li>PRISONER_o_a(PRISONER_gender!=Female)->ﻭﺃ</li>
+    <li>PRISONER_o_a(PRISONER_gender==Female)->ﺍ</li>
+    <!--PATIENT-->
+    <li>PATIENT_o_a(PATIENT_gender!=Female)->ﻭﺃ</li>
+    <li>PATIENT_o_a(PATIENT_gender==Female)->ﺍ</li>
+    <!--RECIPIENT-->
+    <li>RECIPIENT_o_a(RECIPIENT_gender!=Female)->ﻭﺃ</li>
+    <li>RECIPIENT_o_a(RECIPIENT_gender==Female)->ﺍ</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->ﻭﺃ</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﺍ</li>
+    <!--refugee-->
+    <li>refugee_o_a(refugee_gender!=Female)->ﻭﺃ</li>
+    <li>refugee_o_a(refugee_gender==Female)->ﺍ</li>
+    <li>refugee_ununa(refugee_gender!=Female)->ﺪﺣﺍﻭ</li>
+    <li>refugee_ununa(refugee_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <!--joiner-->
+    <li>joiner_a(joiner_gender!=Female)->ﺪﺣﺍﻭ</li>
+    <li>joiner_a(joiner_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>joiner_A(joiner_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>joiner_A(joiner_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>joiner_o_a(joiner_gender!=Female)->ﻭﺃ</li>
+    <li>joiner_o_a(joiner_gender==Female)->ﺍ</li>
+    <!-- regla especial para la misión JoinerTheat-->
+    <li>joiner_especial(joiner_gender!=Female)->ﺔﻨﺑﺎﻟﺍ</li>
+    <li>joiner_especial(joiner_gender==Female)->ﻦﺑﺎﻟﺍ</li>
+    <!--lodgers-->
+    <li>o_a(lodgers0_gender==Female)->ﺍ</li>
+    <li>o_a(lodgers0_gender!=Female)->ﻭﺃ</li>
+    <li>e_a(lodgers0_gender==Female)->ﺍ</li>
+    <li>e_a(lodgers0_gender!=Female)->ﻭ</li>
+    <li>arrived(lodgerCount==1)->َﻞﺻﻭ</li>
+    <li>arrived(lodgerCount>=2)->ﺍﻮﻠﺻﻭ</li>
+    <li>Un_Cap(lodgers0_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>Un_Cap(lodgers0_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>un_una(lodgers0_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <li>un_una(lodgers0_gender!=Female)->ﺪﺣﺍﻭ</li>
+    <li>insults(lodgers0_gender==Female)->ِﺔَﺑﺎَﺘْﻐُﻤﻠﻟ</li>
+    <li>insults(lodgers0_gender!=Female)->ﻱِﺮَﺘْﻔُﻤﻟﺍ</li>
+    <li>arrived(lodgerCount==1)->َﻞﺻﻭ</li>
+    <li>arrived(lodgerCount>=2)->ﺍﻮﻠﺻﻭ</li>
+    <li>willStay(lodgerCount==1)->ﻰﻘﺒﻴﺳ</li>
+    <li>willStay(lodgerCount>=2)->ﻥﻮﻘﺒﻴﺳ</li>
+    <li>last(lodgers0_gender==Male)->ﺮﻴﺧﺄﻟﺍ</li>
+    <li>last(lodgers0_gender!=Male)->ﺓﺮﻴﺧﺄﻟﺍ</li>
+    <li>lodgersLeave(lodgersCount==1)->ﻙﺮﺘﻴﺳ</li>
+    <li>lodgersLeave(lodgersCount>=2)->ﻥﻮﻛﺮﺘﻴﺳ</li>
+    <li>lodgersella(lodgers0_gender==Male)->ﻝﺍ</li>
+    <li>lodgersella(lodgers0_gender!=Male)->ﺎﻟ</li>
+    <li>lodgersellaCap(lodgers0_gender==Male)->ﻝﺍ</li>
+    <li>lodgersellaCap(lodgers0_gender!=Male)->ﺎﻟ</li>
+    <li>HadSingOrPlural(lodgerCount==1)->ﻚﻠﻤﻳ ﻥﺎﻛ</li>
+    <li>HadSingOrPlural(lodgerCount>=2)->ﻥﻮﻜﻠﻤﻳ ﺍﻮﻧﺎﻛ</li>
+    <li>hostedSingOrPlural(lodgers0_gender==Male,lodgerCount==1)->ﻒﻴِﻀَﺘْﺴُﻣ</li>
+    <li>hostedSingOrPlural(lodgers0_gender!=Male,lodgerCount==1)->ﺔَﻔﻴِﻀَﺘْﺴُﻣ</li>
+    <li>hostedSingOrPlural(lodgerCount>=2)->َﻥﻮُﻔﻴِﻀَﺘْﺴُﻣ</li>
+    <!-- EnemyFaction -->
+    <li>el_la(enemyFaction_leader==Male)->ﻝﺍ</li>
+    <li>el_la(enemyFaction_leader!=Male)->ﺎﻟ</li>
+    <li>factionOpponentun_una(factionOpponent==Male)->ﺪﺣﺍﻭ</li>
+    <li>factionOpponentun_una(factionOpponent!=Male)->ﺓﺪﺣﺍﻭ</li>
+    <!--Quest Hospitality -->
+    <li>arrived(lodgerCount==1)->َﻞﺻﻭ</li>
+    <li>arrived(lodgerCount>=2)->ﺍﻮﻠﺻﻭ</li>
+    <!--Scrip_LongRangeMineralScanner-->
+    <li>targetMineable_labelVar(targetMineable==MineableGold)->ﺐﻫﺫ ﻢﺠﻨﻣ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSilver)->ﺔﻀﻓ ﻢﺠﻨﻣ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSteel)->ﺪﻳﺪﺣ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﺎﻠﺑ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableComponentsIndustrial)->ﻁﻮﻐﻀﻣ ﻲﻧﺪﻌﻣ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableUranium)->ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻢﺠﻨﻣ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableJade)->ﻢﺸﻴﻟﺍ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(p=0.00000000001)->[targetMineable_label]</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableGold)->ﺐﻫﺫ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSilver)->ﺔﻀﻓ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSteel)->ﺫﺎﻟﻮﻓ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﺎﻠﺑ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableComponentsIndustrial)->ﺔﺠﻣﺪﻣ ﺕﺎﻟﺁ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableUranium)->ﻡﻮﻴﻧﺍﺭﻮﻳ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableJade)->ﻢﺸﻳ</li>
+    <li>targetMineableThing_labelVar(p=0.00000000001)->[targetMineableThing_label]</li>
+    <!-- Scrip Uitlity helpers -->
+    <li>helpersSent(helpersCount==1,helpers0_gender!=Female)->ﻞﺳﺮﻣ</li>
+    <li>helpersSent(helpersCount==1,helpers0_gender==Female)->ﺔﻠﺳﺮﻣ</li>
+    <li>helpersSent(helpersCount>=2)->ﻥﻮﻠَﺳﺮُﻣ</li>
+    <li>helpersArrived(helpersCount==1)->ﻞﺻﻭ ﺪﻗ</li>
+    <li>helpersArrived(helpersCount>=2)->ﺍﻮﻠﺻﻭ</li>
+    <li>helpersLeaving(helpersCount==1)->ﻑﺮﺼﻨﻳ</li>
+    <li>helpersLeaving(helpersCount>=2)->ﻥﻮﻓﺮﺼﻨﻳ</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender!=Female)->ﻝﺍ</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender==Female)->ﺎﻟ</li>
+    <li>helpersTheCap(helpersCount>=2)->ﻝﺍ</li>
+    <li>helpersSpent(helpersCount==1)->ٰﻰَﻀَﻣ</li>
+    <li>helpersSpent(helpersCount>=2)->ﺍﻭُّﺮَﻣ</li>
+    <!-- ShuttleCrash-->
+    <li>crashedLanded(civilians_count==1)->ﻢّﻄﺤﺗ</li>
+    <li>crashedLanded(civilians_count>=2)->ﺍﻮﻤّﻄﺤﺗ</li>
+    <li>thesePeople(civilians_count==1)->ﺺﺨﺸﻟﺍ ﺍﺬﻫ</li>
+    <li>thesePeople(civilians_count>=2)->ﺹﺎﺨﺷﺄﻟﺍ ﺀﺎﻟﺆﻫ</li>
+    <!-- beggar -->
+    <li>beggars_o_a(beggars0_gender==Male)->ﻭﺃ</li>
+    <li>beggars_o_a(beggars0_gender!=Male)->ﺍ</li>
+    <li>beggars_e_a(beggars0_gender==Male)->ﻭ</li>
+    <li>beggars_e_a(beggars0_gender!=Male)->ﺍ</li>
+    <!-- founder -->
+    <li>founder_o_a(founder_gender==Male)->ﻭﺃ</li>
+    <li>founder_o_a(founder_gender!=Male)->ﺍ</li>
+    <li>founder_Heroe(founder_gender==Male)->ﻞﻄﺑ</li>
+    <li>founder_Heroe(founder_gender!=Male)->ﺔﻠﻄﺑ</li>
+    <!-- pilgrim -->
+    <li>childGender(pawns0==Male)->ﻞﻔﻃ</li>
+    <li>childGender(pawns0!=Male)->ﺓﺎﺘﻓ</li>
+    <li>siendo(pilgrimCount==1,pawns0==Male)->ﻡﺮﺘﺤُﻳ</li>
+    <li>siendo(pilgrimCount==1,pawns0!=Male)->ﻡﺮﺘﺤُﻳ</li>
+    <li>siendo(pilgrimCount>=2)->ﻥﻮﻣَﺮﺘﺤُﻳ</li>
+    <li>mayOffers(pilgrimCount==1)->ﺪﻗ</li>
+    <li>mayOffers(pilgrimCount>=2)->ْﻥﺃ ُﻦِﻜْﻤُﻳ</li>
+    <!--Tales Jobs-->
+    <!-- PAWN-->
+    <li>PAWN_o_a(PAWN_gender!=Female)->ﻭﺃ</li>
+    <li>PAWN_o_a(PAWN_gender==Female)->ﺍ</li>
+    <li>pawn_o_a(pawn_gender!=Female)->ﻭﺃ</li>
+    <li>pawn_o_a(pawn_gender==Female)->ﺍ</li>
+    <!-- SURGEON-->
+    <li>SURGEON_o_a(SURGEON_gender!=Female)->ﻭﺃ</li>
+    <li>SURGEON_o_a(SURGEON_gender==Female)->ﺍ</li>
+    <!-- VICTIM-->
+    <li>VICTIM_o_a(VICTIM_gender!=Female)->ﻭﺃ</li>
+    <li>VICTIM_o_a(VICTIM_gender==Female)->ﺍ</li>
+    <!-- KILLER-->
+    <li>KILLER_o_a(KILLER_gender!=Female)->ﻭﺃ</li>
+    <li>KILLER_o_a(KILLER_gender==Female)->ﺍ</li>
+    <!-- JOINER-->
+    <li>JOINERTales_o_a(JOINER_gender!=Female)->ﻭﺃ</li>
+    <li>JOINERTales_o_a(JOINER_gender==Female)->ﺍ</li>
+    <!--TRAINER-->
+    <li>TRAINER_o_a(TRAINER_gender!=Female)->ﻭﺃ</li>
+    <li>TRAINER_o_a(TRAINER_gender==Female)->ﺍ</li>
+    <!--SLEEPER-->
+    <li>SLEEPER_o_a(SLEEPER_gender!=Female)->ﻭﺃ</li>
+    <li>SLEEPER_o_a(SLEEPER_gender==Female)->ﺍ</li>
+    <!--ATTENDER-->
+    <li>ATTENDER_o_a(ATTENDER_gender!=Female)->ﻭﺃ</li>
+    <li>ATTENDER_o_a(ATTENDER_gender==Female)->ﺍ</li>
+    <!--SENDER-->
+    <li>un_una_sender(ATTENDER_gender!=Female)->ﺪﺣﺍﻭ</li>
+    <li>un_una_sender(ATTENDER_gender==Female)->ﺓﺪﺣﺍﻭ</li>
+    <!-- Book_Descriptions -->
+    <!--ANYPAWN -->
+    <li>ANYPAWN_o_a(ANYPAWN_gender!=Female)->ﻭﺃ</li>
+    <li>ANYPAWN_o_a(ANYPAWN_gender==Female)->ﺍ</li>
+    <!--Reglas Normales-->
+    <li>TransOf->ﻦﻣ</li>
+    <li>Trans->ِﻝ</li>
+    <li>Trans->ِﻝ</li>
+    <li>Trans->ِﺏ</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>AnimalBadassAny->[AnimalBadass]</li>
+    <li>AnimalBadassAny->[AnimalBadass_Fem]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_Cap]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_FemCap]</li>
+    <li>AnimalBadassDefCap->[AnimalBadass] ﻝﺍ</li>
+    <li>AnimalBadassDefCap->[AnimalBadass_Fem] ـﻝﺍ</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_Plural]</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_FemPlural]</li>
+    <li>AnimalAny->[Animal]</li>
+    <li>AnimalAny->[Animal_Fem]</li>
+    <li>AnimalAnyPl->[Animal_Plural]</li>
+    <li>AnimalAnyPl->[Animal_FemPlural]</li>
+    <li>AnimalIndef->[Animal] ﺪﺣﺍﻭ</li>
+    <li>AnimalIndef->[Animal_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>AnimalGroupIndef->[AnimalGroup] ﺪﺣﺍﻭ</li>
+    <li>AnimalGroupIndef->[AnimalGroup_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>ApparelAny->[Apparel]</li>
+    <li>ApparelAny->[Apparel_Fem]</li>
+    <li>ApparelIndef->[Apparel] ﺪﺣﺍﻭ</li>
+    <li>ApparelIndef->[Apparel_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>BusinessTypeAny->[BusinessType]</li>
+    <li>BusinessTypeAny->[BusinessType_Fem]</li>
+    <li>BusinessTypeAny_def->[BusinessType] ﻝﺍ</li>
+    <li>BusinessTypeAny_def->[BusinessType_Fem] ـﻝﺍ</li>
+    <li>BusinessTypeAny_def->[BusinessType_Plural] ـﻝﺍ</li>
+    <li>BusinessTypeAny_def->[BusinessType_FemPlural] ـﻝﺍ</li>
+    <li>BusinessTypeAny_def_Cap->[BusinessType_Cap] ﻝﺍ</li>
+    <li>BusinessTypeAny_def_Cap->[BusinessType_FemCap] ـﻝﺍ</li>
+    <li>BodyPartAny->[BodyPart]</li>
+    <li>BodyPartAny->[BodyPart_Fem]</li>
+    <li>ColorAny->[Color]</li>
+    <li>ColorAny->[Color_Fem]</li>
+    <li>ColorAny_Cap->[Color_Cap]</li>
+    <li>ColorAny_Cap->[Color_FemCap]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>ConceptAny_Fem->[ConceptPositive_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptBadass_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptAngsty_Fem]</li>
+    <li>ConceptAnyDef->[ConceptAny] ﻝﺍ</li>
+    <li>ConceptAnyDef->[ConceptAny_Fem] ـﻝﺍ</li>
+    <li>ConceptAnyFull->[ConceptAny]</li>
+    <li>ConceptAnyFull->[ConceptAny_Fem]</li>
+    <li>CommunityIndefCap->[Community_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CommunityIndefCap->[Community] ﺪﺣﺍﻭ</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character_Plural(p=6)->[PersonJob_Plural]</li>
+    <li>Character_Fem(p=6)->[PersonJob_Fem]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character_Plural(p=4)->[Animal_Plural]</li>
+    <li>Character_Fem(p=4)->[Animal_Fem]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character_Plural(p=3)->ﺀﺍﺪﻋﺍ[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Character_Human->[PersonJob]</li>
+    <li>Character_Human->[Enemy]</li>
+    <li>CharacterEnemyPlural(p=2)->[Animal_Plural]</li>
+    <li>CharacterEnemyPlural->[Animal_FemPlural]</li>
+    <li>CharacterEnemyPlural(p=3)->ﺀﺍﺪﻋﺍ[Enemy]</li>
+    <li>CharacterEnemyPlural(p=2)->ﺕﺍﺩﻮﻧﺎﻜﻴﻤﻟﺍ[Mechanoid]</li>
+    <li>CharacterIndef(p=6)->[PersonJob] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndef(p=6)->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CharacterIndef(p=4)->[Animal] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndef(p=4)->[Animal_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CharacterIndef(p=3)->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndef->[Mechanoid] ﻲﻜﻴﻧﺎﻜﻴﻣ</li>
+    <li>CharacterIndefMas(p=6)->[PersonJob] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndefMas(p=4)->[Animal] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndefMas(p=3)->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndefMas->[Mechanoid] ﻲﻜﻴﻧﺎﻜﻴﻣ</li>
+    <li>CharacterIndefFem(p=6)->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CharacterIndefFem(p=4)->[Animal_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CommunityIndef->[Community] ﺪﺣﺍﻭ</li>
+    <li>CommunityIndef->[Community_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>CommunityDef->[Community] ﻝﺍ</li>
+    <li>CommunityDef->[Community_Fem] ـﻝﺍ</li>
+    <li>CommunityAny->[Community]</li>
+    <li>CommunityAny->[Community_Fem]</li>
+    <li>GameAny->[Game]</li>
+    <li>GameAny->[Game_Fem]</li>
+    <li>GameAny->[Game_Plural]</li>
+    <li>GameAny->[Game_FemPlural]</li>
+    <li>EnemyIndef->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>EnemyIndef->[Enemy_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>PersonJobIndef->[PersonJob] ﺪﺣﺍﻭ</li>
+    <li>PersonJobIndef->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>GameDef->[Game] ـﻝﺍ</li>
+    <li>GameDef->[Game_Fem] ـﻝﺍ</li>
+    <li>NaturalObjectDef->[NaturalObject] ﺪﺣﺍﻭ</li>
+    <li>NaturalObjectDef->[NaturalObject_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>MechanoidAnyPl->[Mechanoid_FemPl]</li>
+    <li>MechanoidAnyPl->[Mechanoid_Plural]</li>
+    <li>Quantity_adjphrase->ﻥﺎﻨﺛﺇ</li>
+    <li>Quantity_adjphrase->ﺔﺛﺎﻠﺛ</li>
+    <li>Quantity_adjphrase->ﺔﻌﺑﺭﺃ</li>
+    <li>Quantity_adjphrase->ﺔﺴﻤﺧ</li>
+    <li>Quantity_adjphrase->ﺔﺘﺳ</li>
+    <li>Quantity_adjphrase->ﺔﻌﺒﺳ</li>
+    <li>Quantity_adjphrase->ﺔﻴﻧﺎﻤﺛ</li>
+    <li>Quantity_adjphrase->ﺔﻌﺴﺗ</li>
+    <li>Quantity_adjphrase->ﺓﺮﺸﻋ</li>
+    <li>Quantity_adjphrase->ﺩﺪﻌﺘﻣ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﺔﻋﻮﻤﺠﻣ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻋﻮﻤﺠﻣ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﺕﺍﺮﺸﻋ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﺕﺎﺌﻣ</li>
+    <li>Quantity_adjphrase->ﻒﻟﺃ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﻑﺎﻟﺁ</li>
+    <li>Shape->ﺚﻠﺜﻣ</li>
+    <li>Shape->ﻊﺑﺮﻣ</li>
+    <li>Shape->ﻞﻴﻄﺘﺴﻣ</li>
+    <li>Shape->ﻁﻭﺮﺨﻣ</li>
+    <li>Shape_Fem->ﻂﺧ</li>
+    <li>Shape_Var->ﺐﻠﻗ</li>
+    <li>Shape_VarPl->ﺏﻮﻠﻗ</li>
+    <li>Shape_Fem->ﺔﻤﺠﻧ</li>
+    <li>Shape->ﺓﺮﺋﺍﺩ</li>
+    <li>Shape->ﺐﻠﻗ</li>
+    <li>ShapeDef->[Shape] ﺪﺣﺍﻭ</li>
+    <li>ShapeDef->[Shape_Var] ﺪﺣﺍﻭ</li>
+    <li>ShapeDef->[Shape_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>ShapeAny->[Shape]</li>
+    <li>ShapeAny->[Shape_Fem]]</li>
+    <li>Shape_Plural->ﻝﺎﻜﺷﺃ[ShapeAny]</li>
+    <li>Shape_Plural->[Shape_VarPl]</li>
+    <li>PersonJobAny->[PersonJob]</li>
+    <li>PersonJobAny->[PersonJob_Fem]</li>
+    <li>PersonIndef->[PersonJob] ﺪﺣﺍﻭ</li>
+    <li>PersonIndef->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>PersonFamilyAny->[PersonFamily]</li>
+    <li>PersonFamilyAny->[PersonFamily_Fem]</li>
+    <li>PersonFamilyAal->[PersonFamily] ﻝﺍ</li>
+    <li>PersonFamilyAal->[PersonFamily_Fem] ﻰﻟﺇ</li>
+    <li>PersonFamilyDef->[PersonFamily] ﺔﻠﺋﺎﻋ ﻦﻣ</li>
+    <li>PersonFamilyDef->[PersonFamily_Fem] ﻦﻣ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﻠﺳﺎﻨﺗ ﺀﺎﻀﻋﺃ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻧﺎﻌﻟﺍ ﺮﻌﺷ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﻢﺴﺠﻟﺍ ﺮﻌﺷ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺼﺨﺸﻟﺍ ﺔﻓﺎﻈﻨﻟﺍ ﺕﺍﺩﺎﻋ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺴﻨﺟ ﺔﻋﺍﺮﺑ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺴﻨﺟ ﺕﺎﻠﻴﻀﻔﺗ</li>
+    <li>PersonalCharacteristic_Fem(p=0.15)->ﺔﻴﺴﻨﺟ ﺔﺑﺮﺠﺗ</li>
+    <li>PersonalCharacteristicDef->[PersonalCharacteristic] ﻝﺍ</li>
+    <li>PersonalCharacteristicDef->[PersonalCharacteristic_Fem] ـﻝﺍ</li>
+    <li>TerrainFeatureAny->[TerrainFeature]</li>
+    <li>TerrainFeatureAny->[TerrainFeature_Fem]</li>
+    <li>TerrainFeatureIndef->[TerrainFeature] ﺪﺣﺍﻭ</li>
+    <li>TerrainFeatureIndef->[TerrainFeature_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>TerrainFeatureIndefCap->[TerrainFeature] ﺪﺣﺍﻭ</li>
+    <li>TerrainFeatureIndefCap->[TerrainFeature_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_Pl]</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_PlFem]</li>
+    <li>TreeTypeAny->[TreeType]</li>
+    <li>TreeTypeAny->[TreeType_Fem]</li>
+    <li>TreeTypeIndef->[TreeType] ﺪﺣﺍﻭ</li>
+    <li>TreeTypeIndef->[TreeType_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>VegetableAny->[Vegetable]</li>
+    <li>VegetableAny->[Vegetable_Fem]</li>
+    <li>VegetableDef->[Vegetable] ﻝﺍ</li>
+    <li>VegetableDef->[Vegetable_Fem] ـﻝﺍ</li>
+    <li>VegetableIndef->[Vegetable] ﺪﺣﺍﻭ</li>
+    <li>VegetableIndef->[Vegetable_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>WeaponAny->[Weapon]</li>
+    <li>WeaponAny->[Weapon_Fem]</li>
+    <li>WeaponAnyPl->[Weapon_Plural]</li>
+    <li>WeaponAnyPl->[Weapon_FemPlural]</li>
+    <li>WeaponIndef->[Weapon] ﺪﺣﺍﻭ</li>
+    <li>WeaponIndef->[Weapon_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>WeaponCacIndef->[WeaponCac] ﺪﺣﺍﻭ</li>
+    <li>WeaponCacIndef->[WeaponCac_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>WeaponCacAnyPl->[WeaponCac_Plural]</li>
+    <li>WeaponCacAnyPl->[WeaponCac_FemPlural]</li>
+    <li>WeaponCacAnyIndefPl->[WeaponCac_Plural] ﺾﻌﺑ</li>
+    <li>WeaponCacAnyIndefPl->[WeaponCac_FemPlural] ﺾﻌﺑ</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]s</li>
+    <li>TalkTopicLight->eating [Vegetable]s</li>
+    <li>TalkTopicLight->cooking with [Vegetable]s</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->playing [Game]</li>
+    <li>TalkTopicLight->practicing [Game]</li>
+    <li>TalkTopicLight->learning [Game]</li>
+    <li>TalkTopicLight->[Animal]s</li>
+    <li>TalkTopicLight->training [Animal]s</li>
+    <li>TalkTopicLight->taming [Animal]s</li>
+    <li>TalkTopicLight->fighting [Animal]s</li>
+    <li>TalkTopicLight->crazy [Animal]s</li>
+    <li>TalkTopicLight->[Weapon]s</li>
+    <li>TalkTopicLight->using [Weapon]s</li>
+    <li>TalkTopicLight->practicing with [Weapon]s</li>
+    <li>TalkTopicLight->[TerrainFeature]s</li>
+    <li>TalkTopicLight->[NaturalObject]s</li>
+    <li>TalkTopicLight->[TreeType] trees</li>
+    <li>TalkTopicLight->[PersonJob]s</li>
+    <li>TalkTopicLight->friendly [PersonJob]s</li>
+    <li>TalkTopicLight->hostile [PersonJob]s</li>
+    <li>TalkTopicLight->[Enemy]s</li>
+    <li>TalkTopicLight->fighting [Enemy]s</li>
+    <li>TalkTopicLight->[Apparel]s</li>
+    <li>TalkTopicLight->wearing [Apparel]s</li>
+    <li>TalkTopicLight->making [Apparel]s</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seduction</li>
+    <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
+    <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+  -->
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﻂﺑﺍﺮﻟﺍ</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﻝﺎﺼﺗﺎﻟﺍ</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﺔﻗﺎﻠﻌﻟﺍ</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->ﺕﺍﻭﺮﻀﺧ[VegetableAny]</li>
+    <li>TalkTopicLight->ﺓ[VegetableAny] ﻞﻛﺃ</li>
+    <li>TalkTopicLight->ﺱ[VegetableAny] ﺦﺒﻃ</li>
+    <li>TalkTopicLight->[GameAny]</li>
+    <li>TalkTopicLight->[GameAny] ﺐﻌﻠﻳ</li>
+    <li>TalkTopicLight->[GameAny] ﺱﺭﺎﻤﻳ</li>
+    <li>TalkTopicLight->[GameAny] ﻢّﻠﻌﺗ</li>
+    <li>TalkTopicLight->[AnimalAnyPl]</li>
+    <li>TalkTopicLight->[AnimalAnyPl] ﺐﻳﺭﺪﺗ</li>
+    <li>TalkTopicLight->[AnimalAnyPl] [AnimalAnyPl] ﻦﻴِﺟْﺪَﺗ</li>
+    <li>TalkTopicLight->[AnimalAnyPl] ﻞﺗﺎﻘﻳ</li>
+    <li>TalkTopicLight->ﺔﻧﻮﻨﺠﻣ [Animal_Plural]</li>
+    <li>TalkTopicLight->ﺕﺎﻧﻮﻨﺠﻣ [Animal_FemPlural]</li>
+    <li>TalkTopicLight->[WeaponAnyPl]</li>
+    <li>TalkTopicLight->[WeaponAnyPl] ﻡﺍﺪﺨﺘﺳﺍ</li>
+    <li>TalkTopicLight->[WeaponAnyPl] ﻰﻠﻋ ﺏﺭﺪﺘﻟﺍ</li>
+    <li>TalkTopicLight->ﺔﻴﻌﻴﺒﻃ ﺀﺎﻴﺷﺃ[TerrainFeatureAny]</li>
+    <li>TalkTopicLight->[نوع الشجرة] ﺭﺎﺠﺷﺃ[NaturalObject]</li>
+    <li>TalkTopicLight->ﻥﻭـ[TreeTypeAny]</li>
+    <li>TalkTopicLight->[وظيفة الشخص] ﺩﺍﺮﻓﺃ[PersonJobAny]</li>
+    <li>TalkTopicLight->ﻥﻭﺩﻭﺩﻭ[PersonJobAny]</li>
+    <li>TalkTopicLight->ﺀﺍﺪﻋﺃ[PersonJobAny]</li>
+    <li>TalkTopicLight->s[العدو] ﻞﺗﺎﻘﻳ[Enemy]</li>
+    <li>TalkTopicLight->s[Enemy] ﻊﻣ ﻞﺗﺎﻘﻳ</li>
+    <li>TalkTopicLight->[الملابس] ﻱﺪﺗﺮﻳ[Apparel]</li>
+    <li>TalkTopicLight->s[Apparel] ﻊﻨﺻ</li>
+    <li>TalkTopicLight->ﺱ[Apparel] ﻊﻨﺼﻳ</li>
+    <li>talktopicheavyfile(p=0.15)->ﺲﻨﺠﻟﺍ</li>
+    <li>talktopicheavyfile(p=0.15)->ﺀﺍﻮﻏﺈﻟﺍ</li>
+    <li>talktopicheavyfile(p=0.15)->ﻥﺍﻮﻴﺤﻟﺍ ﺲﻨﺟ</li>
+    <li>talktopicheavyfile(p=0.15)->ﺔَّﻴِﺴْﻨِﺟ ﺕﺎَﺳَﻮَﻫ</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
+</LanguageData>

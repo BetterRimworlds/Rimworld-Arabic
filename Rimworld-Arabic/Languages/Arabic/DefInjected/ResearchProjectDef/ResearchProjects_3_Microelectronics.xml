@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>ﺔﻘﻴﻤﻋ ﺓﺭﺎﻔﺣ</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>.ﺩﺭﺍﻮﻤﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻠﻟ ﻕﺎﻤﻋﺄﻠﻟ ﻲﺋﻮﺿ ﺢﺳﺎﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ .ﺽﺭﺄﻟﺍ ﻕﺎﻤﻋﺃ ﻦﻣ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻘﻴﻤﻋ ﺕﺍﺭﺎﻔﺣ ﺀﺎﻨﺒﺑ ﻚﻟ ﺢﻤﺴﻳ</DeepDrilling.description>
+  <!-- EN:
+    <li>subject->deep mining</li>
+    <li>subject_story->moved in with a dirtmole-led corp, studying its deepest excavations</li>
+    <li>subject_story->drilled down to the ice cap's root to discover the world's extinct prehuman biome</li>
+    <li>subject_story->became wealthy from the resources dug out of the world's core</li>
+    <li>subject_gerund->mining deeply</li>
+  -->
+  <DeepDrilling.generalRules.rulesStrings>
+    <li>subject->ﻖﻴﻤﻋ ﻦﻳﺪﻌﺗ</li>
+    <li>subject_def->ﻖﻴﻤﻌﻟﺍ ﻦﻳﺪﻌﺘﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺎﻬﺗﺎﻳﺮﻔﺣ ﻖﻤﻋﺃ ﺔﺳﺍﺭﺩﻭ ،ﺽﺭﺄﻟﺍ ﻊﻴﺑﺮﺟ ﺎﻫﺩﻮﻘﻳ ﺔﻛﺮﺷ ﻰﻟﺇ ﻢﻀﻧﺍ</li>
+    <li>subject_story->.ﻢﻟﺎﻌﻠﻟ ﺔﺿﺮﻘﻨﻤﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻳﻮﻴﺤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻒﺸﺘﻜﻴﻟ ﺪﻴﻠﺠﻟﺍ ﺔﻘﺒﻃ ﺭﺬﺟ ﻰﺘﺣ ﺮﻔﺣ</li>
+    <li>subject_story->.ﻢﻟﺎﻌﻟﺍ ﺐﻠﻗ ﻦﻣ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺎًﻳﺮﺛ ﺢﺒﺻﺃ</li>
+    <li>subject_gerund->ﻖﻤﻌﺑ ﻦﻳﺪﻌﺘﻟﺍ</li>
+  </DeepDrilling.generalRules.rulesStrings>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﻥﻮﻳﺰﻔﻠﺗ</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>.ﺔﻌﺘﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﺔﻗﺪﻟﺍ ﺔﻴﻟﺎﻋ ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﺕﺎﻧﻮﻳﺰﻔﻠﺗ ﺝﺎﺘﻧﺇ</FlatscreenTelevision.description>
+  <!-- EN:
+    <li>subject->flatscreen televisions</li>
+    <li>subject_story->experimented with removing tubes from televisions</li>
+    <li>subject_story->agitated for galaxy-wide, high-resolution broadcasts of [tv_content]</li>
+    <li>tv_content->soap operas</li>
+    <li>tv_content->news programmes</li>
+    <li>tv_content->revolutionary propaganda</li>
+    <li>tv_content->glitterworld fashion</li>
+    <li>tv_content->docartoons</li>
+    <li>subject_story->became a television executive, in charge of [tv_content]</li>
+    <li>subject_gerund->producing flatscreen televisions</li>
+  -->
+  <FlatscreenTelevision.generalRules.rulesStrings>
+    <li>subject->ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﺕﺎﻧﻮﻳﺰﻔﻠﺗ</li>
+    <li>subject_def->ﺔﺤﻄﺴﻤﻟﺍ ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺕﺎﺷﺎﺷ ﻦﻣ</li>
+    <li>subject_story->.ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﺓﺰﻬﺟﺃ ﻦﻣ ﺐﻴﺑﺎﻧﺄﻟﺍ ﺔﻟﺍﺯﺇ ﺏّﺮﺟ</li>
+    <li>subject_story->[tv_content] ﻝﻮﺣ ﺓﺮﺠﻤﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﻗﺪﻟﺍ ﻲﻟﺎﻋ ﺚﺑ ﻰﻟﺇ ﺎﻋﺩ</li>
+    <li>tv_content->ﺔﺠﻠﺑﺪﻣ ﺕﺎﻠﺴﻠﺴﻣ</li>
+    <li>tv_content->ﺭﺎﺒﺧﺄﻟﺍ ﺞﻣﺍﺮﺑ</li>
+    <li>tv_content->ﺔﻳﺭﻮﺛ ﺔﻳﺎﻋﺩ</li>
+    <li>tv_content->ﻖﻳﺮﺒﻟﺍ ﻢﻟﺍﻮﻋ ﺔﺿﻮﻣ</li>
+    <li>tv_content->ﺔﻛﺮﺤﺘﻣ ﻡﻮﺳﺭ ﺕﺎﻴﻘﺋﺎﺛﻭ</li>
+    <li>subject_story->[tv_content] ﻦﻋ ًﺎﻟﻭﺆﺴﻣ ﺎًﻴﻧﻮﻳﺰﻔﻠﺗ ﺎًﻳﺬﻴﻔﻨﺗ ًﺎﻟﻭﺆﺴﻣ ﺢﺒﺻﺃ</li>
+    <li>subject_gerund->ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﺕﺎﻧﻮﻳﺰﻔﻠﺗ ﺝﺎﺘﻧﺇ</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ﺽﺭﺄﻟﺍ ﻕﺍﺮﺘﺧﺎﻟ ﻲﺋﻮﺿ ﺢﺳﺎﻣ</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>.ﺔﻣﺪﻘﺘﻣ ﺕﺎﻧﻮﻜﻣ ﺎﻫﺀﺎﻨﺑ ﺐﻠﻄﺘﻳ .ﺢﻄﺴﻟﺍ ﺖﺤﺗ ﺮﻔﺤﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻑﺎﺸﺘﻛﺍ ﺎﻬﻨﻜﻤﻳ ﺽﺭﺄﻟﺍ ﻕﺍﺮﺘﺧﺎﻟ ﺔﻴﺋﻮﺿ ﺕﺎﺤﺳﺎﻣ ِﻦﺑﺍ</GroundPenetratingScanner.description>
+  <!-- EN:
+    <li>subject->geophysics</li>
+    <li>subject->ground-penetrating scanners</li>
+    <li>subject_story->discovered the bones of ancient giants, far below the planet's surface</li>
+    <li>subject_story->stumbled across a rich gold seam whilst scanning for tin and became fabulously wealthy</li>
+    <li>subject_story->scanned the ground for ancient minefields, to protect the people</li>
+    <li>subject_gerund->constructing geophysical scanners</li>
+  -->
+  <GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>subject->ﺀﺎﻳﺰﻴﻓﻮﻴﺟ</li>
+    <li>subject->ﺽﺭﺄﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺕﺎﺤﺳﺎﻣ</li>
+    <li>subject_def->ﺀﺎﻳﺰﻴﻓﻮﻴﺠﻠﻟ</li>
+    <li>subject_def->ﻖﻤﻌﻠﻟ ﺔﻴﺋﻮﻀﻟﺍ ﺕﺎﺤﺳﺎﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺐﻛﻮﻜﻟﺍ ﺢﻄﺳ ﺖﺤﺗ ﻖﻤﻌﺑ ﻰﻣﺍﺪﻗ ﺔﻘﻟﺎﻤﻋ ﻡﺎﻈﻋ ﻒﺸﺘﻛﺍ</li>
+    <li>subject_story->.ﺔﻳﺎﻐﻠﻟ ﺎًﻳﺮﺛ ﺢﺒﺻﺃﻭ ﺮﻳﺪﺼﻘﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﺀﺎﻨﺛﺃ ﺮﻴﺒﻛ ﺐﻫﺫ ﺪﻳﺭﻭ ﻰﻠﻋ ﺮﺜﻋ</li>
+    <li>subject_story->.ﺱﺎﻨﻟﺍ ﺔﻳﺎﻤﺤﻟ ﺔﻤﻳﺪﻗ ﻡﺎﻐﻟﺃ ﻝﻮﻘﺣ ﻦﻋ ﺎًﺜﺤﺑ ﺽﺭﺄﻟﺍ ﺺﺤﻓ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻳﺰﻴﻓﻮﻴﺟ ﺕﺎﺤﺳﺎﻣ ﺀﺎﻨﺑ</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>ﻲﻟﺁ ﻊﻓﺪﻣ</HeavyTurrets.label>
+  <!-- EN: Produce the heavy autocannon turret. -->
+  <HeavyTurrets.description>.ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻞﻴﻘﺛ ﻲﻟﺁ ﻊﻓﺪﻤﺑ ﺓﺩﻭﺰﻣ ﺝﺍﺮﺑﺃ ﺝﺎﺘﻧﺈﺑ ﺢﻤﺴﻳ</HeavyTurrets.description>
+  <!-- EN:
+    <li>subject->autocannon turrets</li>
+    <li>subject_story->held off a cultist assault alone, hiding behind a wall of turrets</li>
+    <li>subject_story->was hired to establish a defensive perimeter of sandbags and turrets for the locals</li>
+    <li>subject_story->built turret after turret, never asking who was buying them</li>
+    <li>subject_gerund->crafting heavy autocannon turrets</li>
+  -->
+  <HeavyTurrets.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﻟﺂﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ﺝﺍﺮﺑﺃ</li>
+    <li>subject_def->ﺔﻴﻟﺂﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﺄﻟﺍ ﻦﻣ ﺭﺍﺪﺟ ﻒﻠﺧ ﺎًﺌﺒﺘﺨﻣ ،ﻩﺩﺮﻔﻤﺑ ﻦﻴﻴﻔﺋﺎﻄﻟﺍ ﻦﻣ ﺎًﻣﻮﺠﻫ ّﺪﺻ</li>
+    <li>subject_story->.ﻦﻴﻴﻠﺤﻤﻠﻟ ﺝﺍﺮﺑﺄﻟﺍﻭ ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﺄﻟﺍ ﻦﻣ ﻲﻋﺎﻓﺩ ﻂﻴﺤﻣ ﺀﺎﺸﻧﺈﻟ ﻪﻌﻣ ﺪﻗﺎﻌﺘﻟﺍ ﻢﺗ</li>
+    <li>subject_story->.ﺎﻬﻳﺮﺘﺸﻳ ﻥﺎﻛ ﻦﻣ ﻝﺄﺴﻳ ﻥﺃ ﻥﻭﺩ ،ﺮﺧﺂﻟﺍ ﻮﻠﺗ ﺎًﺟﺮﺑ ﻰﻨﺑ</li>
+    <li>subject_gerund->ﺔﻠﻴﻘﺛ ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﺃ ﻊﻓﺍﺪﻣ ﻊﻨﺻ</li>
+  </HeavyTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>ﻰﻔﺸﺘﺴﻤﻟﺍ ﺓّﺮﺳﺃ</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>.ﻲﺒﻄﻟﺍ ﺝﺎﻠﻌﻟﺍ ﺞﺋﺎﺘﻧ ﻦﺴﺤﺗ ﺕﺎﻴﻔﺸﺘﺴﻣ ﺓﺮﺳﺃ ﺀﺎﻨﺒﺑ ﺢﻤﺴﻳ</HospitalBed.description>
+  <!-- EN:
+    <li>subject->hospitalization</li>
+    <li>subject_story->oversaw a revolution in the standards of medical care</li>
+    <li>subject_story->constructed the first of the system's public hospitals</li>
+    <li>subject_story->focused on profit, selling [ANYPAWN_pronoun] superior medical suites to the wealthy</li>
+    <li>subject_gerund->constructing hospital beds</li>
+  -->
+  <HospitalBed.generalRules.rulesStrings>
+    <li>subject->ﻰﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻣﺎﻗﺇ</li>
+    <li>subject_def->ﻰﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻣﺎﻗﺈﻟﺍ ﻦﻣ</li>
+    <li>subject_story->ﺔﻴﺤﺼﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺮﻴﻳﺎﻌﻣ ﻲﻓ ﺓﺭﻮﺛ ﻰﻠﻋ ﻑﺮﺷﺃ</li>
+    <li>subject_story->.ﻡﺎﻈﻨﻟﺍ ﻲﻓ ﻡﺎﻋ ﻰﻔﺸﺘﺴﻣ ﻝﻭﺃ ﻰﻨﺑ</li>
+    <li>subject_story->.ﺀﺎﻳﺮﺛﺄﻠﻟ ﺓﺮﺧﺎﻔﻟﺍ ﺔﻴﺒﻄﻟﺍ ﻪﺘﺤﻨﺟﺃ ﻊﻴﺑﻭ ،ﺡﺎﺑﺭﺄﻟﺍ ﻖﻴﻘﺤﺗ ﻰﻠﻋ ﺰﻛﺭ</li>
+    <li>subject_gerund->ﻰﻔﺸﺘﺴﻤﻟﺍ ﺓَّﺮِﺳﺃ ﺀﺎﻨﺑ</li>
+  </HospitalBed.generalRules.rulesStrings>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻠﻟ ﻲﺋﻮﺿ ﺢﺳﺎﻣ</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>.ﺔﻣﺪﻘﺘﻣ ﺕﺎﻧﻮﻜﻣ ﺎﻫﺀﺎﻨﺑ ﺐﻠﻄﺘﻳ .ﻦﻴﻌﻣ ﻥﺪﻌﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻠﻟ ﺎﻬﻄﺒﺿ ﻦﻜﻤﻳ .ﺐﻛﻮﻜﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﻨﻴﻤﺜﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻚﻴﺜﺣﺎﺒﻟ ﻦﻜﻤﻳ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻠﻟ ﺔﻴﺋﻮﺿ ﺕﺎﺤﺳﺎﻣ ِﻦﺑﺍ</LongRangeMineralScanner.description>
+  <!-- EN:
+    <li>subject->long-range mineral detection</li>
+    <li>subject_story->built so many scanners that the planet's entire geology was revealed</li>
+    <li>subject_story->discovered with a scanner what the other settlements were mining and made huge profits through trading</li>
+    <li>subject_story->mined out the entirety of the planet's jade for religious effigies</li>
+    <li>subject_gerund->constructing long-range mineral scanners</li>
+  -->
+  <LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>subject->ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻟﺍ ﻑﺎﺸﺘﻛﺍ</li>
+    <li>subject_def->ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻋ ﻒﺸﻜﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺐﻛﻮﻜﻟﺍ ﺎﻴﺟﻮﻟﻮﺒﻃ ﻊﻴﻤﺟ ﺖَﻔﺸُﻛ ﻰﺘﺣ ﺔﻴﺋﻮﻀﻟﺍ ﺕﺎﺤﺳﺎﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻰﻨﺑ</li>
+    <li>subject_story->.ﺓﺭﺎﺠﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺔﻠﺋﺎﻫ ﺎًﺣﺎﺑﺭﺃ ﻖﻘﺣﻭ ﻯﺮﺧﺄﻟﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻪﻧﻮﺟﺮﺨﺘﺴﻳ ﺍﻮﻧﺎﻛ ﺎﻣ ﻲﺋﻮﺿ ﺢﺴﻤﻤﺑ ﻒﺸﺘﻛﺍ</li>
+    <li>subject_story->.ﺔﻴﻨﻳﺩ ﻞﻴﺛﺎﻤﺗ ﻊﻨﺼﻟ ﺐﻛﻮﻜﻟﺍ ﻦﻣ ﻢﺸﻴﻟﺍ ﻞﻛ ﺝﺮﺨﺘﺳﺍ</li>
+    <li>subject_gerund->ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﻥﺩﺎﻌﻤﻠﻟ ﺔﻴﺋﻮﺿ ﺕﺎﺤﺳﺎﻣ ﺀﺎﻨﺑ</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>ﺔﻳﻭﺩﺄﻟﺍ ﺝﺎﺘﻧﺇ</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>.ﺵﺎﻤﻘﻟﺍﻭ ﻦﻴﻣﺍﻭﺮﺗﻮﻴﻨﻟﺍﻭ ﻲﺒﺸﻌﻟﺍ ﺐﻄﻟﺍ ﻦﻣ ﺔﻴﺳﺎﻴﻗ ﺔﻴﻋﺎﻨﺻ ﺔﻴﻨﻘﺘﺑ ﺔﻳﻭﺩﺃ ﺝﺎﺘﻧﺇ</MedicineProduction.description>
+  <!-- EN:
+    <li>subject->medical synthesis</li>
+    <li>subject->medicine production</li>
+    <li>subject_story->researched urbworld medicine, aiming to distribute the knowledge more widely</li>
+    <li>subject_story->was puzzled by the origins of neutroamine and determined to find out more</li>
+    <li>subject_story->seized the resources of a drug-dealer and produced useful medicines instead</li>
+    <li>subject_gerund->producing industrial-tech medicine</li>
+  -->
+  <MedicineProduction.generalRules.rulesStrings>
+    <li>subject->ﻲﺒﻃ ﻖﻴﻠﺨﺗ</li>
+    <li>subject->ﺔﻳﻭﺩﺄﻟﺍ ﺝﺎﺘﻧﺇ</li>
+    <li>subject_def->ﻲﺒﻄﻟﺍ ﻖﻴﻠﺨﺘﻟﺍ ﻦﻣ</li>
+    <li>subject_def->ﺔﻳﻭﺩﺄﻟﺍ ﺝﺎﺘﻧﺇ ﻦﻣ</li>
+    <li>subject_story->.ﻊﺳﻭﺃ ﻕﺎﻄﻧ ﻰﻠﻋ ﺔﻓﺮﻌﻤﻟﺍ ﻊﻳﺯﻮﺗ ﻑﺪﻬﺑ ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﺐﻃ ﻲﻓ ﺚﺤﺑ</li>
+    <li>subject_story->.ﺮﺒﻛﺃ ﻞﻜﺸﺑ ﺮﻣﺄﻟﺍ ﻲﻓ ﻖﻴﻘﺤﺘﻟﺍ ﻰﻠﻋ ﻡﺰﻋﻭ ﻦﻴﻣﺍﻭﺮﺗﻮﻴﻨﻟﺍ ﻝﻮﺻﺃ ﻩﺎﺠﺗ ﻝﻮﻀﻔﻟﺎﺑ ﺮﻌﺷ</li>
+    <li>subject_story->.ﻚﻟﺫ ﻦﻣ ًﺎﻟﺪﺑ ﺓﺪﻴﻔﻣ ﺔﻳﻭﺩﺃ ﺞﺘﻧﺃﻭ ﺕﺍﺭﺪﺨﻣ ﺮﺟﺎﺗ ﺩﺭﺍﻮﻣ ﺭﺩﺎﺻ</li>
+    <li>subject_gerund->ﺔﻴﻋﺎﻨﺻ ﺎﻴﺟﻮﻟﻮﻨﻜﺗ ﺀﺍﻭﺩ ﺝﺎﺘﻧﺇ</li>
+  </MedicineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺈﻟﺍ</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>.ﺕﺎﻟﺎﺼﺗﺎﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻭﻭ ﺔﻣﺪﻘﺘﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺙﺎﺤﺑﺃ ﺔﻟﻭﺎﻃ ﺢﺘﻔﻳ ﺍﺬﻫ .ﺓﺪﻘﻌﻤﻟﺍ ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺎﻟﺎﺑ ﻞﻤﻌﻟﺍ ﻦﻣ ﻦِّﻜﻤُﻳ</MicroelectronicsBasics.description>
+  <!-- EN:
+    <li>subject->microelectronics</li>
+    <li>subject_story->moved into the development of microelectronics</li>
+    <li>subject_story->constructed the first of many research bench variants</li>
+    <li>subject_story->moved from town to town, praising the virtues of pure research</li>
+    <li>subject_gerund->crafting microelectronics</li>
+  -->
+  <MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>subject->ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺈﻟﺍ</li>
+    <li>subject_def->ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺈﻟﺍ ﻦﻣ</li>
+    <li>subject_story->ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺈﻟﺍ ﺮﻳﻮﻄﺗ ﻲﻓ ﻁﺮﺨﻧﺍ</li>
+    <li>subject_story->.ﺚﺤﺒﻟﺍ ﺕﺎﻟﻭﺎﻃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻣ ﻰﻟﻭﺄﻟﺍ ﺔﺨﺴﻨﻟﺍ ﻰﻨﺑ</li>
+    <li>subject_story->.ﻲﻘﻨﻟﺍ ﺚﺤﺒﻟﺍ ﻞﺋﺎﻀﻓ ﻰﻠﻋ ًﺎﻴﻨﺜُﻣ ،ﻯﺮﺧﺃ ﻰﻟﺇ ﺔﻨﻳﺪﻣ ﻦﻣ ﻞﻘﻨﺗ</li>
+    <li>subject_gerund->ﺔﻘﻴﻗﺪﻟﺍ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺈﻟﺍ ﻊﻴﻨﺼﺗ</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>ﺔﺑﻮﻃﺮﻟﺍ ﺕﺎﺨﻀﻣ</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>.ﺔﻳﺩﺎﻋ ﻝﺎﻣﺭ ﻰﻟﺇ ﺔﻤﻋﺎﻨﻟﺍ ﻝﺎﻣﺮﻟﺍ ﻞﻳﻮﺤﺗﻭ ﺔﻓﺎﺟ ﺽﺭﺃ ﻰﻟﺇ ﺔﺒﻃﺮﻟﺍ ﺽﺭﺄﻟﺍ ﻞﻳﻮﺤﺗ ﺎﻬﻨﻜﻤﻳ .ﺎﻬﺑ ﺔﻄﻴﺤﻤﻟﺍ ﺽﺭﺄﻟﺍ ﻲﻓ ﺔﺑﻮﻃﺮﻟﺍ ﺔﻟﺩﺎﻌﻣ ﻰﻠﻋ ﺪﻳﺪﺷ ﺀﻄﺒﺑ ﻞﻤﻌﺗ ﻲﺘﻟﺍﻭ ،ﺔﺑﻮﻃﺭ ﺕﺎﺨﻀﻣ ِﻦﺑﺍ</MoisturePump.description>
+  <!-- EN:
+    <li>subject->moisture pumps</li>
+    <li>subject_story->studied the ancient windmill moisture pumps of Earth</li>
+    <li>subject_story->drained the great swamps that bred disease</li>
+    <li>subject_story->tried to drain the seas, foolishly</li>
+    <li>subject_gerund->constructing moisture pumps</li>
+  -->
+  <MoisturePump.generalRules.rulesStrings>
+    <li>subject->ﺔﺑﻮﻃﺮﻟﺍ ﺕﺎﺨﻀﻣ</li>
+    <li>subject_def->ﺔﺑﻮﻃﺮﻟﺍ ﻞﺑﺎﻨﻗ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻴﺿﺭﺃ ﺔﻧﻮﺣﺎﻃ ﻞﻜﺷ ﻰﻠﻋ ﻲﺘﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺔﺒﻃﺮﻟﺍ ﺕﺎﺨﻀﻤﻟﺍ ﺱﺭﺩ</li>
+    <li>subject_story->.ﺽﺍﺮﻣﺄﻠﻟ ﺎًﻌﺗﺮﻣ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺎﻌﻘﻨﺘﺴﻤﻟﺍ ﻑﺮﺻ</li>
+    <li>subject_story->.ﺎًﺸﺋﺎﻃ ﺭﺎﺤﺒﻟﺍ ﻒﻳﺮﺼﺗ ﻝﻭﺎﺣ</li>
+    <li>subject_gerund->ﺔﺑﻮﻃﺭ ﺕﺎﺨﻀﻣ ﺀﺎﻨﺑ</li>
+  </MoisturePump.generalRules.rulesStrings>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>ﺓﺭﻮﺳﺎﻤﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺔﺤﻠﺳﺃ</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>.ﺔﺷﺎﺷﺭ ﻊﻓﺍﺪﻣ ﺀﺎﻨﺒﺑ ﻚﻟ ﺢﻤﺴﻳ</MultibarrelWeapons.description>
+  <!-- EN:
+    <li>subject->miniguns</li>
+    <li>subject_story->constructed a unique portable minigun, which was the only thing found after the squad's disappearance</li>
+    <li>subject_story->designed massive hoppers to ensure the minigun ammo didn't run out</li>
+    <li>subject_story->built guns explicitly to kill every last person in a room</li>
+    <li>subject_gerund->crafting multibarrel weapons</li>
+  -->
+  <MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subject->ﺕﺎﻧﺎﻄﺒﺴﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺕﺎﺷﺎﺷﺭ</li>
+    <li>subject_def->ﺔﺷﺎﺷﺮﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ﻦﻣ</li>
+    <li>subject_story->.ﺔﻗﺮﻔﻟﺍ ﺀﺎﻔﺘﺧﺍ ﺪﻌﺑ ﻪﻴﻠﻋ ﺮﺜُﻋ ﻱﺬﻟﺍ ﺪﻴﺣﻮﻟﺍ ﺀﻴﺸﻟﺍ ﻮﻫﻭ ،ﺍًﺪﻳﺮﻓ ﺎًﻔﻴﻔﺧ ﺎًﺷﺎﺷﺭ ﻰﻨﺑ</li>
+    <li>subject_story->.ﺵﺎﺷﺮﻟﺍ ﻊﻓﺪﻤﻟﺍ ﺓﺮﻴﺧﺫ ﺩﺎﻔﻧ ﻡﺪﻋ ﻥﺎﻤﻀﻟ ﺎًﻤﺨﺿ ﺎًﻌﻤﻗ ﻢﻤﺻ</li>
+    <li>subject_story->.ﺔﻓﺮﻐﻟﺍ ﻲﻓ ﺺﺨﺷ ﻞﻛ ﻞﺘﻘﻟ ﺎًﺼﻴﺼﺧ ﺔﺤﻠﺳﺃ ﻰﻨﺑ</li>
+    <li>subject_gerund->ﺓﺭﻮﺳﺎﻤﻟﺍ ﺓﺩﺪﻌﺘﻣ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>ﺺﻨﻗ ﻕﺩﺎﻨﺑ</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>.ﺺﻨﻘﻟﺍ ﻕﺩﺎﻨﺑﻭ ﺔﻴﻣﻮﺠﻬﻟﺍ ﻕﺩﺎﻨﺒﻟﺍ ﻞﺜﻣ ﺔﻘﻴﻗﺩ ﺔﺤﻠﺳﺃ ﻊﻨﺻ</PrecisionRifling.description>
+  <!-- EN:
+    <li>subject->rifles</li>
+    <li>subject_story->improved the tolerances of a foundry's processes, enabling the production of quality rifling</li>
+    <li>subject_story->was hunted by neanderthals but constructed a sniper rifle to safely kill their leader</li>
+    <li>subject_story->became briefly famous for shooting an ambrosia fruit out of the overlord's hand</li>
+    <li>subject_gerund->crafting rifles</li>
+  -->
+  <PrecisionRifling.generalRules.rulesStrings>
+    <li>subject->ﻕﺩﺎﻨﺑ</li>
+    <li>subject_def->ﻕﺩﺎﻨﺒﻟﺍ</li>
+    <li>subject_story->.ﺓﺩﻮﺠﻟﺍ ﺔﻴﻟﺎﻋ ﻕﺩﺎﻨﺑ ﺝﺎﺘﻧﺇ ﺡﺎﺗﺃ ﺎﻤﻣ ،ﺐﺼﻟﺍ ﺕﺎﻴﻠﻤﻋ ﺔﻗﺩ ﻦﻣ ﻦّﺴﺣ</li>
+    <li>subject_story->.ﻥﺎﻣﺄﺑ ﻢﻬﻤﻴﻋﺯ ﻞﺘﻘﻟ ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ ﻰﻨﺑ ﻪﻨﻜﻟ ،ﻝﺎﺗﺭﺪﻧﺎﻴﻨﻟﺍ ﻞﺒﻗ ﻦﻣ ﺍًﺩﺭﺎﻄﻣ ﻥﺎﻛ</li>
+    <li>subject_story->.ﺩﺭﻮﻠﻟﺍ ﺪﻳ ﻦﻣ ﺎﻳﺯﻭﺮﺒﻣﺃ ﺔﻬﻛﺎﻓ ﻕﺎﻠﻃﺈﻟ ﺓﺰﻴﺟﻭ ﺓﺮﺘﻔﻟ ًﺍﺭﻮﻬﺸﻣ ﺢﺒﺻﺃ</li>
+    <li>subject_gerund->ﻕﺩﺎﻨﺑ ﻊﻨﺻ</li>
+  </PrecisionRifling.generalRules.rulesStrings>
+  
+  <!-- EN: shields -->
+  <ShieldBelt.label>ﻲﺼﺨﺷ ﻉﺭﺩ</ShieldBelt.label>
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
+  <ShieldBelt.description>.ﺩﻭﺪﺤﻟﺍ ﺭﻮﺒﻋ ﻦﻣ ﺕﺎﻓﻭﺬﻘﻤﻟﺍ ﻊﻨﻤﻟ ﻢﺧﺰﻟﺍ ﺪﺻ ﺔﻴﻨﻘﺗ ﻡﺪﺨﺘﺴﺗ ﺔﻴﻗﺍﻭ ﺔﻣﺰﺣﺃ ﺀﺎﻨﺒﺑ ﺢﻤﺴﻳ</ShieldBelt.description>
+  <!-- EN:
+    <li>subject->personal shielding</li>
+    <li>subject_story->survived an assassination attempt, thanks to a prototype shield</li>
+    <li>subject_story->hustled at billiards, using a hidden momentum repeller</li>
+    <li>subject_story->killed an enemy by advancing a blade slowly enough to bypass their shield</li>
+    <li>subject_gerund->crafting personal shields</li>
+  -->
+  <ShieldBelt.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺼﺨﺷ ﻉﻭﺭﺩ</li>
+    <li>subject_def->ﺔﻴﺼﺨﺸﻟﺍ ﻉﻭﺭﺪﻠﻟ</li>
+    <li>subject_story->.ﻲﻟﻭﺃ ﻉﺭﺩ ﻞﻀﻔﺑ ﻝﺎﻴﺘﻏﺍ ﺔﻟﻭﺎﺤﻣ ﻦﻣ ﺎﺠﻧ</li>
+    <li>subject_story->.ﻲﻔﺨﻣ ﻢﺧﺰﻠﻟ ﺩﺭﺎﻃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﻲﻓ ﺶﻏ</li>
+    <li>subject_story->.ﻪﻋﺭﺩ ﺯﻭﺎﺠﺘﻟ ٍﻑﺎﻛ ﺀﻄﺒﺑ ﻞﺼﻧ ﻊﻓﺪﺑ ﺍًﻭﺪﻋ ﻞﺘﻗ</li>
+    <li>subject_gerund->ﺔﻴﺼﺨﺷ ﻉﻭﺭﺩ ﻊﻨﺻ</li>
+  </ShieldBelt.generalRules.rulesStrings>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>ﻞﻘﻧ ﺕﺎﻟﻮﺴﺒﻛ</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>.ﺪﻳﺰﻤﻟﺍﻭ ﺎﻳﺍﺪﻬﻟﺍ ﻝﺎﺳﺭﺇﻭ ﺮﻔﺴﻟﺍﻭ ﺕﺍﺭﺎﻐﻠﻟ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺐﻛﻮﻜﻟﺍ ﺢﻄﺳ ﺮﺒﻋ ﺔﻠﻳﻮﻃ ﺕﺎﻓﺎﺴﻤﻟ ﺕﺍﺩﺍﺪﻣﺈﻟﺍﻭ ﺹﺎﺨﺷﺄﻟﺍ ﻝﺎﺳﺭﺈﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ ﻕﺎﻠﻃﺈﻠﻟ ﺔﻠﺑﺎﻗ ﻞﻘﻧ ﺕﺎﻟﻮﺴﺒﻛ ِﻦﺑﺍ</TransportPod.description>
+  <!-- EN:
+    <li>subject->transport pods</li>
+    <li>subject_story->landed a pod in the middle of a feral tribe and barely escaped alive</li>
+    <li>subject_story->spent a fortune sending a transport pod to the object of [ANYPAWN_possessive] affection, carrying a single wedding ring</li>
+    <li>subject_story->staved off famine through judicious pod deployment</li>
+    <li>subject_gerund->constructing transport pods</li>
+  -->
+  <TransportPod.generalRules.rulesStrings>
+    <li>subject->ﻞﻘﻧ ﺕﺎﻟﻮﺴﺒﻛ</li>
+    <li>subject_def->ﻞﻘﻨﻟﺍ ﺕﺎﻟﻮﺴﺒﻛ ﻦﻣ</li>
+    <li>subject_story->.ﻪِﻠﺟﺄﺑ ﺖﻠﻔﻳ ﺩﺎﻛﻭ ﺔﺸﺣﻮﺘﻣ ﺔﻠﻴﺒﻗ ﻂﺳﻭ ﻲﻓ ﺔﻟﻮﺴﺒﻛ ﺖﻄﺒﻫ</li>
+    <li>subject_story->.ﻂﻘﻓ ﺍًﺪﺣﺍﻭ ﺝﺍﻭﺯ ﻢﺗﺎﺧ ًﺎﻠﻣﺎﺣ ،ﻪﻗﻮﺸﻌﻣ ﻰﻟﺇ ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻝﺎﺳﺭﺈﻟ ًﺓﻭﺮﺛ ﻖﻔﻧﺃ</li>
+    <li>subject_story->.ﺔﻤﻜﺤﺑ ﺕﺎﻟﻮﺴﺒﻜﻟﺍ ﺮﺸﻧ ﻖﻳﺮﻃ ﻦﻋ ﺔﻋﺎﺠﻤﻟﺍ ﺐﻨﺠﺗ</li>
+    <li>subject_gerund->ﻞﻘﻨﻟﺍ ﺕﺎﻟﻮﺴﺒﻛ ﺀﺎﻨﺑ</li>
+  </TransportPod.generalRules.rulesStrings>
+  
+</LanguageData>

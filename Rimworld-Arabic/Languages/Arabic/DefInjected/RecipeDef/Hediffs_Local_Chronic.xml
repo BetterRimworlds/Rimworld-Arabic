@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>ﻲﻧﺎﻃﺮﺳ ﻡﺭﻭ ﻝﺎﺼﺌﺘﺳﺍ</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>. ﻲﻧﺎﻃﺮﺳ ﻡﺭﻭ ﺔﻟﺍﺯﺇ</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>. ﻲﻧﺎﻃﺮﺳ ﻡﺭﻭ ﻝﺎﺼﺌﺘﺳﺍ</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>.{1} ﻥﺎﻃﺮﺳ ﻝﺎﺼﺌﺘﺳﺍ ﻲﻓ {0} ﺖﺤﺠﻧ/ﺢﺠﻧ</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granito en bruto -->
+  <Granite_Rough.label>ﻡﺎﺧ ﺖﻴﻧﺍﺮﺟ</Granite_Rough.label>
+  <!-- EN: Suelo de granito en bruto. -->
+  <Granite_Rough.description>. ﻡﺎﺨﻟﺍ ﺖﻴﻧﺍﺮﺠﻟﺍ ﻦﻣ ﺔﻴﺿﺭﺃ</Granite_Rough.description>
+  
+  <!-- EN: granito tallado en bruto -->
+  <Granite_RoughHewn.label>ﺵﻮﻘﻨﻣ ﻡﺎﺧ ﺖﻴﻧﺍﺮﺟ</Granite_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de granito. -->
+  <Granite_RoughHewn.description>. ﺖﻴﻧﺍﺮﺠﻟﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Granite_RoughHewn.description>
+  
+  <!-- EN: granito liso -->
+  <Granite_Smooth.label>ﻢﻋﺎﻧ ﺖﻴﻧﺍﺮﺟ</Granite_Smooth.label>
+  <!-- EN: Suelo natural de granito alisado. -->
+  <Granite_Smooth.description>. ﻝﻮﻘﺼﻤﻟﺍ ﺖﻴﻧﺍﺮﺠﻟﺍ ﻦﻣ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Granite_Smooth.description>
+  
+  <!-- EN: caliza en bruto -->
+  <Limestone_Rough.label>ﻡﺎﺧ ﻱﺮﻴﺟ ﺮﺠﺣ</Limestone_Rough.label>
+  <!-- EN: Suelo de caliza en bruto. -->
+  <Limestone_Rough.description>. ﻡﺎﺨﻟﺍ ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻴﺿﺭﺃ</Limestone_Rough.description>
+  
+  <!-- EN: caliza tallado en bruto -->
+  <Limestone_RoughHewn.label>ﺵﻮﻘﻨﻣ ﻡﺎﺧ ﻱﺮﻴﺟ ﺮﺠﺣ</Limestone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de caliza. -->
+  <Limestone_RoughHewn.description>. ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺽﺭﺃ</Limestone_RoughHewn.description>
+  
+  <!-- EN: caliza liso -->
+  <Limestone_Smooth.label>ﻢﻋﺎﻧ ﻱﺮﻴﺟ ﺮﺠﺣ</Limestone_Smooth.label>
+  <!-- EN: Suelo natural de caliza alisado. -->
+  <Limestone_Smooth.description>. ﺀﺎﺴﻠﻤﻟﺍ ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Limestone_Smooth.description>
+  
+  <!-- EN: mármol en bruto -->
+  <Marble_Rough.label>ﻡﺎﺧ ﻡﺎﺧﺭ</Marble_Rough.label>
+  <!-- EN: Suelo de mármol en bruto. -->
+  <Marble_Rough.description>. ﻡﺎﺧ ﻡﺎﺧﺭ ﺔﻴﺿﺭﺃ</Marble_Rough.description>
+  
+  <!-- EN: mármol tallado en bruto -->
+  <Marble_RoughHewn.label>ﺵﻮﻘﻨﻣ ﻡﺎﺧ ﻡﺎﺧﺭ</Marble_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de mármol. -->
+  <Marble_RoughHewn.description>. ﻡﺎﺧﺮﻟﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Marble_RoughHewn.description>
+  
+  <!-- EN: mármol liso -->
+  <Marble_Smooth.label>ﻢﻋﺎﻧ ﻡﺎﺧﺭ</Marble_Smooth.label>
+  <!-- EN: Suelo natural de mármol alisado. -->
+  <Marble_Smooth.description>. ﻝﻮﻘﺼﻤﻟﺍ ﻡﺎﺧﺮﻟﺍ ﻦﻣ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Marble_Smooth.description>
+  
+  <!-- EN: arenisca en bruto -->
+  <Sandstone_Rough.label>ﻡﺎﺧ ﻲﻠﻣﺭ ﺮﺠﺣ</Sandstone_Rough.label>
+  <!-- EN: Suelo de arenisca en bruto. -->
+  <Sandstone_Rough.description>. ﻡﺎﺨﻟﺍ ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻴﺿﺭﺃ</Sandstone_Rough.description>
+  
+  <!-- EN: arenisca tallado en bruto -->
+  <Sandstone_RoughHewn.label>ﻦﺸﺧ ﺕﻮﺤﻨﻣ ﻲﻠﻣﺭ</Sandstone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de arenisca. -->
+  <Sandstone_RoughHewn.description>. ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Sandstone_RoughHewn.description>
+  
+  <!-- EN: arenisca liso -->
+  <Sandstone_Smooth.label>ﻢﻋﺎﻧ ﻲﻠﻣﺭ ﺮﺠﺣ</Sandstone_Smooth.label>
+  <!-- EN: Suelo natural de arenisca alisado. -->
+  <Sandstone_Smooth.description>. ﻝﻮﻘﺼﻤﻟﺍ ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Sandstone_Smooth.description>
+  
+  <!-- EN: pizarra en bruto -->
+  <Slate_Rough.label>ﻡﺎﺧ ﺯﺍﻭﺩﺭﺃ</Slate_Rough.label>
+  <!-- EN: Suelo de pizarra en bruto. -->
+  <Slate_Rough.description>. ﻡﺎﺨﻟﺍ ﺯﺍﻭﺩﺭﻷﺍ ﻦﻣ ﺔﻴﺿﺭﺃ</Slate_Rough.description>
+  
+  <!-- EN: pizarra tallado en bruto -->
+  <Slate_RoughHewn.label>ﺵﻮﻘﻨﻣ ﻡﺎﺧ ﺯﺍﻭﺩﺭﺃ</Slate_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de pizarra. -->
+  <Slate_RoughHewn.description>. ﺯﺍﻭﺩﺭﻷﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Slate_RoughHewn.description>
+  
+  <!-- EN: pizarra liso -->
+  <Slate_Smooth.label>ﻢﻋﺎﻧ ﺯﺍﻭﺩﺭﺃ</Slate_Smooth.label>
+  <!-- EN: Suelo natural de pizarra alisado. -->
+  <Slate_Smooth.description>. ﻝﻮﻘﺼﻤﻟﺍ ﺯﺍﻭﺩﺭﻷﺍ ﻦﻣ ﺔﻴﻌﻴﺒﻃ ﺔﻴﺿﺭﺃ</Slate_Smooth.description>
+  
+</LanguageData>

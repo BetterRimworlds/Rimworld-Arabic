@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>ﻞﺋﺎﺼﻔﻟﺎﺑ ﺕﺎﻗﻼﻌﻟﺍ ﺭﻮﻫﺪﺗ</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>. ﺔﻟﻮﻬﺴﺑ ﻪﻟﺎﻘﺘﻋﺍ ﻝﻭﺎﺤﺗ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻢﻠﺴﺘﺴﻳ ﻻ ﺪﻗ: ﺮﻳﺬﺤﺗ\n\n. ﻚﻟ ﺍًﻭﺪﻋ ﻪﻠﻤﻛﺄﺑ ﻢﻬﻠﻴﺼﻓ ﺢﺒﺼﻳ ﺪﻘﻓ ،ﺮﺧﺁ ﻞﻴﺼﻓ ﻦﻣ ﺍًﺮﻤﻌﺘﺴﻣ ﻭﺃ ﺮﻤﻌﺘﺴﻣ ﺮﻴﻏ ﺍًﺼﺨﺷ ﺖﻠﻘﺘﻋﺍ ﺍﺫﺇ\n\n. ﻞﻘﺘﻌﻤﻟﺍ ﻯﺪﻟ ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﺻﺍﻮﺘﻟﺍ ﺓﺭﺎﻬﻣ ﻰﻠﻋ ًﺀﺎﻨﺑ ،ﺡﺎﺠﻨﻠﻟ {0} ﺔﺻﺮﻓ ﻪﻳﺪﻟ ﻝﺎﻘﺘﻋﻻﺍ ﺍﺬﻫ</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>ﺐﻋﻼﻟﺍ ﺕﺍﺮﻤﻌﺘﺴﻣ ﺩﺪﻋ ﻰﺼﻗﺃ</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>. ﻂﻘﻓ ﺔﻴﺒﻳﺮﺠﺗ ﺔﻳﺭﺎﺒﺘﺧﺍ ﺓﺰﻴﻤﻛ ﺓﺩﺪﻌﺘﻣ ﺕﺍﺮﻤﻌﺘﺴﻤﺑ ﺢﻤﺳُﻳ. ﺓﺮﻣ ﻞﻛ ﻲﻓ ﺓﺪﺣﺍﻭ ﺓﺮﻤﻌﺘﺴﻤﺑ ﺐﻌﻠﻟ RimWorld ﻢﻴﻤﺼﺗ ﻢﺗ: ﺮﻳﺬﺤﺗ\n\n. ﺀﺍﺩﻷﺍ ﺆﻃﺎﺒﺗ ﻲﻓ ﻞﻤﺘﺤﻤﻟﺍ ﺐﺒﺴﺘﻟﺍ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﻙﺰﻴﻛﺮﺗ ﻢﻴﺴﻘﺗﻭ ﺐﻌﻠﻟﺍ ﺔﻘﻳﺮﻃ ﻲﻓ ﻥﺯﺍﻮﺘﻟﺍ ﻝﻼﺘﺧﺍ ﻰﻟﺇ ﺓﺩﺪﻌﺘﻣ ﺕﺍﺮﻤﻌﺘﺴﻤﺑ ﺐﻌﻠﻟﺍ ﻱﺩﺆﻴﺳ\n\n. ﻰﻟﻭﻷﺍ ﻚﺗﺎﻳﺭﺎﺒﻣ ﻲﻓ ﻞﻗﻷﺍ ﻰﻠﻋ ،ﺎﻬﻠﺟﺃ ﻦﻣ ﺔﺒﻌﻠﻟﺍ ﺖﻤﻣُﺻ ﻲﺘﻟﺍ ﺓﺪﺣﺍﻮﻟﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺎﺑ ﺐﻌﻠﻟﺎﺑ ﺢﺼﻨﻧ</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Steam Deck ﻢﻜﺤﺗ ﺮﺻﺎﻨﻋ</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>. ﺔﻳﻮﻧﺎﺜﻟﺍ ﺕﺍﺮﻘﻨﻟﺍ ﺓﺎﻛﺎﺤﻣﻭ ﺲﻤﻠﻟﺍ ﺔﺷﺎﺷ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺘﻟ L5 ﻲﻔﻠﺨﻟﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﺿﺍ. {Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﺋﺍﻮﻘﻟﺍ ﺮﺒﻋ ﺮﻳﺮﻤﺘﻟﺍﻭ ﺮﻴﻐﺼﺘﻟﺍﻭ ﺮﻴﺒﻜﺘﻟﺎﺑ ﻢﻗ. ﺔﻳﻮﻧﺎﺜﻟﺍﻭ ﺔﻴﺳﺎﺳﻷﺍ ﺕﺍﺮﻘﻨﻠﻟ ﺕﻼﻐﺸﻤﻟﺍ ﻡﺪﺨﺘﺳﺍ. ﺔﺒﻌﻠﻟﺍ ﻑﺎﻨﺌﺘﺳﺍﻭ ﺖﻗﺆﻤﻟﺍ ﻑﺎﻘﻳﻺﻟ {Key:TogglePause} ﻭ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻔﻟ X ﻂﻐﺿﺍ</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Steam Deck ﻢﻜﺤﺗ ﺮﺻﺎﻨﻋ</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>. ﻉﻮﺟﺮﻠﻟ {ﺍﻟﻤﻔﺘﺎﺡ: ﺇﻟﻐﺎﺀ} ﻭ ﺔﻘﻓﺍﻮﻤﻠﻟ {ﺍﻟﻤﻔﺘﺎﺡ: ﻗﺒﻮﻝ} ﻂﻐﺿﺍ. ﺮﻘﻨﻠﻟ ﻦﻤﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﺭﺯﻭ ﺮﺷﺆﻤﻟﺍ ﻚﻳﺮﺤﺘﻟ ﻊﺒﺘﺘﻟﺍ ﺔﺣﻮﻟ ﻡﺪﺨﺘﺳﺍ</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>ﻂﻘﻓ ﺾﻴﻣﻮﻟﺍ ﺕﺎﻨﻴﻴﻌﺗ</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>. ﺡﺎﺘﻔﻤﻟﺍ ﻞﻳﺪﺒﺘﺑ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻥﺃ ﻂﻘﻓ ﻥّﻴﻋُﻳ ﺍﺬﻫ: ﺔﻈﺣﻼﻣ\n\n. ﺍًﻳﻭﺪﻳ ﺡﺎﺘﻔﻤﻟﺍ ﻝّﺪﺑُﻳﻭ ﺮﻤﻌﺘﺴﻣ ﻲﺗﺄﻳ ﻰﺘﺣ ﺍًﻴﻠﻌﻓ ﺀﻴﺷ ﻱﺃ ﺙﺪﺤﻳ ﻦﻟ</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>ﺔﻳﺭﺎﺠﺗ ﺕﺍﺭﺎﻨﻣﻭ ﺔﻳﺭﺎﺠﺗ ﻊﺋﺎﻀﺑ</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>. ﺎﻬﻨﻣ ﺏﺮﻘﻟﺎﺑ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﻥﻭﺰﺨﻣ ﻊﺿﻭﻭ ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﺀﺎﻨﺑ ﺐﺠﻳ ،ﻦﻴﻳﺭﺍﺪﻤﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻰﻟﺇ ﺔﻀﻔﻟﺍ ﻭﺃ ﺮﺻﺎﻨﻌﻟﺍ ﻝﺎﺳﺭﻹ</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>ﻝﻭﺍﺪﺘﻟﺍ ﺢﻳﺮﺼﺗ ﺕﺎﺒﻠﻄﺘﻣ</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>.{0} ﺔﺒﺗﺭ ﺎﻨﻫ ﻝﻭﺍﺪﺘﻟﺍ ﺐﻠﻄﺘﻳ\n\n. ﻰﻠﻋﺃ ﻭﺃ {0} ﺔﺒﺗﺭ ﻞﻤﺤﻳ ﺺﺨﺷ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺎﻬﻠﺳﺮﺗ ﺔﻳﺭﺎﺠﺗ ﺔﻠﻓﺎﻗ ﻱﺃ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ</TradingRequiresPermit.helpText>
+  
+</LanguageData>

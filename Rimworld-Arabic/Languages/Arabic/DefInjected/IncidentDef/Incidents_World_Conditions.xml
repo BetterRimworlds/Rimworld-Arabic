@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ</Aurora.letterLabel><!-- EN: Aurora -->
+  <Aurora.letterText>ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>ﻑﻮﺴﻛ</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>ﻑﻮﺴﻛ</Eclipse.letterLabel><!-- EN: Eclipse -->
+  <Eclipse.letterText>ﻑﻮﺴﻛ</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>ﺔﻴﺴﻤﺷ ﺔﻠﻌﺷ</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>ﺔﻴﺴﻤﺷ ﺔﻠﻌﺷ</SolarFlare.letterLabel><!-- EN: Solar flare -->
+  <SolarFlare.letterText>ﺔﻴﺴﻤﺷ ﺔﻠﻌﺷ</SolarFlare.letterText>
+  
+</LanguageData>

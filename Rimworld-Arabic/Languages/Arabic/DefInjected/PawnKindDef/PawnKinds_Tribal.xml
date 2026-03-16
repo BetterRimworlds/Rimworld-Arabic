@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer --><!-- EN: arquero -->
+  <Tribal_Archer.label>ﻡْﻫَﺳ ﻱِﻣﺍَﺭ</Tribal_Archer.label><!-- EN: arquera -->
+  <Tribal_Archer.labelFemale>ﺱﻮﻘﻟﺍ ﺔﻴﻣﺍﺭ</Tribal_Archer.labelFemale><!-- EN: arqueros -->
+  <Tribal_Archer.labelPlural>ﻡﺎﻬﺴﻟﺍ ﺓﺎﻣﺭ</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker --><!-- EN: bersérker -->
+  <Tribal_Berserker.label>ﺮﻛﺮﻴﺳﺮﻴﺑ</Tribal_Berserker.label><!-- EN: bersérker -->
+  <Tribal_Berserker.labelPlural>ﺮﻛﺮﻴﺳﺮﻴﺑ</Tribal_Berserker.labelPlural>
+  
+  <!-- EN: berserker chief --><!-- EN: jefe bersérker -->
+  <Tribal_ChiefMelee.label>ﺮﻛﺮﺳﺮﻴﺑ ﻢﻴﻋﺯ</Tribal_ChiefMelee.label><!-- EN: jefa bersérker -->
+  <Tribal_ChiefMelee.labelFemale>ﺮﻛﺮﺳﺮﻴﺑ ﺔﻤﻴﻋﺯ</Tribal_ChiefMelee.labelFemale><!-- EN: jefes bersérker -->
+  <Tribal_ChiefMelee.labelPlural>ﺮﻛﺮﺳﺮﻴﺑ ﺀﺎﻤﻋﺯ</Tribal_ChiefMelee.labelPlural>
+  
+  <!-- EN: archer chief --><!-- EN: jefe arquero -->
+  <Tribal_ChiefRanged.label>ﺓﺎﻣﺮﻟﺍ ﺲﻴﺋﺭ</Tribal_ChiefRanged.label><!-- EN: jefa arquera -->
+  <Tribal_ChiefRanged.labelFemale>ﺓﺎﻣﺮﻟﺍ ﺔﺴﻴﺋﺭ</Tribal_ChiefRanged.labelFemale><!-- EN: jefes arqueros -->
+  <Tribal_ChiefRanged.labelPlural>ﺓﺎﻣﺮﻟﺍ ﺀﺎﻤﻋﺯ</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer --><!-- EN: arquero pesado -->
+  <Tribal_HeavyArcher.label>ﻞﻴﻘﺛ ﻲﻣﺍﺭ</Tribal_HeavyArcher.label><!-- EN: arquera pesada -->
+  <Tribal_HeavyArcher.labelFemale>ﺔﻠﻴﻘﺛ ﻡﺎﻬﺳ ﺔﻴﻣﺍﺭ</Tribal_HeavyArcher.labelFemale><!-- EN: arqueros pesados -->
+  <Tribal_HeavyArcher.labelPlural>ﻥﻮﻠﻴﻘﺛ ﺱﺍﻮﻗﺃ ﺓﺎﻣﺭ</Tribal_HeavyArcher.labelPlural>
+  
+  <!-- EN: hunter --><!-- EN: cazador -->
+  <Tribal_Hunter.label>ﺪﺋﺎﺻ</Tribal_Hunter.label><!-- EN: cazadora -->
+  <Tribal_Hunter.labelFemale>ﺓﺩﺎﻴﺻ</Tribal_Hunter.labelFemale><!-- EN: cazadores -->
+  <Tribal_Hunter.labelPlural>ﻥﻭﺪﺋﺎﺻ</Tribal_Hunter.labelPlural>
+  
+  <!-- EN: penitent --><!-- EN: penitente -->
+  <Tribal_Penitent.label>ﺐﺋﺎﺗ</Tribal_Penitent.label><!-- EN: penitentes -->
+  <Tribal_Penitent.labelPlural>ﻥﻮﺒﺋﺎﺗ</Tribal_Penitent.labelPlural>
+  
+  <!-- EN: trader --><!-- EN: comerciante -->
+  <Tribal_Trader.label>ﺮﺟﺎﺗ</Tribal_Trader.label><!-- EN: comerciantes -->
+  <Tribal_Trader.labelPlural>ﺭﺎﺠﺗ</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior --><!-- EN: guerrero -->
+  <Tribal_Warrior.label>ﺏِﺭﺍَﺣُﻣ</Tribal_Warrior.label><!-- EN: guerrera -->
+  <Tribal_Warrior.labelFemale>ﺔﺑﺭﺎﺤﻣ</Tribal_Warrior.labelFemale><!-- EN: guerreros -->
+  <Tribal_Warrior.labelPlural>ﻥﻮﺑﺭﺎﺤﻣ</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>ﻲﻟﺁ ﻥﻭﺎﻫ</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>ﻲﻟﺁ ﻥﻭﺎﻫ</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>ﺔﻴﺋﻮﺿ ﺔﻨﺤﺷ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>. ﺔﻌﺳﺍﻭ ﺔﻘﻄﻨﻣ ﻲﻓ ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﺕﺎﻀﺒﻨﺑ ﺔﻧﻮﺤﺸﻣ ﻕﻼﻃﻹﺍ ﺔﻌﻳﺮﺳ ﺵﺭ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>ﻞﻴﻣﺮﺑ</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>ﺔﻴﺋﻮﺿ ﺔﻨﺤﺷ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>ﻢﻴﺤﺟ ﻊﻓﺪﻣ</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>. ﺍًﺮﻴﺒﻛ ﺍًﻗﺭﺎﺣ ﺍًﻴﺑﺮﺣ ﺍًﺳﺃﺭ ﻖﻠﻄﻳ. ﺔﻗﺭﺎﺣ ﻒﺋﺍﺬﻗ ﻖﻠﻄﻳ ﺮﻐﺼﻣ ﺔﻴﻌﻓﺪﻣ ﺯﺎﻬﺟ</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>ﻞﻴﻣﺮﺑ</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>ﻢﻴﺤﺟ ﻊﻓﺪﻣ</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>ﻦﺤﺸﻟﺍ ﻲﺗﺍﺫ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>. ﺍًﺪﺟ ﺓﺮﻴﺼﻗ ﺕﺎﻗﺎﻄﻧ ﻲﻓ ﻑﺍﺪﻫﻷﺍ ﺭﺎﻌﺸﺘﺳﺍ ﻪﻨﻜﻤﻳ ﻻ. ﺕﺎﻨﺤﺷ ﻑﺫﺎﻗ ﻪﻴﻠﻋ ﺕَّﺒﺛُﻣ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoChargeBlaster.description>
+  
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>ﻕﺭﺎﺣ ﻲﺋﺎﻘﻠﺗ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>. ﺍًﺪﺟ ﺔﺒﻳﺮﻗ ﺕﺎﻗﺎﻄﻧ ﻲﻓ ﻑﺍﺪﻫﻷﺍ ﺭﺎﻌﺸﺘﺳﺍ ﻪﻨﻜﻤﻳ ﻻ. ﻕﺭﺎﺣ ﻊﻓﺪﻤﺑ ﺕَّﺒﺛُﻣ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoInferno.description>
+  
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>ﻲﻟﺁ ﻥﻭﺎﻫ</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>. ﺔﻳﺎﻐﻠﻟ ﻖﻴﻗﺩ ﺮﻴﻏ ﻪﻨﻜﻟ ،ﻥﺍﺭﺪﺠﻟﺍ ﻕﻮﻓ ،ﺔﻓﺎﺴﻣ ﻱﺃ ﻰﻠﻋ ﻑﺍﺪﻫﻷﺍ ﺏﺮﺿ ﻪﻨﻜﻤﻳ. ﻲﻟﺁ ،ﻞﻴﻤﺤﺘﻟﺍ ﻲﺗﺍﺫ ،ﻞﻴﻐﺸﺘﻟﺍ ﻲﺗﺍﺫ ﻥﻭﺎﻫ</Turret_AutoMortar.description>
+  
+</LanguageData>

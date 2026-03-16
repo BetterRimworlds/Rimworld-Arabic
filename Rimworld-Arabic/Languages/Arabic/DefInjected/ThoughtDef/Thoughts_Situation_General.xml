@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>ﺔﻴﻟﺎﺑ ﺲﺑﻼﻣ</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>؟ﻪﺋﺍﺪﺗﺭﻻ ﺪﻳﺪﺟ ﺀﻴﺷ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻨﻨﻜﻤﻳ ﻻﺃ. ﺞﻋﺰﻣ ﻞﻜﺸﺑ ﺓﺮﻴﺒﻛ ﻲﺴﺑﻼﻣ ﻲﻓ ﺏﻮﻘﺜﻟﺍ</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>ﺔﻴﻟﺎﺑ ﺲﺑﻼﻣ</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>؟ﺔﻣﺎﻤﻗ ﺔﻣﻮﻛ ﻰﻟﺇ ﻲﻤﺘﻨﻳ ﻻ ﺀﻴﺷ ﺀﺍﺪﺗﺭﺍ ﻲﻨﻨﻜﻤﻳ ﻻﺃ. ﺭﺎﻴﻬﻧﻻﺍ ﻚﺷﻭ ﻰﻠﻋ ﻪﻧﺄﻛﻭ ﺀﻴﺸﻟﺍ ﺍﺬﻫ ﻭﺪﺒﻳ</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <!-- EN: tainted {0} -->
+  <DeadMansApparel.stages.tainted.label>{0} ﺙّﻮﻠﻣ</DeadMansApparel.stages.tainted.label>
+  <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted.description>. ﺓﺭﺍﺬﻘﻟﺎﺑ ﺮﻌﺷﺃ ﻲﻨﻠﻌﺠﻳﻭ ﻱﺯﺍﺰﺌﻤﺷﺍ ﺮﻣﻷﺍ ﺍﺬﻫ ﺮﻴﺜﻳ. ﺎﻣ ﺺﺨﺷ ﺎﻬﻴﻓ ﻲﻓﻮﺗ ﺲﺑﻼﻣ ﺔﻌﻄﻗ ﻱﺪﺗﺭﺃ</DeadMansApparel.stages.tainted.description>
+  <!-- EN: tainted {0} (+1) -->
+  <DeadMansApparel.stages.tainted_1.label>1) (+{0} ﺙّﻮﻠﻣ</DeadMansApparel.stages.tainted_1.label>
+  <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_1.description>. ﺓﺭﺍﺬﻘﻟﺎﺑ ﻲﻧﺮﻌﺸﻳﻭ ﻲﻨﺠﻋﺰﻳ ﺮﻣﻷﺍ. ﺎﻣ ﺺﺨﺷ ﺎﻬﻴﻓ ﺕﺎﻣ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﻦﻴﺘﻌﻄﻗ ﻱﺪﺗﺭﺃ</DeadMansApparel.stages.tainted_1.description>
+  <!-- EN: tainted {0} (+2) -->
+  <DeadMansApparel.stages.tainted_2.label>2) (+{0} ﺙّﻮﻠﻣ</DeadMansApparel.stages.tainted_2.label>
+  <!-- EN: I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_2.description>. ﺓﺭﺍﺬﻘﻟﺎﺑ ﻲﻧﺮﻌﺸﻳﻭ ﻲﻨﺠﻋﺰﻳ ﺮﻣﻷﺍ. ﺎﻣ ﺺﺨﺷ ﺎﻬﻴﻓ ﺕﺎﻣ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﻊﻄﻗ ﺔﺛﻼﺛ ﻱﺪﺗﺭﺃ</DeadMansApparel.stages.tainted_2.description>
+  <!-- EN: tainted {0} etc -->
+  <DeadMansApparel.stages.tainted_etc.label>ﺦﻟﺇ {0} ﺙّﻮﻠﻣ</DeadMansApparel.stages.tainted_etc.label>
+  <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_etc.description>. ﺓﺭﺍﺬﻘﻟﺎﺑ ﺮﻌﺷﺃ ﻲﻨﻠﻌﺠﻳﻭ ﻲﻨﺠﻋﺰﻳ ﺍﺬﻫﻭ ،ﺎﻣ ﺺﺨﺷ ﺎﻬﻴﻓ ﺕﺎﻣ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻭﺃ ﻊﻄﻗ ﺔﻌﺑﺭﺃ ﻱﺪﺗﺭﺃ</DeadMansApparel.stages.tainted_etc.description>
+  
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>ﺩﺭﺎﺑ</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>. ﺔﺤﻳﺮﻣ ﺮﻴﻏ ﺓﺩﻭﺮﺒﺑ ﺮﻌﺷﺃ</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>ﺩﺮﺑ</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>. ﻒﺠﺗﺭﺃ ،ﺪﻤﺠﺘﻣ ﺎﻧﺃ</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>ٌﺭِّﺩَﺧُﻣ ٌﺩْﺭَﺑ</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>. ﺀﻓﺪﻟﺍ ﻮﻫ ﻪﻴﻓ ﺮﻜﻓﺃ ﺎﻣ ﻞﻛ. ﻒﺠﺗﺮﺗ ﻲﻧﺎﻨﺳﺃ. ﻑﺎﺠﺗﺭﻻﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>ﺩﺎﺣ ﺩُّﻤﺠﺗ</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>. ﺀﻓﺪﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺣﺃ. ﺓﺭﺪﺨﺘﻣ ﻲﻌﺑﺎﺻﺃ. ﻡﻼﻜﻟﺍ ﻊﻴﻄﺘﺳﺃ ﺩﺎﻜﻟﺎﺑ ﻲﻨﻧﺃ ﺔﺟﺭﺪﻟ ﺓﺪﺸﺑ ﻒﺠﺗﺮﺗ ﻲﻧﺎﻨﺳﺃ</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <!-- EN: darkness -->
+  <EnvironmentDark.stages.darkness.label>ﻡﻼﻇ</EnvironmentDark.stages.darkness.label>
+  <!-- EN: I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.darkness.description>. ﺮﻣﻷﺍ ﻲﻨﺒﺠﻌﻳ ﻻ. ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻔﻟ ﻡﻼﻈﻟﺍ ﻲﻓ ﺖﻨﻛ ﺪﻘﻟ</EnvironmentDark.stages.darkness.description>
+  
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>ﻕّﺮﻌﺘﻣ</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>. ﻕﺮﻌﺗﺃ ﺎﻧﺃ. ﺎﻨﻫ ًﺍﺪﺟ ﺭﺎﺣ ﻮﺠﻟﺍ</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>ﺭﺎﺣ</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>…ﺩﺭﺎﺑ ﺀﺍﻮﻫ ﺔﺤﻔﻨﺑ ﻰﻈﺣﺃ ﻥﺃ ُﺖﻌﻄﺘﺳﺃ ﻮﻟ. ﺎﻨﻫ ًﺍﺪﺟ ﺭﺎﺣ ﻮﺠﻟﺍ</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>ﻕِﻧﺎﺧ ّﺭَﺣ</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>. ﺍﺬﻫ ﻞﻤﺤﺗ ﻲﻨﻨﻜﻤﻳ ﺖﻗﻮﻟﺍ ﻦﻣ ﻢﻛ ﺍًﺪﻛﺄﺘﻣ ﺖﺴﻟ! ﻥﺮﻓ ﻲﻓ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>ﻉِﺫﻻ ٌّﺭﺎﺣ</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>!ﺮﺤﻟﺍ ﺍﺬﻫ ﻦﻣ ﺕﻮﻣﺃ ﺪﻗ ﻲﻨﻧﺃ ﺪﻘﺘﻋﺃ. ﺔﻳﺎﻐﻠﻟ ﺭﺎﺣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ</EnvironmentHot.stages.blistering_hot.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>. ﻦﻳﺮﺧﻵﺍ ﺓﺎﻧﺎﻌﻣ ﺀﺍﺪﺗﺭﺎﺑ ﻊﺘﻤﺘﺳﺃ</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>1) (+{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>. ﻱِﺗَﺭْﺩُﻗ ُﻊﻳِﻣَﺠﻟﺍ ُﻑِﺭْﻋَﻳَﺳ. ﺍﺬﻫ ﻡُﻫُﻔﻳِﺧُﻳَﺳ</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>2) (+{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>. ﻲﻧﺪﻌﺴﺗ ﺎﻬﻨﻜﻟ ،ﻢﺴﺘﺒﺗ ﻻ ﻲﺴﺑﻼﻣ ﻰﻠﻋ ﻩﻮﺟﻮﻟﺍ</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>ﺦﻟﺇ {0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>!ﻱﺭﺎﺼﺘﻧﺎﺑ ﺮﺸﺒﻳ ﻢﺤﻠﻟﺍ! ﻢﺤﻠﻟﺍ</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing parts of someone's body is... disturbing. -->
+  <HumanLeatherApparelSad.stages.human_leather.description>. ﻖﻠﻘﻣ ﺮﻣﺃ ﺎﻣ ﺺﺨﺷ ﺪﺴﺟ ﻦﻣ ﺀﺍﺰﺟﺃ ﺀﺍﺪﺗﺭﺍ</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>1) (+{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>. ﻥﻮﻨﺠﻣ ﺺﺨﺷ ﺲﺑﻼﻣ ﻱﺪﺗﺭﺃ</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>2) (+{0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>. ﻪﺟﻭ* ﻲﻫ *ﻲﺴﺑﻼﻣ …ﻲﻬﻟﺇ ﺎﻳ. ﻲﺴﺑﻼﻣ ﻰﻠﻋ ًﺎﻬﺟﻭ ﻙﺎﻨﻫ ﻥﺃ ﻦﻇﺃ</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>ﺦﻟﺇ {0} ﻱﺮﺸﺑ ﺪﻠﺟ</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm living in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>. ﺐﻋﺭ ﻢﻠﻴﻓ ﻲﻓ ﺶﻴﻋﺃ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃﻭ ،ﺐﻋﺭ ﻢﻠﻴﻓ ﻦﻣ ﺶﺣﻮﻛ ﻭﺪﺑﺃ</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- EN: I love reading -->
+  <LoveReading.stages.I_love_reading.label>ﺓﺀﺍﺮﻘﻟﺍ ﺔﻳﺍﻮﻫ</LoveReading.stages.I_love_reading.label>
+  <!-- EN: Reading really engages my intellectual passions. -->
+  <LoveReading.stages.I_love_reading.description>. ﺍًﻘﺣ ﻱﺮﻜﻔﻟﺍ ﻲﻔﻐﺷ ﻞﻌﺸﺗ ﺓﺀﺍﺮﻘﻟﺍ</LoveReading.stages.I_love_reading.description>
+  <!-- EN: I really love reading -->
+  <LoveReading.stages.I_really_love_reading.label>ﺓﺀﺍﺮﻘﻟﺍ ﺔﻳﺍﻮﻫ</LoveReading.stages.I_really_love_reading.label>
+  <!-- EN: Reading excites my burning intellectual passions! I just love learning this way. -->
+  <LoveReading.stages.I_really_love_reading.description>. ﺔﻘﻳﺮﻄﻟﺍ ﻩﺬﻬﺑ ﻢﻠﻌﺘﻟﺍ ﺐﺣﺃ! ﺞﺟﺄﺘﻤﻟﺍ ﻱﺮﻜﻔﻟﺍ ﻲﻔﻐﺷ ﺮﻴﺜﺗ ﺓﺀﺍﺮﻘﻟﺍ</LoveReading.stages.I_really_love_reading.description>
+  
+  <!-- EN: sick -->
+  <Sick.stages.sick.label>ﺾﻳﺮﻣ</Sick.stages.sick.label>
+  <!-- EN: I don't feel very well. -->
+  <Sick.stages.sick.description>. ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ ﻻ</Sick.stages.sick.description>
+  
+  <!-- EN: interesting textbook -->
+  <SkillBookPassion.stages.interesting_textbook.label>ﺮﻴﺜﻣ ﻲﺳﺭﺪﻣ ﺏﺎﺘﻛ</SkillBookPassion.stages.interesting_textbook.label>
+  <!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
+  <SkillBookPassion.stages.interesting_textbook.description>. ﻊﺘﻤﻣ ﻪﻧﺇ. ﻲﻔﻐﺷ ﺮﻴﺜﻳ ﺍًﻋﻮﺿﻮﻣ ﺏﺎﺘﻜﻟﺍ ﺍﺬﻫ ﻲﻄﻐﻳ</SkillBookPassion.stages.interesting_textbook.description>
+  <!-- EN: amazing textbook -->
+  <SkillBookPassion.stages.amazing_textbook.label>ﺯﺎﺘﻤﻣ ﻲﺳﺍﺭﺩ ﺏﺎﺘﻛ</SkillBookPassion.stages.amazing_textbook.label>
+  <!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
+  <SkillBookPassion.stages.amazing_textbook.description>. ﺭِﺳﺁ ﻪﻧﺇ. ﺓﺪﺸﺑ ﻪﻟ ﺲﻤﺤﺘﻣ ﺎﻧﺃ ﺍًﻋﻮﺿﻮﻣ ﺏﺎﺘﻜﻟﺍ ﺍﺬﻫ ﻲﻄﻐﻳ</SkillBookPassion.stages.amazing_textbook.description>
+  
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>{0} ﻱﺪﺗﺮﻳ</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>. ﺝﺮﺣُﻣ ﺍﺬﻫ! {0} ﺲﻨﺟ ﻦﻣ ﺺﺨﺸﻟ ﺡﻮﺿﻮﺑ ﺖﻌﻧُﺻ ﺲﺑﻼﻣ ﻱﺪﺗﺭﺃ</WrongApparelGender.stages.wearing_apparel.description>
+  
+</LanguageData>

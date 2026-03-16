@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu-->
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>ﺮﺘﺴﻔﻠﻴﺳ ﻥﺎﻨﻳﺎﺗ ﻢﻠﻘﺑ ﺺﺼﻗ ﺪﻟﻮﻣ</MainPageCredit>
+
+  <!-- Credits -->
+  <!-- EN: Design -->
+  <Credits_Design>ﻢﻴﻤﺼﺗ</Credits_Design>
+  <!-- EN: Engineering -->
+  <Credits_Developers>ﺔﺳﺪﻨﻫ</Credits_Developers>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>ﺕﻮﺻ</Credit_MusicAndSound>
+  <!-- EN: Art -->
+  <Credit_GameArt>ّﻦﻓ</Credit_GameArt>
+  <!-- EN: Testers -->
+  <Credit_Testers>ﻥﻭﺭِﺒﺘﺨﻣ</Credit_Testers>
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>ﻲﻓﺎﺿﺇ ﺮﻳﻮﻄﺗ</Credits_AdditionalDevelopment>
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>ﺹﺎﺧ ﺮﻜﺷ</Credit_SpecialThanks>
+
+  <!-- EN: Volunteer testers -->
+  <Credits_TitleTester>ﻉﻮﻄﺘﻟﺍ ﻭﺮﺒﺘﺨﻣ</Credits_TitleTester>
+
+  <!-- EN: Mods -->
+  <Credits_TitleMods>ﺕﻼﻳﺪﻌﺗ</Credits_TitleMods>
+
+  <!-- EN: {0} ({1}) language -->
+  <Credits_TitleLanguage>ﺔﻐﻟ) {1} ({0}</Credits_TitleLanguage>
+  <!-- EN: Anomaly localization -->
+  <Credits_Localization_Anomaly>ﺫﻭﺬﺷ ﻦﻴﻃﻮﺗ</Credits_Localization_Anomaly>
+  <!-- EN: Odyssey localization -->
+  <Credits_Localization_Odyssey>ﺔﺴﻳﺩﻭﺃ ﻦﻴﻃﻮﺗ</Credits_Localization_Odyssey>
+  <!-- EN: Lead Localization Project Manager -->
+  <Credits_LeadLocalizationProjectManager>ﻲﺴﻴﺋﺮﻟﺍ ﺔﻤﺟﺮﺘﻟﺍ ﻉﻭﺮﺸﻣ ﺮﻳﺪﻣ</Credits_LeadLocalizationProjectManager>
+  <!-- EN: Localization Project Manager -->
+  <Credits_LocalizationProjectManager>ﺐﻳﺮﻌﺘﻟﺍ ﻉﻭﺮﺸﻣ ﺮﻳﺪﻣ</Credits_LocalizationProjectManager>
+  <!-- EN: Project Manager -->
+  <Credits_ProjectManager>ﻉﻭﺮﺸﻣ ﺮﻳﺪﻣ</Credits_ProjectManager>
+  <!-- EN: Translator -->
+  <Credits_Translator>ﻢﺟﺮﺘﻣ</Credits_Translator>
+  <!-- EN: Editor -->
+  <Credits_Editor>ﺭﺮﺤﻣ</Credits_Editor>
+  <!-- EN: French -->
+  <Credits_French>French</Credits_French>
+  <!-- EN: Japanese -->
+  <Credits_Japanese>Japanese</Credits_Japanese>
+  <!-- EN: Korean -->
+  <Credits_Korean>Korean</Credits_Korean>
+  <!-- EN: Polish -->
+  <Credits_Polish>ﺔﻳﺪﻨﻟﻮﺑ</Credits_Polish>
+  <!-- EN: Russian -->
+  <Credits_Russian>Russian</Credits_Russian>
+  <!-- EN: Dutch -->
+  <Credits_Dutch>ﺔﻳﺪﻨﻟﻮﻫ</Credits_Dutch>
+  <!-- EN: Turkish -->
+  <Credits_Turkish>ﺔﻴﻛﺮﺗ</Credits_Turkish>
+  <!-- EN: Ukrainian -->
+  <Credits_Ukrainian>ﺔﻴﻧﺍﺮﻛﻭﺃ</Credits_Ukrainian>
+  <!-- EN: Simplified Chinese -->
+  <Credits_ChineseSimplified>Simplified Chinese</Credits_ChineseSimplified>
+  <!-- EN: Traditional Chinese -->
+  <Credits_ChineseTraditional>Traditional Chinese</Credits_ChineseTraditional>
+
+  <!-- EN: and many other gracious volunteers! -->
+  <AndOtherVolunteers>!ﻦﻳﺮﺧﻵﺍ ﻡﺍﺮﻜﻟﺍ ﻦﻴﻋﻮﻄﺘﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻭ</AndOtherVolunteers>
+
+  <!-- Credits - Currently unused -->
+  <!-- EN: Test lead -->
+  <Credit_TestLead>ﺭﺎﺒﺘﺧﻻﺍ ﺲﻴﺋﺭ</Credit_TestLead>
+  <!-- EN: Community donations -->
+  <Credits_TitleCommunity>ﻊﻤﺘﺠﻤﻟﺍ ﺕﺎﻋﺮﺒﺗ</Credits_TitleCommunity>
+  <!-- EN: Mod donors -->
+  <Credit_ModDonation>ﻞﻳﺪﻌﺘﻟﺍ ﻮﺤﻧﺎﻣ</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>ﺔﺑﺎﺘﻛ ﺢﻧﺎﻣ</Credit_WritingDonation>
+
+  <!-- Meta -->
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>!ﺐﻌﻠﻟ ًﺍﺮﻜﺷ</ThanksForPlaying>
+  <!-- EN: Skip credits -->
+  <SkipCredits>ﺔﻣﺪﻘﻤﻟﺍ ﻲﻄﺨﺗ</SkipCredits>
+
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barricade -->
+  <Barricade.label>ﺰﺟﺎﺣ</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>. ﺭﺍﻮﺳﻷﺍ ﺎﻬﻠﻌﻔﺗ ﻲﺘﻟﺍ ﺔﻘﻳﺮﻄﻟﺍ ﺲﻔﻨﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻨﻴﻌﻣ ﺍًﻋﺍﻮﻧﺃ ﺰﺟﺍﻮﺤﻟﺍ ﻊﻨﻤﺘﺳ. ﻯﺮﺧﻷﺍ ﺔﻀﻔﺨﻨﻤﻟﺍ ﻡﺎﺴﺟﻷﺍ ﻦﻣ ﻞﻀﻓﺃ ًﺀﺎﻄﻏ ﺮﻓﻮﺗ ﺎﻬﻨﻜﻟ ،ﺔﺤﻴﺒﻗ ﺰﺟﺍﻮﺤﻟﺍ. ﺓﺩﺭﺍﻮﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ ﻦﻣ ﺀﺎﻄﻐﻛ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺮﺼﺨﻟﺍ ﻉﺎﻔﺗﺭﺎﺑ ﺰﺟﺎﺣ</Barricade.description>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>ﺔﻴﻠﻣﺭ ﺱﺎﻴﻛﺃ</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
+  <Sandbags.description>. ﻯﺮﺧﻷﺍ ﺔﻀﻔﺨﻨﻤﻟﺍ ﻡﺎﺴﺟﻷﺍ ﻦﻣ ﻞﻀﻓﺃ ًﺀﺎﻄﻏ ﺮﻓﻮﺗ ﺎﻬﻨﻜﻟ ،ﺔﺤﻴﺒﻗ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ. ﺀﺎﻄﻐﻛ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﺳﺪﻜﻣ ،ﺭﺪﺼﻤﻟﺍ ﻲﻠﺤﻣ ﻞﻣﺭ ﻭﺃ ﺏﺍﺮﺗ ﻦﻣ ﺱﺎﻴﻛﺃ</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>ﺓﺮﺠﻔﺘﻤﻟﺍ ﺏﻮﺒﺤﻠﻟ ﺩﺎﻀﻣ ﻲﺑﺮﺣ ﺱﺃﺭ ﺦﻓ</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳﻭ ،ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻼﻓ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﻲﻔﺨﻣ ﻪﻧﺃ ﺎﻤﺑﻭ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺎﺑ ﺮﺠﻔﻨﻳ ﻞﻐﺸﻤﺑ ﻞﺼﺘﻣ ﺓﺩﺎﻀﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺔﻗﺎﻄﻟﺎﺑ ﻞﻤﻌﻳ ﺏﻮﺒﺤﻠﻟ ﺩﺎﻀﻣ ﻲﺑﺮﺣ ﺱﺃﺭ</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>ﺔﻠﺠﺗﺮﻣ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ ﺦﻓ</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ٍﻥﺍﻮﺛ ﻊﻀﺒﻟ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻞﺸﻳ ﻥﺃ ﺭﺎﺠﻔﻧﻼﻟ ﻦﻜﻤﻳ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺎﺑ ﺮﺠﻔﻨﻳ ﺰﻔﺤﻤﺑ ﻥﺎﺘﻠﺼﺘﻣ EMP ﺎﺘﻔﻳﺬﻗ</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>ﺮﺠﻔﺘﻣ ﻖﻳﺮﺣ ﺓﻮﻏﺭ ﺦﻓ</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻒﺋﺍﺬﻘﻟﺍ ﻩﺬﻫ ﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻼﻓ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﺃ ﺎﻤﺑﻭ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﻳ ﺰﻔﺤﻤﺑ ﺔﻠﺼﺘﻣ ﻖﻳﺮﺣ ﺓﻮﻏﺭ ﻒﺋﺍﺬﻗ ﻦﻣ ﺝﻭﺯ</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>ﺔﻔﺳﺎﻧ ﺓﻮﺒﻋ ﺦﻓ</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺎﻫﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳﻭ ،ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻼﻓ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﺃ ﺎﻤﺑﻭ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺎﺑ ﺮﺠﻔﻨﻳ ﺰﻔﺤﻤﺑ ﺔﻠﺼﺘﻣ ﺭﺎﺠﻔﻧﻻﺍ ﺓﺪﻳﺪﺷ ﻒﺋﺍﺬﻗ ﻦﻣ ﺝﻭﺯ</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>ﺮﺠﻔﺘﻣ ﻕﺭﺎﺣ ﺦﻓ</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻩﺬﻫ ﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻼﻓ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﺃ ﺎﻤﺑ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﻳ ﺰﻔﺤﻤﺑ ﺔﻠﺼﺘﻣ ﺔﻗﺭﺎﺤﻟﺍ ﻒﺋﺍﺬﻘﻟﺍ ﻦﻣ ﺝﻭﺯ</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED smoke trap -->
+  <TrapIED_Smoke.label>ﺮﺠﻔﺘﻣ ﻥﺎﺧﺩ ﺦﻓ</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻒﺋﺍﺬﻘﻟﺍ ﻩﺬﻫ ﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻼﻓ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﺃ ﺎﻤﺑ. ﺹﺎﺻﺮﻟﺍ ﺮﻴﺛﺄﺗ ﻭﺃ ﺲﻤﻠﻟﺎﺑ ﺮﺠﻔﻨﻳ ﺰﻔﺤﻤﺑ ﺔﻠﺼﺘﻤﻟﺍ ﻥﺎﺧﺪﻟﺍ ﻒﺋﺍﺬﻗ ﻦﻣ ﺝﻭﺯ</TrapIED_Smoke.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>ﻚﺋﺎﺷ ﺦﻓ</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>. ﺔﺋﺩﺎﻫ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻙﺍﻮﺷﻷﺍ ﻩﺬﻫ ﺭﺎﻌﺸﺘﺳﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ. ﻯﺮﺧﺃ ﺥﺎﺨﻓ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ ،ﺔﻄﻴﺤﻤﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﺔﻴﺤﻀﻟﺍ ﺏﺮﻀﺗﻭ ﻙﺍﻮﺷﻷﺍ ﻖﻠﻄﻨﺗ ،ﻞﻐﺸﻤﻟﺍ ﺔﻴﺤﻀﻟﺍ ﺞﻋﺰﻳ ﺎﻣﺪﻨﻋ. ﺲﻤﻠﻟﺎﺑ ﻞﻤﻌﻳ ﻞﻐﺸﻤﺑ ﺔﻠﺼﺘﻣ ،ﺮﺗﻮﺘﻟﺍ ﺖﺤﺗ ﻙﺍﻮﺷﺃ ﺔﺴﻤﺧ</TrapSpike.description>
+  
+</LanguageData>

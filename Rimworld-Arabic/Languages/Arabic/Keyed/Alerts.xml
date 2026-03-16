@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>. ﺔﻠﻜﺸﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ClickToJumpToProblem>
+
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>ﻒﻴﻔﻃ ﺮﺴﻛ ﺮﻄﺧ</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>ﺮﻴﺒﻛ ﺭﺎﻴﻬﻧﺍ ﺮﻄﺧ</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>ﺪﻳﺪﺷ ﺮﺴﻛ ﺮﻄﺧ</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
+  <BreakRiskMinorDesc>{0}: ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻒﻴﻔﻃ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﻥﻮﺑﺎﺼﻳ ﺪﻗﻭ ﺔﺌﻴﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻲﻓ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
+  <BreakRiskMajorDesc>{0}: ﺔﻈﺤﻟ ﻱﺃ ﻲﻓ ﺮﻴﺒﻛ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﻥﻮﺑﺎﺼﻳ ﺪﻗﻭ ﺔﻳﺎﻐﻠﻟ ﺔﺌﻴﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻲﻓ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
+  <BreakRiskExtremeDesc>{0}: ﺔﻈﺤﻟ ﻱﺃ ﻲﻓ) ﺔﻔﻴﻨﻋ ﺎﻤﺑﺭﻭ (ﺓﺪﻳﺪﺷ ﺔﻴﻠﻘﻋ ﺔﺑﻮﻨﺑ ﻥﻮﺑﺎﺼﻳ ﺪﻗﻭ ﻎﻟﺎﺑ ﻲﺴﻔﻧ ﻂﻐﺿ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>. ﻢﻬﺠﻋﺰﻳ ﺎﻣ ﺔﻓﺮﻌﻤﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻬﻟ ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻦﻣ ﻖﻘﺤﺗ\n\n. ﺮﻴﺜﻜﻟﺍ ﻚﻟﺫ ﺮﻴﻏﻭ ،ﻦﻴﺧﺪﺘﻟﺍﻭ ﺏﺮﺸﻟﺎﺑ ﻢﻬﻟ ﺡﺎﻤﺴﻟﺍﻭ ،ﺔﻠﻴﻤﺟ ﺕﺎﺌﻴﺑ ﻲﻓ ﻢﻬﻌﺿﻭﻭ ،ﻞﻀﻓﺃ ﺔﻴﻬﻴﻓﺮﺗ ﺀﺎﻴﺷﺃﻭ ﺍًﻴﻣﻮﻳ ﻪﻴﻓﺮﺘﻟﺍ ﺕﺎﻋﺎﺳ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻢﻬﺤﻨﻣﻭ ،ﻢﻬﻟ ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ ﺩﺍﺪﻋﺇ ﻞﺜﻣ ﺀﺎﻴﺷﺃ ﻞﻌﻓ ﻚﻨﻜﻤﻳ ،ﻦﺴﺤﺘﺑ ﻥﻭﺮﻌﺸﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ</BreakRiskDescEnding>
+
+  <!-- EN: Colonist needs rescue -->
+  <ColonistNeedsRescue>ﺍًﺫﺎﻘﻧﺇ ﺝﺎﺘﺤﻳ ﺮﻤﻌﺘﺴﻣ</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
+  <ColonistsNeedRescue>ﺫﺎﻘﻧﻺﻟ ﺔﺟﺎﺤﺑ ﻥﻭﺮﻤﻌﺘﺴﻣ</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDesc>. ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﻠﻄﻌﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>. ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﻠﻄﻌﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</ColonistsNeedRescueDescController>
+
+  <!-- EN: Need defenses -->
+  <NeedDefenses>ﺕﺎﻋﺎﻓﺩ ﺝﺎﻴﺘﺣﺍ</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>. ﺍًﺒﻳﺮﻗ ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺍﺭﺎﻏ ﻖﻠﻄﻨﺘﺳ. ﺕﺪﻫﻮﺷ ﺪﻗ ﻚﻧﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣﻭ ،ﺖﻗﻮﻟﺍ ﺾﻌﺒﻟ ﺎﻨﻫ ﺖﻨﻛ ﺪﻘﻟ\n\n. ﺥﺎﺨﻓ ﻭﺃ ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﻞﺜﻣ ،ﺕﺎﻋﺎﻓﺪﻠﻟ ﺪﻌﺘﺴﺗ ﻥﺃ ﺐﺠﻳ</NeedDefensesDesc>
+
+  <!-- EN: Need doctor -->
+  <NeedDoctor>ﺐﻴﺒﻃ ﺝﺎﺘﺤﻳ</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>. ﺀﺎﺒﻃﺄﻛ ﻥﻮﻨﻴﻌﻣ ﺀﺎﺤﺻﺃ ﻥﻭﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ،ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻰﻟﺇ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ ﺝﺎﺘﺤﻳ</NeedDoctorDesc>
+
+  <!-- EN: Need miner -->
+  <NeedMiner>ﻡِﺟْﻧُﻣ ﻑِﺸﻜﺘﺳُﻣ</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
+  <NeedMinerDesc>. ﻦﻳﺪﻌﺘﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ﻪﻳﺪﻟ ﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ،ﻦﻳﺪﻌﺘﻠﻟ ﺭﻮﺨﺼﻟﺍ ﺾﻌﺑ ﺖﺼﺼﺧ ﺪﻘﻟ\n\n. ﻦﻳﺪﻌﺘﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ًﺍﺮﻤﻌﺘﺴﻣ ﻥّﻴﻋ</NeedMinerDesc>
+
+  <!-- EN: Need warden -->
+  <NeedWarden>ﻦﺠﺴﻟﺍ ﺱﺭﺎﺣ</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
+  <NeedWardenDesc>. ﺱﺭﺎﺤﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ﻪﻳﺪﻟ ﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟ ،ﺮﻴﺳﺃ ﻚﻳﺪﻟ\n\n. ﺱﺭﺎﺤﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ًﺍﺮﻤﻌﺘﺴﻣ ﻥّﻴﻋ</NeedWardenDesc>
+
+  <!-- EN: Low food -->
+  <LowFood>ﺀﺍﺬﻐﻟﺍ ﺾﻔﺨﻨﻣ</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
+  <LowFoodDesc>. ﺮﻴﻄﺧ ﻞﻜﺸﺑ ﻡﺎﻌﻄﻟﺍ ﺩﺎﻔﻧ ﻚﺷﻭ ﻰﻠﻋ ﺖﻧﺃ\n\n{0}: ﺔﻠﻣﺎﻛ ﺕﺍﺪﺣﻮﺑ ﺔﻧﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ\n{1}: ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﻥﻮﻠﺼﺤﻳ ﻦﻳﺬﻟﺍ ﺀﺎﻨﺠﺴﻟﺍﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺪﻋ\n{2}: ﻥﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺎﻬﻴﻔﻜﻳ ﻲﺘﻟﺍ ﻡﺎﻳﻷﺍ ﺩﺪﻋ\n\n. ﻡﺎﻌﻄﻟﺍ ﺮﻴﻓﻮﺘﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﻞﺘﻗﺍ ﻭﺃ ﻡﺎﻌﻃ ﻦﻋ ﺚﺤﺑﺍ ﻭﺃ ِﺮﺘﺷﺍ ﻭﺃ ﻉﺭﺯﺍ</LowFoodDesc>
+
+  <!-- EN: Low medicine -->
+  <LowMedicine>ﺾﻔﺨﻨﻣ ﺀﺍﻭﺩ</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>. ﻥﻭﺰﺨﻤﻟﺍ ﻲﻓ ﺔﻴﻘﺒﺘﻤﻟﺍ ﺔﻳﻭﺩﻷﺍ ﻦﻣ {0} ﻚﻳﺪﻟ\n\n. ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺀﺍﻭﺪﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ِﺮﺘﺷﺍ</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>. ﻦﻳﺰﺨﺘﻟﺍ ﻲﻓ ﻲﻘﺒﺘﻣ ﺀﺍﻭﺩ ﻱﺃ ﻚﻳﺪﻟ ﺲﻴﻟ\n\n. ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺀﺍﻭﺪﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ِﺮﺘﺷﺍ</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
+  <NeedColonistBeds>ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺓﺮﺳﺃ</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedColonistBedsDesc>. ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﺺﻘﻧ ﻦﻣ ﺎﻣ ﺺﺨﺷ ﻲﻧﺎﻌﻴﺳ. ﺓﺮﻓﻮﺘﻤﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺮﺳﺃ ﻦﻣ ﺮﺜﻛﺃ ﻥﻭﺮﻤﻌﺘﺴﻣ ﻚﻳﺪﻟ\n\n. ﺮﻤﻌﺘﺴﻣ ﺮﻳﺮﺳ ﻰﻟﺇ ﻦﻴﺠﺳ ﺮﻳﺮﺳ ﺮﻴﻐﺗ ﻥﺃ ﻭﺃ ،ﺓﺮﺳﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻊﻨﺼﺗ ﻥﺃ ﺎﻣﺇ\n\n. ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳﻭ ﺔﻴﻧﺎﺠﻣ ﻡﻮﻨﻟﺍ ﻦﻛﺎﻣﺃ ﻥﺈﻓ ،ﺩﺭﺍﻮﻣ ﻚﻳﺪﻟ ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ</NeedColonistBedsDesc>
+  
+  <!-- EN: Colonist left unburied -->
+  <AlertColonistLeftUnburied>ﺍًﻧﻮﻓﺪﻣ ﻙﻭﺮﺘﻣ ﺮﻤﻌﺘﺴﻣ</AlertColonistLeftUnburied>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>. ﻦﻓﺩ ﻥﻭﺩ ﺍًﺘﻴﻣ ﺮﻤﻌﺘﺴﻣ ﻙﺭُﺗ\n\n. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺎﻳﻮﻨﻌﻣ ﻰﻠﻋ ﺍًﺒﻠﺳ ﻚﻟﺫ ﺮﺛﺆﻳ ﺪﻗ</AlertColonistLeftUnburiedDesc>
+
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>ﺔﻴﻟﺎﺑ ﺲﺑﻼﻣ</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>: ﻢﻬﻧﺰﺤﻳ ﺎﻤﻣ ،ﺔﻴﻟﺎﺑ ﺲﺑﻼﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ ﻱﺪﺗﺮﻳ\n{0}\n\n. ﺔﻳﺎﻐﻠﻟ ﺓﺭﺮﻀﺘﻣ ﺖﺴﻴﻟ ﺲﺑﻼﻣ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ\n\n. ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺧ ﺔﻟﻭﺎﻃ ﻭﺃ ﻲﻓﺮﺣ ﻥﺎﻜﻣ ﻲﻓ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺧ ﻚﻨﻜﻤﻳ</AlertTatteredApparelDesc>
+
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>ﺪﻴﻌﺳ ﺮﻴﻏ ﻱﺮﻋ</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>: ﻚﻟﺬﺑ ﺀﺍﺪﻌﺳ ﺮﻴﻏﻭ ﺓﺍﺮﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ\n{0}\n\n. ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ\n\n. ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺧ ﺔﻟﻭﺎﻃ ﻭﺃ ﺔﻏﺎﻴﺻ ﺔﻌﻘﺑ ﻲﻓ ﺲﺑﻼﻤﻟﺍ ﻢﻴﻤﺼﺗ ﻚﻨﻜﻤﻳ</AlertUnhappyNudityDesc>
+
+  <!-- EN: Starvation -->
+  <Starvation>ﺩﺎﺣ ﻉﻮﺟ</Starvation>
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
+  <StarvationDesc>: ﺍًﻋﻮﺟ ﻥﻭﺭﻮﻀﺘﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ\n{0}\n\n. ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ</StarvationDesc>
+
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻉﻮﺟ</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
+  <StarvationAnimalsDesc>: ﺔﻌﺋﺎﺟ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ\n{0}\n\n. ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ</StarvationAnimalsDesc>
+
+  <!-- EN: Exhaustion -->
+  <Exhaustion>ﻕﺎﻫﺭﺇ</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <ExhaustionDesc>: ﺔﺣﺍﺮﻟﺍ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳﻭ ﻥﻮﻜﻬﻨﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ\n{0}\n\n. ﻦﻳﺪﻨﺠﻣ ﺮﻴﻏ ﻢﻬﻧﺃ ﻦﻣ ﺍًﻀﻳﺃ ﺪﻛﺄﺗ. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﻻ ﺺﺼﺧُﻣ ﺮﻳﺮﺳ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻴﺳ. ﻥﻮﺣﺎﺗﺮﻳ ﻢﻬﻠﻌﺟﺍ</ExhaustionDesc>
+
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>ﺍًﻣﺎﻌﻃ ﺝﺎﺘﺤﻳ ﻢﻴﻘﻠﺗ ﻊﻤﻗ</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
+  <NeedFoodHopperDesc>. ﻪﺒﻧﺎﺠﺑ ﻢﻴﻘﻠﺗ ﻊﻤﻗ ﻼﺑ ﺔﻳﺬﻐﻣ ﺔﻨﻴﺠﻋ ﻉﺯﻮﻣ ﻚﻳﺪﻟ</NeedFoodHopperDesc>
+
+  <!-- EN: Need meal source -->
+  <NeedMealSource>ﻱﺭﻭﺮﺿ ﺔﺒﺟﻭ ﺭﺪﺼﻣ</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>. ﺊﻴﻨﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﺔﺒﺳﺎﻨﻣ ﺕﺎﺒﺟﻭ ﺩﺍﺪﻋﺇ ﻚﻨﻜﻤﻳ ﻻ\n\n. ﺕﺎﻳﺬﻐﻤﻠﻟ ﺍًﻋﺯﻮﻣ ﻭﺃ ﺔﻳﺮﻜﺴﻌﻣ ﺍًﺭﺎﻧ ﻭﺃ ﺍًﺪﻗﻮﻣ ِﻦﺑﺍ\n\n.) ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻜﻤﺘﻳ ﻦﻠﻓ ﻻﺇﻭ ،ﻦﺠﺳ ﺔﻧﺍﺰﻧﺯ ﻞﺧﺍﺩ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ(</NeedMealSourceDesc>
+
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﻉﻮﻨﺗ</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>. ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﻒﻠﺘﺨﻣﻭ ﺪﻳﺪﺟ ﻉﻮﻧ ﺔﻓﺎﺿﺇ ﻖﻳﺮﻃ ﻦﻋ ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﻉﻮﻨﺗ ﺮﻴﻓﻮﺘﺑ ﻢﻗ. ﻦﻴﺿﺍﺭ ﻰﻘﺒﻴﻟ ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ {3} ﻰﻟﺇ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺎﺘﺤﻳ ،){2} (ﻲﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ ﻯﻮﺘﺴﻣ ﺪﻨﻋ ﻦﻜﻟﻭ ،{1} ﻲﻓ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺍًﻋﻮﻧ {0} ﻯﻮﺳ ﺮﻓﻮﺘﻳ ﻻ\n\n{4}\n\n{5}\n\ni'. 'ﺭﺯ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍﻭ ،ﺔﻴﺋﺎﺼﺣﻹﺍ ﻪﺘﺤﻔﺻ ﻲﻓ ﺮﺼﻨﻋ ﻱﻷ ﻪﻴﻓﺮﺘﻟﺍ ﻉﻮﻧ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ: ﺔﻈﺣﻼﻣ</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>ﺓﺩﻮﻘﻔﻣ ﻪﻴﻓﺮﺗ ﻉﺍﻮﻧﺃ</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>. ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻣ {2} ﺩﻮﺟﻮﺑ ﻰﺻﻭُﻳ. ﺔﻈﻘﻴﻟﺍ ﻦﻣ ﻡﻮﻳ ﻞﻜﻟ {1} ﺭﺍﺪﻘﻤﺑ ﻞﻤﺤﺘﻟﺍ ﺾﻔﺨﻨﻳ), {0} (ﺔﻴﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ ﺪﻨﻋ</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>ﻞﻤﻣ</bored>
+
+  <!-- EN: Boredom -->
+  <Boredom>ﻞﻠﻣ</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
+  <BoredomDesc>: ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﺭﺩﺎﺼﻣ ﻞﻛ ﻦﻣ ﻞﻠﻤﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﻢﻬﻨﻜﻟ ،ﻪﻴﻓﺮﺘﻟﺎﺑ ﻢﻬﻔﻴﻠﻜﺗ ﻢﺗ ﻭﺃ ﻪﻴﻓﺮﺘﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻣﺇ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ\n\n{0}\n\n. ﻪﻴﻓﺮﺘﻟﺍ ﻉﻮﻨﺗ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ\n\n:{PAWN_labelShort} ـﻝ ﺍًﻴﻟﺎﺣ ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ\n{2}</BoredomDesc>
+
+  <!-- EN: Need batteries -->
+  <NeedBatteries>ﺕﺎﻳﺭﺎﻄﺑ ﺝﺎﺘﺤﺗ</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
+  <NeedBatteriesDesc>. ﺡﺎﻳﺮﻟﺍ ﺎﻬﻴﻓ ﺃﺪﻬﺗ ﻭﺃ ﺲﻤﺸﻟﺍ ﺎﻬﻴﻓ ﺏﺮﻐﺗ ﺓﺮﻣ ﻞﻛ ﻲﻓ ﺔﻗﺎﻄﻟﺍ ﺪﻘﻔﺘﺳ ؛ﺕﺎﻳﺭﺎﻄﺑ ﺪﺟﻮﺗ ﻻ ﻦﻜﻟﻭ ،ﻲﺋﺍﻮﻫ ﻭﺃ ﻲﺴﻤﺷ ﺪﻟﻮﻣ ﻚﻳﺪﻟ</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>. ﺓﺮﻤﺘﺴﻣ ﺔﻗﺎﻃ ﻥﺎﻤﻀﻟ ﻦﻴﺘﻨﺛﺍ ﻭﺃ ﺔﻳﺭﺎﻄﺑ ِﻦﺑﺍ</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>. ﺓﺮﻤﺘﺴﻣ ﺔﻗﺎﻃ ﻥﺎﻤﻀﻟ ﺎﻬﻀﻌﺑ ِﻦﺑﺍﻭ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻦﻋ ﺚﺤﺑﺍ</NeedBatteriesNotResearchedDesc>
+
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻪﻳﺪﻟ ﻝِﺗﺎﻗُﻣ</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺍًﺣﻼﺳ ﻞﻤﺤﻳ ﻪﻨﻜﻟ ، " ﻢﻛﻼﻤﻟﺍ " ﺔﻴﺼﺨﺷ ﺔﻤﺳ ﻚﻠﺘﻤﻳ ﻚﻳﺪﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺪﺣﺃ</BrawlerHasRangedWeaponDesc>
+
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺍًﺣﻼﺳ ﻉﺭﺪﻟﺍ ﻡﺪﺨﺘﺴﻣ ﻞﻤﺤﻳ</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>).ﻞﻌﻔﻟﺎﺑ ﻢﻬﺴﻣﻼﺗ ﻲﺘﻟﺍ ﻑﺍﺪﻫﻷﺍ ﻰﻠﻋ ﻻﺇ (ﻉﺭﺪﻟﺍ ﻝﻼﺧ ﻦﻣ ﻢﻬﺣﻼﺳ ﻕﻼﻃﺇ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻦﻟ. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺍًﺣﻼﺳ ﻞﻤﺤﻳﻭ ﻉﺭﺩ ﻡﺍﺰﺣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺪﺣﺃ ﻯﺪﻟ</ShieldUserHasRangedWeaponDesc>
+
+  <!-- EN: Need research project -->
+  <NeedResearchProject>ﺏﻮﻠﻄﻣ ﺚﺤﺑ ﻉﻭﺮﺸﻣ</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
+  <NeedResearchProjectDesc>. ﺪﻌﺑ ﺍًﻋﻭﺮﺸﻣ ﺩﺪﺤﺗ ﻢﻟ ﻚﻨﻜﻟ ،ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﻹ ﺔﻣﺯﻼﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻚﻳﺪﻟ\n\n.) ﺙﻮﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻔﻟ ﺮﻘﻧﺍ(</NeedResearchProjectDesc>
+
+  <!-- EN: 1 colonist idle -->
+  <ColonistIdle>ﻒﻗﻮﺘﻣ ﺮﻤﻌﺘﺴﻣ</ColonistIdle>
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>ﻝﻮﻤﺧ ﺔﻟﺎﺣ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻣ {0}</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>: ﻑﺪﻫ ﻼﺑ ﻥﻮﻟﻮﺠﺘﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ\n{0}\n\n. ﻩﻮﻠﻌﻔﻴﻟ ﺞﺘﻨﻣ ﺀﻴﺷ ﺩﺎﺠﻳﺇ ﻚﻴﻠﻋ ﺐﺠﻳ ﺎﻤﺑﺭ</ColonistsIdleDesc>
+  
+  <!-- EN: Caravan idle -->
+  <CaravanIdle>ﺔﻠﻣﺎﺧ ﺔﻠﻓﺎﻗ</CaravanIdle>
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
+  <CaravanIdleDesc>: ﺔﻴﻟﺎﺘﻟﺍ ﺎﻬﺘﻬﺟﻭ ﺪﻳﺪﺤﺗ ﻚﻨﻣ ﻞﻓﺍﻮﻘﻟﺍ ﻩﺬﻫ ﺮﻈﺘﻨﺗ\n{0}</CaravanIdleDesc>
+
+  <!-- EN: Medical treatment needed -->
+  <ColonistNeedsTreatment>ﺏﻮﻠﻄﻣ ﻲﺒﻃ ﺝﻼﻋ</ColonistNeedsTreatment>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>. ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ ﺝﺎﺘﺤﻳ</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>. ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</ColonistNeedsTreatmentDescController>
+
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>: ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ ﻦﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ ﻲﻧﺎﻌﻳ\n{0}\n\n. ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺓﺄﻓﺩُﻣ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺕﺎﺣﺎﺴﻤﻟﺍ ﻥﺃﻭ ﻢﺳﻮﻤﻠﻟ ﺔﺒﺳﺎﻨﻣ ﻢﻬﺴﺑﻼﻣ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>. ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻰﺿﺮﻣ {0} ﺮﻈﺘﻨﻳ</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>: ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﻥﻭﺮﻈﺘﻨﻳ ﻰﺿﺮﻤﻟﺍ ﺀﻻﺆﻫ\n{0}\n\n. ﺮﺣ ﺐﻴﺒﻃﻭ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻊﻴﻤﺟ ﺮﻓﻮﺗ ﻦﻣ ﺪﻛﺄﺗ</PatientsAwaitingMedicalOperationDesc>
+
+  <!-- EN: Fire! -->
+  <FireInHomeArea>!ﻖﻳﺮﺣ</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>. ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻖﻳﺮﺣ ﻊﻟﺪﻧﺍ</FireInHomeAreaDesc>
+
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>ﺔﺋﺭﺎﻃ ﺔﻴﺒﻃ ﺔﻟﺎﺣ</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>: ﺮﻴﻄﺧ ﺽﺮﻣ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﺹﺎﺨﺷﻷﺍ\n{0}\n\n. ﺔﻨﻜﻤﻣ ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻞﻀﻓﺃ ﻰﻠﻋ ﻢﻬﻟﻮﺼﺣ ﻦﻣ ﺪﻛﺄﺗ</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>: ﺪﻳﺪﺷ ﺽﺮﻣ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﺹﺎﺨﺷﻷﺍ\n{0}\n\n. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺎﻴﺣ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺔﺑﺎﺼﻤﻟﺍ ﻑﺍﺮﻃﻷﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻭﺃ ﺮﺘﺑ ﻲﻓ ﺮﻜﻓ ،ﻦﻜﻣﺃ ﺍﺫﺇ</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>ﺔﺣﺎﺴﻣ ﺝﺎﺘﺤﻳ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>. ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻨﻤﻴﺳ ﻖﺋﺎﻌﻟ ﺭﻭﺎﺠﻣ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺕﻻﻭﺎﻃ ﺪﺣﺃ\n\n. ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﻥﻮﻜﺘﻟ ﺐﻧﺍﻮﺠﻟﺍ ﻊﻴﻤﺟ ﻦﻣ ﺎﻬﻟﻮﺣ ﺔﻴﻟﺎﺧ ﺔﺣﺎﺴﻣ ﻰﻟﺇ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺝﺎﺘﺤﺗ</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>. ﺪﻋﺎﻘﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>. ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻰﻠﻋ ﻚﻳﺪﻟ ﺞﻧﺮﻄﺸﻟﺍ ﺕﻻﻭﺎﻃ ﺪﺣﺃ ﻱﻮﺘﺤﻳ ﻻ\n\n. ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻴﺼﺨﺸﻟ ﻦﻜﻤﻳ. ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻤﻟ ﺡﺎﻤﺴﻠﻟ ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ ﻭﺃ ﺪﻋﺎﻘﻣ ﺀﺎﻨﺒﺑ ﻢﻗ</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>. ﺪﻋﺎﻘﻣ ﻰﻟﺇ ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺝﺎﺘﺤﻳ</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>. ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻰﻠﻋ ﻚﻳﺪﻟ ﺮﻛﻮﺒﻟﺍ ﺕﻻﻭﺎﻃ ﺪﺣﺃ ﻱﻮﺘﺤﻳ ﻻ\n\n. ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ ﺹﺎﺨﺷﺃ ﺔﻴﻧﺎﻤﺜﻟ ﻦﻜﻤﻳ. ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻤﻟ ﺡﺎﻤﺴﻠﻟ ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ ﻭﺃ ﺪﻋﺎﻘﻣ ﺀﺎﻨﺒﺑ ﻢﻗ</PokerTablesNeedChairsDesc>
+
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>. ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺍًﺣﻼﺳﻭ ﺍًﻋﺭﺩ ﻞﻤﺤﻳ ﺩﺎﻴﺻ</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>. ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻊﻨﻤﻳ ﻉﺭﺩ ﻡﺍﺰﺣ ﻱﺪﺗﺮﻳﻭ ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺍًﺣﻼﺳ ﻦﻳﺩﺎﻴﺼﻟﺍ ﺪﺣﺃ ﻡﺪﺨﺘﺴﻳ</HunterHasShieldAndRangedWeaponDesc>
+
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>ﺔﺑﻮﻠﻄﻣ ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>. ﺩﺮﺒﻟﺍ ﻞﺼﻓ ﺃﺪﺒﻳ ﺎﻣﺪﻨﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺺﻘﻧ ﻦﻣ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻦﻣ {0} ﻦﻋ ﻞﻘﻳ ﻻ ﺎﻣ ﻲﻧﺎﻌﻴﺳ</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>. ﺩﺭﺎﺒﻟﺍ ﻢﺳﻮﻤﻟﺍ ﻲﺗﺄﻳ ﺎﻣﺪﻨﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻊﻴﻤﺟ ﺪﻘﺘﻔﻳَﺳ</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>.{0} ﻰﻟﺇ ﻞﺼﺘﺳ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ\n\n. ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻃ ﻲﻓ ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﻢﻴﻤﺼﺗ ﻚﻨﻜﻤﻳ</NeedWarmClothesDesc2>
+
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>. ﺔﺘﺑﺎﺛ ﺔﻠﻓﺎﻗ</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>. ﺓﺪﺋﺍﺰﻟﺍ ﺔﻟﻮﻤﺤﻟﺍ ﺐﺒﺴﺑ ﺔﻛﺮﺤﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﻢﻜﻠﻓﺍﻮﻗ ﻯﺪﺣﺇ\n\n. ﺮﺻﺎﻨﻌﻟﺍ ﺐﻳﻮﺒﺗ ﻲﻓ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻦﻋ ﻲﻠﺨﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺔﻠﻓﺎﻘﻟﺍ ﻚﻳﺮﺤﺗ ﺓﺩﺎﻋﺇ ﻢﻜﻨﻜﻤﻳ</ImmobileCaravanDesc>
+
+  <!-- EN: Building unusable due to roof -->
+  <BuildingCantBeUsedRoofed>. ﻒﻘﺴﻟﺍ ﺐﺒﺴﺑ ﺢﻟﺎﺻ ﺮﻴﻏ ﺀﺎﻨﺑ</BuildingCantBeUsedRoofed>
+  <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
+  <BuildingCantBeUsedRoofedDesc>. ﺎﻬﻗﻮﻓ/ﻪﻗﻮﻓ ﻒﻘﺳ ﺪﺟﻮﻳ ﻦﻜﻟﻭ ،ﺓﺎﻄﻐﻣ/ﻰﻄﻐﻣ ﺕ/ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ ﻻﺇ ﻚﺗﺎﻴﻧﺎﺒﻣ/ﻙﺎﻨﺒﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</BuildingCantBeUsedRoofedDesc>
+
+  <!-- EN: Heatstroke -->
+  <AlertHeatstroke>ﺲﻤﺷ ﺔﺑﺮﺿ</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>: ﺲﻤﺸﻟﺍ ﺔﺑﺮﺿ ﻦﻣ ﻥﻮﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻲﻧﺎﻌﻳ\n{0}\n\n. ﺏﺎﺒﺑ ﺝﺭﺎﺨﻟﺍ ﻦﻋ ﺔﻠﺼﻔﻨﻣ ﺖﻧﺎﻛ ﺍﺫﺇ ،ﺍًﻀﻳﺃ ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﺓﺩﺭﺎﺑ ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻘﻴﻤﻌﻟﺍ ﺕﺎﺣﺎﺴﻤﻟﺍ. ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﺍﺩﺮﺒﻣ ﻭﺃ ﺔﻴﺒﻠﺳ ﺕﺍﺩﺮﺒﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻑﺮﻐﻟﺍ ﺪﻳﺮﺒﺗ ﻚﻨﻜﻤﻳ. ﺓﺩﻭﺮﺑ ﺮﺜﻛﺃ ﺔﻘﻄﻨﻣ ﻰﻟﺇ ﻢﻬﻠﻘﻧﺍ</AlertHeatstrokeDesc>
+
+  <!-- EN: Guest unhappy -->
+  <QuestPartMoodBelowThreshold>ٍﺽﺍﺭ ﺮﻴﻏ ﻒﻴﺿ</QuestPartMoodBelowThreshold>
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
+  <QuestPartMoodBelowThresholdDesc>: ﻢﻫﺭﻮﻌﺷ ﻦﻴﺴﺤﺘﻟ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺾﻌﺑ ﺬﺨﺗﺍ. ﺊﻴﺳ ﻢﻬﺟﺍﺰﻣ ﻥﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺍًﺪﻴﺟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺝﺍﺰﻣ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ {0} ﺔﻤﻬﻤﻟﺍ ﺐﻠﻄﺘﺗ\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <!-- EN: Shuttle leaving in {0} -->
+  <QuestPartShuttleLeaveDelay>{0} ﻝﻼﺧ ﺭﺩﺎﻐﻳ ﻙﻮﻜﻣ</QuestPartShuttleLeaveDelay>
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleLeaveDelayDesc>.{1} ﻲﻓ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﺘﺳ</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>.{0} ﻲﻓ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﺘﺳ</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>{0} ﻰﻟﺇ ﻙﻮﻜﻣ ﻝﻮﺻﻭ</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>.{1} ﻲﻓ ﻲﺋﺎﻀﻓ ﻙﻮﻜﻣ ﻞﺼﻴﺳ</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>.{0} ﻲﻓ ﻲﺋﺎﻀﻓ ﻙﻮﻜﻣ ﻞﺼﻴﺳ</QuestPartShuttleArriveDelayDescHidden>
+
+  <!-- EN: Monument will be destroyed -->
+  <DisallowedBuildingInsideMonument>. ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺭَّﻣﺩُﻴﺳ</DisallowedBuildingInsideMonument>
+  <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
+  <DisallowedBuildingInsideMonumentDesc>.{0} ﻲﻓ ﺍًﺮﻣﺪﻣ ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺮﺒﺘﻋُﻴﺳ. ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻳﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺪﺣﺃ ﻞﺧﺍﺩ ﻪﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ ﻰﻨﺒﻣ ﺀﺎﻨﺒﺑ َﺖﻤﻗ ﺪﻘﻟ</DisallowedBuildingInsideMonumentDesc>
+
+  <!-- EN: Countdown activator {0} -->
+  <ActivatorCountdown>{0} ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﻝِّﻌﻓُﻣ</ActivatorCountdown>
+  <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDesc>. ﺔﺒﻳﺮﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻅﺎﻘﻳﻹ ﺪﻌﺘﺴﻳ ،ﻞﻤﻌﻳ ﻲﻟﺯﺎﻨﺗ ﺪﻋ ﻝِّﻌﻓُﻣ ﻙﺎﻨﻫ</ActivatorCountdownDesc>
+  <!-- EN: {0} countdown activators -->
+  <ActivatorCountdownMultiple>{0} ﻲﻟﺯﺎﻨﺗ ﺪﻋ ﺕﻼِّﻌﻓُﻣ</ActivatorCountdownMultiple>
+  <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDescMultiple>. ﺔﺒﻳﺮﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻅﺎﻘﻳﻹ ﺪﻌﺘﺴﺗ ،ﻞﻤﻌﺗ ﻲﻟﺯﺎﻨﺗ ﺪﻋ ﺕﻼِّﻌﻓُﻣ {0} ﺪﺟﻮﻳ</ActivatorCountdownDescMultiple>
+
+  <!-- EN: Quest expires in {0} -->
+  <QuestExpiresSoon>{0} ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﻲﻬﺘﻨﺗ</QuestExpiresSoon>
+  <!-- EN: The quest '{0}' will expire in {1}. -->
+  <QuestExpiresSoonDesc>.{1} ﻝﻼﺧ ' {0} 'ﺔﻤﻬﻤﻟﺍ ﺔﻴﺣﻼﺻ ﻲﻬﺘﻨﻴﺳ</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺦﺳﻭ</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>. ﺔﻔﻴﻈﻧ ﺔﻴﺿﺭﺃ ﻰﻠﻋ ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﺥﺎﺳﻭﻸﻟ ﺝِﺘﻧُﻣ ﻥﺍﻮﻴﺣ ﺪﺟﺍﻮﺘﻳ\n\n. ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻗﺃ ﺔﻴﻤﻛ ﺞﺘﻧُﺘﺳ ﺚﻴﺣ ﺶﻘﻟﺍ ﻦﻣ ﺮﻴﺼﺣ ﻰﻠﻋ ﻭﺃ ،ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺥﺎﺳﻭﻸﻟ ﺔﺟِﺘﻧُﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺎﺑ ﻆﻔﺘﺣﺍ. ﺔﻳﺩﺎﻌﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﻰﻠﻋ ﺔﻛﺮﺤﻟﺍ ﺪﻨﻋ ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺍًﺪﺟ ﺓﺮﻴﺒﻛ ﺔﻴﻤﻛ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺞﺘﻧُﺗ\n\ni'. 'ﺭﺯ ﻰﻠﻋ ﺮﻘﻨﻟﺎﺑ ﻪﺗﺎﻴﺋﺎﺼﺣﺇ ﻲﻓ ﻥﺍﻮﻴﺤﻟﺍ ﻯﺪﻟ ﺥﺎﺳﻭﻷﺍ ﺝﺎﺘﻧﺇ ﻝﺪﻌﻣ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n: ﺔﻠﻜﺸﻤﻟﺍ ﻲﻫ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>ﺏﻮﻠﻄﻣ ﻢﻠﻗ</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>. ﺍًﺪﻴﻌﺑ ﻝّﻮﺠﺘﺘﺳ ﺎﻬﻧﺈﻓ ،ﺔﻠﻓﺎﻘﻟﺍ ﻖﻴﻠﻌﺗ ﻥﺎﻜﻤﺑ ﻂﺑﺭُﺗ ﻭﺃ ﺓﺮﻴﻈﺣ ﻲﻓ ﺰﺠﺘﺣُﺗ ﻢﻟ ﺍﺫﺇ. ﻝّﻮﺠﺘﺗ ﺔﻔﻴﻟﻷﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>. ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﺎﺼﻳﻹ ﻥﻭﺮﻤﻌﺘﺴﻣ ﺪﺟﻮﻳ ﻻ\n\n. ﻞﻣﺎﻌﺘﻟﺍ ﻞﻤﻋ ﻉﻮﻨﻟ ًﺍﺮﻤﻌﺘﺴﻣ ﻥّﻴﻋ</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>. ﺓﺮﻴﻈﺤﻟﺍ ﺎﻬﺒﻋﻮﺘﺴﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋﻭ ﺎﻬﻠﺒﻘﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻓﺮﻌﻤﻟ ﺓﺮﻴﻈﺤﻟﺍ ﺔﻣﻼﻋ ﺩﺪﺣ. ﻥﺍﺭﺪﺠﺑ ﺔﻃﺎﺤﻣ ﻭﺃ ﺔﻨﺼﺤﻣ ﻭﺃ ﺔﺠﻴﺴﻣ ﺔﻘﻄﻨﻣ ﻞﺧﺍﺩ ﺓﺮﻴﻈﺣ ﺔﻣﻼﻋ ﺀﺎﻨﺒﺑ ﺕﺎﻧﺍﻮﻴﺣ ﺓﺮﻴﻈﺣ ﺊﺸﻧﺃ\n\n. ﺍًﻴﺋﺎﻘﻠﺗ ﺎﻬﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺭﺎﻀﺣﺈﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻮﺠﻟﺎﻌﻣ ﻡﻮﻘﻴﺳ\n\n. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﺎﺧﺩﻹ ﺔﺑﺍﻮﺑ ﻭﺃ ﺏﺎﺑ ﻰﻟﺇ ﺓﺮﻴﻈﺤﻟﺍ ﺝﺎﺘﺤﺗ</AlertAnimalPenNeededDescExplanation>
+  
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>ﺭﻮﺼﺤﻣ ﺮﻴﻏ ﻢﻠﻗ</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>. ﺔﻘﻠﻐﻣ ﺮﻴﻏ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﺔﻣﻼﻋ\n\n. ﻝﻮﺠﺘﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻨﻤﻟ ﺏﺍﻮﺑﻷﺍ ﻭﺃ ﻥﺍﺭﺪﺠﻟﺍ ﻭﺃ ﺕﺎﺑﺍﻮﺒﻟﺍ ﻭﺃ ﺰﺟﺍﻮﺤﻟﺍ ﻭﺃ ﺭﺍﻮﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺮﻴﻈﺤﻟﺍ ﻖﻠﻏﺃ\n\n. ﻯﺮﺧﺃ ﺓﺮﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺠﺘﺗ ﺎﻣﺪﻨﻋ ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ ﻚﻟﺫ ﺭﺍﺮﻜﺗ ﺐﺠﻳ ﻦﻜﻟﻭ - ﻝﺰﻨﻤﻟﺍ ﻰﻟﺇ ﺔﻟﺎﻀﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺩﺎﻋﺇ ﻚﻳِﺟِﻟﺍَﻋُﻣ ﻥﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻼﻓ ،ﻂﻘﻓ ﺔﻘﻠﻐﻣ ﺮﻴﻏ ﺮﺋﺎﻈﺣ ﺕﺎﻣﻼﻋ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻲﻓ {ANIMAL_labelShort}</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻰﻟﺇ ﺱﺮﺘﻔﻣ {ANIMAL_labelShort} ﻞﺧﺩ\n\n. ﻚﺗﺎﻧﺍﻮﻴﺣ ﺩﺎﻴﻄﺻﺍ ﺭﺮﻘﻳ ﺪﻗ\n\n. ﻞﺣﺮﻳ ﻥﺃ ﻲﻓ ﻞﻣﻷﺍﻭ ﺭﺎﻈﺘﻧﻻﺍ ﻭﺃ ،ﻪﻠﺘﻗ ﻚﻨﻜﻤﻳ</AlertPredatorInAnimalPenDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>ﺍًﺪﻴﻌﺑ ﻥﺍﻮﻴﺤﻟﺍ ﻝّﻮﺠﺗ</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
+  <AlertAnimalIsRoamingDesc>. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻥﻭﺭﺩﺎﻐﻴﺴﻓ ،ﺔﻄﻳﺮﺨﻟﺍ ﺔﻓﺎﺣ ﻰﻟﺇ ﺍﻮﻠﺻﻭ ﺍﺫﺇ. ﻊﻜﺴﺘﻟﺍ ﻲﻓ ﺕﺃﺪﺑﻭ ﻝﻮﺠﺘﻟﺎﺑ ﺔﻨﺟﺪﻤﻟﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ ﺕﺃﺪﺑ</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>ﺔﻌﺋﺎﺟ ﺓﺪﻴﻘﻣ ﺕﺎﻧﺍﻮﻴﺣ</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
+  <AlertPennedAnimalHungryDesc>. ﺔﻌﺋﺎﺟ ﺔﺳﻮﺒﺤﻤﻟﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Hungry hitched animal -->
+  <AlertHitchedAnimalHungryNoFood>ﻊﺋﺎﺟ ﻁﻮﺑﺮﻣ ﻥﺍﻮﻴﺣ</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>. ﺎﻬﻟﻭﺎﻨﺘﻣ ﻲﻓ ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻻ ﺪﻗ. ﺔﻌﺋﺎﺟ ﺖﻴﺒﺜﺘﻟﺍ ﻦﻛﺎﻣﺃ ﻲﻓ ﺔﻃﻮﺑﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ\n\n. ﻢﻬﺴﻔﻧﺄﺑ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺖﻴﺒﺜﺘﻟﺍ ﻥﺎﻜﻣ ﻝﺯﺃ ﻭﺃ ،ﺍًﻣﺎﻌﻃ ﻢﻬﻟ ﺮﻀﺣﺃ\n\n: ﻲﻫ ﺔﻴﻟﺎﺘﻟﺍ ﺔﻌﺋﺎﺠﻟﺍ ﺔﻃﻮﺑﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>{0} ﻰﻟﺇ ﺔﻣﺩﺎﻗ ﺕﺍﺭﺎﻏ</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>. ﺍًﺒﻳﺮﻗ ﺓﻮﻘﺑ ﻝﻮﺻﻮﻟﺎﺑ ﻥﻭﺃﺪﺒﻴﺳﻭ ﺔﻴﻟﺎﺘﻟﺍ ﻊﻗﺍﻮﻤﻟﺍ ﻰﻟﺇ ﺀﺍﺪﻋﻷﺍ ﺖﺑﺫُﺟ\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>{1} ﻲﻓ {0} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>. َﺖﻴﻘﺑ ﺍﺫﺇ ﺍًﻴﺋﺍﺪﻋ ﻞﻴﺼﻔﻟﺍ ﺢﺒﺼﺘﺳ</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>. ﻝﻮﻃﺃ ﺓﺮﺘﻔﻟ ﺖﻴﻘﺑ ﺍﺫﺇ ﺔﻳﺩﺎﻌﻣ ﻞﺋﺎﺼﻔﻟﺍ ﻩﺬﻫ ﺢﺒﺼﺘﺳ</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>ﺕﻮﻤﺗ {0} ﺭﺎﺠﺷﺃ</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>. ﻢﻬﺗﺍﺪﻘﺘﻌﻣ ﺐﺒﺴﺑ ﺀﺍﺪﻌﺳ ﺮﻴﻏ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺾﻌﺑ ﺍﺬﻫ ﻞﻌﺠﻴﺳ. ﻡﻮﻳ ﻦﻣ ﻞﻗﺃ ﻲﻓ ﺕﻮﻤﺘﺳ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻦﻣ {0}\n\n. ﺭﺎﺠﺷﻷﺍ ﻩﺬﻫ ﺔﻋﺍﺭﺯ ﺓﺩﺎﻋﺇ ﻖﻳﺮﻃ ﻦﻋ ﻚﻟﺫ ﻊﻨﻣ ﻚﻨﻜﻤﻳ</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>ﺔﺑﻮﻠﻄﻣ ﺚﺤﺑ ﺓﺪﻀﻨﻣ</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>.{1} ﺀﺎﻨﺑ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ '. {0} 'ﻮﻫ ﻂﺸﻧ ﺚﺤﺑ ﻉﻭﺮﺸﻣ ﻚﻳﺪﻟ</NeedResearchBenchDesc>
+  
+</LanguageData>

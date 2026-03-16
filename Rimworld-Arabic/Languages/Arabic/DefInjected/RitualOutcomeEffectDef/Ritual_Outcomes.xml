@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>. ﻡﺎﻳﺃ {MOODDAYS} ﺓﺪﻤﻟ {MAXMOOD} ﻭ {MINMOOD} ﻦﻴﺑ ﺝﺍﺰﻣ ﻰﻠﻋ ﻥﻮﻛﺭﺎﺸﻤﻟﺍ ﻞﺼﺤﻴﺳ ،ﺱﻮﻘﻄﻟﺍ ﺓﺩﻮﺟ ﻰﻠﻋ ﺍًﺩﺎﻤﺘﻋﺍ</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>{PAWN_labelShort} ـﻝ ﻲﻋﺎﻤﺘﺟﻻﺍ ﺮﻴﺛﺄﺘﻟﺍ</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>ﻲﻋﺎﻤﺘﺟﻻﺍ ﺙﺪﺤﺘﻤﻟﺍ ﺮﻴﺛﺄﺗ</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>ﻦﻴﻛﺭﺎﺸﻤﻟﺍ ﺩﺪﻋ</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>ﺔﻓﺮﻐﻟﺍ ﺔﻣﺎﺨﻓ</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>ﻊﻴﻈﻓ</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>ﻢﻬﻟُﻣ ﺮﻴﻏ</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>ﻊﺠﺸﻣ</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>ﻢﻬﻠﻣ</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>

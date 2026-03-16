@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mini-slug -->
+  <Bullet_MiniSlug.label>ﺮﻴﻐﺻ ﻥﻭﺰﻠﺣ</Bullet_MiniSlug.label>
+  
+  <!-- EN: burning power cell -->
+  <BurningPowerCell.label>ﺔﻗﺮﺘﺤﻣ ﺔﻗﺎﻃ ﺔﻴﻠﺧ</BurningPowerCell.label>
+  <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
+  <BurningPowerCell.description>. ﺮﺠﻔﻨﺘﺳ ﺎﻬﻧﺈﻓ ،ﺓﺪﺸﺑ ﺔﻴﻠﺨﻟﺍ ﻒﻠﺘﺗ ﺎﻣﺪﻨﻋ. ٍﻥﺍﻮﺛ ﻲﻓ ﻕﺮﺘﺤﺗ ﻲﻫﻭ ،ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺕﻮﻣ ﺐﺒﺴﺑ ﺔﻴﻠﺨﻟﺍ ﺕﺭﻮﻫﺪﺗ ﺪﻘﻟ. ﺔﻔﻟﺎﺗ ﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻗﺎﻃ ﺪﻴﻟﻮﺗ ﺓﺪﺣﻭ</BurningPowerCell.description>
+  
+  <!-- EN: mech node -->
+  <Gloomlight.label>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺓﺪﻘﻋ</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>. ﺭﺮﻀﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻠﻟ ﺓﺪﺣﻮﻟﺍ ﺖﺿﺮﻌﺗ ﺍﺫﺇ ﺩﺍﻮﻤﻟﺍ ﺮﻣﺪﺗﻭ ﺔﻗﺎﻄﻠﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﺔﻴﻠﺨﻟﺍ ﺪﻔﻨﺘﺳ. ﺔﻤﻴﻠﺳ ﺎﻬﻴﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻢﺗ ﺍﺫﺇ ﻂﻘﻓ ﻦﻜﻟﻭ - ﺔﻤﻴﻗ ﺩﺭﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺪﻘﻋ ﻚﻴﻜﻔﺗ ﻦﻜﻤﻳ. ﺔﻓﻭﺮﻌﻣ ﺮﻴﻏ ﺔﻔﻴﻇﻭ ﺕﺍﺫ ﺔﻗﺎﻄﻟﺍ ﺔﻴﺗﺍﺫ ﺪﻳﻮﻧﺎﻜﻴﻣ ﺓﺪﻘﻋ</Gloomlight.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <Gloomlight.comps.CompInspectString.inspectString>. ﺔﻤﻴﻗ ﺩﺭﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻚﻜﻓ</Gloomlight.comps.CompInspectString.inspectString>
+  
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.label>ﺮﻴﻐﺻ ﺏﺮﻀﻣ</Gun_MiniTurretMech.label>
+  <!-- EN: An automatic turret-mounted slug-thrower. -->
+  <Gun_MiniTurretMech.description>. ﺕﺎﻓﻭﺬﻘﻣ ﻖﻠﻄﻳ ﺖﺒﺜﻣ ﻲﻟﺁ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Gun_MiniTurretMech.description>
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>ﺮﻴﻐﺻ ﺏﺭﺎﺿ</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-slugger turret -->
+  <Turret_AutoMiniTurret.label>ﺮﻴﻐﺻ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoMiniTurret.label>
+  <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
+  <Turret_AutoMiniTurret.description>. ِﻒﻠﺘﻟﺍ ﺪﻨﻋ ُﺮﺠﻔﻨﻳ ﺪﻗ. ﻯﺪﻤﻟﺍ ُﺪﻴﻌﺑ ﻦﻜﻟﻭ ٌﻒﻴﻌﺿ ٍﺹﺎﺻﺭ ُﻑﺫﺎﻗ ِﻪﻴﻠﻋ ٌﺕَّﺒﺛُﻣ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</Turret_AutoMiniTurret.description>
+  
+</LanguageData>

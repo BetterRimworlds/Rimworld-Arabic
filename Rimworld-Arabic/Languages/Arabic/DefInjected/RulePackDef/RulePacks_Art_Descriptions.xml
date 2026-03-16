@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
+  -->
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->.[tale_noun] ﺎﻣﺪﻨﻋ[DATE] ﻲﻓ ﺙﺪﺣ ﺎﻣ ﻰﻟﺇ ﺮﻴﺸﻳ [depiction] ﺍﺬﻫ</li>
+    <li>context_sentence->.[tale_noun] ﺎﻣﺪﻨﻋ[DATE] ﻲﻓ ﺙﺪﺣ ﺎﻤﺑ ﻖﻠﻌﺘﻳ [depiction] ﺍﺬﻫ</li>
+    <li>context_sentence->.[tale_noun] ﺎﻣﺪﻨﻋ[DATE] ﺔﺼﻗ ﻲﻜﺤﻳ [depiction] ﺍﺬﻫ</li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  -->
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->as an interesting contrast,</li>
+    <li>artconjunction->rounding out the work,</li>
+    <li>artconjunction->in addition to that,</li>
+    <li>artconjunction->strikingly,</li>
+    <li>artconjunction->provocatively,</li>
+    <li>artconjunction->unusually for this kind of work,</li>
+    <li>artconjunction->though few would expect it,</li>
+    <li>artconjunction->besides that,</li>
+    <li>artextra_clause->the image is bordered by [subimageplural]</li>
+    <li>artextra_clause->at the edge of the image are [subimageplural]</li>
+    <li>artextra_clause->there is [subimagesingle] [side_position]</li>
+    <li>artextra_clause->the subjects are in front of [subimageany]</li>
+    <li>artextra_clause->the lower part of the image is dominated by [subimageany]</li>
+    <li>artextra_clause->the scene takes place in the middle of a [Community]</li>
+    <li>artextra_clause->the scene takes place on the outskirts of a [Community]</li>
+    <li>artextra_clause->the scene takes place inside a [Community] built near a [TerrainFeature]</li>
+    <li>artextra_clause->a [Character] [idles] [side_position]</li>
+    <li>artextra_clause->a [pawn_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [pawn_adj] [Character]s appear [side_position]</li>
+    <li>artextra_clause->a [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of [subimageany]</li>
+    <li>artextra_clause->the [emotional_expression] head of a [pawn_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->a [pawn_adj] [PersonJob] watches over all while [emotional_expression]</li>
+    <li>artextra_clause->the head of a [pawn_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->a [Character]</li>
+    <li>subimagesingle->a [TerrainFeature]</li>
+    <li>subimagesingle->a [Community]</li>
+    <li>subimagesingle->a [TreeType] tree</li>
+    <li>subimagesingle->a [Vegetable]</li>
+    <li>subimagesingle->a [AnimalGroup] of [Animal]s</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]s</li>
+    <li>pawn_adj->dead</li>
+    <li>pawn_adj->dying</li>
+    <li>pawn_adj->injured</li>
+    <li>pawn_adj->sleeping</li>
+    <li>pawn_adj->standing</li>
+    <li>pawn_adj->sitting</li>
+    <li>pawn_adj->crazy</li>
+    <li>pawn_adj->young</li>
+    <li>pawn_adj->old</li>
+    <li>pawn_adj->[Gore]-covered</li>
+    <li>pawn_adj->filthy</li>
+    <li>pawn_adj->[Apparel]-wearing</li>
+    <li>pawn_adj->[Weapon]-wielding</li>
+    <li>pawn_adj->[Vegetable]-eating</li>
+    <li>emotional_expression->smiling</li>
+    <li>emotional_expression->frowning</li>
+    <li>emotional_expression->scowling</li>
+    <li>emotional_expression->laughing</li>
+    <li>emotional_expression->staring</li>
+    <li>emotional_expression->crying</li>
+    <li>emotional_expression->screaming</li>
+    <li>emotional_expression->overjoyed</li>
+    <li>idles->sits</li>
+    <li>idles->stands</li>
+    <li>idles->waits</li>
+    <li>idles->smiles</li>
+    <li>idles->lies</li>
+    <li>idles->poses</li>
+    <li>idles->appears</li>
+    <li>idles->is shown</li>
+    <li>idles->fades in</li>
+    <li>idles->floats</li>
+    <li>side_position->off to one side</li>
+    <li>side_position->in the background</li>
+    <li>side_position->in the distance</li>
+    <li>side_position->in the lower part of the image</li>
+    <li>side_position->in the upper part of the image</li>
+    <li>side_position->to the left of the main scene</li>
+    <li>side_position->to the right of the main scene</li>
+    <li>side_position->near the edge of the image</li>
+    <li>side_position->near the main subject</li>
+    <li>side_position->far from the main subject</li>
+    <li>side_position->beneath the main subject</li>
+    <li>side_position->behind the focal point</li>
+    <li>style_clause(p=4)->the work [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->the work is infused with the idea of [ConceptAny] and is done in a [artstyle_adj] style</li>
+    <li>style_clause->the work is executed in a [artstyle_adj] style</li>
+    <li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>
+    <li>style_clause->the work has a [artstyle_adj] feeling and a [composition] structure</li>
+    <li>style_clause->the overall composition is [composition]</li>
+    <li>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</li>
+    <li>style_clause->the image somehow expresses both [ConceptAny] and [ConceptAny]</li>
+    <li>style_clause->the image contrasts [ConceptAny] with [ConceptAny]</li>
+    <li>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</li>
+    <li>style_clause->the work is shaded in hues of [Color] and [Color]</li>
+    <li>style_clause->almost every shape in the image seems to be [composition]</li>
+    <li>symbolizes->symbolizes</li>
+    <li>symbolizes->seems to symbolize</li>
+    <li>symbolizes->represents</li>
+    <li>symbolizes->seems to represent</li>
+    <li>symbolizes->seems to express</li>
+    <li>symbolizes->reminds the viewer of</li>
+    <li>symbolizes->conveys the emotions of</li>
+    <li>symbolizes->makes the viewer think of</li>
+    <li>symbolizes->represents the artist's</li>
+    <li>symbolizes->suggests the concept of</li>
+    <li>depicts->depicts</li>
+    <li>depicts->shows</li>
+    <li>depicts->portrays</li>
+    <li>depicts->resembles</li>
+    <li>depicts->illustrates</li>
+    <li>depicts->represents</li>
+    <li>depicts->is shaped like</li>
+    <li>depiction->depiction</li>
+    <li>depiction->image</li>
+    <li>depiction->portrayal</li>
+    <li>depiction->representation</li>
+    <li>depiction->illustration</li>
+    <li>depiction->artwork</li>
+    <li>composition->triangular</li>
+    <li>composition->rectangular</li>
+    <li>composition->square</li>
+    <li>composition->unbalanced</li>
+    <li>composition->well-balanced</li>
+    <li>composition->dynamic</li>
+    <li>composition->static</li>
+    <li>composition->vertical</li>
+    <li>composition->horizontal</li>
+    <li>composition->focused</li>
+    <li>artstyle_adj->unoriginal</li>
+    <li>artstyle_adj->simple</li>
+    <li>artstyle_adj->complex and realistic</li>
+    <li>artstyle_adj->surrealistic</li>
+    <li>artstyle_adj->classical</li>
+    <li>artstyle_adj->modern</li>
+    <li>artstyle_adj->symbolic</li>
+    <li>artstyle_adj->amateurish yet attractive</li>
+    <li>artstyle_adj->detail-oriented</li>
+    <li>artstyle_adj->blocky</li>
+    <li>artstyle_adj->cubist</li>
+    <li>artstyle_adj->impressionistic</li>
+    <li>artstyle_adj->expressionistic</li>
+    <li>artstyle_adj->photographic</li>
+    <li>artstyle_adj->baroque</li>
+    <li>artstyle_adj->dadaist</li>
+    <li>artstyle_adj->glitch-art</li>
+    <li>artstyle_adj->pixelated</li>
+    <li>artstyle_adj->fauvist</li>
+    <li>artstyle_adj->folksy</li>
+    <li>artstyle_adj->figurative</li>
+    <li>artstyle_adj->sinuous</li>
+    <li>artstyle_adj->geometric</li>
+    <li>artstyle_adj->abstract</li>
+    <li>artstyle_adj->hyper-realistic</li>
+    <li>artstyle_adj->pop art</li>
+    <li>artstyle_adj->minimalistic</li>
+    <li>artstyle_adj->neoclassical</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->post-impressionistic</li>
+    <li>artstyle_adj->purist</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->romanesque</li>
+    <li>artstyle_adj->romantic</li>
+    <li>artstyle_adj->graffiti-like</li>
+    <li>artstyle_adj->erotic</li>
+    <li>artstyle_adj->sensual</li>
+    <li>artstyle_adj->heartfelt</li>
+  -->
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->،ﻡﺎﻤﺘﻫﺎﻠﻟ ﺮﻴﺜﻣ ﺾﻗﺎﻨﺘﻛ</li>
+    <li>artconjunction->،ﻞﻤﻌﻟﺍ ﻝﺎﻤﻛﺈﻟ</li>
+    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﺈﻟﺎﺑ</li>
+    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﺈﻟﺎﺑ</li>
+    <li>artconjunction->ٍﺯﺍﺰﻔِﺘْﺳﺎِﺑ</li>
+    <li>artconjunction->ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻬﻟ ﺩﺎﺘﻌﻣ ﺮﻴﻏ ﻞﻜﺸﺑ</li>
+    <li>artconjunction->،ﻪﻌﻗﻮﺘﻳ ﻢﻬﻨﻣ ﻞﻴﻠﻘﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</li>
+    <li>artconjunction->،ﻚﻟﺫ ﻊﻣﻭ</li>
+    <li>artextra_clause->[subimageplural] ـﺏ ﺔﻃﺎﺤﻣ ﺓﺭﻮﺼﻟﺍ</li>
+    <li>artextra_clause->[subimageplural] ﺪﺟﻮﻳ ﺓﺭﻮﺼﻟﺍ ﺔﻓﺎﺣ ﻰﻠﻋ</li>
+    <li>artextra_clause->[side_position] [subimagesingle] ﻙﺎﻨﻫ</li>
+    <li>artextra_clause->[subimageany] ﻡﺎﻣﺃ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺎﻴﺼﺨﺸﻟﺍ</li>
+    <li>artextra_clause->[subimageany] ﻰﻠﻋ ﺓﺭﻮﺼﻟﺍ ﻦﻣ ﻲﻠﻔﺴﻟﺍ ﺀﺰﺠﻟﺍ ﻦﻤﻴﻬﻳ</li>
+    <li>artextra_clause->[CommunityIndef] ﻂﺳﻭ ﻲﻓ ﺙﺍﺪﺣﺄﻟﺍ ﻱﺮﺠﺗ</li>
+    <li>artextra_clause->[CommunityIndef] ﻑﺍﺮﻃﺃ ﻲﻓ ﺙﺍﺪﺣﺄﻟﺍ ﺭﻭﺪﺗ</li>
+    <li>artextra_clause->[TerrainFeatureIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [CommunityIndef] ﻞﺧﺍﺩ ﺙﺍﺪﺣﺄﻟﺍ ﻱﺮﺠﺗ</li>
+    <li>artextra_clause->[CharacterIndef] [idles] [side_position]</li>
+    <li>artextra_clause->[CharacterIndefMas] [PAWN_adj] [idles] [side_position]</li>
+    <li>artextra_clause->[CharacterIndefFem] [PAWN_adj_Fem] [idles] [side_position]</li>
+    <li>artextra_clause->[side_position] ﻥﻭﺮﻬﻈﻳ [CharacterEnemyPlural] [Quantity_adjphrase]</li>
+    <li>artextra_clause->[side_position] ﻯﺮُﺗ[PAWN_adj] [CharacterEnemyPlural] [Quantity_adjphrase]</li>
+    <li>artextra_clause->[AnimalIndef] [idles] [side_position]</li>
+    <li>artextra_clause->[subimageany] ـﻝ ﺔﻴﻠﻇ ﺓﺭﻮﺻ ﻦﻋ ﻒﺸﻜﻳ ﺓﺭﻮﺼﻟﺍ ﻦﻳﻮﻜﺗ ﻥﺃ ﻯﺮﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ،ﻚﻴﻨﻴﻋ ﺖﻘﻴﺿ ﺍﺫﺇ</li>
+    <li>artextra_clause->ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [emotional_expression] [PersonJob] ﺱﺃﺭ</li>
+    <li>artextra_clause->ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj_Fem] [emotional_expression] [PersonJob_Fem] ُﺱﺃﺭ</li>
+    <li>artextra_clause->[emotional_expression] ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺔﻠﻣﺎﻛ ﺓﺭﻮﺻ</li>
+    <li>artextra_clause->ﻰﻠﻋﺄﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺪﺣﺍﻭ</li>
+    <li>artextra_clause->[emotional_expression] ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﺗ [PAWN_adj_Fem] [PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>artextra_clause->ﻰﻠﻋﺄﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﺗ [PAWN_adj_Fem] [PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>artextra_clause->[subimageplural] ـﻝ ﻖﻴﻗﺪﻟﺍ ﺐﻴﺗﺮﺘﻟﺍ ﻦﻣ ﺔﻠﻣﺎﻜﻟﺍ ﺓﺭﻮﺼﻟﺍ ﻞﻜﺸﺘﺗ</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->[CharacterIndef]</li>
+    <li>subimagesingle->[TerrainFeatureIndef]</li>
+    <li>subimagesingle->[CommunityIndef]</li>
+    <li>subimagesingle->[TreeTypeIndef]</li>
+    <li>subimagesingle->[VegetableIndef]</li>
+    <li>subimagesingle->[AnimalIndef]</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character_Plural]</li>
+    <li>subimageplural->[Quantity_adjphrase] [VegetableAny][كمية وصفية] [خضروات]</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape_Plural]</li>
+    <li>pawn_adj->ﺖﻴﻣ</li>
+    <li>pawn_adj->ﺮﻀﺘﺤﻣ</li>
+    <li>pawn_adj->ﺏﺎﺼﻣ</li>
+    <li>pawn_adj->ﻢﺋﺎﻧ</li>
+    <li>pawn_adj->ﻢﺋﺎﻗ</li>
+    <li>pawn_adj->ﺲﻟﺎﺟ</li>
+    <li>pawn_adj->ﻥﻮﻨﺠﻣ</li>
+    <li>pawn_adj->ﺏﺎﺷ</li>
+    <li>pawn_adj->ّﻦﺴﻟﺍ ﻲﻓ ﻡِّﺪَﻘَﺘُﻣ</li>
+    <li>pawn_adj->[Gore_Plural] ـﺏ ﻰﻄﻐﻣ</li>
+    <li>pawn_adj->ﺦﺴﺘﻣ</li>
+    <li>pawn_adj->[ApparelIndef] ﺎًﻳﺪﺗﺮﻣ</li>
+    <li>pawn_adj->[WeaponIndef] ًﺎﻠﻣﺎﺣ</li>
+    <li>pawn_adj->[VegetableIndef] ﻞﻛﺄﻳ</li>
+    <li>pawn_adjPl->ﻥﻮﻤﺴﺘﺒﻣ</li>
+    <li>pawn_adjPl->ﻥﻮﻤﺋﺎﻧ</li>
+    <li>pawn_adjPl->ﻰﻠﺘﻗ</li>
+    <li>pawn_adjPl->ﻦﻴﻧﺎﺠﻣ</li>
+    <li>pawn_adjPl->ﺏﺎﺒﺷ</li>
+    <li>pawn_adjPl->ﻦﺴﻟﺍ ﺭﺎﺒﻛ</li>
+    <li>pawn_adjPl->ﻦﻴﻧﺎﺠﻣ</li>
+    <li>pawn_adjPl->ﻥﻮﺒﺿﺎﻏ</li>
+    <li>pawn_adjPl->ﻥﻭﺮﻈﺘﻨﻣ</li>
+    <li>pawn_adjPl->[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ</li>
+    <li>pawn_adjPl->ﻥﻮﻴﺒﺼﻋ</li>
+    <li>pawn_adj_Fem->ﻢﺴﺘﺒﻣ</li>
+    <li>pawn_adj_Fem->ﻢﺋﺎﻧ</li>
+    <li>pawn_adj_Fem->ﺔﺘﻴﻣ</li>
+    <li>pawn_adj_Fem->ﺔﻧﻮﻨﺠﻣ</li>
+    <li>pawn_adj_Fem->ﺏﺎﺷ</li>
+    <li>pawn_adj_Fem->ﺯﻮﺠﻋ</li>
+    <li>pawn_adj_Fem->ﺔﻧﻮﻨﺠﻣ</li>
+    <li>pawn_adj_Fem->ﺔﺒﺿﺎﻏ</li>
+    <li>pawn_adj_Fem->ﻊِّﻗَﻮَﺘُﻣ</li>
+    <li>pawn_adj_Fem->[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ</li>
+    <li>pawn_adj_Fem->ﺔﻴﺒﺼﻋ</li>
+    <li>pawn_adj_Fem->[ApparelIndef] ﻱﺪﺗﺮﻳ</li>
+    <li>pawn_adj_Fem->[WeaponIndef] ًﺎﻠﻣﺎﺣ</li>
+    <li>pawn_adj_Fem->[VegetableIndef] ﻞﻛﺄﻳ</li>
+    <li>emotional_expression->ًﺎﻤﺴﺘﺒﻣ</li>
+    <li>emotional_expression->ﺎًﺴِﺑﺎﻋ</li>
+    <li>emotional_expression->ﺎًﺴِﺑﺎﻋ</li>
+    <li>emotional_expression->ﻚﺤﻀﻳ</li>
+    <li>emotional_expression->ﺎًﺛّﺪﺤﺘﻣ</li>
+    <li>emotional_expression->ﺥﺮﺼﻳ</li>
+    <li>emotional_expression->ﻱِﻮْﻌُﻳ</li>
+    <li>emotional_expression->ﺎًﺠﻬﺘﺒﻣ</li>
+    <li>idles->ﺲﻠﺠﻳ</li>
+    <li>idles->ﻒﻘﻳ</li>
+    <li>idles->ﺮﻈﺘﻨﻳ</li>
+    <li>idles->ﻢﺴﺘﺒﻳ</li>
+    <li>idles->ﻲﻘﻠﺘﺴﻳ</li>
+    <li>idles->ُﻒَّﻗَﻮَﺘَﻳ</li>
+    <li>idles->ﺮﻬﻈﻳ</li>
+    <li>idles->ﺮﻬﻈﻳ</li>
+    <li>idles->ﻰﺷﺎﻠﺘﻳ</li>
+    <li>idles->ﻮﻔﻄﻳ</li>
+    <li>side_position->ﺔﻴﻔﻠﺨﻟﺍ ﻰﻟﺇ</li>
+    <li>side_position->ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ</li>
+    <li>side_position->ﺓﺪﻴﻌﺒﻟﺍ ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
+    <li>side_position->ﺓﺭﻮﺼﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﺭﺎﺴﻳ ﻰﻟﺇ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻦﻴﻤﻳ ﻰﻟﺇ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻦﻴﻤﻳ ﻰﻟﺇ</li>
+    <li>side_position->ﺓﺭﻮﺼﻟﺍ ﺔﻓﺎﺣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﻉﻮﺿﻮﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﻉﻮﺿﻮﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ</li>
+    <li>side_position->ﺔﻳﺭﻮﺤﻤﻟﺍ ﺔﻄﻘﻨﻟﺍ ﺖﺤﺗ</li>
+    <li>style_clause(p=4)->[ConceptAnyDef] [symbolizes] ﻞﻤﻌﻟﺍ</li>
+    <li>artextra_clause->[ConceptAnyDef] [symbolizes] ﻱﺬﻟﺍ [side_position] [subimagesingle]</li>
+    <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﺑ ﻊﻨﺻﻭ [ConceptAnyDef] ﺓﺮﻜﻔﺑ ﻊﺒﺸﻣ ﻞﻤﻌﻟﺍ</li>
+    <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﺑ ﻞﻤﻌﻟﺍ ﺬّﻔُﻧ</li>
+    <li>style_clause->ﺔﻴﻔﻠﺨﻟﺍ [artstyle_adj] ﻂﻤﻨﻟﺍ ﻊﻣ ﺾﻗﺎﻨﺘﻳ ﻱﺰﻛﺮﻤﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻊﻣ ﻂﻤﻨﻟﺍ [artstyle_adj] ﻂﻤﻨﻟﺍ</li>
+    <li>style_clause->[composition] ﻞﻜﻴﻫ ﻪﻟﻭ [artstyle_adj] ﻭﺪﺒﻳ ﻞﻤﻌﻟﺍ</li>
+    <li>style_clause->[composition] ﻮﻫ ﻡﺎﻌﻟﺍ ﻦﻳﻮﻜﺘﻟﺍ</li>
+    <li>style_clause->ﺓ[artstyle_adj] ﺮﺻﺎﻨﻋ ﻊﻣ [artstyle_adj] ﻮﻫ ﺏﻮﻠﺳﺄﻟﺍ</li>
+    <li>style_clause->[ConceptAnyFull] ﻭ [ConceptAnyFull] ﺎﻠﻛ ﻦﻋ ﺮﺒﻌﺗ ﺎﻣ ﺔﻘﻳﺮﻄﺑ ﺓﺭﻮﺼﻟﺍ</li>
+    <li>style_clause->[ConceptAnyFull] ﻊﻣ [ConceptAnyFull] ﺓﺭﻮﺼﻟﺍ ﺾﻗﺎﻨﺘﺗ</li>
+    <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﻟﺍ ﻊﻣ ﺽﺭﺎﻌﺘﻳ ﺩﺎﻜﻳ ﺓﺭﻮﺼﻟﺍ [composition] ﻞﻜﻴﻬﻟﺍ</li>
+    <li>style_clause->[Color] ﻭ [Color] ﻦﻣ ﺕﺎﺟﺭﺪﺘﺑ ﺮﻬﻈﻳ ﻞﻤﻌﻟﺍ</li>
+    <li>style_clause->[composition] ﻥﻮﻜﻳ ﻥﺃ ﺎًﺒﻳﺮﻘﺗ ﻞﻜﺷ ﻞﻛ ﻭﺪﺒﻳ</li>
+    <li>symbolizes->ﻰﻟﺇ ﺰﻣﺮﻳ</li>
+    <li>symbolizes->ﻰﻟﺇ ﺰﻣﺮﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
+    <li>symbolizes->ﻞﺜﻤﻳ</li>
+    <li>symbolizes->ﻞﺜﻤﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
+    <li>symbolizes->ﺮﺒﻌﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
+    <li>symbolizes->ﺪﻫﺎﺸﻤﻟﺍ ﺮّﻛﺬﻳ</li>
+    <li>symbolizes->ﺮﻋﺎﺸﻣ ﻦﻋ ﺮّﺒﻌﻳ</li>
+    <li>symbolizes->ﻲﻓ ﺮﻜﻔﻳ ﺪﻫﺎﺸﻤﻟﺍ ﻞﻌﺠﻳ</li>
+    <li>symbolizes->ﻦﻋ ﻥﺎﻨﻔﻟﺍ ﺓﺮﻜﻓ ﻞﺜﻤﻳ</li>
+    <li>symbolizes->ﻡﻮﻬﻔﻣ ﺡﺮﺘﻘﻳ</li>
+    <li>depicts->ُﺭِّﻮَﺼُﻳ</li>
+    <li>depicts->ُﺮِﻬْﻈُﻳ</li>
+    <li>depicts->ﻞﺜﻤﻳ</li>
+    <li>depicts->ﻪﺒﺸﻳ</li>
+    <li>depicts->ُﺭِّﻮﺼُﻳ</li>
+    <li>depicts->ﻞﺜﻤﻳ</li>
+    <li>depicts->ﻪﺒﺸﻳ</li>
+    <li>depiction->ﺓﺭﻮﺻ</li>
+    <li>depiction->ﺓﺭﻮﺻ</li>
+    <li>depiction->ﺮﻳﻮﺼﺗ</li>
+    <li>depiction->ﺢﻴﺿﻮﺗ</li>
+    <li>depiction->ﻲﺤﻴﺿﻮﺗ ﻢﺳﺭ</li>
+    <li>depiction->ﺔﻤﺳﺭ</li>
+    <li>composition->ﻲﺜﻠﺜﻣ</li>
+    <li>composition->ﻞﻴﻄﺘﺴﻣ</li>
+    <li>composition->ﺔﻌﺑﺮﻣ</li>
+    <li>composition->ﺔﻧﺯﺍﻮﺘﻣ ﺮﻴﻏ</li>
+    <li>composition->ﺔﻧﺯﺍﻮﺘﻣ</li>
+    <li>composition->ﺔﻴﻜﻴﻣﺎﻨﻳﺩ</li>
+    <li>composition->ﺔﻨﻛﺎﺳ</li>
+    <li>composition->ﻲﺳﺃﺭ</li>
+    <li>composition->ﻲﻘﻓﺃ</li>
+    <li>composition->ﺓﺰﻛﺮﻣ</li>
+    <li>artstyle_adj->ﻞﻴﺻﺃ ﺮﻴﻏ</li>
+    <li>artstyle_adj->ﻂﻴﺴﺑ</li>
+    <li>artstyle_adj->ﻲﻌﻗﺍﻭﻭ ﺪﻘﻌﻣ</li>
+    <li>artstyle_adj->ﻲﻟﺎﻳﺮﺳ</li>
+    <li>artstyle_adj->ﻲﻜﻴﺳﺎﻠﻛ</li>
+    <li>artstyle_adj->ﺚﻳﺪﺣ</li>
+    <li>artstyle_adj->ﻱﺰﻣﺭ</li>
+    <li>artstyle_adj->ٍﻭﺎﻫ</li>
+    <li>artstyle_adj->ﻞﺼﻔﻣ</li>
+    <li>artstyle_adj->ّﻱِﻭﺍﺯ</li>
+    <li>artstyle_adj->ﻲﺒﻴﻌﻜﺗ</li>
+    <li>artstyle_adj->ﻲﻋﺎﺒﻄﻧﺍ</li>
+    <li>artstyle_adj->ّﻱﺮﻴﺒﻌﺗ</li>
+    <li>artstyle_adj->ﻲﻣﺍﺭﺩ</li>
+    <li>artstyle_adj->ﻲﻛﻭﺭﺎﺑ</li>
+    <li>artstyle_adj->ﻲﺋﺎﻳﺩﺍﺩ</li>
+    <li>artstyle_adj->ﻱﺮﺼﺒﻟﺍ ﺶﻳﻮﺸﺘﻟﺍ ﻦﻓ</li>
+    <li>artstyle_adj->ﻞﺴﻜﺒﻟﺎﺑ ﻂﻘﻨﻣ</li>
+    <li>artstyle_adj->ّﻲﺸﺣﻭ</li>
+    <li>artstyle_adj->ﻱﺪﻴﻠﻘﺗ</li>
+    <li>artstyle_adj->ﻱﺯﺎﺠﻣ</li>
+    <li>artstyle_adj->ٍﻮﺘﻠﻣ</li>
+    <li>artstyle_adj->ﻲﺳﺪﻨﻫ</li>
+    <li>artstyle_adj->ﺩّﺮﺠﻣ</li>
+    <li>artstyle_adj->ﺔﻴﻌﻗﺍﻮﻟﺍ ﻖﺋﺎﻓ</li>
+    <li>artstyle_adj->ﻢﺗﺎﻗ</li>
+    <li>artstyle_adj->ﻂﻴﺴﺑ</li>
+    <li>artstyle_adj->ﻲﻜﻴﺳﺎﻠﻛﻮﻴﻧ</li>
+    <li>artstyle_adj->ّﻲﻧﻮﺗﺮﻛ ﻲّﻠﻇ</li>
+    <li>artstyle_adj->ﺔﻴﻋﺎﺒﻄﻧﺎﻟﺍ ﺪﻌﺑ ﺎﻣ</li>
+    <li>artstyle_adj->ﺩﺪﺸﺘﻣ</li>
+    <li>artstyle_adj->ﻮﻛﻮﻛﻭﺭ</li>
+    <li>artstyle_adj->ﻲﻜﺴﻧﺎﻣﻭﺭ</li>
+    <li>artstyle_adj->ﻲﺴﻧﺎﻣﻭﺭ</li>
+    <li>artstyle_adj->ﻲﺘﻴﻓﺍﺮﻐﻟﺎﺑ ﻪﻴﺒﺷ</li>
+    <li>artstyle_adj->ﻲﺣﺎﺑﺇ</li>
+    <li>artstyle_adj->ّﻲﺴﺣ</li>
+    <li>artstyle_adj->ﺺﻠﺨﻣ</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  
+</LanguageData>

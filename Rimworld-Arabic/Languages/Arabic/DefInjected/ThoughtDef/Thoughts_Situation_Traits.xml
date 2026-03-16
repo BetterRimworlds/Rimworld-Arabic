@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>ﺔﺴﺋﺎﺑ ﺪﻫﺍﺯ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻄﻴﺴﺑﻭ ﺔﻌﺿﺍﻮﺘﻣ ،ﺎﻬﺑ ﺐﻏﺭﺃ ﺎﻤﻛ ﺍًﻣﺎﻤﺗ ﻲﻣﻮﻧ ﻲﺘﻓﺮﻏ</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>ﺔﺘﻫﺎﺑ ﺪﻫﺍﺯ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻄﻴﺴﺑﻭ ﺔﻌﺿﺍﻮﺘﻣ ،ﺎﻬﺑ ﺐﻏﺭﺃ ﺎﻤﻛ ﺍًﻣﺎﻤﺗ ﻲﻣﻮﻧ ﻲﺘﻓﺮﻏ</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>ﺔﻌﺿﺍﻮﺘﻣ ﻱﺪﻫﺯ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>. ﺎﻬﺒﺣﺃ ﺎﻧﺃ. ﺔﻳﺎﻐﻠﻟ ﺔﻄﻴﺴﺑﻭ ﺔﻌﺿﺍﻮﺘﻣ ﻲﺘﻓﺮﻏ</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>ﺓﺮﻬﺑُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>ﺓﺮﻬﺑُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺛُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺛُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>ﺓﺮﻬﺑُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺛُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>ﺓﺮﻬﺑُﻣ ﺪﻫﺍﺰﻟﺍ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>. ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻙﻼﺘﻣﺍ ﻲﻨﺒﺠﻌﻳ ﻻ</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﺄﺑ ﻞﺗﺎﻗُﻣ</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>!ﺮﺷﺎﺒﻣ ﻞﻜﺸﺑ ﻁﺍﺮﺨﻧﻻﺍﻭ ﺏﺍﺮﺘﻗﻻﺍ ﺪﻳﺭﺃ. ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻩﺮﻛﺃ ﺎﻧﺃ</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>ﺓﺪﻴﻘﻣ ﺲﺑﻼﻣ</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>. ﺡﺎﻴﺗﺭﻻﺍ ﻡﺪﻋﻭ ﺪﻴﻴﻘﺘﻟﺎﺑ ﺮﻌﺷﺃ ﺖﻟﺯ ﺎﻣ ﻲﻨﻨﻜﻟ – ﻕﺎﻄﻳ ﻻ ﺲﻴﻟ ﺮﻣﻷﺍ. ﺲﺑﻼﻤﻟﺍ ﻩﺬﻫ ﺀﺍﺪﺗﺭﺍ ّﻲﻠﻋ ﻦﻜﻟﻭ ﻱﺮﻌﺘﻟﺍ ﻞﻀﻔﻳ ﺺﺨﺷ ﺎﻧﺃ</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>ﺔﺟﺮﻬﺑُﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﺪﻳﺭﺃ. ﻊﺸﺟ ﺎﻧﺃ</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>ﺓﺮﻬﺒﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﺪﻳﺭﺃ! ﺔﺴﺋﺎﺑ ﻲﺘﻓﺮﻏ. ﻊﺸﺟ ﺎﻧﺃ</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>ﺓﺮﻬﺒﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﺪﻳﺭﺃ. ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﻲﺘﻓﺮﻏ. ﻊﺸﺟ ﺎﻧﺃ</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>ﺓﺮﻬﺒﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﺪﻳﺭﺃ. ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﻲﺘﻓﺮﻏ. ﻊﺸﺟ ﺎﻧﺃ</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>ﺓﺮﻬﺒﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>. ﺍًﻘﺣ ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ ﺪﻳﺭﺃ. ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﻲﺘﻓﺮﻏ. ﻊﺸﺟ ﺎﻧﺃ</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>ﺓﺩﺎﻌﺴﺑ ٍﺭﺎﻋ</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>!ﻲﻄﻴﺤﻣ ﻊﻣ ﻢﻏﺎﻨﺘﻟﺍﻭ ﻕﻼﻄﻧﻻﺍﻭ ﺔﻳﺮﺤﻟﺎﺑ ﺮﻌﺷﺃ! ﻚﻟﺫ ﺐﺣﺃﻭ ٍﺭﺎﻋ ﺎﻧﺃ</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>{0} ﻡﻮﻧ ﺔﻓﺮﻏ ﻦﻣ ﺓﺮﻳَﻏ</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>!ﻞﻀﻓﻷﺍ ﻙﻼﺘﻣﺍ ﻰﻟﺇ ﺝﺎﺘﺣﺃ</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>ﻒﻴﻔﻃ ﻢﻟﺃ ﻲﻓ ﻲﺷﻮﺳﺎﻣ</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>!ﺍﺬﻫ ﻰﻠﻋ ﺩﺎﺘﻋﺃ ﺪﻗ …ﺎﻫ ﺎﻫ ﺎﻫ …ﻩﺁ</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>ﺩﺎﺣ ﻢﻟﺃ ﻲﻓ ﻲﺷﻮﺳﺎﻣ</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>!ﺮﻤﺘﺳﺍ! ﻪﺒﺣﺃ ﻲﻨﻨﻜﻟ ،ﻢﻟﺆﻳ …ﻩﺁ</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>ﺪﻳﺪﺷ ﻢﻟﺃ ﻲﻓ ﻲﺷﻮﺳﺎﻣ</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>!ﻊﺋﺍﺭ ﺭﻮﻌﺷ ﻦﻣ ﻪﻟ ﺎﻳ ﻦﻜﻟ …ﺮﺴﻜﻧﺍ ﺎﻣ ﺍًﺌﻴﺷ ﻥﺃ ﺪﻘﺘﻋﺃ …ﻱﺁ</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>ﻞﻘﻌﻠﻟ ﺭِّﻣَﺩُﻣ ﻢﻟﺃ ﻲﻓ ﻲﺷﻮﺳﺎﻣ</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>؟ﺔﻨﺠﻟﺍ ﻲﻓ ﺎﻧﺃ ﻞﻫ …ﻩﺁ</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>ﺭﺎﻬﻨﻟﺍ ﻲﻓ ﺔﻴﻠﻴﻟ ﺔﻣﻮﺑ</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>. ﺭﺎﻬﻨﻟﺍ ﻝﻼﺧ ﻞﻤﻌﻟﺍ ﺐﺣﺃ ﻻ</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>ًﻼﻴﻟ ﺔﻴﻠﻴﻟ ﺔﻣﻮﺑ</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>. ﻞﻴﻠﻟﺍ ﻲﻓ ﺮﻴﺒﻛ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>ﺭﻭﺮﺳُﻣ ﻢﺳِﺠﻟﺍ ﻝِّﺪﻋُﻣ</ProsthophileHappy.stages.body_modder_pleased.label>
+  <!-- EN: This artificial enhancement is cool. I want more. -->
+  <ProsthophileHappy.stages.body_modder_pleased.description>. ﺪﻳﺰﻤﻟﺍ ﺪﻳﺭﺃ. ﻊﺋﺍﺭ ﻲﻋﺎﻨﻄﺻﻻﺍ ﻦﻴﺴﺤﺘﻟﺍ ﺍﺬﻫ</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>ًﺍﺪﺟ ٍﺽﺍﺭ ﺪﺴﺟ ﻝِّﺪﻋُﻣ</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  <!-- EN: Two artificial enhancements are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>. ﺪﻳﺰﻤﻟﺍ ﻱﺪﻟ ﻥﺎﻛ ﻮﻟ ﻰﻨﻤﺗﺃ. ﺪﺣﺍﻭ ﻦﻣ ﻞﻀﻓﺃ ﻥﺎﻴﻋﺎﻨﺻ ﻥﺎﻨﻴﺴﺤﺗ</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>ﺞﻬﺘﺑُﻣ ﺪﺴﺟ ﻝِّﺪﻌﻣ</ProsthophileHappy.stages.body_modder_delighted.label>
+  <!-- EN: Three artificial enhancements, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.body_modder_delighted.description>. ﺔﻴﻟﻵﺍ ﺓﻮﻘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺪﻳﺭﺃ ﺖﻟﺯ ﺎﻣ ﻲﻨﻨﻜﻟ. ﻰﺷﻼﺘﻳ ﻒﻴﻌﻀﻟﺍ ﻱﺮﺸﺒﻟﺍ ﻱﺪﺴﺟﻭ ،ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﺛﻼﺛ</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>ﺭﻮﺤﺴﻣ ﺪﺴﺟ ﻝِّﺪﻌﻣ</ProsthophileHappy.stages.body_modder_enchanted.label>
+  <!-- EN: Four artificial enhancements and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.body_modder_enchanted.description>. ﻝﺍﺪﺒﺘﺳﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻢﺤﻠﻟﺍ ﺾﻌﺑ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ ﻦﻜﻟ. ﺮﺸﺑ ﻦﻣ ﺮﺜﻛﺃ ﺖﺤﺒﺻﺃ ﺎﻧﺃﻭ ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﻌﺑﺭﺃ</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>ﺞﻬﺘﺑُﻣ ﺪﺴﺟ ﻝِّﺪﻌﻣ</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  <!-- EN: Five artificial enhancements! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>؟ﻥﺰﺤﻟﺎﺑ ﺮﻌﺸﻳ ﻥﺃ ﻲﻠﺜﻣ ﻦﺴﺤﻣ ﻦﺋﺎﻜﻟ ﻦﻜﻤﻳ ﻒﻴﻛ! ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﺴﻤﺧ</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>ﻞﻣﺎﻛ ﺔﻟﻵﺍ ﻞﻜﻴﻫ</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>. ﻪﺘﺒﻠﻃ ﺎﻣ ﺍﺬﻫ</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ﻂﺒﺣُﻣ ﻢﺳِﺠﻟﺍ ﻝِّﺪﻋُﻣ</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>. ﻢﺴﺠﻟﺍ ﻦﻣ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺰﺟ ﻱﺪﻟ ﻥﺎﻛ ﻮﻟ ﻰﻨﻤﺗﺃ ،ﺔﻳﺎﻐﻠﻟ ﺩﻭﺪﺤﻣ ﺪﺴﺠﻟﺍ</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>ﺯﺰﻘﺘﻣ ﻢﺴﺠﻟﺍ ﻲﻘﻧ</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural enhancement. I feel filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>!ﺓﺭﺍﺬﻘﻟﺎﺑ ﺮﻌﺷﺃ. ﻲﻌﻴﺒﻄﻟﺍ ﺮﻴﻏ ﻦﻴﺴﺤﺘﻟﺍ ﺍﺬﻫ ﻙﻼﺘﻣﺍ ﻩﺮﻛﺃ ﺎﻧﺃ</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>ﺰﺌﻤﺸﻣ ﺪﺴﺠﻟﺍ ﻲﻘﻧ</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial enhancements are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>. ﻱﺯﺍﺰﺌﻤﺷﺍ ﺮﻴﺜﻳ ﻲﻘﻨﻟﺍ ﻲﻌﻴﺒﻄﻟﺍ ﻱﺪﺴﺟ ﺙﻮﻠﻳ ﻦﻴﻴﻋﺎﻨﺻ ﻦﻳﺰﻳﺰﻌﺗ ﺩﻮﺟﻭ ﻥﺇ</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>ﻙَﻬﺘﻨﻣ ﺪﺴﺠﻟﺍ ﻲﻘﻧ</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial enhancements violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>. ﻲﻌﻣ ﻒﺠﺗﺮﺗ ﻡﺎﺴﺟﻷﺍ ﻩﺬﻫﻭ …ﺮﻣﻷﺍ ﻲﻓ ﺮﻜﻓﺃ ﻦﻴﺣ ﻒﺠﺗﺭﺃ. ﻲﻘﻨﻟﺍ ﻱﺪﺴﺟ ﻢﺤﻟ ﻚﻬﺘﻨﺗ ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﺛﻼﺛ</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>ﺏﻮﻋﺮﻣ ﺪﺴﺠﻟﺍ ﻲﻘﻧ</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial enhancements; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>. ﻉﻭﺮﻣ ﺭﻮﻌﺷ ﻦﻣ ﻪﻟ ﺎﻳ. ﺕﻮﺑﻭﺭ ﻰﻟﺇ ﻝﻮﺤﺗﺃ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ ؛ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﻌﺑﺭﺃ ﻱﺪﻟ</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>ﻱﺪﺴﺟ ﺮﻴﻬﻄﺗ ﺱﻮﺑﺎﻛ</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial enhancements... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>؟ﻥﺎﺴﻧﺇ ﻪﻧﺃ ﺪﻘﺘﻌﻳ ﺕﻮﺑﻭﺭ ﺩﺮﺠﻣ ﻲﻨﻧﺃ ﻡﺃ ؟ﺀﻴﺷ ﻲﻨﻣ ﻲﻘﺑ ﻞﻫ …ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﺎﻨﻴﺴﺤﺗ ﺔﺴﻤﺧ</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>ﻪﻫﺮﻛﺃ ﺎﻣ ﺖﺤﺒﺻﺃ</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>!ﺍًﻣﺎﻤﺗ ﺍﺬﻫ ﺲﻜﻋ ﺖﺒﻠﻃ ﺪﻘﻟ</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>ﻕﺭﺎﺣ ﺡﻼﺴﺑ ﻲﻗﺮﺣ ﺱﻭﻮﻬﻣ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I can't wait to use it. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>. ﻪﻣﺍﺪﺨﺘﺳﻻ ﺭﺎﻈﺘﻧﻻﺍ ﻊﻴﻄﺘﺳﺃ ﻻ. ﺭﺎﻨﻟﺍﻭ ﺐﻬﻠﻟﺍ ﻲﻓ ﺮﻜﻓﺃ ﻲﻨﻠﻌﺠﻳ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  <!-- EN: beautiful fire -->
+  <PyromaniacNearFire.stages.beautiful_fire.label>ﺔﻠﻴﻤﺟ ﺭﺎﻧ</PyromaniacNearFire.stages.beautiful_fire.label>
+  <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
+  <PyromaniacNearFire.stages.beautiful_fire.description>. ﺔﻴﻠﻜﻟﺎﺑ ﺍًﻠﻌﺘﺷُﻣ ،ﺭﺮﺤﺘﻟﺎﻛ ﺍًﻌﻃﺎﺳ ،ﺐﺤﻟﺎﻛ ﺍًﺌﻓﺍﺩ ،ﺝﺮﻌﺘﻤﻟﺍ ﺐﻬﻠﻟﺍ ﺺﻗﺍﺮﺘﺗ</PyromaniacNearFire.stages.beautiful_fire.description>
+  
+  <!-- EN: undergrounder indoors -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>ﺽﺭﻷﺍ ﺖﺤﺗ ﻲﻠﺧﺍﺩ</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  <!-- EN: I like working or simply being indoors. -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>. ﺔﻘﻠﻐﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻲﻓ ﺪﺟﺍﻮﺘﻟﺍ ﺩﺮﺠﻣ ﻭﺃ ﻞﻤﻌﻟﺍ ﻞﻀﻓﺃ</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  
+  <!-- EN: undergrounder outdoors -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>ﺽﺭﻷﺍ ﺖﺤﺗ ﻲﺟﺭﺎﺧ</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  <!-- EN: I don't like being outside. I want to get back to the underground. -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>. ﺽﺭﻷﺍ ﺖﺤﺗ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﺪﻳﺭﺃ. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﺐﺣﺃ ﻻ</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  
+  <!-- EN: underground -->
+  <UndergrounderUnderground.stages.underground.label>ﺽﺭﻷﺍ ﺖﺤﺗ</UndergrounderUnderground.stages.underground.label>
+  <!-- EN: I love working or simply being in the underground. -->
+  <UndergrounderUnderground.stages.underground.description>. ﺽﺭﻷﺍ ﺖﺤﺗ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﺪﺟﺍﻮﺘﻟﺍ ﺩﺮﺠﻣ ﻭﺃ ﻞﻤﻌﻟﺍ ﺐﺣﺃ</UndergrounderUnderground.stages.underground.description>
+  
+</LanguageData>

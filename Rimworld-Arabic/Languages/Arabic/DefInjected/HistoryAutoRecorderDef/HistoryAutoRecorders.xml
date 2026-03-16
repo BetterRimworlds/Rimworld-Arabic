@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>ﺓﺩﺎﻌﺘﺳﺍ</Adaptation.label>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>ﺍًﻣﻮﻳ {0}</Adaptation.valueFormat>
+  
+  <!-- EN: mood -->
+  <ColonistMood.label>ﺝﺍﺰﻣ</ColonistMood.label>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>ﺭﺍﺮﺣﺃ ﻥﻭﺮﻤﻌﺘﺴﻣ</FreeColonists.label>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>ﻥﺎﻜﺴﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ</PopAdaptation.label>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>ﺍًﻣﻮﻳ {0}</PopAdaptation.valueFormat>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>١٠× ﻥﺎﻜﺳ ﺔﻴﻧ</PopIntent.label>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>ﺍًﻣﻮﻳ {0}</PopIntent.valueFormat>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>ﺀﺎﻨﺠﺳ</Prisoners.label>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>10/ﺔﻌﺘﻣ ﻁﺎﻘﻧ</ThreatPoints.label>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>ﻁﺎﻘﻧ {0}</ThreatPoints.valueFormat>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>)ﻲﻧﺎﺒﻣ (ﺓﻭﺮﺛ</Wealth_Buildings.label>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>)ﺮﺻﺎﻨﻋ (ﺓﻭﺮﺛ</Wealth_Items.label>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>)ﺕﺎﻨﺋﺎﻜﻟﺍ (ﺓﻭﺮﺛ</Wealth_Pawns.label>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>)ﺔﻴﻟﺎﻤﺟﺇ (ﺓﻭﺮﺛ</Wealth_Total.label>
+  
+</LanguageData>

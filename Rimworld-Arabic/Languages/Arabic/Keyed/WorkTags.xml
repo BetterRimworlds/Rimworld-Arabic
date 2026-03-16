@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>ﺪﺟﻮﻳ ﻻ</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>ﻱﺮﻜﻓ</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>ﻱﻭﺪﻳ ﻞﻤﻋ</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>ﺮﻫﺎﻣ ﻞﻤﻋ</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>ﻒﻴﻨﻋ</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>ﺭﺎﻧ ﻕﻼﻃﺇ</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>ﺔﻳﺎﻋﺭ</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>ﻲﻋﺎﻤﺘﺟﺍ</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>ﺕﺎﻧﺍﻮﻴﺣ</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>ّﻲﻨﻓ</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>ﻊﻨﺻ</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>ﺦﺒﻃ</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>ﻒﻴﻈﻨﺗ</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>ﻞﻘﻧ</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>ﻲﺗﺎﺒﻧ ﻞﻤﻋ</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>ﻦﻳﺪﻌﺗ</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>ﺪﻴﺻ</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>. ﺀﺎﻨﺑ</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>ّﻡﺎﻋ ﻞﻤﻋ</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>ﻞﻤﻌﻟﺍ ﻞﻛ</WorkTagAllWork>
+
+</LanguageData>

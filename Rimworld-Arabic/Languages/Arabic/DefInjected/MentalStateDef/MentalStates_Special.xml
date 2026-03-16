@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>ﻲﻧﺍﻭﺪﻋ ﻢﻜﺣ ﺶﻳﻮﺸﺗ</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>ﺵﻮﺸﻣ ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﻢﻴﻴﻘﺗ</BerserkMechanoid.baseInspectLine>
+  
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>ﺔﺑﺮﻄﻀﻣ ﺔﻘﻧﺮﺷ</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>ﺔﺠﻋﺯُﻣ ﺔﻘﻧﺮﺸﻟﺍ: ﺐﺿﺎﻏ</CocoonDisturbed.baseInspectLine>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>ﺮﺸﺑ ﺪﺋﺎﺻ</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>ﻱﺮﺸﺑ ﺩﺍّﻴﺻ: ﻥﻮﻨﺠﻣ</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>!ﺍًﻳﺮﺸﺑ ﺍًﺩﺎﻴﺻ {0} ﺢﺒﺻﺃ</Manhunter.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetterLabel>!ﺍًﺩﺎﻴﺻ ﺢﺒﺻﺃ {0}</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>. ﺪﻴﺼﻠﻟ ﻱﻮﻣﺪﻟﺍ {0} ﻲﻌﺳ ﻰﻬﺘﻧﺍ</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>ﺮﺸﺒﻟﺍ ﺪﺋﺎﺻ</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>ﻱﺮﺸﺑ ﺩﺍّﻴﺻ: ﻥﻮﻨﺠﻣ</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>!ﺍًﻳﺮﺸﺑ ﺍًﺩﺎﻴﺻ {0} ﺢﺒﺻﺃ</ManhunterPermanent.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetterLabel>!ﺍًﺩﺎﻴﺻ {0} ﺢﺒﺻﺃ</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>. ﺪﻴﺼﻠﻟ ﻱﻮﻣﺪﻟﺍ {0} ﻲﻌﺳ ﻰﻬﺘﻧﺍ</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>ﺭﻮﻋﺬﻣ ﺭﺍﺮﻓ</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>. ﺮﻋﺫ ﻲﻓ ﺭﺍﺮﻓ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>. ﺮﻋﺫ ﺔﻟﺎﺣ ﻲﻓ {0} ﺏﺮﻬﻳ</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>ﺭﺍﺮﻓ</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>. ﺮﻋﺫ ﺔﻟﺎﺣ ﻲﻓ ﺮﻔﻳ {0} ﺪﻌﻳ ﻢﻟ</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>ﻝّﻮﺠﺗ</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>ﻝﺍﻮﺠﺗ: ﺔﻴﻨﻫﺫ ﺔﻟﺎﺣ</Roaming.baseInspectLine>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>ﻲﻋﺎﻤﺘﺟﺍ ﻝﺎﺘﻗ</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>ﻲﻋﺎﻤﺘﺟﺍ ﺭﺎﺠﺷ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>ﻚﺒﺗﺮﻣ ﻝﺍﻮﺠﺗ</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>. ﻝﻮﺠﺘﻣﻭ ﻚﺒﺗﺮﻣ: ﺔﻴﻨﻫﺬﻟﺍ ﺔﻟﺎﺤﻟﺍ</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>. ﻙﺎﺒﺗﺭﺍ ﺔﻟﺎﺣ ﻲﻓ ﻝﻮﺠﺘﻳﻭ {0} ﺭﺎﻬﻧﺍ</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>ﻙﺎﺒﺗﺭﺍ</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>. ﻙﺎﺒﺗﺭﺍ ﺔﻟﺎﺣ ﻲﻓ {0} ﺪﻌﻳ ﻢﻟ</WanderConfused.recoveryMessage>
+  
+</LanguageData>

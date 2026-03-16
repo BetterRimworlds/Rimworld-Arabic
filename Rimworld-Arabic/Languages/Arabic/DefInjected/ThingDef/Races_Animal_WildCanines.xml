@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>. ﻪﺘﺴﻳﺮﻓ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺞﻠﺜﻟﺍ ﻦﻣ ﺮﺘﻣ ﺮﺒﻋ ﺮﻔﺤﻳ ﺍًﻧﺎﻴﺣﺃﻭ ،ﻥﺍﺫﺮﺠﻟﺍﻭ ﻥﺍﺮﺌﻔﻟﺍ ﻞﺜﻣ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ًﺓﺩﺎﻋ ﺩﺎﻄﺼﻳ ،ﺓﺩﺭﺎﺒﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻣ ﺮﻴﻐﺻ ﺱﺮﺘﻔﻣ ﻥﺍﻮﻴﺣ</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>ﺱﺃﺭ</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>ﻚﻨﻓ ﺐﻠﻌﺛ</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>. ﺓﺭﺍﺮﺤﻟﺍ ﻲﻓ ﻪﺴﻔﻧ ﺪﻳﺮﺒﺘﻟ ﺍًﺪﺟ ﻥﺎﺗﺮﻴﺒﻛ ﻥﺎﻧﺫﺃ ﻪﻳﺪﻟﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺩﺎﻄﺼﻳ. ﺔﻴﺿﺭﻷﺍ ﺎﻴﻘﻳﺮﻓﺃ ﺓﺭﺎﻗ ﻦﻣ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ ﻰﻟﺇ ﻪﻠﺻﺃ ﺩﻮﻌﻳ ﺮﻴﻐﺻ ﺐﻠﻌﺛ</Fox_Fennec.description>
+  <!-- EN: fox meat -->
+  <Fox_Fennec.race.meatLabel>ﺐﻠﻌﺛ ﻢﺤﻟ</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Fennec.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Fennec.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>ﺱﺃﺭ</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>. ﻖﺋﺎﻗﺩ ﻲﻓ ﺔﻠﻣﺎﻛ ﺓﺮﻴﻈﺣ ﺮﻴﻣﺪﺗ ﻰﻠﻋ ﺎﻬﺗﺭﺪﻗ ﺐﺒﺴﺑ ﺐﻟﺎﻌﺜﻟﺍ ﺝﺎﺟﺪﻟﺍ ﻮﺑﺮﻣ ﻩﺮﻜﻳ. ﺔﻟﺪﺘﻌﻤﻟﺍ ﺕﺎﺧﺎﻨﻤﻟﺍ ﻲﻓ ﺓﺮﻴﻐﺼﻟﺍ ﺲﺋﺍﺮﻔﻟﺍ ﺪﻴﺼﻟ ﺭﻮﻄﺗ ﻝﺰﻌﻨﻣ ﺮﻴﻐﺻ ﺐﻠﻛ</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Fox_Red.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Red.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Fox_Red.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Fox_Red.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>ﺱﺃﺭ</Fox_Red.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻴﻛﺫ ﻲﻫﻭ ﺓﺪﻘﻌﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺓﺎﻴﺤﺑ ﺏﺎﺋﺬﻟﺍ ﻊﺘﻤﺘﺗ ،ﺔﻴﻋﺎﻤﺟ ﺓﺩﺍّﻴﺻ ﺎﻬﺘﻔﺼﺑ. ﺔﻤﻳﺪﻘﻟﺍ ﺽﺭﻷﺍ ﺏﺎﺋﺫ ﻦﻣ ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Wolf_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Wolf_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>ﺱﺃﺭ</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>ﻲﺒﺸﺧ ﺐﺋﺫ</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>. ﺔﻳﺎﻐﻠﻟ ﺔﻴﻛﺫ ﻲﻫﻭ ﺓﺪﻘﻌﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺓﺎﻴﺤﺑ ﺏﺎﺋﺬﻟﺍ ﻊﺘﻤﺘﺗ ،ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﺓﺩﺍّﻴﺻ ﺎﻬﻧﻮﻜﻟ ﺍًﺮﻈﻧ. ﺔﻤﻳﺪﻘﻟﺍ ﺽﺭﻷﺍ ﺕﺎﻓﺎﻘﺛ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻪﻓﺎﺧ ﺎﻤﻟﺎﻄﻟ ّﻱﻮﻗ ﺱﺮﺘﻔﻣ ﻥﺍﻮﻴﺣ</Wolf_Timber.description>
+  <!-- EN: wolf meat -->
+  <Wolf_Timber.race.meatLabel>ﺐﺋﺫ ﻢﺤﻟ</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Wolf_Timber.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Wolf_Timber.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>ﺱﺃﺭ</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

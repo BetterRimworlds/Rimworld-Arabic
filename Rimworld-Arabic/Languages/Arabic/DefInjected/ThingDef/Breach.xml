@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breach axe -->
+  <MeleeWeapon_BreachAxe.label>ﻕﺍﺮﺘﺧﺍ ﺱﺄﻓ</MeleeWeapon_BreachAxe.label>
+  <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
+  <MeleeWeapon_BreachAxe.description>. ﻪﻴﻓ ﺞﻣﺪﻤﻟﺍ ﺓﺍﺩﻷﺍ ﺱﺃﺭ ﻞﻀﻔﺑ ﻯﺮﺧﻷﺍ ﻞﻛﺎﻴﻬﻟﺍﻭ ﺏﺍﻮﺑﻷﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﻡﺪﻫ ﻲﻓ ﻕﻮﻔﺘﻳ ﻪﻧﺃ ﻻﺇ ،ﺮﺸﺒﻟﺍ ﻦﻣ ﺀﺍﺪﻋﻷﺍ ﺪﺿ ﻯﺮﺧﻷﺍ ﺔﺤﻠﺳﻷﺍ ﻦﻣ ًﻼﻴﻠﻗ ﺔﻴﻟﺎﻌﻓ ﻞﻗﺃ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﻦﻴﺘﻣ ﺾﺒﻘﻤﺑ ﻥﻼﺼﺘﻣ ﻥﺎﺠﻣﺪﻣ ﺓﺍﺩﺃﻭ ﺓﺮﻔﺷ ﺱﺃﺭ</MeleeWeapon_BreachAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_BreachAxe.tools.handle.label>ﺾﺒﻘﻣ</MeleeWeapon_BreachAxe.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_BreachAxe.tools.head.label>ﺱﺃﺭ</MeleeWeapon_BreachAxe.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items.[travelTime]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>qualityInfo-></li>
+    <li>travelTime(canCaravan==True,priority=1)-> The estimated travel time is [estimatedTravelTime_duration].</li>
+    <li>travelTime-></li>
+  -->
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->:ﺀﺍﺮﺷ ﻲﻓ ﻥﻮﺒﻏﺮﻳ .ﺹﺎﺧ ﻱﺭﺎﺠﺗ ﺐﻠﻃ ﺎﻬﻳﺪﻟ ،[settlement_label] ،ﺔﺒﻳﺮﻗ ﺔﻨﻃﻮﺘﺴﻣ\n\n([requestedThingMarketValue_money] ﺔﻤﻴﻘﺑ)[qualityInfo] [requestedThing_label] ×[requestedThingCount]  \n\n[travelTime].ﺔﺑﻮﻠﻄﻤﻟﺍ ﻊﺋﺎﻀﺒﻟﺎﺑ ﺔﻠﻓﺎﻗ ﻞﺳﺭﺃ ،ﻝﺩﺎﺒﺘﻟﺍ ﻡﺎﻤﺗﺇ ﺕﺩﺭﺃ ﺍﺫﺇ</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->ﻞﻀﻓﺃ ﻭﺃ ﺔﻳﺩﺎﻋ ﺓﺩﻮﺟ ﺕﺍﺫ</li>
+    <li>travelTime(canCaravan==True,priority=1)->.[estimatedTravelTime_duration] ﻮﻫ ﺔﻠﺣﺮﻠﻟ ﺭﺪﻘﻤﻟﺍ ﺖﻗﻮﻟﺍ</li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Caravan to [settlement_label]</li>
+    <li>questName->Trade with [settlement_label]</li>
+    <li>questName->Selling to [settlement_label]</li>
+    <li>questName->Supplies for [settlement_label]</li>
+    <li>questName->A [special] [trade]</li>
+    <li>special->Special</li>
+    <li>special->Unique</li>
+    <li>special->Non-traditional</li>
+    <li>trade->Trade</li>
+    <li>trade->Exchange</li>
+    <li>trade->Deal</li>
+    <li>trade->Offer</li>
+  -->
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->[settlement_label] ﻰﻟﺇ ﺔﻠﻓﺎﻗ</li>
+    <li>questName->[settlement_label] ﻊﻣ ﺓﺭﺎﺠﺗ</li>
+    <li>questName->[settlement_label] ﻊﻣ ﻝﻭﺍﺪﺘﻟﺍ</li>
+    <li>questName->[settlement_label] ـﻝ ﺕﺍﺩﺍﺪﻣﺇ</li>
+    <li>questName->[trade] [special]</li>
+    <li>questName->[trade_fem] [special_fem]</li>
+    <li>special->ﺹﺎﺧ</li>
+    <li>special_fem->ﺹﺎﺧ</li>
+    <li>special->ﺪﻴﺣﻭ</li>
+    <li>special_fem->ﺓﺪﻴﺣﻭ</li>
+    <li>special->ﻱﺪﻴﻠﻘﺗ ﺮﻴﻏ</li>
+    <li>special_fem->ﻱﺪﻴﻠﻘﺗ ﺮﻴﻏ</li>
+    <li>trade->ﺓﺭﺎﺠﺗ</li>
+    <li>trade->ﻝﺩﺎﺒﺗ</li>
+    <li>trade->ﺔﻴﻗﺎﻔﺗﺍ</li>
+    <li>trade_fem->ﺽﺮﻋ</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TradeRequest.LetterLabelQuestFailed.slateRef>[resolvedQuestName] :ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <!-- EN: [faction_name] became hostile to you. -->
+  <TradeRequest.LetterTextQuestFailed.slateRef>ًﺎﻴﺋﺍﺪﻋ ﺢﺒﺻﺃ [faction_name] ﻞﻴﺼﻔﻟﺍ</TradeRequest.LetterTextQuestFailed.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TradeRequest.LetterTextFavorReceiver.slateRef>؟ﻝﺩﺎﺒﺘﻟﺍ ﺐﻠﻃ ﻡﺎﻤﺗﺇ ﻞﺑﺎﻘﻣ [asker_faction_royalFavorLabel] ﻞﻀﻔﻟﺍ ﺐﺴﻨُﻳ ﻥﺃ ﺐﺠﻳ ﻦﻤﻟ</TradeRequest.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

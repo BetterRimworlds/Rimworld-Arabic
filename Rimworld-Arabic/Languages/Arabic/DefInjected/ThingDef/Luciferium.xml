@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium -->
+  <Luciferium.label>ﻡﻮﻳﺮﻔﻴﺳﻮﻟ</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>. ﺕﻮﻤﻟﺍ ،ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓﻭ ،ﺓﺮﻤﺘﺴﻣ ﺔﻳﺮﻴﺘﺴﻫ ﺐﻀﻏ ﺕﺎﺑﻮﻧ ﺐﺒﺴﻳ ﺎﻤﻣ ،ﺎﻬﻜﺳﺎﻤﺗ ﺕﺎﺘﻳﺎﻧﺎﻜﻴﻤﻟﺍ ﺪﻘﻔﺗ ،ﻡﺎﻳﺃ ﺔﺘﺳ ﻭﺃ ﺔﺴﻤﺧ ﻞﻛ ﺔﻤﻈﺘﻨﻤﻟﺍ ﺕﺎﻋﺮﺠﻠﻟ ﺔﺋﺪﻬﻤﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍ ﻥﻭﺪﺑ ،ﻆﺤﻟﺍ ﺀﻮﺴﻟ. ﺓﺩﻮﻘﻔﻤﻟﺍ ﻑﺍﺮﻃﻷﺍ ﺪﻳﺪﺠﺗ ﻊﻴﻄﺘﺴﻳ ﻻ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﻍﺎﻣﺪﻟﺍ ﻒﻠﺗ ﻭﺃ ﺔﺑﺪﻨﺘﻤﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺡﻭﺮﺠﻟﺍ ﺔﺠﻟﺎﻌﻣ ﻰﺘﺣ ﻪﻨﻜﻤﻳ ،ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ. ﻲﺣﺍﻮﻨﻟﺍ ﻊﻴﻤﺟ ﻲﻓ ﻢﺴﺠﻟﺍ ﻒﺋﺎﻇﻭ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻦﺴﺤﻳ ﺕﺎﺘﻳﺎﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ\n\n. ﺍًﺪﺑﺃ ،ﺕﺎﺘﻳﺎﻧﺎﻜﻴﻤﻟﺍ ﺝﺍﺮﺧﻹ ﺔﻘﻳﺮﻃ ﺪﺟﻮﺗ ﻻ ،ﻰﻟﻭﻷﺍ ﺔﻋﺮﺠﻟﺍ ﺪﻌﺑ\n\n. ﺔﻳﺮﻐﻤﻟﺍ ﺀﺍﺮﻤﺤﻟﺍ ﺏﻮﺒﺤﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻥﺎﻜﻣﻹﺎﺑ ﺪﻌﻳ ﻢﻟ ﺎﻣﺪﻨﻋ ﺀﺎﻗﺪﺻﻷﺍ ﻞﺘﻗ ﻰﻟﺇ ﻥﻭﺮﻴﺜﻜﻟﺍ ﺮﻄﺿﺍ ". ﻥﺎﻄﻴﺸﻟﺍ ﺔﻘﻔﺻ " ﻡﻮﻳﺮﻔﻴﺳﻮﻠﻟﺍ ﻥﻮﻤﺴﻳ ،ﺔﻳﺮﻀﺣ ﻢﻟﺍﻮﻋ ﻲﻓ</Luciferium.description>
+  <!-- EN: Take {0} -->
+  <Luciferium.ingestible.ingestCommandString>{0} ﻝﻭﺎﻨﺗ</Luciferium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Luciferium.ingestible.ingestReportString>.{0} ﻝﻭﺎﻨﺘﻳ</Luciferium.ingestible.ingestReportString>
+  
+</LanguageData>

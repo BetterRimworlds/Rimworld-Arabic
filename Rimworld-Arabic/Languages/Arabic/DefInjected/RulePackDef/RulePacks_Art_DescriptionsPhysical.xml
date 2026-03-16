@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻪﻴﻠﻋ ﺵﻮﻘﻨﻣ ﺙﺎﺛﺄﻟﺍ ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻰﻠﻋ ﺙﺎﺛﺄﻟﺍ ﺍﺬﻫ ﻱﻮﺘﺤﻳ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] . [depicts] ﺙﺎﺛﺄﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺶﻘﻧ</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﺶﻘﻨﺑ ﻑﺮﺧﺰﻣ ﺶﻌﻨﻟﺍ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] fagoóarcﺲﻟﺍ ﻞﻤﺤﻳ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﺕﻮﺑﺎﺘﻟﺍ ﻰﻠﻋ ﺶﻘﻧ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻰﻟﺇ [depicts] ﺕﻮﺑﺎﺘﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺶﻘﻨﻟﺍ</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>sculpture->sculpture</li>
+    <li>sculpture->work</li>
+    <li>sculpture->piece</li>
+    <li>sculpture->carving</li>
+  -->
+  <ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻰﻟﺇ [depicts] [sculpture] ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻞﻤﺤﺗ [sculpture] ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﺪﺟﻮﻳ [sculpture] ﺍﺬﻫ ﻰﻠﻋ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ـﺏ [depicts] [sculpture1] ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻞﻤﺤﻳ [sculpture1] ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﺪﺟﻮﻳ [sculpture1] ﺍﺬﻫ ﻰﻠﻋ</li>
+    <li>sculpture->ﻝﺎﺜﻤﺗ</li>
+    <li>sculpture1->ﻞﻤﻋ</li>
+    <li>sculpture->ﻞﻤﻋ</li>
+    <li>sculpture1->ﺕﻮﺤﻨﻣ</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻪﻴﻠﻋ ﺵﻮﻘﻨﻣ ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ ﻞﻤﺤﻳ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻰﻟﺇ [depicts] ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺶﻘﻧ</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ـﺏ ﺵﻮﻘﻨﻣ ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻦﻣ [depiction] ﻰﻠﻋ ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ ﻱﻮﺘﺤﻳ</li>
+    <li>physical_description_root->[desc_sentence_group] .[image] ﻰﻟﺇ [depicts] ﺡﺎﻠﺴﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺶﻘﻨﻟﺍ</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>ﻝﻮﺒﻘﻣ ﺏﺭﺎﻫ</AcceptedDeserter.label>
+  
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>ﻑﻮﻴﻀﻟﺍ ﺀﺎﺿﺭﺇ ﻞﺸﻓ</FailedToKeepLodgersHappy.label>
+  
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>ﻙﻮﻜﻤﻟﺍ ﻪﺗﺎﻓ ﻮﻀﻋ</MemberMissedShuttle.label>
+  
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>ﻱﺭﺎﻛﺬﺗ ﺐﺼﻧ ﺀﺎﻨﺑ ﺀﺎﻬﺘﻧﺍ</MonumentConstructionExpired.label>
+  
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>ﺭﻮﺠﻬﻣ ﺐﺼﻧ ﺀﺎﻨﺑ</MonumentConstructionMapRemoved.label>
+  
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>ﺮﻣﺪﻣ ﺐﺼﻧ</MonumentDestroyed.label>
+  
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>ﺔﻠﻤﺘﻜﻣ ﺔﻤﻬﻣ</QuestGoodwillReward.label>
+  
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>ﻞﻘﺘﻌﻣ ﻮﻀﻋ</QuestPawnArrested.label>
+  
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﺩﻮﻘﻔﻣ ﻮﻀﻋ</QuestPawnLost.label>
+  
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>ﺽﺮﻗُﻣ ﺪﺒﻌﺘﺳُﻣ ﺮﻴﺳﺃ</QuestPrisonerEnslaved.label>
+  
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>ﺩّﻨﺠﻣ ﻦﻴﺠﺳ</QuestPrisonerRecruited.label>
+  
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>ﻙﻮﻜﻤﻟﺍ ﻪﺗﺎﻓ ﻙﻮﻜﻤﻟﺍ ﺪﺋﺎﻗ</ShuttleCommanderMissedShuttle.label>
+  
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>ﻙﻮﻜﻤﻟﺍ ﻢﻬﺗﺎﻓ ﻙﻮﻜﻣ ﺱﺍﺮﺣ</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

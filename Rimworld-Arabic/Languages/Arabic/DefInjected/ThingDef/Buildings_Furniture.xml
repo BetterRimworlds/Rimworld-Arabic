@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>ﻥﺍﻮﻴﺣ ﺮﻳﺮﺳ</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>. ﻥﺍﻮﻴﺣ ﻱﺃ ﺐﺳﺎﻨﻳ ،ﻪﻴﻠﻋ ﻡﺎﻨﺘﻟ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻢﻋﺎﻧ ﺮﻳﺮﺳ</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ ﻕﻭﺪﻨﺻ</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>. ﺓﺮﻴﻐﺼﻟﺍ ﺏﻼﻜﻟﺍ ﻭﺃ ﻂﻄﻘﻟﺍ ﻭﺃ ﺝﺎﺟﺪﻟﺍ ﻞﺜﻣ ﺮﻐﺻﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﺳﺎﻨﻳ. ﻪﻴﻓ ﻡﺎﻨﺘﻟ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺮﻴﻐﺻ ﻕﻭﺪﻨﺻ</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ ﻥﺎﻜﻣ</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>. ﻥﺍﻮﻴﺤﻟﺍ ﻡﺎﻨﻳ ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﻌﻘﺑ ﺩﺪﺣُﻳ</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>ﻦﻴﻋﺍﺭﺬﺑ ﻲﺳﺮﻛ</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>. ﻯﺮﺧﺃ ﻦﻛﺎﻣﺃ ﻲﻓﻭ ،ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ،ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺀﺎﺧﺮﺘﺳﻼﻟ ﻲﻟﺎﺜﻣ. ﺢﻳﺮﻣﻭ ﻢﻋﺎﻧ ،ﺮﻴﺒﻛ ﺪﻌﻘﻣ</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>ﺮﻳﺮﺳ</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>. ﺔﺣﺍﺮﻠﻟ ﺭﺎﻃﺇ ﻰﻠﻋ ﺔﺤﻳﺮﻣ ﺕﺍﺀﻼﻣ ﻭ ﺔﺒﺗﺮﻣ</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>ﻡﻮﻧ ﺔﺷﺮﻓ</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>. ﻞﻀﻓﺃ ﻡﻮﻧ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﻡﻮﻨﻟﺍ ﺔﺷﺮﻓ ﻡﺍﺪﺨﺘﺳﺍ ﻞﻓﺍﻮﻘﻠﻟ ﻦﻜﻤﻳ. ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻞﺜﻣ ﺍًﻣﺎﻤﺗ ﺔﺤﻳﺮﻣ ﺖﺴﻴﻟ ﺎﻬﻨﻜﻟﻭ ،ﻞﻘﻨﻟﺍ ﺔﻟﻮﻬﺴﻟ ﺎﻬﻔﻟ ﻦﻜﻤﻳﻭ ﻥﺯﻮﻟﺍ ﺔﻔﻴﻔﺧ ﺎﻬﻧﺇ. ﻭﺮﻔﻟﺎﺑ ﻦﻄﺒﺗ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ،ﺪﻠﺠﻟﺍ ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﻥﻮﻜﺗ ﺎﻣ ًﺓﺩﺎﻋﻭ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻊﺿﻮﺗ ﺔﻄﻴﺴﺑ ﻡﻮﻧ ﺔﺷﺮﻓ</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>ﺝﻭﺩﺰﻣ ﺵﺍﺮﻓ</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>. ﻞﻀﻓﺃ ﻡﻮﻧ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﻡﻮﻨﻟﺍ ﻁﺎﺴﺑ ﻡﺍﺪﺨﺘﺳﺍ ﻞﻓﺍﻮﻘﻠﻟ ﻦﻜﻤﻳ. ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻞﺜﻣ ﺍًﻣﺎﻤﺗ ﺔﺤﻳﺮﻣ ﺖﺴﻴﻟ ﺎﻬﻨﻜﻟﻭ ،ﻞﻘﻨﻟﺍ ﺔﻟﻮﻬﺴﻟ ﺎﻬﻔﻟ ﻦﻜﻤﻳﻭ ﻥﺯﻮﻟﺍ ﺔﻔﻴﻔﺧ ﺎﻬﻧﺇ. ﻭﺮﻔﻟﺎﺑ ﻦﻄﺒﺗ ﺎﻣ ﺍًﺒﻟﺎﻏﻭ ،ﺪﻠﺠﻟﺍ ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﻥﻮﻜﺗ ﺎﻣ ﺓﺩﺎﻋﻭ ،ﺽﺭﻷﺍ ﻰﻠﻋ ﻊﺿﻮﺗ ﺔﻄﻴﺴﺑ ﺔﺟﻭﺩﺰﻣ ﺔﻴﺿﺭﺃ ﺔﺷﺮﻓ</BedrollDouble.description>
+  
+  <!-- EN: bookcase -->
+  <Bookcase.label>ﺐﺘﻛ ﻑﺭ</Bookcase.label>
+  <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <Bookcase.description>. ﺍًﺪﺑﺃ ﺭﻮﻫﺪﺘﺗ ﻦﻟ ﺔﻧﺰﺨﻤﻟﺍ ﺐﺘﻜﻟﺍ. ﺔﻧﺍﺰﺨﻟﺍ ﻝﺎﻤﺟ ﻦﻣ ﺪﻳﺰﺘﺳﻭ ،ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ ﻢﺘﻳ ﻱﺬﻟﺍ ﻲﻤﻳﺩﺎﻛﻷﺍ ﻞﻤﻌﻟﺍ ﻲﺒﻠﺳ ﻞﻜﺸﺑ ﺯﺰﻌﺘﺳ ﺎﻨﻫ ﺔﻧﺰﺨﻤﻟﺍ ﺐﺘﻜﻟﺍ. ﺐﺘﻛ ﺓﺮﺸﻋ ﻰﻟﺇ ﻞﺼﻳ ﺎﻣ ﺽﺮﻋﻭ ﻦﻳﺰﺨﺘﻟ ﺔﻌﺳﺍﻭ ﺐﺘﻛ ﺔﻧﺍﺰﺧ</Bookcase.description>
+  
+  <!-- EN: small bookcase -->
+  <BookcaseSmall.label>ﺮﻴﻐﺻ ﺐﺘﻛ ﻑﺭ</BookcaseSmall.label>
+  <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <BookcaseSmall.description>. ﺍًﺪﺑﺃ ﺭﻮﻫﺪﺘﺗ ﻦﻟ ﺔﻧﺰﺨﻤﻟﺍ ﺐﺘﻜﻟﺍ. ﻑﺮﻟﺍ ﻝﺎﻤﺟ ﻦﻣ ﺪﻳﺰﺗﻭ ،ﺎﻫﺭﺍﻮﺠﺑ ﻢﺘﻳ ﻱﺬﻟﺍ ﻲﻤﻳﺩﺎﻛﻷﺍ ﻞﻤﻌﻟﺍ ﻲﺒﻠﺳ ﻞﻜﺸﺑ ﺯﺰﻌﺘﺳ ﺎﻨﻫ ﺔﻧﺰﺨﻤﻟﺍ ﺐﺘﻜﻟﺍ. ﺐﺘﻛ ﺔﺴﻤﺧ ﻰﻟﺇ ﻞﺼﻳ ﺎﻣ ﺽﺮﻋﻭ ﻦﻳﺰﺨﺘﻟ ﻖﻴﺿ ﺐﺘﻛ ﻑﺭ</BookcaseSmall.description>
+  
+  <!-- EN: couch -->
+  <Couch.label>ﺔﻜﻳﺭﺃ</Couch.label>
+  <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
+  <Couch.description>. ﺢﻳﺮﻣ ﺓﺀﺍﺮﻗ ﻦﻛﺭ ﻭﺃ ﺓﺮﺧﺎﻓ ﻡﺎﻤﺠﺘﺳﺍ ﺔﻓﺮﻐﻟ ﻲﻟﺎﺜﻣ. ﻯﻮﺼﻗ ﺔﺣﺍﺮﻟ ﻥّﻄﺑُﻣ ﻊﺳﺍﻭ ﺝﻭﺩﺰﻣ ﺮﻴﺒﻛ ﺪﻌﻘﻣ</Couch.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>ﺓﺪﺋﺎﻣ ﻲﺳﺮﻛ</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>. ﻯﺮﺧﺃ ﻦﻛﺎﻣﺃﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺏﺍﺬﺟﻭ ﺢﻳﺮﻣ ﻲﺳﺮﻛ</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>. ﻦﻴﺼﺨﺸﻟ ﻊﺴﺘﻳ ﻂﻴﺴﺑ ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>ﺝﻭﺩﺰﻣ ﻡﻮﻧ ﻥﺎﻜﻣ</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>. ﺔﺤﻳﺮﻣ ﺖﺴﻴﻟﻭ ،ﺍًﻌﻣ ﻥﺎﺼﺨﺷ ﻡﺎﻨﻳ ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﻌﻘﺑ ﺩﺪﺣُﻳ</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>ﺲﺑﻼﻣ ﺔﻧﺍﺰﺧ</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>. ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﺲﻴﻟ ﺮﻳﺮﺴﻟﺍ ﺲﻔﻧ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺓﺪﺣﺍﻭ ﺲﺑﻼﻣ ﺔﻧﺍﺰﺧ ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ. ﺔﺒﻳﺮﻘﻟﺍ ﺓﺮﺳﻷﺍ ﻊﻴﻤﺠﻟ ﺓﺮﻴﻐﺻ ﺔﺣﺍﺭ ﺓﺄﻓﺎﻜﻣ ﺢﻨﻤﺗ. ﺲﺑﻼﻣ ﺔﻧﺍﺰﺧ</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>ﺔﻴﺒﻧﺎﺟ ﺔﻟﻭﺎﻃ</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>. ﺮﻳﺮﺴﻟﺍ ﺲﻔﻧ ﺐﻧﺎﺠﺑ ﺔﻟﻭﺎﻃ ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ ﺮﺛﺆﻳ ﻻﻭ ،ﺮﻳﺮﺴﻟﺍ ﺱﺃﺭ ﺭﺍﻮﺠﺑ ًﺓﺮﺷﺎﺒﻣ ﺎﻬﻌﺿﻭ ﺐﺠﻳﻭ ،ﺀﻴﺸﻟﺍ ﺾﻌﺑ ًﺔﺣﺍﺭ ﺮﺜﻛﺃ ﺔﺒﻳﺮﻘﻟﺍ ﺓﺮﺳﻷﺍ ﻞﻌﺠﺗ ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺓﺮﻴﻐﺻ ﺔﻟﻭﺎﻃ</EndTable.description>
+  
+  <!-- EN: flood light -->
+  <FloodLight.label>ﻑﺎﺸﻛ</FloodLight.label>
+  <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
+  <FloodLight.description>. ﺓﺮﻴﺒﻜﻟﺍ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺎﺣﺎﺴﻤﻠﻟ ﺐﺳﺎﻨﻣ ﺔﻓﺎﺜﻜﻟﺍ ﻲﻟﺎﻋ ﺀﻮﺿ</FloodLight.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>ﻰﻔﺸﺘﺴﻣ ﺮﻳﺮﺳ</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>. ﺔﻳﺩﺎﻌﻟﺍ ﺓﺮﺳﻷﺎﺑ ﺔﻧﺭﺎﻘﻣ ﺔﻴﺒﻄﻟﺍ ﺞﺋﺎﺘﻨﻟﺍ ﻦﺴﺤﻳ ﺎﻤﻣ ،ﺔﺠﻣﺪﻣ ﺕﺍﺪﻌﻤﺑ ﺩﻭﺰﻣﻭ ،ﺾﻳﺮﻤﻟﺍ ﺐﺳﺎﻨﻴﻟ ﻞﻳﺪﻌﺘﻠﻟ ﻞﺑﺎﻗﻭ ،ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺍًﺼﻴﺼﺧ ﻢﻤﺼﻣ ﺮﻳﺮﺳ</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>ﺕﺎﺒﻧ ﺀﺎﻋﻭ</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>. ﻦﻴﺒﻳﺮﻘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺝﺍﺰﻣ ﻦﻴﺴﺤﺘﻟ ﺔﻨﻳﺯ ﺍًﺭﻮﻫﺯ ﺎﻨﻫ ﻉﺭﺯﺍ</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>ﻲﻜﻠﻣ ﺮﻳﺮﺳ</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>. ﻦﻴﺼﺨﺸﻟ ﻊﺴﺘﻳ. ﺎﻬﺗﺍﺫ ﺪﺤﺑ ﺔﻴﻨﻓ ﺔﻔﺤﺗ ﻪﻧﺇ ،ﺔﻳﺎﻐﻠﻟ ﻞﻴﻤﺟﻭ ﺢﻳﺮﻣ. ﺔﻴﻗﺍﺮﻟﺍ ﺕﺎﻘﺒﻄﻟﺍ ﻱﻭﺬﺑ ﻖﻴﻠﻳ ﺐﻫﺬﻟﺎﺑ ﻊﺻﺮﻣ ﺮﺧﺎﻓ ﺮﻳﺮﺳ</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>ﻑﺭ</Shelf.label>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>. ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻻﻭ ﻪﻠﺧﺍﺩ ﺔﻧﺰﺨﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺭﻮﻫﺪﺘﺗ ﻻﻭ ،ﺔﻏﺭﺎﻔﻟﺍ ﺽﺭﻷﺍ ﻪﻧﺰﺨﻳ ﺎﻣ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﻥﺰﺨﻳ ﺕﺎﻘﺒﻄﻟﺍ ﻲﺛﻼﺛ ﻑﺭ\n\n. ﺓﺮﻴﺒﻜﻟﺍ ﺚﺜﺠﻟﺍ ﻭﺃ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻭﺃ ﻲﻧﺎﺒﻤﻟﺍ ﻭﺃ ﻞﺘﻜﻟﺍ ﺏﺎﻌﻴﺘﺳﺍ ﻒﻓﺭﻸﻟ ﻦﻜﻤﻳ ﻻ ،ﻑﺮﻟﺍ ﺔﺣﺎﺴﻣ ﺔﻳﺩﻭﺪﺤﻤﻟ ﺍًﺮﻈﻧ</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>ﺮﻴﻐﺻ ﻑﺭ</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>. ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻻﻭ ﻪﻠﺧﺍﺪﺑ ﺔﻧﺰﺨﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺭﻮﻫﺪﺘﺗ ﻻﻭ ،ﺔﻏﺭﺎﻔﻟﺍ ﺽﺭﻷﺍ ﻪﻧﺰﺨﻳ ﺎﻣ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﻥﺰﺨﻳ ﺕﺎﻘﺒﻄﻟﺍ ﻲﺛﻼﺛ ﺮﻴﻐﺻ ﻑﺭ\n\n. ﺓﺮﻴﺒﻜﻟﺍ ﺚﺜﺠﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻞﺘﻜﻟﺍ ﺏﺎﻌﻴﺘﺳﺍ ﻑﻮﻓﺮﻠﻟ ﻦﻜﻤﻳ ﻻ ،ﻑﺮﻟﺍ ﺔﺣﺎﺴﻣ ﺔﻳﺩﻭﺪﺤﻤﻟ ﺍًﺮﻈﻧ</ShelfSmall.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>ﻡﻮﻧ ﻥﺎﻜﻣ</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>. ﺢﻳﺮﻣ ﺮﻴﻏ. ﺱﺎﻨﻟﺍ ﻡﺎﻨﻳ ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﻌﻘﺑ ﺩﺪﺣُﻳ</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>ﻢﺋﺎﻗ ﺡﺎﺒﺼﻣ</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>. ﺔﻋﺮﺳ ﻰﺼﻗﺄﺑ ﻞﻤﻌﻟﺍﻭ ﻞﻘﻨﺘﻠﻟ ﺀﻮﻀﻟﺍ ﻰﻟﺇ ﺱﺎﻨﻟﺍ ﺝﺎﺘﺤﻳﻭ ،ﺎﻣ ًﺔﻘﻄﻨﻣ ﺀﻴﻀﻳ ﻲﺋﺎﺑﺮﻬﻛ ﻲﺿﺭﺃ ﺡﺎﺒﺼﻣ</StandingLamp.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>ﺪﻌﻘﻣ</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>. ﻯﺮﺧﺃ ﻦﻛﺎﻣﺃﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺪﻨﻋ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺀﻴﺷ ﻻ ﻦﻣ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺍًﺪﺟ ﺔﺤﻳﺮﻣ ﺖﺴﻴﻟ. ﺎﻬﻴﻠﻋ ﺱﻮﻠﺠﻠﻟ ﺔﻄﻴﺴﺑ ﺔﺼﻨﻣ</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>ﻲﺴﻤﺷ ﺡﺎﺒﺼﻣ</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>. ﻞﻴﻠﻟﺍ ﻲﻓ ﺍًﻴﺋﺎﻘﻠﺗ ﺊﻔﻄﻨﻳ. ﺔﻗﺎﻄﻟﺍ ﻦﻣ ًﺔﻠﺋﺎﻫ ًﺔﻴﻤﻛ ﻚﻠﻬﺘﺴﻳ ﻪﻨﻜﻟ ،ﻞﻴﺻﺎﺤﻤﻟﺍ ﻮﻤﻨﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ًﺔﻘﻄﻨﻣ ﺀﻴﻀﻳ ﻲﻋﺎﻨﺻ ﺡﺎﺒﺼﻣ</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>ﺕﺎﺗﺎﺒﻨﻠﻟ ﺔﺣﺍﺭ ﺓﺮﺘﻓ</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>1x2) (ﺔﻟﻭﺎﻃ</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>. ﻢﻬﻟ ﺔﻬﺟﺍﻮﻣ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻮﺗ ﺎﻣﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>2x2) (ﺔﻟﻭﺎﻃ</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>. ﻢﻬﻟ ﺔﻬﺟﺍﻮﻣ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻮﺗ ﺎﻣﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>2x4) (ﺔﻟﻭﺎﻃ</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>. ﻢﻬﻟ ﺔﻬﺟﺍﻮﻣ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻮﺗ ﺎﻣﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>3x3) (ﺔﻟﻭﺎﻃ</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>. ﻢﻬﻟ ﺔﻬﺟﺍﻮﻣ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻮﺗ ﺎﻣﺪﻨﻋ ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺹﺎﺨﺷﻷﺍ ﻞﻛﺄﻳ</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>ﺔﻠﻌﺷ ﺡﺎﺒﺼﻣ</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>. ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻴﻤﻛ ﺞﺘﻨﺗ. ﺐﺸﺨﻟﺎﺑ ﺍًﻴﺋﺎﻘﻠﺗ ﺎﻬﺘﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﻦﻜﻤﻳ. ﺔﻋﺮﺳ ﻰﺼﻗﺄﺑ ﻞﻤﻌﻟﺍﻭ ﻞﻘﻨﺘﻠﻟ ﺀﻮﻀﻟﺍ ﻰﻟﺇ ﺱﺎﻨﻟﺍ ﺝﺎﺘﺤﻳ. ﺎﻣ ﺔﻘﻄﻨﻣ ﺓﺀﺎﺿﻹ ﺔﻴﺒﺸﺧ ﺔﻠﻌﺷ</TorchLamp.description>
+  
+  <!-- EN: wall torch lamp -->
+  <TorchWallLamp.label>ﺔﻠﻌﺷ ﻂﺋﺎﺣ ﺡﺎﺒﺼﻣ</TorchWallLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
+  <TorchWallLamp.description>. ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻴﻤﻛ ﺞﺘﻨﺗ. ﻥﺍﺭﺪﺠﻟﺍ ﻰﻠﻋ ﺎﻬﺒﻴﻛﺮﺗ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﻱﺩﺎﻌﻟﺍ ﺔﻠﻌﺸﻟﺍ ﺡﺎﺒﺼﻣ ﻞﺜﻣ ﺔﻗﺮﺸﻣ ﺖﺴﻴﻟ ﺎﻬﻧﺇ. ﺔﻘﻄﻨﻣ ﺓﺀﺎﺿﻹ ﻂﺋﺎﺤﻟﺍ ﻰﻠﻋ ﺔﺘﺒﺜﻣ ﺔﻴﺒﺸﺧ ﺔﻠﻌﺷ</TorchWallLamp.description>
+  
+  <!-- EN: wall lamp -->
+  <WallLamp.label>ﻱﺭﺍﺪﺟ ﺡﺎﺒﺼﻣ</WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <WallLamp.description>. ﻥﺍﺭﺪﺠﻟﺍ ﻰﻠﻋ ﻪﺒﻴﻛﺮﺗ ﻦﻜﻤﻳ ﻪﻨﻜﻟﻭ ،ﻲﺿﺭﻷﺍ ﺡﺎﺒﺼﻤﻟﺍ ﻦﻣ ﺓﻮﻗ ﻞﻗﺃ ﻮﻫﻭ ،ﺀﺎﺑﺮﻬﻜﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻘﻄﻨﻣ ﺀﻴﻀﻳ ﻂﺋﺎﺤﻟﺍ ﻰﻠﻋ ﺖﺒﺜﻣ ﺡﺎﺒﺼﻣ</WallLamp.description>
+  
+</LanguageData>

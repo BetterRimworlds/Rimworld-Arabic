@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep pod -->
+  <AncientCryptosleepPod.label>ﺔﻤﻳﺪﻗ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺔﻟﻮﺴﺒﻛ</AncientCryptosleepPod.label>
+  <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
+  <AncientCryptosleepPod.description>. ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻻﺇ ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ ،ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺖﻴﺑﺍﻮﺗ ﺲﻜﻋ ﻰﻠﻋ. ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺔﻟﺎﺣ ﻲﻓ ﺪﺣﺍﻭ ﺺﺨﺷ ﻆﻔﺤﻟ ﻡﺍﺪﺨﺘﺳﻻﺍ ﺔﻳﺩﺎﺣﺃ ﺔﻟﻮﺴﺒﻛ</AncientCryptosleepPod.description>
+  
+  <!-- EN: ancient unstable fuel node -->
+  <AncientFuelNode.label>ﺓﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺔﻤﻳﺪﻗ ﺩﻮﻗﻭ ﺓﺪﻘﻋ</AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AncientFuelNode.description>. ﺔﻧﺎﻴﺼﻟﺍ ﻝﺎﻤﻫﺇ ﺐﺒﺴﺑ ﻦﻴﻨﺴﻟﺍ ﺮﻣ ﻰﻠﻋ ﺓﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺖﺤﺒﺻﺃ. ﺩﻮﻗﻮﻟﺎﺑ ﺕﻻﻵﺍ ﺪﻳﻭﺰﺘﻟ ﻲﺿﺎﻤﻟﺍ ﻲﻓ ﻡﺪﺨﺘﺳُﺗ ﺖﻧﺎﻛ ،ﺓﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺔﻤﻳﺪﻗ ﺩﻮﻗﻭ ﺓﺪﻘﻋ</AncientFuelNode.description>
+  
+  <!-- EN: hermetic crate -->
+  <AncientHermeticCrate.label>ﻢﻜﺤﻣ ﻕﻭﺪﻨﺻ</AncientHermeticCrate.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
+  <AncientHermeticCrate.description>. ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﺎﻬﺗﺎﻳﻮﺘﺤﻣ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻖﻳﺩﺎﻨﺼﻟﺍ ﻩﺬﻬﻟ ﻦﻜﻤﻳ. ﺔﻤﻴﻘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻆﻔﺤﻟ ﻕﻼﻏﻹﺍ ﻢﻜﺤﻣ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﻕﻭﺪﻨﺻ</AncientHermeticCrate.description>
+  
+</LanguageData>

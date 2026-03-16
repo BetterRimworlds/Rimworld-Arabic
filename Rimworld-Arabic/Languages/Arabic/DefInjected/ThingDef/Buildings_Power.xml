@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: battery -->
+  <Battery.label>ﺔﻳﺭﺎﻄﺑ</Battery.label>
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>. ﺭﺎﻨﻟﺍ ﻭﺃ ﺮﻄﻤﻠﻟ ﺎﻬﺿﺮﻌﺗ ﺪﻨﻋ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﺮﺠﻔﻨﺗ. ﺍًﻘﺣﻻ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻥﺰﺨﻳ</Battery.description>
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻮﺑ ﻞﻤﻌﻳ ﺪﻟﻮﻣ</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>. ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺍًﻳﻭﺪﻳ ﺩﻮﻗﻮﻟﺎﺑ ﻩﺪﻳﻭﺰﺗ ﺓﺩﺎﻋﺇ ﺐﺠﻳ. ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻙﻼﻬﺘﺳﺎﺑ ﺔﻗﺎﻄﻟﺍ ﺞﺘﻨﻳ</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: geothermal generator -->
+  <GeothermalGenerator.label>ﻲﺿﺭﺃ ﻱﺭﺍﺮﺣ ﺪﻟﻮﻣ</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description>. ﺭﺎﺨﺑ ﻉﻮﺒﻨﻳ ﻰﻠﻋ ﻪﻌﺿﻭ ﺐﺠﻳ. ﺔﻴﺿﺭﻷﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺭﺎﺨﺒﻟﺍ ﻊﻴﺑﺎﻨﻳ ﻦﻣ ًﺀﺎﺑﺮﻬﻛ ﺞﺘﻨﻳ</GeothermalGenerator.description>
+  
+  <!-- EN: hidden conduit -->
+  <HiddenConduit.label>ﻲﻔﺨﻣ ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</HiddenConduit.label>
+  <!-- EN: Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive. -->
+  <HiddenConduit.description>. ﺔﻔﻠﻜﺗ ﺮﺜﻛﺃﻭ ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺄﻄﺑﺃ ﺍًﻀﻳﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﻳﺩﺎﻌﻟﺍ ﺕﺍﻮﻨﻘﻟﺍ ﻦﻣ ﺔﻧﺎﺘﻣ ﺮﺜﻛﺃ ﺎﻬﻧﺇ. ﻥﺎﻜﻤﻟﺍ ﻝﻮﺣ ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻟ ﺔﻴﻔﺨﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﻼﺑﺎﻛ</HiddenConduit.description>
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>ﺔﻗﺎﻄﻠﻟ ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>. ﻯﺮﺧﻷﺍ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﺖﺤﺗ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ. ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻟ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺕﻼﺑﺎﻜﻟﺍ ﻦﻣ ﺔﻣﺰﺣ</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>ﺔﻗﺎﻃ ﺡﺎﺘﻔﻣ</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>. ﺔﻗﺎﻄﻟﺍ ﺊﻔﻄﻳ ﻭﺃ ﻞﻐﺸﻳ</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>ﻲﺴﻤﺷ ﺪﻟﻮﻣ</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>. ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺓﺀﺎﺿﻹﺍ ﺖﺤﺗ ﻭﺃ ﻡﻼﻈﻟﺍ ﻲﻓ ﻞﻤﻌﻳ ﻻ. ﺲﻤﺸﻟﺍ ﺀﻮﺿ ﻦﻣ ًﺀﺎﺑﺮﻬﻛ ﺞﺘﻨﻳ</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>ﺔﻴﺋﺎﻣ ﺔﻧﻮﺣﺎﻃ ﺪﻟﻮﻣ</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>. ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺗ ﻦﻣ ﻞﻠﻘﻳﻭ ﻞﺧﺍﺪﺘﻴﺳ ﻩﺪﻟﻮﺗ ﻱﺬﻟﺍ ﺏﺍﺮﻄﺿﻻﺍ ﻥﺈﻓ ،ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺍًﺪﺟ ًﺔﺒﻳﺮﻗ ﻩﺎﻴﻤﻟﺍ ﻦﻴﺣﺍﻮﻃ ﺖﻌﺿُﻭ ﺍﺫﺇ. ﺔﻳﺭﺎﺟ ٍﻩﺎﻴﻣ ﻲﻓ ﻪﺘﻠﺠﻌﺑ ﻪﻌﺿﻭ ﺐﺠﻳ. ﺎﻣ ٍﺮﻬﻧ ﻦﻣ ًﺀﺎﺑﺮﻬﻛ ﺞﺘﻨﻳ</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>ﺀﺎﻤﻠﻟ ﻡﻭﺎﻘﻣ ﻲﺋﺎﺑﺮﻬﻛ ﻞﺻﻮﻣ</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power through shallow water or mud. -->
+  <WaterproofConduit.description>. ﻞﺣﻮﻟﺍ ﻭﺃ ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍ ﺮﺒﻋ ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻟ ﺔﻟﻭﺰﻌﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﻼﺑﺎﻛ</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>ﺡﺎﻳﺭ ﻦﻴﺑﺭﻮﺗ</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>. ﻞﺜﻣﻷﺍ ﺀﺍﻮﻬﻟﺍ ﻖﻓﺪﺘﻟ ﻪﻔﻠﺧﻭ ﻪﻣﺎﻣﺃ ﺓﺮﻴﺒﻛ ﺔﻴﻟﺎﺧ ﺔﺣﺎﺴﻣ ﺐﻠﻄﺘﻳ. ﺔﻴﺋﺍﻮﻬﻟﺍ ﺔﻗﺎﻄﻟﺎﺑ ﻞﻤﻌﻳ ﻲﺋﺎﺑﺮﻬﻛ ﺩِّﻟﻭُﻣ</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>ﺐﻄﺣ ﺪﻟﻮﻣ</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>. ﺍًﻳﻭﺪﻳ ﻲﺒﺸﺨﻟﺍ ﺩﻮﻗﻮﻟﺎﺑ ﺔﻳﺭﻭﺩ ﺔﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﺐﻠﻄﺘﻳﻭ ،ﺐﺸﺨﻟﺍ ﻙﻼﻬﺘﺳﺎﺑ ﺔﻗﺎﻄﻟﺍ ﺞﺘﻨﻳ</WoodFiredGenerator.description>
+  
+</LanguageData>

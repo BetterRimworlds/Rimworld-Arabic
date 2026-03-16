@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: afro -->
+  <Afro.label>ﻭﺮﻓﺃ</Afro.label>
+  
+  <!-- EN: bald -->
+  <Bald.label>ﻊﻠﺻﺃ</Bald.label>
+  
+  <!-- EN: bob -->
+  <Bob.label>ﺏﻮﺑ ﺔﺼﻗ</Bob.label>
+  
+  <!-- EN: bowlcut -->
+  <Bowlcut.label>ﺀﺎﻋﻭ ﺓّﺻَﻗ</Bowlcut.label>
+  
+  <!-- EN: braided knot -->
+  <BraidedKnot.label>ﺓﺮﻔﻀﻣ ﺓﺪﻘﻋ</BraidedKnot.label>
+  
+  <!-- EN: bravo -->
+  <Bravo.label>ﻭڤﺍﺮﺑ</Bravo.label>
+  
+  <!-- EN: brief ponytail -->
+  <BriefPonytail.label>ﺮﻴﺼﻗ ﻥﺎﺼﺣ ﻞﻳﺫ</BriefPonytail.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>ﻱﺰﻣﺮﻗ</Burgundy.label>
+  
+  <!-- EN: cleopatra -->
+  <Cleopatra.label>ﺍﺮﺗﺎﺑﻮﻴﻠﻛ</Cleopatra.label>
+  
+  <!-- EN: curly -->
+  <Curly.label>ﺪﻌﺠﻣ</Curly.label>
+  
+  <!-- EN: cute -->
+  <Cute.label>ﻒﻴﻄﻟ</Cute.label>
+  
+  <!-- EN: decent -->
+  <Decent.label>ﺪﻴﺟ</Decent.label>
+  
+  <!-- EN: elder -->
+  <Elder.label>ﻦﺴﻣ</Elder.label>
+  
+  <!-- EN: fancy bun -->
+  <FancyBun.label>ﺔﻘﻴﻧﺃ ﺓﺮﻴﻔﺿ</FancyBun.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>ﻞﻌﺘﺷُﻣ</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>ﻲﺑﺎﻴﺴﻧﺍ</Flowy.label>
+  
+  <!-- EN: fringe -->
+  <Fringe.label>ﺮﺛﺎﻨﺘﻣ ﺮﻌﺷ</Fringe.label>
+  
+  <!-- EN: frozen -->
+  <Frozen.label>ﺪﻤﺠﻣ</Frozen.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>ﺔﻴﻨﻫﺩ ﺔﺤﻳﺮﺴﺗ</GreasySwoop.label>
+  
+  <!-- EN: junkie -->
+  <Junkie.label>ﻦﻣﺪﻣ</Junkie.label>
+  
+  <!-- EN: keeper -->
+  <Keeper.label>ﻆﻓﺎﺣ</Keeper.label>
+  
+  <!-- EN: lackland -->
+  <Lackland.label>ﺔﻠﺣﺎﻗ ﺲﻳﺭﺎﻀﺗ</Lackland.label>
+  
+  <!-- EN: locks -->
+  <Locks.label>ﺔﻟﻭﺪﺠﻣ ﺕﻼﺼﺧ</Locks.label>
+  
+  <!-- EN: long -->
+  <Long.label>ﻞﻳﻮﻃ</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>ﺮﺜﻌﺒﻣ</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>ﻙﻭﺎﻫﻮﻣ</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>ﻱﻮﺿﻮﻓ ﻒﻴﺜﻛ ﺮﻌﺷ</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>ﺮﻳﺰﻨﺨﻟﺍ ﻞﻳﺫ ﺮﺋﺎﻔﺿ</Pigtails.label>
+  
+  <!-- EN: ponytails -->
+  <Ponytails.label>ﻥﺎﺼﺣ ﻞﻳﺫ</Ponytails.label>
+  
+  <!-- EN: primal -->
+  <Primal.label>ﻲﺋﺍﺪﺑ</Primal.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>ﺓﺮﻴﻣﺃ</Princess.label>
+  
+  <!-- EN: randy -->
+  <Randy.label>ﻱﺪﻧﺍﺭ</Randy.label>
+  
+  <!-- EN: recruit -->
+  <Recruit.label>ﺪﻨﺠﻣ</Recruit.label>
+  
+  <!-- EN: revolt -->
+  <Revolt.label>ﺩﺮﻤﺗ</Revolt.label>
+  
+  <!-- EN: rockstar -->
+  <Rockstar.label>ﻙﻭﺭ ﻢﺠﻧ</Rockstar.label>
+  
+  <!-- EN: rookie -->
+  <Rookie.label>ﺉﺪﺘﺒﻣ</Rookie.label>
+  
+  <!-- EN: savage -->
+  <Savage.label>ﺶﺣﻮﺘﻣ</Savage.label>
+  
+  <!-- EN: scatman -->
+  <Scatman.label>ﻥﺎﻤﺗﺎﻜﺳ</Scatman.label>
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>ﺏﺮﻘﻋ ﻞﻳﺫ</ScorpionTail.label>
+  
+  <!-- EN: scrapper -->
+  <Scrapper.label>ﺓﺩﺮﺧ ﻊﻣﺎﺟ</Scrapper.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>ﺎﺘﻳﺭﻮﻴﻨﻴﺳ</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>ﻕﻮﻠﺤﻣ</Shaved.label>
+  
+  <!-- EN: shave top braid -->
+  <ShaveTopBraid.label>ﺔﻗﻮﻠﺤﻣ ﺔﻳﻮﻠﻋ ﺓﺮﻴﻔﺿ</ShaveTopBraid.label>
+  
+  <!-- EN: snazzy -->
+  <Snazzy.label>ﻖﻴﻧﺃ</Snazzy.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>ﻙﻮﺷ</Spikes.label>
+  
+  <!-- EN: sticky -->
+  <Sticky.label>ﺝِﺯَﻟ</Sticky.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>ﺔﺒﺗﺮﻣ ﻰﻠﻋﻷﺍ</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>ٍّﻦﻐﻣ ﻝﻮﺠﺘﻣ</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>ﺔﻟْﺻُﺧ</Tuft.label>
+  
+  <!-- EN: warden -->
+  <Warden.label>ﺱﺭﺎﺣ</Warden.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>ﺝﻮﻤﻣ</Wavy.label>
+  
+</LanguageData>

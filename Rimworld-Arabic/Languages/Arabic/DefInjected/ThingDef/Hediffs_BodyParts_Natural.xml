@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>ﺐﻠﻗ</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>. ﻢﺴﺠﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﻡﺪﻟﺍ ﺦﻀﻳ. ﻲﺟﻮﻟﻮﻴﺑ ﻱﺮﺸﺑ ﺐﻠﻗ</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>ﺔﻴﻠﻛ</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>. ﻪﻨﻣ ﺕﻼﻀﻔﻟﺍ ﻞﻳﺯُﺗﻭ ﻡﺪﻟﺍ ﻱِّﻔﺻُﺗ. ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﻳﺮﺸﺑ ﺔﻴﻠﻛ</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>ﺪﺒﻛ</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>. ﺾﻳﻷﺍ ﺔﻴﻠﻤﻋ ﻲﻓ ﺍًﻤﻬﻣ ﺍًﺭﻭﺩ ﻱﺩﺆﻳ. ﻲﺟﻮﻟﻮﻴﺑ ﻱﺮﺸﺑ ﺪﺒﻛ</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>ﺔﺋﺭ</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>. ﻱﺮﺸﺒﻟﺍ ﻲﺴﻔﻨﺘﻟﺍ ﺯﺎﻬﺠﻠﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺓﺍﻮﻨﻟﺍ ﺎﻬﻨﻣ ﺝﻭﺯ ﻝِّﻜﺷُﻳ. ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﻳﺮﺸﺑ ﺔﺋﺭ</Lung.description>
+  
+</LanguageData>

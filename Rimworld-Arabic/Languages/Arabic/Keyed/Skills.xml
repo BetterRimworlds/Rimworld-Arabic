@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Level -->
+  <Level>ﻯﻮﺘﺴﻣ</Level>
+  <!-- EN: skill level -->
+  <SkillLevel>ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</SkillLevel>
+  <!-- EN: Progress to next learned level -->
+  <ProgressToNextLevel>. ﺐﺴﺘﻜﻤﻟﺍ ﻲﻟﺎﺘﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻡﺪﻘﺘﻟﺍ</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>ﺓﺮﺒﺧ</Experience>
+  <!-- EN: Passion -->
+  <Passion>ﻒﻐﺷ</Passion>
+  <!-- EN: No passion -->
+  <PassionNone>ﺱﺎﻤﺣ ﻻ</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>ﻒﻐﺷ</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>ﻕﺮﺣُﻣ ﻒﻐﺷ</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>ﻢﻠﻌﺘﻟﺍ ﺔﻋﺮﺳ</LearningSpeed>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>){2} ـﺏ ﻲﻓﺎﺿﻹﺍ ﻢﻠﻌﺘﻟﺍ ﻒﻋﺎﻀﺗﻭ ،{1}/{0} (ﻡﻮﻴﻟﺍ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻡّﻠﻌﺗ</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>. ﺱﻭﺭﺪﻟﺍ ﺐﺘﻜﻣ ﻰﻠﻋ ﺱﻭﺭﺪﻟﺍ ﺬﺧﺃﻭ ﺭﺎﺒﻜﻟﺍ ﻞﻤﻋ ﺔﺒﻗﺍﺮﻤﺑ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻝﺎﻔﻃﻷﺍ ﻡّﻠﻌﺘﻳ</ChildrenLearn>
+  <!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>{0} ﻯﻮﺘﺴﻤﻟﺍ ﺪﻨﻋ ﺕﺍﺮﻴﺛﺄﺗ</EffectsAtLevel>
+  <!-- EN: MAX -->
+  <SkillMax>ﻰﺼﻗﻷﺍ</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>ﺐﺴﺘﻛُﻣ ﻯﻮﺘﺴﻣ</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>. ﺮﻔﺻ ﻰﻟﺇ ﻲﺒﻠﺴﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺗ</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>.{0} ﺪﻨﻋ ﻯﻮﺘﺴﻤﻟﺍ ﺪﻳﺪﺤﺗ ﻢﺗ</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>. ﻲﺛﺍﺭﻭ ﻦﻴﺟ</GeneLabelWithDesc>
+  <!-- EN: {TRAITLABEL} trait -->
+  <TraitLabelWithDesc>.{TRAITLABEL} ﺔﻔﺻ</TraitLabelWithDesc>
+
+  <!-- EN: Barely heard of it -->
+  <Skill0>. ﺍًﺒﻳﺮﻘﺗ ﻪﺑ ﻊﻤﺳُﻳ ﻢﻟ</Skill0>
+  <!-- EN: Utter beginner -->
+  <Skill1>ﺍًﻣﺎﻤﺗ ﺉﺪﺘﺒﻣ</Skill1>
+  <!-- EN: Beginner -->
+  <Skill2>ﺉﺪﺘﺒﻣ</Skill2>
+  <!-- EN: Basic familiarity -->
+  <Skill3>ﻲﺳﺎﺳﺃ ﻡﺎﻤﻟﺇ</Skill3>
+  <!-- EN: Some familiarity -->
+  <Skill4>ﺎﻣ ﺔﻔﻟﺃ</Skill4>
+  <!-- EN: Significant familiarity -->
+  <Skill5>ﺓﺮﻴﺒﻛ ﺔﻔﻟﺃ</Skill5>
+  <!-- EN: Capable amateur -->
+  <Skill6>. ﺀﻔﻛ ٍﻭﺎﻫ</Skill6>
+  <!-- EN: Weak professional -->
+  <Skill7>ﺍًﻴﻨﻬﻣ ﻒﻴﻌﺿ</Skill7>
+  <!-- EN: Employable professional -->
+  <Skill8>ﻒﻴﻇﻮﺘﻠﻟ ﻞﺑﺎﻗ ﻑﺮﺘﺤﻣ</Skill8>
+  <!-- EN: Solid professional -->
+  <Skill9>ﺱﺮﻤﺘﻣ ﻑﺮﺘﺤﻣ</Skill9>
+  <!-- EN: Skilled professional -->
+  <Skill10>ﺮﻫﺎﻣ ﻑﺮﺘﺤﻣ</Skill10>
+  <!-- EN: Very skilled professional -->
+  <Skill11>ًﺍﺪﺟ ﺮﻫﺎﻣ ﻑﺮﺘﺤﻣ</Skill11>
+  <!-- EN: Expert -->
+  <Skill12>ﺮﻴﺒﺧ</Skill12>
+  <!-- EN: Strong expert -->
+  <Skill13>ﺱﺮﻤﺘﻣ ﺮﻴﺒﺧ</Skill13>
+  <!-- EN: Master -->
+  <Skill14>ﺮﻴﺒﺧ</Skill14>
+  <!-- EN: Strong master -->
+  <Skill15>ﻱﻮﻗ ﺫﺎﺘﺳﺃ</Skill15>
+  <!-- EN: Region-known master -->
+  <Skill16>ًﺎﻴﻤﻴﻠﻗﺇ ﻑﻭﺮﻌﻣ ﺫﺎﺘﺳﺃ</Skill16>
+  <!-- EN: Region-leading master -->
+  <Skill17>ًﺎﻴﻤﻴﻠﻗﺇ ﺪﺋﺍﺭ ﺫﺎﺘﺳﺃ</Skill17>
+  <!-- EN: Planet-known master -->
+  <Skill18>ًﺎﻴﺒﻛﻮﻛ ﻑﻭﺮﻌﻣ ﺫﺎﺘﺳﺃ</Skill18>
+  <!-- EN: Planet-leading master -->
+  <Skill19>ًﺎﻴﺒﻛﻮﻛ ﺪﺋﺍﺭ ﺫﺎﺘﺳﺃ</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>ﻱﺭﻮﻄﺳﺃ ﺫﺎﺘﺳﺃ</Skill20>
+  
+</LanguageData>

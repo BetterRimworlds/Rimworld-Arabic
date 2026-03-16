@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg --><!-- EN: wargo -->
+  <Warg.label>ﻮﻏﺭﺍﻭ</Warg.label><!-- EN: wargos -->
+  <Warg.labelPlural>ﺱﻮﻏﺭﺍﻭ</Warg.labelPlural>
+  <!-- EN: warg puppy --><!-- EN: warguezno -->
+  <Warg.lifeStages.warg_puppy.label>ﻮﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.label><!-- EN: warguezna -->
+  <Warg.lifeStages.warg_puppy.labelFemale>ﺎﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.labelFemale><!-- EN: wargueznas -->
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>ﺱﺎﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.labelFemalePlural><!-- EN: warguezno -->
+  <Warg.lifeStages.warg_puppy.labelMale>ﻮﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.labelMale><!-- EN: wargueznos -->
+  <Warg.lifeStages.warg_puppy.labelMalePlural>ﺱﻮﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <!-- EN: warg puppies --><!-- EN: wargueznos -->
+  <Warg.lifeStages.warg_puppy.labelPlural>ﺱﻮﻧﺰﻴﻏﺭﺍﻭ</Warg.lifeStages.warg_puppy.labelPlural><!-- EN: wargo joven -->
+  <Warg.lifeStages.1.label>ﻊﻓﺎﻳ ﻮﻏﺭﺍﻭ</Warg.lifeStages.1.label><!-- EN: wargos jóvenes -->
+  <Warg.lifeStages.1.labelPlural>ﺭﺎﻐﺻ ﺱﻮﻏﺭﺍﻭ</Warg.lifeStages.1.labelPlural><!-- EN: wargo -->
+  <Warg.lifeStages.2.label>ﻮﻏﺭﺍﻭ</Warg.lifeStages.2.label><!-- EN: wargos -->
+  <Warg.lifeStages.2.labelPlural>ﺱﻮﻏﺭﺍﻭ</Warg.lifeStages.2.labelPlural>
+  
+</LanguageData>

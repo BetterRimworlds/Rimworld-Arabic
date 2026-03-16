@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>ﻲﺋﺎﻬﻧﻻ ﻲﺋﺎﻴﻤﻴﻛ ﻞﻋﺎﻔﻣ</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>. ﺀﺍﻮﻬﻟﺍ ﻦﻣ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺕﺍﺭﺬﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ،ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﻦﻣ ﺓﺪﻘﻌﻣ ﺔﻠﺴﻠﺳ ﻝﻼﺧ ﻦﻣ ﺀﻄﺒﺑ ﺍًّﻴﺋﺎﻴﻤﻴﻛ ﺍًﺩﻮﻗﻭ ﺞﺘﻨﻳ</InfiniteChemreactor.description>
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>ﻲﺴﻔﻧ ﻊﺷُﻣ</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>. ﻥﺍﺭﺪﺠﻟﺍ ﺮﺒﻋ ﻞﻤﻌﻳ. ﺐﻳﺮﻗ ﺺﺨﺷ ﻱﺃ ﺝﺍﺰﻣ ﻥّﺴﺤﻳ ﺎﻤﻣ ،ﻪﻟﻮﺣ ﺍًﺋﺪﻬﻣ ﺍًﻴﺴﻔﻧ ﺍًﻠﻘﺣ ﺭﺪﺻُﻳ ﻢﻳﺪﻗ ﺯﺎﻬﺟ</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>ﺔﻳﺮﺘﻣﻮﻧﺎﻓ ﺔﻗﺎﻃ ﺔﻴﻠﺧ</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>. ﺔﻴﻣﻮﻤﻜﻟﺍ ﺓﻮﻏﺮﻟﺍ ﻲﻓ ﺕﺎﺒﻠﻘﺘﻟﺍ ﻦﻣ ًﺓﺮﺷﺎﺒﻣ ﺔﻗﺎﻄﻟﺍ ﺺﻠﺨﺘﺴﺗ ﺎﻬﻧﺃ ﺀﺎﻤﻠﻌﻟﺍ ﺪﻘﺘﻌﻳ ،ﻞﻤﻌﺗ ﻒﻴﻛ ﻂﺒﻀﻟﺎﺑ ﻑﺮﻌﻳ ﺪﺣﺃ ﻻ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﺕﺎﻌﻤﺘﺠﻣ ﻢﻈﻌﻣ ﻰﺘﺣ ﺯﻭﺎﺠﺘﺗ ﻲﻫﻭ ،ﻚﻴﺗﻮﻛﺭﻷﺍ ﺔﻄﺳﺍﻮﺑ ﺔﻴﻨﻘﺘﻟﺍ ﻩﺬﻫ ﺕﺭِّﻭُﻃ. ﺩﻮﻗﻭ ﻡﺍﺪﺨﺘﺳﺍ ﻥﻭﺩ ،ﺪﺑﻷﺍ ﻰﻟﺇ ًﺔﻴﻧﺎﺠﻣ ًﺔﻗﺎﻃ ﺩِّﻟﻭُﻳ</VanometricPowerCell.description>
+  
+</LanguageData>

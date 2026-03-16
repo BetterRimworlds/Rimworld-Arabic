@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: billiards table -->
+  <BilliardsTable.label>ﻭﺩﺭﺎﻴﻠﺑ ﺔﻟﻭﺎﻃ</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>. ﺐﻳﻮﺼﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻰﻠﻋ ﺏﺭﺪﺗ. ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺏﺎﻌﻟﺃ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ ﺐﻌﻠﻟ ﺓﺩﺪﺤﻣﻭ ﻢﻋﺎﻧ ﺢﻄﺳ ﺕﺍﺫ ﺔﻟﻭﺎﻃ</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>ﺞﻧﺮﻄﺷ ﺔﻟﻭﺎﻃ</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
+  <ChessTable.description>. ﺔﻳﺮﻜﻔﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺏﺭﺪﺗ. ﻙﺩﺮﻔﻤﺑ ﺐﻌﻠﻟﺍ ﺪﻨﻋ ﻰﺘﺣ ،ﻙﺎﻨﻫﻭ ﺎﻨﻫ ﺕﺎﻋﺎﺳ ﻊﻀﺒﻟ ﺔﻌﺘﻤﻣ. ﻙﻮﻠﻤﻠﻟ ﺔﻤﻳﺪﻗ ﺔﺒﻌﻟ\n\n. ﻡﺍﺪﺨﺘﺳﻼﻟ ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻭﺃ ﻲﺳﺍﺮﻛ ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>ﺔﺤﻄﺴﻣ ﻥﻮﻳﺰﻔﻠﺗ ﺔﺷﺎﺷ</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>. ﺓﺮﺸﺘﻨﻤﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺕﺎﻗﺎﻄﺑﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﻦﻣ ﺚﺒﻟﺍ ﻂﻘﺘﻠﻳ. ﺔﻴﻨﻏ ﻥﺍﻮﻟﺃﻭ ﺡﻮﺿﻮﻟﺍ ﺔﻘﺋﺎﻓ ﺓﺭﻮﺼﺑ ﺰﻴﻤﺘﻳ ﺭﻮﻄﺘﻣ ﺔﺤﻄﺴﻣ ﺔﺷﺎﺸﺑ ﻥﻮﻳﺰﻔﻠﺗ</FlatscreenTelevision.description>
+  
+  <!-- EN: Game-of-Ur board -->
+  <GameOfUrBoard.label>ﺭﻭﻷﺍ ﺔﺒﻌﻟ ﺔﺣﻮﻟ</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>. ﺔﻳﺮﻜﻔﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺏﺭﺪﺗﻭ ،ﻦﻴﺼﺨﺷ ﻭﺃ ﺺﺨﺷ ﻞﺒﻗ ﻦﻣ ﺎﻬﺒﻌﻟ ﻦﻜﻤﻳﻭ ،ﺩﻼﻴﻤﻟﺍ ﻞﺒﻗ 2500 ﻡﺎﻋ ﻰﻟﺇ ﺔﻘﻫﺮﻤﻟﺍﻭ ﺓﺮﻴﺜﻤﻟﺍ ﺔﻴﺣﻮﻠﻟﺍ ﺔﺒﻌﻠﻟﺍ ﻩﺬﻫ ﺩﻮﻌﺗ</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>ﻕﻮﻄﻟﺍ ﺮﺠﺣ ﺔﻘﻠﺣ</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>. ﺐﻳﻮﺼﺘﻟﺍ ﺕﺍﺭﺎﻬﻣ ﺏّﺭﺩُﺗﻭ ﺔﺤﻳﺭُﻣ ﺎﻬﻧﺇ. ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻘﻠﺤﻟﺍ ﺮﺒﻋ ﺓﺭﺎﺠﺤﻟﺍ ﻲﻣﺭ ﻥﻮﺒﻋﻼﻟﺍ ﻝﻭﺎﺤﻳ. ﺽﺭﻷﺍ ﻲﻓ ﺓﺮﻴﺒﻛ ﺔﻘﻠﺣﻭ ﺓﺭﺎﺠﺤﻟﺎﺑ ﺏَﻌﻟُﺗ ﺔﻄﻴﺴﺑ ﺔﻤﻳﺪﻗ ﺔﺒﻌﻟ</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﺮﻴﻣﺎﺴﻣ</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>. ﻲﻣَّﺮﻟﺍ ﺕﺍﺭﺎﻬﻣ ﺏِّﺭﺩُﺗﻭ ﺔﺤﻳﺭُﻣ ﺎﻬﻧﺇ. ﺭﺎﻤﺳِﻤﻟﺍ ﻰﻠﻋ ّﻂﺤﺘﻟ ﺕﺍﻭﺪﺤﻟﺍ ﻲﻣﺭ ﻥﻮﺒﻋﻼﻟﺍ ﻝﻭﺎﺤﻳ. ﺽﺭﻷﺍ ﻲﻓ ﺮﻴﺒﻛ ﺭﺎﻤﺳِﻣﻭ ﺕﺍﻭﺪﺤﻟﺎﺑ ﺱﺭﺎﻣُﺗ ﺔﻄﻴﺴﺑ ﺔﻤﻳﺪﻗ ﺔﺒﻌﻟ</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>ﺔﻤﺨﺿ ﻥﻮﻳﺰﻔﻠﺗ ﺔﺷﺎﺷ</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>. ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺓﺮﺸﺘﻨﻤﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺕﺎﻗﺎﻄﺑﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﻦﻣ ﺍًﺜﺑ ﻂﻘﺘﻠﻳ. ﺔﻳﺎﻐﻠﻟ ﺔﻴﻠﺴﻣ. ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﺝﺮﺨﺗ ﺩﺎﻜﺗ ﺔﻳﻮﻴﺤﻟﺍ ﺔﻘﺋﺎﻓ ﺔﻗﻼﻤﻋ ﺭﻮﺻ. ﺔﻴﻨﻘﺘﻟﺍ ﺔﻴﻟﺎﻋﻭ ﺔﻤﺨﺿ ﻥﻮﻳﺰﻔﻠﺗ ﺔﺷﺎﺷ</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>ﺮﻛﻮﺑ ﺔﻟﻭﺎﻃ</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
+  <PokerTable.description>. ﻆﺤﻟﺍ ﻦﻣ ﻞﻴﻠﻗﻭ ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻚﺗﺍﺭﺎﻬﻣ ﺭﺎﺒﺘﺧﻻ ﺔﻌﺋﺍﺭ ﺔﻘﻳﺮﻃ ﺎﻬﻧﺇ. ﺮﻛﻮﺒﻟﺍ ﻞﺜﻣ ﺔﻳﺭﺎﻤﻘﻟﺍ ﻕﺭﻮﻟﺍ ﺏﺎﻌﻟﺃ ﺐﻌﻠﻟ ﺔﻤﻤﺼﻣ ﺔﻟﻭﺎﻃ\n\n. ﻡﺍﺪﺨﺘﺳﻼﻟ ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻭﺃ ﻲﺳﺍﺮﻛ ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ ﺐﻠﻄﺘﻳ</PokerTable.description>
+  
+  <!-- EN: telescope -->
+  <Telescope.label>ﻲﻜﻠﻓ ﺭﺎﻈﻨﻣ</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>. ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﻻﺇ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ. ﺱﺎﻨﻟﺍ ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻨﻟ ﺔﺤﻳﺮﻣ ﺔﻳﺍﻮﻫ ﻪﻧﺇ. ﺓﺍﻮﻬﻟﺍ ﻚﻠﻔﻟﺍ ﻢﻠﻋ ﺔﺳﺭﺎﻤﻤﻟ ﺏﻮﻜﺴﻠﺗ</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>ﻲﺑﻮﺒﻧﺃ ﻥﻮﻳﺰﻔﻠﺗ</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>. ﻒﻴﻔﻃ ﻞﻜﺸﺑ ﻡﺎﻤﺘﻫﻼﻟ ﺍًﺮﻴﺜﻣ ﻞﻗﻷﺍ ﻰﻠﻋ ﺎﻣ ﺍًﺌﻴﺷ ﺚﺒﻳ ﻢﻳﺪﻗ ﻝﺎﺳﺭﺇ ﺯﺎﻬﺟ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ ،ﺔﻴﺋﺎﻨﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ﻰﺘﺣ. ﺕﻮﺼﻟﺍ ﻊﻣ ﺔﻛﺮﺤﺘﻤﻟﺍ ﺭﻮﺼﻟﺍ ﺽﺮﻌﻟ ﺩﻮﺛﺎﻜﻟﺍ ﺔﻌﺷﺃ ﺏﻮﺒﻧﺃ ﺔﺷﺎﺷ</TubeTelevision.description>
+  
+</LanguageData>

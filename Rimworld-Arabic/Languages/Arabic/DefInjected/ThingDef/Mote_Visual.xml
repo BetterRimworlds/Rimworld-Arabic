@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <CracksShieldBreak.label>ٌﻡْﻳَﺳُﺟ</CracksShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <FlashShieldBreak.label>ٌﻡْﻳَﺳُﺟ</FlashShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <GroundCrackHuge.label>ٌﻡْﻳَﺳُﺟ</GroundCrackHuge.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorCountdownGlow.label>ٌﻡْﻳَﺳُﺟ</Mote_ActivatorCountdownGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorProximityGlow.label>ﻡْﻳَﺳُﺟ</Mote_ActivatorProximityGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_AnimalWarcallDistortion.label>ﻡْﻳَﺳُﺟ</Mote_AnimalWarcallDistortion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_AnimalWarcallFlash.label>ﻡْﻳَﺳُﺟ</Mote_AnimalWarcallFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Bombardment.label>ﻡْﻳَﺳُﺟ</Mote_Bombardment.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonBreaking.label>ٌﻡْﻳَﺳُﺟ</Mote_CocoonBreaking.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedFlyingPiece.label>ٌﻡْﻳَﺳُﺟ</Mote_CocoonDestroyedFlyingPiece.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedFlyingSlime.label>ﻡْﻳَﺳُﺟ</Mote_CocoonDestroyedFlyingSlime.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedMist.label>ٌﻡْﻳَﺳُﺟ</Mote_CocoonDestroyedMist.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CookBit.label>ﻡْﻳَﺳُﺟ</Mote_CookBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitMeat.label>ﻡْﻳَﺳُﺟ</Mote_FoodBitMeat.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitVegetarian.label>ٌﻡْﻳَﺳُﺟ</Mote_FoodBitVegetarian.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForcedVisible.label>ٌﻡْﻳَﺳُﺟ</Mote_ForcedVisible.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJob.label>ٌﻡْﻳَﺳُﺟ</Mote_ForceJob.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJobMaintained.label>ٌﻡْﻳَﺳُﺟ</Mote_ForceJobMaintained.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosion.label>ﻡْﻳَﺳُﺟ</Mote_GiantExplosion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosionInner.label>ٌﻡْﻳَﺳُﺟ</Mote_GiantExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Hacking.label>ٌﻡْﻳَﺳُﺟ</Mote_Hacking.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Leaf.label>ﻡْﻳَﺳُﺟ</Mote_Leaf.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerBeam.label>ٌﻡْﻳَﺳُﺟ</Mote_PowerBeam.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerCellBurning.label>ٌﻡْﻳَﺳُﺟ</Mote_PowerCellBurning.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicConditionCauserEffect.label>ٌﻡْﻳَﺳُﺟ</Mote_PsychicConditionCauserEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicEmanatorEffect.label>ٌﻡْﻳَﺳُﺟ</Mote_PsychicEmanatorEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectAbility.label>ﻡْﻳَﺳُﺟ</Mote_ResurrectAbility.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectFlash.label>ﻡْﻳَﺳُﺟ</Mote_ResurrectFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFastBright.label>ﻡْﻳَﺳُﺟ</Mote_SparkThrownFastBright.label>
+  
+  <!-- EN: Mote -->
+  <Mote_StoneBit.label>ٌﻡْﻳَﺳُﺟ</Mote_StoneBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TerrorHalo.label>ٌﻡْﻳَﺳُﺟ</Mote_TerrorHalo.label>
+  
+  <!-- EN: Mote -->
+  <Mote_VomitBit.label>ٌﻡْﻳَﺳُﺟ</Mote_VomitBit.label>
+  
+</LanguageData>

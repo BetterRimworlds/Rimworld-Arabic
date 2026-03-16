@@ -1,0 +1,39 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: doctor --><!-- EN: doctor -->
+  <Test_Ternary_Simple>‏طبيب‏‎</Test_Ternary_Simple>
+
+  <!-- EN: He said "Wait..." --><!-- EN: He said "Wait..." -->
+  <Test_Ternary_Punctuation>‏انتظر…‏‎</Test_Ternary_Punctuation><!-- EN: He said "Wait..." -->
+
+
+  <Test_Job.label>انتظر…</Test_Job.label>
+  <Test_Job.labelFemale>انتظار…</Test_Job.labelFemale>
+
+  <!-- EN: The {0} doctor --><!-- EN: The {0} doctor -->
+  <Test_Job_Desc.description>‏الطبيب {0}‏‎</Test_Job_Desc.description>
+  <Test_Job_Desc.descriptionFemale>‏الطبيبة {0}‏‎</Test_Job_Desc.descriptionFemale>
+
+
+  <!-- EN: {0} died. --><!-- EN: {0} died. -->
+  <Test_Var_Start>‏توفي {0}.‏‎</Test_Var_Start>
+
+  <!-- EN: {0} and {1} --><!-- EN: {0} and {1} -->
+  <Test_Multi_Var>‏{0} و {1}‏‎</Test_Multi_Var>
+
+  <!-- EN: medieval‑level technology --><!-- EN: medieval‑level technology -->
+  <Test_Glossary_Mix>تقنية عصر القرون الوسطى</Test_Glossary_Mix>
+
+
+  <!-- EN: (Start) --><!-- EN: (Start) -->
+  <Test_Paren_Start>‏بدء‏‎</Test_Paren_Start>
+
+  <!-- EN: End. --><!-- EN: End. -->
+  <Test_Simple_End>‏إنهاء.‏‎</Test_Simple_End>
+
+  <!-- EN: Plow, dig, drive ox‑drawn carts, push wheelbarrows. Dig trenches, plant seeds, predict the harvest. --><!-- EN: Plow, dig, drive ox‑drawn carts, push wheelbarrows. Dig trenches, plant seeds, predict the harvest. -->
+  <MedievalFarmOaf58.description>الحراثة، الحفر، قيادة عربات تجرها الثيران، دفع عربات يدوية. حفر الخنادق، زراعة البذور، التنبؤ بالحصاد.</MedievalFarmOaf58.description>
+
+</LanguageData>
+```

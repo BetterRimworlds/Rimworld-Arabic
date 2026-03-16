@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>{PAWN_gender ? بصفته حدادًا على عالم من القرون الوسطى، اكتسب [PAWN_nameDef] سمعة طيبة لجودة عمله العالية. ولم يكن سيئًا في استخدام السيوف التي صنعها أيضًا. : بصفتها حدّادة على عالم من القرون الوسطى، اكتسبت [PAWN_nameDef] سمعةً لجودة عملها العالية. ولم تكن سيئة في استخدام السيوف التي صنعتهَا أيضًا.}</Blacksmith72.description>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>حداد</Blacksmith72.title>
+  <Blacksmith72.titleFemale>حدادة</Blacksmith72.titleFemale>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>حداد</Blacksmith72.titleShort>
+  <Blacksmith72.titleShortFemale>حدادة</Blacksmith72.titleShortFemale>
+  
+
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>{PAWN_gender ? عمل [PAWN_nameDef] كطبيب في كوكب من العصور الوسطى. يؤمن بشدة بأن معظم الأمراض يمكن علاجها بقليل من التفريغ الدموي.\n\nكان أيضًا طبيب تخدير ماهرًا، حيث طور تقنية متخصصة تتضمن ضربة قوية على الرأس. : عملت [PAWN_nameDef] كطبيبة على كوكب من العصور الوسطى. وهي تؤمن بشدة بأن معظم الأمراض يمكن علاجها بقليل من التفريغ الدموي.\n\nكانت أيضًا طبيبة تخدير ماهرة، وطورت تقنية متخصصة تتضمن ضربة قوية على الرأس.}</MedievalDoctor40.description>
+
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>{PAWN_gender ? عاش [PAWN_nameDef] في الغابة بالقرب من قرية. على الرغم من أن العديد من القرويين كانوا يخشونه، إلا أن القرويين المرضى كانوا يأتون إليه لشراء المراهم والضمادات المصنوعة من الأعشاب التي يزرعها في حديقته. كان سعيدًا بمساعدتهم — مقابل سعر. : عاشت [PAWN_nameDef] في الغابة بالقرب من قرية. وعلى الرغم من أن العديد من القرويين كانوا يخشونها، إلا أن القرويين المرضى كانوا يأتون إليها لشراء المراهم والضمادات المصنوعة من الأعشاب التي كانت تزرعها في حديقتها. كانت سعيدة بمساعدتهم — مقابل سعر.}</Herbalist54.description>
+
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>{PAWN_gender ? استكشف [PAWN_nameDef] المحيطات على متن سفينة خشبية، باحثًا عن عينات نباتية وحيوانية من أماكن غريبة، ومدافعًا أحيانًا عن نفسه ضد قراصنة. لقد أحب البحر كثيرًا لدرجة أنه رفض القيام بأي عمل على اليابسة إلا بالحد الأدنى الضروري، باستثناء بيع الكنوز التي جمعها. : استكشفت [PAWN_nameDef] المحيطات على متن سفينة خشبية، باحثةً عن عينات نباتية وحيوانية من أماكن غريبة، وكانت تردع أحيانًا قراصنة. لقد أحبت البحر كثيرًا لدرجة أنها رفضت القيام بأي عمل على اليابسة إلا بالحد الأدنى الضروري، باستثناء بيع الكنوز التي جمعتها.}</MedievalSailor97.description>
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>ﻲﻠﺒﺟ ﺪﻬﻓ</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>. ﺎﻬﻴﻠﻋ ﺾﻘﻨﻳ ﻥﺃ ﻞﺒﻗ ﺔﻴﻔﺨﻣ ﻊﻗﺍﻮﻣ ﻦﻣ ﻪﺴﺋﺍﺮﻔﺑ ﺺﺑﺮﺘﻳ. ﺓﺩﺎﺣﻭ ﺔﻠﻳﻮﻃ ﺐﻟﺎﺨﻣﻭ ﺍًﻧﺎﻨﺳﺃ ﻚﻠﺘﻤﻳ ﺩﺮﻔﻨﻣ ﺩﺎﻴﺻ ﻮﻫﻭ ،ﺓﺮﻴﺒﻜﻟﺍ ﻂﻄﻘﻟﺍ ﺮﻄﺧﺃ ﻦﻣ ﺮﺟﻮﻜﻟﺍ ّﺪﻋُﻳ\n\n. ﻝﺎﻨﻤﻟﺍ ﻞﻬﺳ ﻱﺮﺸﺑ ﻢﺤﻟ ﻦﻣ ﺔﺒﺟﻭ ﺾﻓﺮﻳ ﻦﻟ ﻪﻧﺃ ﻻﺇ ،ﺩﺎﺘﻌﻤﻟﺍ ﻪﺋﺍﺬﻏ ﻦﻣ ﺍًﺀﺰﺟ ﺍﻮﺴﻴﻟ ﺮﺸﺒﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Cougar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Cougar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Cougar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Cougar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>ﺱﺃﺭ</Cougar.tools.head.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>ﻖﺷﻭ</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
+  <Lynx.description>. ﺔﻳﺪﻴﻠﺠﻟﺍ ﻪﻘﻃﺎﻨﻣ ﻲﻓ ﺱﺭﺎﻘﻟﺍ ﺩﺮﺒﻟﺍ ﻦﻣ ﺊﻓﺍﺪﻟﺍ ﻒﻴﺜﻜﻟﺍ ﻩﺅﺍﺮﻓ ﻪﻴﻤﺤﻳ. ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺭﻮﻴﻄﻟﺍ ﻰﻠﻋ ﻖﺷﻮﻟﺍ ﺶﻴﻌﻳ. ﺮﺟﻮﻜﻟﺍ ﻦﻣ ﺮﻐﺻﺃ ﻦﻜﻟ ﻲﻟﺰﻨﻤﻟﺍ ﻂﻘﻟﺍ ﻦﻣ ﺮﺒﻛﺃ ﻱﺮﺑ ﻂﻗ</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Lynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Lynx.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Lynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Lynx.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>ﺱﺃﺭ</Lynx.tools.head.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>ﺪﻬﻓ</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>. ﻢﺟﺎﻤﺠﻟﺍ ﻖﺤﺳ ﻰﻠﻋ ﺓﺭﺩﺎﻘﻟﺍ ﺔﻠﺋﺎﻬﻟﺍ ﻪﺗﻮﻗ ﻪﻨﻣ ﻥﻮﺑﺮﺘﻘﻳ ﻦﻣ ﻙﺭﺩُﻳ ﺎﻤﻴﻓ ،ﺔﻘﻴﻧﻷﺍ ﻪﺗﺎﻛﺮﺤﺑ ﺭﺎﻬﺒﻧﻻﺍ ﻰﻟﺇ ﻥﻮﺟﺮﻔﺘﻤﻟﺍ ﻞﻴﻤﻳ. ﺀﺍﻮﺳ ٍّﺪﺣ ﻰﻠﻋ ﺎﻫﺮﻴﻐﺻﻭ ﺎﻫﺮﻴﺒﻛ ﺲﺋﺍﺮﻔﻟﺍ ﺩﺎﻴﻄﺻﺍ ﺩﻮﺳﻷﺍ ﺪﻬﻔﻟﺍ ﻦﻘﺘﻳ ،ﺍًﻟﺰﻌﻨﻣ ﺍًﻨﻴﻤﻛ ﺍًﺳﺮﺘﻔﻣ ﻪﻔﺻﻮﺑ. ﺔﻤﻳﺪﻘﻟﺍ ﺽﺭﻷﺍ ﺕﺎﺑﺎﻏ ﻲﻠﺻﻷﺍ ﻪﻨﻃﻮﻣ ،ﻱﻮﻗﻭ ﻖﻴﺷﺭ ﺮﻴﺒﻛ ﻂﻗ</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Panther.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Panther.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Panther.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Panther.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panther.tools.head.label>ﺱﺃﺭ</Panther.tools.head.label>
+  
+</LanguageData>

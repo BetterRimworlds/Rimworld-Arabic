@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>ﻢﻳﺪﻗ ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>؟ﻱﻮﺘﺤﻳ ﺪﻗ ﺍﺫﺎﻣ ﻱﺭﺪﻳ ﻦﻣ. ًﺍﺪﺟ ﺪﻴﻌﺑ ﻦﻣﺯ ﺬﻨﻣ ﺎﻨﻫ ﺩﻮﺟﻮﻣ ﺍﺬﻫ ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﻮﺑﺎﺗ ﻥﺃ ﻭﺪﺒﻳ</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>ﺔﻠﻓﺎﻗ ﻂﺑﺭ ﺔﻄﻘﻧ</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>. ﻝﻮﺠﺘﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻨﻤﻟ ﻝﺰﻨﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ ﺕﺎﻬﺟﺍﻮﻤﻟﺍ ﻝﻼﺧ ﻦﻛﺎﻣﻷﺍ ﻩﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ. ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻤﺤﺗ ﺀﺎﻨﺛﺃ ﺎﻨﻫ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﺑﺮﻴﺳ. ﻞﻓﺍﻮﻘﻟﺍ ﻞﻴﻜﺸﺗﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻂﺑﺮﻟ ﺍًﻧﺎﻜﻣ ﺩﺪﺣُﻳ</CaravanPackingSpot.description>
+  
+  <!-- EN: cave exit -->
+  <CaveExit.label>ﻒﻬﻛ ﺝﺮﺨﻣ</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>. ﻱﻮﻠﻋ ﺢﻄﺴﺑ ﻂﺑﺮﻳ ﻞﺒﺣ</CaveExit.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>ﺕﻻﺎﺼﺗﺍ ﺓﺪﺣﻭ</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>. ﻦﻴﻳﺭﺍﺪﻤﻟﺍ ﺭﺎﺠﺘﻟﺍﻭ ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺎﺑ ﻲﻜﻠﺳﻼﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻦﻣ ﻥّﻜﻣُﻳ</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>ﺱﻮﻟﻮﺑﺎﻳﺩ ﺪﻳﺪﻬﺗ ﺀﺎﻋﺪﺘﺳﺍ</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>ﺓﺮﻔﺣ</CraterLarge.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterLarge.description>. ﺭﺎﺠﻔﻧﺍ ﻭﺃ ﻱﻮﻗ ﺮﻴﺛﺄﺗ ﺐﺒﺴﺑ ﺖﻠﻜﺸﺗ ﺓﺮﻴﻐﺻ ﺓﺮﻔﺣ</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>ﺓﺮﻔﺣ</CraterMedium.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterMedium.description>. ﺭﺎﺠﻔﻧﺍ ﻭﺃ ﻱﻮﻗ ﺮﻴﺛﺄﺗ ﺐﺒﺴﺑ ﺖﻠﻜﺸﺗ ﺓﺮﻴﻐﺻ ﺓﺮﻔﺣ</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>ﺓﺮﻔﺣ</CraterSmall.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterSmall.description>. ﺭﺎﺠﻔﻧﺍ ﻭﺃ ﻱﻮﻗ ﺮﻴﺛﺄﺗ ﺐﺒﺴﺑ ﺖﻠﻜﺸﺗ ﺓﺮﻴﻐﺻ ﺓﺮﻔﺣ</CraterSmall.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>ﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>. ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ﺕﺎﺒﺳ ﺔﻟﺎﺣ ﻲﻓ ﺺﺨﺷ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﻢﻤﺼﻣ ﺔﻗﺎﻄﻟﺍ ﻲﺗﺍﺫ ﺕﻮﺑﺎﺗ</CryptosleepCasket.description>
+  
+  <!-- EN: delayed effecter spawner -->
+  <DelayedEffecterSpawner.label>ﺔﻠﺟﺆﻣ ﺕﺍﺮﺛﺆﻣ ﺪﻟﻭُﻣ</DelayedEffecterSpawner.label>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>ﺾﻴﺑ ﻕﻭﺪﻨﺻ</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>. ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻒﻠﺘﻟﺍ ﻦﻣ ﻲﻤﺤﻳ ﻻ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻒﻠﺘﻟﺍ ﻦﻣ ﺍًﻀﻳﺃ ﺾﻴﺒﻟﺍ ﻕﻭﺪﻨﺼﻟﺍ ﻲﻤﺤﻳ. ﺖﻗﻮﻟﺍ ﺮﻴﻓﻮﺘﻟ ،ﻕﻭﺪﻨﺼﻟﺍ ﺊﻠﺘﻤﻳ ﺎﻣﺪﻨﻋ ﻂﻘﻓ ﺾﻴﺒﻟﺍ ﻞﻛ ﻥﻮﻟﺎﻤﺤﻟﺍ ﻞﻘﻨﻴﺳ. ﻦﻜﻣﺃ ﺍﺫﺇ ﺾﻴﺒﻟﺍ ﻖﻳﺩﺎﻨﺻ ﻲﻓ ﺾﻴﺒﻟﺍ ﻊﻀﺘﺳ ﺾﻴﺒﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ. ﺾﻴﺒﻟﺍ ﻆﻔﺤﻟ ﻢﻤﺼﻣ ﺔﻤﻋﺎﻧ ﺓﺩﺎﻤﺑ ﻕﻭﺪﻨﺻ</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>ﻖﻳﺮﺣ ﺓﻮﻏﺭ ﻑﺫﺎﻗ</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>. ﺍًﻳﻭﺪﻳ ﻪﻠﻴﻐﺸﺗ ﺍًﻀﻳﺃ ﻦﻜﻤﻳﻭ. ﻪﻟﻮﺣ ﻱﺮﺋﺍﺩ ﻞﻘﺣ ﻲﻓ ﻖﻳﺮﺤﻠﻟ ﺔﻄﺒﺜﻣ ﺓﻮﻏﺭ ﺵﺮﻳﻭ ﻦﻣﻵﺍ ﺯﺎﻬﺠﻟﺍ ﺍﺬﻫ ﺮﺠﻔﻨﻳ ،ﺭﺎﻨﻟﺍ ﻒﺸﺘﻜﻳ ﺎﻣﺪﻨﻋ</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>{0_label} ﻞﻐﺸﻣ</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>ﺮﺒﻗ</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>. ﺔﻴﻠﻣﺄﺗ ﺔﺠﻬﺑ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺔﺌﻠﺘﻤﻤﻟﺍ ﺭﻮﺒﻘﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﻭﺰﻴﺳ. ﻖﺋﻻ ﻲﺋﺎﻬﻧ ﻦﻓﺩ ﻥﺎﻜﻣ</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>ﺬﻓﺎﻧ ﻲﺿﺭﺃ ﺢﺳﺎﻣ</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>. ﻒﻘﺳ ﺖﺤﺗ ﻞﻤﻌﺗ ﻻ. ﻪﺟﺍﺮﺨﺘﺳﻻ ﺔﻘﻴﻤﻋ ﺕﺍﺭﺎﻔﺣ ﻡﺍﺪﺨﺘﺳﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺴﻓ ،ﻥﻮﻓﺪﻣ ﺩﺭﻮﻣ ﻰﻠﻋ ﺕﺮﺜﻋ ﺍﺫﺇ. ﺀﺎﺑﺮﻬﻜﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻚﻠﻬﺘﺴﺗ. ﺚﺤﺒﻟﺍ ﻲﻓ ﻞﻐﺸﻤﻟﺍ ﺓﺭﺪﻗ ﻰﻠﻋ ﺩﺭﻮﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﺔﺻﺮﻓ ﺪﻤﺘﻌﺗ. ﺔﻧﻮﻓﺪﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻋ ﺚﺤﺒﻠﻟ ﻥﻮﺜﺣﺎﺒﻟﺍ ﺎﻬﻣﺪﺨﺘﺴﻳ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﻥﺩﺎﻌﻣ ﺢﺳﺎﻣ</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>. ﻪﻌﻤﺠﻟ ﺮﻔﺴﻟﺍ ﻚﻴﻠﻋ ﻦﻴﻌﺘﻴﺴﻓ ،ﺩﺭﻮﻣ ﻰﻠﻋ ﺕﺮﺜﻋ ﺍﺫﺇ. ﺀﺎﺑﺮﻬﻜﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻚﻠﻬﺘﺴﻳ. ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻧ ﻑﺍﺪﻬﺘﺳﻻ ﺮﻌﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻂﺒﺿ ﻦﻜﻤﻳ. ﺚﺤﺒﻟﺍ ﻲﻓ ﻞﻐﺸﻤﻟﺍ ﺓﺭﺪﻗ ﻰﻠﻋ ﺩﺭﻮﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻝﺎﻤﺘﺣﺍ ﺪﻤﺘﻌﻳ. ﺐﻛﻮﻜﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻧ ﻦﻋ ﻒﺸﻜﻠﻟ ﻥﻮﺜﺣﺎﺒﻟﺍ ﺎﻬﻣﺪﺨﺘﺴﻳ ﺔﻴﺒﻧﺎﺟ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺪﺣﻭ</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>ﺝﺍﻭﺰﻟﺍ ﻥﺎﻜﻣ</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>. ﻦﻴﺒﻧﺎﺠﻟﺍ ﻼﻛ ﻦﻣ ﺔﺒﻗﺍﺮﻤﻟﺍ ﻦﻳﺪﻫﺎﺸﻤﻠﻟ ﻦﻜﻤﻳﻭ ،ﺝﺍﻭﺰﻟﺍ ﺕﻻﺎﻔﺘﺣﺍ ﺔﻣﺎﻗﻹ ﺍًﻧﺎﻜﻣ ﺩﺪﺣُﻳ</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>ﺔﺑﻮﻃﺭ ﺔﺨﻀﻣ</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>. ﺔﻘﻴﻤﻌﻟﺍ ﻩﺎﻴﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ. ﺔﻳﺩﺎﻋ ﻝﺎﻣﺭ ﻰﻟﺇ ﺔﻤﻋﺎﻨﻟﺍ ﻝﺎﻣﺮﻟﺍﻭ ،ﺔﻓﺎﺟ ﺽﺭﺃ ﻰﻟﺇ ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍ ﻭﺃ ﺕﺎﻌﻘﻨﺘﺴﻤﻟﺍ ﺍًﻟﻮﺤﻣ ،ﺪﻳﺪﺷ ﺀﻄﺒﺑ ﺔﺒﻳﺮﻘﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﺑﻮﻃﺮﻟﺍ ﻱﻭﺎﺳُﻳ</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>. ﺪﺣﺍﻭ ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ ﻦﻣ ﺮﺜﻛﺃ ﻡﺍﺪﺨﺘﺳﺍ ﺚﺤﺑ ﺔﻟﻭﺎﻃ ﻞﻜﻟ ﻦﻜﻤﻳ ﻻ. ﺓﺪﻳﺪﺟ ﺚﺤﺑ ﻊﻳﺭﺎﺸﻣ ﺢﺘﻔﻳﻭ ﺓﺭﻮﻄﺘﻣ ﺚﺤﺑ ﺔﻟﻭﺎﻃ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻪﻌﺿﻭ ﺪﻨﻋ ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺪﻳﺰﻳ</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>ﺔﻳﺭﺍﺪﻣ ﺓﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>. ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻪﻌﺿﻭ ﻦﻜﻤﻳ. ﺔﻳﺭﺍﺪﻣ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﻻﺇ ﻦﻴﻳﺭﺍﺪﻤﻟﺍ ﺭﺎﺠﺘﻠﻟ ﻊﺋﺎﻀﺒﻟﺍ ﻊﻴﺑ ﻚﻨﻜﻤﻳ ﻻ. ﺔﻳﺭﺍﺪﻤﻟﺍ ﺓﺭﺎﺠﺘﻠﻟ ﺏﻮﻠﻄﻣ</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>ﻝﺎﻔﺘﺣﺍ ﻥﺎﻜﻣ</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>. ﺕﻼﻔﺤﻟﺍ ﺔﻣﺎﻗﻹ ﺍًﻧﺎﻜﻣ ﺩﺪﺣُﻳ</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>ﺓﺮﻴﻈﺣ ﺔﻣﻼﻋ</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>. ﺔﺒﺳﺎﻨﻤﻟﺍ ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺭﺎﻀﺣﺈﺑ ﻥﻮﺠﻟﺎﻌﻤﻟﺍ ﻡﻮﻘﻴﺳﻭ ،ﺓﺮﻴﻈﺣ ﺔﻣﻼﻋ ﻞﻜﻟ ﺔﻟﻮﺒﻘﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻦﻴﻴﻌﺗ ﻦﻜﻤﻳﻭ ،ﺏﺍﻮﺑﻷﺍﻭ ﻥﺍﺭﺪﺠﻟﺍﻭ ﺰﺟﺍﻮﺤﻟﺍﻭ ﺭﺍﻮﺳﻷﺎﺑ ﺔﻃﺎﺤﻣ ﺔﻘﻄﻨﻣ ﻲﻓ ﻪﻌﺿﻭ ﺐﺠﻳ ،ﺕﺎﻧﺍﻮﻴﺣ ﺓﺮﻴﻈﺣ ﺩﺪﺤﺗ ﺔﺘﻓﻻ ﻊﻣ ﺩﻮﻤﻋ</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>ﺕﻻﻮﺴﺒﻛ ﺔﻓﺫﺎﻗ</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>. ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﺭﺍﻮﺠﺑ ﺕﺎﻓﺫﺎﻘﻟﺍ ﻊﺿﻭ ﺐﺠﻳ ﻦﻜﻟﻭ - ﺔﻋﻮﻤﺠﻤﻛ ﺕﻻﻮﺴﺒﻜﻟﺍ ﺕﺎﻓﺫﺎﻗ ﻖﻠﻄﻨﺗ ﻥﺃ ﻦﻜﻤﻳ. ﺓﺪﺣﺍﻭ ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻕﻼﻃﻹ ﺩﻮﻗﻭ ﺬﻔﻨﻣ</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>ﻱﺮﺠﺣ ﺕﻮﺑﺎﺗ</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>. ﻦﻴﻣﺮﻜﻤﻟﺍ ﺕﺍﻮﻣﻸﻟ ﻑﺮﺧﺰﻣ ﻦﻓﺩ ﺀﺎﻋﻭ</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>ﻱﺭﺎﻛﺬﺗ ﺐﺼﻧ ﺩﻮﻤﻋ</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>. ﻯﺮﺧﻷﺍ ﺔﻣﺎﻬﻟﺍ ﺙﺍﺪﺣﻷﺍﻭ ﻙﺭﺎﻌﻤﻟﺍﻭ ﺩﺍﺮﻓﻷﺍ ﺪﻴﻠﺨﺘﻟ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺬﻨﻣ ﺕﻼﺴﻤﻟﺍ ﺖﻣﺪﺧُﺘﺳﺍ. ﺐﻧﺍﻮﺠﻟﺍ ﻰﻠﻋ ﺔﻌﺳﺍﻭ ﺵﻮﻘﻨﺑ ﺔﻓﺮﺧﺰﻣ ﺔﻤﺨﺿ ﺔﺣﻮﻟ</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>ﺮﻴﺒﻛ ﻱﺮﺠﺣ ﺐﺼﻧ</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>. ﻯﺮﺧﻷﺍ ﺔﻣﺎﻬﻟﺍ ﺙﺍﺪﺣﻷﺍﻭ ﻙﺭﺎﻌﻤﻟﺍﻭ ﺩﺍﺮﻓﻷﺍ ﺪﻴﻠﺨﺘﻟ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺬﻨﻣ ﺕﻼﺴﻤﻟﺍ ﺖﻣﺪﺧُﺘﺳﺍ. ﺐﻧﺍﻮﺠﻟﺍ ﻰﻠﻋ ﺵﻮﻘﻧ ﺕﺍﺫ ﺔﻜﻴﻤﺳﻭ ﺔﻠﻳﻮﻃ ﺔﺣﻮﻟ</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>ﺕﺍﻭﺩﺃ ﺔﻧﺍﺰﺧ</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>. ﺕﺍﻭﺩﻸﻟ ﻦﻴﺑﻻﻭﺩ ﻰﻟﺇ ﻞﺼﻳ ﺎﻣ ﻡﺍﺪﺨﺘﺳﺍ ﺓﺪﺣﺍﻭ ﻞﻤﻋ ﺔﻟﻭﺎﻄﻟ ﻦﻜﻤﻳﻭ ،ﻞﻤﻋ ﺔﻟﻭﺎﻃ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻪﻌﺿﻭ ﺪﻨﻋ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺪﻳﺰﻳ</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ</TransportPod.label>
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>. ﻙﺭﺎﻌﻤﻟﺍ ﺰﻳﺰﻌﺗ ﻭﺃ ﺔﺌﺟﺎﻔﻣ ﺕﺎﻤﺠﻫ ﻦﺷ ﻭﺃ ﺕﺍﺩﺍﺪﻣﻹﺍ ﻭﺃ ﺹﺎﺨﺷﻷﺍ ﻞﻘﻧ ﻭﺃ ﺎﻳﺍﺪﻬﻟﺍ ﻝﺎﺳﺭﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺕﺎﻧﺍﻮﻴﺣ ﻭﺃ ﺮﺻﺎﻨﻋ ﻭﺃ ﺹﺎﺨﺷﺃ ﻞﻤﺣ ﺎﻬﻨﻜﻤﻳ ﻕﻼﻃﻺﻟ ﺔﻠﺑﺎﻗ ﻦﺤﺷ ﺔﻟﻮﺴﺒﻛ</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>ﺔﻳﻮﻴﺣ ﺕﺍﺮﺷﺆﻣ ﺐﻗﺍﺮﻣ</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>. ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﻥﻮﻜﻳ ﻦﻟ ﺮﻳﺮﺴﻟﺍ ﺲﻔﻨﺑ ﺪﺣﺍﻭ ﺔﻳﻮﻴﺣ ﺕﺍﺮﺷﺆﻣ ﺐﻗﺍﺮﻣ ﻦﻣ ﺮﺜﻛﺃ ﻕﺎﻓﺭﺇ ﻥﺇ. ﺔﻳﺩﺎﻌﻟﺍ ﺓّﺮﺳﻷﺍ ﺪﻴﻔﺘﺴﺗ ﻦﻟ - ﻰﻔﺸﺘﺴﻤﻟﺍ ﺓّﺮﺳﺃ ﻊﻣ ﻂﻘﻓ ﻞﻤﻌﻳ. ﻰﻔﺸﺘﺴﻤﻟﺍ ﺮﻳﺮﺳ ﺭﺍﻮﺠﺑ ًﺓﺮﺷﺎﺒﻣ ﻪﻌﺿﻭ ﺪﻨﻋ ﺔﻋﺎﻨﻤﻟﺍ ﺏﺎﺴﺘﻛﺍ ﺔﻋﺮﺳﻭ ،ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓﻭ ،ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻨﻌﻟﺍ ﺓﺩﻮﺟ ﻦﻣ ﺪﻳﺰﻳ</VitalsMonitor.description>
+  
+</LanguageData>

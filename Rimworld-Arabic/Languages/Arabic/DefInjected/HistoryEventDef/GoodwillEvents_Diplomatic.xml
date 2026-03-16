@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>ﺔﻳﺪﻫ ﻯﺪﻫﺃ</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>ﻞﺸﻔﻟﺎﺑ ﺕﺀﺎﺑ ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ ﺔﺛﺭﺎﻛ</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ ﺡﺎﺠﻧ</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻣ ﺭﺎﺼﺘﻧﺍ</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>ﺔﺑﻮﻠﻄﻣ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﺴﻣ</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested orbital trader -->
+  <RequestedOrbitalTrader.label>ﺏﻮﻠﻄﻣ ﻱﺭﺍﺪﻣ ﺮﺟﺎﺗ</RequestedOrbitalTrader.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>ﺏﻮﻠﻃُﻣ ﺮﺟﺎﺗ</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>ﺔﻀﻳﺎﻘﻤﻟﺍ ﺕّﻤﺗ</Traded.label>
+  
+</LanguageData>

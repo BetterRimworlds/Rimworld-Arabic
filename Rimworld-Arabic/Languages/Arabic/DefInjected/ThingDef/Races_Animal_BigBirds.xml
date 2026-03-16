@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>ﻯﺭﺍﻮﺳﺎﻛ</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>. ﺀﺎﻔﻛﺃ ﺮﻴﻏ ﺕﺎﻧﺍﻮﻴﺣ ﻦﻴﺑﺭﺪﻣ ﺔﻬﺟﺍﻮﻣ ﻭﺃ ﻯﺫﻸﻟ ﺽﺮﻌﺘﻟﺍ ﺪﻨﻋ ﻪﺒﻀﻏ ﺔﻋﺮﺴﺑ ﻑﺮﻋُﻳ. ﺔﺳﺮﺷ ﻪﺘﻠﻛﺭ ﻥﺃ ﻻﺇ ،ﻞﻴﻤﺠﻟﺍ ﻩﺮﻬﻈﻣ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ٍﻩﺍﺯ ﻥﻮﻠﻣ ﺶﻳﺭ ﻪﻟﻭ ﺮﻴﻄﻳ ﻻ ﺮﻴﺒﻛ ﺮﺋﺎﻃ</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>ﺭﻮﻴﻃ ﻢﺤﻟ</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>ﺐﻟﺎﺨﻣ</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>ﺭﺎﻘﻨﻣ</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>ﺱﺃﺭ</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>ﻮﻤﻳﺇ</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>. ﻢﻘﺘﻨﻴﺳ ﻪﻧﺃ ﺪﻛﺆﻤﻟﺍ ﻦﻣﻭ ،ﻪﺠﻋﺯﺃ. ﺔﻌﻴﺒﻄﻟﺍ ﻢﻟﺎﻋ ﻲﻓ ﺢﻗﻮﻟﺍ ﻮﻫ ،ﺊﻴﺴﻟﺍ ﻪﻛﻮﻠﺴﺑ. ﺢﻴﺒﻘﻟﺍ ﻪﻬﺟﻭ ﻰﻠﻋ ﺓﺮﻴﻐﺻ ﻥﻮﻴﻌﺑ ﺮﻴﻄﻳ ﻻ ﺮﻴﺒﻛ ﺮﺋﺎﻃ</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>ﺐﻟﺎﺨﻣ</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>ﺭﺎﻘﻨﻣ</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>ﺱﺃﺭ</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>ﺔﻣﺎﻌﻧ</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>. ﺎﻫﺯﺍﺰﻔﺘﺳﺍ ﻞﻬﺴﻳ. ﺔﻳﻮﻘﻟﺍ ﺎﻬﺘﻠﻛﺭﻭ ،ﺔﻤﺨﻀﻟﺍ ﺎﻬﺿﻮﻴﺑﻭ ،ﺎﻬﻳﺮﺟ ﺔﻋﺮﺴﺑ ﻑﻭﺮﻌﻣ ﻡﺎﻌﻨﻟﺍ ،ﺔﻟﺪﻌﻤﻟﺍ ﺮﻴﻏ ﺭﻮﻴﻄﻟﺍ ﻉﺍﻮﻧﺃ ﺮﺒﻛﺃ</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>ﺐﻟﺎﺨﻣ</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>ﺭﺎﻘﻨﻣ</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>ﺱﺃﺭ</Ostrich.tools.head.label>
+  
+</LanguageData>

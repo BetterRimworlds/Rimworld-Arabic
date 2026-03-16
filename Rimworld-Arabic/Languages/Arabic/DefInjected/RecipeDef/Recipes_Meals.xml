@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>. ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealFine.description>
+  <!-- EN: protein -->
+  <CookMealFine.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealFine.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>. ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>ﻡﻮﺤﻠﻟ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>. ﻡﻮﺤﻠﻟﺍ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>. ﻡﻮﺤﻠﻟ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>ﺔﻴﺗﺎﺒﻧ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>. ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealFine_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>. ﺔﻴﺗﺎﺒﻧ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealFine_Veg.jobString>
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>٤× ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>. ﺓﺪﻴﺟ ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺾﻌﺑ ﺭﺍﺪﻫﺇ ﻊﻣ ،ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ ﺔﻌﺑﺭﺃ ﺦﺒﻃﺍ</CookMealFineBulk.description>
+  <!-- EN: protein -->
+  <CookMealFineBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealFineBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>. ﺓﺪﻴﺟ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>٤× ﻡﻮﺤﻠﻟ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻡﺪﻘﻳ ﺎﻫﺪﺣﻭ ﻡﻮﺤﻠﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﺓﺪﻴﺟ ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺾﻌﺑ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﻡﻮﺤﻟ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>. ﻡﻮﺤﻠﻟ ﺓﺪﻴﺟ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>٤× ﺔﻴﺗﺎﺒﻧ ﺓﺪﻴﺟ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻡﺪﻘﻳ ﺎﻫﺪﺣﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﺓﺪﻴﺟ ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺾﻌﺑ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealFineBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>. ﺔﻴﺗﺎﺒﻧ ﺓﺪﻴﺟ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealFineBulk_Veg.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺭﺪﻫ ﻊﻣ ،ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealLavish.description>
+  <!-- EN: protein -->
+  <CookMealLavish.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealLavish.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>. ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>ﻡﻮﺤﻠﻟ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻡﺪﻘﻳ ﺎﻫﺪﺣﻭ ﻡﻮﺤﻠﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﻡﻮﺤﻟ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>. ﻡﻮﺤﻠﻟ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>ﺔﻴﺗﺎﺒﻧ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻞﺧﺩُﻳ ﺎﻫﺪﺣﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺧ ﻑﺪﻬﺑ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealLavish_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>. ﺔﻴﺗﺎﺒﻧ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealLavish_Veg.jobString>
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>٤× ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺭﺪﻫ ﻊﻣ ،ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealLavishBulk.description>
+  <!-- EN: protein -->
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>. ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>٤× ﻡﻮﺤﻠﻟ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻡﺪﻘﻳ ﺎﻫﺪﺣﻭ ﻡﻮﺤﻠﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺧ ﻞﺟﺃ ﻦﻣ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﻡﻮﺤﻟ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>. ﻡﻮﺤﻠﻟ ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>٤× ﺔﻴﺗﺎﺒﻧ ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>. ﺔﻴﻓﺎﺿﺇ ﺭﻮﺼﻗ ﻪﺟﻭﺃ ﻡﺪﻘﻳ ﺎﻫﺪﺣﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﻮﻨﺘﻣ ﺕﺎﻬﻜﻧ ﺝﺎﺘﻧﺇ. ﻡﺎﻌﻃ ﺔﺑﺮﺠﺗ ﻞﻀﻓﺃ ﻖﻠﺨﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ ﺭﺍﺪﻫﺇ ﻢﺘﻳ. ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻳﺎﻐﻠﻟ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealLavishBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>. ﺔﻴﺗﺎﺒﻧ ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealLavishBulk_Veg.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>. ﺪﺣﺍﻭ ﻥﻮﻜﻣ ﻦﻣ ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺦﺒﻃﺍ</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>. ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>٤× ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>. ﺪﺣﺍﻭ ﻥﻮﻜﻣ ﻦﻣ ﺔﻄﻴﺴﺑ ﺕﺎﺒﺟﻭ 4 ﺦﺒﻃﺍ</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>. ﺔﻄﻴﺴﺑ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>. ﻆﻔﺤﻟﺍ ﺔﻴﻠﻤﻋ ﻝﻼﺧ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ ﺭﺪﻫ ﻊﻣ ،ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺔﺒﺟﻭ ّﺪﻋﺃ</CookMealSurvival.description>
+  <!-- EN: protein -->
+  <CookMealSurvival.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealSurvival.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>. ﺀﺎﻘﺑ ﺔﺒﺟﻭ ﻲﻬﻃ</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>٤× ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺔﺒﺟﻭ ﺦﺒﻃ</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>. ﻆﻔﺤﻟﺍ ﺔﻴﻠﻤﻋ ﻝﻼﺧ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ ﺭﺪﻫ ﻊﻣ ،ﻡﻮﺤﻠﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺞﻳﺰﻣ ﻦﻣ ﺓﺄﺒﻌﻣ ﺀﺎﻘﺑ ﺕﺎﺒﺟﻭ ﻊﺑﺭﺃ ّﺪﻋﺃ</CookMealSurvivalBulk.description>
+  <!-- EN: protein -->
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>. ﺀﺎﻘﺑ ﺕﺎﺒﺟﻭ 4 ﻲﻬﻃ</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

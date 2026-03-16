@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>ﻢﻳﺪﻗ ﻞﻴﻣﺮﺑ</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>. ﻒﻔﺠﻤﻟﺍ ﻞﺣﻮﻟﺍ ﻦﻣ ﺔﺨﻄﻟ ﻮﻫ ﻥﻵﺍ ﻪﻳﻮﺘﺤﻳ ﻱﺬﻟﺍ ﺪﻴﺣﻮﻟﺍ ﺀﻴﺸﻟﺍ. ﺎﻣ ﻉﻮﻧ ﻦﻣ ﺕﺎﻳﺎﻔﻧ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻥﺎﻛ ﻪﻧﺃ ﻭﺪﺒﻳ ﺭﻮﺴﻜﻣ ﻢﻳﺪﻗ ﻞﻴﻣﺮﺑ</AncientBarrel.description>
+  
+  <!-- EN: ancient basic recharger -->
+  <AncientBasicRecharger.label>ﻢﻳﺪﻗ ﻲﺳﺎﺳﺃ ﻦﺣﺎﺷ</AncientBasicRecharger.label>
+  <!-- EN: An ancient basic recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBasicRecharger.description>. ﻪﻨﻣ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﻢﻳﺪﻗ ﻲﺳﺎﺳﺃ ﻦﺣﺎﺷ</AncientBasicRecharger.description>
+  
+  <!-- EN: ancient bed -->
+  <AncientBed.label>ﻢﻳﺪﻗ ﺮﻳﺮﺳ</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>. ﺎﻬﺣﻼﺻﺇ ﻦﻜﻤﻳ ﻻ ﺚﻴﺤﺑ ﺔﻳﺎﻐﻠﻟ ﺔﻴﻋﺍﺪﺘﻣ ﺎﻬﻨﻜﻟ ،ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻥﺎﻜﻣﻹﺎﺑ ﻝﺍﺰﻳ ﻻ ﻪﻧﺃ ﻻﺇ ،ﺔﺤﻳﺮﻣ ﺮﻴﻏ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺉﺪﺻ ﺭﺎﻃﺇ ﻰﻠﻋ ﺔﻨﻔﻌﺘﻣ ﺔﻤﻳﺪﻗ ﺔﺷﺮﻓ</AncientBed.description>
+  
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>ﻱﺮﺛﺃ ﻕﻭﺪﻨﺻ</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>. ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﺖﺤﺒﺻﺃ ﻰﺘﺣ ﺕﺭﻮﻫﺪﺗ ﻪﻠﺧﺍﺪﺑ ﺖﻧﺎﻛ ﺔﻨﻴﻤﺛ ﺀﺎﻴﺷﺃ ﻱﺃ. ﺭﻮﺴﻜﻣ ﻢﻳﺪﻗ ﻕﻭﺪﻨﺻ</AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>ﻱﺮﺛﺃ ﺽﺮﻋ ﻚﻨﺑ</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>. ﻪﻟ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺔﻤﻳﺪﻗ ﺏﻮﺳﺎﺣ ﺔﻬﺟﺍﻭ</AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>ﺔﻤﻳﺪﻗ ﺕﺍﺪﻌﻣ ﻞﺘﻛ</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>. ﻪﻨﻣ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺔﻓﻭﺮﻌﻤﻟﺍ ﺮﻴﻏ ﺔﻔﻴﻇﻮﻟﺍ ﺕﺍﺫ ﺔﻤﻳﺪﻘﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻞﺘﻛ ﻦﻣ ﺔﻋﻮﻤﺠﻣ</AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>ﻢﻳﺪﻗ ﺪﻟﻮﻣ</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>. ﺓﺪﺋﺎﻔﻟﺍ ﻡﺪﻋﻭ ﺃﺪﺼﻟﺍ ﻰﻟﺇ ﻲﻗﺎﺒﻟﺍ ﻝﻮﺤﺗﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺖﺒﻫُﻧ ﻭﺃ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻘﻟﺍ ﻩﺅﺍﺰﺟﺃ ﺖﻔﻠﺗُﺃ. ﻢﻳﺪﻗ ﻲﺋﺎﺑﺮﻬﻛ ﺪﻟﻮﻣ</AncientGenerator.description>
+  
+  <!-- EN: ancient kitchen sink -->
+  <AncientKitchenSink.label>ﻢﻳﺪﻗ ﺦﺒﻄﻣ ﺽﻮﺣ</AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AncientKitchenSink.description>. ﻪﻨﻣ ﺀﻴﺷ ﻱﺃ ﺹﻼﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻﻭ ﺓﺪﺸﺑ ﺭﻮﻫﺪﺘﻣ ﻪﻧﺇ. ﺔﻴﻧﺪﻌﻣ ﺮﻴﻏ ﺔﻴﻔﻴﻟ ﺓﺩﺎﻣ ﻦﻣ ﻉﻮﻨﺼﻣ ﻢﻳﺪﻗ ﺦﺒﻄﻣ ﺽﻮﺣ\n\n. ﺔﻠﻳﻮﻃ ﺔﺼﻗ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ</AncientKitchenSink.description>
+  
+  <!-- EN: ancient lamp -->
+  <AncientLamp.label>ﻢﻳﺪﻗ ﺡﺎﺒﺼﻣ</AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <AncientLamp.description>. ﺍًﺘﻓﺎﺧ ﺍًﺠﻫﻮﺗ ﺭﺪﺼﻳ ﻝﺍﺰﻳ ﻻ ﻪﻨﻜﻟ ،ﺓﺪﺸﺑ ﺪﻔﻨﺘﺴﻣ ﻲﻠﺧﺍﺪﻟﺍ ﻪﺘﻗﺎﻃ ﺭﺪﺼﻣ. ﻞﻴﻐﺸﺘﻟﺍ ﻲﺗﺍﺫ ﻢﻳﺪﻗ ﺡﺎﺒﺼﻣ</AncientLamp.description>
+  
+  <!-- EN: ancient large mech gestator -->
+  <AncientLargeMechGestator.label>ﺔﻤﺨﺿ ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻨﺿﺎﺣ</AncientLargeMechGestator.label>
+  <!-- EN: An ancient large mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientLargeMechGestator.description>. ﻪﻟ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺓﺮﻴﺒﻛ ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻨﺿﺎﺣ</AncientLargeMechGestator.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>ﺔﻤﻳﺪﻗ ﻝﺎﻔﻗﺃ ﺔﻧﺍﺰﺧ</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>. ﺔﻤﻴﻗ ﻱﺫ ﺀﻴﺷ ﻱﺃ ﺎﻬﻴﻓ ﻖﺒﺘﻳ ﻢﻟﻭ ﺓﻮﻘﻟﺎﺑ ﻦﺋﺍﺰﺨﻟﺍ ﻊﻴﻤﺟ ﺢﺘﻓ ﻢﺗ. ﻦﺋﺍﺰﺨﻟﺍ ﻦﻣ ﺔﺋﺪﺻ ﺔﻤﻳﺪﻗ ﺔﻧﺍﺰﺧ</AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>ﺔﻤﻳﺪﻗ ﺔﻟﺁ</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>. ﻪﻨﻣ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺔﻓﻭﺮﻌﻣ ﺮﻴﻏ ﺕﺎﻴﻟﺂﺑ ﺔﺌﻴﻠﻣ ﺔﻤﺨﺿ ﺔﻤﻳﺪﻗ ﺔﻟﺁ ﺔﺒﻠﻋ</AncientMachine.description>
+  
+  <!-- EN: ancient mech drop beacon -->
+  <AncientMechDropBeacon.label>ﺔﻤﻳﺪﻗ ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﻁﺎﻘﺳﺇ ﺓﺭﺎﻨﻣ</AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <AncientMechDropBeacon.description>. ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺳ ﺪﻌﺑ ﺔﻓﺪﺼﻟﺍ ﺕﺭﻮﻫﺪﺗﻭ ﺓﺩﻮﻘﻔﻣ ﺓﺪﻴﻔﻤﻟﺍ ﺎﻬﺗﺎﻧﻮﻜﻣ. ﻁﺎﻘﺳﺇ ﺓﺭﺎﻨﻤﻟ ﺓﺭﻮﺴﻜﻣ ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﺔﻓﺪﺻ</AncientMechDropBeacon.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <AncientMechGestator.label>ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻨﺿﺎﺣ</AncientMechGestator.label>
+  <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMechGestator.description>. ﻪﻟ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻨﺿﺎﺣ</AncientMechGestator.description>
+  
+  <!-- EN: ancient mech vat -->
+  <AncientMechGestatorTank.label>ﻢﻳﺪﻗ ﻲﻜﻴﻧﺎﻜﻴﻣ ﺽﻮﺣ</AncientMechGestatorTank.label>
+  <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
+  <AncientMechGestatorTank.description>. ﺎﻫﺩﺪﺠﺗ ﺀﺎﻨﺛﺃ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍﻭ ،ﺓﺪﻳﺪﺟ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﻦﻳﻮﻜﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﻢﻳﺪﻗ ﺯﺎﻬﺟ</AncientMechGestatorTank.description>
+  <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
+  <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>. ﻲﻜﻴﻧﺎﻜﻴﻣ ﺀﺎﻋﻭ ﻦﻣ {0_labelShort} ﺮﻬﻇ</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
+  
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>ﻢﻳﺪﻗ ﻒﻳﻭﻭﺮﻜﻴﻣ</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>. ﻥﻵﺍ ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﻮﻫﻭ ،ﺃﺪﺼﻣﻭ ﻢﻄﺤﻣ. ﻡﺎﻌﻄﻟﺍ ﻦﻴﺨﺴﺘﻟ ﻢﻳﺪﻗ ﺯﺎﻬﺟ\n\n. ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ</AncientMicrowave.description>
+  
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>ﻢﻳﺪﻗ ﻱﺮﻜﺴﻋ ﻕﻭﺪﻨﺻ</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>. ﻪﻳﻮﺘﺤﻳ ﻥﺎﻛ ﻦﻴﻤﺛ ﺀﻴﺷ ﻱﺃ ﺐﻫُﻧﻭ ،ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺮﺴﻜﻧﺍ ﺪﻘﻟ. ﻱﺮﻜﺴﻋ ﺮﻬﻈﻣ ﻭﺫ ﻢﻳﺪﻗ ﻕﻭﺪﻨﺻ</AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>ﺔﻤﻳﺪﻗ ﺕﺎﻴﻠﻤﻋ ﺔﻟﻭﺎﻃ</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>. ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﺖﺤﺒﺻﺃﻭ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﺕﺭﻮﻫﺪﺗ ﺪﻘﻟ. ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻠﻟ ﺍًﻘﺑﺎﺳ ﻡﺪﺨﺘﺳُﺗ ﺖﻧﺎﻛ ﺔﻟﻭﺎﻃ</AncientOperatingTable.description>
+  
+  <!-- EN: ancient oven -->
+  <AncientOven.label>ﻢﻳﺪﻗ ﻥﺮﻓ</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>. ﻥﻵﺍ ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﻮﻫﻭ ،ﺃﺪﺼﻣﻭ ﻢﻄﺤﻣ. ﻢﻳﺪﻗ ﻥﺮﻓ\n\n. ﺎﻨﻫ ﻰﻟﺇ ﻞﺻﻭ ﻒﻴﻛ ﺪﻳﺪﺤﺗ ﺐﻌﺼﻟﺍ ﻦﻣ</AncientOven.description>
+  
+  <!-- EN: ancient refrigerator -->
+  <AncientRefrigerator.label>ﺔﻤﻳﺪﻗ ﺔﺟﻼﺛ</AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AncientRefrigerator.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﻡﺎﻤﺘﻫﻼﻟ ﺓﺮﻴﺜﻤﻟﺍ ﺎﻬﺋﺍﺰﺟﺃ ﻦﻣ ﺖﺒﻫُﻧ. ﺔﻤﻳﺪﻗ ﺔﺟﻼﺛ</AncientRefrigerator.description>
+  
+  <!-- EN: ancient security turret -->
+  <AncientSecurityTurret.label>ﻢﻳﺪﻗ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AncientSecurityTurret.description>. ﻞﻣﺎﻜﻟﺎﺑ ﺖﻤﻃُﺣ ﻭﺃ ﺖﺒﻫُﻧ ﺪﻗ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺭﻮﺴﻜﻣﻭ ﻢﻳﺪﻗ ﻲﻋﺎﻓﺩ ﺝﺮﺑ</AncientSecurityTurret.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>ﻢﻳﺪﻘﻟﺍ ﺀﺎﻀﻔﻟﺍ ﺮﺼﻋ ﻕﻭﺪﻨﺻ</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>. ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺕﺬﺧُﺃ ﺪﻗ ﻪﻠﺧﺍﺪﺑ ﺖﻧﺎﻛ ﺔﻨﻴﻤﺛ ﺀﺎﻴﺷﺃ ﻱﺃ. ﺭﻮﺴﻜﻣ ﻢﻳﺪﻗ ﻕﻭﺪﻨﺻ</AncientSpacerCrate.description>
+  
+  <!-- EN: ancient standard recharger -->
+  <AncientStandardRecharger.label>ﻢﻳﺪﻗ ﺭﺎﻴﻌﻣ ﻥّﺤﺸﻣ</AncientStandardRecharger.label>
+  <!-- EN: An ancient standard recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStandardRecharger.description>. ﻪﻨﻣ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻣّﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﻢﻳﺪﻗ ﻲﺳﺎﻴﻗ ﻦﺣﺎﺷ</AncientStandardRecharger.description>
+  
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>ﺔﻤﻳﺪﻗ ﻦﻳﺰﺨﺗ ﺔﻧﺍﻮﻄﺳﺃ</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>. ﻪﻟ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﻖﺑﺎﺴﻟﺍ ﻲﻓ ﺎﻣ ًﻼﺋﺎﺳ ﻥﺰﺨﻳ ﻥﺎﻛ ﻪﻧﺃ ﻭﺪﺒﻳ ﻢﻳﺪﻗ ﺯﺎﻬﺟ</AncientStorageCylinder.description>
+  
+  <!-- EN: ancient stove -->
+  <AncientStove.label>ﻢﻳﺪﻗ ﺪﻗﻮﻣ</AncientStove.label>
+  <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
+  <AncientStove.description>. ﺍًﻣﺎﻤﺗ ﺓﺪﺋﺎﻔﻟﺍ ﻢﻳﺪﻋ ﻥﻵﺍ ﺢﺒﺻﺃ ،ﺃﺪﺼﻣﻭ ﻢﻄﺤﻣ. ﻢﻳﺪﻗ ﺪﻗﻮﻣ</AncientStove.description>
+  
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>ﻢﻳﺪﻗ ﻡﺎﻈﻧ ﻑﺭ</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>. ﻪﻨﻣ ﻞﺋﺎﻃ ﻻ ﺎﻣ ﻰﻟﺇ ﺭﻮﻫﺪﺘﻣ ﺮﺧﺁ ﺀﻴﺷ ﻞﻛﻭ ،ﺓﺩﻮﻘﻔﻣ ﺔﻤﻴﻘﻟﺍ ﺀﺍﺰﺟﻷﺍ. ﺎﻬﻴﻠﻋ ﻑﺮﻌﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺓﺰﻬﺟﺄﺑ ﺔﺌﻴﻠﻣ ﺔﻤﻳﺪﻗ ﻑﺭ ﺓﺪﺣﻭ</AncientSystemRack.description>
+  
+</LanguageData>

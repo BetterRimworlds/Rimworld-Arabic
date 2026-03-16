@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>ﻂﺑﺮﻠﻟ ﻞﺑﺎﻗ</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>ﺮﻔﺤﻠﻟ ﻞﺑﺎﻗ</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>ﻮﻤﻨﻠﻟ ﻞﺑﺎﻗ</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>ﻞﻴﻘﺛ</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>ﻒﻴﻔﺧ</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>ﻂﺳﻮﺘﻣ</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>ﻙﺮﺤﺘﻣ ﺀﺎﻣ</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>ﻞﺤﺿ ﺀﺎﻣ</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>ﻢﻴﻌﻨﺘﻠﻟ ﻞﺑﺎﻗ</SmoothableStone.label>
+  
+  <!-- EN: walkable -->
+  <Walkable.label>ﻲﺸﻤﻠﻟ ﻞﺑﺎﻗ</Walkable.label>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduitable.label>ﺀﺎﻤﻠﻟ ﻡﻭﺎﻘﻣ ﻲﺴﻔﻧ ﻞﺻﻮﻣ</WaterproofConduitable.label>
+  
+</LanguageData>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
+  <AbandonedChild23.description>{PAWN_gender ? . ﺖﺠﻧ ،ﺎﻣ ﺔﻘﻳﺮﻄﺑ. ﺔﻳﻮﺠﻟﺍ ﻞﻣﺍﻮﻌﻠﻟ ﺎﻫﺎﺿﺮﻌﻓ ،ﺐﺴﺤﻓ ﺔﻠﻴﺒﻘﻟﺍ ﻞﻫﺎﻛ ﻞﻘﺜﺘﺳ ﺎﻬﻧﺃ ﺎﻫﺍﺪﻟﺍﻭ ّﻦﻇ. ﺔﻀﻳﺮﻣ ﻲﻫﻭ [PAWN_nameDef] ﺕﺪﻟُﻭ : . ﺎﺠﻧ ،ﺎﻣ ﺔﻘﻳﺮﻄﺑ. ﺔﻳﻮﺠﻟﺍ ﻞﻣﺍﻮﻌﻠﻟ ﻩﺎﺿﺮﻌﻓ ،ﺐﺴﺤﻓ ﺔﻠﻴﺒﻘﻟﺍ ﻞﻫﺎﻛ ﻞﻘﺜﻴﺳ ﻪﻧﺃ ﻩﺍﺪﻟﺍﻭ ّﻦﻇ. ﺍًﻀﻳﺮﻣ [PAWN_nameDef] ﺪﻟُﻭ}</AbandonedChild23.description>
+  <!-- EN: abandoned child -->
+  <AbandonedChild23.title>ﺭﻮﺠﻬﻣ ﻞﻔﻃ</AbandonedChild23.title>
+  <AbandonedChild23.titleFemale>ﺓﺭﻮﺠﻬﻣ ﺔﻠﻔﻃ</AbandonedChild23.titleFemale>
+  <!-- EN: abandoned -->
+  <AbandonedChild23.titleShort>ﺭﻮﺠﻬﻣ</AbandonedChild23.titleShort>
+  <AbandonedChild23.titleShortFemale>ﺓﺭﻮﺠﻬﻣ</AbandonedChild23.titleShortFemale>
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
+  <Bookworm19.description>{PAWN_gender ? . ﻦﻳﺮﺑﺎﻌﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺗﺮﺘﺷﺍ ﺐﺘﻜﺑ ﺓﺮﻜﺒﻣ ّﻦﺳ ﻲﻓ ﺓﺀﺍﺮﻘﻟﺍ ﺎﻬﺴﻔﻧ ﺖﻣّﻠﻋ. ﺏﺩﻷﺍ ﻲﻓ ﻊﻴﻀﺗ ﻥﺃ [PAWN_nameDef] ﺖﻟّﻀﻓ ،ﻝﺎﻔﻃﻷﺍ ﻦﻣ ﺎﻫﺮﻴﻐﺑ ﻂﻠﺘﺨﺗ ﻥﺃ ﻦﻣ ًﻻﺪﺑ : . ﻦﻳﺮﺑﺎﻌﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻫﺍﺮﺘﺷﺍ ﻲﺘﻟﺍ ﺐﺘﻜﻟﺍ ﻝﻼﺧ ﻦﻣ ﺓﺮﻜﺒﻣ ﻦﺳ ﻲﻓ ﺓﺀﺍﺮﻘﻟﺍ ﻪﺴﻔﻧ ﻡّﻠﻋ. ﺏﺩﻷﺍ ﻲﻓ ﻊﻴﻀﻳ ﻥﺃ [PAWN_nameDef] ﻝّﻀﻓ ،ﻦﻳﺮﺧﻵﺍ ﻝﺎﻔﻃﻷﺎﺑ ﻁﻼﺘﺧﻻﺍ ﻦﻣ ًﻻﺪﺑ}</Bookworm19.description>
+  <!-- EN: bookworm -->
+  <Bookworm19.title>ﺓﺀﺍﺮﻗ ﻢﻬﻧ</Bookworm19.title>
+  <Bookworm19.titleFemale>ﺔﻤﻬﻧ ﺔﺋﺭﺎﻗ</Bookworm19.titleFemale>
+  <!-- EN: bookworm -->
+  <Bookworm19.titleShort>ﺓﺀﺍﺮﻗ ﻢﻬﻧ</Bookworm19.titleShort>
+  <Bookworm19.titleShortFemale>ﺔﻤﻬﻧ ﺔﺋﺭﺎﻗ</Bookworm19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
+  <BuddingArtist44.description>{PAWN_gender ? . ﺎﻬﺗﺎﻋﺍﺪﺑﺇ ﺀﺍﺮﺸﻟ ﺔﻔﻠﺘﺨﻣ ﺕﺎﻌﻤﺘﺠﻣ ﻦﻣ ﻥﻮﻌﻣﺎﺠﻟﺍﻭ ﺭﺎﺠﺘﻟﺍ ﻰﻌﺳ. ﻦﻔﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ [PAWN_nameDef] ﻯﺪﻟ ﺖﻧﺎﻛ : . ﻪﺗﺎﻋﺍﺪﺑﺇ ﺀﺍﺮﺸﻟ ﺔﻔﻠﺘﺨﻣ ﺕﺎﻌﻤﺘﺠﻣ ﻦﻣ ﻥﻮﻌﻣﺎﺠﻟﺍﻭ ﺭﺎﺠﺘﻟﺍ ﻰﻌﺳ. ﻦﻔﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ [PAWN_nameDef] ﻯﺪﻟ ﻥﺎﻛ}</BuddingArtist44.description>
+  <!-- EN: budding artist -->
+  <BuddingArtist44.title>ﺪﻋﺎﺻ ﻥﺎﻨﻓ</BuddingArtist44.title>
+  <BuddingArtist44.titleFemale>ﺓﺪﻋﺎﺻ ﺔﻧﺎﻨﻓ</BuddingArtist44.titleFemale>
+  <!-- EN: artist -->
+  <BuddingArtist44.titleShort>ﻥﺎﻨﻓ</BuddingArtist44.titleShort>
+  <BuddingArtist44.titleShortFemale>ﺔﻧﺎﻨﻓ</BuddingArtist44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
+  <Bully70.description>{PAWN_gender ? . ﺓﺮﻜﺒﻣ ﻦﺳ ﻲﻓ ﺪﻴﺻ ﺔﻋﻮﻤﺠﻤﺑ ﻦﺴﻟﺍ ﺭﺎﺒﻛ ﺪﺣﺃ ﺎﻬﻔﻠﻛ ،ﺔﻟﻮﻐﺸﻣ ﺎﻬﺋﺎﻘﺑﻹ. ﺔﻌﺘﻤﻠﻟ ﻦﻳﺮﺧﻵﺍ ﻝﺎﻔﻃﻷﺍ [PAWN_nameDef] ﺖﺑﺬﻋ : . ﺓﺮﻜﺒﻣ ﻦﺳ ﻲﻓ ﺪﻴﺻ ﺔﻋﻮﻤﺠﻤﺑ ﻦﺴﻟﺍ ﺭﺎﺒﻛ ﺪﺣﺃ ﻪﻔﻠﻛ ،ًﻻﻮﻐﺸﻣ ﻪﺋﺎﻘﺑﻹ. ﺔﻌﺘﻤﻠﻟ ﻦﻳﺮﺧﻵﺍ ﻝﺎﻔﻃﻷﺍ [PAWN_nameDef] ﺏﺬﻌﺗ}</Bully70.description>
+  <!-- EN: bully -->
+  <Bully70.title>ﺮﻤﻨﺘﻣ</Bully70.title>
+  <Bully70.titleFemale>ﺓﺮﻤﻨﺘﻣ</Bully70.titleFemale>
+  <!-- EN: bully -->
+  <Bully70.titleShort>ﺮﻤﻨﺘﻣ</Bully70.titleShort>
+  <Bully70.titleShortFemale>ﺓﺮﻤﻨﺘﻣ</Bully70.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <CaveChild30.description>{PAWN_gender ? . ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻦﻴﺴﺤﺗﻭ ﺔﻧﺎﻴﺻ ﻲﻓ ﺭﺎﺒﻜﻟﺍ ﺕﺪﻋﺎﺳ. ﻞﺒﺟ ﺐﻧﺎﺟ ﻲﻓ ﺍًﻘﻴﻤﻋ ﺪﺘﻤﻳ ﺪﻘﻌﻣﻭ ﺮﻴﺒﻛ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ : . ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻦﻴﺴﺤﺗﻭ ﺔﻧﺎﻴﺻ ﻲﻓ ﺭﺎﺒﻜﻟﺍ ﺪﻋﺎﺳ. ﻞﺒﺟ ﺐﻧﺎﺟ ﻲﻓ ﺍًﻘﻴﻤﻋ ﺪﺘﻤﻳ ﺪﻘﻌﻣﻭ ﺮﻴﺒﻛ ﻑﻮﻬﻛ ﻊﻤﺠﻣ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ}</CaveChild30.description>
+  <!-- EN: cave child -->
+  <CaveChild30.title>ﻒﻬﻜﻟﺍ ﻞﻔﻃ</CaveChild30.title>
+  <CaveChild30.titleFemale>ﺔﻴﻔﻬﻛ ﺔﻠﻔﻃ</CaveChild30.titleFemale>
+  <!-- EN: cave child -->
+  <CaveChild30.titleShort>ﻒﻬﻜﻟﺍ ﻞﻔﻃ</CaveChild30.titleShort>
+  <CaveChild30.titleShortFemale>ﺔﻴﻔﻬﻛ ﺔﻠﻔﻃ</CaveChild30.titleShortFemale>
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
+  <CrashBaby32.description>{PAWN_gender ? . ﺎﻬﺘﻨﺒﺗﻭ ﻡﺎﻄﺤﻟﺍ ﻲﻓ ﺓﺮﺑﺎﻋ ﺔﻠﻴﺒﻗ ﺎﻬﺘﻔﺸﺘﻛﺍ. ﺔﺘﻴﻤﻣ ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻢﻄﺤﺗ ﻦﻣ ﺓﺪﻴﺣﻮﻟﺍ ﺔﻴﺟﺎﻨﻟﺍ [PAWN_nameDef] ﺖﻧﺎﻛ ،ﺔﻠﻔﻃ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑ : . ﻪﺘﻨﺒﺗﻭ ﻡﺎﻄﺤﻟﺍ ﻲﻓ ﻩﺮﻣﺃ ﺓﺮﺑﺎﻋ ﺔﻠﻴﺒﻗ ﺖﻔﺸﺘﻛﺍ. ﺔﺘﻴﻤﻣ ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻢﻄﺤﺗ ﻦﻣ ﺪﻴﺣﻮﻟﺍ ﻲﺟﺎﻨﻟﺍ [PAWN_nameDef] ﻥﺎﻛ ،ًﻼﻔﻃ ﻪﺘﻔﺼﺑ}</CrashBaby32.description>
+  <!-- EN: crash baby -->
+  <CrashBaby32.title>ﻢﻄﺤﺗ ﻦﻣ ٍﺝﺎﻧ ﻞﻔﻃ</CrashBaby32.title>
+  <CrashBaby32.titleFemale>ﻢﻄﺤﺗ ﻦﻣ ﺔﻴﺟﺎﻧ ﺔﻠﻔﻃ</CrashBaby32.titleFemale>
+  <!-- EN: crashbaby -->
+  <CrashBaby32.titleShort>ﻢﻄﺤﺘﻟﺍ ﻞﻔﻃ</CrashBaby32.titleShort>
+  <CrashBaby32.titleShortFemale>ﻢﻄﺤﺘﻟﺍ ﺔﻠﻔﻃ</CrashBaby32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
+  <FireKeeper44.description>{PAWN_gender ? . ﺪﺠﻟﺍ ﻞﻤﺤﻣ ﻰﻠﻋ ﺔﻴﻟﻭﺆﺴﻤﻟﺍ ﻩﺬﻫ ﺕﺬﺧﺃ. ﺔﻠﻌﺘﺸﻣ ﺔﻠﻴﺒﻘﻟﺍ ﺭﺎﻧ ﺀﺎﻘﺑﺇ ﻦﻋ ﺔﻟﻭﺆﺴﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺪﺠﻟﺍ ﻞﻤﺤﻣ ﻰﻠﻋ ﺮﻣﻷﺍ ﺍﺬﻫ ﺬﺧﺃ. ﺔﻠﻌﺘﺸﻣ ﺔﻠﻴﺒﻘﻟﺍ ﺭﺎﻧ ﺀﺎﻘﺑﺇ ﻦﻋ ًﻻﻭﺆﺴﻣ [PAWN_nameDef] ﻥﺎﻛ}</FireKeeper44.description>
+  <!-- EN: fire keeper -->
+  <FireKeeper44.title>ﺭﺎﻨﻟﺍ ﻆﻓﺎﺣ</FireKeeper44.title>
+  <FireKeeper44.titleFemale>ﺭﺎﻧ ﺔﻈﻓﺎﺣ</FireKeeper44.titleFemale>
+  <!-- EN: firekeep -->
+  <FireKeeper44.titleShort>ﺭﺎﻧ ﺱﺭﺎﺣ</FireKeeper44.titleShort>
+  <FireKeeper44.titleShortFemale>ﺭﺎﻧ ﺔﻈﻓﺎﺣ</FireKeeper44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
+  <Herder19.description>{PAWN_gender ? . ﺱﺎﻨﻟﺍ ﻦﻋ ﺩﺎﻌﺘﺑﻻﺎﺑ ﺖﻌﺘﻤﺘﺳﺍ ﺎﻬﻨﻜﻟ ،ﺍًﺋﺩﺎﻫ ﺍًﻠﻤﻋ ﻥﺎﻛ. ﺔﻀﻳﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺖﺠﻟﺎﻋﻭ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻨﻣﺁ ﺎﻬﻴﻠﻋ ﺖﻈﻓﺎﺣﻭ ،ﻮﻟﺎﻓﻮﻣ ﻥﺎﻌﻄﻘﺑ [PAWN_nameDef] ﺖﻨﺘﻋﺍ : . ﺱﺎﻨﻟﺍ ﻦﻋ ﺩﺎﻌﺘﺑﻻﺎﺑ ﻊﺘﻤﺘﺳﺍ ﻪﻨﻜﻟ ،ﺍًﺋﺩﺎﻫ ﺍًﻠﻤﻋ ﻥﺎﻛ. ﺔﻀﻳﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺞﻟﺎﻋﻭ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺎﻫﺎﻤﺣﻭ ،ﻮﻟﺎﻓﻮﻣ ﻥﺎﻌﻄﻘﺑ [PAWN_nameDef] ﻰﻨﺘﻋﺍ}</Herder19.description>
+  <!-- EN: herder -->
+  <Herder19.title>ﻲﻋﺍﺭ</Herder19.title>
+  <Herder19.titleFemale>ﺔﻴﻋﺍﺭ</Herder19.titleFemale>
+  <!-- EN: herder -->
+  <Herder19.titleShort>ﻡﺎﻨﻏﺃ ﻲﻋﺍﺭ</Herder19.titleShort>
+  <Herder19.titleShortFemale>ﺔﻳِﻋﺍﺭ</Herder19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+  <Hideaway7.description>{PAWN_gender ? . ﺔﻴﻌﻴﺒﻃ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺕﺍﺭﺎﻬﻣ ﺭّﻮﻄﺗ ﻢﻟ ﺎﻬﻧﺃ ﻻﺇ ،ﺔﻴﻓﺮﺤﻟﺍ ﺕﺎﻳﺍﻮﻬﻟﺍ ﺔﺳﺭﺎﻤﻣﻭ ﺓﺀﺍﺮﻘﻠﻟ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺎﻬﻳﺪﻟ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻡﻮﻳ ﻞﻛ ﺍًﺒﻳﺮﻘﺗ ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﻰﻠﻋ ﺎﻬﺘﻨﺑﺍ ﻥﺎﻛّﻠﻤﺘﻤﻟﺍ [PAWN_nameDef] ﺍﺪﻟﺍﻭ ﺖﻋّﺠﺷ : . ﺔﻴﻌﻴﺒﻃ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺕﺍﺭﺎﻬﻣ ﺭﻮﻄﻳ ﻢﻟ ﻪﻧﺃ ﻻﺇ ،ﺔﻴﻓﺮﺤﻟﺍ ﺕﺎﻳﺍﻮﻬﻟﺍ ﺔﺳﺭﺎﻤﻣﻭ ﺓﺀﺍﺮﻘﻠﻟ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻪﻳﺪﻟ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﻡﻮﻳ ﻞﻛ ﺍًﺒﻳﺮﻘﺗ ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﻪﺋﺎﻘﺑ ﻰﻠﻋ ﺔﻳﺎﻤﺤﻟﺍ ﻲﻓ ﺎﻃﺮﻔﻤﻟﺍ [PAWN_nameDef] ﺍﺪﻟﺍﻭ ﻊﺠﺷ}</Hideaway7.description>
+  <!-- EN: hideaway -->
+  <Hideaway7.title>ﺊﺒﺘﺨﻣ</Hideaway7.title>
+  <Hideaway7.titleFemale>ﺔﺌﺒﺘﺨﻣ</Hideaway7.titleFemale>
+  <!-- EN: hideaway -->
+  <Hideaway7.titleShort>ﺊﺒﺘﺨﻣ</Hideaway7.titleShort>
+  <Hideaway7.titleShortFemale>ﺔﻔﻜﺘﻌﻣ</Hideaway7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
+  <ReclusiveChild81.description>{PAWN_gender ? . ﺎﻫﺩﺮﻔﻤﺑ ﻰﻘﺒﺗ ﻥﺃ ﺖﻠﻀﻓ ،ﻦﻴﺤﻟﺍ ﻚﻟﺫ ﻰﺘﺣﻭ. ﺕﺍﻮﻨﺳ ﺲﻤﺧ ﻦﻣ ﺏﺮﻘﻳ ﺎﻣ ﺮﻤﻌﻟﺍ ﻦﻣ ﺖﻐﻠﺑ ﻰﺘﺣ ﻡﻼﻜﻟﺍ [PAWN_nameDef] ﻢﻠﻌﺘﺗ ﻢﻟ\n\n. ﺓﺮﻣ ﻞﻛ ﻲﻓ ﻊﻴﺑﺎﺳﻷ ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺶﻴﻌﺗﻭ ﻝﻮﺠﺘﻠﻟ ﺐﻫﺬﺗ ﻥﺃ ﺕﺩﺎﺘﻋﺍ ،ﺎﻬﺘﻳﺎﻋﺭ ﻰﻠﻋ ﻦﻴﻤﺋﺎﻘﻟﺍ ﻒﺳﺃ ﻰﻟﺇ : . ﻩﺩﺮﻔﻤﺑ ﺀﺎﻘﺒﻟﺍ ﻞﻀﻓ ،ﻦﻴﺤﻟﺍ ﻚﻟﺫ ﻰﺘﺣﻭ. ﺍًﺒﻳﺮﻘﺗ ﻩﺮﻤﻋ ﻦﻣ ﺔﺴﻣﺎﺨﻟﺍ ﻲﻓ ﻥﺎﻛ ﻰﺘﺣ ﺙﺪﺤﺘﻟﺍ [PAWN_nameDef] ﻢﻠﻌﺘﻳ ﻢﻟ\n\n. ﺓﺮﻣ ﻞﻛ ﻲﻓ ﻊﻴﺑﺎﺳﻷ ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺶﻴﻌﻳﻭ ﻝﻮﺠﺘﻠﻟ ﺐﻫﺬﻳ ﻥﺃ ﺩﺎﺘﻋﺍ ،ﻪﻟ ﺔﻳﺎﻋﺮﻟﺍ ﻲﻣﺪﻘﻣ ﻒﺳﺃ ﻰﻟﺇ}</ReclusiveChild81.description>
+  <!-- EN: reclusive child -->
+  <ReclusiveChild81.title>ﻝﺰﻌﻨﻣ ﻞﻔﻃ</ReclusiveChild81.title>
+  <ReclusiveChild81.titleFemale>ﺔﻟﺰﻌﻨﻣ ﺔﻠﻔﻃ</ReclusiveChild81.titleFemale>
+  <!-- EN: reclusive -->
+  <ReclusiveChild81.titleShort>ﻝﺰﻌﻨﻣ</ReclusiveChild81.titleShort>
+  <ReclusiveChild81.titleShortFemale>ﺔﻟﺰﻌﻨﻣ</ReclusiveChild81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
+  <Scavenger22.description>{PAWN_gender ? . ﻡﺎﻤﺘﻫﻼﻟ ﺓﺮﻴﺜﻤﻟﺍ ﺕﺎﻓﺎﺸﺘﻛﻻﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻋ ﺍًﻀﻳﺃ ﺮﻤﺛﺃ ﻪﻨﻜﻟ ،ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻲﻌﻴﺒﻄﻟﺍ ﺎﻬﻟﻮﻀﻓ ﻯﺩﺃ. ﺯﻮﻨﻛ ﻦﻋ ﺭﺎﺛﻵﺍﻭ ﻦﻔﺴﻟﺍ ﻡﺎﻄﺣ ﻲﻓ ﺚﺤﺒﻟﺍ ﻲﻓ ﺲﻤﻐﻨﺘﻟ ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻦﻣ ﺏﺮﻬﺗ ﻲﻫﻭ ﺎﻬﺘﻟﻮﻔﻃ [PAWN_nameDef] ﺖﻀﻗ : . ﻡﺎﻤﺘﻫﻼﻟ ﺓﺮﻴﺜﻤﻟﺍ ﺕﺎﻓﺎﺸﺘﻛﻻﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻋ ﺍًﻀﻳﺃ ﺕﺮﻤﺛﺃ ﺎﻬﻨﻜﻟ ،ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻲﻌﻴﺒﻄﻟﺍ ﻪﻟﻮﻀﻓ ﺕﺩﺃ. ﺯﻮﻨﻛ ﻦﻋ ﺍًﺜﺤﺑ ﺭﺎﺛﻵﺍﻭ ﻲﻧﺎﺒﻤﻟﺍ ﻡﺎﻄﺣ ﻲﻓ ﺐﻴﻘﻨﺘﻠﻟ ﺐﻫﺬﻴﻟ ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻦﻣ ﺏﺮﻬﻳ ﻮﻫﻭ ﻪﺘﻟﻮﻔﻃ [PAWN_nameDef] ﻰﻀﻗ}</Scavenger22.description>
+  <!-- EN: scavenger -->
+  <Scavenger22.title>ﺓﺩﺮﺧ ﻊﻣﺎﺟ</Scavenger22.title>
+  <Scavenger22.titleFemale>ﺓﺩﺮﺧ ﺔﻌﻣﺎﺟ</Scavenger22.titleFemale>
+  <!-- EN: scavenger -->
+  <Scavenger22.titleShort>ﺓﺩﺮﺧ ﻊﻣﺎﺟ</Scavenger22.titleShort>
+  <Scavenger22.titleShortFemale>ﺓﺩﺮﺧ ﺔﻌﻣﺎﺟ</Scavenger22.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
+  <SoleSurvivor21.description>{PAWN_gender ? . ﻞﻴﺻﺎﺤﻤﻟﺍ ﺔﻳﺎﻋﺭﻭ ﻲﻬﻄﻟﺍﻭ ،ﻝﺰﻨﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺀﺎﻘﺒﻟﺍ ﺖﻠﻀﻓﻭ ،ﺔﻴﻔﻃﺎﻋ ﺏﻭﺪﻧ ﻦﻣ ﻲﻧﺎﻌﺗ ﺖﻧﺎﻛ ﺎﻬﻧﺃ ﻻﺇ ،ﻯﺮﺧﺃ ﺔﻋﻮﻤﺠﻣ ﻞﺒﻗ ﻦﻣ ﺎﻬﻴﻨﺒﺗ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺎﻬﻠﻤﻛﺄﺑ [PAWN_nameDef] ﺔﻠﻴﺒﻗ ﺓﺭﺎﻏ ﺖﺤﺴﻣ : . ﻞﻴﺻﺎﺤﻤﻟﺍ ﺔﻳﺎﻋﺭﻭ ﻡﺎﻌﻄﻟﺍ ﻲﻬﻃﻭ ،ﻝﺰﻨﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺀﺎﻘﺒﻟﺍ ﻞﻀﻓﻭ ،ﺔﻴﻔﻃﺎﻋ ﺏﻭﺪﻧ ﻦﻣ ﻲﻧﺎﻌﻳ ﻥﺎﻛ ﻪﻧﺃ ﻻﺇ ،ﻯﺮﺧﺃ ﺔﻋﻮﻤﺠﻣ ﻞﺒﻗ ﻦﻣ ﻪﻴﻨﺒﺗ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺓﺭﺎﻏ ﻲﻓ ﺎﻬﻠﻤﻛﺄﺑ [PAWN_nameDef] ﺔﻠﻴﺒﻗ ﺕﺪﻴﺑُﺃ ﺪﻘﻟ}</SoleSurvivor21.description>
+  <!-- EN: sole survivor -->
+  <SoleSurvivor21.title>ﺪﻴﺣﻭ ٍﺝﺎﻧ</SoleSurvivor21.title>
+  <SoleSurvivor21.titleFemale>ﺓﺪﻴﺣﻭ ﺔﻴﺟﺎﻧ</SoleSurvivor21.titleFemale>
+  <!-- EN: survivor -->
+  <SoleSurvivor21.titleShort>{PAWN_gender ? ﺔﻴﺟﺎﻧ : ٍﺝﺎﻧ}</SoleSurvivor21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
+  <TribeChild40.description>{PAWN_gender ? . ﺎﻬﻳﺪﻟﺍﻭ ﻦﻣ ﺔﻴﺳﺎﺳﻷﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻢﻠﻌﺘﺗﻭ ،ﻮﻟﺎﻓﻮﻣ ﻥﺎﻌﻄﻗ ﻊﻣ ﻙﺮﺤﺘﺗﻭ ،ﺔﻳﺮﻘﻟﺍ ﻝﻮﺣ ﻱﺮﺠﺗ ،ﺔﻠﻴﺒﻗ ﻲﻓ [PAWN_nameDef] ﺕﺄﺸﻧ\n\n. ﺔﻤﻳﺪﻗ ﺍًﻟﻼﻃﺃ ﻦﻜﺗ ﻢﻟ ﺔﻟﺁ َﺮﺗ ﻢﻟﻭ ﺍًﺪﺑﺃ ﺓﺀﺍﺮﻘﻟﺍ ﻢﻠﻌﺘﺗ ﻢﻟ : . ﻪﻳﺪﻟﺍﻭ ﻦﻣ ﺔﻴﺳﺎﺳﻷﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻢﻠﻌﺘﻳﻭ ،ﻮﻟﺎﻓﻮﻣ ﻥﺎﻌﻄﻗ ﻊﻣ ﻙﺮﺤﺘﻳﻭ ،ﺔﻳﺮﻘﻟﺍ ﻝﻮﺣ ﺾﻛﺮﻳ ،ﺔﻠﻴﺒﻗ ﻲﻓ [PAWN_nameDef] ﺄﺸﻧ\n\n. ﺔﻤﻳﺪﻗ ﺍًﻟﻼﻃﺃ ﻦﻜﺗ ﻢﻟ ﺔﻟﺁ َﺮﻳ ﻢﻟﻭ ﺍًﺪﺑﺃ ﺓﺀﺍﺮﻘﻟﺍ ﻢﻠﻌﺘﻳ ﻢﻟ}</TribeChild40.description>
+  <!-- EN: tribe child -->
+  <TribeChild40.title>ﻲﻠﺒﻗ ﻞﻔﻃ</TribeChild40.title>
+  <TribeChild40.titleFemale>ﺔﻴﻠﺒﻗ ﺔﻠﻔﻃ</TribeChild40.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild40.titleShort>{PAWN_gender ? ﺔﻴﻠﺒﻗ : ﻲﻠﺒﻗ}</TribeChild40.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
+  <VengefulChild43.description>{PAWN_gender ? …ﺔﻳﺮﺒﻟﺍ ﺮﺒﻋ ﻒﻨﻋ ﺔﻠﻤﺣ ﺕﺃﺪﺑﻭ ﻦﻴﻤﺟﺎﻬﻤﻟﺍ ﻦﻣ ﻡﺎﻘﺘﻧﻻﺍ ﻰﻠﻋ ﺖﻤﺴﻗﺃ. ﻕﺮﻄﻟﺍ ﻉﺎﻄﻗ ﺪﻳ ﻰﻠﻋ ﻞﻣﺎﻜﻟﺎﺑ ﺕﺮﻣﺩ ﺎﻬﻧﺃ ﺪﺠﺘﻟ ﺎﻬﺘﻳﺮﻗ ﻰﻟﺇ [PAWN_nameDef] ﺕﺩﺎﻋ ،ﺎﻬﺘﻟﻮﻔﻃ ﻲﻓ : …ﺔﻳﺮﺒﻟﺍ ﺮﺒﻋ ﺍًﻔﻴﻨﻋ ﺍًﻣﻮﺠﻫ ﺃﺪﺑﻭ ﻦﻴﻤﺟﺎﻬﻤﻟﺍ ﻦﻣ ﻡﺎﻘﺘﻧﻻﺍ ﻰﻠﻋ ﻢﺴﻗﺃ. ﻕﺮﻄﻟﺍ ﻉﺎﻄﻗ ﺪﻳ ﻰﻠﻋ ﻞﻣﺎﻜﻟﺎﺑ ﺕﺮﻣﺩ ﺎﻬﻧﺃ ﺪﺠﻴﻟ ﻪﺘﻳﺮﻗ ﻰﻟﺇ [PAWN_nameDef] ﺩﺎﻋ ،ﻪﺘﻟﻮﻔﻃ ﻲﻓ}</VengefulChild43.description>
+  <!-- EN: vengeful child -->
+  <VengefulChild43.title>ﻡِﻗَﺘﻧُﻣ ٌﻞﻔﻃ</VengefulChild43.title>
+  <VengefulChild43.titleFemale>ﺔﻴﻣﺎﻘﺘﻧﺍ ﺔﻠﻔﻃ</VengefulChild43.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulChild43.titleShort>ﻢﻘﺘﻨﻣ</VengefulChild43.titleShort>
+  <VengefulChild43.titleShortFemale>ﺔﻤﻘﺘﻨﻣ</VengefulChild43.titleShortFemale>
+  
+</LanguageData>

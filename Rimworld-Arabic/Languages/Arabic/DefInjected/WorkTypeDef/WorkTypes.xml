@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Art.label>Arte</Art.label>
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>. ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻠﻴﻤﺟ ﺔﻴﻨﻓ ﺍًﻟﺎﻤﻋﺃ ﺞﺘﻨﻳ</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>ﻦﻓ</Art.gerundLabel>
+  <!-- EN: art -->
+  <Art.labelShort>ﻦﻓ</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>ﻥﺎﻨﻓ</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>ﺪﻨﻋ ﻥﻮﻨﻓ ﺯﺎﺠﻧﺇ</Art.verb><!-- EN: Do art at -->
+  
+  <BasicWorker.label>ﺪﻨﻋ ﻦﻓ</BasicWorker.label>
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>. ﺕﻻﻵﺍ ﺢﻴﺗﺎﻔﻣ ﻞﻴﻐﺸﺗﻭ ﺀﺎﻨﺠﺴﻟﺍ ﺡﺍﺮﺳ ﻕﻼﻃﺇ. ﺔﺼﺼﺨﺘﻣ ﺮﻴﻏﻭ ﺔﻄﻴﺴﺑﻭ ﺔﻠﻬﺳ ﻡﺎﻬﻣ</BasicWorker.description>
+  <!-- EN: basic tasks -->
+  <BasicWorker.gerundLabel>ﺔﻴﺳﺎﺳﺃ ﻡﺎﻬﻣ</BasicWorker.gerundLabel>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>ﻲﺳﺎﺳﺃ</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>ﻞﻣﺎﻋ</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>ﻊﻣ ﻞﻣﺎﻌﺗ</BasicWorker.verb><!-- EN: Deal with -->
+  
+  <Cleaning.label>ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ</Cleaning.label>
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
+  <Cleaning.description>. ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﻴﺿﺭﻷﺍ ﻒﻴﻈﻨﺗﻭ ﺙﻮﻠﺘﻟﺍﻭ ﺝﻮﻠﺜﻟﺍ ﺔﻟﺍﺯﺇ</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>ﻒﻴﻈﻨﺗ</Cleaning.gerundLabel>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>ﻒﻴﻈﻨﺗ</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>ﻒﻈﻨﻣ</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>ﻒﻴﻈﻨﺗ</Cleaning.verb><!-- EN: Clean -->
+  
+  <Construction.label>ﻒﻴﻈﻨﺗ</Construction.label>
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>. ﺓﺭﺎﻬﻨﻤﻟﺍ ﻭﺃ ﺓﺭﺮﻀﺘﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺢﻠﺼﻳﻭ ،ﺎﻬﺘﺼﺼﺧ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻲﻨﺒﻳ</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>ﺀﺎﻨﺑ</Construction.gerundLabel>
+  <!-- EN: construct -->
+  <Construction.labelShort>ﺀﺎﻨﺑ</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>ﻲﻧﺎﺑ</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>ﺀﺎﻨﺑ</Construction.verb><!-- EN: Construct -->
+  
+  <Cooking.label>ﺀﺎﻨﺑ</Cooking.label>
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>. ﻡﻮﺤﻠﻟﺍ ﻊﻴﻄﻘﺗﻭ ﺕﺎﺒﺟﻮﻟﺍ ﺮﻴﻀﺤﺗ</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>ﺦﺒﻃ</Cooking.gerundLabel>
+  <!-- EN: cook -->
+  <Cooking.labelShort>ﺥﺎﺒﻃ</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>ﺥﺎﺒﻃ</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>ﺥﺎﺒﻃ</Cooking.verb><!-- EN: Cook -->
+  
+  <Crafting.label>ﺥﺎﺒﻃ</Crafting.label>
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>. ﻚﻟﺫ ﺮﻴﻏﻭ ،ﻥﺩﺎﻌﻤﻟﺍ ﺮﻬﺻﻭ ،ﺮﺠﺤﻟﺍ ﻊﻴﻄﻘﺗ ﻚﻟﺫ ﻞﻤﺸﻳﻭ ،ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣ ﻲﻓ ﺓﺭﺎﻬﻤﻟﺍ ﺔﻀﻔﺨﻨﻣ ﺔﻣﺎﻋ ﺔﻳﻭﺪﻳ ﻝﺎﻤﻋﺄﺑ ﻡﻮﻘﻳ</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>ﻊﻨﺻ</Crafting.gerundLabel>
+  <!-- EN: craft -->
+  <Crafting.labelShort>ﻊﻨﺻ</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>ﻊﻧﺎﺻ</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>ﻲﻓ ﻊﻨﺻﺍ</Crafting.verb><!-- EN: Craft at -->
+  
+  <Doctor.label>ﻲﻓ ﻊﻨﺻ</Doctor.label>
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>. ﺀﺎﻨﺠﺴﻟﺍﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻜﺑ ﺀﺎﺒﻃﻷﺍ ﻲﻨﺘﻌﻴﺳ. ﻢﻬﻴﻟﺇ ﺔﻠﻛﻮﻤﻟﺍ ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ِﺮﺟﺃﻭ ،ﻢﻬﻴﻠﻋ ﻥﻮﻫﻭ ،ﻢﻬﻤﻌﻃﺃﻭ ،ﻰﺿﺮﻤﻟﺍ ﺞﻟﺎﻋ</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>ﺔﺑﺎﺒﻃ</Doctor.gerundLabel>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>ﺐﻴﺒﻃ</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>ﺐﻴﺒﻃ</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>ﺔﻳﺎﻋﺭ</Doctor.verb><!-- EN: Care for -->
+  
+  <Firefighter.label>ﺔﻳﺎﻋﺭ</Firefighter.label>
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ</Firefighter.gerundLabel>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>ﺀﺎﻔﻃﺇ</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>ﻖﺋﺍﺮﺣ ﺊﻔﻄﻣ</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>ﺀﺎﻔﻃﺇ</Firefighter.verb><!-- EN: Extinguish -->
+  
+  <Growing.label>ﺀﺎﻔﻃﺇ</Growing.label>
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>. ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻤﺟﺍﻭ ،ﻞﻴﺻﺎﺤﻤﻟﺍ ﺪﺼﺣﺍﻭ ،ﺭﻭﺬﺒﻟﺍ ﻉﺭﺯﺍ</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>ﺔﻋﺍﺭﺯ</Growing.gerundLabel>
+  <!-- EN: grow -->
+  <Growing.labelShort>ﺔﻋﺍﺭﺯ</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>ﻉﺭﺍﺰﻣ</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>ﺔﻋﺍﺭﺯ</Growing.verb><!-- EN: Grow -->
+  
+  <Handling.label>ﺔﻋﺍﺭﺯ</Handling.label>
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>. ﺎﻬﺤﺑﺫﻭ ﺎﻫﺩﺭﺍﻮﻣ ﺩﺎﺼﺣﻭ ﺎﻬﺒﻳﺭﺪﺗﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻳِﺟْﺩَﺗ</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻳﺎﻋﺭ</Handling.gerundLabel>
+  <!-- EN: handle -->
+  <Handling.labelShort>ﺔﻳﺎﻋﺭ</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>ﺕﺎﻧﺍﻮﻴﺣ ﻲﻋﺍﺭ</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>ﺔﻳﺎﻋﺭ</Handling.verb><!-- EN: Handle -->
+  
+  <Hauling.label>ﺓَﺟِﻟﺍَﻋُﻣ</Hauling.label>
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>. ﺎﻬﺟﺎﺘﺤﺗ ﻲﺘﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻰﻟﺇ ﺀﺎﻴﺷﻷﺍ ﻞﻤﺣ</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>ﻊﺋﺎﻀﺒﻟﺍ ﻞﻘﻧ</Hauling.gerundLabel>
+  <!-- EN: haul -->
+  <Hauling.labelShort>ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧ</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>ﻞﻗﺎﻧ</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>ﻞﻘﻧ</Hauling.verb><!-- EN: Haul -->
+  
+  <Hunting.label>ﻞﻘﻧ</Hunting.label>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>. ﺪﻴﺼﻠﻟ ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>ﺪﻴﺻ</Hunting.gerundLabel>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>ﺪﻴﺻ</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>ﺩﺎﻴﺻ</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>ﺪﻴﺻ</Hunting.verb><!-- EN: Hunt -->
+  
+  <Mining.label>ﺪﻴﺻ</Mining.label>
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>. ﺐﻴﻘﻨﺘﻟﺍﻭ ﺮﻔﺤﻟﺍ</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>ﻦﻳﺪﻌﺗ</Mining.gerundLabel>
+  <!-- EN: mine -->
+  <Mining.labelShort>ﻢﺠﻨﻣ</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>ﻢﺠﻨﻣ</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>ﻢﺠﻨﻣ</Mining.verb><!-- EN: Mine -->
+  
+  <Patient.label>ﻦﻳﺪﻌﺗ</Patient.label>
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>. ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺩﺪﻬﺗ ﺔﻴﺤﺻ ﺔﻟﺎﺣ ﻦﻣ ﻲﻧﺎﻌﺗ ﺖﻨﻛ ﺍﺫﺇ ﺝﻼﻌﻠﻟ ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﺐﻫﺫﺍ</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>ﻰﺿﺮﻤﻟﺎﺑ ﺀﺎﻨﺘﻋﻻﺍ</Patient.gerundLabel>
+  <!-- EN: patient -->
+  <Patient.labelShort>ﺾﻳﺮﻣ</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>ﺾﻳﺮﻣ</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>ﻝّﻤﺤﺗ</Patient.verb><!-- EN: Become patient -->
+  
+  <PatientBedRest.label>ٍّﻥَﺃَﺗ</PatientBedRest.label>
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>. ﺮﺷﺎﺒﻣ ﻞﻜﺸﺑ ﺓﺎﻴﺤﻠﻟ ﺓﺩﺪﻬﻤﻟﺍ ﺮﻴﻏ ﺔﻴﺒﻄﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻠﻟ ﺵﺍﺮﻔﻟﺍ ﻲﻓ ِﻖﻠﺘﺳﺍ</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺔﺣﺍﺭ</PatientBedRest.gerundLabel>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺔﺣﺍﺭ</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>ﺵﺍﺮﻔﻟﺍ ﺾﻳﺮﻣ</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>ﻝّﻤﺤﺗ</PatientBedRest.verb><!-- EN: Become patient -->
+  
+  <PlantCutting.label>ٍّﻥَﺃَﺗ</PlantCutting.label>
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>. ﻦﻴﻴﻌﺘﻟﺍ ﺐﺴﺣ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﺼﺣﺍ ﻭﺃ ﻊﻄﻗﺍ</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>ﺕﺎﺗﺎﺒﻧ ﻊﻴﻄﻘﺗ</PlantCutting.gerundLabel>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>ﺕﺎﺒﻧ ﻊﻄﻗ</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>ﺕﺎﺗﺎﺒﻧ ﻊﻃﺎﻗ</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>ﻊﻴﻄﻘﺗ</PlantCutting.verb><!-- EN: Cut -->
+  
+  <Research.label>ﻊﻄﻗ</Research.label>
+  <!-- EN: Perform research work. -->
+  <Research.description>. ﺙﺎﺤﺑﺃ ﺀﺍﺮﺟﺇ</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>ﺚﺤﺑ</Research.gerundLabel>
+  <!-- EN: research -->
+  <Research.labelShort>ﺚﺤﺑ</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>ﺚﺣﺎﺑ</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>ﻲﻓ ﺚﺤﺑ</Research.verb><!-- EN: Research at -->
+  
+  <Smithing.label>ﺓﺩﺍﺪﺣ</Smithing.label>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>. ﺭﻮﺘﻴﻧﺎﻜﻴﻣ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ،ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺢﻠﺼﻳ ﺎﻤﻛ. ﻲﻟﻵﺍ ﻞﻴﻐﺸﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻭﺃ ﺩﺍﺪﺤﻛ ﺎﻣﺇ ،ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺼﻳ</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>ﺓﺩﺍﺪﺣ</Smithing.gerundLabel>
+  <!-- EN: smith -->
+  <Smithing.labelShort>ﺩﺍّﺪﺣ</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>ﺩﺍّﺪﺣ</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>ﺪﻨﻋ ﺓﺩﺍﺪﺣ</Smithing.verb><!-- EN: Smith at -->
+  
+  <Tailoring.label>ﺔﻃﺎﻴﺧ</Tailoring.label>
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>. ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺲﺑﻼﻣ ﻊﻨﺻ</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>ﺔﻃﺎﻴﺧ</Tailoring.gerundLabel>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>ﻁﺎﻴﺧ</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>ﻁﺎﻴﺧ</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>ﺪﻨﻋ ﺔﻃﺎﻴﺧ</Tailoring.verb><!-- EN: Tailor at -->
+  
+  <Warden.label>ﻁﺎﻴﺧ</Warden.label>
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>. ﻢﻫﺪﻴﻨﺠﺗﻭ ،ﻢﻬﻌﻣ ﺙﺪﺤﺘﻟﺍﻭ ،ﻢﻬﻣﺎﻌﻃﺇﻭ ،ﺀﺎﻨﺠﺴﻟﺍ ﺓﺭﺍﺩﺇ</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>ﻦﺠﺴﻟﺍ ﺔﺒﻗﺍﺮﻣ</Warden.gerundLabel>
+  <!-- EN: warden -->
+  <Warden.labelShort>ﻦﺠﺴﻟﺍ ﺱﺭﺎﺣ</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>ﻦﺠﺴﻟﺍ ﺱﺭﺎﺣ</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>ﺔﺠﻟﺎﻌﻣ</Warden.verb>
+  
+</LanguageData>

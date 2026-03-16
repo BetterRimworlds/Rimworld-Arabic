@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﺀﺎﻨﺑ ﺕﺎﻴﺳﺎﺳﺃ</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>.ﻲﺴﻤﺸﻟﺍ ﻡﺎﻈﻨﻟﺍ ﺍﺬﻫ ﺓﺭﺩﺎﻐﻣ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻨﻴﻔﺳ ﺀﺎﻨﺒﻟ ﻰﻟﻭﺄﻟﺍ ﺓﻮﻄﺨﻟﺍ ﻲﻫ ﻩﺬﻫ .ﺀﺎﻀﻓ ﺔﻨﻴﻔﺴﻟ ﺔﻤﻋﺍﺪﻟﺍﻭ ﺔﻴﻠﻜﻴﻬﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺀﺎﻨﺒﺑ ﺢﻤﺴﻳ</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>ﻦﻃﻮﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﺎﻤﺑﺭﻭ ،ﺔﻳﺮﺤﻟﺍ ًﺍﺮﻴﺧﺃ ﻲﻨﻌﻴﺳ - ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻦﻣ ﺏﻭﺮﻬﻟﺍ\n\nًﺎﻀﻳﺃ ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ ﻪﻨﻜﻟ\n\nﺔﻓﻭﺮﻌﻣ ﺮﻴﻏ ﺏﺎﺒﺳﺄﻟ ﻩﺬﻫ ﺔﻗﺎﻄﻟﺍ ﺕﺍﺭﺎﺷﺇ ﻰﻟﺇ ﻥﻮﺑﺬﺠﻨﻳ ﻥﻮﻴﺗﻮﻧﺎﻜﻴﻤﻟﺍ ﻥﺃ ًﺎﻀﻳﺃ ﻑﺮﻌُﻳ .ﻞﺒﻗ ﻦﻣ ﺎﻫﺮﺗ ﻢﻟ ﺓﺪﺸﺑ ،ﻚﺘﻤﺟﺎﻬﻤﻟ ﺕﺎﺟﻮﻣ ﻲﻓ ﺓﺍﺰﻐﻟﺍ ﻊﻓﺪﻨﻴﺳ .ﺕﺍﺮﺘﻣﻮﻠﻴﻜﻟﺍ ﻑﺎﻟﺁ ﺪﻌﺑ ﻰﻠﻋ ﺎﻬﻓﺎﺸﺘﻛﺍ ﻦﻜﻤﻳ ﺔﻗﺎﻃ ﺓﺭﺎﺷﺇ ﺔﻗﺎﻄﻟﺍ ﺔﺠﻟﺎﻌﻣ ﺓﺪﺣﻭ ﺭﺪﺼﺘﺳ ،ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﺀﺪﺑ ﺩﺮﺠﻤﺑ .ﻦﺤﺸﻠﻟ ًﺎﻣﻮﻳ 15 ﻦﻔﺴﻟﺍ ﺕﺎﻠﻋﺎﻔﻣ ﻕﺮﻐﺘﺴﺗ .ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﺓﺭﺩﺎﻐﻣ ﺪﻳﺮﺗ ﺔﺴﺋﺎﻴﻟﺍ ﺡﺍﻭﺭﺄﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ\n\nﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺏﻭﺮﻬﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﺖﻨﻛ ﺍﺫﺇ ﻡﻮﺠﻬﻠﻟ ﺕﺎﻋﺎﻓﺪﻟﺍﻭ ﺔﺤﻠﺳﺄﻟﺍﻭ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺗ ﻚﻴﻠﻋ ﻦﻴﻌﺘﻴﺳ .ًﺎﻴﺳﺎﻗ ﺍًﺭﺎﺒﺘﺧﺍ ﻥﻮﻜﻴﺳ ،ﻞﻌﻔﺗ ﺎﻣﺪﻨﻋ ﻦﻜﻟﻭ ،ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ ﻞﻴﻌﻔﺘﺑ ﻡﻮﻘﺗ ﻰﺘﺣ ﺃﺪﺒﻳ ﻦﻟ</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>ﺔﻨﻴﻔﺴﻟﺍ ﻕﺎﻠﻃﺇ</ShipBasics.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->starship structural engineering</li>
+    <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
+    <li>subject_story->was a structural designer in an urbworld skyripper district</li>
+    <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
+    <li>subject_gerund->constructing starship structures</li>
+  -->
+  <ShipBasics.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﻞﻜﻴﻫ ﺔﺳﺪﻨﻫ</li>
+    <li>subject_def->ﺔﻴﺋﺎﻀﻔﻟﺍ ﺕﺎﺒﻛﺮﻤﻠﻟ ﺔﻴﺘﺤﺘﻟﺍ ﺔﻴﻨﺒﻟﺍ ﺔﺳﺪﻨﻫ ﻦﻣ</li>
+    <li>subject_story->.ﺊﻟﺄﻠﺘﻣ ﻢﻟﺎﻋ ﻝﻮﻄﺳﺄﻟ ﺔﻴﺋﺎﻀﻓ ﻦﻔﺳ ﻲﺳﺪﻨﻬﻣ ﺪّﻨﺟ</li>
+    <li>subject_story->.ﻱﺮﻀﺣ ﻢﻟﺎﻋ ﻲﻓ ﺀﺎﻤﺴﻟﺍ ﻲﻌﻃﺎﻗ ّﻲﺣ ﻲﻓ ﺎًﻴﻠﻜﻴﻫ ﺎًﻤﻤﺼﻣ ﻥﺎﻛ</li>
+    <li>subject_story->.ﺖﻴﻣ ﻢﻟﺎﻌﻟ ﻡﺎﻄﺤﻟﺍ ﻡﺍﺰﺣ ﻲﻓ ﻦﻔﺴﻟﺍ ﻡﺎﻄﺣ ﺪﺼﺣ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﻞﻛﺎﻴﻫ ﺀﺎﻨﺑ</li>
+  </ShipBasics.generalRules.rulesStrings>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>ﺔﻟﺂﻟﺍ ﻉﺎﻨﻗﺇ</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>.ﺕﺍﻮﻨﺳ ﻕﺮﻐﺘﺴﺗ ﺔﻴﻤﺠﻧ ﺔﻠﺣﺮﻟ ﺓﺪﻘﻌﻤﻟﺍ ﺕﺍﺭﺍﺮﻘﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻠﻟ ﺔﻳﺭﻭﺮﺿ ﺔﻴﺼﺨﺷ ﺓﺍﻮﻧ ﻥﺈﻓ ،ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺮﻔﺴﻟﺍ ﺀﺎﻨﺛﺃ ﻥﻮﻣﺎﻨﻳ ﺱﺎﻨﻟﺍ ﻥﺄﻟ ﺍًﺮﻈﻧ .ﺔﻨﻴﻔﺴﻠﻟ ﻲﻟﺁ ﻥﺎﻄﺒﻘﻛ ﻞﻤﻌﻟﺎﺑ ﻞﻌﻔﻟﺎﺑ ﺓﺩﻮﺟﻮﻣ ﺔﻴﺼﺨﺷ ﺓﺍﻮﻧ ﻉﺎﻨﻗﺈﻟ ﺓﺄﻓﺎﻜﻣ ﺕﺍﺭﺎﺷﺇ ﻡﺎﻈﻧ ِﻦﺑﺍ</ShipComputerCore.description>
+  <!-- EN:
+    <li>subject->persona core incentivization</li>
+    <li>subject->starship AI sanity maintenance</li>
+    <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
+    <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
+    <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
+    <li>subject_gerund->incentivizing persona cores</li>
+    <li>subject_gerund->maintaining starship AI sanity</li>
+    <li>subject_gerund->constructing reward-signal systems</li>
+  -->
+  <ShipComputerCore.generalRules.rulesStrings>
+    <li>subject->ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻠﻟ ﺔﻴﺳﺎﺳﺄﻟﺍ ﺓﺍﻮﻨﻟﺍ ﺰﻴﻔﺤﺗ</li>
+    <li>subject->ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻠﻟ ﺔﻴﻧﺎﻠﻘﻌﻟﺍ ﺔﻧﺎﻴﺻ</li>
+    <li>subject_def->ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻟﺍ ﻯﻮﻧ ﻉﺎﻨﻗﺇ ﻦﻣ</li>
+    <li>subject_def->ﺀﺎﻀﻔﻟﺍ ﻦﻔﺴﻟ ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻟﺍ ﺔﻴﻧﺎﻠﻘﻋ ﺔﻧﺎﻴﺻ ﻦﻣ</li>
+    <li>subject_story->.ﻖﻴﻗﺩ ﺪﻳﺪﺠﺗ ﻝﺎﻠﺧ ﻦﻣ ﺓﺫﺎﺷ ﺔﻨﻴﻔﺳ ﺐﻠﻗ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﺩﺎﻌﺘﺳﺍ</li>
+    <li>subject_story->.ﺔﻠﻳﻮﻄﻟﺍ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺮﻔﺴﻟﺍ ﺕﺍﻮﻨﺳ ﻝﺎﻠﺧ ﺔﻨﻴﻔﺴﻟﺍ ﺓﺍﻮﻧ ﻞﻐﺸﻟ ﺕﺍﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺭﺍﺩﺈﻟ ﺓﺎﻛﺎﺤﻣ ﺕﺎﻴﻠﻤﻋ ﺄﺸﻧﺃ</li>
+    <li>subject_story->.ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻲﻓ ﻯﻮﻨﻟﺍ ﻦﻋ ﺮﻴﺜﻜﻟﺍ ﻢﻠﻌﺗﻭ ،"ﺓﺮﻴﺼﻗ" ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺔﻠﺣﺭ ﻝﺎﻠﺧ ﺔﻨﻴﻔﺳ ﺓﺍﻮﻧ ﻖﻓﺍﺭ</li>
+    <li>subject_gerund->ﺔﻴﻛﺬﻟﺍ ﻯﻮﻨﻟﺍ ﺰﻴﻔﺤﺗ</li>
+    <li>subject_gerund->ﺀﺎﻀﻔﻟﺍ ﻦﻔﺴﻟ ﻲﻋﺎﻨﻄﺻﺎﻟﺍ ﺀﺎﻛﺬﻟﺍ ﻞﻘﻋ ﺔﻣﺎﻠﺳ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ</li>
+    <li>subject_gerund->ﺓﺄﻓﺎﻜﻤﻟﺍ ﺕﺍﺭﺎﺷﺇ ﺔﻤﻈﻧﺃ ﺀﺎﻨﺑ</li>
+  </ShipComputerCore.generalRules.rulesStrings>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>ﻲﻏﺍﺮﻔﻟﺍ ﺪﻴﻤﺠﺘﻟﺍ ﺕﺎﺒﺳ ﺵﻮﻌﻧ</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>.ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺕﺍﻮﻨﺳ ﻕﺮﻐﺘﺴﺗ ﺕﺎﻠﺣﺭ ﻲﻓ ﺹﺎﺨﺷﺄﻟﺍ ﻞﻘﻨﻟ ،ﻍﺍﺮﻔﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻞﻤﺤﺘﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻳﻮﻗ ﺓﺮﻔﺸﻣ ﺕﺎﺒﺳ ﺖﻴﺑﺍﻮﺗ ﺀﺎﺸﻧﺈﺑ ﻚﻟ ﺢﻤﺴﻳ</ShipCryptosleep.description>
+  <!-- EN:
+    <li>subject->starship-grade cryptosleep caskets</li>
+    <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
+    <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
+    <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
+    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+  -->
+  <ShipCryptosleep.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﻤﺠﻨﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﺪﻴﻤﺠﺘﻟﺍ ﻡﻮﻧ ﺮﺋﺎﺒﻛ</li>
+    <li>subject_def->ﺔﻴﻤﺠﻨﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﺓﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﺎﻟﻮﺴﺒﻛ ﻦﻣ</li>
+    <li>subject_story->.ﻯﺮﺧﺃ ﺓﺮﻣ ﻡﺍﺪﺨﺘﺳﺎﻟﺍ ﻦﻣ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﻦﻜﻤﺘﺗ ﻰﺘﺣ Celeste CMC ﻲﻓ ﺔﻠﺷﺎﻔﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﺎﻟﻮﺴﺒﻛ ﻝﺪﺒﺘﺳﺍ</li>
+    <li>subject_story->.ﻦﻳﺮﻬﺷ ﺓﺪﻤﻟ ﻪﺴﻔﻨﺑ ﺎﻬﻤﻤﺻ ﺔﻟﻮﺴﺒﻛ ﻲﻓ ﺎﺠﻧﻭ ،ﻖﻴﺤﺴﻟﺍ ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﺄﻄﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻪﺑ ﻲﻘﻟُﺃ</li>
+    <li>subject_story->.ﺔﻴﻤﺠﻨﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﻚﻠﺗﻭ ﺔﻴﺒﻛﻮﻜﻟﺍ ﺔﺟﺭﺪﻟﺍ ﻦﻣ ﺕﺍﺪﻌﻤﻟﺍ ﻦﻴﺑ ﺕﺎﻓﺎﻠﺘﺧﺎﻟﺍ ﻝﻮﺣ ﺕﺍﺮﺿﺎﺤﻣ ﻰﻘﻟﺃ</li>
+    <li>subject_gerund->ﺔﻨَّﺼﺤُﻣ ﻱﺭﻮﻠﺑ ﺕﺎﺒﺳ ﺖﻴﺑﺍﻮﺗ ﺀﺎﻨﺑ</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﻙﺮﺤﻣ</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>.ﻥﺎﻜﻣ ﻱﺃ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺳ ﺮﻣﺄﻟﺍ ﻕﺮﻐﺘﺴﻴﺳ ،ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﻊﻴﻤﺟ ﻊﻣ ﻝﺎﺤﻟﺍ ﻮﻫ ﺎﻤﻛ ،ﻊﺒﻄﻟﺎﺑ .ﺓﺪﻴﻌﺒﻟﺍ ﻡﻮﺠﻨﻟﺍ ﻰﻟﺇ ﻢﺧﺰﻟﺍ ﻝﺎﺳﺭﺈﻟ ﻢﻜﻟﺍ ﺱﺎﻴﻘﻣ ﺕﺍﺮﻴﺛﺄﺗ ﻦﻣ ﺓﺩﺎﻔﺘﺳﺎﻟﺍ ﻝﺎﻠﺧ ﻦﻣ ﻯﺮﺧﺃ ﻡﻮﺠﻧ ﻰﻟﺇ ﻚﻌﻓﺪﺗ ﻥﺃ JT ﺓﺪﺣﻮﻟ ﻦﻜﻤﻳ .ﺔﻨﻴﻔﺴﻟ Johnson-Tanaka ﺓﺪﺣﻭ ﺀﺎﻨﺒﺑ ﻚﻟ ﺢﻤﺴﻳ</ShipEngine.description>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
+    <li>subject->exotic momentum transfer</li>
+    <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
+    <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
+    <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
+    <li>subject_gerund->constructing starship drives</li>
+  -->
+  <ShipEngine.generalRules.rulesStrings>
+    <li>subject->ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﺔﻳﺮﻈﻧ</li>
+    <li>subject->ﺐﻳﺮﻐﻟﺍ ﻢﺧﺰﻟﺍ ﻞﻘﻧ</li>
+    <li>subject_def->ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﺔﻳﺮﻈﻧ ﻦﻣ</li>
+    <li>subject_def->ﺐﻳﺮﻐﻟﺍ ﻢﺧﺰﻟﺍ ﻞﻘﻧ ﻦﻣ</li>
+    <li>subject_story->.ﻢﻜﻟﺍ ﻕﺎﻄﻧ ﻰﻠﻋ ﺓﺩﻮﺻﺮﻤﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍﻭ ،ﺎﻛﺎﻧﺎﺗﻭ ،ﻥﻮﺴﻧﻮﺟ ﻝﻮﺣ ﺔﻌﻣﺎﺠﻟﺍ ﻲﻓ ﺕﺍﺮﺿﺎﺤﻣ ﻰﻘﻟﺃ</li>
+    <li>subject_story->.ﺔﻴﻤﻠﻋ ﺔﻟﺎﺳﺭ ﻞﺟﺄﻟ ﺔﻴﺳﺎﺳﺄﻟﺍ ﺉﺩﺎﺒﻤﻟﺍ ﻦﻣ ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﻙﺮﺤﻣ ﻰﻨﺑ</li>
+    <li>subject_story->.ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺮﻓﺎﺴﺗ ﺔﻨﻴﻔﺴﻟﺍ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑ ﻦﻳﺪﻘﻋ ﺓﺪﻤﻟ ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﻙﺮﺤﻣ ﻰﻠﻋ ﻆﻓﺎﺣ</li>
+    <li>subject_gerund->ﺔﻴﻤﺠﻨﻟﺍ ﻦﻔﺴﻟﺍ ﺕﺎﻛﺮﺤﻣ ﺀﺎﻨﺑ</li>
+  </ShipEngine.generalRules.rulesStrings>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻞﻋﺎﻔﻣ</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>.ﻦﻴﺒﻫﺎﻨﻟﺍﻭ ﺓﺍﺰﻐﻟﺍ ﺏﺬﺠﺘﺳ ﺔﻠﻳﻮﻃ ﻞﻴﻐﺸﺗ ﺔﻴﻠﻤﻋ ﺎﻬﻳﺪﻟ ﺕﺎﻠﻋﺎﻔﻤﻟﺍ ﻥﺃ ﻆﺣﺎﻟ .ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻞﻴﻐﺸﺘﻟ ﺪﻣﺄﻟﺍ ﻞﻳﻮﻃ ﻱﻭﻮﻧ ﻞﻋﺎﻔﻣ ﺀﺎﻨﺒﺑ ﻚﻟ ﺢﻤﺴﻳ</ShipReactor.description>
+  <!-- EN:
+    <li>subject->starship nuclear reactor</li>
+    <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
+    <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
+    <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
+    <li>subject_gerund->constructing starship reactors</li>
+  -->
+  <ShipReactor.generalRules.rulesStrings>
+    <li>subject->ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻠﻟ ﺔﻳﻭﻮﻧ ﺕﺎﻠﻋﺎﻔﻣ</li>
+    <li>subject_def->ﺔﻳﻭﻮﻨﻟﺍ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍ ﺕﺎﻠﻋﺎﻔﻣ ﻦﻣ</li>
+    <li>subject_story->.ﺎﻬﻋﺎﻠﻗﺇ ﻯﺮﻴﻟ ﺶﻌﻳ ﻢﻟ ﻪﻨﻜﻟ ،ﺓﺮﻤﻌﺘﺴﻣ ﺔﻨﻴﻔﺴﻟ ًﺍﺪﻳﺪﺟ ًﺎﻠﻋﺎﻔﻣ ﻰﻨﺑ</li>
+    <li>subject_story->.َﻞَﻤَﻌْﻟﺍ ُﺃَﺪْﺒَﻳ ُﻞِﻋﺎَﻔُﻤْﻟﺍ َﻥﺎَﻛ ﺎَﻤَﻨْﻴَﺑ ِﻢَﻟﺎَﻌْﻟﺍ ْﻦِﻣ ِﺺُّﻠَﺨَّﺘﻠِﻟ َﻦﻴِﺴِﺋﺎَﻴﻟﺍ َﻦﻳِﺯﺎَﻐﻟﺍ َّﺪِﺿ ِﺔَﻨﻴِﻔَّﺴﻟﺍ ِﻦَﻋ َﻊَﻓﺍَﺩ</li>
+    <li>subject_story->.ﺐﻛﻮﻜﻠﻟ ﻱﺪﻴﻠﺠﻟﺍ ﺀﺎﻄﻐﻟﺍ ﺖﺤﺗ ﻥﻮﻓﺪﻣ ﻲﻨﻴﺟ ﻥﺰﺨﻤﻟ ﻲﻃﺎﻴﺘﺣﺍ ﺔﻗﺎﻃ ﺭﺪﺼﻤﻛ ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺳ ﻞﻋﺎﻔﻣ ﻡﺪﺨﺘﺳﺍ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻀﻓ ﺔﻨﻴﻔﺴﻟ ﺔﻳﻭﻮﻧ ﺕﺎﻠﻋﺎﻔﻣ ﺀﺎﻨﺑ</li>
+  </ShipReactor.generalRules.rulesStrings>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>ﺀﺎﻀﻔﻟﺍ ﺕﺍﺮﻌﺸﺘﺴﻣ</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>.ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﺐﻨﺠﺗﻭ ﻝﺎﺼﺗﺎﻟﺍﻭ ﺔﺣﺎﻠﻤﻠﻟ ﺔﻳﺭﻭﺮﺿ ﺕﺍﺮﻌﺸﺘﺴﻤﻟﺍ ﻩﺬﻫ .ﺔﻴﺋﺎﻀﻓ ﺔﺒﻛﺮﻤﻟ ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺕﺍﺮﻌﺸﺘﺴﻣ ﺀﺎﻨﺒﺑ ﻚﻟ ﺢﻤﺴﻳ</ShipSensorCluster.description>
+  <!-- EN:
+    <li>subject->interstellar navigation</li>
+    <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
+    <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
+    <li>subject_story->refined the design of long-range sensors, improving their utility</li>
+    <li>subject_gerund->navigating interstellar space</li>
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
+  <ShipSensorCluster.generalRules.rulesStrings>
+    <li>subject->ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺔﺣﺎﻠﻤﻟﺍ</li>
+    <li>subject_def->ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺔﺣﺎﻠﻤﻟﺍ ﻲﻓ</li>
+    <li>subject_story->.ﺐﻛﻮﻜﻟﺍ ﺀﺎﻠﺧﺇ ﻦﻣ ﻦﻜﻤﺗﻭ ﺐﻛﺍﻮﻜﻠﻟ ﺮﻣﺪﻣ ﺐﻜﻳﻮﻛ ﻑﺎﺸﺘﻛﺎﻟ ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﺕﺍﺮﻌﺸﺘﺴﻤﻟ ﺔﻴﻟﻭﺃ ﺝﺫﺎﻤﻧ ﻡﺪﺨﺘﺳﺍ</li>
+    <li>subject_story->.ﺊﻟﺄﻠﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﻲﻤﺠﻧ ﺖﺨﻳ ﻰﻠﻋ ٍﻩﺎﻃﻭ ﺡﺎﻠﻤﻛ ﻪﻔﻴﻇﻮﺗ ﻢﺗ</li>
+    <li>subject_story->.ﺎﻬﺗﺪﺋﺎﻓ ﻦﻣ ﺩﺍﺯ ﺎﻤﻣ ،ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺭﺎﻌﺸﺘﺳﺎﻟﺍ ﺓﺰﻬﺟﺃ ﻢﻴﻤﺼﺗ ﻦّﺴﺣ</li>
+    <li>subject_gerund->ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﺭﺎﺤﺑﺈﻟﺍ</li>
+    <li>subject_gerund->ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ ﺕﺍﺮﻌﺸﺘﺴﻣ ﺀﺎﻨﺑ</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
+  
+</LanguageData>

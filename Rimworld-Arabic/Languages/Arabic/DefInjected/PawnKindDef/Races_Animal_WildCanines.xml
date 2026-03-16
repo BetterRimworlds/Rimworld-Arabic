@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox --><!-- EN: zorro ártico -->
+  <Fox_Arctic.label>ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.label><!-- EN: zorra ártica -->
+  <Fox_Arctic.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺒﻠﻌﺛ</Fox_Arctic.labelFemale><!-- EN: zorras árticas -->
+  <Fox_Arctic.labelFemalePlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.labelFemalePlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.labelMale>ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.labelMale><!-- EN: zorros árticos -->
+  <Fox_Arctic.labelMalePlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.labelMalePlural>
+  <!-- EN: arctic foxes --><!-- EN: zorros árticos -->
+  <Fox_Arctic.labelPlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.labelPlural>
+  <!-- EN: arctic fox puppy --><!-- EN: cría de zorro ártico -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>ﻲﺒﻄﻗ ﺐﻠﻌﺛ ﺭﺎﻐﺻ</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <!-- EN: arctic fox puppies --><!-- EN: crías de zorro ártico -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>ﻲﺒﻄﻗ ﺐﻠﻌﺛ ﺭﺎﻐﺻ</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural><!-- EN: zorro ártico joven -->
+  <Fox_Arctic.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.lifeStages.1.label><!-- EN: zorra ártica joven -->
+  <Fox_Arctic.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺔﺒﻠﻌﺛ</Fox_Arctic.lifeStages.1.labelFemale><!-- EN: zorras árticas jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.lifeStages.1.labelFemalePlural><!-- EN: zorro ártico joven -->
+  <Fox_Arctic.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.lifeStages.1.labelMale><!-- EN: zorros árticos jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelMalePlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺐﻟﺎﻌﺛ ﺭﺎﻐﺻ</Fox_Arctic.lifeStages.1.labelMalePlural><!-- EN: zorros árticos jóvenes -->
+  <Fox_Arctic.lifeStages.1.labelPlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺐﻟﺎﻌﺛ ﺭﺎﻐﺻ</Fox_Arctic.lifeStages.1.labelPlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.lifeStages.2.label>ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.lifeStages.2.label><!-- EN: zorra ártica -->
+  <Fox_Arctic.lifeStages.2.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺒﻠﻌﺛ</Fox_Arctic.lifeStages.2.labelFemale><!-- EN: zorras árticas -->
+  <Fox_Arctic.lifeStages.2.labelFemalePlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.lifeStages.2.labelFemalePlural><!-- EN: zorro ártico -->
+  <Fox_Arctic.lifeStages.2.labelMale>ﻲﺒﻄﻗ ﺐﻠﻌﺛ</Fox_Arctic.lifeStages.2.labelMale><!-- EN: zorros árticos -->
+  <Fox_Arctic.lifeStages.2.labelMalePlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.lifeStages.2.labelMalePlural><!-- EN: zorros árticos -->
+  <Fox_Arctic.lifeStages.2.labelPlural>ﺔﻴﺒﻄﻗ ﺐﻟﺎﻌﺛ</Fox_Arctic.lifeStages.2.labelPlural>
+  
+  <!-- EN: fennec fox --><!-- EN: zorro fénec -->
+  <Fox_Fennec.label>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ</Fox_Fennec.label><!-- EN: zorra fénec -->
+  <Fox_Fennec.labelFemale>ﻚﻨﻔﻟﺍ ﺔﺒﻠﻌﺛ</Fox_Fennec.labelFemale><!-- EN: zorras fénec -->
+  <Fox_Fennec.labelFemalePlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.labelFemalePlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.labelMale>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ</Fox_Fennec.labelMale><!-- EN: zorros fénec -->
+  <Fox_Fennec.labelMalePlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.labelMalePlural>
+  <!-- EN: fennec foxes --><!-- EN: zorro fénec -->
+  <Fox_Fennec.labelPlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.labelPlural>
+  <!-- EN: fennec fox puppy --><!-- EN: cría de zorro fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ ﺮﻴﻐﺻ</Fox_Fennec.lifeStages.fennec_fox_puppy.label><!-- EN: cría de zorra fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ ﺓﺮﻴﻐﺻ</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale><!-- EN: crías de zorra fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺜﻟﺍ ﺭﺎﻐﺻ</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
+  <!-- EN: fennec fox puppies --><!-- EN: crías de zorro fénec -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ ﺭﺎﻐﺻ</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural><!-- EN: zorro fénec joven -->
+  <Fox_Fennec.lifeStages.1.label>ﺮﻴﻐﺻ ﻚﻨﻓ ﺐﻠﻌﺛ</Fox_Fennec.lifeStages.1.label><!-- EN: zorra fénec joven -->
+  <Fox_Fennec.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﻚﻨﻓ ﺔﺒﻠﻌﺛ</Fox_Fennec.lifeStages.1.labelFemale><!-- EN: zorras fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﻚﻨﻓ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.1.labelFemalePlural><!-- EN: zorro fénec joven -->
+  <Fox_Fennec.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻚﻨﻓ ﺐﻠﻌﺛ</Fox_Fennec.lifeStages.1.labelMale><!-- EN: zorros fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﻚﻨﻓ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.1.labelMalePlural><!-- EN: zorros fénec jóvenes -->
+  <Fox_Fennec.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻚﻨﻓ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.1.labelPlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.lifeStages.2.label>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ</Fox_Fennec.lifeStages.2.label><!-- EN: zorra fénec -->
+  <Fox_Fennec.lifeStages.2.labelFemale>ﻚﻨﻔﻟﺍ ﺔﺒﻠﻌﺛ</Fox_Fennec.lifeStages.2.labelFemale><!-- EN: zorras fénec -->
+  <Fox_Fennec.lifeStages.2.labelFemalePlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.2.labelFemalePlural><!-- EN: zorro fénec -->
+  <Fox_Fennec.lifeStages.2.labelMale>ﻚﻨﻔﻟﺍ ﺐﻠﻌﺛ</Fox_Fennec.lifeStages.2.labelMale><!-- EN: zorros fénec -->
+  <Fox_Fennec.lifeStages.2.labelMalePlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.2.labelMalePlural><!-- EN: zorros fénec -->
+  <Fox_Fennec.lifeStages.2.labelPlural>ﻚﻨﻔﻟﺍ ﺐﻟﺎﻌﺛ</Fox_Fennec.lifeStages.2.labelPlural>
+  
+  <!-- EN: red fox --><!-- EN: zorro rojo -->
+  <Fox_Red.label>ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.label><!-- EN: zorra roja -->
+  <Fox_Red.labelFemale>ﺀﺍﺮﻤﺣ ﺔﺒﻠﻌﺛ</Fox_Red.labelFemale><!-- EN: zorras rojas -->
+  <Fox_Red.labelFemalePlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.labelFemalePlural><!-- EN: zorro rojo -->
+  <Fox_Red.labelMale>ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.labelMale><!-- EN: zorros rojos -->
+  <Fox_Red.labelMalePlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.labelMalePlural>
+  <!-- EN: red foxes --><!-- EN: zorros rojos -->
+  <Fox_Red.labelPlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.labelPlural>
+  <!-- EN: red fox puppy --><!-- EN: cría de zorro rojo -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>ﺮﻤﺣﺃ ﺐﻠﻌﺛ ﺭﺎﻐﺻ</Fox_Red.lifeStages.red_fox_puppy.label>
+  <!-- EN: red fox puppies --><!-- EN: crías de zorro rojo -->
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>ﺮﻤﺣﻷﺍ ﺐﻠﻌﺜﻟﺍ ﺭﺎﻐﺻ</Fox_Red.lifeStages.red_fox_puppy.labelPlural><!-- EN: zorro rojo joven -->
+  <Fox_Red.lifeStages.1.label>ﺮﻴﻐﺻ ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.lifeStages.1.label><!-- EN: zorra roja joven -->
+  <Fox_Red.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺀﺍﺮﻤﺣ ﺔﺒﻠﻌﺛ</Fox_Red.lifeStages.1.labelFemale><!-- EN: zorras rojas jóvenes -->
+  <Fox_Red.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.1.labelFemalePlural><!-- EN: zorro rojo joven -->
+  <Fox_Red.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.lifeStages.1.labelMale><!-- EN: zorros rojos jóvenes -->
+  <Fox_Red.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.1.labelMalePlural><!-- EN: zorros rojos jóvenes -->
+  <Fox_Red.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.1.labelPlural><!-- EN: zorro rojo -->
+  <Fox_Red.lifeStages.2.label>ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.lifeStages.2.label><!-- EN: zorra roja -->
+  <Fox_Red.lifeStages.2.labelFemale>ﺀﺍﺮﻤﺣ ﺔﺒﻠﻌﺛ</Fox_Red.lifeStages.2.labelFemale><!-- EN: zorras rojas -->
+  <Fox_Red.lifeStages.2.labelFemalePlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.2.labelFemalePlural><!-- EN: zorro rojo -->
+  <Fox_Red.lifeStages.2.labelMale>ﺮﻤﺣﺃ ﺐﻠﻌﺛ</Fox_Red.lifeStages.2.labelMale><!-- EN: zorros rojos -->
+  <Fox_Red.lifeStages.2.labelMalePlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.2.labelMalePlural><!-- EN: zorros rojos -->
+  <Fox_Red.lifeStages.2.labelPlural>ﺀﺍﺮﻤﺣ ﺐﻟﺎﻌﺛ</Fox_Red.lifeStages.2.labelPlural>
+  
+  <!-- EN: arctic wolf --><!-- EN: lobo ártico -->
+  <Wolf_Arctic.label>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.label><!-- EN: loba ártica -->
+  <Wolf_Arctic.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺒﺋﺫ</Wolf_Arctic.labelFemale><!-- EN: lobas árticas -->
+  <Wolf_Arctic.labelFemalePlural>ﺔﻴﺒﻄﻗ ﺕﺎﺒﺋﺫ</Wolf_Arctic.labelFemalePlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.labelMale>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.labelMale><!-- EN: lobos árticos -->
+  <Wolf_Arctic.labelMalePlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺏﺎﺋﺫ</Wolf_Arctic.labelMalePlural>
+  <!-- EN: arctic wolves --><!-- EN: lobos árticos -->
+  <Wolf_Arctic.labelPlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺏﺎﺋﺫ</Wolf_Arctic.labelPlural>
+  <!-- EN: arctic wolf puppy --><!-- EN: lobezno ártico -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>ﻲﺒﻄﻗ ﺐﺋﺫ ﻭﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label><!-- EN: lobezna ártica -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>ﻲﺒﻄﻗ ﺐﺋﺫ ﺓﻭﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale><!-- EN: lobeznas árticas -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>ﻲﺒﻄﻗ ﺐﺋﺫ ﺀﺍﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural><!-- EN: lobezno ártico -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>ﻲﺒﻄﻗ ﺐﺋﺫ ﻭﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale><!-- EN: lobeznos árticos -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>ﻲﺒﻄﻗ ﺐﺋﺫ ﺀﺍﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
+  <!-- EN: arctic wolf puppies --><!-- EN: lobeznos árticos -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>ﻲﺒﻄﻗ ﺐﺋﺫ ﺀﺍﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural><!-- EN: lobo ártico joven -->
+  <Wolf_Arctic.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.1.label><!-- EN: loba ártica joven -->
+  <Wolf_Arctic.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺔﺒﺋﺫ</Wolf_Arctic.lifeStages.1.labelFemale><!-- EN: lobas árticas jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺕﺎﺒﺋﺫ</Wolf_Arctic.lifeStages.1.labelFemalePlural><!-- EN: lobo ártico joven -->
+  <Wolf_Arctic.lifeStages.1.labelMale>ﻊﻓﺎﻳ ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.1.labelMale><!-- EN: lobos árticos jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺏﺎﺋﺫ</Wolf_Arctic.lifeStages.1.labelMalePlural><!-- EN: lobos árticos jóvenes -->
+  <Wolf_Arctic.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺏﺎﺋﺫ</Wolf_Arctic.lifeStages.1.labelPlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.lifeStages.2.label>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.2.label><!-- EN: loba ártica -->
+  <Wolf_Arctic.lifeStages.2.labelFemale>ﺔﻴﺒﻄﻗ ﺔﺒﺋﺫ</Wolf_Arctic.lifeStages.2.labelFemale><!-- EN: lobas árticas -->
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>ﺔﻴﺒﻄﻗ ﺕﺎﺒﺋﺫ</Wolf_Arctic.lifeStages.2.labelFemalePlural><!-- EN: lobo ártico -->
+  <Wolf_Arctic.lifeStages.2.labelMale>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.2.labelMale><!-- EN: lobos árticos -->
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺏﺎﺋﺫ</Wolf_Arctic.lifeStages.2.labelMalePlural><!-- EN: lobos árticos -->
+  <Wolf_Arctic.lifeStages.2.labelPlural>ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺏﺎﺋﺫ</Wolf_Arctic.lifeStages.2.labelPlural>
+  
+  <!-- EN: timber wolf --><!-- EN: lobo gris -->
+  <Wolf_Timber.label>ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.label><!-- EN: loba gris -->
+  <Wolf_Timber.labelFemale>ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ</Wolf_Timber.labelFemale><!-- EN: lobas grises -->
+  <Wolf_Timber.labelFemalePlural>ﺔﻳﺩﺎﻣﺭ ﺕﺎﺒﺋﺫ</Wolf_Timber.labelFemalePlural><!-- EN: lobo gris -->
+  <Wolf_Timber.labelMale>ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.labelMale><!-- EN: lobos grises -->
+  <Wolf_Timber.labelMalePlural>ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.labelMalePlural>
+  <!-- EN: timber wolves --><!-- EN: lobos grises -->
+  <Wolf_Timber.labelPlural>ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.labelPlural>
+  <!-- EN: timber wolf puppy --><!-- EN: lobezno gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>ﻱﺩﺎﻣﺭ ﺐﺋﺫ ﻭﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.label><!-- EN: lobezna gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ ﻭﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale><!-- EN: lobeznas grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ ﺀﺍﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural><!-- EN: lobezno gris -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>ﻱﺩﺎﻣﺭ ﺐﺋﺫ ﻭﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale><!-- EN: lobeznos grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>ﻱﺩﺎﻣﺭ ﺐﺋﺫ ﺀﺍﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>
+  <!-- EN: timber wolf puppies --><!-- EN: lobeznos grises -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ ﺀﺍﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural><!-- EN: lobo gris joven -->
+  <Wolf_Timber.lifeStages.1.label>ﺮﻴﻐﺻ ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.lifeStages.1.label><!-- EN: loba gris joven -->
+  <Wolf_Timber.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ</Wolf_Timber.lifeStages.1.labelFemale><!-- EN: lobas grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>ﺔﻌﻓﺎﻳ ﺔﻳﺩﺎﻣﺭ ﺕﺎﺒﺋﺫ</Wolf_Timber.lifeStages.1.labelFemalePlural><!-- EN: lobo gris joven -->
+  <Wolf_Timber.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.lifeStages.1.labelMale><!-- EN: lobos grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelMalePlural>ﺔﻌﻓﺎﻳ ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.lifeStages.1.labelMalePlural><!-- EN: lobos grises jóvenes -->
+  <Wolf_Timber.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.lifeStages.1.labelPlural><!-- EN: lobo gris -->
+  <Wolf_Timber.lifeStages.2.label>ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.lifeStages.2.label><!-- EN: loba gris -->
+  <Wolf_Timber.lifeStages.2.labelFemale>ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ</Wolf_Timber.lifeStages.2.labelFemale><!-- EN: lobas grises -->
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>ﺔﻳﺩﺎﻣﺭ ﺔﺒﺋﺫ</Wolf_Timber.lifeStages.2.labelFemalePlural><!-- EN: lobo gris -->
+  <Wolf_Timber.lifeStages.2.labelMale>ﻱﺩﺎﻣﺭ ﺐﺋﺫ</Wolf_Timber.lifeStages.2.labelMale><!-- EN: lobos grises -->
+  <Wolf_Timber.lifeStages.2.labelMalePlural>ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.lifeStages.2.labelMalePlural><!-- EN: lobos grises -->
+  <Wolf_Timber.lifeStages.2.labelPlural>ﺔﻳﺩﺎﻣﺭ ﺏﺎﺋﺫ</Wolf_Timber.lifeStages.2.labelPlural>
+  
+</LanguageData>

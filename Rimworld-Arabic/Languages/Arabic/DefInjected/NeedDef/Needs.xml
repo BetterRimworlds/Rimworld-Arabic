@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>ﻝﺎﻤﺟ</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>. ﻪﻨﻣ ﺔﻨﺸﺨﻟﺍ ﺢﻄﺳﻷﺍﻭ ﺥﺎﺳﻭﻷﺍ ﻞﺜﻣ ﺔﺤﻴﺒﻘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻞﻠﻘﺗ ﺎﻤﻨﻴﺑ ،ﺎﻬﺘﻳﺅﺭ ﺪﻨﻋ ﻝﺎﻤﺠﻟﺍ ﻦﺴﺤﺗ ﻦﻔﻟﺍ ﻞﺜﻣ ﺔﻠﻴﻤﺠﻟﺍ ﺀﺎﻴﺷﻷﺍ. ﺍًﺮﺧﺆﻣ ﻪﻄﻴﺤﻤﺑ ﺺﺨﺸﻟﺍ ﺏﺎﺠﻋﺇ ﻯﺪﻣ ﺲﻜﻌﻳ ﻝﺎﻤﺠﻟﺍ</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>ﺔﺣﺍﺭ</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>. ﻯﺮﺧﺃ ﺕﺎﻗﻭﺃ ﻲﻓ ﻭﺃ ،ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﻲﺳﺮﻛ ﻰﻠﻋ ﺱﻮﻠﺠﻟﺍ ﻭﺃ ،ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺀﺎﻘﻠﺘﺳﻻﺍ ﺪﻨﻋ ﻚﻟﺫ ﻖﻘﺤﺘﻳﻭ ،ﺢﻳﺮﻣ ﺙﺎﺛﺃ ﻰﻠﻋ ﻡﻮﻨﻟﺍ ﻭﺃ ﺱﻮﻠﺠﻟﺎﺑ ﺔﺣﺍﺮﻟﺍ ﺐﺴﺘﻛُﻳ</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>ﺔﻴﺋﺎﻴﻤﻴﻛ ﺓﺩﺎﻣ</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>. ﺍًﺀﻮﺳ ﺪﻳﺍﺰﺘﻳ ﺍًﺌﻴﺳ ﺍًﺟﺍﺰﻣ ﻖﻠﺨﻳ ﻪﻧﺈﻓ ﻥّﻴﻌﻣ ﻯﻮﺘﺴﻣ ﻦﻋ ﺾﻔﺨﻨﻳ ﺎﻣﺪﻨﻋ ﻦﻜﻟﻭ ،ﺍًﺪﻴﺟ ﺍًﺟﺍﺰﻣ ﻖﻠﺨﻳ ﻪﻧﺈﻓ ﺍًﻧّﻴﻌﻣ ﻯﻮﺘﺴﻣ ﺯﻭﺎﺠﺘﻳ ﺎﻣﺪﻨﻋﻭ ،ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻲﻓ ﺔﺒﻏﺮﻟﺍ ﻦﻋ ﺭّﺒﻌﻳ</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>ﻡﺎﻌﻃ</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺕﻮﻤﻴﺳﻭ ﺪﻳﺍﺰﺘﻤﻟﺍ ﺔﻳﺬﻐﺘﻟﺍ ﺀﻮﺳ ﻦﻣ ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﻲﻧﺎﻌﻴﺳ ،ﺮﻔﺼﻟﺍ ﻰﻟﺇ ﻞﺻﻭ ﺍﺫﺇ. ﺍًﺮﺧﺆﻣ ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﺎﻬﻜﻠﻬﺘﺳﺍ ﻲﺘﻟﺍ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻴﻤﻛ ﻮﻫ ﻡﺎﻌﻄﻟﺍ</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>ﻞﺧﺍﺪﻟﺍ ﻲﻓ</Indoors.label>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>. ﻞﺧﺍﺪﻟﺍ ﻲﻓ ًﺎﺘﻗﻭ ﺀﺮﻤﻟﺍ ﻲﻀﻘﻳ ﺎﻣﺪﻨﻋ ﻦﺴﺤﺘﻳ. ﻒﻘﺴﻟﺍ ﺖﺤﺗﻭ ﻥﺍﺭﺪﺠﻟﺍ ﻞﺧﺍﺩ ﻥﺎﻣﻷﺎﺑ ﺭﻮﻌﺸﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻦﻋ ﺭّﺒﻌﻳ</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>ﻪﻴﻓﺮﺗ</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>. ﻱﺭﻭﺮﺿ ﻉﻮﻨﺘﻟﺎﻓ ﺍﺬﻟ ،ﺮﻣﻷﺍ ﺔﻌﺘﻣ ﻦﻣ ﻞﻠﻘﻳ ﻁﺎﺸﻨﻟﺍ ﺲﻔﻧ ﺭﺍﺮﻜﺗ ﻥﺇ. ﻉﺎﺘﻤﺘﺳﻻﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻮﻫ ﻪﻴﻓﺮﺘﻟﺍ</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>ﺝﺍﺰﻣ</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>. ﻞﺘﻗ ﺔﻠﺴﻠﺳ ﻲﻓ ﻉﻭﺮﺸﻟﺍ ﻞﺜﻣ ﺓﺮﻴﺒﻛ ﺕﻻﺎﺣ ﻭﺃ ،ﺪﺣﺍﻭ ﻡﻮﻴﻟ ﻪﺘﻓﺮﻏ ﻲﻓ ﺀﺎﺒﺘﺧﻻﺍ ﻞﺜﻣ ﺔﻔﻴﻔﻃ ﺕﻻﺎﺣ ﻦﻣ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﺮﻤﻳ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻲﻧﺎﻌﻳ ﺪﻗ ،ﻢﻬﺟﺍﺰﻣ ﺽﺎﻔﺨﻧﺍ ﻯﺪﻣ ﻰﻠﻋ ﺍًﺩﺎﻤﺘﻋﺍ. ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ ﺺﺨﺸﻟﺍ ﻲﻧﺎﻌﻳ ﺪﻘﻓ ،ﺍًﺮﻴﺜﻛ ﺝﺍﺰﻤﻟﺍ ﺾﻔﺨﻧﺍ ﺍﺫﺇ. ﺩﺮﻔﻟﺍ ﺮﺗﻮﺗ ﻭﺃ ﺓﺩﺎﻌﺳ ﻯﺪﻣ ﺝﺍﺰﻤﻟﺍ ﻞﺜﻤﻳ</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>ﺝﺭﺎﺨﻟﺍ ﻲﻓ</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>. ﺽﺭﻷﺍ ﺖﺤﺗ ﺪﻋﺍﻮﻘﻟﺍ ﻲﻓ ﻥﻮﺸﻴﻌﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻸﻟ ًﺍﺮﻴﺒﻛ ًﺎﻳﺪﺤﺗ ﻞﺜﻤﻳ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺺﺨﺸﻟﺍ ﻪﻴﻀﻘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﺺﻘﻧ ﻥﺇ. ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ ﺝﻭﺮﺨﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺎﺑ ﻞﺑ ،ﻑﺮﻐﻟﺍ ﻢﺠﺤﺑ ﺮﻣﻷﺍ ﻖﻠﻌﺘﻳ ﻻ. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ًﺔﺻﺎﺧ ،ﺀﺎﻤﺴﻟﺍ ﺖﺤﺗ ًﺎﺘﻗﻭ ﺺﺨﺸﻟﺍ ﻲﻀﻘﻳ ﺎﻣﺪﻨﻋ ﻦﺴﺤﺘﻳ. ﺽﺭﻷﺍ ﺖﺤﺗ ًﺔﺻﺎﺧ ،ﻲﻧﺎﺒﻤﻟﺍ ﻞﺧﺍﺩ ﺔﻠﻳﻮﻃ ﺕﺍﺮﺘﻔﺑ ﺐﻠﺴﻟﺎﺑ ﺮﺛﺄﺘﻳ. ﻲﻧﺎﺒﻤﻟﺍ ﻞﺧﺍﺩ ﻕﻼﻐﻧﻻﺍ ﻡﺪﻋ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻦﻋ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺭّﺒﻌﻳ</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>ﻡﻮﻧ</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>. ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻪﻧﺎﻜﻣ ﻲﻓ ﻦﺋﺎﻜﻟﺍ ﻡﺎﻨﻴﺳ ،ﺍًﺮﻔﺻ ﻥﺎﻛ ﺍﺫﺇ. ﺍًﺮﺧﺆﻣ ﻡﻮﻨﻟﺍ ﻲﻓ ﻦﺋﺎﻜﻟﺍ ﻩﺎﻀﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ ﺭﺍﺪﻘﻣ ﻮﻫ ﻡﻮﻨﻟﺍ</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>ﺔﻓﺮﻐﻟﺍ ﻢﺠﺣ</RoomSize.label>
+  
+</LanguageData>

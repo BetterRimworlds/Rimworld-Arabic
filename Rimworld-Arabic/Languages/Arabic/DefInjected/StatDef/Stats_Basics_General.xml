@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>ﻝﺎﻤﺟ</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>. ﺎﻣ ﺀﻴﺷ ﺔﻳﺅﺮﺑ ﺺﺨﺸﻟﺍ ﻉﺎﺘﻤﺘﺳﺍ ﻯﺪﻣ\n\n. ﻝﺎﻤﺠﻠﻟ ﺺﺨﺸﻟﺍ ﺔﺟﺎﺣ ﻲﺒﻠﺗ ﺔﻠﻴﻤﺠﻟﺍ ﺀﺎﻴﺷﻷﺍ</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>ﻲﺟﺭﺎﺧ ﻝﺎﻤﺟ</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>. ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻥﺎﻛ ﺍﺫﺇ ﺎﻣ ﺀﻴﺷ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﺔﻌﺘﻣ ﻯﺪﻣ\n\n. ﻝﺎﻤﺠﻠﻟ ﺱﺎﻨﻟﺍ ﺔﺟﺎﺣ ﻲﺒﻠﺗ ﺔﻠﻴﻤﺠﻟﺍ ﺀﺎﻴﺷﻷﺍ</BeautyOutdoors.description>
+  
+  <!-- EN: caravan speed factor -->
+  <CaravanBonusSpeedFactor.label>ﺔﻠﻓﺎﻘﻟﺍ ﺔﻋﺮﺳ ﻞﻣﺎﻋ</CaravanBonusSpeedFactor.label>
+  <!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
+  <CaravanBonusSpeedFactor.description>. ﺎﻬﻨﻣ ﺍًﺀﺰﺟ ﺩﺮﻔﻟﺍ ﺍﺬﻫ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺔﻠﻓﺎﻗ ﺔﻋﺮﺳ ﻰﻠﻋ ﻕَّﺒﻃُﻳ ﻑِﻋﺎﺿُﻣ</CaravanBonusSpeedFactor.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>ﺔﻓﺎﻈﻧ</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>. ﺔﻘﻄﻨﻤﻟﺍ ﺔﻓﺎﻈﻧ ﺔﺟﺭﺩ ﻲﻓ ﺮﺼﻨﻌﻟﺍ ﺔﻤﻫﺎﺴﻣ ﺭﺍﺪﻘﻣ</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>ﺔﺣﺍﺭ</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>. ﺎﻣ ﻢﺴﺟ ﻰﻠﻋ ﺀﺎﻘﻠﺘﺳﻻﺍ ﻭﺃ ﺱﻮﻠﺠﻟﺍ ﺔﺣﺍﺭ ﻯﺪﻣ\n\n. ﺔﺣﺍﺮﻠﻟ ﺺﺨﺸﻟﺍ ﺔﺟﺎﺣ ﻲﺒﻠﻳ ﺔﺤﻳﺮﻣ ﻡﺎﺴﺟﺃ ﻡﺍﺪﺨﺘﺳﺍ</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>ﺭﻮﻫﺪﺘﻟﺍ ﻝﺪﻌﻣ</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
+  <DeteriorationRate.description>. ﺍًﻴﻣﻮﻳ ﺔﻄﺳﻮﺘﻤﻟﺍ ﺔﻴﺤﺼﻟﺍ ﻁﺎﻘﻨﻟﺎﺑ ،ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻪﻛﺮﺗ ﺪﻨﻋ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺭﻮﻫﺪﺗ ﻝﺪﻌﻣ\n\n. ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍ ﻲﻓ ﻪﻛﺮﺗ ﻭﺃ ،ﺙﻮﻠﺘﻟﺍﻭ ،ﻡﺎﺴﻟﺍ ﻂﻗﺎﺴﺘﻟﺍﻭ ،ﻒﻘﺳﻷﺍﻭ ،ﺲﻘﻄﻟﺍ ﻞﺜﻣ ﻞﻣﺍﻮﻌﺑ ﺍًﻀﻳﺃ ﺭﻮﻫﺪﺘﻟﺍ ﻝﺪﻌﻣ ﺮﺛﺄﺘﻳ</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>ﻡﻮﻳ/{0}</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>ﻝﺎﻌﺘﺷﻻﺍ ﺔﻴﻠﺑﺎﻗ</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>. ﻪﻗﺍﺮﺘﺣﺍ ﺀﺎﻨﺛﺃ ﻖﻳﺮﺤﻟﺍ ﺭﺎﺸﺘﻧﺍ ﺔﻋﺮﺳﻭ ﺎﻣ ﻢﺴﺟ ﻝﺎﻌﺘﺷﺍ ﺔﻟﻮﻬﺳ ﻯﺪﻣ</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﻝﺎﻤﺘﺣﺍ</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>. ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺎﺑ ﻡﺎﻌﻄﻟﺍ ﺍﺬﻫ ﺐﺒﺴﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>)ﻡﺎﻌﻃ ﺔﻴﺋﺎﺼﺣﺇ (ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>ﻕﻮﺴﻟﺍ ﺔﻤﻴﻗ</MarketValue.label>
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>. ﺀﻴﺸﻠﻟ ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ\n\n. ﻯﺮﺧﺃ ﺔﻴﻗﺎﻴﺳ ﻞﻣﺍﻮﻋﻭ ،ﺔﻗﻼﻌﻟﺍ ﺔﻟﺎﺣﻭ ،ﺽﻭﺎﻔﺘﻟﺍ ﺓﺭﺎﻬﻣ ﻝﻼﺧ ﻦﻣ ﻲﻠﻌﻔﻟﺍ ﻝﻭﺍﺪﺘﻟﺍ ﺮﻌﺳ ﻞﻳﺪﻌﺗ ﻢﺘﻴﺳ</MarketValue.description>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>ﺔﻴﺤﺼﻟﺍ ﻁﺎﻘﻨﻟﺍ ﻞﻫﺎﺠﺗ ﻊﻣ ﻕﻮﺴﻟﺍ ﺔﻤﻴﻗ</MarketValueIgnoreHp.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>ﺔﻠﺘﻛ</Mass.label>
+  <!-- EN: The physical mass of an object or creature. -->
+  <Mass.description>. ﻕﻮﻠﺨﻣ ﻭﺃ ﻦﺋﺎﻜﻟ ﺔﻴﺋﺎﻳﺰﻴﻔﻟﺍ ﺔﻠﺘﻜﻟﺍ</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>ﻢﺠﻛ {0}</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>ﺔﺑﺎﺻﺇ ﻁﺎﻘﻧ ﻰﺼﻗﺃ</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>. ﺎﻣ ﻦﺋﺎﻜﻟ ﺔﺤﺼﻟﺍ ﻁﺎﻘﻨﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ\n\n. ﻩﺮﻴﻣﺪﺗ ﻢﺘﻳ ﻥﺃ ﻞﺒﻗ ﻪﻠﻤﺤﺘﻳ ﻥﺃ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﺭﺍﺪﻘﻣ ﺍﺬﻫ ﻞﺜﻤﻳ</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>ﺔﻳﺬﻐﺗ</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>. ﻡﺎﻌﻄﻟﺍ ﺍﺬﻬﻟ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺔﻤﻴﻘﻟﺍ ﻯﺪﻣ</Nutrition.description>
+  
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>ﻑﺮﺸﻟﺍ ﺔﻤﻴﻗ</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>. ﺔﻳﺰﺠﻟﺍ ﻊﻣﺎﺠﻟ ﺍﺬﻫ ﻢﻳﺪﻘﺗ ﻞﺑﺎﻘﻣ ﻑﺮﺸﻟﺍ ﻦﻣ ﻢﻛﺮﺟﺎﺗ ﻪﺒﺴﻜﻴﺳ ﻱﺬﻟﺍ ﺭﺍﺪﻘﻤﻟﺍ</RoyalFavorValue.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>ﻊﻴﺒﻟﺍ ﺮﻌﺳ ﻒﻋﺎﻀﻣ</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>. ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﺑ ﺮﻌﺳ ﻰﻠﻋ ﻑِﻋﺎﺿُﻣ</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>ﺐﻳﻮﺼﺘﻟﺍ ﺔﻗﺩ</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>. ﻲﻣﺮﻟﺍ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻴﻠﺧ ﻞﻜﻟ ﻕﺎﻔﺧﻹﺍ ﻡﺪﻋ ﻝﺎﻤﺘﺣﺍ\n\n. ﻑﺪﻬﻟﺍ ﻕﻮﻓ ﺮﻳﺮﻤﺘﻟﺍﻭ ﻲﻣﺍﺮﻟﺍ ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﺔﻘﻠﻃ ﻱﻷ ﺔﺑﺎﺻﻹﺍ ﻝﺎﻤﺘﺣﻻ ﺡﺮﺷ ﻰﻠﻋ ﻉﻼﻃﻻﺍ ﻦﻜﻤﻳﻭ ،ﺓﺪﻳﺪﻋ ﻯﺮﺧﺃ ﻞﻣﺍﻮﻌﺑ ﺔﺑﺎﺻﻹﺍ ﻝﺎﻤﺘﺣﺍ ﺮﺛﺄﺘﻳ</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>)ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ (ﺐﻳﻮﺼﺘﻟﺍ ﺔﻗﺩ</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>ﻊﻴﻨﺼﺘﻟﺍ ﺪﻬﺟ</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>. ﺩﺍﻮﻤﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺟ ﺪﻌﺑ ،ﺎﻣ ﺮﺼﻨﻋ ﻊﻨﺼﻟ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﻞﻤﻌﻟﺍ ﺔﻴﻤﻛ</WorkToMake.description>
+  
+</LanguageData>

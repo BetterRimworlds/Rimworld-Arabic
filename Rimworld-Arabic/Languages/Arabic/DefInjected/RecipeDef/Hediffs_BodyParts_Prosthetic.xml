@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cochlear implant -->
+  <InstallCochlearImplant.label>ﺔﻌﻗﻮﻗ ﺔﺳﺮﻏ ﺐﻴﻛﺮﺗ</InstallCochlearImplant.label>
+  <!-- EN: Install a cochlear implant. -->
+  <InstallCochlearImplant.description>. ﺔﻌﻗﻮﻗ ﺔﺳﺮﻏ ﺔﻋﺍﺭﺯ</InstallCochlearImplant.description>
+  <!-- EN: Installing cochlear implant. -->
+  <InstallCochlearImplant.jobString>. ﺔﻌﻗﻮﻗ ﺔﺳﺮﻏ ﺐﻴﻛﺮﺗ</InstallCochlearImplant.jobString>
+  
+  <!-- EN: install joywire -->
+  <InstallJoywire.label>ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﺐﻴﻛﺮﺗ</InstallJoywire.label>
+  <!-- EN: Install a joywire. -->
+  <InstallJoywire.description>. ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallJoywire.description>
+  <!-- EN: Installing joywire. -->
+  <InstallJoywire.jobString>. ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﺐﻴﻛﺮﺗ</InstallJoywire.jobString>
+  
+  <!-- EN: install painstopper -->
+  <InstallPainstopper.label>ﻢﻟﺃ ﻥِّﻜﺳُﻣ ﺐﻴﻛﺮﺗ</InstallPainstopper.label>
+  <!-- EN: Install a painstopper. -->
+  <InstallPainstopper.description>. ﻢﻟﻸﻟ ﻥِّﻜﺳُﻣ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallPainstopper.description>
+  <!-- EN: Installing painstopper. -->
+  <InstallPainstopper.jobString>. ﻢﻟﻸﻟ ﻥِّﻜﺳُﻣ ﺐﻴﻛﺮﺗ</InstallPainstopper.jobString>
+  
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>ﺔﻗﺎﻃ ﺐﻠﺨﻣ ﺐﻴﻛﺮﺗ</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>. ﺔﻗﺎﻃ ﺐﻠﺨﻣ ﺕّﺒﺛ</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>. ﺔﻗﺎﻃ ﺐﻠﺨﻣ ﺐﻴﻛﺮﺗ</InstallPowerClaw.jobString>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>. ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>. ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic heart -->
+  <InstallSimpleProstheticHeart.label>ﺐﻠﻘﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticHeart.label>
+  <!-- EN: Install a prosthetic heart. -->
+  <InstallSimpleProstheticHeart.description>. ﺐﻠﻘﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallSimpleProstheticHeart.description>
+  <!-- EN: Installing prosthetic heart. -->
+  <InstallSimpleProstheticHeart.jobString>. ﺐﻠﻘﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticHeart.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>. ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>. ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: remove painstopper -->
+  <RemovePainstopper.label>ﻢﻟﻷﺍ ﻥِّﻜﺳُﻣ ﺔﻟﺍﺯﺇ</RemovePainstopper.label>
+  <!-- EN: Remove the painstopper. -->
+  <RemovePainstopper.description>. ﻢﻟﻷﺍ ﻑِّﻔﺧُﻣ ﻝﺯﺃ</RemovePainstopper.description>
+  <!-- EN: Removing painstopper. -->
+  <RemovePainstopper.jobString>. ﻢﻟﻷﺍ ﻦﻜﺴﻣ ﺔﻟﺍﺯﺇ</RemovePainstopper.jobString>
+  
+</LanguageData>

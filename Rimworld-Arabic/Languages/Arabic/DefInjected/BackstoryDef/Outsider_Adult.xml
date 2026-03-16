@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
+  <Hermit82.description>{PAWN_gender ? . ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺎﻬﺟﺎﺘﺤﺗ ﻲﺘﻟﺍ ﺔﻄﻴﺴﺒﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻊﻨﺼﺗﻭ ﺎﻬﺘﻘﻳﺪﺤﺑ ﻲﻨﺘﻌﺗ ،ﺓﺪﻴﺣﻭ ﺎﻬﻣﺎﻳﺃ ﺖﻀﻗ ،ﻙﺎﻨﻫ. ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺔﻄﻴﺴﺑ ﺓﺎﻴﺣ ﺶﻴﻌﺘﻟ ﺔﻤﺣﺩﺰﻤﻟﺍ ﺎﻬﺘﻨﻳﺪﻣ ﺖﻛﺮﺘﻓ ،ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﻋﺎﻔﺘﻟﺍ ﻁﻮﻐﺿ ﻦﻣ [PAWN_nameDef] ﺖﺒﻌﺗ : . ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺎﻬﺟﺎﺘﺤﻳ ﻲﺘﻟﺍ ﺔﻄﻴﺴﺒﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻊﻨﺼﻳﻭ ﻪﺘﻘﻳﺪﺤﺑ ﻲﻨﺘﻌﻳ ،ﺍًﺪﻴﺣﻭ ﻪﻣﺎﻳﺃ ﻰﻀﻗ ،ﻙﺎﻨﻫ. ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺔﻄﻴﺴﺑ ﺓﺎﻴﺣ ﺶﻴﻌﻴﻟ ﺔﻤﺣﺩﺰﻤﻟﺍ ﻪﺘﻨﻳﺪﻣ [PAWN_nameDef] ﻙﺮﺗ ،ﻲﻋﺎﻤﺘﺟﻻﺍ ﻞﻋﺎﻔﺘﻟﺍ ﻁﻮﻐﺿ ﻦﻣ ﺍًﺒﻌﺗ}</Hermit82.description>
+  <!-- EN: hermit -->
+  <Hermit82.title>ﻝﺰﻌﻨﻣ</Hermit82.title>
+  <Hermit82.titleFemale>ﺔﻟﺰﻌﻨﻣ</Hermit82.titleFemale>
+  <!-- EN: hermit -->
+  <Hermit82.titleShort>ﻝﺰﻌﻨﻣ</Hermit82.titleShort>
+  <Hermit82.titleShortFemale>ﺔﻟﺰﻌﻨﻣ</Hermit82.titleShortFemale>
+  
+</LanguageData>

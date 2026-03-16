@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>ﻚﻴﺗﻮﻛﺭﺃ ﻉﺍﺭﺫ</ArchotechArm.label>
+  <!-- EN: An artificial arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻟﺍ ﻊﻴﻤﺠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻬﺗﺎﻴﻟﺁ. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺎﻬﺴﻔﻧ ﺢﻠﺻُﺗ ﺎﻬﻧﺈﻓ ،ﺕﺭﺮﻀﺗ ﺍﺫﺇ ﻰﺘﺣﻭ. ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ًﺍﺭﺮﻀﺗ ﺐﻌﺻﺃ ﺎﻬﻨﻜﻟ ،ﻲﻌﻴﺒﻄﻟﺍ ﻢﺤﻠﻟﺎﻛ ّﺲﺣُﺗﻭ ﻭﺪﺒﺗ. ﺯﺭﺃ ﺔﺒﺣ ﻰﻠﻋ ﺔﺘﻴﻧﻮﺳ ﺔﺑﺎﺘﻜﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻘﻴﻗﺩﻭ ،ﺎﻫﺪﻴﺑ ﻚﻴﻤﺳ ﻲﺒﺸﺧ ﻦﺼﻏ ﻖﺤﺴﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻳﻮﻗ ﺎﻬﻧﺇ. ﻚﻴﺗﻮﻛﺭﺃ ﺔﻄﺳﺍﻮﺑ ﺖﻴﻧُﺑ ﺔﻴﻋﺎﻨﻄﺻﺍ ﻉﺍﺭﺫ</ArchotechArm.description>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>ﻚﻴﺗﻮﻛﺭﺃ ﻦﻴﻋ</ArchotechEye.label>
+  <!-- EN: An artificial eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
+  <ArchotechEye.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻬﺗﺎﻴﻟﺁ. ﺓﺪﻴﻔﻤﻟﺍ ﺔﻴﺋﺮﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺯﺍﺮﺑﺇ ﻲﻓ ﺪﻋﺎﺴﻳ ﻲﻠﺧﺍﺩ ﻲﻋﺮﻓ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺫ ﻰﻠﻋ ﻱﻮﺘﺤﺗﻭ ،ﻱﻭﺪﻴﻟﺍ ﺡﺎﺒﺼﻤﻟﺎﻛ ﻉﺎﻌﺷﻹﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﺔﻴﺟﻮﻣ ﻝﺍﻮﻃﺃ ﺚﺑ ﺎﻬﻨﻜﻤﻳ. ًﺍﺮﺘﻣ ﻦﻳﺮﺸﻋ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻳﻭﺪﻴﻟﺍ ﺔﺑﺎﺘﻜﻟﺍ ﺓﺀﺍﺮﻘﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺔﻘﻴﻗﺩ ﺎﻫﺮﺼﺑ ﺓﺪﺣ. ﺎﻣﺎﺟ ﺔﻌﺷﺃﻭ ﺔﻴﻨﻴﺴﻟﺍ ﺔﻌﺷﻷﺍﻭ ﺀﻮﻀﻟﺍﻭ ﺀﺍﺮﻤﺤﻟﺍ ﺖﺤﺗ ﺔﻌﺷﻷﺍﻭ ﻮﻳﺩﺍﺮﻟﺍ ﺕﺎﺟﻮﻣ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﻉﺎﻌﺷﻹﺍ ﻉﺍﻮﻧﺃ ﻞﻛ ﺮﻌﺸﺘﺴﺗ. ﻚﻴﺗﻮﻛﺭﺃ ﺔﻄﺳﺍﻮﺑ ﺖﻴﻧُﺑ ﺔﻴﻋﺎﻨﻄﺻﺍ ﻦﻴﻋ</ArchotechEye.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>ﻚﻴﺗﻮﻛﺭﺃ ﻕﺎﺳ</ArchotechLeg.label>
+  <!-- EN: An artificial leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>. ﺔﻳﺮﺸﺒﻟﺍ ﻝﻮﻘﻌﻟﺍ ﻊﻴﻤﺠﻟ ﺰﻐﻟ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺎﻬﺗﺎﻴﻟﺁ. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﺎﻬﺴﻔﻧ ﺢﻠﺻُﺗ ﺎﻬﻧﺈﻓ ،ﺕﺭﺮﻀﺗ ﺍﺫﺇ ﻰﺘﺣﻭ. ﻞﻴﺘﺳﻼﺒﻟﺍ ﻦﻣ ًﺍﺭﺮﻀﺗ ﺐﻌﺻﺃ ﻲﻫﻭ ،ﺓﺪﻴﺟ ﺓﺭﺎﻴﺳ ﺔﻋﺮﺴﺑ ﻙﺮﺤﺘﻟﺍ ﻦﻣ ﻡﺪﺨﺘﺴﻤﻟﺍ ﻥّﻜﻣُﻳ ﺎﻬﻨﻣ ًﺎﺟﻭﺯ ﻥﺃ ﺮﻴﻏ ،ﻲﻌﻴﺒﻄﻟﺍ ﻢﺤﻠﻟﺎﻛ ّﺲﺣُﺗﻭ ﻭﺪﺒﺗ. ﻚﻴﺗﻮﻛﺭﺃ ﺔﻄﺳﺍﻮﺑ ﺖﻴﻧُﺑ ﺔﻴﻋﺎﻨﻄﺻﺍ ﻕﺎﺳ</ArchotechLeg.description>
+  
+</LanguageData>

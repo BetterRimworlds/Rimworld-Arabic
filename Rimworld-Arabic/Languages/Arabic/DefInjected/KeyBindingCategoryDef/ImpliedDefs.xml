@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suelos tab -->
+  <Architect_Floors.label>ﺕﺎﻴﺿﺭﻷﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Suelos" section of the Architect menu -->
+  <Architect_Floors.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺕﺎﻴﺿﺭﻷﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Floors.description>
+  
+  <!-- EN: mobiliario tab -->
+  <Architect_Furniture.label>ﺙﺎﺛﻷﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Mobiliario" section of the Architect menu -->
+  <Architect_Furniture.description>. ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺙﺎﺛﻷﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Furniture.description>
+  
+  <!-- EN: diversión tab -->
+  <Architect_Joy.label>ﻪﻴﻓﺮﺘﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Diversión" section of the Architect menu -->
+  <Architect_Joy.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻪﻴﻓﺮﺘﻟﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Joy.description>
+  
+  <!-- EN: varios tab -->
+  <Architect_Misc.label>ﻉﻮﻨﺘﻣ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Varios" section of the Architect menu -->
+  <Architect_Misc.description>. ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻉﻮﻨﺘﻣ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Misc.description>
+  
+  <!-- EN: órdenes tab -->
+  <Architect_Orders.label>ﺮﻣﺍﻭﻷﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Órdenes" section of the Architect menu -->
+  <Architect_Orders.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺮﻣﺍﻭﻷﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Orders.description>
+  
+  <!-- EN: electricidad tab -->
+  <Architect_Power.label>ﺀﺎﺑﺮﻬﻜﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Power.label>
+  <!-- EN: Key bindings for the "Electricidad" section of the Architect menu -->
+  <Architect_Power.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺀﺎﺑﺮﻬﻜﻟﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Power.description>
+  
+  <!-- EN: producción tab -->
+  <Architect_Production.label>ﺝﺎﺘﻧﻹﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Production.label>
+  <!-- EN: Key bindings for the "Producción" section of the Architect menu -->
+  <Architect_Production.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺝﺎﺘﻧﻹﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Production.description>
+  
+  <!-- EN: seguridad tab -->
+  <Architect_Security.label>ﻥﺎﻣﻷﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Security.label>
+  <!-- EN: Key bindings for the "Seguridad" section of the Architect menu -->
+  <Architect_Security.description>. ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻥﺎﻣﻷﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Security.description>
+  
+  <!-- EN: nave tab -->
+  <Architect_Ship.label>ﺔﻨﻴﻔﺴﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Nave" section of the Architect menu -->
+  <Architect_Ship.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻞﻘﻨﻟﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Ship.description>
+  
+  <!-- EN: estructuras tab -->
+  <Architect_Structure.label>ﻞﻛﺎﻴﻬﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Estructuras" section of the Architect menu -->
+  <Architect_Structure.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻞﻛﺎﻴﻬﻟﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Structure.description>
+  
+  <!-- EN: temperatura tab -->
+  <Architect_Temperature.label>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatura" section of the Architect menu -->
+  <Architect_Temperature.description>. ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Temperature.description>
+  
+  <!-- EN: áreas tab -->
+  <Architect_Zone.label>ﻖﻃﺎﻨﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Áreas" section of the Architect menu -->
+  <Architect_Zone.description>. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ﻖﻃﺎﻨﻤﻟﺍ " ﻢﺴﻘﻟ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻂﺑﺭ</Architect_Zone.description>
+  
+</LanguageData>

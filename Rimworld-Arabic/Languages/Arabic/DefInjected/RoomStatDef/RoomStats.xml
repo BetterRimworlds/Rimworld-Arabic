@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>ﻝﺎﻤﺟ</Beauty.label>
+  <!-- EN: hideous -->
+  <Beauty.scoreStages.hideous.label>ﺯﺰﻘﻣ</Beauty.scoreStages.hideous.label>
+  <!-- EN: ugly -->
+  <Beauty.scoreStages.ugly.label>ﺢﻴﺒﻗ</Beauty.scoreStages.ugly.label>
+  <!-- EN: neutral -->
+  <Beauty.scoreStages.neutral.label>ﺪﻳﺎﺤﻣ</Beauty.scoreStages.neutral.label>
+  <!-- EN: pretty -->
+  <Beauty.scoreStages.pretty.label>ﻞﻴﻤﺟ</Beauty.scoreStages.pretty.label>
+  <!-- EN: beautiful -->
+  <Beauty.scoreStages.beautiful.label>ﻞﻴﻤﺟ</Beauty.scoreStages.beautiful.label>
+  <!-- EN: very beautiful -->
+  <Beauty.scoreStages.very_beautiful.label>ًﺍﺪﺟ ﻞﻴﻤﺟ</Beauty.scoreStages.very_beautiful.label>
+  <!-- EN: extremely beautiful -->
+  <Beauty.scoreStages.extremely_beautiful.label>ﻝﺎﻤﺠﻟﺍ ﻲﻓ ﺔﻳﺎﻏ</Beauty.scoreStages.extremely_beautiful.label>
+  <!-- EN: unbelievably beautiful -->
+  <Beauty.scoreStages.unbelievably_beautiful.label>ﻕﺪﺼﻳ ﻻ ﻝﺎﻤﺟ</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>ﺔﻓﺎﻈﻧ</Cleanliness.label>
+  <!-- EN: very dirty -->
+  <Cleanliness.scoreStages.very_dirty.label>ًﺍﺪﺟ ﺦﺴﺘﻣ</Cleanliness.scoreStages.very_dirty.label>
+  <!-- EN: dirty -->
+  <Cleanliness.scoreStages.dirty.label>ﺦﺴﺘﻣ</Cleanliness.scoreStages.dirty.label>
+  <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.slightly_dirty.label>ًﻼﻴﻠﻗ ﺭﺬﻗ</Cleanliness.scoreStages.slightly_dirty.label>
+  <!-- EN: clean -->
+  <Cleanliness.scoreStages.clean.label>ﻒﻴﻈﻧ</Cleanliness.scoreStages.clean.label>
+  <!-- EN: sterile -->
+  <Cleanliness.scoreStages.sterile.label>ﻢﻘﻌﻣ</Cleanliness.scoreStages.sterile.label>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﻝﺎﻤﺘﺣﺍ</FoodPoisonChance.label>
+  
+  <!-- EN: grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>ﺭﻮﺒﻘﻟﺍ ﺓﺭﺎﻳﺯ ﻪﻴﻓﺮﺗ ﻞﻣﺎﻋ</GraveVisitingJoyGainFactor.label>
+  
+  <!-- EN: impressiveness -->
+  <Impressiveness.label>ﺔﻋﻭﺭ</Impressiveness.label>
+  <!-- EN: awful -->
+  <Impressiveness.scoreStages.awful.label>ﻊﻴﻈﻓ</Impressiveness.scoreStages.awful.label>
+  <!-- EN: dull -->
+  <Impressiveness.scoreStages.dull.label>ﺖﻫﺎﺑ</Impressiveness.scoreStages.dull.label>
+  <!-- EN: mediocre -->
+  <Impressiveness.scoreStages.mediocre.label>ﻂﺳﻮﺘﻣ</Impressiveness.scoreStages.mediocre.label>
+  <!-- EN: decent -->
+  <Impressiveness.scoreStages.decent.label>ﺪﻴﺟ</Impressiveness.scoreStages.decent.label>
+  <!-- EN: slightly impressive -->
+  <Impressiveness.scoreStages.slightly_impressive.label>ًﻼﻳِﻟَﻗ ٌﺭِﻫْﺑُﻣ</Impressiveness.scoreStages.slightly_impressive.label>
+  <!-- EN: somewhat impressive -->
+  <Impressiveness.scoreStages.somewhat_impressive.label>ﺍَﻣ ٍّﺩَﺣ ﻰﻟﺇ ِﺏﺍَﺟْﻋِﻺﻟ ٌﺮﻳِﺛُﻣ</Impressiveness.scoreStages.somewhat_impressive.label>
+  <!-- EN: very impressive -->
+  <Impressiveness.scoreStages.very_impressive.label>ًﺍﺪﺟ ﻊﺋﺍﺭ</Impressiveness.scoreStages.very_impressive.label>
+  <!-- EN: extremely impressive -->
+  <Impressiveness.scoreStages.extremely_impressive.label>ﺍًّﺩِﺟ ٌﺭِﻫْﺑُﻣ</Impressiveness.scoreStages.extremely_impressive.label>
+  <!-- EN: unbelievably impressive -->
+  <Impressiveness.scoreStages.unbelievably_impressive.label>ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﺏﺎﺠﻋﻺﻟ ﺮﻴﺜﻣ</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <!-- EN: wondrously impressive -->
+  <Impressiveness.scoreStages.wondrously_impressive.label>ﺮﻬﺑُﻣ ٌﻊﺋﺍﺭ</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <!-- EN: infection chance factor -->
+  <InfectionChanceFactor.label>ﻯﻭﺪﻌﻟﺍ ﺔﺻﺮﻓ ﻞﻣﺎﻋ</InfectionChanceFactor.label>
+  
+  <!-- EN: reading bonus -->
+  <ReadingBonus.label>ﺓﺀﺍﺮﻗ ﺓﺄﻓﺎﻜﻣ</ReadingBonus.label>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻝﺪﻌﻣ</ResearchSpeedFactor.label>
+  
+  <!-- EN: space -->
+  <Space.label>ﺀﺎﻀﻓ</Space.label>
+  <!-- EN: cramped -->
+  <Space.scoreStages.cramped.label>ﻖﻴﺿ</Space.scoreStages.cramped.label>
+  <!-- EN: rather tight -->
+  <Space.scoreStages.rather_tight.label>ﺎﻣ ًﺎﻋﻮﻧ ﻖﻴﺿ</Space.scoreStages.rather_tight.label>
+  <!-- EN: average-sized -->
+  <Space.scoreStages.averagesized.label>ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ</Space.scoreStages.averagesized.label>
+  <!-- EN: somewhat spacious -->
+  <Space.scoreStages.somewhat_spacious.label>ﺎﻣ ﺪﺣ ﻰﻟﺇ ﻊﺳﺍﻭ</Space.scoreStages.somewhat_spacious.label>
+  <!-- EN: quite spacious -->
+  <Space.scoreStages.quite_spacious.label>ﺎﻣ ﺪﺣ ﻰﻟﺇ ﺔﻌﺳﺍﻭ</Space.scoreStages.quite_spacious.label>
+  <!-- EN: very spacious -->
+  <Space.scoreStages.very_spacious.label>ًﺍﺪﺟ ﻊﺳﺍﻭ</Space.scoreStages.very_spacious.label>
+  <!-- EN: extremely spacious -->
+  <Space.scoreStages.extremely_spacious.label>ﺔﻳﺎﻐﻠﻟ ﻊﺳﺍﻭ</Space.scoreStages.extremely_spacious.label>
+  
+  <!-- EN: surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>ﺔﻓﺎﻈﻨﻟﺍﻭ ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﻞﻣﺎﻋ</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>ﺓﻭﺮﺛ</Wealth.label>
+  <!-- EN: impoverished -->
+  <Wealth.scoreStages.impoverished.label>ﻡَﺪﻋُﻣ</Wealth.scoreStages.impoverished.label>
+  <!-- EN: somewhat poor -->
+  <Wealth.scoreStages.somewhat_poor.label>ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﻒﻴﻌﺿ</Wealth.scoreStages.somewhat_poor.label>
+  <!-- EN: mediocre -->
+  <Wealth.scoreStages.mediocre.label>ﻂﺳﻮﺘﻣ</Wealth.scoreStages.mediocre.label>
+  <!-- EN: somewhat rich -->
+  <Wealth.scoreStages.somewhat_rich.label>ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﻲﻨﻏ</Wealth.scoreStages.somewhat_rich.label>
+  <!-- EN: rich -->
+  <Wealth.scoreStages.rich.label>ﻲﻨﻏ</Wealth.scoreStages.rich.label>
+  <!-- EN: luxurious -->
+  <Wealth.scoreStages.luxurious.label>ﺮﺧﺎﻓ</Wealth.scoreStages.luxurious.label>
+  <!-- EN: very luxurious -->
+  <Wealth.scoreStages.very_luxurious.label>ًﺍﺪﺟ ﺮﺧﺎﻓ</Wealth.scoreStages.very_luxurious.label>
+  <!-- EN: extremely luxurious -->
+  <Wealth.scoreStages.extremely_luxurious.label>ﺔﻳﺎﻐﻠﻟ ﺮﺧﺎﻓ</Wealth.scoreStages.extremely_luxurious.label>
+  <!-- EN: unbelievably luxurious -->
+  <Wealth.scoreStages.unbelievably_luxurious.label>ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﺮﺧﺎﻓ</Wealth.scoreStages.unbelievably_luxurious.label>
+  
+</LanguageData>

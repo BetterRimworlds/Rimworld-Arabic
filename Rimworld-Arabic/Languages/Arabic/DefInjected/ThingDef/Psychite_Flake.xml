@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flake -->
+  <Flake.label>ﻚﻴﻠﻓ</Flake.label>
+  <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
+  <Flake.description>. ﺎﻬﻠﻤﻛﺄﺑ ﺕﺍﺭﺎﻀﺤﻟﺍﻭ ﺕﺎﻌﻤﺘﺠﻤﻟﺍﻭ ﺡﺍﻭﺭﻷﺍ ﺮﻴﻣﺪﺘﺑ ﻚﻴﻠﻔﻟﺍ ﻑﺮﻋُﻳ. ﻥﺎﻣﺩﻹﺍ ﺪﻳﺪﺷ ﻪﻧﺃ ﻻﺇ ،ﻡﺍﺪﺨﺘﺳﻻﺍ ﻲﻓ ﺔﻳﺎﻐﻠﻟ ﻊﺘﻤﻣﻭ ﺝﺎﺘﻧﻹﺍ ﺺﻴﺧﺭ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﺪﻣﻷﺍ ﺓﺮﻴﺼﻗ ﻦﻜﻟﻭ ﺔﻳﻮﻗ ﺓﻮﺸﻧ ﺔﻟﺎﺣ ﺙﺍﺪﺣﻹ ﻪﻨﻴﺧﺪﺗ ﻦﻜﻤﻳ ﺖﻳﺎﻜﻴﺴﻟﺍ ﻦﻣ ﺖﺘﻔﺘﻣ ﺾﻴﺑﺃ ﺮﻴﻀﺤﺗ</Flake.description>
+  <!-- EN: Smoke {0} -->
+  <Flake.ingestible.ingestCommandString>{0} ﻥّﺧﺩ</Flake.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Flake.ingestible.ingestReportString>.{0} ﻦﻴﺧﺪﺗ</Flake.ingestible.ingestReportString>
+  
+</LanguageData>

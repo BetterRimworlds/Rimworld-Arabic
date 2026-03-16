@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ ﺐﻴﻛﺮﺗ</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>. ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ ﺐﻴﻛﺮﺗ</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>. ﻲﻧﻮﻴﺑ ﻉﺍﺭﺫ ﺐﻴﻛﺮﺗ</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>ﺔﻴﻧﻮﻴﺑ ﻥﺫﺃ ﺐﻴﻛﺮﺗ</InstallBionicEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <InstallBionicEar.description>. ﺔﻴﻧﻮﻴﺑ ﺍًﻧﺫﺃ ﺕّﺒﺛ</InstallBionicEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicEar.jobString>. ﺔﻴﻧﻮﻴﺑ ﻥﺫﺃ ﺐﻴﻛﺮﺗ</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ ﺐﻴﻛﺮﺗ</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>. ﺔﻴﻧﻮﻴﺑ ﺍًﻨﻴﻋ ﺕّﺒﺛ</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>. ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ ﺐﻴﻛﺮﺗ</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic heart -->
+  <InstallBionicHeart.label>ﻲﻧﻮﻴﺑ ﺐﻠﻗ ﺐﻴﻛﺮﺗ</InstallBionicHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <InstallBionicHeart.description>. ﻲﻧﻮﻴﺑ ﺐﻠﻗ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallBionicHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <InstallBionicHeart.jobString>. ﻲﻧﻮﻴﺑ ﺐﻠﻗ ﺐﻴﻛﺮﺗ</InstallBionicHeart.jobString>
+  
+  <!-- EN: Install bionic jaw -->
+  <InstallBionicJaw.label>ﻲﻧﻮﻴﺑ ﻚﻓ ﺐﻴﻛﺮﺗ</InstallBionicJaw.label>
+  <!-- EN: Install bionic jaw. -->
+  <InstallBionicJaw.description>. ﻲﻧﻮﻴﺑ ﻚﻓ ﺐﻴﻛﺮﺗ</InstallBionicJaw.description>
+  <!-- EN: Installing bionic jaw. -->
+  <InstallBionicJaw.jobString>. ﻲﻧﻮﻴﺑ ﻚﻓ ﺐﻴﻛﺮﺗ</InstallBionicJaw.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ ﺐﻴﻛﺮﺗ</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>. ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ ﺐﻴﻛﺮﺗ</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>. ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ ﺐﻴﻛﺮﺗ</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﺐﻴﻛﺮﺗ</InstallBionicSpine.label>
+  <!-- EN: Install a bionic spine. -->
+  <InstallBionicSpine.description>. ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallBionicSpine.description>
+  <!-- EN: Installing bionic spine. -->
+  <InstallBionicSpine.jobString>. ﻲﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﺐﻴﻛﺮﺗ</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <InstallBionicStomach.label>ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﺐﻴﻛﺮﺗ</InstallBionicStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <InstallBionicStomach.description>. ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallBionicStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <InstallBionicStomach.jobString>. ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﺐﻴﻛﺮﺗ</InstallBionicStomach.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>ﻲﻧﻮﻴﺑ ﻥﺎﺴﻟ ﺐﻴﻛﺮﺗ</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>. ﻲﻧﻮﻴﺑ ﻥﺎﺴﻟ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>. ﻲﻧﻮﻴﺑ ﻥﺎﺴﻟ ﺐﻴﻛﺮﺗ</InstallBionicTongue.jobString>
+  
+  <!-- EN: install death acidifier -->
+  <InstallDeathAcidifier.label>ﺕﻮﻤﻟﺍ ﺽِّﻤﺣُﻣ ﺐﻴﻛﺮﺗ</InstallDeathAcidifier.label>
+  <!-- EN: Install a death acidifier. -->
+  <InstallDeathAcidifier.description>. ﺕﻮﻤﻠﻟ ﺍًﺿِّﻣَﺣُﻣ ﺕّﺒﺛ</InstallDeathAcidifier.description>
+  <!-- EN: Installing death acidifier. -->
+  <InstallDeathAcidifier.jobString>. ﺕﻮﻤﻟﺍ ﺽِّﻤﺣُﻣ ﺐﻴﻛﺮﺗ</InstallDeathAcidifier.jobString>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>. ﺩﻮﻗﻮﻟﺎﺑ ﺪﻳﻭﺰﺘﻟﺍ ﺓﺩﺎﻋﻹ ﻞﺑﺎﻗ. ﺎﻬﻨﻴﺨﺴﺘﻟ ﺔﻘﻠﻐﻣ ﺔﺣﺎﺴﻣ ﻪﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻪﻌﺿﻭ ﺐﺠﻳ ،ﺓﺭﺍﺮﺤﻟﺍ ﺭﺩﺎﺼﻣ ﻊﻴﻤﺟ ﻊﻣ ﻝﺎﺤﻟﺍ ﻮﻫ ﺎﻤﻛ. ﻡﺎﻳﺃ ﺔﻌﻀﺑ ﺪﻌﺑ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻳﻭ ،ﺓﺭﺍﺮﺣ ﺞﺘﻨﻳﻭ ﺕﺎﺒﺟﻮﻟﺍ ﺦﺒﻄﻳ</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>ﺩِّﺮﺑُﻣ</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>. ﺪﻴﻤﺠﺗ ﺔﻓﺮﻏ ﺀﺎﺸﻧﻹ ﻭﺃ ،ﻒﻴﺼﻟﺍ ﻝﻼﺧ ﻑﺮﻐﻟﺍ ﺪﻳﺮﺒﺘﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ. ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻦﻣ ﻦﺧﺎﺴﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺝﺮﺨﻳ ﺎﻤﻨﻴﺑ ،ﺐﻧﺍﻮﺠﻟﺍ ﺪﺣﺃ ﻦﻣ ﺩﺭﺎﺑ ﺀﺍﻮﻫ ﺎﻬﻨﻣ ﺝﺮﺨﻳ ،ﺭﺍﺪﺠﻟﺍ ﻲﻓ ﺐﻛﺮﺗ ﺓّﻴﺋﺍﻮﻫ ﺪﻳﺮﺒﺗ ﺔﻟﺁ</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>ﺓﺄﻓﺪﻣ</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>. ﺓﺩﺪﺤﻣ ﺔﻓﺪﻬﺘﺴﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺍًﻴﺋﺎﻘﻠﺗ ﻑﺎﻘﻳﻹﺍ ﻭﺃ ﻞﻴﻐﺸﺘﻟﺍ ﻪﻨﻜﻤﻳﻭ ،ﺓﺭﺍﺮﺣ ﻰﻟﺇ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻝﻮﺤﻳ ﺯﺎﻬﺟ</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>ﻲﺒﻠﺳ ﺩﺮﺒﻣ</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>. ﻡﺎﻌﻄﻟﺍ ﺪﻳﺮﺒﺘﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺍًﻟﺎﻌﻓ ﺲﻴﻟ. ﻡﺎﻈﺘﻧﺎﺑ ﺐﺸﺨﻟﺎﺑ ﻪﺌﻠﻣ ﺓﺩﺎﻋﺇ ﺐﺠﻳ. ﺀﺎﻤﻟﺍ ﺮﺨﺒﺗ ﻖﻳﺮﻃ ﻦﻋ ﻞﻤﻌﻳ ﺔﻗﺎﻄﻟﺎﺑ ﻝَّﻐﺷُﻣ ﺮﻴﻏ ﻱﺪﻴﻠﻘﺗ ﺩﺮﺒﻣ</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>ﺔﻳﻮﻬﺗ ﺔﺤﺘﻓ</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>. ﺎﻤﻬﻨﻴﺑ ﺹﺎﺨﺷﻷﺍ ﺭﻭﺮﻤﺑ ﺡﺎﻤﺴﻟﺍ ﻥﻭﺩ ﻦﻴﺘﻓﺮﻏ ﻦﻴﺑ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻞﻳﺪﻌﺘﻟ ﺔﺤﺘﻓ</Vent.description>
+  
+</LanguageData>

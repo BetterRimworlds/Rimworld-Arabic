@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>ﻥﺎﻨﺳﺃ ﻢﻘﻃ</Denture.label>
+  <!-- EN: An installed denture. Allows for some basic functionality like eating and talking. -->
+  <Denture.description>. ﺙﺪﺤﺘﻟﺍﻭ ﻞﻛﻷﺍ ﻞﺜﻣ ﺔﻴﺳﺎﺳﻷﺍ ﻒﺋﺎﻇﻮﻟﺍ ﺾﻌﺒﺑ ﺢﻤﺴﻳ ،ﻥﺎﻨﺳﺃ ﺐﻴﻛﺮﺗ</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>ﻥﺎﻨﺳﺃ ﻢﻘﻃ</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>ﺔﻴﺒﺸﺧ ﻕﺎﺳ</PegLeg.label>
+  <!-- EN: An installed peg leg. Allows the user to walk again, albeit not very well. -->
+  <PegLeg.description>. ﺔﻳﺎﻐﻠﻟ ﺪﻴﺟ ﻞﻜﺸﺑ ﻦﻜﻳ ﻢﻟ ﻥﺇﻭ ،ﻯﺮﺧﺃ ﺓﺮﻣ ﻲﺸﻤﻟﺎﺑ ﻡﺪﺨﺘﺴﻤﻠﻟ ﺢﻤﺴﺗ. ﺔﻋﻭﺭﺰﻣ ﺔﻴﺒﺸﺧ ﻕﺎﺳ</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ﺔﻴﺒﺸﺧ ﻕﺎﺳ</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>ﻲﺒﺸﺧ ﻡﺪﻗ</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. Restores some stability to the user, but without finer motor skills. -->
+  <WoodenFoot.description>. ﺔﻘﻴﻗﺩ ﺔﻴﻛﺮﺣ ﺕﺍﺭﺎﻬﻣ ﻥﻭﺪﺑ ﻦﻜﻟﻭ ،ﻡﺪﺨﺘﺴﻤﻠﻟ ﺕﺎﺒﺜﻟﺍ ﺾﻌﺑ ﺪﻴﻌﺘﺴﺗ. ﺔﻋﻭﺭﺰﻣ ﺔﻴﺒﺸﺧ ﻡﺪﻗ</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>ﺔﻴﺒﺸﺧ ﻡﺪﻗ</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>ﺔﻴﺒﺸﺧ ﺪﻳ</WoodenHand.label>
+  <!-- EN: An installed wooden hand. Better than a stump, but not by much. -->
+  <WoodenHand.description>. ﺮﻴﺜﻜﻟﺎﺑ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﻉﺬﺠﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ،ﺔﻋﻭﺭﺰﻣ ﺔﻴﺒﺸﺧ ﺪﻳ</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>ﺔﻴﺒﺸﺧ ﺪﻳ</WoodenHand.labelNoun>
+  
+</LanguageData>

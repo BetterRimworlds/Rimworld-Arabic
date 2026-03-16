@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.label>ﺔﺑَﻗﺍﺭُﻣ ﺔﺜﺟ</ObservedLayingCorpse.label>
+  
+  <!-- EN: observed rotten corpse -->
+  <ObservedLayingRottingCorpse.label>ﺔﺑَﻗﺍﺭُﻣ ﺔﻨﻔﻌﺘﻣ ﺔﺜﺟ</ObservedLayingRottingCorpse.label>
+  
+</LanguageData>

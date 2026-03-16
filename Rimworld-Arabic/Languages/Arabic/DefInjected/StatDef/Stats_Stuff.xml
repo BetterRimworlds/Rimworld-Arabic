@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <StuffPower_Armor_Blunt.label>ﺖﻠﺑ - ﻉﺭﺩ</StuffPower_Armor_Blunt.label>
+  <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
+  <StuffPower_Armor_Blunt.description>. ﺕﺍﺭﺎﺠﻔﻧﻻﺍﻭ ،ﺭﻮﺨﺼﻟﺍ ﻁﻮﻘﺳ ،ﺕﺍﻭﺍﺮﻬﻟﺍ ﺕﺎﺑﺮﻀﻛ ﺔﻤﺷﺎﻐﻟﺍ ﺭﺍﺮﺿﻷﺍ ّﺪﺿ ٌﻉﺭﺩ</StuffPower_Armor_Blunt.description>
+  <!-- EN: Armor - Blunt (material factor) -->
+  <StuffPower_Armor_Blunt.labelForFullStatList>)ﺓﺩﺎﻤﻟﺍ ﻞﻣﺎﻋ (ﺖﻠﺑ - ﻉﺭﺩ</StuffPower_Armor_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <StuffPower_Armor_Heat.label>ﺓﺭﺍﺮﺣ - ﻉﺭﺩ</StuffPower_Armor_Heat.label>
+  <!-- EN: Armor against temperature-related damage like burns. -->
+  <StuffPower_Armor_Heat.description>. ﻕﻭﺮﺤﻟﺍ ﻞﺜﻣ ،ﺓﺭﺍﺮﺤﻟﺎﺑ ﺔﻘﻠﻌﺘﻤﻟﺍ ﺭﺍﺮﺿﻷﺍ ّﺪﺿ ٌﻉﺭﺩ</StuffPower_Armor_Heat.description>
+  <!-- EN: Armor - Heat (material factor) -->
+  <StuffPower_Armor_Heat.labelForFullStatList>)ﺓﺩﺎﻤﻟﺍ ﻞﻣﺎﻋ (ﺓﺭﺍﺮﺣ - ﻉﺭﺩ</StuffPower_Armor_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <StuffPower_Armor_Sharp.label>ﺩﺎﺣ - ﻉﺭﺩ</StuffPower_Armor_Sharp.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <StuffPower_Armor_Sharp.description>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻀﻋﻭ ﻦﻴﻜﺴﻟﺍ ﺕﺎﻨﻌﻃﻭ ﺹﺎﺻﺮﻟﺍ ﺕﺎﻘﻠﻄﻛ ﺓﺩﺎﺤﻟﺍ ﺭﺍﺮﺿﻷﺍ ّﺪﺿ ٌﻉﺭﺩ</StuffPower_Armor_Sharp.description>
+  <!-- EN: Armor - Sharp (material factor) -->
+  <StuffPower_Armor_Sharp.labelForFullStatList>)ﺓﺩﺎﻤﻟﺍ ﻞﻣﺎﻋ (ﺩﺎﺣ - ﻉﺭﺩ</StuffPower_Armor_Sharp.labelForFullStatList>
+  
+  <!-- EN: Insulation - Cold -->
+  <StuffPower_Insulation_Cold.label>ﺩﺮﺑ - ﻝﺰﻋ</StuffPower_Insulation_Cold.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Cold.description>. ﺀﺍﺪﺗﺭﻼﻟ ﺔﺤﻳﺮﻤﻟﺍ ﺎﻴﻧﺪﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺪﻟ ﺓﺩﺎﻤﻟﺍ ﻩﺬﻫ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻴﺴﺤﺗ ﺭﺍﺪﻘﻣ</StuffPower_Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (material factor) -->
+  <StuffPower_Insulation_Cold.labelForFullStatList>)ﻱﺩﺎﻣ ﻞﻣﺎﻋ (ﺩﺮﺑ - ﻝﺰﻋ</StuffPower_Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <StuffPower_Insulation_Heat.label>ﺓﺭﺍﺮﺣ - ﻝﺰﻋ</StuffPower_Insulation_Heat.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Heat.description>. ﺀﺍﺪﺗﺭﻼﻟ ﺔﺤﻳﺮﻤﻟﺍ ﻯﻮﺼﻘﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺪﻟ ﺓﺩﺎﻤﻟﺍ ﻩﺬﻫ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻴﺴﺤﺗ ﺭﺍﺪﻘﻣ</StuffPower_Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (material factor) -->
+  <StuffPower_Insulation_Heat.labelForFullStatList>)ﻱﺩﺎﻣ ﻞﻣﺎﻋ (ﺓﺭﺍﺮﺣ - ﻝﺰﻋ</StuffPower_Insulation_Heat.labelForFullStatList>
+  
+</LanguageData>

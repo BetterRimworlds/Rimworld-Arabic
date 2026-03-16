@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] designed the construction of buildings. On [PAWN_possessive] glitterworld home, the technical aspect of architecture was handled by an AI, whilst the labour was done by robots. This freed [PAWN_objective] up to push the artistic limits of his craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty. -->
+  <Architect28.description>{PAWN_gender ? . ﺎﻬﻳﺪﻳ ﺦﻴﻄﻠﺘﻟ ﺍًﺪﺑﺃ ﺮﻄﻀﺗ ﻢﻟ ﺎﻬﻧﺃ ﺍًﻀﻳﺃ ﻲﻨﻌﻳ ﻥﺎﻛ ﻪﻨﻜﻟ ،ﺎﻬﺘﻓﺮﺤﻟ ﺔﻴﻨﻔﻟﺍ ﺩﻭﺪﺤﻟﺍ ﻊﻓﺩ ﺍﺬﻫ ﺎﻬﻟ ﺡﺎﺗﺃ. ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺎﺑ ﻡﻮﻘﺗ ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑ ،ﺔﻳﺭﺎﻤﻌﻤﻟﺍ ﺔﺳﺪﻨﻬﻠﻟ ﺔﻴﻨﻘﺘﻟﺍ ﺐﻧﺍﻮﺠﻟﺍ ﻰﻟﻮﺘﻳ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﻥﺎﻛ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ ﺎﻬﻨﻃﻮﻣ ﻲﻓ. ﻲﻧﺎﺒﻤﻟﺍ ﺪﻴﻴﺸﺗ ﺔﻴﻠﻤﻋ [PAWN_nameDef] ﺖﻤﻤﺻ : . ﻪﻳﺪﻳ ﺦﻴﻄﻠﺘﻟ ﺍًﺪﺑﺃ ﺮﻄﻀﻳ ﻢﻟ ﻪﻧﺃ ﺍًﻀﻳﺃ ﻲﻨﻌﻳ ﻥﺎﻛ ﻪﻨﻜﻟ ،ﻪﺘﻓﺮﺤﻟ ﺔﻴﻨﻔﻟﺍ ﺩﻭﺪﺤﻟﺍ ﻊﻓﺩ ﺍﺬﻫ ﻪﻟ ﺡﺎﺗﺃ. ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺎﺑ ﻡﻮﻘﺗ ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺖﻧﺎﻛ ﺎﻤﻨﻴﺑ ،ﺔﻳﺭﺎﻤﻌﻤﻟﺍ ﺔﺳﺪﻨﻬﻠﻟ ﺔﻴﻨﻘﺘﻟﺍ ﺐﻧﺍﻮﺠﻟﺍ ﻰﻟﻮﺘﻳ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﻥﺎﻛ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ ﻪﻨﻃﻮﻣ ﻲﻓ. ﻲﻧﺎﺒﻤﻟﺍ ﺪﻴﻴﺸﺗ ﺔﻴﻠﻤﻋ [PAWN_nameDef] ﻢﻤﺻ}</Architect28.description>
+  <!-- EN: architect -->
+  <Architect28.title>ﻱﺭﺎﻤﻌﻣ ﺱﺪﻨﻬﻣ</Architect28.title>
+  <Architect28.titleFemale>ﺔﻳﺭﺎﻤﻌﻣ ﺔﺳﺪﻨﻬﻣ</Architect28.titleFemale>
+  <!-- EN: architect -->
+  <Architect28.titleShort>ﻱﺭﺎﻤﻌﻣ ﺱﺪﻨﻬﻣ</Architect28.titleShort>
+  <Architect28.titleShortFemale>ﺔﻳﺭﺎﻤﻌﻣ ﺔﺳﺪﻨﻬﻣ</Architect28.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots, while the people mostly devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire nature's beauty. -->
+  <BiosphereManager95.description>{PAWN_gender ? . ﺔﻌﻴﺒﻄﻟﺍ ﻝﺎﻤﺠﺑ ﺏﺎﺠﻋﻺﻟ ﻥﻮﻨﻃﺍﻮﻤﻟﺍ ﻲﺗﺄﻳ ﺚﻴﺣ ،ﺔﻌﺳﺎﺷ ﺔﻘﻳﺪﺣ ﻲﻓ ﺔﻴﻧﺍﻮﻴﺤﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﺮﻳﺪﺗ ﺖﻧﺎﻛ. ﻪﻴﻓﺮﺘﻠﻟ ﻢﻬﺘﻗﻭ ﻢﻈﻌﻣ ﻥﻮﺳﺮﻜﻳ ﺱﺎﻨﻟﺍ ﻥﺎﻛ ﺎﻤﻨﻴﺑ ،ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻊﻴﻤﺠﺑ ﻡﻮﻘﺗ ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺖﻧﺎﻛ ﺚﻴﺣ ﻢﻟﺎﺴﻣ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﺖﺷﺎﻋ : . ﺔﻌﻴﺒﻄﻟﺍ ﻝﺎﻤﺠﺑ ﺏﺎﺠﻋﻺﻟ ﻥﻮﻨﻃﺍﻮﻤﻟﺍ ﻲﺗﺄﻳ ﺚﻴﺣ ،ﺔﻌﺳﺎﺷ ﺔﻘﻳﺪﺣ ﻲﻓ ﺔﻴﻧﺍﻮﻴﺤﻟﺍﻭ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﺮﻳﺪﻳ ﻥﺎﻛ. ﻪﻴﻓﺮﺘﻠﻟ ﻢﻬﺘﻗﻭ ﻢﻈﻌﻣ ﻥﻮﺳﺮﻜﻳ ﺱﺎﻨﻟﺍ ﻥﺎﻛ ﺎﻤﻨﻴﺑ ،ﺔﻗﺎﺸﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻊﻴﻤﺠﺑ ﻡﻮﻘﺗ ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺖﻧﺎﻛ ﺚﻴﺣ ﻢﻟﺎﺴﻣ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﺵﺎﻋ}</BiosphereManager95.description>
+  <!-- EN: biosphere manager -->
+  <BiosphereManager95.title>ﻲﺌﻴﺒﻟﺍ ﻡﺎﻈﻨﻟﺍ ﺮﻳﺪﻣ</BiosphereManager95.title>
+  <BiosphereManager95.titleFemale>ﻲﺌﻴﺒﻟﺍ ﻡﺎﻈﻨﻟﺍ ﺓﺮﻳﺪﻣ</BiosphereManager95.titleFemale>
+  <!-- EN: botanist -->
+  <BiosphereManager95.titleShort>ﺕﺎﺗﺎﺒﻧ ﻢﻟﺎﻋ</BiosphereManager95.titleShort>
+  <BiosphereManager95.titleShortFemale>ﺕﺎﺗﺎﺒﻧ ﺔﻤﻟﺎﻋ</BiosphereManager95.titleShortFemale>
+  
+  <!-- EN: Glitterworlds are havens of comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore the nearby trashworlds where the people suffered and starved. [PAWN_pronoun] spent [PAWN_possessive] life appealing for donations and supporting those in need. -->
+  <CharityWorker36.description>{PAWN_gender ? . ﻦﻴﺟﺎﺘﺤﻤﻟﺍ ﻢﻋﺩﻭ ﺕﺎﻋﺮﺒﺘﻟﺍ ﻢﻳﺪﻘﺘﻟ ﺱﺎﻨﻟﺍ ﺓﺪﺷﺎﻨﻣ ﻲﻓ ﺎﻬﺗﺎﻴﺣ ﺖﻀﻗ. ًﺎﻋﻮﺟ ﻥﻭﺭﻮﻀﺘﻳﻭ ﺱﺎﻨﻟﺍ ﻲﻧﺎﻌﻳ ﺚﻴﺣ ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻳﺎﻔﻨﻟﺍ ﻢﻟﺍﻮﻋ ﻞﻫﺎﺠﺗ ﻊﻄﺘﺴﺗ ﻢﻟ [PAWN_nameDef] ﻦﻜﻟ ،ﺎﻬﻴﻓ ﺶﻴﻌﻠﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻦﻴﻇﻮﻈﺤﻤﻟﺍ ﻚﺌﻟﻭﻷ ﺔﺣﺍﺮﻠﻟ ﺕﺍﺫﻼﻣ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﺪﻋُﺗ : . ﻦﻴﺟﺎﺘﺤﻤﻟﺍ ﻢﻋﺩﻭ ﺕﺎﻋﺮﺒﺘﻟﺍ ﻢﻳﺪﻘﺘﻟ ﺱﺎﻨﻟﺍ ﺓﺪﺷﺎﻨﻣ ﻲﻓ ﻪﺗﺎﻴﺣ ﻰﻀﻗ. ًﺎﻋﻮﺟ ﻥﻭﺭﻮﻀﺘﻳﻭ ﺱﺎﻨﻟﺍ ﻲﻧﺎﻌﻳ ﺚﻴﺣ ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻳﺎﻔﻨﻟﺍ ﻢﻟﺍﻮﻋ ﻞﻫﺎﺠﺗ ﻊﻄﺘﺴﻳ ﻢﻟ [PAWN_nameDef] ﻦﻜﻟ ،ﺎﻬﻴﻓ ﺶﻴﻌﻠﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻦﻴﻇﻮﻈﺤﻤﻟﺍ ﻚﺌﻟﻭﻷ ﺔﺣﺍﺮﻠﻟ ﺕﺍﺫﻼﻣ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﺪﻋُﺗ}</CharityWorker36.description>
+  <!-- EN: charity worker -->
+  <CharityWorker36.title>ﻱﺮﻴﺧ ﻞﻣﺎﻋ</CharityWorker36.title>
+  <CharityWorker36.titleFemale>ﺔﻳﺮﻴﺧ ﺔﻠﻣﺎﻋ</CharityWorker36.titleFemale>
+  <!-- EN: altruist -->
+  <CharityWorker36.titleShort>ﻥِﺴﺣُﻣ</CharityWorker36.titleShort>
+  <CharityWorker36.titleShortFemale>ﺔﻧِﺴﺣُﻣ</CharityWorker36.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] found it easy to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to cause others pain. -->
+  <GlitterworldEmpath26.description>{PAWN_gender ? . ﻦﻳﺮﺧﻶﻟ ﻢﻟﻷﺎﺑ ﺐﺒﺴﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﺖﺤﺒﺻﺃ ﺎﻬﻨﻜﻟ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﺎﻬﺗﺍﺭﺪﻗ ﺐﻳﺭﺪﺘﻟﺍ ﻑّﺜﻛ. ﺔﻔﻃﺎﻌﺘﻤﻛ ﺐﻳﺭﺪﺘﻠﻟ ﺎﻫﺭﺎﻴﺘﺧﺍ ﻢﺗ. ﺕﺎﻋﺍﺰﻨﻟﺍ ﻞﺣﻭ ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻲﻓ ﺔﻟﻮﻬﺳ [PAWN_nameDef] ﺕﺪﺟﻭ : . ﻦﻳﺮﺧﻶﻟ ﻢﻟﻷﺎﺑ ﺐﺒﺴﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﺢﺒﺻﺃ ﻪﻨﻜﻟ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺗﺍﺭﺪﻗ ﺐﻳﺭﺪﺘﻟﺍ ﻑّﺜﻛ. ﻒﻃﺎﻌﺘﻤﻛ ﺐﻳﺭﺪﺘﻠﻟ ﻩﺭﺎﻴﺘﺧﺍ ﻢﺗ. ﺕﺎﻋﺍﺰﻨﻟﺍ ﻞﺣﻭ ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻲﻓ ﺔﻟﻮﻬﺳ [PAWN_nameDef] ﺪﺟﻭ}</GlitterworldEmpath26.description>
+  <!-- EN: glitterworld empath -->
+  <GlitterworldEmpath26.title>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﻒﻃﺎﻌﺘﻣ</GlitterworldEmpath26.title>
+  <GlitterworldEmpath26.titleFemale>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺔﻔﻃﺎﻌﺘﻣ</GlitterworldEmpath26.titleFemale>
+  <!-- EN: empath -->
+  <GlitterworldEmpath26.titleShort>ﻒﻃﺎﻌﺘﻣ</GlitterworldEmpath26.titleShort>
+  <GlitterworldEmpath26.titleShortFemale>ﺔﻔﻃﺎﻌﺘﻣ</GlitterworldEmpath26.titleShortFemale>
+  
+  <!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
+  <GlitterworldOfficer60.description>{PAWN_gender ? . ﻲﻘﻴﻘﺣ ﻝﺎﺘﻗ ﻱﺃ [PAWN_nameDef] ﺓﺪﺣﻭ ﺕﺪﻬﺷ ﺎﻣ ًﺍﺭﺩﺎﻧ. ﺏﺮﺤﻠﻟ ﺓﺪﻌﺘﺴﻣ ًﺎﺒﻟﺎﻏ ﻞﻈﺗ ﺎﻬﻧﺃ ﻻﺇ ،ﺔﻤﻟﺎﺴﻣ ﻦﻛﺎﻣﺃ ﺪﻋُﺗ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ
+
+. ﺕﺎﻋﺍﺰﻨﻟﺍ ﺾﻓ ﻲﻓ ﺔﻋﺭﺎﺑ [PAWN_nameDef] ﺖﺤﺒﺻﺃ ﺍﺬﻟ ،ﻱﺪﻳﻷﺎﺑ ﻚﺑﺎﺸﺘﻟﺎﺑ ﻢﻬﺴﻔﻧﺃ ﻦﻋ ﻪﻴﻓﺮﺘﻟﺍ ﺍﻮﻠﻀﻓ ﺎﻬﻴﺳﻭﺅﺮﻣ ﻥﺃ ﻻﺇ ،ﺔﻴﻨﻔﻟﺍ ﺎﻬﺗﺎﻳﺍﻮﻫ ﺱﺭﺎﻤﺗ ﺖﻧﺎﻛ ﺎﻬﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ : . ﻲﻘﻴﻘﺣ ﻝﺎﺘﻗ ﻱﺃ [PAWN_nameDef] ﺓﺪﺣﻭ ﺕﺪﻬﺷ ﺎﻣ ًﺍﺭﺩﺎﻧ. ﺏﺮﺤﻠﻟ ﺓﺪﻌﺘﺴﻣ ًﺎﺒﻟﺎﻏ ﻞﻈﺗ ﺎﻬﻧﺃ ﻻﺇ ،ﺔﻤﻟﺎﺴﻣ ﻦﻛﺎﻣﺃ ﺪﻋُﺗ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ
+
+. ﺕﺎﻋﺍﺰﻨﻟﺍ ﺾﻓ ﻲﻓ ًﺎﻋﺭﺎﺑ [PAWN_nameDef] ﺢﺒﺻﺃ ﺍﺬﻟ ،ﻱﺪﻳﻷﺎﺑ ﻚﺑﺎﺸﺘﻟﺎﺑ ﻢﻬﺴﻔﻧﺃ ﻦﻋ ﻪﻴﻓﺮﺘﻟﺍ ﺍﻮﻠﻀﻓ ﻪﻴﺳﻭﺅﺮﻣ ﻥﺃ ﻻﺇ ،ﺔﻴﻨﻔﻟﺍ ﻪﺗﺎﻳﺍﻮﻫ ﺱﺭﺎﻤﻳ ﻥﺎﻛ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ}</GlitterworldOfficer60.description>
+  <!-- EN: glitterworld officer -->
+  <GlitterworldOfficer60.title>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﻂﺑﺎﺿ</GlitterworldOfficer60.title>
+  <GlitterworldOfficer60.titleFemale>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺔﻄﺑﺎﺿ</GlitterworldOfficer60.titleFemale>
+  <!-- EN: officer -->
+  <GlitterworldOfficer60.titleShort>ﻂﺑﺎﺿ</GlitterworldOfficer60.titleShort>
+  <GlitterworldOfficer60.titleShortFemale>ﺔﻄﺑﺎﺿ</GlitterworldOfficer60.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering, so [PAWN_possessive] job focused on elaborate and creative cosmetic surgeries. \n\n[PAWN_pronoun] understands human biology, deeply, but has never had to remove a tumour — or a bullet. -->
+  <GlitterworldSurgeon15.description>{PAWN_gender ? . ﺓﺮﻜﺘﺒﻤﻟﺍﻭ ﺓﺪﻘﻌﻤﻟﺍ ﺔﻴﻠﻴﻤﺠﺘﻟﺍ ﺕﺎﺣﺍﺮﺠﻟﺍ ﻰﻠﻋ ﺎﻬﻠﻤﻋ ﻲﻓ ﺕﺰﻛﺭ ﺍﺬﻟ ،ﺔﻳﺮﺸﺒﻟﺍ ﺓﺎﻧﺎﻌﻤﻟﺍﻭ ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺮﻴﺒﻛ ﺪﺣ ﻰﻟﺇ ٍﻝﺎﺧ ﻢﻟﺎﻋ ﻲﻓ ﺔﺣﺍﺮﺠﻛ [PAWN_nameDef] ﺖﻠﻤﻋ
+
+. ﺔﺻﺎﺻﺭ ﻭﺃ — ﻡﺭﻭ ﺔﻟﺍﺯﺇ ﻰﻟﺇ ﺍًﺪﺑﺃ ﺮﻄﻀﺗ ﻢﻟ ﺎﻬﻨﻜﻟ ،ﻖﻤﻌﺑ ﻱﺮﺸﺒﻟﺍ ﺀﺎﻴﺣﻷﺍ ﻢﻠﻋ ﻢﻬﻔﺗ ﺎﻬﻧﺇ : . ﺓﺮﻜﺘﺒﻤﻟﺍﻭ ﺓﺪﻘﻌﻤﻟﺍ ﺔﻴﻠﻴﻤﺠﺘﻟﺍ ﺕﺎﺣﺍﺮﺠﻟﺍ ﻰﻠﻋ ﻪﻠﻤﻋ ﻲﻓ ﺰﻛﺭ ﺍﺬﻟ ،ﺔﻳﺮﺸﺒﻟﺍ ﺓﺎﻧﺎﻌﻤﻟﺍﻭ ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺮﻴﺒﻛ ﺪﺣ ﻰﻟﺇ ٍﻝﺎﺧ ﻢﻟﺎﻋ ﻲﻓ ﺡﺍﺮﺠﻛ [PAWN_nameDef] ﻞﻤﻋ
+
+. ﺔﺻﺎﺻﺭ ﻭﺃ — ﻡﺭﻭ ﺔﻟﺍﺯﺇ ﻰﻟﺇ ﺍًﺪﺑﺃ ﺮﻄﻀﻳ ﻢﻟ ﻪﻨﻜﻟ ،ﻖﻤﻌﺑ ﻱﺮﺸﺒﻟﺍ ﺀﺎﻴﺣﻷﺍ ﻢﻠﻋ ﻢﻬﻔﻳ ﻪﻧﺇ}</GlitterworldSurgeon15.description>
+  <!-- EN: glitterworld surgeon -->
+  <GlitterworldSurgeon15.title>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺡﺍﺮﺟ</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleFemale>ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻦﻣ ﺔﺣﺍﺮﺟ</GlitterworldSurgeon15.titleFemale>
+  <!-- EN: surgeon -->
+  <GlitterworldSurgeon15.titleShort>ﺡﺍﺮﺟ</GlitterworldSurgeon15.titleShort>
+  <GlitterworldSurgeon15.titleShortFemale>ﺔﺣﺍﺮﺟ</GlitterworldSurgeon15.titleShortFemale>
+  
+  <!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always at the peak of modern research. Even better, they occasionally find archotechnological artifacts floating in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
+  <NavyScientist52.description>{PAWN_gender ? . ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﻮﻔﻄﺗ ﺔﻴﻜﻴﺗﻮﻛﺭﺃ ﺔﻳﺮﺛﺃ ﻊﻄﻗ ﻰﻠﻋ ﺍًﻧﺎﻴﺣﺃ ﺮﺜﻌﺗ ﺎﻬﻧﺃ ،ﺓﺭﺎﺛﺇ ﺮﻣﻷﺍ ﺪﻳﺰﻳ ﺎﻣﻭ. ﺔﺜﻳﺪﺤﻟﺍ ﺙﺎﺤﺑﻷﺍ ﺔﻤﻗ ﻲﻓ ﺍًﻤﺋﺍﺩ ﻥﻮﻜﺗ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﻞﻴﻃﺎﺳﺃ ﻥﺈﻓ ﺍﺬﻟ ،ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻞﻀﻔﺑ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺏﻭﺮﺤﻟﺍ ﻲﻓ ﺮﺼﻨﻟﺍ ﻢﺴﺣُﻳ
+
+. ﺔﻳﺮﺤﺒﻠﻟ ﻊﺑﺎﺗ ﺮﺒﺘﺨﻣ ﻲﻓ [PAWN_nameDef] ﺖﻠﻤﻋ : . ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﻮﻔﻄﺗ ﺔﻴﻜﻴﺗﻮﻛﺭﺃ ﺔﻳﺮﺛﺃ ﻊﻄﻗ ﻰﻠﻋ ﺍًﻧﺎﻴﺣﺃ ﺮﺜﻌﺗ ﺎﻬﻧﺃ ،ﺓﺭﺎﺛﺇ ﺮﻣﻷﺍ ﺪﻳﺰﻳ ﺎﻣﻭ. ﺔﺜﻳﺪﺤﻟﺍ ﺙﺎﺤﺑﻷﺍ ﺔﻤﻗ ﻲﻓ ﺍًﻤﺋﺍﺩ ﻥﻮﻜﺗ ﺔﺌﻟﻸﺘﻣ ﻢﻟﺍﻮﻋ ﻞﻴﻃﺎﺳﺃ ﻥﺈﻓ ﺍﺬﻟ ،ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻞﻀﻔﺑ ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﺏﻭﺮﺤﻟﺍ ﻲﻓ ﺮﺼﻨﻟﺍ ﻢﺴﺣُﻳ
+
+. ﺔﻳﺮﺤﺒﻠﻟ ﻊﺑﺎﺗ ﺮﺒﺘﺨﻣ ﻲﻓ [PAWN_nameDef] ﻞﻤﻋ}</NavyScientist52.description>
+  <!-- EN: navy scientist -->
+  <NavyScientist52.title>ﺔﻳﺮﺤﺒﻟﺍ ﻲﻓ ﻢﻟﺎﻋ</NavyScientist52.title>
+  <NavyScientist52.titleFemale>ﺔﻳﺮﺤﺒﻟﺍ ﻲﻓ ﺔﻣِﻟﺎﻋ</NavyScientist52.titleFemale>
+  <!-- EN: scientist -->
+  <NavyScientist52.titleShort>ﻢﻟﺎﻋ</NavyScientist52.titleShort>
+  <NavyScientist52.titleShortFemale>ﺔﻣِﻟﺎﻋ</NavyScientist52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and has never done a day's manual labour in [PAWN_possessive] life. -->
+  <Novelist7.description>{PAWN_gender ? . ﺎﻬﺗﺎﻴﺣ ﻲﻓ ﺪﺣﺍﻭ ﻡﻮﻴﻟ ﻱﻭﺪﻳ ﻞﻤﻋ ﻱﺄﺑ ﻢﻘﺗ ﻢﻟﻭ - ﻝﺎﻔﺘﺣﻻﺍ ﻲﻓ ﺎﻬﻴﻟﺎﻴﻟﻭ ﺔﺑﺎﺘﻜﻟﺍ ﻲﻓ ﺎﻬﻣﺎﻳﺃ ﻲﻀﻘﺗ ﺖﻧﺎﻛ ﺚﻴﺣ ،ﻡﻮﻤﻬﻟﺍ ﻦﻣ ًﺎﻴﻟﺎﺧ ﺓﺎﻴﺣ ﺏﻮﻠﺳﺃ ﺖﺷﺎﻋ. ﺔﻳﺎﻐﻠﻟ ﺔﺤﺟﺎﻧ ﺕﺎﻳﺍﻭﺭ ًﺔﻔﻟﺆﻣ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﺖﺷﺎﻋ : . ﻪﺗﺎﻴﺣ ﻲﻓ ﺪﺣﺍﻭ ﻡﻮﻴﻟ ﻱﻭﺪﻳ ﻞﻤﻋ ﻱﺄﺑ ﻢﻘﻳ ﻢﻟﻭ - ﻝﺎﻔﺘﺣﻻﺍ ﻲﻓ ﻪﻴﻟﺎﻴﻟﻭ ﺔﺑﺎﺘﻜﻟﺍ ﻲﻓ ﻪﻣﺎﻳﺃ ﻲﻀﻘﻳ ﻥﺎﻛ ﺚﻴﺣ ،ﻡﻮﻤﻬﻟﺍ ﻦﻣ ًﺎﻴﻟﺎﺧ ﺓﺎﻴﺣ ﺏﻮﻠﺳﺃ ﺵﺎﻋ. ﺔﻳﺎﻐﻠﻟ ﺔﺤﺟﺎﻧ ﺕﺎﻳﺍﻭﺭ ًﺎﻔﻟﺆﻣ ،ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻓ [PAWN_nameDef] ﺵﺎﻋ}</Novelist7.description>
+  <!-- EN: novelist -->
+  <Novelist7.title>ﻲﺋﺍﻭﺭ</Novelist7.title>
+  <Novelist7.titleFemale>ﺔﻴﺋﺍﻭﺭ</Novelist7.titleFemale>
+  <!-- EN: novelist -->
+  <Novelist7.titleShort>ﻲﺋﺍﻭﺭ</Novelist7.titleShort>
+  <Novelist7.titleShortFemale>ﺔﻴﺋﺍﻭﺭ</Novelist7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] started off sculpting person-sized artworks, but [PAWN_pronoun] soon began to think bigger. With the help of mining robots, [PAWN_pronoun] learned how to carve huge monuments out of cliffsides. Soon the parks of the glitterworld where [PAWN_pronoun] lived were full of giant stone figures. -->
+  <Sculptor63.description>{PAWN_gender ? . ﺔﻗﻼﻤﻋ ﺔﻳﺮﺠﺣ ﻞﻴﺛﺎﻤﺘﺑ ﻪﻴﻓ ﺖﺷﺎﻋ ﻱﺬﻟﺍ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻖﺋﺍﺪﺣ ﺕﻸﺘﻣﺍ ﺎﻣ ﻥﺎﻋﺮﺳﻭ. ﺕﺍﺭﺪﺤﻨﻤﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﺔﻤﺨﺿ ﺔﻳﺭﺎﻛﺬﺗ ﺐﺼﻧ ﺖﺤﻧ ﺔﻴﻔﻴﻛ ﺖﻤﻠﻌﺗ ،ﻦﻳﺪﻌﺘﻟﺍ ﺕﺎﺗﻮﺑﻭﺭ ﺓﺪﻋﺎﺴﻤﺑ. ﺮﺒﻛﺃ ﻞﻜﺸﺑ ﺮﻜﻔﺗ ﺕﺃﺪﺑ ﺎﻣ ﻥﺎﻋﺮﺳ ﺎﻬﻨﻜﻟ ،ﻥﺎﺴﻧﻹﺍ ﻢﺠﺤﺑ ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﺖﺤﻨﺑ [PAWN_nameDef] ﺕﺃﺪﺑ : . ﺔﻗﻼﻤﻋ ﺔﻳﺮﺠﺣ ﻞﻴﺛﺎﻤﺘﺑ ﻪﻴﻓ ﺵﺎﻋ ﻱﺬﻟﺍ ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻖﺋﺍﺪﺣ ﺕﻸﺘﻣﺍ ﺎﻣ ﻥﺎﻋﺮﺳﻭ. ﺕﺍﺭﺪﺤﻨﻤﻟﺍ ﺐﻧﺍﻮﺟ ﻦﻣ ﺔﻤﺨﺿ ﺔﻳﺭﺎﻛﺬﺗ ﺐﺼﻧ ﺖﺤﻧ ﺔﻴﻔﻴﻛ ﻢﻠﻌﺗ ،ﻦﻳﺪﻌﺘﻟﺍ ﺕﺎﺗﻮﺑﻭﺭ ﺓﺪﻋﺎﺴﻤﺑ. ﺮﺒﻛﺃ ﻞﻜﺸﺑ ﺮﻜﻔﻳ ﺃﺪﺑ ﺎﻣ ﻥﺎﻋﺮﺳ ﻪﻨﻜﻟ ،ﻥﺎﺴﻧﻹﺍ ﻢﺠﺤﺑ ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﺖﺤﻨﺑ [PAWN_nameDef] ﺃﺪﺑ}</Sculptor63.description>
+  <!-- EN: sculptor -->
+  <Sculptor63.title>ﺕﺎﺤﻧ</Sculptor63.title>
+  <Sculptor63.titleFemale>ﺔﺗﺎﺤﻧ</Sculptor63.titleFemale>
+  <!-- EN: sculptor -->
+  <Sculptor63.titleShort>ﺕﺎﺤﻧ</Sculptor63.titleShort>
+  <Sculptor63.titleShortFemale>ﺔﺗﺎﺤﻧ</Sculptor63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] put great effort into the details of [PAWN_possessive] virtual worlds, learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes as realistic as possible. -->
+  <VRDesigner87.description>{PAWN_gender ? . ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ﺔﻴﻌﻗﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺎﻫﺮﻇﺎﻨﻣ ﻞﻌﺠﻟ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﻦﻋ ﺎﻬﻨﻜﻤﻳ ﺎﻣ ﻞﻛ ﺖﻤﻠﻌﺗﻭ ،ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺎﻬﻤﻟﺍﻮﻋ ﻞﻴﺻﺎﻔﺗ ﻲﻓ ًﺍﺮﻴﺒﻛ ًﺍﺪﻬﺟ ﺖﻟﺬﺑ. ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻨﻃﺍﻮﻤﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﻗﺍﻮﻟﺍ ﺓﺎﻛﺎﺤﻣ [PAWN_nameDef] ﺖﻤﻤﺻ : . ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ﺔﻴﻌﻗﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻩﺮﻇﺎﻨﻣ ﻞﻌﺠﻟ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺓﺎﻴﺤﻟﺍ ﻦﻋ ﻪﻨﻜﻤﻳ ﺎﻣ ﻞﻛ ﻢﻠﻌﺗﻭ ،ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﻪﻤﻟﺍﻮﻋ ﻞﻴﺻﺎﻔﺗ ﻲﻓ ًﺍﺮﻴﺒﻛ ًﺍﺪﻬﺟ ﻝﺬﺑ. ﺊﻟﻸﺘﻣ ﻢﻟﺎﻋ ﻲﻨﻃﺍﻮﻤﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﻊﻗﺍﻮﻟﺍ ﺓﺎﻛﺎﺤﻣ [PAWN_nameDef] ﻢﻤﺻ}</VRDesigner87.description>
+  <!-- EN: VR designer -->
+  <VRDesigner87.title>ﻲﺿﺍﺮﺘﻓﺍ ﻊﻗﺍﻭ ﻢﻤﺼﻣ</VRDesigner87.title>
+  <VRDesigner87.titleFemale>ﻲﺿﺍﺮﺘﻓﺍ ﻊﻗﺍﻭ ﺔﻤﻤﺼﻣ</VRDesigner87.titleFemale>
+  <!-- EN: game dev -->
+  <VRDesigner87.titleShort>ﺏﺎﻌﻟﺃ ﺭّﻮﻄﻣ</VRDesigner87.titleShort>
+  <VRDesigner87.titleShortFemale>ﺏﺎﻌﻟﺃ ﺓﺭّﻮﻄﻣ</VRDesigner87.titleShortFemale>
+  
+</LanguageData>

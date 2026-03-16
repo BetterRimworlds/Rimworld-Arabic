@@ -1,0 +1,25 @@
+﻿// Se trata de objetos a pequeña escala, no de grandes formaciones del terreno, mantener género femenino
+// Incluye animales, vegetales y minerales
+عنكبوت
+توتة
+كهف
+رماد
+بركة ضحلة
+ذيل
+خلية نحل
+لحاء
+مغارة
+شوك
+بوغ
+فاكهة
+ورقة
+خشب
+أعشاب
+ذبابة
+مخلب
+صخرة
+صنوبرية
+ريشة
+غصين
+صخرة
+بذرة

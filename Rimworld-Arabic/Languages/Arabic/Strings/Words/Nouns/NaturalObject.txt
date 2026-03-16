@@ -1,0 +1,14 @@
+﻿// Se trata de objetos a pequeña escala, no de grandes formaciones del terreno, mantener género masculino
+// Incluye animales, vegetales y minerales
+جناح
+شجيرة
+تلة
+بركة
+ناب
+سن
+خلافسة
+ثمرة
+عظم
+بعوضة
+طحلب
+جذع

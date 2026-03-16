@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridge -->
+  <Bridge.label>ﺮﺴﺟ</Bridge.label>
+  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <Bridge.description>. ﺍًﻀﻳﺃ ﻪﻗﻮﻓ ﺓﺩﻮﺟﻮﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺭﺎﻬﻨﺘﺴﻓ ،ﺮﺴﺟ ﺭﺎﻬﻧﺍ ﺍﺫﺇ. ﺔﺸﻫ ﺭﻮﺴﺠﻟﺍ - ﺭﺬﺣﺍ ﻦﻜﻟﻭ ،ﺭﻮﺴﺠﻟﺍ ﻰﻠﻋ ﺔﻔﻴﻔﺧ ﺕﺂﺸﻨﻣ ﺀﺎﻨﺑ ﻦﻜﻤﻳ. ﺀﺎﻤﻟﺍ ﻕﻮﻓ ﻩﺅﺎﻨﺑ ﻦﻜﻤﻳ ﺕﺎﻣﺎﻋﺩ ﻰﻠﻋ ﺢﻄﺴﻣ ﻲﺒﺸﺧ ﺢﻄﺳ</Bridge.description>
+  
+</LanguageData>

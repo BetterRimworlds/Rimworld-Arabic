@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>ﻲﺳﻮﻴﻨﻣﺃ ﻞﺋﺎﺳ</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺦﺳﻭ</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>ﺩﺎﻣﺭ</Filth_Ash.label>
+  
+  <!-- EN: blast mark -->
+  <Filth_BlastMark.label>ﺭﺎﺠﻔﻧﺍ ﺮﺛﺃ</Filth_BlastMark.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>ﻡﺩ</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>ﺕﺍﺮﺸﺤﻟﺍ ﻡﺩ</Filth_BloodInsect.label>
+  
+  <!-- EN: blood smear -->
+  <Filth_BloodSmear.label>ﻡﺩ ﺔﺤﺴﻣ</Filth_BloodSmear.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>ﺔﺜﺠﻟﺍ ﺀﺍﺮﻔﺻ</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>ﺔﺑﺮﺗ</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>ﻖﻳﺮﺣ ﺓﻮﻏﺭ</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺔﻛﺮﺑ</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>. ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻗ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻦﻣ ﺔﻛﺮﺑ</Filth_Fuel.description>
+  
+  <!-- EN: gestation fluid -->
+  <Filth_GestationFluid.label>ﺔﻧﺎﻀﺣ ﻞﺋﺎﺳ</Filth_GestationFluid.label>
+  
+  <!-- EN: hair -->
+  <Filth_Hair.label>ﺮﻌﺷ</Filth_Hair.label>
+  
+  <!-- EN: loose ground -->
+  <Filth_LooseGround.label>ﺓﻮﺧﺭ ﺽﺭﺃ</Filth_LooseGround.label>
+  
+  <!-- EN: machine bits -->
+  <Filth_MachineBits.label>ﺔﻟﺁ ﻊﻄﻗ</Filth_MachineBits.label>
+  
+  <!-- EN: ragged uniform -->
+  <Filth_MoldyUniform.label>ﺉﺮﺘﻬﻣ ّﻱﺯ</Filth_MoldyUniform.label>
+  
+  <!-- EN: oil smear -->
+  <Filth_OilSmear.label>ﺖﻳﺯ ﺔﺨﻄﻟ</Filth_OilSmear.label>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>ﺀﺎﻨﺑ ﻡﺎﻄﺣ</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>ﻱﺮﺨﺻ ﻡﺎﻄﺣ</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>ﻞﻣﺭ</Filth_Sand.label>
+  
+  <!-- EN: scattered documents -->
+  <Filth_ScatteredDocuments.label>ﺓﺮﺛﺎﻨﺘﻣ ﻖﺋﺎﺛﻭ</Filth_ScatteredDocuments.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>ﻞﺣﻭ</Filth_Slime.label>
+  
+  <!-- EN: spent acid -->
+  <Filth_SpentAcid.label>ﻚﻠﻬﺘﺳُﻣ ﺾﻤﺣ</Filth_SpentAcid.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>ﺕﺎﻳﺎﻔﻧ</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>ﺀﻴﻗ</Filth_Vomit.label>
+  
+  <!-- EN: water puddle -->
+  <Filth_Water.label>ﺀﺎﻣ ﺔﻛﺮﺑ</Filth_Water.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>ﺓﺮﺛﺎﻨﺘﻣ ﻞﻣﺭ ﺱﺎﻴﻛﺃ</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>ﺮﺛﺎﻨﺘﻣ ﺚﺒﺧ</SlagRubble.label>
+  
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>ﺮﺠﻔﺘﻣ ﺭﺄﻓ</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>. ﺎﻬﻠﺘﻗ ﺪﻨﻋ ﻖﺋﺍﺮﺤﻟﺍ ﺐﺒﺴﻳ ﺍًﻳﻮﻗ ﺍًﺭﺎﺠﻔﻧﺍ ﻖﻠﺨﺗ ﺽﺭﺍﻮﻘﻟﺎﺑ ﺔﻬﻴﺒﺸﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﻩﺬﻫ ﻥﺈﻓ ،ﺔﻳﺩﺎﻋ ﺮﻴﻏ ﻉﺎﻓﺩ ﺔﻴﻟﺂﻛ ﻭﺃ ،ﺪﻤﻌﺘﻤﻟﺍ ﻲﻨﻴﺠﻟﺍ ﺐﻋﻼﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺀﺍﻮﺳ</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Boomrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Boomrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Boomrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Boomrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>ﺱﺃﺭ</Boomrat.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>ﺎﻧﺍﻮﻏﺇ</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>. ﺔﻳﺎﻐﻠﻟ ﺓﺮﻴﻄﺧ ﺎﻬﻠﻌﺠﺗ ﺓﺩﺎﺤﻟﺍ ﺎﻬﺒﻟﺎﺨﻣﻭ ﻚﻴﻤﺴﻟﺍ ﺎﻫﺪﻠﺟ ﻥﺈﻓ ،ﺐﻀﻐﺗ ﺎﻣﺪﻨﻋ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻴﺗﺎﺒﻨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻰﻠﻋ ًﺓﺩﺎﻋ ﺓﺮﻴﺒﻜﻟﺍ ﻲﻟﺎﺤﺴﻟﺍ ﻩﺬﻫ ﻯﺬﻐﺘﺗ\n\n. ﻞﻛﺅُﺗ ﻻ ﻰﺘﺣ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻳﺅﺭ ﻂﻘﻓ ﻝﻭﺎﺤﺗ ﺎﻬﻧﺇ ؛ﺓﺭﻮﺨﻓ ﺖﺴﻴﻟ ﺎﻬﻨﻜﻟ. ًﺎﻜﺤﻀﻣ " ًﺍﺭﻮﺨﻓ " ًﺍﺮﻬﻈﻣ ﺎﻬﺤﻨﻤﻳ ﺎﻤﻣ ،ًﺎﻴﻟﺎﻋ ﺎﻬﺳﺃﺭ ﺔﺤﻳﺮﺘﺴﻤﻟﺍ ﺎﻧﺍﻮﻏﻹﺍ ﻞﻤﺤﺗ</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Iguana.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Iguana.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Iguana.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Iguana.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>ﺱﺃﺭ</Iguana.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>ﻥﻮﻛﺍﺭ</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>. ﺍًﺒﻳﺮﻘﺗ ﺀﻴﺷ ﻱﺃ ﻞﻛﺄﻴﻟ ﻚﺨﺒﻄﻣ ﻭﺃ ﺔﻣﺎﻤﻘﻟﺍ ﺔﻳﻭﺎﺣ ﻡﺎﺤﺘﻗﺍ ﻩﺪﻌﺴﻳ. ﺓﺮﻴﺠﺸﻟﺍ ﻲﺿﺍﺭﻷﺍﻭ ﺕﺎﺑﺎﻐﻟﺍ ﻲﻓ ﻊﺳﺍﻭ ﻕﺎﻄﻧ ﻰﻠﻋ ﻝّﻮﺠﺘﻳ ﺐﻠﺻ ﺮﻴﻐﺻ ﻥﺍﻮﻴﺣ</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Raccoon.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Raccoon.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Raccoon.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Raccoon.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>ﺱﺃﺭ</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>ﺫﺮﺟ</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>. ﺍًﺒﻳﺮﻘﺗ ﻥﺎﻜﻣ ﻱﺃ ﻲﻓ ﺶﻴﻌﺗﻭ ﺍًﺒﻳﺮﻘﺗ ﺀﻴﺷ ﻱﺃ ﻰﻠﻋ ﻯﺬﻐﺘﺗ. ﺍﻮﺒﻫﺫ ﺎﻤﻨﻳﺃ ﺮﺸﺒﻟﺍ ﺔﻣﺯﻼﻣ ﻰﻠﻋ ﺓﺭﺪﻗ ﺎﻬﻟﻭ ،ﺽﺍﺮﻣﻷﺍ ﺮﺸﻧﻭ ﺦﺑﺎﻄﻤﻟﺍ ﺚﻳﻮﻠﺘﺑ ﺔﻓﻭﺮﻌﻣ ،ﻊﺳﺍﻭ ﻕﺎﻄﻧ ﻰﻠﻋ ﺔﻫﻭﺮﻜﻣ ﺽﺭﺍﻮﻗ ﻥﺍﺫﺮﺠﻟﺍ</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Rat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Rat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Rat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Rat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Rat.tools.head.label>ﺱﺃﺭ</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>ﺏﺎﺠﻨﺳ</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>. ﺊﻴﺴﻟﺍ ﺲﻘﻄﻟﺍ ﻲﻓ ﺕﻼﻈﻤﻛ ﺎﻬﻣﺪﺨﺘﺴﺗ ﻲﺘﻟﺍ ،ﺔﻔﻴﺜﻜﻟﺍ ﺎﻬﻟﻮﻳﺬﺑ ﺐﺟﺎﻨﺴﻟﺍ ﺰﻴﻤﺘﺗ. ﺕﺮﺸﺘﻧﺍ ﺎﻤﻨﻳﺃ ﺔﻳﺮﺸﺒﻟﺍ ﻊﺒﺘﺗ ﻲﺘﻟﺍ ﺔﻨﻴﺘﻤﻟﺍ ﺽﺭﺍﻮﻘﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻴﺑ ﻦﻣ</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>ﺮﺴﻳﺃ ﺐﻠﺨﻣ</Squirrel.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.left_claw.labelNoLocation>ﺐﻠﺨﻣ</Squirrel.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>ﻦﻤﻳﺃ ﺐﻠﺨﻣ</Squirrel.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.right_claw.labelNoLocation>ﺐﻠﺨﻣ</Squirrel.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>ﺱﺃﺭ</Squirrel.tools.head.label>
+  
+</LanguageData>

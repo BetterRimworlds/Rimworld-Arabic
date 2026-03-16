@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>ﺔﻣﺪﺻ - ﻉﺭﺩ</ArmorRating_Blunt.label>
+  <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Blunt.description>. ﺭﻮﺨﺼﻟﺍ ﻁﻮﻘﺳﻭ ،ﻱﺩﺍﻮﻨﻟﺍ ﺕﺎﻣﺎﻄﺗﺭﺍﻭ ،ﺕﺎﻤﻜﻠﻟﺍ ﻞﺜﻣ ﺕﺎﻣﺪﺼﻟﺍ ﺭﺍﺮﺿﺃ ﺪﺿ ﺔﻣَّﺪﻗُﻤﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ\n\n. ﻡﻮﺠﻬﻠﻟ ﻉﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻗ ﺭﺍﺪﻘﻤﺑ ﻩﺬﻫ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺾﻴﻔﺨﺗ ًﻻﻭﺃ ﻢﺘﻳ ،ﺭﺮﻀﻟﺍ ﻲﻘﻠﺗ ﺪﻨﻋ\n\n100. ﻰﻟﺇ 0 ﻦﻣ ﻲﺋﺍﻮﺸﻋ ﻢﻗﺮﺑ ﺔﻴﻘﺒﺘﻤﻟﺍ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺔﻧﺭﺎﻘﻣ ﻢﺘﺗ ﻢﺛ\n\n. ﻯﺫﺃ ﻥﻭﺩ ّﺪﺻُﻳ ﺭﺮﻀﻟﺍ ﻥﺈﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻞﻗﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺔﻣﺪﺻ ﺭﺮﺿ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺭﺮﻀﻟﺍ ﻞﻴﻠﻘﺗ ﻢﺘﻳ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﻰﻠﻋﺃ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻰﻠﻋﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺮﻴﺛﺄﺗ ﻱﺃ ﻉﺭﺪﻠﻟ ﻥﻮﻜﻳ ﻼﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﺮﺒﻛﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n\n. ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺘﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓﻭ ،ﻯﺫﺃ ﻥﻭﺩ ﻡﻮﺠﻬﻟﺍ ﺪﺼﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓ ﻙﺎﻨﻫ ، 10% ﻎﻠﺒﺗ ﻉﺭﺩ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻘﺑ ﻡﻮﺠﻫ ﺪﺿ 90% ﻎﻠﺒﺗ ﻉﺭﺩ ﺔﻤﻴﻗ ﺪﻨﻋ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ\n\n. ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺝﺭﺎﺨﻟﺍ ﻦﻣ ،ﻞﺼﻔﻨﻣ ﻞﻜﺸﺑ ﻉﺭﺪﻟﺍ ﻦﻣ ﺔﻘﺒﻃ ﻞﻛ ﻖﻴﺒﻄﺗ ﻢﺘﻳ</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>)ﻉﺭﺪﻟﺍ ﺔﻴﺋﺎﺼﺣﺇ (ﺔﻣﺪﺻ - ﻉﺭﺩ</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>ﺓﺭﺍﺮﺣ - ﻉﺭﺩ</ArmorRating_Heat.label>
+  <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Heat.description>. ﻕﻭﺮﺤﻟﺍ ﻞﺜﻣ ،ﺓﺭﺍﺮﺤﻟﺎﺑ ﺔﻘﻠﻌﺘﻤﻟﺍ ﺭﺍﺮﺿﻷﺍ ﺪﺿ ﺔﻣَّﺪﻗُﻤﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ\n\n. ﻡﻮﺠﻬﻠﻟ ﻉﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻗ ﺭﺍﺪﻘﻤﺑ ﻩﺬﻫ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺾﻴﻔﺨﺗ ًﻻﻭﺃ ﻢﺘﻳ ،ﺭﺮﻀﻟﺍ ﻲﻘﻠﺗ ﺪﻨﻋ\n\n100. ﻰﻟﺇ 0 ﻦﻣ ﻲﺋﺍﻮﺸﻋ ﻢﻗﺮﺑ ﺔﻴﻘﺒﺘﻤﻟﺍ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺔﻧﺭﺎﻘﻣ ﻢﺘﺗ ﻢﺛ\n\n. ﻯﺫﺃ ﻥﻭﺩ ّﺪﺻُﻳ ﺭﺮﻀﻟﺍ ﻥﺈﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻞﻗﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺔﻣﺪﺻ ﺭﺮﺿ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺭﺮﻀﻟﺍ ﻞﻴﻠﻘﺗ ﻢﺘﻳ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﻰﻠﻋﺃ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻰﻠﻋﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺮﻴﺛﺄﺗ ﻱﺃ ﻉﺭﺪﻠﻟ ﻥﻮﻜﻳ ﻼﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﺮﺒﻛﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n\n. ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺘﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓﻭ ،ﻯﺫﺃ ﻥﻭﺩ ﻡﻮﺠﻬﻟﺍ ﺪﺼﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓ ﻙﺎﻨﻫ ، 10% ﻎﻠﺒﺗ ﻉﺭﺩ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻘﺑ ﻡﻮﺠﻫ ﺪﺿ 90% ﻎﻠﺒﺗ ﻉﺭﺩ ﺔﻤﻴﻗ ﺪﻨﻋ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ\n\n. ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺝﺭﺎﺨﻟﺍ ﻦﻣ ،ﻞﺼﻔﻨﻣ ﻞﻜﺸﺑ ﻉﺭﺪﻟﺍ ﻦﻣ ﺔﻘﺒﻃ ﻞﻛ ﻖﻴﺒﻄﺗ ﻢﺘﻳ</ArmorRating_Heat.description>
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>)ﻉﺭﺪﻟﺍ ﺔﻴﺋﺎﺼﺣﺇ (ﺓﺭﺍﺮﺣ - ﻉﺭﺩ</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>ﺩﺎﺣ ﻉﺭﺩ</ArmorRating_Sharp.label>
+  <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Sharp.description>. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻀﻋﻭ ﺕﺍﺭﺎﺠﻔﻧﻻﺍﻭ ﻦﻴﻜﺴﻟﺍ ﺕﺎﻨﻌﻃﻭ ﺹﺎﺻﺮﻟﺍ ﻞﺜﻣ ﺓﺩﺎﺤﻟﺍ ﺭﺍﺮﺿﻷﺍ ﺪﺿ ﺔﻣَّﺪﻗُﻤﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ\n\n. ﻡﻮﺠﻬﻠﻟ ﻉﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻗ ﺭﺍﺪﻘﻤﺑ ﻩﺬﻫ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺾﻴﻔﺨﺗ ًﻻﻭﺃ ﻢﺘﻳ ،ﺭﺮﻀﻟﺍ ﻲﻘﻠﺗ ﺪﻨﻋ\n\n100. ﻰﻟﺇ 0 ﻦﻣ ﻲﺋﺍﻮﺸﻋ ﻢﻗﺮﺑ ﺔﻴﻘﺒﺘﻤﻟﺍ ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﺔﻧﺭﺎﻘﻣ ﻢﺘﺗ ﻢﺛ\n\n. ﻯﺫﺃ ﻥﻭﺩ ّﺪﺻُﻳ ﺭﺮﻀﻟﺍ ﻥﺈﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻞﻗﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺔﻣﺪﺻ ﺭﺮﺿ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺭﺮﻀﻟﺍ ﻞﻴﻠﻘﺗ ﻢﺘﻳ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﻰﻠﻋﺃ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻒﺼﻧ ﻦﻣ ﻰﻠﻋﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n. ﺮﻴﺛﺄﺗ ﻱﺃ ﻉﺭﺪﻠﻟ ﻥﻮﻜﻳ ﻼﻓ ،ﻉﺭﺪﻟﺍ ﺔﻤﻴﻗ ﻦﻣ ﺮﺒﻛﺃ ﻲﺋﺍﻮﺸﻌﻟﺍ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -\n\n. ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺘﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓﻭ ،ﻯﺫﺃ ﻥﻭﺩ ﻡﻮﺠﻬﻟﺍ ﺪﺼﻟ 40% ﺔﺒﺴﻨﺑ ﺔﺻﺮﻓ ﻙﺎﻨﻫ ، 10% ﻎﻠﺒﺗ ﻉﺭﺩ ﻕﺍﺮﺘﺧﺍ ﺔﻤﻴﻘﺑ ﻡﻮﺠﻫ ﺪﺿ 90% ﻎﻠﺒﺗ ﻉﺭﺩ ﺔﻤﻴﻗ ﺪﻨﻋ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ\n\n. ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺝﺭﺎﺨﻟﺍ ﻦﻣ ،ﻞﺼﻔﻨﻣ ﻞﻜﺸﺑ ﻉﺭﺪﻟﺍ ﻦﻣ ﺔﻘﺒﻃ ﻞﻛ ﻖﻴﺒﻄﺗ ﻢﺘﻳ</ArmorRating_Sharp.description>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>)ﻉﺭﺪﻟﺍ ﺔﻴﺋﺎﺼﺣﺇ (ّﺩﺎﺣ - ﻉﺭﺩ</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>ﻯﻮﺼﻗ ﻉﺭﺩ ﺔﻗﺎﻃ</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>. ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ ﻉﺭﺪﻟﺍ ﺎﻬﻜﻠﺘﻤﻳ ﻥﺃ ﻦﻜﻤﻳ ﺔﻗﺎﻃ ﻰﺼﻗﺃ\n\n. ﺭﺮﻀﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺺﺘﻤﻳ ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>ﻉﺭﺪﻟﺍ ﻦﺤﺷ ﺓﺩﺎﻋﺇ ﻝﺪﻌﻣ</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>. ﻞﻄﻌﻣ ﺮﻴﻏ ﻪﻧﺃ ﺎﻤﻟﺎﻃ ﺔﻗﺎﻄﻠﻟ ﻉﺭﺪﻟﺍ ﺏﺎﺴﺘﻛﺍ ﻝﺪﻌﻣ</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>ﺙ/{0}</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>ﺰﻴﻬﺠﺘﻟﺍ ﺮﻴﺧﺄﺗ</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>. ﻪﺘﻟﺍﺯﺇﻭ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺰﻴﻬﺠﺘﻟ ﻡﺯﻼﻟﺍ ﻦﻣﺰﻟﺍ</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>ﺙ {0}</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>ﺩﺮﺑ - ﻝﺰﻋ</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>. ﺀﺍﺪﺗﺭﻼﻟ ﺔﺤﻳﺮﻤﻟﺍ ﺎﻴﻧﺪﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺪﻟ ﺲﺑﻼﻤﻟﺍ ﻩﺬﻫ ﻦﻴﺴﺤﺗ ﺭﺍﺪﻘﻣ\n\n. ﺓﺩﻭﺮﺑ ﺮﺜﻛﺃ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﻲﻓ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺎﺑ ﺢﻤﺴﺗ ﻰﻠﻋﻷﺍ ﻢﻴﻘﻟﺍ</Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>)ﻉﺭﺩ ﺔﻴﺋﺎﺼﺣﺇ (ﺩﺮﺑ - ﻝﺰﻋ</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>ﺓﺭﺍﺮﺣ - ﻝﺰﻋ</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>. ﺀﺍﺪﺗﺭﻼﻟ ﺔﺤﻳﺮﻤﻟﺍ ﻯﻮﺼﻘﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺪﻟ ﺱﺎﺒﻠﻟﺍ ﺍﺬﻫ ﻦﻴﺴﺤﺗ ﺭﺍﺪﻘﻣ\n\n. ﺍًﺌﻓﺩ ﺮﺜﻛﺃ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﻲﻓ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺎﺑ ﺢﻤﺴﺗ ﻰﻠﻋﻷﺍ ﻢﻴﻘﻟﺍ</Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>)ﻉﺭﺩ ﺔﻴﺋﺎﺼﺣﺇ (ﺓﺭﺍﺮﺣ - ﻝﺰﻋ</Insulation_Heat.labelForFullStatList>
+  
+  <!-- EN: Effect radius -->
+  <PackRadius.label>ﺮﻴﺛﺄﺘﻟﺍ ﻕﺎﻄﻧ</PackRadius.label>
+  <!-- EN: The area affected when this pack detonates. -->
+  <PackRadius.description>. ﺓﻮﺒﻌﻟﺍ ﻩﺬﻫ ﺭﺎﺠﻔﻧﺍ ﺪﻨﻋ ﺓﺮﺛﺄﺘﻤﻟﺍ ﺔﺣﺎﺴﻤﻟﺍ</PackRadius.description>
+  <!-- EN: {0} c -->
+  <PackRadius.formatString>ﺝ {0}</PackRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>ﻉﺭﺪﻟﺍ ﺓﺩﺎﻣ ﺮﻴﺛﺄﺗ ﻑِﻋﺎﺿُﻣ</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>ﺩﺮﺑ - ﻝﺰﻋ - ﺓﺩﺎﻣ ﺮﻴﺛﺄﺗ ﻒﻋﺎﻀﻣ</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>ﻱﺭﺍﺮﺤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ ﻒﻋﺎﻀﻣ</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

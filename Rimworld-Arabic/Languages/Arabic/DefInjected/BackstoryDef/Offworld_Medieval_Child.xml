@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
+  <ConventChild16.description>{PAWN_gender ? . ﻲﻗﻼﺧﺃ ﺮﻴﻏ ﻒﻨﻌﻟﺍ ﻥﺃﻭ ﺔﻘﻃﺮﻫ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻥﺃ ﺖﻣِّﻟُﻋ ﺎﻬﻨﻜﻟ ،ﻉﻮﻀﺨﻟﺍﻭ ﺩﺎﺠﻟﺍ ﻞﻤﻌﻟﺍ ﺔﻤﻴﻗ ﺖﻤﻠﻌﺗ. ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻦﻣ ﺮﻳﺩ ﻲﻓ ﺩﺎﻫﺰﻟﺍ ﺪﻳ ﻰﻠﻋ [PAWN_nameDef] ﺖﺑﺮﺗ ،ﺔﻋﻭﺮﺸﻣ ﺮﻴﻏ ﺔﻗﻼﻋ ﺔﻨﺑﺍ : . ﻲﻗﻼﺧﺃ ﺮﻴﻏ ﻒﻨﻌﻟﺍ ﻥﺃﻭ ﺔﻘﻃﺮﻫ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻥﺃ ﻡِّﻟُﻋ ﻪﻨﻜﻟ ،ﻉﻮﻀﺨﻟﺍﻭ ﺩﺎﺠﻟﺍ ﻞﻤﻌﻟﺍ ﺔﻤﻴﻗ ﻢﻠﻌﺗ. ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺮﺼﻋ ﻦﻣ ﺮﻳﺩ ﻲﻓ ﺩﺎﻫﺰﻟﺍ ﺪﻳ ﻰﻠﻋ [PAWN_nameDef] ﻰﺑﺮﺗ ،ﺔﻋﻭﺮﺸﻣ ﺮﻴﻏ ﺔﻗﻼﻋ ﻦﺑﺍ}</ConventChild16.description>
+  <!-- EN: convent child -->
+  <ConventChild16.title>ﺮﻳﺪﻟﺍ ﻞﻔﻃ</ConventChild16.title>
+  <ConventChild16.titleFemale>ﺮﻳﺪﻟﺍ ﺔﻠﻔﻃ</ConventChild16.titleFemale>
+  <!-- EN: illicit -->
+  <ConventChild16.titleShort>ﻲﻋﺮﺷ ﺮﻴﻏ</ConventChild16.titleShort>
+  <ConventChild16.titleShortFemale>ﺔﻴﻋﺮﺷ ﺮﻴﻏ</ConventChild16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.description>{PAWN_gender ? . ﺎﻴﻧﺪﻟﺍ ﺕﺎﻘﺒﻄﻟﺍ ﻦﻣ ﻡَﺩَﺧ ﺎﻬﻣﺪﺨﺗ ،ﺕﻮﺤﻨﻤﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﻲﻨﺒﻣ ﺮﺼﻗ ﻲﻓ ﺕﺄﺸﻧ. ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺔﻤﻳﺪﻗ ﺔﻜﻠﻤﻣ ﻲﻓ ﺎﻴﻧﺩ ﺔﻘﺒﻃ ﻦﻣ ًﺔﻠﻴﺒﻧ [PAWN_nameDef] ﺖﻧﺎﻛ\n\n. ﻲﻋﺎﻤﺘﺟﻻﺍ ﺐﻋﻼﺘﻟﺍ ﻕﺮﻃ ﺮﻜﺒﻣ ﺖﻗﻭ ﻲﻓ ﺖﻤﻠﻌﺗ [PAWN_nameDef] ﻦﻜﻟ - ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ ﻦﻣ ﺍًﻤﺋﺍﺩ ﺍًﺭﻮﻔﻧ ﺱﺮﻐﺗﻭ ﺔﻴﻨﻘﺗ ﺕﺍﺭﺎﻬﻣ ﻱﺃ ﻢﻠﻌﺗ ﻻ ﺓﺎﻴﺤﻟﺍ ﻩﺬﻫ ﻞﺜﻣ : . ﺎﻴﻧﺪﻟﺍ ﺕﺎﻘﺒﻄﻟﺍ ﻦﻣ ﻡﺪﺧ ﻪﻣﺪﺨﻳ ،ﺕﻮﺤﻨﻤﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﻲﻨﺒﻣ ﺮﺼﻗ ﻲﻓ ﺄﺸﻧ. ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺔﻤﻳﺪﻗ ﺔﻜﻠﻤﻣ ﻲﻓ ﺍًﺮﻴﻐﺻ ﺍًﻠﻴﺒﻧ [PAWN_nameDef] ﻥﺎﻛ\n\n. ﻲﻋﺎﻤﺘﺟﻻﺍ ﺐﻋﻼﺘﻟﺍ ﻕﺮﻃ ﺮﻜﺒﻣ ﺖﻗﻭ ﻲﻓ ﻢﻠﻌﺗ [PAWN_nameDef] ﻦﻜﻟ - ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ ﻦﻣ ﺓﺎﻴﺤﻟﺍ ﻯﺪﻣ ﺍًﺭﻮﻔﻧ ﺱﺮﻐﺗﻭ ﺔﻴﻨﻘﺗ ﺕﺍﺭﺎﻬﻣ ﻱﺃ ﻢﻠﻌﺗ ﻻ ﺓﺎﻴﺤﻟﺍ ﻩﺬﻫ ﻞﺜﻣ}</MedievalLordling19.description>
+  <!-- EN: medieval lordling -->
+  <MedievalLordling19.title>ﺮﻴﻐﺻ ﻲﻄﺳﻭﺮﻗ ﻞﻴﺒﻧ</MedievalLordling19.title>
+  <!-- EN: medieval lady -->
+  <MedievalLordling19.titleFemale>ﺔﻴﻄﺳﻭﺮﻗ ﺓﺪﻴﺳ</MedievalLordling19.titleFemale>
+  <!-- EN: lordling -->
+  <MedievalLordling19.titleShort>ﺮﻴﻐﺻ ﻞﻴﺒﻧ</MedievalLordling19.titleShort>
+  <!-- EN: lady -->
+  <MedievalLordling19.titleShortFemale>ﺓﺪﻴﺳ</MedievalLordling19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
+  <MedievalSlave49.description>{PAWN_gender ? . ﺪﻴﺴﻟﺍ ﻁﻮﺳ ﺐﻧﺎﺟ ﻰﻟﺇ—ﺎﻬﻟ ﻖﻴﻓﺭ ﻡﺪﻗﺃ ﻮﻫ ﻂﻴﺴﺒﻟﺍ ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ. ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺮﻔﺤﻟﺍ ﺮﻔﺤﺗﻭ ﺕﺎﺑﺮﻌﻟﺍ ﺮﺠﺗ ﻲﻫﻭ [PAWN_nameDef] ﺕﺄﺸﻧ\n\n. ﺔﻌﺳﺎﺘﻟﺍ ﻦﺳ ﻰﺘﺣ ﺓﺀﺍﺮﻘﻟﺍ ﻢﻠﻌﺘﺗ ﻢﻟ : . ﺪﻴﺴﻟﺍ ﻁﻮﺳ ﺐﻧﺎﺟ ﻰﻟﺇ—ﻪﻟ ﻖﻴﻓﺭ ﻡﺪﻗﺃ ﻮﻫ ﻂﻴﺴﺒﻟﺍ ﻱﻭﺪﻴﻟﺍ ﻞﻤﻌﻟﺍ. ﻲﻄﺳﻭﺮﻗ ﻢﻟﺎﻋ ﻲﻓ ﺮﻔﺤﻟﺍ ﺮﻔﺤﻳﻭ ﺕﺎﺑﺮﻌﻟﺍ ﺐﺤﺴﻳ ﻮﻫﻭ [PAWN_nameDef] ﺄﺸﻧ\n\n. ﺔﻌﺳﺎﺘﻟﺍ ﻦﺳ ﻰﺘﺣ ﺓﺀﺍﺮﻘﻟﺍ ﻢﻠﻌﺘﻳ ﻢﻟ}</MedievalSlave49.description>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.title>ﻲﻄﺳﻭﺮﻗ ﺪﺒﻋ</MedievalSlave49.title>
+  <MedievalSlave49.titleFemale>ﺔﻴﻄﺳﻭﺮﻗ ﺓَﻣَﺃ</MedievalSlave49.titleFemale>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShort>ﺪﺒﻋ</MedievalSlave49.titleShort>
+  <MedievalSlave49.titleShortFemale>ﺓَﻣَﺃ</MedievalSlave49.titleShortFemale>
+  
+</LanguageData>

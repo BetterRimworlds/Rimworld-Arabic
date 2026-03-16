@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->.ﺎﻤﻬﻨﻴﺑ ﺏﻮﻄﺨﻟﺍ ﻥﺂﻟﺍﻭ ﺖﻘﻓﺍﻭ/ﻖﻓﺍﻭ [RECIPIENT_nameDef]</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->.ﺡﺍﺮﺘﻗﺎﻟﺍ [اسم_المستلم] ﺾﻓﺭ [RECIPIENT_nameDef]</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->.ﺖﻬﺘﻧﺍﻭ ﺔﻨﻜﻤﻣ ﺔﻗﺎﻠﻌﻟﺍ ﺪﻌﺗ ﻢﻟ</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->ﻦﻴﺒﻴﺒﺣ ﻥﺂﻟﺍ ﺎﺤﺒﺻﺃﻭ [INITIATOR_nameDef] ﻩﺎﺠﺗ ﺏﺍﺬﺠﻧﺎﺑ ﺮﻌﺷ [RECIPIENT_nameDef]</li>
+    <li>sent->ﺐﻴﺒﺣ[INITIATOR_nameDef] ﻝ ﺎًﻜﻳﺮﺷ ﺢﺒﺻﺃﻭ ﺪﻴﺟ ﻞﻜﺸﺑ ﺏﺎﺠﺘﺳﺍ [RECIPIENT_nameDef]</li>
+    <li>sent->.[INITIATOR_nameDef] ـﻝ ﺎًﻜﻳﺮﺷ ﺢﺒﺼﺗ ﻥﺃ ﻰﻠﻋ ﺖﻘﻓﺍﻭﻭ ﺕّﺮﻤﺣﺍ [RECIPIENT_nameDef]</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->.ﺔﻟﺯﺎﻐﻤﻟﺍ [اسم_المستقبل] ﺾﻓﺭ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﺔﻟﺯﺎﻐﻤﻟﺍ [RECIPIENT_nameDef] ﻞﻫﺎﺠﺗ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﻩﺮﻬﻇ ﺭﺍﺩﺃ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﺭﺍﺪﺘﺳﺍ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﺔﻐﻟﺎﺑ ﺔﺑﻮﻌﺼﺑ ﺏﺎﺟﺃ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﺐﺠﺘﺴﻳ ﻢﻟ [RECIPIENT_nameDef]</li>
+    <li>sent->.ﻚﺣﺍﺮﺘﻗﺍ ﺾﻓﺭ [RECIPIENT_nameDef]</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

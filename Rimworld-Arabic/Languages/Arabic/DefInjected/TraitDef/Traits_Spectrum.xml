@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <Beauty.degreeDatas.beautiful.label>ﺔﻣﺎﺳﻭ</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.labelFemale>ﺔﻠﻴﻤﺟ</Beauty.degreeDatas.beautiful.labelFemale>
+  <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
+  <Beauty.degreeDatas.beautiful.description>{PAWN_gender ? . ﻰﺘﺣ ﺎﻬﻤﻓ ﺡَﺘﻔﺗ ﻥﺃ ﻞﺒﻗ ﺎﻬﻴﻟﺇ ﺱﺎﻨﻟﺍ ﺏﺬﺠﻨﻳ. ﺓﺮﺳﺁ ﺓﺮﻈﻧﻭ ﺔﻓﻮﻟﺄﻣ ﻦﻜﻟﻭ ﺔﺒﻳﺮﻏ ﻪﺟﻭ ﺢﻣﻼﻤﺑ ،ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻝﺎﻤﺠﻟﺍ ﺔﻨﺗﺎﻓ [PAWN_nameDef] : . ﻰﺘﺣ ﻪﻤﻓ ﺢﺘﻔﻳ ﻥﺃ ﻞﺒﻗ ﻪﻴﻟﺇ ﺱﺎﻨﻟﺍ ﺏﺬﺠﻨﻳ. ﺓﺮﺳﺁ ﺓﺮﻈﻧﻭ ﺔﻓﻮﻟﺄﻣ ﻦﻜﻟﻭ ﺔﺒﻳﺮﻏ ﻪﺟﻭ ﺔﺒﻴﻛﺮﺘﺑ ،ﺔﻳﺎﻐﻠﻟ ﻢﻴﺳﻭ [PAWN_nameDef]}</Beauty.degreeDatas.beautiful.description>
+  <!-- EN: pretty -->
+  <Beauty.degreeDatas.pretty.label>ﺔﻴﻌﻴﺒﻃ ﺔﻣﺎﺳﻭ</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.labelFemale>ﺮﻬﻈﻤﻟﺍ ﺔﻠﻴﻤﺟ</Beauty.degreeDatas.pretty.labelFemale>
+  <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
+  <Beauty.degreeDatas.pretty.description>{PAWN_gender ? . ﺎﻬﺑ ﺏﺎﺠﻋﻹﺍ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﺱﺎﻨﻟﺍ ﻞﻌﺠﻳ ﺎﻤﻣ ،ﺍًﻠﻴﻤﺟ ﺍًﻬﺟﻭ [PAWN_nameDef] ﻚﻠﻤﺗ : . ﻪﺑ ﺏﺎﺠﻋﻹﺍ ﻰﻟﺇ ﻥﻮﻠﻴﻤﻳ ﺱﺎﻨﻟﺍ ﻞﻌﺠﻳ ﺎﻤﻣ ،ﻢﻴﺳﻭ ﻪﺟﻭ [PAWN_nameDef] ﻯﺪﻟ}</Beauty.degreeDatas.pretty.description>
+  <!-- EN: ugly -->
+  <Beauty.degreeDatas.ugly.label>ﺮﻬﻈﻤﻟﺍ ﺢﻴﺒﻗ</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.labelFemale>ﺮﻬﻈﻤﻟﺍ ﺔﺤﻴﺒﻗ</Beauty.degreeDatas.ugly.labelFemale>
+  <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
+  <Beauty.degreeDatas.ugly.description>{PAWN_gender ? . ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﻝﻼﺧ ﻲﻔﺧ ﻞﻜﺸﺑ ﻦﻳﺮﺧﻵﺍ ﺮﻔﻨﻳ ﺍﺬﻫ. ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺔﺤﻴﺒﻗ [PAWN_nameDef] : . ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﻝﻼﺧ ﻲﻔﺧ ﻞﻜﺸﺑ ﻦﻳﺮﺧﻵﺍ ّﺪﺼﻳ ﺍﺬﻫ. ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺢﻴﺒﻗ [PAWN_nameDef]}</Beauty.degreeDatas.ugly.description>
+  <!-- EN: staggeringly ugly -->
+  <Beauty.degreeDatas.staggeringly_ugly.label>ﺔﻋّﻭﺭُﻣ ﺔﻋﺎﺸﺑ</Beauty.degreeDatas.staggeringly_ugly.label>
+  <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
+  <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_gender ? . ﺔﺛﺩﺎﺤﻤﻟﺍ ﺀﺎﻨﺛﺃ ﺎﻬﻴﻟﺇ ﺮﻈﻨﻠﻟ ٍﻉﺍﻭ ﺪﻬﺟ ﻝﺬﺑ ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ ﺐﺠﻳ. ﺔﺜﻳﺪﺣ ﺔﻴﻨﻓ ﺔﻌﻄﻗﻭ ،ﺪﻳﺎﻬﻳﺪﻟﺎﻣﺭﻮﻔﻟﺍ ﻦﻣ ﺀﺎﻋﻭ ﻲﻓ ﻩﻮﺸﻣ ﻦﻴﻨﺟﻭ ،ﻞﺷﺎﻓ ﻞﻔﻄﻟ ﺔﻤﺳﺭ ﻦﻴﺑ ﺞﻳﺰﻣ ﻪﻧﺄﻛﻭ ﺎﻬﻬﺟﻭ ﻭﺪﺒﻳ. ﻉﻭﺮﻣ ﻞﻜﺸﺑ ﺔﺤﻴﺒﻗ [PAWN_nameDef] : . ﺔﺛﺩﺎﺤﻤﻟﺍ ﺀﺎﻨﺛﺃ ﻪﻴﻟﺇ ﺮﻈﻨﻠﻟ ٍﻉﺍﻭ ﺪﻬﺟ ﻝﺬﺑ ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ ﺐﺠﻳ. ﺔﺜﻳﺪﺣ ﺔﻴﻨﻓ ﺔﻌﻄﻗﻭ ،ﺪﻴﻫﺪﻟﺎﻣﺭﻮﻔﻟﺍ ﻦﻣ ﺀﺎﻋﻭ ﻲﻓ ﻩﻮﺸﻣ ﻦﻴﻨﺟﻭ ،ﺮﺷﺎﻓ ﻞﻔﻄﻟ ﺔﻤﺳﺭ ﻦﻴﺑ ﺞﻳﺰﻣ ﻪﻧﺄﻛﻭ ﻪﻬﺟﻭ ﻭﺪﺒﻳ. ﻉﻭﺮﻣ ﻞﻜﺸﺑ ﺢﻴﺒﻗ [PAWN_nameDef]}</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>ﻲﺋﺎﻴﻤﻴﻛ ﺱﻮﻫ</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>{PAWN_gender ? . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻚﻠﻬﺘﺴﺘﺳﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺪﻌﺑ ﺕﺎﻬﻴﺟﻮﺘﻟﺍ ﻞﻫﺎﺠﺘﺘﺳ. ﻥﺎﻣﺩﺇ ﺕﺎﺑﻮﻧ ﺎﻤﺑﺭﻭ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻁﺎﺒﺣﻹﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ ،ﺪﻴﺟ ﺝﺍﺰﻣ ﻖﻠﺧ ﻰﻟﺇ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻱﺩﺆﻴﺳ. ﺔﻌﺘﻤﻠﻟ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺭﺩﺎﺼﻤﻟﺎﺑ ﺍًﻣﺎﻤﺗ [PAWN_nameDef] ﻦﺘﻓُﺗ : . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻝﻭﺎﻨﺘﻴﺳﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺪﻌﺑ ﺕﺎﻬﻴﺟﻮﺘﻟﺍ [PAWN_nameDef] ﻞﻫﺎﺠﺘﻴﺳ. ﻥﺎﻣﺩﺇ ﺕﺎﺑﻮﻧ ﺎﻤﺑﺭﻭ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻁﺎﺒﺣﻹﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ ،ﺍًﺪﻴﺟ ﺍًﺟﺍﺰﻣ ﻖﻠﺨﻴﺳ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻥﺇ. ﺔﻌﺘﻤﻠﻟ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺭﺩﺎﺼﻤﻟﺎﺑ ﺍًﻣﺎﻤﺗ ﻥﻮﺘﻔﻣ [PAWN_nameDef]}</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: chemical interest -->
+  <DrugDesire.degreeDatas.chemical_interest.label>ﻲﺋﺎﻴﻤﻴﻛ ﻡﺎﻤﺘﻫﺍ</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>{PAWN_gender ? . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻚﻠﻬﺘﺴﺘﺳﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺪﻌﺑ ﺕﺎﻬﻴﺟﻮﺘﻟﺍ [PAWN_nameDef] ﻞﻫﺎﺠﺘﺘﺳ. ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺍﺮﻓﻹﺍ ﺔﻴﻧﺎﻜﻣﺇﻭ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻁﺎﺒﺣﻹﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ ،ﺪﻴﺟ ﺝﺍﺰﻣ ﻖﻠﺧ ﻰﻟﺇ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻱﺩﺆﻴﺳ. ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺔﻌﺘﻤﻟﺍ ﺭﺩﺎﺼﻤﺑ ﻱﺩﺎﻋ ﺮﻴﻏ ﺍًﻣﺎﻤﺘﻫﺍ [PAWN_nameDef] ﻚﻠﻤﺗ : . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻝﻭﺎﻨﺘﻴﺳﻭ ،ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺪﻌﺑ ﺕﺎﻬﻴﺟﻮﺘﻟﺍ [PAWN_nameDef] ﻞﻫﺎﺠﺘﻴﺳ. ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﻭﺎﻨﺗ ﻲﻓ ﻁﺍﺮﻓﻹﺍ ﺔﻴﻧﺎﻜﻣﺇﻭ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻁﺎﺒﺣﻹﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ ،ﺍًﺪﻴﺟ ﺍًﺟﺍﺰﻣ ﻖﻠﺨﻴﺳ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻙﻼﻬﺘﺳﺍ. ﺔﻌﺘﻤﻠﻟ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺭﺩﺎﺼﻤﻟﺎﺑ ﻱﺩﺎﻋ ﺮﻴﻏ ﻡﺎﻤﺘﻫﺍ [PAWN_nameDef] ﻯﺪﻟ}</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: teetotaler -->
+  <DrugDesire.degreeDatas.teetotaler.label>ﻝﻮﺤﻜﻟﺍ ﻦﻋ ﻊﻨﺘﻤﻣ</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.labelFemale>ﺮﻤﺨﻟﺍ ﻦﻋ ﺔﻌﻨﺘﻤﻣ</DrugDesire.degreeDatas.teetotaler.labelFemale>
+  <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
+  <DrugDesire.degreeDatas.teetotaler.description>{PAWN_gender ? . ﻡﺭﺎﺻ ﻞﻜﺸﺑ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍﻭ ﻝﻮﺤﻜﻟﺍ ﺐﻨﺠﺘﺗ ﻲﻫﻭ. ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻌﺘﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﺓﺮﻜﻓ [PAWN_nameDef] ﻩﺮﻜﺗ : . ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍﻭ ﻝﻮﺤﻜﻟﺍ ﺓﺪﺸﺑ ﺐﻨﺠﺘﻳﻭ. ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻌﺘﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﺓﺮﻜﻓ [PAWN_nameDef] ﻩﺮﻜﻳ}</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <!-- EN: super-immune -->
+  <Immunity.degreeDatas.superimmune.label>ﺔﻘﺋﺎﻓ ﺔﻋﺎﻨﻣ</Immunity.degreeDatas.superimmune.label>
+  <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
+  <Immunity.degreeDatas.superimmune.description>{PAWN_gender ? . ﻦﻳﺮﺧﻵﺍ ﻞﺘﻘﺗ ﺪﻗ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺓﺎﺠﻨﻟﺍ ﺎﻬﻨﻜﻤﻳﻭ ،ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺔﻋﺎﻨﻤﻟﺍ ﺐﺴﺘﻜﺘﺳ. ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﺍًﻳﻮﻗ ﺍًﻴﻋﺎﻨﻣ ﺍًﺯﺎﻬﺟ [PAWN_nameDef] ﻚﻠﺘﻤﺗ : . ﻦﻳﺮﺧﻵﺍ ﻞﺘﻘﺗ ﺪﻗ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺓﺎﺠﻨﻟﺍ ﻪﻨﻜﻤﻳﻭ ،ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺔﻋﺎﻨﻤﻟﺍ ﺐﺴﺘﻜﻴﺳ. ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﻱﻮﻗ ﻲﻋﺎﻨﻣ ﺯﺎﻬﺠﺑ [PAWN_nameDef] ﻊﺘﻤﺘﻳ}</Immunity.degreeDatas.superimmune.description>
+  <!-- EN: sickly -->
+  <Immunity.degreeDatas.sickly.label>ﺔﻴﻨﺒﻟﺍ ﻒﻴﻌﺿ</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.labelFemale>ﺔﻴﻨﺒﻟﺍ ﺔﻔﻴﻌﺿ</Immunity.degreeDatas.sickly.labelFemale>
+  <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
+  <Immunity.degreeDatas.sickly.description>{PAWN_gender ? . ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﺪﺣﺃ ﺎﻬﻨﻣ ﻲﻧﺎﻌﻳ ﻻ ﺽﺍﺮﻣﺄﺑ ﺍًﺒﻟﺎﻏﻭ ،ﻥﺎﻴﺣﻷﺍ ﻦﻣ ﺮﻴﺜﻛ ﻲﻓ ﺽﺮﻤﻟﺎﺑ ﺏﺎﺼﺗ ﻲﻬﻓ ،ﺔﻳﺎﻐﻠﻟ ﺊﻴﺳ ﻲﻋﺎﻨﻣ ﺯﺎﻬﺟ ﻦﻣ [PAWN_nameDef] ﻲﻧﺎﻌﺗ : . ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﺪﺣﺃ ﺎﻬﻨﻣ ﻲﻧﺎﻌﻳ ﻻ ﺽﺍﺮﻣﺄﺑ ﺍًﺒﻟﺎﻏﻭ ،ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﺽﺮﻤﻳ ﻮﻬﻓ. ﺔﻳﺎﻐﻠﻟ ﺊﻴﺳ ﻲﻋﺎﻨﻣ ﺯﺎﻬﺟ [PAWN_nameDef] ﻯﺪﻟ}</Immunity.degreeDatas.sickly.description>
+  
+  <!-- EN: industrious -->
+  <Industriousness.degreeDatas.industrious.label>ﺪﻬﺘﺠﻣ</Industriousness.degreeDatas.industrious.label>
+  <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
+  <Industriousness.degreeDatas.industrious.description>{PAWN_gender ? . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺭﻮﻣﻷﺍ ﺰﺠﻨﺗﻭ ،ﺔﻟﻮﻬﺴﺑ ﺎﻫﺯﺎﺠﻧﺇﻭ ﺔﻤﻬﻤﻟﺍ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﻦﻣ [PAWN_nameDef] ﻦﻜﻤﺘﺗ : . ﻱﺩﺎﻌﻟﺍ ﺺﺨﺸﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﺮﺒﻛﺃ ﺔﻋﺮﺴﺑ ﺭﻮﻣﻷﺍ ﻞﻤﻜﻳﻭ ،ﺔﻟﻮﻬﺴﺑ ﺎﻫﺯﺎﺠﻧﺇﻭ ﺔﻤﻬﻤﻟﺍ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﻦﻣ [PAWN_nameDef] ﻦﻜﻤﺘﻳ}</Industriousness.degreeDatas.industrious.description>
+  <!-- EN: hard worker -->
+  <Industriousness.degreeDatas.hard_worker.label>ﺪﻬﺘﺠﻣ ﻞﻣﺎﻋ</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.labelFemale>ﺓﺪﻬﺘﺠﻣ ﺔﻠﻣﺎﻋ</Industriousness.degreeDatas.hard_worker.labelFemale>
+  <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
+  <Industriousness.degreeDatas.hard_worker.description>{PAWN_gender ? . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﺮﺒﻛﺃ ﺔﻋﺮﺴﺑ ﻡﺎﻬﻤﻟﺍ ﺰﺠﻨﺗﻭ ﺓﺮﻄﻔﻟﺎﺑ ﺓﺪﻬﺘﺠﻣ [PAWN_nameDef] : . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﻉﺮﺳﺃ ﻡﺎﻬﻤﻟﺍ ﺰﺠﻨﻴﺳﻭ ﺓﺮﻄﻔﻟﺎﺑ ﺪﻬﺘﺠﻣ ٌﻞﻣﺎﻋ [PAWN_nameDef]}</Industriousness.degreeDatas.hard_worker.description>
+  <!-- EN: lazy -->
+  <Industriousness.degreeDatas.lazy.label>ﻝﻮﺴﻛ</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.labelFemale>ﺔﻟﻮﺴﻛ</Industriousness.degreeDatas.lazy.labelFemale>
+  <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
+  <Industriousness.degreeDatas.lazy.description>{PAWN_gender ? . ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﺔﻟﻮﺴﻛ [PAWN_nameDef] : . ﺀﻴﺸﻟﺍ ﺾﻌﺑ ﻝﻮﺴﻛ [PAWN_nameDef]}</Industriousness.degreeDatas.lazy.description>
+  <!-- EN: slothful -->
+  <Industriousness.degreeDatas.slothful.label>ﻝﻮﺴﻛ</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.labelFemale>ﺔﻟﻮﺴﻛ</Industriousness.degreeDatas.slothful.labelFemale>
+  <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
+  <Industriousness.degreeDatas.slothful.description>{PAWN_gender ? . ﺔﻤﻬﻣ ﻰﻠﻋ ًﺓﺰﻛﺮﻣ ﻰﻘﺒﺗ ﺎﻣ ﺍًﺭﺩﺎﻧﻭ ﺀﻄﺒﺑ ﻙﺮﺤﺘﺗ. ﺞﺘﻨﻣ ﺀﻴﺷ ﻱﺃ ﻩﺮﻜﺗﻭ ﻞﺴﻜﻟﺍ [PAWN_nameDef] ّﺐﺤﺗ : . ﺎﻣ ﺔﻤﻬﻣ ﻰﻠﻋ ﺍًﺰﻛﺮﻣ ﻞﻈﻳ ﺎﻣ ﺍًﺭﺩﺎﻧﻭ ﺀﻄﺒﺑ ﻙﺮﺤﺘﻳ. ﺞﺘﻨﻣ ﺀﻴﺷ ﻱﺃ ﻩﺮﻜﻳﻭ ﻞﺴﻜﻟﺍ [PAWN_nameDef] ﺐﺤﻳ}</Industriousness.degreeDatas.slothful.description>
+  
+  <!-- EN: sanguine -->
+  <NaturalMood.degreeDatas.sanguine.label>ﺍًﻤﺋﺍﺩ ٌﻞﺋﺎﻔﺗُﻣ</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.labelFemale>ﺍًﻤﺋﺍﺩ ﺔﻠﺋﺎﻔﺘﻣ</NaturalMood.degreeDatas.sanguine.labelFemale>
+  <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
+  <NaturalMood.degreeDatas.sanguine.description>{PAWN_gender ? . ﻮﻫ ﺎﻤﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ،ﺖﻗﻮﻟﺍ ﻢﻈﻌﻣﻭ ،ﺎﻬﻌﺿﻭ ﻥﺄﺸﺑ ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﻠﺋﺎﻔﺘﻣ [PAWN_nameDef] ﻭﺪﺒﺗ : . ﻮﻫ ﺎﻤﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ،ﺖﻗﻮﻟﺍ ﻢﻈﻌﻣﻭ ،ﻪﻌﺿﻭ ﻥﺄﺸﺑ ﻪﺘﻌﻴﺒﻄﺑ ﻞﺋﺎﻔﺘﻣ [PAWN_nameDef]}</NaturalMood.degreeDatas.sanguine.description>
+  <!-- EN: optimist -->
+  <NaturalMood.degreeDatas.optimist.label>ﻞﺋﺎﻔﺘﻣ</NaturalMood.degreeDatas.optimist.label>
+  <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
+  <NaturalMood.degreeDatas.optimist.description>{PAWN_gender ? . ﺎﻬﻄﺒﺤﺗ ﻥﺃ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺓﺎﻴﺤﻟﺍ ﻩﺎﺠﺗ ﺓﺮﻄﻔﻟﺎﺑ ﺔﻠﺋﺎﻔﺘﻣ [PAWN_nameDef] : . ﻪﻄﺒﺤﺗ ﻥﺃ ﺐﻌﺼﻟﺍ ﻦﻣ. ﺓﺎﻴﺤﻟﺍ ﻩﺎﺠﺗ ﺓﺮﻄﻔﻟﺎﺑ ﻞﺋﺎﻔﺘﻣ [PAWN_nameDef]}</NaturalMood.degreeDatas.optimist.description>
+  <!-- EN: pessimist -->
+  <NaturalMood.degreeDatas.pessimist.label>ﻢﺋﺎﺸﺘﻣ</NaturalMood.degreeDatas.pessimist.label>
+  <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
+  <NaturalMood.degreeDatas.pessimist.description>{PAWN_gender ? . ﺓﺎﻴﺤﻟﺍ ﻦﻣ ﺊﻴﺴﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻰﻟﺇ [PAWN_nameDef] ﻞﻴﻤﺗ : . ﺓﺎﻴﺤﻟﺍ ﻦﻣ ﺊﻴﺴﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻰﻟﺇ [PAWN_nameDef] ﻞﻴﻤﻳ}</NaturalMood.degreeDatas.pessimist.description>
+  <!-- EN: depressive -->
+  <NaturalMood.degreeDatas.depressive.label>ﺐﺌﺘﻜﻣ</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.labelFemale>ﺔﺒﺌﺘﻜﻣ</NaturalMood.degreeDatas.depressive.labelFemale>
+  <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
+  <NaturalMood.degreeDatas.depressive.description>{PAWN_gender ? . ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺀﻴﺷ ﻞﻛ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﻰﺘﺣ ﺪﻴﺟ ﺝﺍﺰﻣ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻲﻓ ﺔﺑﻮﻌﺻ ﻪﺟﺍﻮﺗ. ﺓﺪﻴﻌﺳ ﺮﻴﻏ ًﺔﻤﺋﺍﺩ [PAWN_nameDef] : . ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺀﻴﺷ ﻞﻛ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﻰﺘﺣ ﺪﻴﺟ ﺝﺍﺰﻣ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻲﻓ ﺔﺑﻮﻌﺻ ﻪﺟﺍﻮﻳ. ﻡﺍﻭﺪﻟﺍ ﻰﻠﻋ ﺪﻴﻌﺳ ﺮﻴﻏ [PAWN_nameDef]}</NaturalMood.degreeDatas.depressive.description>
+  
+  <!-- EN: iron-willed -->
+  <Nerves.degreeDatas.ironwilled.label>ﺔﻳﺪﻳﺪﺣ ﺓﺩﺍﺭﺇ</Nerves.degreeDatas.ironwilled.label>
+  <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
+  <Nerves.degreeDatas.ironwilled.description>{PAWN_gender ? . ﺪﻴﻌﺑ ﻦﻣﺯ ﺬﻨﻣ ﻩﺮﻴﻏ ﺭﺎﻬﻧﺍ ﻦﻴﺣ ،ﺏﺎﻌﺼﻟﺍ ﻞﻛ ﻢﻏﺭ ًﺎﻣُﺩُﻗ ﻲﻀﻤﺗ. ﺪﻳﺪﺣ ﻦﻣ ﻉﺭﺩ [PAWN_nameDef] ﺓﺩﺍﺭﺇ : . ﺪﻴﻌﺑ ﻦﻣﺯ ﺬﻨﻣ ﻩﺮﻴﻏ ﺭﺎﻬﻧﺍ ﻦﻴﺣ ،ﺏﺎﻌﺼﻟﺍ ﻞﻛ ﻢﻏﺭ ًﺎﻣُﺩُﻗ ﻲﻀﻤﻳ. ﺪﻳﺪﺣ ﻦﻣ ﻉﺭﺩ [PAWN_nameDef] ﺓﺩﺍﺭﺇ}</Nerves.degreeDatas.ironwilled.description>
+  <!-- EN: steadfast -->
+  <Nerves.degreeDatas.steadfast.label>ﻡﺰﻌﻟﺍ ﺖﺑﺎﺛ</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.labelFemale>ﻡﺰﻌﻟﺍ ﺔﺘﺑﺎﺛ</Nerves.degreeDatas.steadfast.labelFemale>
+  <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
+  <Nerves.degreeDatas.steadfast.description>{PAWN_gender ? . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﺮﺴﻜﺗ ﺪﻗ ﻲﺘﻟﺍ ﻁﻮﻐﻀﻟﺍ ﺖﺤﺗ ﺭﺎﻬﻨﺗ ﻦﻟﻭ ﺍًﻴﺴﻔﻧ ﺔﺒﻠﺻ [PAWN_nameDef] : . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﺮﺴﻜﺗ ﺪﻗ ﻲﺘﻟﺍ ﻁﻮﻐﻀﻟﺍ ﺖﺤﺗ ﺭﺎﻬﻨﻳ ﻻﻭ ﺓﺮﻴﺒﻛ ﺔﻴﻠﻘﻋ ﺓﻮﻘﺑ ﻊﺘﻤﺘﻳ [PAWN_nameDef]}</Nerves.degreeDatas.steadfast.description>
+  <!-- EN: nervous -->
+  <Nerves.degreeDatas.nervous.label>ّﻲﺒﺼﻋ</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.labelFemale>ﺔﻴﺒﺼﻋ</Nerves.degreeDatas.nervous.labelFemale>
+  <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
+  <Nerves.degreeDatas.nervous.description>{PAWN_gender ? . ﻂﻐﻀﻟﺍ ﺖﺤﺗ ﺭﺎﻴﻬﻧﻻﺍ ﻰﻟﺇ [PAWN_nameDef] ﻞﻴﻤﺗ : . ﻂﻐﻀﻟﺍ ﺖﺤﺗ ﺭﺎﻴﻬﻧﻻﺍ ﻰﻟﺇ [PAWN_nameDef] ﻞﻴﻤﻳ}</Nerves.degreeDatas.nervous.description>
+  <!-- EN: volatile -->
+  <Nerves.degreeDatas.volatile.label>ﺐﻠﻘﺘﻣ</Nerves.degreeDatas.volatile.label>
+  <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
+  <Nerves.degreeDatas.volatile.description>{PAWN_gender ? . ﺐﻌﺻ ﻒﻗﻮﻣ ﻱﺃ ﻲﻓ ﺭﺎﻬﻨﻳ ﻦﻣ ﻝﻭﺃ ﻲﻫ. ﺭﺎﺠﻔﻧﻻﺍ ﻚﺷﻭ ﻰﻠﻋﻭ ﺍًﻤﺋﺍﺩ ﺓﺮﺗﻮﺘﻣ [PAWN_nameDef] : . ﺐﻌﺻ ﻒﻗﻮﻣ ﻱﺃ ﻲﻓ ﺭﺎﻬﻨﻳ ﻦﻣ ﻝﻭﺃ ﻪﻧﺇ. ﺭﺎﺠﻔﻧﻻﺍ ﻚﺷﻭ ﻰﻠﻋﻭ ﺍًﻤﺋﺍﺩ ﺮﺗﻮﺘﻣ [PAWN_nameDef]}</Nerves.degreeDatas.volatile.description>
+  
+  <!-- EN: neurotic -->
+  <Neurotic.degreeDatas.neurotic.label>ﺮﺗﻮﺘﻣ ٌّﻲﺒﺼﻋ</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.labelFemale>ﺓﺮﺗﻮﺘﻣ ﺔﻴﺒﺼﻋ</Neurotic.degreeDatas.neurotic.labelFemale>
+  <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.neurotic.description>{PAWN_gender ? . ﺎﻬﻴﻠﻋ ﺮﻄﻴﺴﺗ ﺪﻗ ﺎﻬﺑﺎﺼﻋﺃ ﻦﻜﻟ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻖﻴﻘﺤﺘﻟ ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﺮﺒﻛﺃ ّﺪﺠﺑ ﻞﻤﻌﺘﺳ. ﺢﻴﺤﺼﻟﺍ ﻪﻧﺎﻜﻣ ﻲﻓ ﺀﻴﺷ ﻞﻛ ﻥﻮﻜﻳ ﻥﺃ [PAWN_nameDef] ّﺐﺤﺗ : . ﻪﺒﻠﻐﺗ ﺪﻗ ﻪﺑﺎﺼﻋﺃ ﻦﻜﻟ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻖﻴﻘﺤﺘﻟ ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﺮﺒﻛﺃ ﺪﺠﺑ ﻞﻤﻌﻴﺳ. ﺔﺒﺗﺮﻣﻭ ﺔﻤﻈﻨﻣ ﺭﻮﻣﻷﺍ ﻥﻮﻜﺗ ﻥﺃ [PAWN_nameDef] ﺐﺤﻳ}</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: very neurotic -->
+  <Neurotic.degreeDatas.very_neurotic.label>ًﺍﺪﺟ ﻲﺒﺼﻋ</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.labelFemale>ًﺍﺪﺟ ﺔﻴﺒﺼﻋ</Neurotic.degreeDatas.very_neurotic.labelFemale>
+  <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.very_neurotic.description>{PAWN_gender ? . ﺔﻟﻮﻬﺴﺑ ﺎﻬﻴﻠﻋ ﺮﻄﻴﺴﺗ ﻥﺃ ﻦﻜﻤﻳ ﺎﻬﺑﺎﺼﻋﺃ ﻦﻜﻟ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻖﻴﻘﺤﺘﻟ ﺪﻳﺪﺷ ٍﺪﺠﺑ ﻞﻤﻌﺗ ﻑﻮﺳ. ﻩﺯﺎﺠﻧﺇ ﺐﺠﻳ ﺎﻣ ﻞﻛ ﻥﺄﺸﺑ ﻢﺋﺍﺩ ﺮﺗﻮﺘﺑ [PAWN_nameDef] ﺮﻌﺸﺗ : . ﺔﻟﻮﻬﺴﺑ ﻪﻴﻠﻋ ﺮﻄﻴﺴﺗ ﺪﻗ ﻪﺑﺎﺼﻋﺃ ﻦﻜﻟ ،ﺔﻟﺎﺤﻟﺍ ﻩﺬﻫ ﻖﻴﻘﺤﺘﻟ ﺪﻳﺪﺷ ٍﺪﺠﺑ ﻞﻤﻌﻴﺳ. ﻩﺯﺎﺠﻧﺇ ﺐﺠﻳ ﺎﻣ ﻞﻛ ﻥﺄﺸﺑ ﻢﺋﺍﺩ ﺮﺗﻮﺘﺑ [PAWN_nameDef] ﺮﻌﺸﻳ}</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <!-- EN: psychically hypersensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>ﺔﻃﺮﻔﻣ ﺔﻴﺴﻔﻧ ﺔﻴﺳﺎﺴﺣ</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>{PAWN_gender ? . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻠﻟ ﺔﻳﺎﻐﻠﻟ ٌﺔﺳﺎﺴﺣ ﺎﻬﻧﺇ. ﺔﻴﺴﻔﻧ ٍﺔﻧﺎﻧﺭ ٍﺔﻛﻮﺸﺑ ُﻪﺒﺷﺃ [PAWN_nameDef] ُﻞﻘﻋ : . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻠﻟ ﺔﻳﺎﻐﻠﻟ ٌﺱﺎﺴﺣ ﻪﻧﺇ. ﺔﻴﺴﻔﻧ ٍﺔﻧﺎﻧﺭ ٍﺔﻛﻮﺸﺑ ُﻪﺒﺷﺃ [PAWN_nameDef] ُﻞﻘﻋ}</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <!-- EN: psychically sensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>ﺔﻴﺴﻔﻧ ﺔﻴﺳﺎﺴﺣ</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>. ِﺔﻴﺴﻔﻨﻟﺍ ِﺮﻫﺍﻮﻈﻠﻟ ﻱﺩﺎﻋ ِﺮﻴﻏ ٍﻞﻜﺸﺑ ٌﺱﺎﺴﺣ [PAWN_nameDef] ُﻞﻘﻋ</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <!-- EN: psychically dull -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>ﻲﺴﻔﻧ ٌﺪﻋُﺑ</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_gender ? . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻟﺎﺑ ﺍًﺮﺛﺄﺗ ﻞﻗﺃ ﻲﻫ. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺍًﻴﺴﻔﻧ ٍﻢﻏﺎﻨﺘﻣ ﺮﻴﻏ [PAWN_nameDef] ُﻞﻘﻋ : . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻟﺎﺑ ﺍًﺮﺛﺄﺗ ﻞﻗﺃ ﻮﻫ. ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺍًﻴﺴﻔﻧ ٍﻢﻏﺎﻨﺘﻣ ﺮﻴﻏ [PAWN_nameDef] ُﻞﻘﻋ}</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <!-- EN: psychically deaf -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>ﻲﻨﻃﺎﺑ ﻢﻤﺻ</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻟﺎﺑ ﺮﺛﺄﺘﺗ ﻻ ﺔﻃﺎﺴﺒﺑ ﻲﻫ. ﻊﻴﻤﺠﻟﺍ ﻦﻋ ٍﻒﻠﺘﺨﻣ ٍّﻲﺴﻔﻧ ٍﺩﺩﺮﺗ ﻰﻠﻋ [PAWN_nameDef] ُﻞﻘﻋ ﻞﻤﻌﻳ : . ﺔﻴﺴﻔﻨﻟﺍ ﺮﻫﺍﻮﻈﻟﺎﺑ ﺮﺛﺄﺘﻳ ﻻ ﺔﻃﺎﺴﺒﺑ ﻮﻫ. ﺱﺎﻨﻟﺍ ﺓّﻴﻘﺑ ﻦﻋ ٍﻒﻠﺘﺨﻣ ٍّﻲﺴﻔﻧ ٍﺩﺩﺮﺗ ﻰﻠﻋ [PAWN_nameDef] ُﻞﻘﻋ ﻞﻤﻌﻳ}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>ﺭﺬﺣ ﻲﻣﺍﺭ</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.labelFemale>ﺓﺭﺬﺣ ﺔﻴﻣﺍﺭ</ShootingAccuracy.degreeDatas.careful_shooter.labelFemale>
+  <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>{PAWN_gender ? . ﺮﺒﻛﺃ ﺔﻗﺪﺑ ﻦﻜﻟﻭ ،ﺎﻫﺮﻴﻏ ﻦﻣ ﻞﻗﺃ ﻞﻜﺸﺑ ﺭﺎﻨﻟﺍ ﻖﻠﻄﺗ ﺎﻬﻧﺇ. ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺪﻨﻋ ﺐﻳﻮﺼﺘﻟﺍ ﻲﻓ ﻝﻮﻃﺃ ﺍًﺘﻗﻭ [PAWN_nameDef] ﻕﺮﻐﺘﺴﺗ : . ﺮﺒﻛﺃ ﺔﻗﺪﺑ ﻊﺘﻤﺘﻳ ﻪﻨﻜﻟﻭ ،ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺍًﺭﺍﺮﻜﺗ ﻞﻗﺃ ﻞﻜﺸﺑ ﺭﺎﻨﻟﺍ ﻖﻠﻄﻳ ﻮﻬﻓ. ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺪﻨﻋ ﺐﻳﻮﺼﺘﻠﻟ ﻝﻮﻃﺃ ﺍًﺘﻗﻭ [PAWN_nameDef] ﻕﺮﻐﺘﺴﻳ}</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>ﻕﻼﻃﻺﻟ ﺲﻤﺤﺘﻣ</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>{PAWN_gender ? . ﻞﻗﺃ ﺔﻗﺪﺑ ﻦﻜﻟﻭ ،ﺎﻫﺮﻴﻏ ﻦﻣ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺭﺎﻨﻟﺍ ﻖﻠﻄﺗ. ﺩﺎﻧﺰﻟﺍ ﺐﺤﺳ ﺔﻃﺎﺴﺒﺑ [PAWN_nameDef] ﺐﺤﺗ! ﻮﻴﺑ! ﻮﻴﺑ! ﻮﻴﺑ : . ﻞﻗﺃ ﺔﻗﺪﺑ ﻦﻜﻟﻭ ،ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺭﺎﻨﻟﺍ ﻖﻠﻄﻳ. ﺩﺎﻧﺰﻟﺍ ﺐﺤﺳ ﺔﻃﺎﺴﺒﺑ [PAWN_nameDef] ﺐﺤﻳ! ﻮﻴﺑ! ﻮﻴﺑ! ﻮﻴﺑ}</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <!-- EN: slowpoke -->
+  <SpeedOffset.degreeDatas.slowpoke.label>ﺀﻴﻄﺑ ﻝﻮﺴﻛ</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.labelFemale>ﺔﺌﻴﻄﺑ ﺔﻟﻮﺴﻛ</SpeedOffset.degreeDatas.slowpoke.labelFemale>
+  <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
+  <SpeedOffset.degreeDatas.slowpoke.description>{PAWN_gender ? . ﻥﺎﻜﻣ ﻱﺃ ﻰﻟﺇ ﺖﺒﻫﺫ ﺎﻤﻠﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻦﻋ [PAWN_nameDef] ﻒﻠﺨﺘﺗ ﺎﻣ ﺍًﻤﺋﺍﺩ : . ﻥﺎﻜﻣ ﻱﺃ ﻰﻟﺇ ﺐﻫﺫ ﺎﻤﻠﻛ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻦﻋ ﺍًﻤﺋﺍﺩ [PAWN_nameDef] ﻒﻠﺨﺘﻳ}</SpeedOffset.degreeDatas.slowpoke.description>
+  <!-- EN: fast walker -->
+  <SpeedOffset.degreeDatas.fast_walker.label>ﻲﺸﻤﻟﺍ ﻊﻳﺮﺳ</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.labelFemale>ﻲﺸﻤﻟﺍ ﺔﻌﻳﺮﺳ</SpeedOffset.degreeDatas.fast_walker.labelFemale>
+  <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
+  <SpeedOffset.degreeDatas.fast_walker.description>{PAWN_gender ? . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﻉﺮﺳﺃ ﻲﺸﻤﺗﻭ ،ﻪﺠﺘﺗ ﺚﻴﺣ ﻥﻮﻜﺗ ﻥﺃ [PAWN_nameDef] ﺐﺤﺗ : . ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻦﻣ ﻉﺮﺳﺃ ﻲﺸﻤﻳﻭ ،ﻪﺟﻮﺘﻳ ﺚﻴﺣ ﻥﻮﻜﻳ ﻥﺃ [PAWN_nameDef] ﺐﺤﻳ}</SpeedOffset.degreeDatas.fast_walker.description>
+  <!-- EN: jogger -->
+  <SpeedOffset.degreeDatas.jogger.label>ﺀﺍّﺪﻋ</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.labelFemale>ﺔﻧﺮﻤﺘﻣ ﺓﺀﺍّﺪﻋ</SpeedOffset.degreeDatas.jogger.labelFemale>
+  <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
+  <SpeedOffset.degreeDatas.jogger.description>{PAWN_gender ? . ﺎﻬﺘﺒﻛﺍﻮﻣ ﻲﻓ ﻥﻮﻠﺸﻔﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ ﻦﻳﺮﺧﻵﺍ ﻥﺃ ﺔﺟﺭﺪﻟ - ﺡﺎﺤﻟﻹﺎﺑ ﺱﺎﺴﺣﺈﺑ ﺍًﻤﺋﺍﺩ [PAWN_nameDef] ﻙﺮﺤﺘﺗ : . ﻪﺗﺍﺭﺎﺠﻣ ﻲﻓ ﻥﻮﻠﺸﻔﻳ ﺎﻣ ﺍًﺒﻟﺎﻏ ﻦﻳﺮﺧﻵﺍ ﻥﺃ ﺔﺟﺭﺪﻟ ،ﺡﺎﺤﻟﺈﺑ ﺍًﻤﺋﺍﺩ [PAWN_nameDef] ﻑﺮﺼﺘﻳ}</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

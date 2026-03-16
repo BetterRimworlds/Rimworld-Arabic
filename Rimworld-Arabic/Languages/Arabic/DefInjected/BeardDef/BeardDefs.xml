@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anchor -->
+  <Anchor.label>ﺓﺎﺳﺮﻣ</Anchor.label>
+  
+  <!-- EN: curly -->
+  <BeardCurly.label>ﺪﻌﺠﻣ</BeardCurly.label>
+  
+  <!-- EN: boxed -->
+  <Boxed.label>ﻑَّﻠﻏُﻣ</Boxed.label>
+  
+  <!-- EN: braided -->
+  <Braided.label>ﺓﺮﻴﻔﺿ</Braided.label>
+  
+  <!-- EN: bushy -->
+  <Bushy.label>ﻦﺸﺧ</Bushy.label>
+  
+  <!-- EN: bushy styled -->
+  <BushyStyled.label>ﻒﻴﺜﻛ ﻂﻤﻧ</BushyStyled.label>
+  
+  <!-- EN: circle -->
+  <Circle.label>ﺓﺮﺋﺍﺩ</Circle.label>
+  
+  <!-- EN: classy -->
+  <Classy.label>ﻖﻴﻧﺃ</Classy.label>
+  
+  <!-- EN: curtain -->
+  <Curtain.label>ﺓﺭﺎﺘﺳ</Curtain.label>
+  
+  <!-- EN: ducktail -->
+  <Ducktail.label>ﺔﻄﺒﻟﺍ ﻞﻳﺫ</Ducktail.label>
+  
+  <!-- EN: fork -->
+  <Fork.label>ﺔﻛﻮﺷ</Fork.label>
+  
+  <!-- EN: french -->
+  <French.label>ﻲﺴﻧﺮﻓ</French.label>
+  
+  <!-- EN: full -->
+  <Full.label>ﻞﻣﺎﻛ</Full.label>
+  
+  <!-- EN: goatee -->
+  <Goatee.label>ﺰﻋﺎﻤﻟﺍ ﺔﻴﺤﻟ</Goatee.label>
+  
+  <!-- EN: lincoln -->
+  <Lincoln.label>ﻦﻟﻮﻜﻨﻴﻟ</Lincoln.label>
+  
+  <!-- EN: long dutch -->
+  <LongDutch.label>ﻱﺪﻨﻟﻮﻫ ﻞﻳﻮﻃ ﺮﻌﺷ</LongDutch.label>
+  
+  <!-- EN: machete -->
+  <Machete.label>ﻲﺘﻴﺷﺎﻣ</Machete.label>
+  
+  <!-- EN: moustache -->
+  <Moustache.label>ﺏﺭﺎﺷ</Moustache.label>
+  
+  <!-- EN: mutton chops -->
+  <MuttonChops.label>ﺩﺭﺎﺒﻨﻛﺎﺑ</MuttonChops.label>
+  
+  <!-- EN: no beard -->
+  <NoBeard.label>ﺔﻴﺤﻟ ﻻ</NoBeard.label>
+  
+  <!-- EN: norse -->
+  <Norse.label>ﻲﺳﺭﻮﻧ</Norse.label>
+  
+  <!-- EN: old dutch -->
+  <OldDutch.label>ﻢﻳﺪﻗ ﻱﺪﻨﻟﻮﻫ</OldDutch.label>
+  
+  <!-- EN: seer -->
+  <Seer.label>ﻲﺋﺍﺭ</Seer.label>
+  
+  <!-- EN: side whiskers -->
+  <SideWhiskers.label>ﻲﺒﻧﺎﺟ ﺏﺭﺎﺷ</SideWhiskers.label>
+  
+  <!-- EN: soul patch -->
+  <SoulPatch.label>ﻦﻗﺬﻟﺍ ﺕﺍﺮﻴﻌﺷ</SoulPatch.label>
+  
+  <!-- EN: stache and chops -->
+  <StacheAndChops.label>ﺓﺮﻴﺼﻗ ﺔﻴﺤﻟﻭ ﺏﺭﺎﺷ</StacheAndChops.label>
+  
+  <!-- EN: stubble -->
+  <Stubble.label>ﻒﻴﻔﺧ ﻖﻠﺣ</Stubble.label>
+  
+  <!-- EN: tri-braid -->
+  <TriBraid.label>ﺔﻴﺛﻼﺛ ﺓﺮﻴﻔﺿ</TriBraid.label>
+  
+  <!-- EN: urist -->
+  <Urist.label>ﺖﺴﻳﺭﻭﺃ</Urist.label>
+  
+  <!-- EN: VanDyke -->
+  <VanDyke.label>ﻚﻳﺪﻧﺎﻓ</VanDyke.label>
+  
+  <!-- EN: wizard -->
+  <Wizard.label>ﺮﺣﺎﺳ</Wizard.label>
+  
+</LanguageData>

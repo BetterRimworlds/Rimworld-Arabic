@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>ﺺﺼﺨﻣ</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>. ﻞﻴﺼﻔﺘﻟﺎﺑ ﻚﺒﻌﻟ ﺏﻮﻠﺳﺃ ﺪﻳﺪﺤﺗ ﻦﻣ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻚﻧّﻜﻣُﻳ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ـﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\n. ﺭﻮﻣﻷﺍ ﺾﻌﺑ ﺮﻴﻴﻐﺗ ﻲﻓ ﻥﻮﺒﻏﺮﻳ ﻢﻬﻨﻜﻟﻭ ،ﺔﻴﺳﺎﻴﻘﻟﺍ ﺐﻌﻠﻟﺍ ﺐﻴﻟﺎﺳﺃ ﺕﺎﻳﻮﺘﺴﻣ ﺪﺣﺃ ﻦﻋ ﻥﻮﺿﺍﺮﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﻒﻠﺘﺨﻣ ﺀﻴﺷ ﺔﺑﺮﺠﺗ ﻲﻓ ﻥﻮﺒﻏﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>ﻊﻤﺘﺠﻣ ﻲﻧﺎﺑ</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>. ﺔﻔﻴﻌﺿ ﺎﻬﻨﻜﻟﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﺮﻬﻈﺗ ،ﺮﻄﺨﻟﺍ ﻢﻌﻄﺑ ﺍًﻌﻤﺘﺠﻣ ِﻦﺑﺍ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ـﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\n. ﺏﺎﻌﻟﻷﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺩﺪﺠﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﺔﻴﻟﺎﺜﻣ ﺓﺮﻤﻌﺘﺴﻣ ﺀﺎﻨﺑ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﺀﺎﺧﺮﺘﺳﻻﺍ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>ﺔﻌﺘﻤﻣ ﺓﺭﺎﺴﺨﻟﺍ</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>. ﺕﻮﻤﻟﺍﻭ ﺓﺎﻧﺎﻌﻤﻟﺍ ﺔﻴﺣﺮﺴﻤﺑ ﺍًﺪﻴﻌﺳ ﺖﻨﻛ ﺍﺫﺇ ﻂﻘﻓ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺮﺘﺧﺍ. ﻚﺗﺮﻤﻌﺘﺴﻣ ﺕﻮﻤﺗ ﻰﺘﺣ ﺔﻤﺣﺭ ﻼﺑ ﻚﻴﻠﻋ ﻝﺰﻨﺘﺳ ﺔﻠﺋﺎﻫ ﺕﺍﺪﻳﺪﻬﺗ. ﻝﺩﺎﻋ ﺮﻴﻏ ﻥﻮﻜﻴﻟ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻢﻴﻤﺼﺗ ﻢﺗ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\n. ﺕﻮﻤﻟﺍ ﺔﻴﻟﺎﻌﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻰﺘﺣ ﻊﻨﻤﺗ ﻻ ﺪﻗ ﺚﻴﺣ ﻝﺩﺎﻋ ﺮﻴﻏﻭ ﻲﺸﺣﻭ ٍﺪﺤﺗ ﺔﻬﺟﺍﻮﻣ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﺓﺮﺒﺨﻟﺍ ﻭﻭﺫ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﺓﺎﺳﺄﻤﻟﺍ ﻮﺒﺤﻣ-\n. ﺔﻴﻤﻗﺮﻟﺍ ﺔﻴﺧﻭﺯﺎﻤﻟﺍ ﻝﻮﻴﻤﻟﺍ ﺏﺎﺤﺻﺃ-</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>ﺭﺎﺒﻏﻭ ﻡﺩ</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>. ﺔﻨﻜﻤﻣ ﺓﺰﻴﻣ ﻞﻛ ﻦﻋ ﺚﺤﺒﻟﺍﻭ ،ﺎﻬﻟﻮﺻﻭ ﻞﺒﻗ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻊﻗﻮﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ. ﺱﺎﻨﻟﺍ ﺕﻮﻤﻴﺳ ،ﺍًﺪﻴﺟ ﺖﺒﻌﻟ ﻮﻟ ﻰﺘﺣ. ﺔﻴﺸﺣﻭ ﺀﺎﻘﺑ ﺕﺎﻳﺪﺤﺗ ﻪﺟﺍﻭ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\n. ﺀﺎﻘﺒﻟﺍ ﻞﺟﺃ ﻦﻣ ﺍﻮﺤﻓﺎﻜﻳ ﻥﺃ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﺓﺮﺒﺨﻟﺍ ﻭﻭﺫ ﻥﻮﺒﻋﻼﻟﺍ-</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>ﺓﺮﻣﺎﻐﻣ ﺔﺼﻗ</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>. ﺍًﺮﻴﻄﺧ ﺍًﺒﻛﻮﻛ ﻝﺍﺰﻳ ﻻ ﻪﻨﻜﻟ ،ﺭﺎﻫﺩﺯﻻﺍﻭ ﻮﻤﻨﻠﻟ ﻊﺴﺘﻣ ﻙﺎﻨﻫ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ـﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\nRimWorld. ﻲﻓ ﻢﻬﻟ ﺔﺒﻌﻟ ﻝﻭﺃ ﻲﻓ ﻥﻮﻣﺮﻀﺨﻤﻟﺍ ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻮﺒﻋﻻ-\n. ﺔﺒﻳﺮﻏ ﻭﺃ ﺔﻜﺤﻀﻣ ﻑﺍﺪﻫﺃ ﺔﻌﺑﺎﺘﻤﻟ ﺲﻔﻨﺘﻠﻟ ﺔﺣﺎﺴﻤﻟﺍ ﺾﻌﺑ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﻣﺮﻀﺨﻤﻟﺍ RimWorld ﻮﺒﻋﻻ-</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>ﻢﻟﺎﺴﻣ</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>. ﺔﻨﻜﻤﻣ ﻝﺍﺰﺗ ﻻ ﺔﻧﻮﻨﺠﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ،ﺔﻴﻠﻘﻌﻟﺍ ﺕﺍﺭﺎﻴﻬﻧﻻﺍﻭ ،ﺽﺍﺮﻣﻷﺍ ﻞﺜﻣ ﺕﺎﻳﺪﺤﺘﻟﺍ ﻦﻜﻟﻭ ،ﺔﻴﺴﻴﺋﺮﻟﺍ ﺓﺮﺷﺎﺒﻤﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻞﻴﻄﻌﺗ ﻢﺗ. ﻲﻠﻣﺭ ﻕﻭﺪﻨﺻ ﺔﺌﻴﺑ ﻲﻓ ﺍًﻌﻤﺘﺠﻣ ِﻦﺑﺍ\n\n:(/SectionTitle) ـﻝ ﻪﺑ ﻰﺻﻮﻣ SectionTitle)(*\n\n. ﻂﻐﻀﻟﺍ ﻦﻣ ﺭﺪﻗ ﻞﻗﺄﺑ ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﻟﺁ ﻢﻠﻌﺗ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﺀﺎﻨﺒﻟﺍ ﻂﻘﻓ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-\n. ﺀﺎﺧﺮﺘﺳﻻﺍ ﻂﻘﻓ ﻥﻭﺪﻳﺮﻳ ﻦﻳﺬﻟﺍ ﻥﻮﺒﻋﻼﻟﺍ-</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>ﺀﺎﻘﺒﻠﻟ ﻲﻌﺴﻟﺍ</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>. ﺓﺎﺳﺄﻣﻭ ﺮﺼﻧ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ. ٍﺱﺎﻗ ﺮﻋﻭ ﺐﻛﻮﻛ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ َﻊﺳﺍ\n\n)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ:(/ﻝ ﻪﺑ ﻰﺻﻮﻣ)ﻢﺴﻘﻟﺍ ﻥﺍﻮﻨﻋ(*\n\n. ﺀﺎﻘﺒﻠﻟ ﺓﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﺔﺒﻌﺻ ﺔﺼﻗ ﻥﻭﺪﻳﺮﻳ ﻥﻮﺳﺮﻤﺘﻣ ﻥﻮﺒﻋﻻ-</Rough.description>
+  
+</LanguageData>

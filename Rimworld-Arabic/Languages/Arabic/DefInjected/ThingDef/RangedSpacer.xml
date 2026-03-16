@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>ﺔﻨﺤﺷ ﺢﻣﺭ ﺔﻘﻠﻃ</Bullet_ChargeLance.label>
+  
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>ﺔﻧﻮﺤﺸﻣ ﺔﻘﻠﻃ</Bullet_ChargeRifle.label>
+  
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>ﺔﻨﺤﺷ ﺢﻣﺭ</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>. ﻊﻳﺮﺴﺘﻟﺍ ﺔﻜﺳ ﻦﻣ ﺎﻬﺟﻭﺮﺧ ﺀﺎﻨﺛﺃ ﺓﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺔﻗﺎﻄﺑ ﺎﻬﻨﺤﺸﻳﻭ ،ﺔﻴﻟﺎﻋ ﺔﻋﺮﺴﺑ ﺓﺪﺣﺍﻭ ﺔﻘﻠﻃ ﻖﻠﻄﻳ ؛ﺕﺎﻀﺒﻨﺑ ﻥﻮﺤﺸﻣﻭ ﺔﻳﺪﻳﺪﺤﻟﺍ ﻚﻜﺴﻟﺎﺑ ﺯَّﺰﻋُﻣ ﺢﻣﺭ ﺡﻼﺳ</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>ﻞﻴﻣﺮﺑ</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>ﺔﻨﺤﺷ ﺢﻣﺭ</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>ﻦﺤﺷ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>. ﺞﺗﺎﻨﻟﺍ ﺭﺮﻀﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺪﻳﺰﺗ ،ﻡﺍﺪﻄﺻﻻﺍ ﺪﻨﻋ. ﺓﺭﻮﺳﺎﻤﻟﺍ ﻦﻣ ﺎﻬﺟﻭﺮﺧ ﺪﻨﻋ ﺓﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺔﻗﺎﻄﺑ ﺔﻘﻠﻃ ﻞﻛ ﻦﺤﺸﺗ ﺔﻴﻀﺒﻨﻟﺍ ﺔﻨﺤﺸﻟﺍ ﺔﻴﻨﻘﺗ. ﺔﻧﻮﺤﺸﻣ ﺔﻘﻠﻃ ﺕﺍﺫ ﺔﻴﻣﻮﺠﻫ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>ﺔﻴﻗﺪﻨﺒﻟﺍ ﺔﻄﺳﺃ</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>ﻞﻴﻣﺮﺑ</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>ﻦﺤﺷ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

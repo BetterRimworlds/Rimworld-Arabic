@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave --><!-- EN: esclavo -->
+  <Slave.label>ﺪﺒﻋ</Slave.label><!-- EN: esclavos -->
+  <Slave.labelPlural>ﺪﻴﺒﻋ</Slave.labelPlural>
+  
+  <!-- EN: stranger in black --><!-- EN: forastero de negro -->
+  <StrangerInBlack.label>ﺩﻮﺳﺃ ﻝﻮﺠﺘﻣ</StrangerInBlack.label>
+  <!-- EN: woman in black --><!-- EN: mujer de negro -->
+  <StrangerInBlack.labelFemale>ﺩﻮﺳﻷﺎﺑ ﺓﺃﺮﻣﺍ</StrangerInBlack.labelFemale>
+  <!-- EN: man in black --><!-- EN: hombre de negro -->
+  <StrangerInBlack.labelMale>ﺩﻮﺳﻷﺎﺑ ﻞﺟﺭ</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black --><!-- EN: forasteros de negro -->
+  <StrangerInBlack.labelPlural>ﺩﻮﺳ ﻥﻮﻟﻮﺠﺘﻣ</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man --><!-- EN: hombre salvaje -->
+  <WildMan.label>ﺶﺣﻮﺘﻣ ﻥﺎﺴﻧﺇ</WildMan.label>
+  <!-- EN: wild woman --><!-- EN: mujer salvaje -->
+  <WildMan.labelFemale>ﺔﺸﺣﻮﺘﻣ ﺓﺃﺮﻣﺍ</WildMan.labelFemale>
+  <!-- EN: wild women --><!-- EN: mujeres salvajes -->
+  <WildMan.labelFemalePlural>ﺕﺎﺸﺣﻮﺘﻣ ﺀﺎﺴﻧ</WildMan.labelFemalePlural>
+  <!-- EN: wild men --><!-- EN: hombres salvajes -->
+  <WildMan.labelPlural>ﻥﻮﺸﺣﻮﺘﻣ ﻝﺎﺟﺭ</WildMan.labelPlural>
+  
+</LanguageData>

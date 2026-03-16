@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- TEST CASE 1: THE "GHOST" TRAP -->
+  <!-- This comment contains <rulesStrings> inside it. -->
+  <!-- The Naive Regex will try to translate THIS line instead of the real code below. -->
+  <!-- The Minification Bug: All these list items are on one single line. -->
+  <!-- EN: <rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</li></rulesStrings> -->
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root(priority=1,sitePart==ClimateAdjuster)->توجد هناك (*Threat)آلة مُعدِّل المناخ(/Threat) تغيّر درجة الحرارة الإقليمية بمقدار [temperatureOffset]</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->توجد هناك (*Threat)آلة طنين نفسي(/Threat) مضبوطة على جنس [affectedGender]</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <!-- TEST CASE 2: THE NEWLINE HALLUCINATION TRAP -->
+  <!-- The AI loves to insert "and" (و) between the \n\n and the variables. -->
+  <!-- EN:
+    <li>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  -->
+  <Util_Raid.questDescriptionRules.rulesStrings>
+    <li>threatDescription->[enemyFaction_pawnsPlural] من فصيل [enemyFaction_name] سيهاجمونك. تتكوّن مجموعتهم من:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </Util_Raid.questDescriptionRules.rulesStrings>
+  
+  <!-- TEST CASE 3: THE META-DATA LEAK (Prompt Hallucination) -->
+  <!-- The AI outputs "Key: ... English: ... Translation: ..." instead of just the text. -->
+  <!-- Arabic output was: "مفتاح: الجذر ..." -->
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root(priority=1,sitePart=AmbushEdge)->تحاول (*Threat)قوة معادية(/Threat) نصب كمين لأي شخص يقترب</li>
+      <li>root(priority=1,sitePart=AmbushHidden)->تنتظر (*Threat)قوة معادية(/Threat) نصب كمين لأي شخص يقترب</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+
+  <!-- TEST CASE 4: THE GHOST VARIABLE (Hallucination) -->
+  <!-- The source has NO variables, but the AI invents "__V#__" or leaves it in the output. -->
+  <!-- Arabic output was: "مجموعتان من __V#__" -->
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>numGroupsOf(raidCount==2)->مجموعتان من</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+
+  <!-- TEST CASE 5: THE EMPTY VARIABLE FIX -->
+  <!-- The AI sees "__V0__" and translates it to "" (empty quotes) or deletes it entirely. -->
+  <!-- Arabic output was: "سيهاجمك "" من """ -->
+  <Util_MechCluster.questDescriptionRules.rulesStrings>
+    <li>threatDescription->[enemyFaction_pawnsPlural] من فصيل [enemyFaction_name] سيهاجمونك. تتكوّن مجموعتهم من:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </Util_MechCluster.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

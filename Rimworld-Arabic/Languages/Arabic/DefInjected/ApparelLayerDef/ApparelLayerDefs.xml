@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>ﺓﺪﺋﺎﻓ</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>ﻦﻴﻨﻴﻌﻟﺍ</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>ﻂﺳﻮﻟﺍ</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>ﺪﻠﺟ</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>ﺱﺃﺮﻟﺍ ﺀﺎﻄﻏ</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>ﻲﺟﺭﺎﺧ</Shell.label>
+  
+</LanguageData>

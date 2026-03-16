@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﺠﺘﻨﻣ</AnimalProductRaw.label>
+  
+  <!-- EN: animals -->
+  <Animals.label>ﺕﺎﻧﺍﻮﻴﺣ</Animals.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>ﺲﺑﻼﻣ</Apparel.label>
+  
+  <!-- EN: armor -->
+  <ApparelArmor.label>ﻉﺭﺩ</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>ﺕﺎﻋﻮﻨﺘﻣ</ApparelMisc.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>ﺔﻠﻴﺒﻧ ﺲﺑﻼﻣ</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>ﺔﻌﻔﻨﻣ</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>ﺱﺃﺭ ﺀﺎﻄﻏ</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>ﻒﺤﺗ</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>ﻚﻴﺗﻮﻛﺭﺃ</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>ﻲﻧﻮﻴﺑ</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>ﻲﻨﻘﺗ ﻲﻜﻴﻧﺎﻜﻴﻣ</BodyPartsMechtech.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>ﻲﻌﻴﺒﻃ</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>ﺔﻄﻴﺴﺑ ﺀﺍﺰﺟﺃ</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>ﺔﻘﺋﺎﻓ ﺔﻴﻨﻘﺗ</BodyPartsUltra.label>
+  
+  <!-- EN: bookEffects -->
+  <BookEffects.label>ﺏﺎﺘﻛ ﺕﺍﺮﻴﺛﺄﺗ</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>ﺐﺘﻛ</Books.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>ﻲﻧﺎﺒﻣ</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>ﻦﻓ</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>ﺙﺎﺛﺃ</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>ﻪﻴﻓﺮﺗ</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>ﺕﺎﻋﻮﻨﺘﻣ</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>ﺔﻗﺎﻃ</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>ﺝﺎﺘﻧﺇ</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>ﻥﺎﻣﺃ</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>ﺹﺎﺧ</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>ﻊﻄﻗ</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>ﺚﺜﺟ</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>ﺕﺎﻧﺍﻮﻴﺣ ﺚﺜﺟ</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>ﺮﺸﺒﻟﺎﺑ ﺔﻬﻴﺒﺷ ﺚﺜﺟ</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>ﺕﺍﺮﺸﺣ ﺚﺜﺟ</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺚﺜﺟ</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>ﺕﺍﺭِّﺪﺧُﻣ</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>)ﺐﺼﺧ (ﺾﻴﺑ</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>)ﺐﺼﺨﻣ ﺮﻴﻏ (ﺾﻴﺑ</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>ﺕﺎﺒﺟﻭ</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>ﺊﻴﻧ ﻡﺎﻌﻃ</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>ﺔﻤﻌﻃﺃ</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>ﺔﻳﻭﺪﻳ ﻞﺑﺎﻨﻗ</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>ﺱﺃﺭ ﺀﺎﻄﻏ</Headgear.label>
+  
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>ﺱﺃﺭ ﺀﺎﻄﻏ</HeadgearNoble.label>
+  
+  <!-- EN: inert relics -->
+  <InertRelics.label>ﺔﻠﻣﺎﺧ ﺎﻳﺎﻘﺑ</InertRelics.label>
+  
+  <!-- EN: items -->
+  <Items.label>ﺮﺻﺎﻨﻋ</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>ﺕﺎﻋﻮﻨﺘﻣ</ItemsMisc.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>ﺩﻮﻠﺟ</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>ﻉّﻨﺼﻣ</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>ﻢﺤﻟ</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>ﺀﺍﻭﺩ</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>ﻥﻭﺎﻫ ﻒﺋﺍﺬﻗ</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>ﻲﺒﺼﻋ ﺐﻳﺭﺪﺗ ﺓﺰﻬﺟﺃ</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>ﻲﺴﻔﻧ ﺐﻳﺭﺪﺗ ﺓﺰﻬﺟﺃ</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>ﺕﺍﺭﺎﻬﻤﻟﺍ ﻮﺑﺭﺪﻣ</NeurotrainersSkill.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>ﻲﺗﺎﺒﻧ</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>ﺔﻴﺗﺎﺒﻧ ﺓﺩﺎﻣ</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>ﺕﺎﺗﺎﺒﻧ</Plants.label>
+  
+  <!-- EN: research -->
+  <ResearchGain.label>ﺚﺤﺑ</ResearchGain.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>ﻡﺎﺧ ﺩﺭﺍﻮﻣ</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>ﺭﺬﺟ</Root.label>
+  
+  <!-- EN: skill gain -->
+  <SkillGain.label>ﺓﺭﺎﻬﻣ ﺏﺎﺴﺘﻛﺍ</SkillGain.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>ﺔﻳﺮﺠﺣ ﻞﺘﻛ</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>ﺔﻳﺮﺠﺣ ﻊﻄﻗ</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>ﻉﻭﺬﺟ ﺭُﻃُﺃ</Stumps.label>
+  
+  <!-- EN: techprints -->
+  <Techprints.label>ﺔﻴﻨﻘﺗ ﺕﺎﻄﻄﺨﻣ</Techprints.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>ﺕﺎﺟﻮﺴﻨﻣ</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>ﻞﻤﺘﻜﻣ ﺮﻴﻏ</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>ﺔﺤﻠﺳﺃ</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>ﻙﺎﺒﺘﺷﺍ ﺔﺤﻠﺳﺃ</WeaponsMelee.label>
+  
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>ﺔﻴﺼﺨﺷ ﺔﺤﻠﺳﺃ</WeaponsMeleeBladelink.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﺃ</WeaponsRanged.label>
+  
+  <!-- EN: unique weapons -->
+  <WeaponsUnique.label>ﺓﺪﻳﺮﻓ ﺔﺤﻠﺳﺃ</WeaponsUnique.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>ﻑﻮﺻ</Wools.label>
+  
+</LanguageData>

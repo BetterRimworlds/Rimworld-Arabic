@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare --><!-- EN: liebre -->
+  <Hare.label>ﺐﻧﺭﺃ</Hare.label><!-- EN: liebres -->
+  <Hare.labelPlural>ﺐﻧﺍﺭﺃ</Hare.labelPlural><!-- EN: cría de liebre -->
+  <Hare.lifeStages.0.label>ﺐﻧﺭﺃ ﺮﻴﻐﺻ</Hare.lifeStages.0.label><!-- EN: cría de liebre -->
+  <Hare.lifeStages.0.labelFemale>ﺔﻴﺒﻧﺭﺃ ﺓﺮﻴﻐﺻ</Hare.lifeStages.0.labelFemale><!-- EN: crías de liebre -->
+  <Hare.lifeStages.0.labelPlural>ﺐﻧﺭﺃ ﺭﺎﻐﺻ</Hare.lifeStages.0.labelPlural><!-- EN: liebre joven -->
+  <Hare.lifeStages.1.label>ﺮﻴﻐﺻ ﺐﻧﺭﺃ</Hare.lifeStages.1.label><!-- EN: liebres jóvenes -->
+  <Hare.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺐﻧﺍﺭﺃ</Hare.lifeStages.1.labelPlural><!-- EN: liebre -->
+  <Hare.lifeStages.2.label>ﻱﺮﺑ ﺐﻧﺭﺃ</Hare.lifeStages.2.label><!-- EN: liebres -->
+  <Hare.lifeStages.2.labelPlural>ﺔﻳﺮﺑ ﺐﻧﺍﺭﺃ</Hare.lifeStages.2.labelPlural>
+  
+  <!-- EN: snowhare --><!-- EN: liebre polar -->
+  <Snowhare.label>ﻲﺒﻄﻗ ﺐﻧﺭﺃ</Snowhare.label><!-- EN: liebres polares -->
+  <Snowhare.labelPlural>ﺔﻴﺒﻄﻗ ﺐﻧﺍﺭﺃ</Snowhare.labelPlural><!-- EN: cría de liebre polar -->
+  <Snowhare.lifeStages.0.label>ﻲﺒﻄﻗ ﺐﻧﺭﺃ ﺮﻴﻐﺻ</Snowhare.lifeStages.0.label><!-- EN: crías de liebre polar -->
+  <Snowhare.lifeStages.0.labelPlural>ﻲﺒﻄﻗ ﺐﻧﺭﺃ ﺭﺎﻐﺻ</Snowhare.lifeStages.0.labelPlural><!-- EN: liebre polar joven -->
+  <Snowhare.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﺒﻄﻗ ﺐﻧﺭﺃ</Snowhare.lifeStages.1.label><!-- EN: liebres polares jóvenes -->
+  <Snowhare.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺔﻴﺒﻄﻗ ﺐﻧﺍﺭﺃ</Snowhare.lifeStages.1.labelPlural><!-- EN: liebre polar -->
+  <Snowhare.lifeStages.2.label>ﻲﺒﻄﻗ ﺐﻧﺭﺃ</Snowhare.lifeStages.2.label><!-- EN: liebres polares -->
+  <Snowhare.lifeStages.2.labelPlural>ﺔﻴﺒﻄﻗ ﺐﻧﺍﺭﺃ</Snowhare.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go frenzy -->
+  <Frenzy_Go.label>ﻡﻮﻤﺤﻣ ﺝﺎﻴﻫ</Frenzy_Go.label>
+  <!-- EN: Inspired: Go frenzy -->
+  <Frenzy_Go.baseInspectLine>ﻡِﻬﻟُﻣ ﺝﺎﻴﻫ</Frenzy_Go.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetter>{PAWN_gender ? . ﺔﻣﺩﺎﻗ ﻡﺎﻳﺃ 8 ﺓﺪﻤﻟ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻙﺮﺤﺘﺘﺳ : . ﻡﺎﻳﺃ 8 ﺓﺪﻤﻟ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻙﺮﺤﺘﻳ ﻑﻮﺳ}</Frenzy_Go.beginLetter><!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetterLabel>{PAWN_gender ? . ﻡﺎﻳﺃ ٨ ـﻝ ﻉﺮﺳﺃ ﻙﺮﺤﺘﺘﺳ : . ﻡﺎﻳﺃ ٨ ـﻝ ﻉﺮﺳﺃ ﻙﺮﺤﺘﻴﺳ}</Frenzy_Go.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (go frenzy). -->
+  <Frenzy_Go.endMessage>).ﺔﻛﺮﺤﻟﺍ ﺝﺎﻴﻫ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Frenzy_Go.endMessage>
+  
+  <!-- EN: shoot frenzy -->
+  <Frenzy_Shoot.label>ﺭﺎﻧ ﻕﻼﻃﺇ ﺝﺎﻴﻫ</Frenzy_Shoot.label>
+  <!-- EN: Inspired: Shoot frenzy -->
+  <Frenzy_Shoot.baseInspectLine>ﺭﺎﻧ ﻕﻼﻃﺇ ﺝﺎﻴﻫ</Frenzy_Shoot.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetter>{PAWN_gender ? . ﺔﻣﺩﺎﻘﻟﺍ ﺔﻴﻧﺎﻤﺜﻟﺍ ﻡﺎﻳﻷﺍ ﻝﻼﺧ ﺮﺒﻛﺃ ﺔﻗﺪﺑ ﻖﻠﻄﺘﺳ : . ﻡﺎﻳﺃ 8 ﺓﺪﻤﻟ ﺮﺒﻛﺃ ﺔﻗﺪﺑ ﺭﺎﻨﻟﺍ ﻖﻠﻄﻳ ﻑﻮﺳ}</Frenzy_Shoot.beginLetter><!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetterLabel>. ﻡﺎﻳﺃ ٨ ـﻝ ﻰﻠﻋﺃ ﺐﻳﻮﺼﺗ ﺔﻗﺩ</Frenzy_Shoot.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (shoot frenzy). -->
+  <Frenzy_Shoot.endMessage>).ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺝﺎﻴﻫ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Frenzy_Shoot.endMessage>
+  
+  <!-- EN: work frenzy -->
+  <Frenzy_Work.label>ﻞﻤﻋ ﺝﺎﻴﻫ</Frenzy_Work.label>
+  <!-- EN: Inspired: Work frenzy -->
+  <Frenzy_Work.baseInspectLine>ﻞﻤﻋ ﺝﺎﻴﻫ</Frenzy_Work.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetter>{PAWN_gender ? . ﻡﺎﻳﺃ 8 ﺓﺪﻤﻟ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻞﻤﻌﺘﺳ : . ﻡﺎﻳﺃ 8 ﺓﺪﻤﻟ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻞﻤﻌﻴﺳ}</Frenzy_Work.beginLetter><!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetterLabel>{PAWN_gender ? . ﻡﺎﻳﺃ ٨ ـﻝ ﻉﺮﺳﺃ ﻞﻤﻌﺘﺳ : . ﻡﺎﻳﺃ ٨ ـﻝ ﻉﺮﺳﺃ ﻞﻤﻌﻴﺳ}</Frenzy_Work.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (work frenzy). -->
+  <Frenzy_Work.endMessage>).ﻞﻤﻌﻟﺍ ﺝﺎﻴﻫ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Frenzy_Work.endMessage>
+  
+  <!-- EN: inspired creativity -->
+  <Inspired_Creativity.label>ﻢﻬﻟُﻣ ﻉﺍﺪﺑﺇ</Inspired_Creativity.label>
+  <!-- EN: Inspired: Inspired creativity -->
+  <Inspired_Creativity.baseInspectLine>ﻡَﻬﻟُﻣ ﻉﺍﺪﺑﺇ: ﻡَﻬﻟُﻣ</Inspired_Creativity.baseInspectLine>
+  <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetter>{PAWN_gender ? . ﺔﻳﺭﻮﻄﺳﺃ ﺮﺻﺎﻨﻋ ﻊﻨﺼﺑ ﻰﺘﺣ ﺢﻤﺴﻳ ﺍﺬﻫ. ﻚﻟﺫ ﻑﻼﺧ ﻪﻴﻠﻋ ﻥﻮﻜﻴﺳ ﺎﻤﻋ ﺓﺩﻮﺠﻟﺍ ﻦﻣ ﻰﻠﻋﺃ ﻦﻴﻳﻮﺘﺴﻤﺑ ﻥﻮﻜﻴﺳ ﻪﻌﻨﺼﺗ ﻱﺬﻟﺍ ﺙﺎﺛﻷﺍ ﻭﺃ ،ﻦﻔﻟﺍ ،ﺔﻴﻟﺎﺘﻟﺍ ﺔﻌﻄﻘﻟﺍ\n\n. ﻊﻨﺼﻟﺍ ﻝﺎﻤﺘﻛﺍ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ : . ﺔﻳﺭﻮﻄﺳﺃ ﺮﺻﺎﻨﻋ ﻊﻨﺼﺑ ﻰﺘﺣ ﺢﻤﺴﻳ ﺍﺬﻫ. ﻪﻴﻠﻋ ﻥﻮﻜﻴﺳ ﺎﻤﻋ ﺓﺩﻮﺠﻟﺍ ﻦﻣ ﻰﻠﻋﺃ ﻦﻴﻳﻮﺘﺴﻤﺑ ﻥﻮﻜﻴﺳ ﻪﻌﻨﺼﻳ ﻱﺬﻟﺍ ﺙﺎﺛﻷﺍ ﻭﺃ ،ﻲﻨﻔﻟﺍ ﻞﻤﻌﻟﺍ ،ﺔﻴﻟﺎﺘﻟﺍ ﺔﻌﻄﻘﻟﺍ\n\n. ﻊﻨﺼﻟﺍ ﻝﺎﻤﺘﻛﺍ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ}</Inspired_Creativity.beginLetter><!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetterLabel>ﺓﺩﻮﺠﻟﺍ ﻲﻟﺎﻋ ﻲﻋﺍﺪﺑﺇ ﻡﺎﻬﻟﺇ</Inspired_Creativity.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired creativity). -->
+  <Inspired_Creativity.endMessage>).ﻡَﻬﻟُﻣ ﻉﺍﺪﺑﺇ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Inspired_Creativity.endMessage>
+  
+  <!-- EN: inspired recruitment -->
+  <Inspired_Recruitment.label>ﻢﻬﻟُﻣ ﺪﻴﻨﺠﺗ</Inspired_Recruitment.label>
+  <!-- EN: Inspired: Inspired recruitment -->
+  <Inspired_Recruitment.baseInspectLine>ﻡَﻬﻟُﻣ ﺪﻴﻨﺠﺗ: ﻡَﻬﻟُﻣ</Inspired_Recruitment.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>{PAWN_gender ? . ﺓﺩﺍﻮﻫ ﻼﺑ ﻦﻴﺼﻠﺨﻣ ﺍﻮﺴﻴﻟ ﻢﻬﻧﺃ ﺎﻤﻟﺎﻃ ،ﺔﻣﻭﺎﻘﻤﻟﺍ ﻭﺃ ﺔﺑﻮﻌﺼﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﻲﻟﺎﺘﻟﺍ ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﻲﻓ ﺢﺠﻨﺘﺳ\n\n. ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ : . ﺓﺩﺍﻮﻫ ﻼﺑ ﺍًﺼﻠﺨﻣ ﺲﻴﻟ ﻪﻧﺃ ﺎﻤﻟﺎﻃ ،ﺔﻣﻭﺎﻘﻤﻟﺍ ﻭﺃ ﺔﺑﻮﻌﺼﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﻲﻟﺎﺘﻟﺍ ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﻲﻓ ﺢﺠﻨﻳ ﻑﻮﺳ\n\n. ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ}</Inspired_Recruitment.beginLetter><!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetterLabel>. ﻥﻮﻤﻀﻣ ﻡﺩﺎﻘﻟﺍ ﻦﻴﺠﺴﻟﺍ ﺪﻴﻨﺠﺗ</Inspired_Recruitment.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired recruitment). -->
+  <Inspired_Recruitment.endMessage>).ﻡَﻬﻟُﻣ ﺪﻴﻨﺠﺗ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Inspired_Recruitment.endMessage>
+  
+  <!-- EN: inspired surgery -->
+  <Inspired_Surgery.label>ﺔﻤﻬﻟُﻣ ﺔﺣﺍﺮﺟ</Inspired_Surgery.label>
+  <!-- EN: Inspired: Inspired surgery -->
+  <Inspired_Surgery.baseInspectLine>ﺔﻤﻬﻟُﻣ ﺔﺣﺍﺮﺟ</Inspired_Surgery.baseInspectLine>
+  <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter>{PAWN_gender ? . ﻞﺸﻔﻠﻟ ﻞﻴﺌﺿ ﻝﺎﻤﺘﺣﺍ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ. ﺎﻬﺣﺎﺠﻧ ﻝﺎﻤﺘﺣﺍ ﻒﻋﺎﻀﺘﻴﺳ ،ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﺎﻬﻴﻓ ﻱﺮﺠﺗ ﻲﺘﻟﺍ ﺔﻣﺩﺎﻘﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ\n\n. ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ : . ﻞﺸﻔﻠﻟ ﻞﻴﺌﺿ ﻝﺎﻤﺘﺣﺍ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ. ﻪﺣﺎﺠﻧ ﺔﺻﺮﻓ ﻒﻋﺎﻀﺘﺘﺳ ،ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﺎﻬﻴﻓ ﻱﺮﺠﻳ ﻲﺘﻟﺍ ﺔﻣﺩﺎﻘﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ\n\n. ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ}</Inspired_Surgery.beginLetter><!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetterLabel>. ﺔﻔﻋﺎﻀﻣ ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓ</Inspired_Surgery.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired surgery). -->
+  <Inspired_Surgery.endMessage>).ﺔﻣَﻬﻟُﻣ ﺔﺣﺍﺮﺟ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Inspired_Surgery.endMessage>
+  
+  <!-- EN: inspired taming -->
+  <Inspired_Taming.label>ﻢﻬﻠﻣ ﺾﻳﻭﺮﺗ ﺮﻴﺛﺄﺗ</Inspired_Taming.label>
+  <!-- EN: Inspired: Inspired taming -->
+  <Inspired_Taming.baseInspectLine>ﺾﻳﻭﺮﺘﻠﻟ ﻡِﻬﻟُﻣ ﺮﻴﺛﺄﺗ</Inspired_Taming.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
+  <Inspired_Taming.beginLetter>{PAWN_gender ? . ﺔﺑﻮﻌﺼﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﺡﺎﺠﻨﺑ ﻲﻟﺎﺘﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺽﻭﺮﺘﺳ\n\n. ﻥﺍﻮﻴﺣ ﺾﻳﻭﺮﺗ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ : . ﺔﺑﻮﻌﺼﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﻲﻟﺎﺘﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻦﻣ ﺡﺎﺠﻨﺑ ﻦﻜﻤﺘﻳ ﻑﻮﺳ\n\n. ﻥﺍﻮﻴﺣ ﺾﻳﻭﺮﺗ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ}</Inspired_Taming.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired taming). -->
+  <Inspired_Taming.endMessage>).ﻡَﻬﻟُﻣ ﺾﻳﻭﺮﺗ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Inspired_Taming.endMessage>
+  
+  <!-- EN: inspired trade -->
+  <Inspired_Trade.label>ﺔﻤﻬﻟُﻣ ﺓﺭﺎﺠﺗ</Inspired_Trade.label>
+  <!-- EN: Inspired: Inspired trade -->
+  <Inspired_Trade.baseInspectLine>ﺔﻤﻬﻟُﻣ ﺓﺭﺎﺠﺗ</Inspired_Trade.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetter>{PAWN_gender ? . ﺔﻴﻟﺎﺘﻟﺍ ﺔﻳﺭﺎﺠﺘﻟﺍ ﺎﻬﺘﻘﻔﺻ ﻡﺎﻤﺗﺇ ﺪﻨﻋ ﻝﻭﺍﺪﺘﻟﺍ ﺮﻌﺳ ﻲﻓ ﺓﺮﻴﺒﻛ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ ﻞﺼﺤﺘﺳ\n\n. ﺔﻘﻔﺼﻟﺍ ﻡﺎﻤﺗﺇ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ : . ﺔﻴﻟﺎﺘﻟﺍ ﻝﻭﺍﺪﺘﻟﺍ ﺔﻘﻔﺻ ﻡﺎﻤﺗﺇ ﺪﻨﻋ ﺓﺮﻴﺒﻛ ﻝﻭﺍﺪﺗ ﺮﻌﺳ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ ﻞﺼﺤﻴﺳ\n\n. ﺔﻘﻔﺼﻟﺍ ﻡﺎﻤﺗﺇ ﺪﻨﻋ ﻭﺃ ،ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﻡﺎﻬﻟﻹﺍ ﻲﻬﺘﻨﻴﺳ}</Inspired_Trade.beginLetter><!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetterLabel>{PAWN_gender ? ﺔﻣﺩﺎﻗ ﺓﺮﻴﺒﻛ ﺔﻳﺭﺎﺠﺗ ﺓﺄﻓﺎﻜﻣ : ﺓﺮﻴﺒﻛ ﻱﺭﺎﺠﺗ ﺮﻌﺳ ﺓﺄﻓﺎﻜﻣ}</Inspired_Trade.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired trade). -->
+  <Inspired_Trade.endMessage>).ﺔﻣَﻬﻟُﻣ ﺓﺭﺎﺠﺗ (ﺍًﻣَﻬﻟُﻣ {0} ﺪﻌﻳ ﻢﻟ</Inspired_Trade.endMessage>
+  
+</LanguageData>

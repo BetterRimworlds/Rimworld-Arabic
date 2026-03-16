@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
+  <Assassin20.description>{PAWN_gender ? . ﺔﻣّﻴﻗ ًﺓﺰﻴﻣ ﻒﻃﺎﻌﺘﻠﻟ ﻡﺎﺘﻟﺍ ﺭﺎﻘﺘﻓﻻﺍ ﻥﺎﻛ ،ﻝﺎﺠﻤﻟﺍ ﺍﺬﻫ ﻲﻓ. ﺍًﺪﻴﺟ ﺍًﺤﺑﺭ ﺖﻘﻘﺣﻭ ،ﺔﻴﺑﺎﺴﺣﻭ ﺓﺩﺭﺎﺑ ﺖﻧﺎﻛ. ﺔﻓﺮﺘﺤﻣ ﺔﻠﺗﺎﻗ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺓﺰﻴﻣ ﻒﻃﺎﻌﺘﻠﻟ ﻡﺎﺘﻟﺍ ﺭﺎﻘﺘﻓﻻﺍ ﻥﺎﻛ ،ﻝﺎﺠﻤﻟﺍ ﺍﺬﻫ ﻲﻓ. ﺍًﺪﻴﺟ ﺍًﺤﺑﺭ ﻖﻘﺣﻭ ،ﺍًﻴﺑﺎﺴﺣﻭ ﺍًﺩﺭﺎﺑ ﻥﺎﻛ. ﺍًﻓﺮﺘﺤﻣ ًﻼﺗﺎﻗ [PAWN_nameDef] ﻥﺎﻛ}</Assassin20.description>
+  <!-- EN: assassin -->
+  <Assassin20.title>ﻑﺮﺘﺤﻣ ﻞﺗﺎﻗ</Assassin20.title>
+  <Assassin20.titleFemale>ﺔﻓﺮﺘﺤﻣ ﺔﻠﺗﺎﻗ</Assassin20.titleFemale>
+  <!-- EN: assassin -->
+  <Assassin20.titleShort>ﺱﺮﻤﺘﻣ ﻞﺗﺎﻗ</Assassin20.titleShort>
+  <Assassin20.titleShortFemale>ﺔﻠﺗﺎﻗ</Assassin20.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
+  <Gigolo30.description>{PAWN_gender ? . ﻲﻋﺎﻤﺘﺟﻻﺍ ﺀﺎﻛﺬﻟﺍ ﻦﻣ ﺍًﺻﺎﺧ ﺍًﻋﻮﻧﻭ ﺔﻴﺴﻔﻨﻟﺍ ﺏﻭﺪﻨﻟﺍ ﺾﻌﺑ ﺖﺒﺴﺘﻛﺍ. ﺓﺩﺪﻌﺘﻣ ﺐﻛﺍﻮﻛ ﻰﻠﻋ ﺓﺭﺎﻋﺪﻟﺍ ﺕﻮﻴﺑ ﻲﻓ ﻦﺋﺎﺑﺰﻟﺍ ﺕﺎﺌﻣ ﻞﺒﻗ ﻦﻣ [PAWN_nameDef] ﺪﺴﺟ ﻡِﺪﺧُﺘﺳﺍ : . ﻲﻋﺎﻤﺘﺟﻻﺍ ﺀﺎﻛﺬﻟﺍ ﻦﻣ ﺍًﺻﺎﺧ ﺍًﻋﻮﻧﻭ ﺔﻴﺴﻔﻨﻟﺍ ﺏﻭﺪﻨﻟﺍ ﺾﻌﺑ ﺐﺴﺘﻛﺍ. ﺓﺩﺪﻌﺘﻣ ﺐﻛﺍﻮﻛ ﻰﻠﻋ ﺓﺭﺎﻋﺪﻟﺍ ﺕﻮﻴﺑ ﻲﻓ ﻦﺋﺎﺑﺰﻟﺍ ﺕﺎﺌﻣ ﻞﺒﻗ ﻦﻣ [PAWN_nameDef] ﺪﺴﺟ ﻡﺪﺧُﺘﺳﺍ}</Gigolo30.description>
+  <!-- EN: gigolo -->
+  <Gigolo30.title>{PAWN_gender ? ﻲﺋﺎﺴﻧ ﺕﺍﺮﺴﻣ ﺔﻠﻣﺎﻋ : ﻲﺋﺎﺴﻧ ﺕﺍﺮﺴﻣ ﻞﻣﺎﻋ}</Gigolo30.title>
+  <!-- EN: gigolo -->
+  <Gigolo30.titleFemale>ﺓﺮﻫﺎﻋ</Gigolo30.titleFemale>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShort>ﺓﺮﻫﺎﻋ</Gigolo30.titleShort>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShortFemale>ﺔﻴﻗﺍﺭ ﺓﺮﻫﺎﻋ</Gigolo30.titleShortFemale>
+  
+  <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
+  <IllegalShipwright76.description>{PAWN_gender ? . ﻦﻴﻧﺍﻮﻘﻟﺍ ﻩﺬﻬﺑ ﻥﻮﻤﺘﻬﻳ ﻻ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﻦﻣ ﺓﺮﻴﺒﻛ ﺡﺎﺑﺭﺃ ﻲﻨﺟ ﻦﻜﻤﻳ ﻪﻧﺃ [PAWN_nameDef] ﺖﻔﺸﺘﻛﺍ …ﻦﺋﺎﻤﻜﻟﺍ ﺔﻴﻧﺎﻜﻣﺇ ﺓﺩﺎﻳﺰﻟ ﺕﻻﺎﺼﺗﺍ ﻖﺒﻃ ﻪﻧﺃ ﻭﺪﺒﻳ ﺎﻣ ﺖﺤﺗ ﺎﻬﺘﻴﻔﺧﺃ ﺍﺫﺇ ﺔﺻﺎﺧ. ﻦﺤﺷ ﺔﻨﻴﻔﺳ ﻰﻠﻋ ﺕﺍﻭﺍﺮﻴﺗ ﻕﺎﻄﻧ ﺕﺍﺫ ﺭﺰﻴﻟ ﺓﺰﻬﺟﺃ ﻊﺿﻮﺑ ﺢﻤﺳُﻳ ﻻ ﻪﻧﺃ ﻰﻠﻋ ﺺﻨﻳ ﻥﻮﻧﺎﻗ ﻙﺎﻨﻫ : . ﻦﻴﻧﺍﻮﻘﻟﺍ ﻩﺬﻬﺑ ﻥﻮﻤﺘﻬﻳ ﻻ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﻦﻣ ﺓﺮﻴﺒﻛ ﺡﺎﺑﺭﺃ ﻖﻴﻘﺤﺗ ﻦﻜﻤﻳ ﻪﻧﺃ [PAWN_nameDef] ﻒﺸﺘﻛﺍ. ﻦﺋﺎﻤﻜﻟﺍ ﺔﻴﻧﺎﻜﻣﺇ ﺓﺩﺎﻳﺰﻟ ﺕﻻﺎﺼﺗﺍ ﻖﺒﻃ ﻪﻧﺃ ﻭﺪﺒﻳ ﺎﻣ ﺖﺤﺗ ﺎﻬﺘﻴﻔﺧﺃ ﺍﺫﺇ ﺔﺻﺎﺧ. ﻦﺤﺷ ﺔﻨﻴﻔﺳ ﻦﺘﻣ ﻰﻠﻋ ﺍًﺪﺟ ﺔﻳﻮﻗ ﺭﺰﻴﻟ ﺓﺰﻬﺟﺃ ﻊﺿﻮﺑ ﺢﻤﺳُﻳ ﻻ ﻪﻧﺃ ﻰﻠﻋ ﺺﻨﻳ ﻥﻮﻧﺎﻗ ﻙﺎﻨﻫ}</IllegalShipwright76.description>
+  <!-- EN: illegal shipwright -->
+  <IllegalShipwright76.title>{PAWN_gender ? ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﻦﻔﺳ ﺔﻴﻧﺎﺑ : ﻲﻧﻮﻧﺎﻗ ﺮﻴﻏ ﻦﻔﺳ ﻲﻧﺎﺑ}</IllegalShipwright76.title>
+  <!-- EN: shipwright -->
+  <IllegalShipwright76.titleShort>{PAWN_gender ? ﻦﻔﺳ ﺔﻴﻧﺎﺑ : ﻦﻔﺳ ﻲﻧﺎﺑ}</IllegalShipwright76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
+  <PitBrawler76.description>{PAWN_gender ? . ﺍًﻀﻳﺃ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﺍًﻴﻧﻮﻧﺎﻗ ﻥﺎﻛﻭ. ﻪﻨﻣ ﺓﺎﺠﻨﻟﺍ ﻢﻬﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﻷ ﺔﺤﺑﺮﻣ ﺔﻨﻬﻣ ﻥﺎﻛ ﺔﺒﻠﺤﻟﺍ ﻲﻓ ﻝﺎﺘﻘﻟﺍ ﻥﺃ ﺢﻀﺗﺍ. ﺎﻫﺭﻮﻬﻤﺟ ﺔﻌﺘﻣ ﻥﺎﻛ ﻢﻫﻷﺍ ﻦﻜﻟﻭ ،ﺕﺯﺎﻓ ﺪﻘﻟ. ﺎﻬﻟ ﺔﻛﺮﻌﻣ ﻝﻭﺃ ﺖﻠﺧﺩ ﺎﻣﺪﻨﻋ ﺎﻫﺮﻤﻋ ﻦﻣ ﺔﻌﺳﺎﺘﻟﺍ ﻲﻓ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﺍًﻀﻳﺃ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﺍًﻴﻧﻮﻧﺎﻗ ﻥﺎﻛﻭ. ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﻢﻬﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﻷ ﺔﺤﺑﺮﻣ ﺔﻨﻬﻣ ﻥﺎﻛ ﺓﺮﻔﺤﻟﺍ ﻲﻓ ﻝﺎﺘﻘﻟﺍ ﻥﺃ ﻦﻴﺒﺗ. ﻩﺭﻮﻬﻤﺟ ﻉﺎﺘﻤﺘﺳﺍ ﻥﺎﻛ ﻢﻫﻷﺍ ﻦﻜﻟﻭ ،ﺯﺎﻓ ﺪﻘﻟ. ﻪﻟ ﺔﻛﺮﻌﻣ ﻝﻭﺃ ﺽﺎﺧ ﺎﻣﺪﻨﻋ ﻩﺮﻤﻋ ﻦﻣ ﺔﻌﺳﺎﺘﻟﺍ ﻲﻓ [PAWN_nameDef] ﻥﺎﻛ}</PitBrawler76.description>
+  <!-- EN: pit brawler -->
+  <PitBrawler76.title>ﺮﻔﺤﻟﺍ ﻞﺗﺎﻘﻣ</PitBrawler76.title>
+  <PitBrawler76.titleFemale>ﺓﺮﻔﺣ ﺔﻠﺗﺎﻘﻣ</PitBrawler76.titleFemale>
+  <!-- EN: brawler -->
+  <PitBrawler76.titleShort>ﺮﺟﺎﺸﻣ</PitBrawler76.titleShort>
+  <PitBrawler76.titleShortFemale>ﺓﺮﺟﺎﺸﻣ</PitBrawler76.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
+  <SpaceMarine16.description>{PAWN_gender ? . ﻚﻟﺫ ﻲﻓ ﺔﻋﺭﺎﺑ ﺖﻧﺎﻛﻭ. ﺔﻤﻴﻠﺳ ﺔﻨﻴﻔﺴﻟﺍ ﻰﻠﻋ ﺀﻼﻴﺘﺳﻻﺍﻭ ،ﻢﻗﺎﻄﻟﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ،ﺔﻳﺩﺎﻌﻤﻟﺍ ﺔﻴﻤﺠﻨﻟﺍ ﻦﻔﺴﻟﺍ ﻡﺎﺤﺘﻗﺍ ﻮﻫ ﺎﻬﻠﻤﻋ ﻥﺎﻛ. ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﺔﻳﺮﺤﺒﻟﺍ ﻲﻓ ﺔﺑﺭﺎﺤﻣ [PAWN_nameDef] ﺖﻧﺎﻛ : . ﻚﻟﺫ ﻲﻓ ﺍًﺪﻴﺟ ﻥﺎﻛﻭ. ﺔﻤﻴﻠﺳ ﺔﻨﻴﻔﺴﻟﺍ ﻰﻠﻋ ﺀﻼﻴﺘﺳﻻﺍﻭ ،ﻢﻗﺎﻄﻟﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ،ﺔﻳﺩﺎﻌﻤﻟﺍ ﺔﻴﻤﺠﻨﻟﺍ ﻦﻔﺴﻟﺍ ﻡﺎﺤﺘﻗﺍ ﻪﺘﻔﻴﻇﻭ ﺖﻧﺎﻛ. ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﺔﻳﺮﺤﺒﻟﺍ ﻲﻓ ﺍًﺑﺭﺎﺤﻣ [PAWN_nameDef] ﻥﺎﻛ}</SpaceMarine16.description>
+  <!-- EN: space marine -->
+  <SpaceMarine16.title>ﺔﻴﺋﺎﻀﻓ ﺔﻳﺮﺤﺑ</SpaceMarine16.title>
+  <!-- EN: marine -->
+  <SpaceMarine16.titleShort>{PAWN_gender ? ﺔﻳﺮﺤﺑ : ﻱّﺮﺤﺑ}</SpaceMarine16.titleShort>
+  
+  <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
+  <SpacePirate55.description>{PAWN_gender ? . ﺢﺑﺮﻟﺍ ﻖﻴﻘﺤﺘﻟ ﺔﻴﻤﻠﺴﻟﺍ ﺓﺭﺎﺠﺘﻟﺍ ﻦﻔﺳ ﺮﻣﺪﺗﻭ ﺕﺍﻭﺎﺗﻹﺍ ﺽﺮﻔﺗ ﺖﻧﺎﻛ ﺚﻴﺣ ،ﻱﺮﺸﺒﻟﺍ ﺩﻮﺟﻮﻟﺍ ﻦﻣ ﻲﻟﺯﻷﺍ ﺐﻧﺎﺠﻟﺍ ﺍﺬﻫ ﻦﻣ ﺍًﺀﺰﺟ [PAWN_nameDef] ﺖﻧﺎﻛ. ﻊﻤﺘﺠﻤﻟﺍ ﺖﺘﺸﺘﻳﻭ ﺕﺎﻣﻮﻜﺤﻟﺍ ﻪﻴﻓ ﻒﻌﻀﺗ ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺔﻨﺻﺮﻘﻟﺍ ﺮﻬﻈﺗ : . ﺢﺑﺮﻟﺍ ﻖﻴﻘﺤﺘﻟ ﺔﻴﻤﻠﺴﻟﺍ ﺓﺭﺎﺠﺘﻟﺍ ﻦﻔﺳ ﺮﻣﺪﻳﻭ ﺕﺍﻭﺎﺗﻹﺍ ﺽﺮﻔﻳ ﻥﺎﻛ ﺚﻴﺣ ،ﻱﺮﺸﺒﻟﺍ ﺩﻮﺟﻮﻟﺍ ﻦﻣ ﻲﻟﺯﻷﺍ ﺐﻧﺎﺠﻟﺍ ﺍﺬﻫ ﻦﻣ ﺍًﺀﺰﺟ [PAWN_nameDef] ﻥﺎﻛ. ﺍًﺘﺘﺸﺘﻣ ﻊﻤﺘﺠﻤﻟﺍﻭ ﺔﻔﻴﻌﺿ ﺕﺎﻣﻮﻜﺤﻟﺍ ﻪﻴﻓ ﻥﻮﻜﺗ ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺔﻨﺻﺮﻘﻟﺍ ﺮﻬﻈﺗ}</SpacePirate55.description>
+  <!-- EN: space pirate -->
+  <SpacePirate55.title>ﻲﺋﺎﻀﻓ ﻥﺎﺻﺮﻗ</SpacePirate55.title>
+  <SpacePirate55.titleFemale>ﺔﻴﺋﺎﻀﻓ ﺔﻧﺎﺻﺮﻗ</SpacePirate55.titleFemale>
+  <!-- EN: pirate -->
+  <SpacePirate55.titleShort>ﻥﺎﺻﺮﻗ</SpacePirate55.titleShort>
+  <SpacePirate55.titleShortFemale>ﺔﻧﺎﺻﺮﻗ</SpacePirate55.titleShortFemale>
+  
+</LanguageData>

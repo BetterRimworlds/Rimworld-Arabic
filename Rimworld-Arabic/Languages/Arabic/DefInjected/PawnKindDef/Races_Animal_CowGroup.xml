@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison --><!-- EN: bisonte -->
+  <Bison.label>ﻥﻮﺴﻴﺑ</Bison.label>
+  <!-- EN: bison --><!-- EN: bisontes -->
+  <Bison.labelPlural>ﺕﺎﻧﻮﺴﻴﺑ</Bison.labelPlural>
+  <!-- EN: bison calf --><!-- EN: ternero de bisonte -->
+  <Bison.lifeStages.bison_calf.label>ﻥﻮﺴﻴﺑ ﻞﺠﻋ</Bison.lifeStages.bison_calf.label><!-- EN: ternera de bisonte -->
+  <Bison.lifeStages.bison_calf.labelFemale>ﻥﻮﺴﻴﺑ ﺔﻠﺠﻋ</Bison.lifeStages.bison_calf.labelFemale><!-- EN: terneras de bisonte -->
+  <Bison.lifeStages.bison_calf.labelFemalePlural>ﻥﻮﺴﻴﺑ ﺕﻼﺠﻋ</Bison.lifeStages.bison_calf.labelFemalePlural><!-- EN: ternero de bisonte -->
+  <Bison.lifeStages.bison_calf.labelMale>ﻥﻮﺴﻴﺑ ﻞﺠﻋ</Bison.lifeStages.bison_calf.labelMale><!-- EN: terneros de bisonte -->
+  <Bison.lifeStages.bison_calf.labelMalePlural>ﻥﻮﺴﻴﺑ ﻝﻮﺠﻋ</Bison.lifeStages.bison_calf.labelMalePlural>
+  <!-- EN: bison calves --><!-- EN: terneros de bisontes -->
+  <Bison.lifeStages.bison_calf.labelPlural>ﻥﻮﺴﻴﺑ ﻝﻮﺠﻋ</Bison.lifeStages.bison_calf.labelPlural><!-- EN: novillo de bisonte -->
+  <Bison.lifeStages.1.label>ﻥﻮﺴﻴﺑ ﻞﺠﻋ</Bison.lifeStages.1.label><!-- EN: novilla de bisonte -->
+  <Bison.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﻥﻮﺴﻴﺑ ﺔﻠﺠﻋ</Bison.lifeStages.1.labelFemale><!-- EN: novillas de bisonte -->
+  <Bison.lifeStages.1.labelFemalePlural>ﻥﻮﺴﻴﺑ ﺔﻟﻮﺠﻋ</Bison.lifeStages.1.labelFemalePlural><!-- EN: novillo de bisonte -->
+  <Bison.lifeStages.1.labelMale>ﻥﻮﺴﻴﺑ ﻞﺠﻋ</Bison.lifeStages.1.labelMale><!-- EN: novillos de bisonte -->
+  <Bison.lifeStages.1.labelMalePlural>ﻥﻮﺴﻴﺑ ﻝﻮﺠﻋ</Bison.lifeStages.1.labelMalePlural><!-- EN: novillos de bisonte -->
+  <Bison.lifeStages.1.labelPlural>ﻥﻮﺴﻴﺑ ﻝﻮﺠﻋ</Bison.lifeStages.1.labelPlural><!-- EN: bisonte -->
+  <Bison.lifeStages.2.label>ﻥﻮﺴﻴﺑ</Bison.lifeStages.2.label><!-- EN: bisontes -->
+  <Bison.lifeStages.2.labelPlural>ﺕﺎﻧﻮﺴﻴﺑ</Bison.lifeStages.2.labelPlural>
+  
+  <!-- EN: boomalope --><!-- EN: bumalope -->
+  <Boomalope.label>ﺏﻮﻟﺎﻣﻮﺑ</Boomalope.label><!-- EN: bumalopes -->
+  <Boomalope.labelPlural>ﺕﺎﺑﻮﻟﺎﻣﻮﺑ</Boomalope.labelPlural>
+  <!-- EN: boomalope calf --><!-- EN: cría de bumalope -->
+  <Boomalope.lifeStages.boomalope_calf.label>ﺏﻮﻟﺎﻣﻮﺑ ﺮﻴﻐﺻ</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves --><!-- EN: crías de bumalope -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>ﺏﻮﻟﺎﻣﻮﺑ ﺭﺎﻐﺻ</Boomalope.lifeStages.boomalope_calf.labelPlural><!-- EN: bumalope joven -->
+  <Boomalope.lifeStages.1.label>ﺏﺎﺷ ﺏﻮﻟﺎﻣﻮﺑ</Boomalope.lifeStages.1.label><!-- EN: bumalope jóvenes -->
+  <Boomalope.lifeStages.1.labelPlural>ﺔﺑﺎﺷ ﺕﺎﺑﻮﻟﺎﻣﻮﺑ</Boomalope.lifeStages.1.labelPlural><!-- EN: bumalope -->
+  <Boomalope.lifeStages.2.label>ﺏﻮﻟﺎﻣﻮﺑ</Boomalope.lifeStages.2.label><!-- EN: bumalopes -->
+  <Boomalope.lifeStages.2.labelPlural>ﺕﺎﺑﻮﻟﺎﻣﻮﺑ</Boomalope.lifeStages.2.labelPlural>
+  
+  <!-- EN: caribou --><!-- EN: caribú -->
+  <Caribou.label>ﻮﺒﻳﺭﺎﻛ</Caribou.label>
+  <!-- EN: caribou --><!-- EN: caribúes -->
+  <Caribou.labelPlural>ﻮﺒﻳﺭﺎﻛ</Caribou.labelPlural>
+  <!-- EN: caribou calf --><!-- EN: cría de caribú -->
+  <Caribou.lifeStages.caribou_calf.label>ﻮﺒﻳﺭﺎﻜﻟﺍ ﺮﻴﻐﺻ</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves --><!-- EN: crías de caribú -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>ﻮﺒﻳﺭﺎﻜﻟﺍ ﺭﺎﻐﺻ</Caribou.lifeStages.caribou_calf.labelPlural><!-- EN: caribú joven -->
+  <Caribou.lifeStages.1.label>ﺏﺎﺷ ﻮﺒﻳﺭﺎﻛ</Caribou.lifeStages.1.label><!-- EN: caribúes jóvenes -->
+  <Caribou.lifeStages.1.labelPlural>ﻮﺒﻳﺭﺎﻜﻟﺍ ﺭﺎﻐﺻ</Caribou.lifeStages.1.labelPlural><!-- EN: caribú -->
+  <Caribou.lifeStages.2.label>ﻮﺒﻳﺭﺎﻛ</Caribou.lifeStages.2.label><!-- EN: caribúes -->
+  <Caribou.lifeStages.2.labelPlural>ﻮﺒﻳﺭﺎﻛ</Caribou.lifeStages.2.labelPlural>
+  
+  <!-- EN: cow --><!-- EN: vaca -->
+  <Cow.label>ﺮﻘﺑ</Cow.label><!-- EN: vaca -->
+  <Cow.labelFemale>ﺓﺮﻘﺑ</Cow.labelFemale><!-- EN: vacas -->
+  <Cow.labelFemalePlural>ﺕﺍﺮﻘﺑ</Cow.labelFemalePlural>
+  <!-- EN: bull --><!-- EN: toro -->
+  <Cow.labelMale>ﺭﻮﺛ</Cow.labelMale><!-- EN: toros -->
+  <Cow.labelMalePlural>ﻥﺍﺮﻴﺛ</Cow.labelMalePlural><!-- EN: vacas -->
+  <Cow.labelPlural>ﺭﺎﻘﺑﺃ</Cow.labelPlural>
+  <!-- EN: calf --><!-- EN: ternero -->
+  <Cow.lifeStages.calf.label>ﻞﺠﻋ</Cow.lifeStages.calf.label><!-- EN: ternera -->
+  <Cow.lifeStages.calf.labelFemale>ﺔﻠﺠﻋ</Cow.lifeStages.calf.labelFemale><!-- EN: terneras -->
+  <Cow.lifeStages.calf.labelFemalePlural>ﺕﻼﺠﻋ</Cow.lifeStages.calf.labelFemalePlural><!-- EN: ternero -->
+  <Cow.lifeStages.calf.labelMale>ﻞﺠﻋ</Cow.lifeStages.calf.labelMale><!-- EN: terneros -->
+  <Cow.lifeStages.calf.labelMalePlural>ﻝﻮﺠﻋ</Cow.lifeStages.calf.labelMalePlural>
+  <!-- EN: calves --><!-- EN: terneros -->
+  <Cow.lifeStages.calf.labelPlural>ﻝﻮﺠﻋ</Cow.lifeStages.calf.labelPlural><!-- EN: novillo -->
+  <Cow.lifeStages.1.label>ﻞﺠﻋ</Cow.lifeStages.1.label><!-- EN: novilla -->
+  <Cow.lifeStages.1.labelFemale>ﺔﻠﺠﻋ</Cow.lifeStages.1.labelFemale><!-- EN: novillas -->
+  <Cow.lifeStages.1.labelFemalePlural>ﺕﻼﺠﻋ</Cow.lifeStages.1.labelFemalePlural><!-- EN: novillo -->
+  <Cow.lifeStages.1.labelMale>ﻞﺠﻋ</Cow.lifeStages.1.labelMale><!-- EN: novillos -->
+  <Cow.lifeStages.1.labelMalePlural>ﻝﻮﺠﻋ</Cow.lifeStages.1.labelMalePlural><!-- EN: novillos -->
+  <Cow.lifeStages.1.labelPlural>ﻝﻮﺠﻋ</Cow.lifeStages.1.labelPlural><!-- EN: vaca -->
+  <Cow.lifeStages.2.label>ﺮﻘﺑ</Cow.lifeStages.2.label><!-- EN: vaca -->
+  <Cow.lifeStages.2.labelFemale>ﺓﺮﻘﺑ</Cow.lifeStages.2.labelFemale><!-- EN: vacas -->
+  <Cow.lifeStages.2.labelFemalePlural>ﺕﺍﺮﻘﺑ</Cow.lifeStages.2.labelFemalePlural><!-- EN: toro -->
+  <Cow.lifeStages.2.labelMale>ﺭﻮﺛ</Cow.lifeStages.2.labelMale><!-- EN: toros -->
+  <Cow.lifeStages.2.labelMalePlural>ﻥﺍﺮﻴﺛ</Cow.lifeStages.2.labelMalePlural><!-- EN: vacas -->
+  <Cow.lifeStages.2.labelPlural>ﺭﺎﻘﺑﺃ</Cow.lifeStages.2.labelPlural>
+  
+  <!-- EN: donkey --><!-- EN: asno -->
+  <Donkey.label>ﺭﺎﻤﺣ</Donkey.label><!-- EN: asna -->
+  <Donkey.labelFemale>ﻥﺎﺗﺃ</Donkey.labelFemale><!-- EN: asnas -->
+  <Donkey.labelFemalePlural>ﺕﺎﻧﺎﺗﺃ</Donkey.labelFemalePlural><!-- EN: asno -->
+  <Donkey.labelMale>ﺭﺎﻤﺣ</Donkey.labelMale><!-- EN: asnos -->
+  <Donkey.labelMalePlural>ﺮﻴﻤﺣ</Donkey.labelMalePlural><!-- EN: asnos -->
+  <Donkey.labelPlural>ﺮﻴﻤﺣ</Donkey.labelPlural>
+  <!-- EN: donkey foal --><!-- EN: potrillo de asno -->
+  <Donkey.lifeStages.donkey_foal.label>ﺭﺎﻤﺣ ﺮﻬﻣ</Donkey.lifeStages.donkey_foal.label><!-- EN: potrilla de asno -->
+  <Donkey.lifeStages.donkey_foal.labelFemale>ﺭﺎﻤﺣ ﺓﺮﻬﻣ</Donkey.lifeStages.donkey_foal.labelFemale><!-- EN: potrillas de asno -->
+  <Donkey.lifeStages.donkey_foal.labelFemalePlural>ﺭﺎﻤﺣ ﺕﺍﺮﻬﻣ</Donkey.lifeStages.donkey_foal.labelFemalePlural><!-- EN: potrillo de asno -->
+  <Donkey.lifeStages.donkey_foal.labelMale>ﺭﺎﻤﺣ ﺮﻬﻣ</Donkey.lifeStages.donkey_foal.labelMale><!-- EN: potrillos de asno -->
+  <Donkey.lifeStages.donkey_foal.labelMalePlural>ﺭﺎﻤﺣ ﺭﻮﻬﻣ</Donkey.lifeStages.donkey_foal.labelMalePlural><!-- EN: potrillos de asno -->
+  <Donkey.lifeStages.donkey_foal.labelPlural>ﺭﺎﻤﺣ ﺭﻮﻬﻣ</Donkey.lifeStages.donkey_foal.labelPlural><!-- EN: asno joven -->
+  <Donkey.lifeStages.1.label>ﺏﺎﺷ ﺭﺎﻤﺣ</Donkey.lifeStages.1.label><!-- EN: asna joven -->
+  <Donkey.lifeStages.1.labelFemale>ﺔﺑﺎﺷ ﻥﺎﺗﺃ</Donkey.lifeStages.1.labelFemale><!-- EN: asnas jóvenes -->
+  <Donkey.lifeStages.1.labelFemalePlural>ﺔﺑﺎﺷ ﺕﺎﻧﺎﺗﺃ</Donkey.lifeStages.1.labelFemalePlural><!-- EN: asno joven -->
+  <Donkey.lifeStages.1.labelMale>ﺏﺎﺷ ﺭﺎﻤﺣ</Donkey.lifeStages.1.labelMale><!-- EN: asnos jóvenes -->
+  <Donkey.lifeStages.1.labelMalePlural>ﺔﺑﺎﺷ ﺮﻴﻤﺣ</Donkey.lifeStages.1.labelMalePlural><!-- EN: asnos jóvenes -->
+  <Donkey.lifeStages.1.labelPlural>ﺔﺑﺎﺷ ﺮﻴﻤﺣ</Donkey.lifeStages.1.labelPlural><!-- EN: asno -->
+  <Donkey.lifeStages.2.label>ﺭﺎﻤﺣ</Donkey.lifeStages.2.label><!-- EN: asna -->
+  <Donkey.lifeStages.2.labelFemale>ﻥﺎﺗﺃ</Donkey.lifeStages.2.labelFemale><!-- EN: asnas -->
+  <Donkey.lifeStages.2.labelFemalePlural>ﺕﺎﻧﺎﺗﺃ</Donkey.lifeStages.2.labelFemalePlural><!-- EN: asno -->
+  <Donkey.lifeStages.2.labelMale>ﺭﺎﻤﺣ</Donkey.lifeStages.2.labelMale><!-- EN: asnos -->
+  <Donkey.lifeStages.2.labelMalePlural>ﺮﻴﻤﺣ</Donkey.lifeStages.2.labelMalePlural><!-- EN: asnos -->
+  <Donkey.lifeStages.2.labelPlural>ﺮﻴﻤﺣ</Donkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: dromedary --><!-- EN: dromedario -->
+  <Dromedary.label>ﻲﺑﺮﻋ ﻞﻤﺟ</Dromedary.label>
+  <!-- EN: dromedaries --><!-- EN: dromedarios -->
+  <Dromedary.labelPlural>ﺔﻴﺑﺮﻋ ﻝﺎﻤﺟ</Dromedary.labelPlural>
+  <!-- EN: dromedary calf --><!-- EN: cría de dromedario -->
+  <Dromedary.lifeStages.dromedary_calf.label>ﻲﺑﺮﻌﻟﺍ ﻞﻤﺠﻟﺍ ﺮﻴﻐﺻ</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves --><!-- EN: crías de dromedario -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>ﺔﻴﺑﺮﻌﻟﺍ ﻝﺎﻤﺠﻟﺍ ﺭﺎﻐﺻ</Dromedary.lifeStages.dromedary_calf.labelPlural><!-- EN: dromedario joven -->
+  <Dromedary.lifeStages.1.label>ﺏﺎﺷ ﻲﺑﺮﻋ ﻞﻤﺟ</Dromedary.lifeStages.1.label><!-- EN: dromedarios jóvenes -->
+  <Dromedary.lifeStages.1.labelPlural>ﺔﺑﺎﺷ ﺔﻴﺑﺮﻋ ﻝﺎﻤﺟ</Dromedary.lifeStages.1.labelPlural><!-- EN: dromedario -->
+  <Dromedary.lifeStages.2.label>ﻲﺑﺮﻋ ﻞﻤﺟ</Dromedary.lifeStages.2.label><!-- EN: dromedarios -->
+  <Dromedary.lifeStages.2.labelPlural>ﺔﻴﺑﺮﻋ ﻝﺎﻤﺟ</Dromedary.lifeStages.2.labelPlural>
+  
+  <!-- EN: elephant --><!-- EN: elefante -->
+  <Elephant.label>ﻞﻴﻓ</Elephant.label><!-- EN: elefantes -->
+  <Elephant.labelPlural>ﻝﺎﻴﻓﺃ</Elephant.labelPlural>
+  <!-- EN: elephant calf --><!-- EN: cría de elefante -->
+  <Elephant.lifeStages.elephant_calf.label>ﻞﻴﻔﻟﺍ ﺮﻴﻐﺻ</Elephant.lifeStages.elephant_calf.label><!-- EN: crías de elefante -->
+  <Elephant.lifeStages.elephant_calf.labelPlural>ﻝﺎﻴﻓﻷﺍ ﺭﺎﻐﺻ</Elephant.lifeStages.elephant_calf.labelPlural><!-- EN: elefante joven -->
+  <Elephant.lifeStages.1.label>ﺏﺎﺷ ﻞﻴﻓ</Elephant.lifeStages.1.label><!-- EN: elefantes jóvenes -->
+  <Elephant.lifeStages.1.labelPlural>ﺔﺑﺎﺷ ﻝﺎﻴﻓﺃ</Elephant.lifeStages.1.labelPlural><!-- EN: elefante -->
+  <Elephant.lifeStages.2.label>ﻞﻴﻓ</Elephant.lifeStages.2.label><!-- EN: elefantes -->
+  <Elephant.lifeStages.2.labelPlural>ﻝﺎﻴﻓﺃ</Elephant.lifeStages.2.labelPlural>
+  
+  <!-- EN: elk --><!-- EN: uapití -->
+  <Elk.label>ﻲﺘﻴﺑﺍﻭ</Elk.label>
+  <!-- EN: elk --><!-- EN: uapitíes -->
+  <Elk.labelPlural>ﻲﺘﻴﺑﺍﻭ</Elk.labelPlural>
+  <!-- EN: elk calf --><!-- EN: cría de uapití -->
+  <Elk.lifeStages.elk_calf.label>ﻲﺘﻴﺑﺍﻮﻟﺍ ﺮﻴﻐﺻ</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves --><!-- EN: crías de uapití -->
+  <Elk.lifeStages.elk_calf.labelPlural>ﻲﺘﻴﺑﺍﻮﻟﺍ ﺭﺎﻐﺻ</Elk.lifeStages.elk_calf.labelPlural><!-- EN: uapití joven -->
+  <Elk.lifeStages.1.label>ﺏﺎﺷ ﻲﺘﻴﺑﺍﻭ</Elk.lifeStages.1.label><!-- EN: uapitíes jóvenes -->
+  <Elk.lifeStages.1.labelPlural>ﺔﺑﺎﺷ ﻲﺘﻴﺑﺍﻭ</Elk.lifeStages.1.labelPlural><!-- EN: uapití -->
+  <Elk.lifeStages.2.label>ﻲﺘﻴﺑﺍﻭ</Elk.lifeStages.2.label><!-- EN: uapitíes -->
+  <Elk.lifeStages.2.labelPlural>ﺕﺎﻴﺘﻴﺑﺍﻭ</Elk.lifeStages.2.labelPlural>
+  
+  <!-- EN: goat --><!-- EN: cabra -->
+  <Goat.label>ﺰﻋﺎﻣ</Goat.label>
+  <!-- EN: goat doe --><!-- EN: cabra -->
+  <Goat.labelFemale>ﺓﺰﻋﺎﻣ</Goat.labelFemale><!-- EN: cabras -->
+  <Goat.labelFemalePlural>ﺕﺍﺰﻋﺎﻣ</Goat.labelFemalePlural><!-- EN: cabrito -->
+  <Goat.labelMale>ﺲﻴﺗ</Goat.labelMale><!-- EN: cabritos -->
+  <Goat.labelMalePlural>ﺱﻮﻴﺗ</Goat.labelMalePlural><!-- EN: cabras -->
+  <Goat.labelPlural>ﺕﺍﺰﻋﺎﻣ</Goat.labelPlural>
+  <!-- EN: baby goat --><!-- EN: cría de cabra -->
+  <Goat.lifeStages.baby_goat.label>ﺰﻋﺎﻤﻟﺍ ﺮﻴﻐﺻ</Goat.lifeStages.baby_goat.label><!-- EN: crías de cabra -->
+  <Goat.lifeStages.baby_goat.labelPlural>ﺰﻋﺎﻤﻟﺍ ﺭﺎﻐﺻ</Goat.lifeStages.baby_goat.labelPlural><!-- EN: cabra joven -->
+  <Goat.lifeStages.1.label>ﺮﻴﻐﺻ ﺰﻋﺎﻣ</Goat.lifeStages.1.label><!-- EN: cabra joven -->
+  <Goat.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺓﺰﻋﺎﻣ</Goat.lifeStages.1.labelFemale><!-- EN: cabras jóvenes -->
+  <Goat.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺕﺍﺰﻋﺎﻣ</Goat.lifeStages.1.labelFemalePlural><!-- EN: cabrito joven -->
+  <Goat.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺲﻴﺗ</Goat.lifeStages.1.labelMale><!-- EN: cabritos jóvenes -->
+  <Goat.lifeStages.1.labelMalePlural>ﺭﺎﻐﺻ ﺱﻮﻴﺗ</Goat.lifeStages.1.labelMalePlural><!-- EN: cabras jóvenes -->
+  <Goat.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﺕﺍﺰﻋﺎﻣ</Goat.lifeStages.1.labelPlural><!-- EN: cabra -->
+  <Goat.lifeStages.2.label>ﺰﻋﺎﻣ</Goat.lifeStages.2.label><!-- EN: cabra -->
+  <Goat.lifeStages.2.labelFemale>ﺓﺰﻋﺎﻣ</Goat.lifeStages.2.labelFemale><!-- EN: cabras -->
+  <Goat.lifeStages.2.labelFemalePlural>ﺕﺍﺰﻋﺎﻣ</Goat.lifeStages.2.labelFemalePlural><!-- EN: cabrito -->
+  <Goat.lifeStages.2.labelMale>ﺲﻴﺗ</Goat.lifeStages.2.labelMale><!-- EN: cabritos -->
+  <Goat.lifeStages.2.labelMalePlural>ﺱﻮﻴﺗ</Goat.lifeStages.2.labelMalePlural><!-- EN: cabras -->
+  <Goat.lifeStages.2.labelPlural>ﺕﺍﺰﻋﺎﻣ</Goat.lifeStages.2.labelPlural>
+  
+  <!-- EN: horse --><!-- EN: caballo -->
+  <Horse.label>ٌﻥﺍـَﺹـَﺡ</Horse.label>
+  <!-- EN: mare --><!-- EN: yegua -->
+  <Horse.labelFemale>ﺱﺮﻓ</Horse.labelFemale><!-- EN: yeguas -->
+  <Horse.labelFemalePlural>ﺱﺍﺮﻓﺃ</Horse.labelFemalePlural>
+  <!-- EN: stallion --><!-- EN: semental -->
+  <Horse.labelMale>ﻞﺤﻓ</Horse.labelMale><!-- EN: sementales -->
+  <Horse.labelMalePlural>ﻝﻮﺤﻓ</Horse.labelMalePlural><!-- EN: caballos -->
+  <Horse.labelPlural>ﻝﻮﻴﺧ</Horse.labelPlural>
+  <!-- EN: foal --><!-- EN: potro -->
+  <Horse.lifeStages.foal.label>ﺮﻬﻣ</Horse.lifeStages.foal.label><!-- EN: potra -->
+  <Horse.lifeStages.foal.labelFemale>ﺓﺮﻬﻣ</Horse.lifeStages.foal.labelFemale><!-- EN: potras -->
+  <Horse.lifeStages.foal.labelFemalePlural>ﺕﺍﺮﻬﻣ</Horse.lifeStages.foal.labelFemalePlural><!-- EN: potro -->
+  <Horse.lifeStages.foal.labelMale>ﺮﻬﻣ</Horse.lifeStages.foal.labelMale><!-- EN: potros -->
+  <Horse.lifeStages.foal.labelMalePlural>ﺭﻮﻬﻣ</Horse.lifeStages.foal.labelMalePlural><!-- EN: potros -->
+  <Horse.lifeStages.foal.labelPlural>ﺭﻮﻬﻣ</Horse.lifeStages.foal.labelPlural><!-- EN: caballo joven -->
+  <Horse.lifeStages.1.label>ﺮﻴﻐﺻ ﻥﺎﺼﺣ</Horse.lifeStages.1.label><!-- EN: yegua joven -->
+  <Horse.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺱﺮﻓ</Horse.lifeStages.1.labelFemale><!-- EN: yeguas jóvenes -->
+  <Horse.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺻ ﺱﺍﺮﻓﺃ</Horse.lifeStages.1.labelFemalePlural><!-- EN: semental joven -->
+  <Horse.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻞﺤﻓ</Horse.lifeStages.1.labelMale><!-- EN: sementales jóvenes -->
+  <Horse.lifeStages.1.labelMalePlural>ﺭﺎﻐﺻ ﻝﻮﺤﻓ</Horse.lifeStages.1.labelMalePlural><!-- EN: caballos jóvenes -->
+  <Horse.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻝﻮﻴﺧ</Horse.lifeStages.1.labelPlural><!-- EN: caballo -->
+  <Horse.lifeStages.2.label>ٌﻥﺍـَﺹـَﺡ</Horse.lifeStages.2.label><!-- EN: yegua -->
+  <Horse.lifeStages.2.labelFemale>ﺓَﻭُﻏَﻳ</Horse.lifeStages.2.labelFemale><!-- EN: yeguas -->
+  <Horse.lifeStages.2.labelFemalePlural>ﺱﺍﺮﻓﺃ</Horse.lifeStages.2.labelFemalePlural><!-- EN: semental -->
+  <Horse.lifeStages.2.labelMale>ﻞﺤﻓ</Horse.lifeStages.2.labelMale><!-- EN: sementales -->
+  <Horse.lifeStages.2.labelMalePlural>ﻝﻮﺤﻓ</Horse.lifeStages.2.labelMalePlural><!-- EN: caballos -->
+  <Horse.lifeStages.2.labelPlural>ﻝﻮﻴﺧ</Horse.lifeStages.2.labelPlural>
+  
+  <!-- EN: muffalo --><!-- EN: múfalo -->
+  <Muffalo.label>ﻮﻟﺎﻓﻮﻣ</Muffalo.label><!-- EN: múfalo -->
+  <Muffalo.labelFemale>ﻮﻟﺎﻓُﻣ</Muffalo.labelFemale><!-- EN: múfalos -->
+  <Muffalo.labelFemalePlural>ﺱﻮﻟﺎﻓُﻣ</Muffalo.labelFemalePlural><!-- EN: múfalo -->
+  <Muffalo.labelMale>ﻮﻟﺎﻓﻮﻣ</Muffalo.labelMale><!-- EN: múfalos -->
+  <Muffalo.labelMalePlural>ﺱﻮﻟﺎﻓﻮﻣ</Muffalo.labelMalePlural>
+  <!-- EN: muffalo --><!-- EN: múfalos -->
+  <Muffalo.labelPlural>ﺕﺍﻮﻟﺎﻓﻮﻣ</Muffalo.labelPlural>
+  <!-- EN: muffalo calf --><!-- EN: ternero de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.label>ﻮﻟﺎﻓُﻣ ﻞﺠﻋ</Muffalo.lifeStages.muffalo_calf.label><!-- EN: ternera de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>ﺓﺮﻴﻐﺻ ﻮﻟﺎﻓُﻣ ﺔﻠﺠﻋ</Muffalo.lifeStages.muffalo_calf.labelFemale><!-- EN: terneras de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>ﻮﻟﺎﻓﻮﻤﻟﺍ ﺕﻼّﺠﻋ</Muffalo.lifeStages.muffalo_calf.labelFemalePlural><!-- EN: ternero de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelMale>ﻮﻟﺎﻓُﻣ ﻞﺠﻋ</Muffalo.lifeStages.muffalo_calf.labelMale><!-- EN: terneros de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>ﻮﻟﺎﻓﻮﻤﻟﺍ ﺭﺎﻐﺻ</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <!-- EN: muffalo calves --><!-- EN: terneros de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>ﻮﻟﺎﻓﻮﻤﻟﺍ ﺭﺎﻐﺻ</Muffalo.lifeStages.muffalo_calf.labelPlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.1.label>ﻮﻟﺎﻓُﻣ ﻞﺠﻋ</Muffalo.lifeStages.1.label><!-- EN: novilla de múfalo -->
+  <Muffalo.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺼﻟﺍ ﻮﻟﺎﻓُﻣ ﺔﻠﺠﻋ</Muffalo.lifeStages.1.labelFemale><!-- EN: novillas de múfalo -->
+  <Muffalo.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺼﻟﺍ ﻮﻟﺎﻓﻮﻤﻟﺍ ﺔﻟﻮﺠﻋ</Muffalo.lifeStages.1.labelFemalePlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.1.labelMale>ﻮﻟﺎﻓُﻣ ﻞﺠﻋ</Muffalo.lifeStages.1.labelMale><!-- EN: novillos de múfalo -->
+  <Muffalo.lifeStages.1.labelMalePlural>ﻮﻟﺎﻓُﻣ ﻝﻮﺟُﻋ</Muffalo.lifeStages.1.labelMalePlural><!-- EN: novillos de múfalo -->
+  <Muffalo.lifeStages.1.labelPlural>ﻮﻟﺎﻓُﻣ ﻥﺍﺮﻴﺛ</Muffalo.lifeStages.1.labelPlural><!-- EN: múfalo -->
+  <Muffalo.lifeStages.2.label>ﻮﻟﺎﻓﻮﻣ</Muffalo.lifeStages.2.label><!-- EN: múfalos -->
+  <Muffalo.lifeStages.2.labelPlural>ﺱﻮﻟﺎﻓﻮﻣ</Muffalo.lifeStages.2.labelPlural>
+  
+  <!-- EN: rhinoceros --><!-- EN: rinoceronte -->
+  <Rhinoceros.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ</Rhinoceros.label>
+  <!-- EN: rhinoceroses --><!-- EN: rinocerontes -->
+  <Rhinoceros.labelPlural>ﻥﺮﻘﻟﺍ ﺕﺍﺪﻴﺣﻭ</Rhinoceros.labelPlural><!-- EN: cría de rinoceronte -->
+  <Rhinoceros.lifeStages.0.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ ﺮﻴﻐﺻ</Rhinoceros.lifeStages.0.label><!-- EN: crías de rinoceronte -->
+  <Rhinoceros.lifeStages.0.labelPlural>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ ﺭﺎﻐﺻ</Rhinoceros.lifeStages.0.labelPlural><!-- EN: rinoceronte joven -->
+  <Rhinoceros.lifeStages.1.label>ﺮﻴﻐﺻ ﻥﺮﻗ ﺪﻴﺣﻭ</Rhinoceros.lifeStages.1.label><!-- EN: rinocerontes jóvenes -->
+  <Rhinoceros.lifeStages.1.labelPlural>ﺓﺮﻴﻐﺻ ﻥﺮﻗ ﺕﺍﺪﻴﺣﻭ</Rhinoceros.lifeStages.1.labelPlural><!-- EN: rinoceronte -->
+  <Rhinoceros.lifeStages.2.label>ﻥﺮﻘﻟﺍ ﺪﻴﺣﻭ</Rhinoceros.lifeStages.2.label><!-- EN: rinocerontes -->
+  <Rhinoceros.lifeStages.2.labelPlural>ﻥﺮﻘﻟﺍ ﺕﺍﺪﻴﺣﻭ</Rhinoceros.lifeStages.2.labelPlural>
+  
+  <!-- EN: yak --><!-- EN: yak -->
+  <Yak.label>ﻙﺎﻳ</Yak.label>
+  <!-- EN: yak --><!-- EN: yak -->
+  <Yak.labelMale>ﻙﺎﻳ</Yak.labelMale><!-- EN: yaks -->
+  <Yak.labelPlural>ﻙﺎﻳ</Yak.labelPlural>
+  <!-- EN: yak calf --><!-- EN: ternero de yak -->
+  <Yak.lifeStages.yak_calf.label>ﻙﺎﻴﻟﺍ ﻞﺠﻋ</Yak.lifeStages.yak_calf.label><!-- EN: ternera de yak -->
+  <Yak.lifeStages.yak_calf.labelFemale>ﺓﺮﻴﻐﺻ ﻙﺎﻳ ﺔﻠﺠﻋ</Yak.lifeStages.yak_calf.labelFemale><!-- EN: terneras de yak -->
+  <Yak.lifeStages.yak_calf.labelFemalePlural>ﺓﺮﻴﻐﺼﻟﺍ ﻙﺎﻴﻟﺍ ﺕﻼﺠﻋ</Yak.lifeStages.yak_calf.labelFemalePlural><!-- EN: ternero de yak -->
+  <Yak.lifeStages.yak_calf.labelMale>ﻙﺎﻴﻟﺍ ﻞﺠﻋ</Yak.lifeStages.yak_calf.labelMale><!-- EN: terneros de yak -->
+  <Yak.lifeStages.yak_calf.labelMalePlural>ﺓﺮﻴﻐﺼﻟﺍ ﻙﺎﻴﻟﺍ ﻝﻮﺠﻋ</Yak.lifeStages.yak_calf.labelMalePlural>
+  <!-- EN: yak calves --><!-- EN: terneros de yak -->
+  <Yak.lifeStages.yak_calf.labelPlural>ﻙﺎﻴﻟﺍ ﺭﺎﻐﺻ</Yak.lifeStages.yak_calf.labelPlural><!-- EN: novillo de yak -->
+  <Yak.lifeStages.1.label>ﻙﺎﻴﻟﺍ ﻞﺠﻋ</Yak.lifeStages.1.label><!-- EN: novilla de yak -->
+  <Yak.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺼﻟﺍ ﻙﺎﻳ ﺔﻠﺠﻋ</Yak.lifeStages.1.labelFemale><!-- EN: novillas de yak -->
+  <Yak.lifeStages.1.labelFemalePlural>ﺓﺮﻴﻐﺼﻟﺍ ﻙﺎﻴﻟﺍ ﺕﻻﺍّﺠﻋ</Yak.lifeStages.1.labelFemalePlural><!-- EN: novillo de yak -->
+  <Yak.lifeStages.1.labelMale>ﻙﺎﻴﻟﺍ ﻞﺠﻋ</Yak.lifeStages.1.labelMale><!-- EN: novillos de yak -->
+  <Yak.lifeStages.1.labelMalePlural>ﻙﺎﻴﻟﺍ ﻝﻮﺠﻋ</Yak.lifeStages.1.labelMalePlural><!-- EN: novillos de yak -->
+  <Yak.lifeStages.1.labelPlural>ﻙﺎﻴﻟﺍ ﻝﻮﺠﻋ</Yak.lifeStages.1.labelPlural><!-- EN: yak -->
+  <Yak.lifeStages.2.label>ﻙﺎﻳ</Yak.lifeStages.2.label><!-- EN: yaks -->
+  <Yak.lifeStages.2.labelPlural>ﻙﺎﻳ</Yak.lifeStages.2.labelPlural>
+  
+</LanguageData>

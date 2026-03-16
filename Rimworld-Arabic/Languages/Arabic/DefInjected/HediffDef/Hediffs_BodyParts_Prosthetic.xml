@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>ﺔﻌﻗﻮﻗ ﺔﻋﺍﺭﺯ</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>. ﻢﻤﺼﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﻪﻨﻜﻟﻭ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻥﺫﻷﺍ ﻞﺜﻣ ﺍًﺪﻴﺟ ﺲﻴﻟ ﻪﻧﺇ. ﻊﻤﺴﻟﺎﺑ ﺍًﺳﺎﺴﺣﺇ ﻖﻠﺨﻳ ﺎﻤﻣ ،ﺕﻮﺼﻠﻟ ﺍًﻘﻓﻭ ﺏﺎﺼﻋﻷﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺏﺎﻄﻗﻷﺍ ﺰﻔﺤﺗ. ﺔﻴﻠﺧﺍﺪﻟﺍ ﻥﺫﻷﺍ ﻲﻓ ﺔﻴﺴﺤﻟﺍ ﻊﻤﺴﻟﺍ ﺏﺎﺼﻋﺃ ﻝﻮﺣ ﺔﻔﺘﻠﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺏﺎﻄﻗﺃ ﻰﻟﺇ ﺔﻴﺗﻮﺻ ﺓﺭﺎﺷﺇ ﻲﺟﺭﺎﺧ ﻥﻮﻓﻭﺮﻜﻴﻣ ﻞﻘﻨﻳ. ﺔﺘﺒﺜﻣ ﺔﻌﻗﻮﻗ ﺔﻋﺭﺯ</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>ﺔﻌﻗﻮﻗ ﺔﻋﺭﺯ</CochlearImplant.labelNoun>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ</Joywire.label>
+  <!-- EN: An installed joywire implant. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>. ﺎﻬﻠﻤﻛﺄﺑ ﺕﺎﻓﺎﻘﺛ ﺮﻴﻣﺪﺘﺑ ﺔﻓﻭﺮﻌﻣﻭ ،ﻢﻟﺍﻮﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺔﺠﻬﺒﻟﺍ ﻙﻼﺳﺃ. ﺍًﺒﻌﺻ ﺍًﺮﻣﺃ ﻲﻘﻴﻘﺣ ﺀﻴﺷ ﻱﺃ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﻞﻌﺠﻳ ﺍﺬﻫ ﺓﺩﺎﻌﺴﻟﺍ ﺀﺎﻄﻏ َّﻥﺈﻓ ،ﻡﺪﺨﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ ﻦﻣ ﺮﻴﺒﻛ ٍﻞﻜﺸﺑ ﻥِّﺴﺤﻳ ﺎﻤﻨﻴﺑﻭ. ﺕَّﺒﺛُﻣ ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ ﻉﺭﺯ</Joywire.description>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>ﺔﺠﻬﺒﻟﺍ ﻚﻠﺳ</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>ﻢﻟﺃ ﻦﻜﺴﻣ</Painstopper.label>
+  <!-- EN: An installed painstopper implant. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>. ﺔﻐﻟﺎﺑ ﺔﻟﻮﻬﺳﻭ ﺓﺪﺸﺑ ﻯﺫﺄﺘﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ،ﻪﺑ ﺮﻌﺸﺗ ﻻ ﺎﻣﺪﻨﻋ. ﺽﺮﻏ ﻪﻟ ﻢﻟﻷﺍ ﻥﺃ ﺢﻀﺗﺍ ،ﺪﻳﺰﻤﻟﺍ ﺯﺎﺠﻧﺈﺑ ﻡﺪﺨﺘﺴﻤﻠﻟ ﺢﻤﺴﻳ ﻪﻧﺃ ﻦﻴﺣ ﻲﻓ. ﺕَّﺒﺛُﻣ ﻢﻟﻸﻟ ﻥِّﻜﺳُﻣ ﻉﺭﺯ</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>ﻢﻟﺃ ﻦﻜﺴﻣ</Painstopper.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>ﺔﻗﺎﻃ ﺐﻠﺨﻣ</PowerClaw.label>
+  <!-- EN: An installed power claw consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>. ﺍًﻠﻴﻠﻗ ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﻳ ﺢﻳﺮﻤﻟﺍ ﺮﻴﻏ ﻪﻤﺠﺣ ﻥﺈﻓ ﻚﻟﺫ ﻊﻣﻭ ،ﺔﻴﻟﺎﺘﻘﻟﺍ ﺮﻴﻏ ﻡﺎﻬﻤﻠﻟ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺪﻴﻟﺍ ﻞﺜﻣ ﺍًﺪﻴﻔﻣ ﻪﻠﻌﺠﻳ ﺎﻤﻣ ،ﺐﻟﺎﺨﻤﻟﺍ ﺐﺤﺳ ﻦﻜﻤﻳ. ﺔﻀﻴﺑ ﺪﻴﻟﺍ ﻖﺤﺴﺗ ﺎﻤﻛ ﺔﻤﺠﻤﺠﻟﺍ ﻖﺤﺴﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﻱﻮﻗ ﻮﻫﻭ ،ﻖﻤﻌﺑ ﻊﻄﻘﻳ. ﻊﺒﺻﺇ ﻞﻛ ﻰﻠﻋ ﻑﻮﻘﻌﻣ ﺐﻠﺨﻤﺑ ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﺪﻳ ﻦﻣ ﻥﻮﻜﺘﻳ ﺖﺒﺜﻣ ﺔﻗﺎﻃ ﺐﻠﺨﻣ</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>ﺐﻠﺨﻣ</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>ﺔﻗﺎﻃ ﺐﻠﺨﻣ</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>. ﺔﻴﻘﻴﻘﺤﻟﺍ ﻉﺍﺭﺬﻟﺍ ﻦﻣ ﻰﻧﺩﺃ ﻮﻬﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻳﺎﻐﻠﻟ ﻊﻨﻘﻣ ﻞﻜﺸﺑ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻛﺮﺤﻟﺍ ﺪﻴﻠﻘﺘﺑ ﻪﻟ ﺢﻤﺴﻳ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻞﺻﺎﻔﻤﻟﺍ ﻦﻣ ﺪﻘﻌﻤﻟﺍ ﻪﺒﻴﺗﺮﺗ ﻥﺃ ﻻﺇ ،ﺔﻴﺒﺼﻋ ﺔﻬﺟﺍﻭ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻉﺍﺭﺬﻠﻟ ﺖﺒﺜﻣ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>ﺔﻀﺒﻗ</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>ﻉﺍﺭﺬﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>. ﻞﻳﺪﺒﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻪﻨﻜﻟ ،ﺐﻌﺘﻟﺎﺑ ﺭﻮﻌﺸﻟﺍ ﻦﻣ ﻥﻮﻣﺪﺨﺘﺴﻤﻟﺍ ﻮﻜﺸﻳ ﺎﻣ ﺍًﺮﻴﺜﻛ. ﻢﺴﺠﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﺳﻼﺴﺑ ﻡﺪﻟﺍ ﺦﻀﻳ ﻲﺋﺎﺑﺮﻬﻛ ﻙﺮﺤﻣ ﻰﻠﻋ ﻱﻮﺘﺤﻳ. ﺖﺒﺜﻣ ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>. ﺔﻴﻘﻴﻘﺤﻟﺍ ﻕﺎﺴﻟﺍ ﻦﻣ ﻰﻧﺩﺃ ﻮﻬﻓ ،ﻚﻟﺫ ﻊﻣﻭ. ﺔﻳﺎﻐﻠﻟ ﻊﻨﻘﻣ ﻞﻜﺸﺑ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻛﺮﺤﻟﺍ ﺪﻴﻠﻘﺘﺑ ﻪﻟ ﺢﻤﺴﻳ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻞﺻﺎﻔﻤﻟﺍ ﻦﻣ ﺪﻘﻌﻤﻟﺍ ﻪﺒﻴﺗﺮﺗ ﻥﺃ ﻻﺇ ،ﺔﻴﺒﺼﻋ ﺔﻬﺟﺍﻭ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ. ﻕﺎﺴﻠﻟ ﺖﺒﺜﻣ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>ﻕﺎﺴﻠﻟ ﻲﻋﺎﻨﻄﺻﺍ ﻑﺮﻃ</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>

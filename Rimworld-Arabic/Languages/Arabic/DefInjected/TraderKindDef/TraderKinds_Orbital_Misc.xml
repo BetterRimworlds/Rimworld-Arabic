@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulk goods trader -->
+  <Orbital_BulkGoods.label>ﺔﻠﻤﺠﻟﺎﺑ ﻊﺋﺎﻀﺑ ﺮﺟﺎﺗ</Orbital_BulkGoods.label>
+  
+  <!-- EN: combat supplier -->
+  <Orbital_CombatSupplier.label>ﺔﻴﻟﺎﺘﻗ ﺕﺎﻣﺰﻠﺘﺴﻣ ﺩﺭﻮﻣ</Orbital_CombatSupplier.label>
+  
+  <!-- EN: exotic goods trader -->
+  <Orbital_Exotic.label>ﺔﺒﻳﺮﻏ ﻊﻠﺳ ﺮﺟﺎﺗ</Orbital_Exotic.label>
+  
+  <!-- EN: slave ship -->
+  <Orbital_PirateMerchant.label>ﺪﻴﺒﻋ ﺔﻨﻴﻔﺳ</Orbital_PirateMerchant.label>
+  
+</LanguageData>

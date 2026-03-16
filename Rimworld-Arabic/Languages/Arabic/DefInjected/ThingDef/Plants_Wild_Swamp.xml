@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>ﺔﻘﻧﺎﺧ ﺔﻣﺮﻛ</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>. ﻡﻼﻈﻟﺍ ﻝﻮﻠﺣ ﻞﺒﻗ ﻝﺰﻨﻤﻟﺍ ﻰﻟﺇ ﻢﻬﺗﺩﺎﻋﺇﻭ ﻝﺎﻔﻃﻷﺍ ﺐﻴﻫﺮﺘﻟ ﺔﻠﻴﺳﻮﻛ ،ﻞﻴﻠﻟﺍ ﻲﻓ ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻝﺎﻔﻃﻷﺍ ﻖﻨﺨﺗ ﻲﺘﻟﺍ ﺔﻘﻧﺎﺨﻟﺍ ﻡﻭﺮﻜﻟﺍ ﻦﻋ ﺍًﺼﺼﻗ ﻞﻘﺘﺴﻣ ﻞﻜﺸﺑ ﺕﺮﻜﺘﺑﺍ ﻞﺋﺎﺒﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ. ﺎﻬﻗﻮﻓ ﻙﺮﺤﺘﻳ ﺺﺨﺷ ﻱﺃ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺔﻘﻧﺎﺨﻟﺍ ﻡﻭﺮﻜﻟﺍ ﺊﻄﺒﺗ. ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺮﻴﺒﻛ ﻞﺘﻛ ﻲﻓ ﻒﺘﻠﺗﻭ ﻝﺎﺒﺤﻟﺍ ﻪﺒﺸﺗ ﻲﺘﻟﺍ ﺔﻜﺋﺎﺸﻟﺍ ﻡﻭﺮﻜﻟﺍ ﻦﻣ ﺔﻜﺑﺎﺸﺘﻣ ﻞﺘﻛ</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>ﻭﺮﺴﻟﺍ ﺓﺮﺠﺷ</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>. ﺎﻬﺠﺘﻨﺗ ﻲﺘﻟﺍ ﺓﺪﻴﻔﻤﻟﺍ ﺐﺸﺨﻟﺍ ﺔﻴﻤﻜﻟ ﺍًﺮﻈﻧ ًﻼﻴﺌﺿ ﺍًﺪﻬﺟ ﺐﻠﻄﺘﻳ ﻞﺟﻷﺍ ﻞﻳﻮﻃ ﺭﺎﻤﺜﺘﺳﺎﻛ ﺔﺤﺑﺮﻣ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﺭﺎﺠﺷﻷﺍ ﻩﺬﻫ ﺔﻋﺍﺭﺯ ﻥﺈﻓ ،ﺎﻫﻮﻤﻧ ﺀﻄﺑ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ. ﺕﺎﻌﻘﻨﺘﺴﻤﻟﺍ ﻲﻓ ﺍًﺒﻟﺎﻏ ﺪﺟﻮﺗ ﺔﻠﻳﻮﻃ ﺔﻳﺮﺑﻮﻨﺻ ﺓﺮﺠﺷ</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>ﺐﻘﻴﻗ ﺓﺮﺠﺷ</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>. ﺓﺰﻴﻤﻤﻟﺍ ﺱﻭﺅﺮﻟﺍ ﺔﻴﺛﻼﺛ ﺎﻬﻗﺍﺭﻭﺄﺑ ﺎﻬﻴﻠﻋ ﻑﺮﻌﺘﻟﺍ ﻞﻬﺴﻳ ،ﺔﻌﺋﺎﺷ ﻢﺠﺤﻟﺍ ﺔﻄﺳﻮﺘﻣ ﺓﺮﺠﺷ</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>ﻑﺎﺼﻔﺼﻟﺍ ﺓﺮﺠﺷ</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>. ﺪﻴﻔﻤﻟﺍ ﺐﺸﺨﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺞﺘﻨﺗ ﻻ ﺎﻬﻨﻜﻟ ،ًﺔﻠﻴﻤﺟﻭ ًﺔﻗﺭﻮﻣ ًﺔﻠﻈﻣ ﺭّﻓﻮﺗ ﺫﺇ ،ﺍًﻮﻤﻧ ﻞﻈﻟﺍ ﺭﺎﺠﺷﺃ ﻉﺮﺳﺃ ﻦﻣ ﻑﺎﺼﻔﺼﻟﺍ ﺭﺎﺠﺷﺃ ّﺪﻋُﺗ</Plant_TreeWillow.description>
+  
+</LanguageData>

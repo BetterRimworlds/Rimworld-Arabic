@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>ﻲﻤﻴﻠﻌﺗ</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>ﺓﺪﻳﺪﺟ ﺓﺮﻤﻌﺘﺴﻣ</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>ﺔﺒﻌﻠﻟ ﺓﺩﻮﻌﻟﺍ</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>ﺔﻌﺟﺍﺮﻣ ﻮﻳﺭﺎﻨﻴﺳ</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>ﻆﻔﺣ</Save>
+  <!-- EN: Load game -->
+  <LoadGame>ﺔﺒﻌﻠﻟﺍ ﻞﻴﻤﺤﺗ</LoadGame>
+  <!-- EN: Options -->
+  <Options>ﺕﺍﺭﺎﻴﺧ</Options>
+  <!-- EN: Mod -->
+  <Mod>ﻞﻳﺪﻌﺗ</Mod>
+  <!-- EN: Mods -->
+  <Mods>ﺕﻼﻳﺪﻌﺗ</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>ﺔﻤﺟﺮﺘﻟﺍ ﺮﻳﺮﻘﺗ ﻆﻔﺣﺍ</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>ﺔﺟﺮﺣ ﺪﻋﺍﻮﻗ</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﻒﻴﻈﻨﺗ</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>TKey) (ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﺚﻳﺪﺤﺗ</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﻒﻴﻈﻨﺗ</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>ﺭﻮﻄﻤﻠﻟ ﻊﻳﺮﺳ ﺭﺎﺒﺘﺧﺍ</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>ﺪﻴﺻﺭ</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>ﺔﻤﺋﺎﻘﻟﺍ ﻰﻟﺇ ﺝﺮﺧﺍﻭ ﻆﻔﺣﺍ</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>ﻞﻴﻐﺸﺘﻟﺍ ﻡﺎﻈﻧ ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>ﻞﻴﻐﺸﺘﻟﺍ ﻡﺎﻈﻧ ﻰﻟﺇ ﺝﺮﺧﺍﻭ ﻆﻔﺣﺍ</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>ﺔﻴﻟﺎﻴﺧ ﺔﻣﺪﻘﻣ</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>ﻥﻮﻳﺩﻮﻟ ﺔﻧﻭﺪﻣ</LudeonBlog>
+  <!-- EN: Subreddit -->
+  <Subreddit>ﻲﻋﺮﻓ ﻯﺪﺘﻨﻣ</Subreddit>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>ﻲﻤﺳﺭ ﻲﻜﻳﻭ</OfficialWiki>
+  <!-- EN: Tynan's X -->
+  <TynansX>ﻥﺎﻳﺎﺗ X </TynansX>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>ﻥﺎﻨﻳﺎﺗ ﻢﻴﻤﺼﺗ ﺏﺎﺘﻛ</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>ﺔﺟﺮﺣ ﺪﻋﺍﻮﻗ</HelpTranslate>
+  <!-- EN: Create world -->
+  <CreateWorld>ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</CreateWorld>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>ﺔﻳﺮﻳﻮﺼﺗ ﻰﻘﻴﺳﻮﻣ ﺀﺍﺮﺷ</BuySoundtrack>
+  <!-- EN: RimWorld Soundtrack -->
+  <BuySoundtrack_Classic>ﺔﺒﻌﻠﻟﺍ ﻰﻘﻴﺳﻮﻣ</BuySoundtrack_Classic>
+  <!-- EN: RimWorld - Royalty Soundtrack -->
+  <BuySoundtrack_Royalty>RimWorld - Royalty ـﻝ ﺔﻳﺮﻳﻮﺼﺗ ﻰﻘﻴﺳﻮﻣ</BuySoundtrack_Royalty>
+  <!-- EN: RimWorld - Anomaly Soundtrack -->
+  <BuySoundtrack_Anomaly>ﺓﺫﺎﺸﻟﺍ ﺓﺮﻫﺎﻈﻠﻟ ﺔﻳﺮﻳﻮﺼﺗ ﻰﻘﻴﺳﻮﻣ</BuySoundtrack_Anomaly>
+  <!-- EN: RimWorld - Odyssey Soundtrack -->
+  <BuySoundtrack_Odyssey>ﺪﻟﺭﻭﻮﻤﻳﺭ ﻲﺴﻳﺩﻭﺃ ﺔﻳﺮﻳﻮﺼﺗ ﻰﻘﻴﺳﻮﻣ</BuySoundtrack_Odyssey>
+  
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>: ﻥﻮﻴﻟﺎﺘﻟﺍ ﻥﻮﻌﺋﺍﺮﻟﺍ ﻥﻮﻋﻮﻄﺘﻤﻟﺍ ﺎﻫﺰﺠﻧﺃ ﺔﻤﺟﺮﺘﻟﺍ ﻩﺬﻫ. ﻦﻴﺒﺠﻌﻤﻟﺍ ﻊﻨﺻ ﻦﻣ RimWorld ﺕﺎﻤﺟﺮﺗ ﻊﻴﻤﺟ\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>).ﺐﻳﻮﻟﺍ ﺢﻔﺼﺘﻣ ﺢﺘﻔﻳ (ﺪﻳﺰﻤﻟﺍ ﺔﻓﺮﻌﻤﻟ ﻩﺎﻧﺩﺃ ﺮﻘﻧﺍ. ﺍًﻀﻳﺃ ﺔﻤﻫﺎﺴﻤﻟﺍ ﻚﻨﻜﻤﻳ</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻑّﺮﻌﺗ</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>. ﺍًﻴﻨﻘﺗ ﺍًﺮﻳﻮﻄﺗﻭ ﻢﻴﻤﺼﺗ ﺏﺭﺎﺠﺗ ﻱﺮﺠﻧ ﺎﻨﻧﺃ ﻲﻨﻌﻳ ﺍﺬﻫ. ﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺮﻳﻮﻄﺗ ﺭﺍﺪﺻﺇ ﺍﺬﻫ: ﺮﻳﺬﺤﺗ\n\n. ﺔﻴﺋﺎﻬﻨﻟﺍ ﻥﺯﺍﻮﺘﻟﺍ ﻁﺎﻘﻧ ﺪﻳﺪﺤﺘﻟ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻩﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻟﺫ ﺪﻌﺑ ﺎﻨﻨﻜﻤﻳ. ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻥﺯﺍﻮﺘﻟﺍ ﺩﻭﺪﺣ ﻢﻬﻔﻟ ﻥﺯﺍﻮﺘﻟﺍ ﺮﻴﻴﻐﺗ ﻲﻓ ﺔﻐﻟﺎﺒﻤﻟﺍ ﺎﻬﻴﻓ ﺪﻤﻌﺘﻧ ﺔﻴﻜﻴﺳﻼﻛ ﺏﺎﻌﻟﺃ ﻢﻴﻤﺼﺗ ﺔﻘﻳﺮﻃ ﻩﺬﻫ. ﺪﺼﻗ ﻦﻋ ﺍًﺘﻗﺆﻣ ﺔﻧﺯﺍﻮﺘﻣ ﺮﻴﻏ ﻥﻮﻜﺘﺳ ﺭﻮﻣﻷﺍ ﺾﻌﺑ\n\n. ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻆﻔﺤﻟﺍ ﻊﻣ ﻖﻓﺍﻮﺘﻟﺍ ﻞﻄﻌﺘﻳ ﺪﻗ. ﺔﺒﻌﻠﻟ ﺓﺮﻣﺪﻤﻟﺍ ﺀﺎﻄﺧﻷﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﺀﺎﻄﺧﺃ ﺍًﻀﻳﺃ ﻙﺎﻨﻫ ﻥﻮﻜﺘﺳ\n\n. ﺮﻘﺘﺴﻣ ﺭﺍﺪﺻﺇ ﺙﺪﺣﺃ ﺐﻌﻟ ﻰﺟﺮﻴﻓ ،ﺎﻨﺑﺭﺎﺠﺘﻟ ﺍًﻌﺿﺎﺧ ﻥﻮﻜﺗ ﻥﺃ ﺪﻳﺮﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ! ﺭﺎﺒﺘﺧﻻﺍ ﻰﻠﻋ ﻚﻟ ﺍًﺮﻜﺷ ،ﺍﺬﻫ ﻞﻛ ﻰﻠﻋ ﺍًﻘﻓﺍﻮﻣ ﺖﻨﻛ ﺍﺫﺇ</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>ﻢﻟﺎﻌﻟﺍ ﺔﻌﺟﺍﺮﻣ</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>ﺪﻴﻟﻮﺗ</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>ِﻪﻧﺃﻭ ﻆﻔﺣﺍ</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>ﻞﺋﺎﺼﻔﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>ﺔﻴﻤﻟﺎﻋ ﺔﻴﻄﻐﺗ</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>ﻲﻠﻜﻟﺍ ﺭﺎﻄﻣﻷﺍ ﻝﻮﻄﻫ</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>ﺔﻴﻠﻜﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>ﻥﺎﻜﺴﻟﺍ ﺩﺪﻋ</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>ﺾﻔﺨﻨﻣ</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>ﻲﻌﻴﺒﻃ</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>ٍﻝﺎﻋ</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>ﺾﻔﺨﻨﻣ</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>ﻲﻌﻴﺒﻃ</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>ٍﻝﺎﻋ</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>ﻒﻴﻔﺧ</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>ﻲﻌﻴﺒﻃ</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>ﻢﺣﺩﺰﻣ</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>ﺓﺭﺬﺑ</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>ﺔﻴﺋﺍﻮﺸﻋ ﺓﺭﺬﺑ</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>. ﻩﺪﻴﻟﻮﺗ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﺢﻄﺴﻠﻟ ﺔﻳﻮﺌﻤﻟﺍ ﺔﺒﺴﻨﻟﺍ ﻲﻫ ﻩﺬﻫ. ﺍًﺪﺟ ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺪﻗ ﻪﻧﻷ ﻪﻠﻤﻛﺄﺑ ﺢﻄﺴﻟﺍ ﺪﻟﻮﻧ ﻻ ﺎﻨﻧﺈﻓ ،ﺐﻌﻠﻟ ﺏﻮﻠﻄﻣ ﻮﻫ ﺎﻤﻣ ﺮﻴﺜﻜﺑ ﺮﺒﻛﺃ ﻪﻧﻷ ﺍًﺮﻈﻧ ﻦﻜﻟﻭ ،ﺍًﻤﺋﺍﺩ ﺍًﺘﺑﺎﺛ ﺐﻛﻮﻜﻟﺍ ﺮﻄﻗ ﻞﻈﻳ</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>ﻞﺋﺎﺼﻓ</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>ﺔﻣﺪﻘﺘﻣ ﺕﺍﺩﺍﺪﻋﺇ</AdvancedSettings>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>ﺍًﻤﻟﺎﻋ ﺮﺘﺧﺍ</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>ﺮﺘﺧﺍ</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>. ًﻻﻭﺃ ﺍًﻤﻟﺎﻋ ﺊﺸﻧﺃ. ﻢﻟﺎﻋ ﺕﺎﻔﻠﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>. ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ludeon.com ﺪﻘﻔﺗ. ﻥﻵﺍ ﺔﺣﺎﺘﻣ {0} ﺔﺨﺴﻨﻟﺍ</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>. ﺭﺍﺪﺻﺇ ﺙﺪﺣﺃ ﻮﻫ ﺍﺬﻫ</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>{0}: ﺭﺍﺪﺻﻹﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺄﻄﺧ ﺙﺪﺣ</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>…ﺭﺍﺪﺻﻹﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻞﻴﻤﺤﺗ</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Steam ﺔﺷﺭﻭ ﺢﺘﻓﺍ</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>ﻯﺪﺘﻨﻤﻟﺍ ﻦﻣ ﺕﻼﻳﺪﻌﺗ ﻰﻠﻋ ﻞﺼﺣﺍ</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>ﺕﻼﻳﺪﻌﺘﻟﺍ ﺕﺎﻧﺎﻴﺑ ﺪﻠﺠﻣ ﺢﺘﻓﺍ</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>ﺕﻼﻳﺪﻌﺘﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻊﻗﻮﻣ</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>. ﺔﻴﺳﺎﺳﻷﺍ ﻒﺋﺎﻇﻮﻟﺍ ﻊﻴﻤﺟ ﻞﺤﻣ ﻞﺤﺗ ﻯﺮﺧﺃ ﺓﺪﺣﻭ ﻚﻳﺪﻟ ﻦﻜﻳ ﻢﻟ ﺎﻣ ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺔﺒﻌﻠﻟﺍ ﻞﻤﻌﺗ ﻦﻟ ؟ﺔﻴﺳﺎﺳﻷﺍ ﺓﺪﺣﻮﻟﺍ ﻞﻴﻄﻌﺗ ﺪﻳﺮﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ\n\ndefName). (ﻒﻳﺮﻌﺘﻟﺍ ﻢﺳﺍ ﺲﻔﻧ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﺳﺎﺳﻷﺍ ﺓﺪﺣﻮﻟﺍ ﻲﻓ ﺕﺎﻔﻳﺮﻌﺘﻟﺍ ﺯﻭﺎﺠﺗ ﻯﺮﺧﻷﺍ ﺕﺍﺪﺣﻮﻠﻟ ﻦﻜﻤﻳ ،ﺮﻛﺬﺗ</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>؟{0} ـﺏ ﺹﺎﺨﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﻞﻛ ﻑﺬﺣ ﺪﻳﺮﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>ﺍًﻴﺋﺎﻘﻠﺗ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺯﺮﻓ</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻕّﺒﻃﻭ ﻆﻔﺣﺍ</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ. ﻞﻳﺪﻌﺘﻟﺍ ﺕﺍﺮﻴﻴﻐﺗ ﻆﻔﺣ ﻢﺘﻳ ﻢﻟ</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>.{1} ﺪﻌﺑ ﻪﻠﻴﻤﺤﺗ ﺐﺠﻳ: {0} ﻚﻳﺮﺤﺗ ﻦﻜﻤﻳ ﻻ</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>.{1} ﻞﺒﻗ ﻪﻠﻴﻤﺤﺗ ﺐﺠﻳ: {0} ﻚﻳﺮﺤﺗ ﻦﻜﻤﻳ ﻻ</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>؟ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ ﻦﻣ ٌﺪﻛﺄﺘﻣ َﺖﻧﺃ ﻞﻫ</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>؟{0} ﻦﻣ ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ ﺪﻳﺮﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>: ﻦﻣ ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>ﻒﻟﺆﻤﻟﺍ</Author>
+  <!-- EN: Enabled -->
+  <Enabled>ﻝَّﻋَﻓُﻣ</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>ﻞﻄﻌﻣ</Disabled>
+  <!-- EN: Enable -->
+  <Enable>ﻝِّﻌﻓ</Enable>
+  <!-- EN: Disable -->
+  <Disable>ﻞﻴﻄﻌﺗ</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>…ﻦﻣ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻰﻠﻋ ﻞﺼﺣﺍ</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>…ﻦﻣ ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>…ﻞﻴﻤﺤﺘﻟﺍ/ﻆﻔﺤﻟﺍ ﺔﻤﺋﺎﻗ</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>ﺕﻼﻳﺪﻌﺘﻟﺍ ﻆﻔﺣ ﺔﻤﺋﺎﻗ</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>ﺕﻼﻳﺪﻌﺘﻟﺍ ﻞﻴﻤﺤﺗ ﺔﻤﺋﺎﻗ</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>ﺔﻓﺎﺿُﻣ ﺕﻼﻳﺪﻌﺗ</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>ﺓﺩﻮﻘﻔﻣ ﺔﻴﻄﻤﻧ ﺕﺍﺪﺣﻭ</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>ﺔﻛﺮﺘﺸﻣ ﺕﻼﻳﺪﻌﺗ</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>ﺐﻳﻭ ﻊﻗﻮﻣ</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>ﺪﻠﺠﻤﻟﺍ ﺢﺘﻓﺍ</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>ﻞﻳﺪﻌﺘﻟﺍ ﺕﺍﺭﺎﻴﺧ</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>ﻯﺪﺘﻨﻣ</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>…ﻡﺪﻘﺘﻣ</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>ﺓﺭﺎﺘﺨﻤﻟﺍ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻞﻛ</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>ﺔﻠﻄﻌﻣ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻞﻛ</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>ﺔﻘﻓﺍﻮﺘﻣ ﺮﻴﻏ ﺕﻼﻳﺪﻌﺗ</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ ﺔﺤﻔﺻ</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Steam ﺔﺷﺭﻭ ﻰﻟﺇ ﻝّﻤﺣ</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Steam ﺔﺷﺭﻭ ﻰﻠﻋ ﺚﻳﺪﺤﺗ</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>. ﻞﻴﻤﺤﺘﻟﺍ ﻱﺭﺎﺟ</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>. ﺔﺷﺭﻮﻟﺍ ﻢﻳﺪﻘﺗ ﻞﺸﻓ\n\n{0}: ﺐﺒﺴﻟﺍ</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>. ﺡﺎﺠﻨﺑ {0} ﻞﻴﻤﺤﺗ ﻢﺗ</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>ﻞﻴﻤﺤﺗ</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>ﺔﺷﺭﻮﻟﺍ ﻑّﺮﻌﻣ</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>ﺔﻗَّﻘﺣُﻣ ﺕﺎﺒﻠﻄﺘﻣ</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>. ﺭﺎﻴﺘﺧﻼﻟ ﺮﻘﻧﺍ</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>. ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>ﺭﺪﺼﻣ</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>ﺔﺒﻌﻠﻟﺍ ﺕﺍﺭﺍﺪﺻﺇ</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>ﻞﻳﺪﻌﺘﻟﺍ ﺭﺍﺪﺻﺇ</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ﻑّﺮﻌﻣ</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>.{0}: ﻞﺒﻗ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺐﺠﻳ</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>.{0} ﺪﻌﺑ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺐﺠﻳ</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>{0}: ﻰﻠﻋ ﺪﻤﺘﻌﻳ</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>{0}: ﻊﻣ ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>.{0}: ﻊﻣ ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>. ﺍًﻳﻭﺪﻳ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺐﻴﺗﺮﺗ ﺪﻋﺃ ﻭﺃ ، " ﻲﺋﺎﻘﻠﺘﻟﺍ ﺯﺮﻔﻟﺍ " ﺭﺯ ﻡﺪﺨﺘﺳﺍ. ﺮﺧﺁ ﻞﻳﺪﻌﺘﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺊﻃﺎﺧ ﺐﻴﺗﺮﺘﺑ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﻢﺘﻳ</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>.{0}: ﻑّﺮﻌﻤﻟﺍ ﺲﻔﻧ ﺮﺧﺁ ﻂﺸﻧ ﻞﻳﺪﻌﺗ ﻡﺪﺨﺘﺴﻳ</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>.{0} ـﺏ ﺃﺪﺒﻳ ﺕﺍﺪﺣﻮﻠﻟ ﻱﺭﻭﺩ ﺩﺎﻤﺘﻋﺍ ﻙﺎﻨﻫ</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>.{0} ﺍﺬﻫ ﻞﻴﻐﺸﺗ ﺐﻠﻄﺘﻳ</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>. ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻳ ﻻﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣﻭ ، RimWorld ﻦﻣ ﺔﺨﺴﻨﻟﺍ ﻩﺬﻬﻟ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﻊﻨﺻُﻳ ﻢﻟ</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>RimWorld. ﻦﻣ ﺭﺍﺪﺻﻹﺍ ﺍﺬﻬﻟ ﻢﻤﺼﻣ ﺮﻴﻏ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>. ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻳ ﻻ ﺪﻗﻭ ، RimWorld ﻦﻣ ﺙﺪﺣﺃ ﺭﺍﺪﺻﻹ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﻊﻧُﺻ</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>. ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﻞﺠﺴﻟﺍ ﻦﻣ ﻖﻘﺤﺗ targetVersion&amp;gt;. &amp;lt; ﻝﺎﻤﻫﺇ ﻢﺗ/li&amp;gt;&amp;lt;/supportedVersions&amp;gt; - &amp;lt;{0}: &amp;lt;supportedVersions&amp;gt;&amp;lt;li&amp;gt; ﺍﺬﻫ ﻞﺜﻣ About.xml. ﻒﻠﻣ ﻲﻓ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺔﻘﺴﻧُﻣ ﻡﻮﻋﺪﻣ ﺭﺍﺪﺻﺇ ﺕﺎﻣﻮﻠﻌﻣ ﻞﻳﺪﻌﺘﻟﺍ ﺐﻠﻄﺘﻳ</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>: ﻝﺎﺜﻣ\n/packageId&amp;gt;&amp;lt; ﻞﻳﺪﻌﺘﻟﺍ_ ﻢﺳﺍ. ﻒﻟﺆﻤﻟﺍ_ ﻢﺳﺍ packageId&amp;gt;&amp;lt;\n/packageId&amp;gt;&amp;lt; ﺩﺪﺤﻣ. ﻞﻳﺪﻌﺘﻟﺍ_ ﻢﺳﺍ. ﻒﻟﺆﻤﻟﺍ_ ﻢﺳﺍ packageId&amp;gt;&amp;lt;</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>: ﻊﻓﺮﻟﺍ ﻞﺒﻗ ﺎﻬﻠﺣ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ، LoadFolders.xml ﻒﻠﻣ ﻲﻓ ﺕﻼﻜﺸﻣ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﻯﺪﻟ</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>. ﺩﻮﺟﻮﻣ ﺮﻴﻏ {1} ﺭﺍﺪﺻﻺﻟ {0} ﺩﺪﺤﻤﻟﺍ ﺪﻠﺠﻤﻟﺍ</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>1.1) ﻞﺜﻣ (ﻱﻮﻧﺎﺛ. ﻲﺴﻴﺋﺭ ﻮﻫ ﺢﻴﺤﺼﻟﺍ ﻖﻴﺴﻨﺘﻟﺍ '. {0} 'ﺔﺤﻴﺤﺻ ﺮﻴﻏ ﺭﺍﺪﺻﺇ ﺔﻠﺴﻠﺳ</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>. ﺔﻏﺭﺎﻓ {0} ﺭﺍﺪﺻﻺﻟ ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﺔﻤﺋﺎﻗ</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>.{1}: ﺓﺮﻣ ﻦﻣ ﺮﺜﻛﺃ ﺪﻠﺠﻤﻟﺍ ﺲﻔﻧ ﺩﺮﺴﻳ {0} ﺭﺍﺪﺻﻹﺍ</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>.{1} {0} ﻖﺒﺴﻳ ﻥﺃ ﺐﺠﻳ: ﺢﻟﺎﺻ ﺮﻴﻏ ﺭﺍﺪﺻﻹﺍ ﺐﻴﺗﺮﺗ</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>. ًﻻﻭﺃ default' 'ﻒﻳﺮﻌﺗ ﺐﺠﻳ: ﺢﻟﺎﺻ ﺮﻴﻏ ﺭﺍﺪﺻﻹﺍ ﺐﻴﺗﺮﺗ</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>.&amp;gt;…v&amp;lt; ﺕﺎﻣﻼﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺭﺍﺪﺻﺇ ﻞﻜﻟ ﺕﺍﺪﻠﺠﻣ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ. ﻢﻳﺪﻗ ﺮﻣﺃ ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﻲﻓ "default" ﺪﻠﺠﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>. ﻞﻳﺪﻌﺘﻟﺎﺑ ﺹﺎﺨﻟﺍ About.xml ﻒﻠﻣ ﻲﻓ supportedVersions' 'ﻲﻓ ﺔﺟﺭﺩُﻣ ﺮﻴﻏ ﺎﻬﻨﻜﻟﻭ ،ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﻲﻓ ﺔﻓَّﺮﻋُﻣ {0} ﺔﺨﺴﻨﻟﺍ</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>ﺐﻴﺗﺮﺘﻟﺍ ﺓﺩﺎﻋﻹ ﺐﺤﺳﺍ</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺮﺘﺧﺍ</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>ﺺﺼﺨﻣ</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam ﺔﺷﺭﻭ</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺭﺮﺤﻣ</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>ﻑﺬﺣ</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>ﺓﺭﺬﺑ</Seed>
+  <!-- EN: Load -->
+  <Load>ﻞﻴﻤﺤﺗ</Load>
+  <!-- EN: edit mode -->
+  <EditMode>ﻞﻳﺪﻌﺘﻟﺍ ﻊﺿﻭ</EditMode>
+  <!-- EN: Summary -->
+  <Summary>ﺺﺨﻠﻣ</Summary>
+  <!-- EN: Add part -->
+  <AddPart>ﻲﻓﺎﺿﺇ ﺀﺰﺟ</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>. ﺺﻨﻟﺍ ﻝﻮﻘﺣ ﻊﻴﻤﺟ ﺀﻠﻣ ﺐﺠﻳ</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>؟ Steam ﻞﻤﻋ ﺔﺷﺭﻭ ﻰﻟﺇ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺪﻳﺮﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ\n\n: ﺎﻨﻫ ﺔﻠﻣﺎﻜﻟﺍ ﻁﻭﺮﺸﻟﺍ ﺪﺠﺗ Steam. ﻞﻤﻋ ﺔﺷﺭﻭ ﺔﻣﺪﺧ ﻁﻭﺮﺷ ﻰﻠﻋ ﺔﻘﻓﺍﻮﻤﻟﺍ ﻚﻴﻠﻋ ﺐﺠﻳ\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>. ﻚﺴﻔﻨﺑ ﻪﺗﺄﺸﻧﺃ ﻱﺬﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﻞﻴﻤﺤﺗ ﻂﻘﻓ ﻚﻴﻠﻋ ﺐﺠﻳ\n\n؟ﻚﺴﻔﻨﺑ ﻯﻮﺘﺤﻤﻟﺍ ﺍﺬﻫ ﺕﺄﺸﻧﺃ ﻞﻫ</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>. ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>ﺔﻤﺟﺮﺘﻛ ﻡّﺳﻭ</TagAsTranslation>
+  <!-- EN: Too many (max {0}): -->
+  <TooMany>):{0} ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ (ﺍًﺪﺟ ﺮﻴﺜﻜﻟﺍ</TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>. ﻒﻟﺆﻤﻟﺍ ﻚﻧﺃ ﺎﻤﺑ ،ﺔﺷﺭﻮﻟﺍ ﻰﻠﻋ ﺎﻬﺜﻳﺪﺤﺗ ﻦﻜﻤﻳ</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>. ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺍﺬﻫ ﻞﻳﺪﻌﺗ ﻢﺗ\n\n؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﻞﺒﻗ ﻪﻈﻔﺣ ﺪﻳﺮﺗ ﻞﻫ</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﻱﻭﺭُﻣ</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>. ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻩﺬﻫ ﺮﻴﻴﻐﺗ ﻚﻨﻜﻤﻳ. ﻚﺗﺮﻤﻌﺘﺴﻣ ﺔﺼﻗ ﻰﻠﻋ ﻪﺗﺍﺭﺎﻴﺘﺧﺍ ﺮﺛﺆﺘﺳ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻤﺠﻫ ﻭﺃ ،ﺩﺭﺍﻮﻤﻟﺍ ﻁﺎﻘﺳﺇﻭ ،ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺍﺭﺎﻏ ﻞﺜﻣ ﺍًﺛﺍﺪﺣﺃ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺎﺑ ﺙﺍﺪﺣﻷﺍ ﻊﻧﺎﺻ ﻢﺳﺮﻳ</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>. ﺔﺑﻮﻌﺻ ﻯﻮﺘﺴﻣ ﺮﺘﺧﺍ</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>ﺔﺑﻮﻌﺻ</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>ﻡﺍﺰﺘﻟﻻﺍ ﻊﺿﻭ</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻊﺿﻭ</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>. ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻊﺿﻭ ﻭﺃ ﻡﺍﺰﺘﻟﻻﺍ ﻊﺿﻭ ﺮﺘﺧﺍ</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>. ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺎﻬﻠﻴﻤﺤﺗﻭ ﺔﺒﻌﻠﻟﺍ ﻆﻔﺣ ﻚﻨﻜﻤﻳ\n\n. ﻚﺴﻔﻨﺑ ﻡﺍﺰﺘﻟﻻﺍ ﻊﺿﻭ ﺽﺮﻓ ﻱﻮﻨﺗ ﺖﻨﻛ ﺍﺫﺇ ﻭﺃ ،ﻚﺘﺒﻌﻟ ﻞﻄﻌﺗ ﺪﻗ ﺕﻼﻳﺪﻌﺗ ﻡﺪﺨﺘﺴﺗ ﺖﻨﻛ ﺍﺫﺇ ﻭﺃ ،ﻲﺼﺨﺸﻟﺍ ﻚﺒﻌﻟ ﺏﻮﻠﺳﺃ ﺐﺳﺎﻨﻳ ﻥﺎﻛ ﺍﺫﺇ ﻭﺃ ،ﺔﺒﻌﻠﻟﺍ ﻢﻠﻌﺘﺗ ﻝﺍﺰﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ ﺪﻴﺟ ﺭﺎﻴﺧ ﺍﺬﻫ</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>. ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ ﺪﻨﻋ ﻻﺇ ﻆﻔﺤﻟﺍ ﻚﻨﻜﻤﻳ ﻻ\n\n. ﺮﺋﺎﺴﺨﻟﺍ ﺪﻌﺑ ﻲﻓﺎﻌﺘﻟﺎﺑ ﺡﺎﻤﺴﻠﻟ ﺔﻤﻤﺻُﻣ ﺔﺒﻌﻠﻟﺍ. ﺔﺼﻘﻟﺍ ﻦﻣ ﺀﺰﺟ ﻲﻫ ﻞﺑ - ﺔﺒﻌﻠﻟﺍ ﺔﻳﺎﻬﻧ ﺖﺴﻴﻟ ﺪﺣﺍﻭ ﺺﺨﺷ ﺀﺎﻨﺜﺘﺳﺎﺑ ﻊﻴﻤﺠﻟﺍ ﺓﺭﺎﺴﺧ ﻥﺈﻓ ،ﺺﺼﻗ ﺪﻟﻭُﻣ RimWorld ﻥﺃ ﺎﻤﺑ\n\n. ﺐﻌﻠﻟ RimWorld ﺎﻬﺑ ﺖﻤﻣُﺻ ﻲﺘﻟﺍ ﺔﻘﻳﺮﻄﻟﺍ ﻲﻫ ﻩﺬﻫ. ﺭﺎﺼﺘﻧﻻﺍﻭ ﺓﺎﺳﺄﻤﻟﺍ ﻦﻤﻀﺘﺗ ﺔﺼﻗ ﺞﺘﻧُﻳ ﺔﻋﻭﺮﻤﻟﺍ ﻒﻗﺍﻮﻤﻟﺍ ﻩﺬﻫ ﻞﻴﺜﻤﺗ\n\n. ﻥﺍﺮﺛﺆﻣ ﻥﺍﺮﻣﺃ ﻲﻓﺎﻌﺘﻟﺍﻭ ﺓﺭﺎﺴﺨﻟﺍ - ﻪﺘﻠﺋﺎﻋ ﺖﻠﺗُﻗ ﺎﻣﺪﻨﻋ ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇﻭ ﺮﻛﻭﻭ ﻱﺎﻜﺳ ﻙﻮﻟ ﻡﻼﺴﺘﺳﺍ ﻡﺪﻌﻟ ﺐﺒﺳ ﻙﺎﻨﻫ</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>. ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃﻭ ﻱﻭﺍﺮﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>ﺺﺼﺨﻤﻟﺍ ﺐﻌﻠﻟﺍ ﻂﻤﻧ ﺕﺍﺩﺍﺪﻋﺇ</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>…ﻲﺳﺎﻴﻘﻟﺍ ﺏﻮﻠﺳﻷﺎﺑ ﺐﻌﻠﻟﺍ ﺀﺪﺑ</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>ﺕﺍﺪﻳﺪﻬﺗ</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>ﺪﻳﺪﻬﺘﻟﺍ ﺱﺎﻴﻘﻣ</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>. ﻡﺎﻬﻤﻟﺍ ﺔﺑﻮﻌﺻﻭ ،ﺭﺎﺸﺘﻧﻻﺍﻭ ﺕﺍﺭﺎﻐﻟﺍ ﻞﺜﻣ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻢﺠﺣ ﻂﺒﺿﺍ</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>ﺓﺮﻴﺒﻛ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>. ﺪﻳﺰﻤﻟﺍﻭ ،ﺔﻤﻄﺤﻤﻟﺍ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻦﻔﺳﻭ ،ﻦﻳﺩﺭﺎﻄﻤﻟﺍ ﻡﺰﺣﻭ ،ﺕﺎﻧﺎﺘﻧﻻﺍﻭ ،ﺕﺍﺭﺎﻐﻟﺍ ﻞﺜﻣ ﻯﺮﺒﻜﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺎﺑ ﺢﻤﺳﺍ</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>ﺔﻤﻬﻤﻟﺍ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>. ﺔﻔﻴﻨﻋ ﺮﻴﻏ ﻥﻮﻜﺘﻟ ﺕﺎﺜﻌﺒﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺘﻴﺳ ،ﻚﻟﺫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ. ﺔﻔﻴﻨﻋ ﺕﺎﻳﺪﺤﺗﻭ ﺕﺍﺪﻳﺪﻬﺘﺑ ﺭﻮﻬﻈﻟﺎﺑ ﺕﺎﺜﻌﺒﻠﻟ ﺡﺎﻤﺴﻟﺍ</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>ﺔﻴﻟﻭﺃ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>. ﺔﺒﻌﻠﻟﺍ ﺔﻳﺍﺪﺑ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺮﻬﻈﺗ ﻲﺘﻟﺍ ﺔﺘﺑﺎﺜﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻦﻴﻜﻤﺗ</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>ﺮﺸﺒﻟﺍ ﺱﺍﺮﺘﻓﺍ</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>. ﺮﺸﺒﻟﺍ ﺓﺩﺭﺎﻄﻤﺑ ﺔﻳﺮﺒﻟﺍ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺡﺎﻤﺴﻟﺍ</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>ٍﺱﺎﻗ ﺲﻘﻃ</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>. ﺔﺌﺟﺎﻔﻤﻟﺍ ﻒﺻﺍﻮﻌﻟﺍﻭ ،ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍﻭ ،ﻡﺎﺴﻟﺍ ﻂﻗﺎﺴﺘﻟﺍ ﻞﺜﻣ ﺔﻴﺳﺎﻘﻟﺍ ﺲﻘﻄﻟﺍ ﺙﺩﺍﻮﺤﺑ ﺡﺎﻤﺴﻟﺍ</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>ﺩﺎﺼﺘﻗﺍ</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>ﻝﺩﺎﺒﺘﻟﺍ ﺮﻌﺳ ﺰﺠﻋ</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>. ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻬﺑ ﻊﻴﺒﻟﺍ ﺭﺎﻌﺳﺃ ﺾﻔﺨﻨﺗ ﺎﻤﻨﻴﺑ ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻬﺑ ﺀﺍﺮﺸﻟﺍ ﺭﺎﻌﺳﺃ ﺩﺍﺩﺰﺗ ،ﻝﻭﺍﺪﺘﻟﺍ ﺪﻨﻋ</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>ﺩﺎﺼﺣ ﺔﻠﻏ</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>. ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﻚﻟﺫ ﻞﻤﺸﻳﻭ. ﻞﻴﺻﺎﺤﻤﻟﺍﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻝّﺪﻋ</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>ﻦﻳﺪﻌﺗ ﺝﺎﺘﻧﺇ</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>. ﻦﻳﺪﻌﺘﻟﺍ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻂﺒﺿﺍ</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>ﺢﺑﺬﻟﺍ ﺔﻠﻏ</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>. ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻚﻴﻜﻔﺗ ﻦﻣ ﺔﻠﻐﻟﺍﻭ ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻚﻟﺫ ﻞﻤﺸﻳ. ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺦﻠﺳ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻂﺒﺿﺍ</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>. ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻂﺒﺿﺍ</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>ﺔﻤﻬﻤﻟﺍ ﺕﺂﻓﺎﻜﻣ</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>. ﻡﺎﻬﻤﻠﻟ ﺔﺣﻮﻨﻤﻤﻟﺍ ﺕﺂﻓﺎﻜﻤﻟﺍ ﺔﻤﻴﻗ ﻝّﺪﻋ\n\n. ﺍًﻴﻓﺎﺿﺇ ﺍًﻔﻋﺎﻀﻣ ﻒﻴﻀﺘﺴﻓ ،ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺖﻟّﺪﻋ ﺍﺫﺇ. ﺪﻳﺪﻬﺘﻟﺍ ﺱﺎﻴﻘﻣ ﻦﻋ ﺾﻳﻮﻌﺘﻠﻟ ﺍًﻴﺋﺎﻘﻠﺗ ﺔﻤﻬﻤﻟﺍ ﺓﺄﻓﺎﻜﻣ ﺔﻤﻴﻗ ﻞﻳﺪﻌﺗ ﻢﺘﻳ: ﺔﻈﺣﻼﻣ</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>ﺓﺭﺎﻐﻟﺍ ﻢﺋﺎﻨﻏ</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>. ﺓﺍﺰﻐﻟﺍ ﺎﻬﻠﻤﺤﻳ ﻲﺘﻟﺍ ﻢﺋﺎﻨﻐﻟﺍ ﺔﻤﻴﻗ ﻝّﺪﻋ\n\n. ﺍًﻴﻓﺎﺿﺇ ﺍًﻔﻋﺎﻀﻣ ﻒﻴﻀﺘﺴﻓ ،ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺖﻟّﺪﻋ ﺍﺫﺇ. ﺪﻳﺪﻬﺘﻟﺍ ﺱﺎﻴﻘﻣ ﺾﻳﻮﻌﺘﻟ ﺍًﻴﺋﺎﻘﻠﺗ ﺓﺭﺎﻐﻟﺍ ﻢﺋﺎﻨﻏ ﺔﻤﻴﻗ ﻞﻳﺪﻌﺗ ﻢﺘﻳ: ﺔﻈﺣﻼﻣ</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>ﻲﻋﺎﻓﺩ ﺝﺮﺑ ﺢﻴﻠﺴﺗ ﺓﺩﺎﻋﺇ ﺔﻔﻠﻜﺗ</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>. ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺢﻴﻠﺴﺗ ﺓﺩﺎﻋﺇ ﺔﻔﻠﻜﺗ ﻂﺒﺿﺍ</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>ﺎﻳﺭﺎﻜﺴﻟﺍ ﻦﻔﻌﺗ ﻝﺎﻤﺘﺣﺍ</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>. ﺔﻳﺭﺎﻜﺴﻟﺍ ﺽﺮﻤﺑ ﺍًﺑﺎﺼﻣ ﻦﺋﺎﻜﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ،ﺓﺎﻓﻮﻟﺍ ﺪﻨﻋ ﺍًﺭﻮﻓ ﺔﺜﺠﻟﺍ ﻦﻔﻌﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ\n\n. ﻢﺤﻠﻟﺍ ﺕﺂﻓﺎﻜﻣ ﺲﻔﻧ ﻰﻠﻋ ﻦﻴﺒﻋﻼﻟﺍ ﻊﻴﻤﺟ ﻞﺼﺤﻳ ﺚﻴﺤﺑ ،ﻰﻠﻋﻷﺍ ﺔﺑﻮﻌﺼﻟﺍ ﺕﺎﻳﻮﺘﺴﻣ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ ﺓﺩﺎﻳﺰﻟ ﻖﻴﻗﺩ ﻥﺯﺍﻮﺗ ﻖﻴﻘﺤﺘﻟ ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻢﻴﻤﺼﺗ ﻢﺗ: ﺔﻈﺣﻼﻣ</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺪﻌﻟﺍ ﺓﺎﻓﻭ</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>. ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺍﺪﻌﺗ ﻮﻤﻧ ﺕﻻﺪﻌﻣ ﻲﻟﺎﺘﻟﺎﺑﻭ ،ﺀﺍﺪﻋﻷﺍ ﺮﺳﺃ ﺹﺮﻓ ﻰﻠﻋ ﺍﺬﻫ ﺮﺛﺆﻳ. ﻪﻃﺎﻘﺳﺇ ﺪﻨﻋ ﺍًﺭﻮﻓ ﻭﺪﻌﻟﺍ ﺓﺎﻓﻭ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻝّﺪﻋ</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>ﻡﺎﻋ</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>ﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>50%. ﺔﺒﺴﻨﺑ ﻲﺳﺎﺳﺃ ﺝﺍﺰﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻯﺪﻟ. ﺮﻴﺳﺃﻭ ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﻰﻠﻋ ﺮﺛﺆﻳ ﺝﺍﺰﻤﻠﻟ ﻢﺋﺍﺩ ﻞﻳﺪﻌﺗ</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﺔﻴﻟﺎﻤﺘﺣﺍ</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>. ﺔﻣﻮﻤﺴﻣ ﻥﻮﻜﺗ ﻥﺃ ﻞﻤﺘﺤﻳ ﺔﺒﺟﻭ ﻝﻭﺎﻨﺗ ﻦﻣ ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺎﺑ ﺺﺨﺷ ﺔﺑﺎﺻﺇ ﺔﺻﺮﻓ ﻂﺒﺿﺍ</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>ﻥﺍﻮﻴﺤﻟﺍ ﻡﺎﻘﺘﻧﺍ ﻝﺎﻤﺘﺣﺍ</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>. ﻪﺘﺑﺎﺻﺇ ﺪﻌﺑ ﻱﺮﺑ ﻥﺍﻮﻴﺣ ﺔﻤﺟﺎﻬﻣ ﺔﺻﺮﻓ ﻂﺒﺿﺍ</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>ﺔﻘﻳﺪﺻ ﻥﺍﺮﻴﻧ</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>. ﻖﻳﺪﺼﻟﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﺻﺮﻓ ﻝّﺪﻋ\n\n. ﺎﻬﻓﺪﻫ ﺊﻄﺨﺘﺳ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺕﺎﻘﻠﻄﻟﺍ ﻭﺃ ،ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺭﺮﻀﻟﺍ ﻊﻨﻤﻳ ﻻ. ﺎﻬﻓﺪﻫ ﺐﻴﺼﺘﺳ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺓﺮﺷﺎﺒﻤﻟﺍ ﺕﺎﻘﻠﻄﻟﺍ ﻰﻠﻋ ﻂﻘﻓ ﺮﺛﺆﻳ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ: ﺔﻈﺣﻼﻣ</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻱﺭﻮﻓ ﻞﺘﻗ</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>. ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻁﺎﻘﺳﻹ ﺩﺭﺍﻮﻟﺍ ﺭﺮﻀﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺘﻳ. ﻡﻮﺠﻫ ﺐﺒﺴﺑ ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺮﻤﻌﺘﺴﻣ ﺕﻮﻣ ﺔﺻﺮﻓ ﻂﺒﺿﺍ\n\n. ﻚﻟﺫ ﻰﻟﺇ ﺎﻣﻭ ،ﺽﺍﺮﻣﻷﺍﻭ ﺕﺍﺭﺎﺠﻔﻧﻻﺍﻭ ﻖﻳﺮﺤﻟﺍ ﺐﺒﺴﺑ ﺍﻮﺗﻮﻤﻳﻭ ،ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﺍﻮﻓﺰﻨﻳﻭ ﺍﻮﻄﻘﺴﻳ ﻥﺃ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ - ﻂﻘﻓ ﻱﺭﻮﻔﻟﺍ ﻞﺘﻘﻟﺍ ﻉﺍﻮﻧﺃ ﺾﻌﺑ ﺍﺬﻫ ﻊﻨﻤﻳ</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>ﻯﻭﺪﻌﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>. ﻯﻭﺪﻌﻟﺎﺑ ﺡﻭﺮﺠﻟﺍ ﺔﺑﺎﺻﺇ ﺔﺻﺮﻓ ﻂﺒﺿﺍ</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>ﺽﺮﻤﻟﺍ ﺭﺍﺮﻜﺗ</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>. ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺙﺍﺪﺣﺃ ﺭﺍﺮﻜﺗ ﻂﺒﺿﺍ</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>ﺕﺍﺮﺸﺤﻟﺍ ﺮﺛﺎﻜﺗ ﻝﺪﻌﻣ</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>. ﺮﺛﺎﻜﺘﻟﺍ ﺙﺍﺪﺣﺃ ﻦﻴﺑ ﺖﻗﻮﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻲﻨﻌﺗ ﻞﻗﻷﺍ ﻢﻴﻘﻟﺍ. ﺔﻴﻟﺎﺤﻟﺍ ﺎﻫﺎﻳﻼﺧ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺮﺛﺎﻜﺗ ﻝﺪﻌﻣ ﻂﺒﺿﺍ\n\n. ﻂﻘﻓ ﺔﻄﺸﻨﻟﺍ ﺎﻳﻼﺨﻟﺍ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺝﺎﺘﻧﺇ ﺔﻋﺮﺳ ﻰﻠﻋ ﻞﺑ - ﺕﺎﺑﺎﺻﻹﺍ ﺙﻭﺪﺣ ﺔﻴﻧﺎﻜﻣﺇ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ ﺍﺬﻫ</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>ﺔﻘﻴﻤﻋ ﺕﺎﻳﺮﻔﺣ ﺭﺎﺸﺘﻧﺍ</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>. ﻭﺰﻏ ﺓﺭﺎﺛﺇ ﻰﻟﺇ ﻖﻴﻤﻌﻟﺍ ﺮﻔﺤﻟﺍ ﻱﺩﺆﻳ ﻥﺃ ﺔﺻﺮﻓ ﻂﺒﺿﺍ</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>ﺔﻄﻳﺮﺨﻠﻟ ﺔﻤﻳﺪﻗ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>. ﺓﺮﻴﻄﺧ ﺕﺍﺪﻳﺪﻬﺗ ﻰﻠﻋ ﺔﻤﻳﺪﻘﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻱﻮﺘﺤﺗ ﺪﻗ</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>ﺔﻄﻳﺮﺨﻠﻟ ﺔﻴﻌﻴﺒﻃ ﺭﺎﻛﻭﺃ</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>. ﺔﻴﻌﻴﺒﻄﻟﺍ ﻑﻮﻬﻜﻟﺍ ﻲﻓ ﺓﺪﻣﺎﺧ ﺕﺍﺮﺸﺣ ﺎﻳﻼﺧ ﺮﻬﻈﺗ ﺪﻗ\n\n. ﺐﻌﻠﻟﺍ ﺀﺎﻨﺛﺃ ﺮﻔﺤﺗ ﺪﻗ ﻲﺘﻟﺍ ﺔﻄﺸﻨﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻﻭ ﺔﻄﻳﺮﺨﻟﺍ ﺀﺎﺸﻧﺇ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﻳ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>ﻥﻮﻋﺰﻋﺰﺘﻳ ﻻ ﺀﺎﻨﺠﺳ</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>. ﺦﺳﺍﺮﻟﺍ ﻢﻬﺋﻻﻭ ﺐﺒﺴﺑ ﻢﻫﺪﻴﻨﺠﺗ ﻦﻜﻤﻳ ﻻ ﺔﺒﻌﻠﻟﺍ ﻰﻟﺇ ﺮﺳﻸﻟ ﻦﻴﻠﺑﺎﻗ ﻦﻴﻴﻓﺎﺿﺇ ﺀﺎﻨﺠﺳ ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻒﻴﻀﻳ\n\n. ﻂﻘﻓ ﻢﻬﻨﻣ ﻦﻴﺨﺳﺍﺮﻟﺍ ﻞﻳﺰﻳ ﻞﺑ - ﺪﻴﻨﺠﺘﻠﻟ ﻦﻴﻠﺑﺎﻘﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﺩﺪﻋ ﻦﻣ ﺪﻳﺰﻳ ﻦﻟ ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻞﻴﻐﺸﺗ ﻑﺎﻘﻳﺇ ﻥﺈﻓ ﺍﺬﻟ ،ﻦﻴﻳﺩﺎﻌﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻕﻮﻓ ﻥﻮﺨﺳﺍﺮﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻑﺎﺿُﻳ\n\n. ﺔﻟﻮﻬﺳﻭ ًﺀﺍﺮﺛ ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻥﻮﻠﻌﺠﻳﻭ ،ﺩﺭﺍﻮﻤﻟﺍﻭ ﺕﺍﺭﺎﻴﺨﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻥﻮﻣﺪﻘﻳ ،ﻡﺎﻋ ﻞﻜﺸﺑ. ﻯﺮﺧﺃ ﺔﻘﻳﺮﻃ ﻱﺄﺑ ﻢﻬﻟﻼﻐﺘﺳﺍ ﻭﺃ ،ﻢﻬﺋﺎﻀﻋﺃ ﺩﺎﺼﺣ ﻭﺃ ،ﻢﻫﺩﺎﺒﻌﺘﺳﺍ ﻭﺃ ،ﻢﻬﻌﻴﺑ ﻭﺃ ،ﺔﻴﺳﺎﻣﻮﻠﺑﺩ ﺐﺳﺎﻜﻣ ﻖﻴﻘﺤﺘﻟ ﻢﻬﻨﻋ ﺝﺍﺮﻓﻹﺍ ﻦﻴﺨﺳﺍﺮﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻥﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>ﻦﻳﺪﻌﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻟﻮﻘﻨﻣ ﺩﺭﺍﻮﻣ</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>. ﻚﻟ ﺔﻄﻳﺮﺧ ﻝﻭﺃ ﺪﻌﺑ ﻂﺋﺍﺮﺨﻟﺍ ﻰﻠﻋ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺘﻳ ﻲﺘﻟﺍ ﻦﻳﺪﻌﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺩﺪﻋ ﻂﺒﺿﺍ\n\n. ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻴﺳﺎﻴﻘﻟﺍ ﺔﻴﻤﻜﻟﺎﺑ ﺍًﻤﺋﺍﺩ ﺪﻟﻮﺘﺳ ﻰﻟﻭﻷﺍ ﻚﺘﻨﻃﻮﺘﺴﻣ ﺔﻄﻳﺮﺧ: ﺔﻈﺣﻼﻣ</Difficulty_NomadicMineableResourcesFactor_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>ﺐﻋﻼﻟﺍ ﺕﺍﻭﺩﺃ</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>ﺐﻋﻼﻟﺍ ﺥﺎﺨﻓ</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>. ﺔﻠﺠﺗﺮﻤﻟﺍ ﺔﻔﺳﺎﻨﻟﺍ ﺕﺍﻮﺒﻌﻟﺍ ﺥﺎﺨﻓﻭ ﻙﺍﻮﺷﻷﺍ ﺥﺎﺨﻓ ﻞﺜﻣ ﺥﺎﺨﻓ ﺀﺎﻨﺑ ﺐﻋﻼﻟﺍ ﻊﻴﻄﺘﺳَﻳ</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>ﺀﺎﻨﺒﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>. ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻒﺋﺍﺬﻗ ﺝﺍﺮﺑﺃﻭ ،ﺔﻴﻟﻵﺍ ﻊﻓﺍﺪﻤﻟﺍ ﺝﺍﺮﺑﺃﻭ ،ﺓﺮﻴﻐﺼﻟﺍ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻞﺜﻣ ﺔﺘﺑﺎﺛ ﺔﻴﻋﺎﻓﺩ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺑ ﺐﻋﻼﻟ ﻦﻜﻤﻳ\n\n. ﻚﻟﺫ ﻞﻴﻄﻌﺗ ﻢﺗ ﻮﻟ ﻰﺘﺣ ﺎﻬﻴﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻢﺗ ﻲﺘﻟﺍ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻚﻨﻜﻤﻳ</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>ﺐﻋﻼﻟﺍ ﺕﺎﻧﻭﺎﻫ</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>. ﺕﺎﻧﻭﺎﻫ ﺀﺎﻨﺑ ﺐﻋﻼﻟ ﻦﻜﻤﻳ\n\n. ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ ﻮﻟ ﻰﺘﺣ ﺎﻬﻴﻠﻋ ﻰﻟﻮﺘﺳُﻤﻟﺍ ﺕﺎﻧﻭﺎﻬﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>ﺔﻴﻜﻴﺳﻼﻛ ﺕﺎﻧﻭﺎﻫ</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>. ﺮﻴﺴﻴﺘﻟﺍ ﺍﺬﻬﻟ ﺔﻧﺯﺍﻮﺘﻣ ﻲﻫﻭ ،ﺔﺌﺒﻌﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻭﺃ ﺀﺎﻨﺒﻠﻟ ﺓﺯَّﺰﻋُﻣ ﺕﺎﻧﺎﻄﺒﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻦﻟ ﺕﺎﻧﻭﺎﻫ</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>ﻑُّﻳَﻛَﺗ</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ﻒﻴﻜﺘﻟﺍ ﻮﻤﻧ ﻝﺪﻌﻣ</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>. ﺭﺮﻀﻠﻟ ﻚﺿﺮﻌﺗ ﺪﻨﻋ ﺾﻔﺨﻨﻳﻭ ،ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻒﻴﻜﺘﻟﺍ ﻝﺪﻌﻣ ﺩﺍﺩﺰﻳ. ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺮﻴﺴﺗ ﺎﻣﺪﻨﻋ ﺔﺑﻮﻌﺻ ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻞﻌﺠﺑ ﺺﺼﻘﻟﺍ ﻊﻧﺎﺻ ﻡﻮﻘﻳ ﻥﺃ ﻲﻨﻌﻳ ﻒﻴﻜﺘﻟﺍ\n\n. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻒﻴﻜﺘﻟﺍ ﻝﺪﻌﻣ ﺓﺩﺎﻳﺯ ﺔﻋﺮﺳ ﻯﺪﻣ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻂﺒﻀﻳ</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>ﻒﻴﻜﺘﻟﺍ ﺮﻴﺛﺄﺗ</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>. ﺭﺮﻀﻟﺍ ﻲﻘﻠﺗ ﺪﻨﻋ ﺾﻔﺨﻨﻳﻭ ،ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻒﻴﻜﺘﻟﺍ ﻝﺪﻌﻣ ﺩﺍﺩﺰﻳ. ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺮﻴﺴﺗ ﺎﻣﺪﻨﻋ ﺔﺑﻮﻌﺻ ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻞﻌﺠﺑ ﺺﺼﻘﻟﺍ ﻊﻧﺎﺻ ﻡﻮﻘﻳ ﻥﺃ ﻲﻨﻌﻳ ﻒﻴﻜﺘﻟﺍ\n\n. ﺔﺑﻮﻌﺼﻟﺍ ﻰﻠﻋ ﻒﻴﻜﺘﻟﺍ ﻝﺪﻌﻣ ﺮﻴﺛﺄﺗ ﺭﺍﺪﻘﻣ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻂﺒﻀﻳ</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻣ ﻡﺪﻘﺗ ﻊﺿﻭ</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>. ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻣ ﻡﺪﻘﺗ ﻊﺿﻭ ﻲﻓ ﺐﻌﻟﺍ\n\n. ﺓﺮﻤﻌﺘﺴﻣ ﻞﻛ ﺲﻴﺳﺄﺗ ﻦﻣ ﺖﻗﻮﻟﺍ ﺏﺎﺴﺘﺣﺍ ﻢﺘﻳ. ﺖﻗﻮﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺖﺑﺎﺛ ﻡﺪﻘﺗ ﻰﻨﺤﻨﻤﺑ ﻪﻟﺪﺒﺘﺴﻳﻭ ﺓﻭﺮﺜﻟﺍ ﻞﻣﺎﻋ ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻤﻟﺍ ﻊﺿﻮﻟﺍ ﻞﻳﺰﻳ. ﺔﻋﻮﻨﺘﻣ ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋﻭ ﺐﻋﻼﻟﺍ ﺓﻭﺮﺛﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺪﻌﻟ ﺍًﻘﻓﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻕﺎﻄﻧ ﻊﻴﺳﻮﺘﺑ ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ ﻡﻮﻘﻳ ،ﻲﻌﻴﺒﻄﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ\n\n. ﺔﻳﺎﻐﻠﻟ ﺔﻠﻬﺳ ﺔﺒﻌﻠﻟﺍ ﺪﺠﺗﻭ ﺓﺮﻴﺒﻛ ﺔﻋﺮﺴﺑ ﻡﺪﻘﺘﺗ ﻥﺃ ﺍًﻀﻳﺃ ﻦﻜﻤﻤﻟﺍ ﻦﻣ. ﺓﺪﻳﺪﺟ ﺔﻨﻃﻮﺘﺴﻣ ﺲﺳﺆﺗ ﻢﻟ ﺎﻣ ﺔﺣﺩﺎﻔﻟﺍ ﺮﺋﺎﺴﺨﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻟﺍ ﺍًﺒﻳﺮﻘﺗ ﻞﻴﺤﺘﺴﻤﻟﺍ ﻦﻣ ﻥﻮﻜﻳ ﺪﻗ ،ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻤﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ. ﻡﺭﺎﺻ ﻲﺗﺍﺭﺎﻬﻣ ٍﺪﺤﺗ ﻦﻋ ﻥﻮﺜﺤﺒﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﻷ ﻂﻘﻓ ﺍﺬﻬﺑ ﻰﺻﻮﻳ</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>ﺪﻳﺪﻬﺗ ﻰﺼﻗﺃ ﻰﺘﺣ ﺕﺍﻮﻨﺳ</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>. ﻪﻟ ﻯﻮﺘﺴﻣ ﻰﺼﻗﺃ ﻰﻟﺇ ﺓﻭﺮﺜﻟﺍ ﻦﻋ ﻞﻘﺘﺴﻤﻟﺍ ﺪﻳﺪﻬﺘﻟﺍ ﻊﺿﻭ ﻞﺼﻳ ﻰﺘﺣ ﺔﺒﻌﻠﻟ ﺔﻴﻨﻣﺰﻟﺍ ﺕﺍﻮﻨﺴﻟﺍ ﺩﺪﻋ\n\n. ﺔﻋﻮﻨﺘﻣ ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺪﻌﻟ ﺍًﻘﻓﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻂﺒﻀﻳ ﻞﻈﻴﺳ ﺺﺼﻘﻟﺍ ﻊﻧﺎﺻ ﻥﺃ ﻆﺣﻻ</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>ﺔﻴﺟﻮﻟﻮﻳﺪﻳﺃ</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>ﻦﻴﻀﻔﺨﻨﻣ ﻥﺎﻜﺳ ﻞﻳﻮﺤﺗ ﺓﺩﺎﻳﺯ</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>. ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻢﻫﺪﺿ ﻞﻳﻮﺤﺘﻟﺍ ﺕﻻﻭﺎﺤﻣ ﻡّﺴﻗُﺗ. ﺐﻋﻼﻟﺍ ﺔﻧﺎﻳﺩ- ﺓﺪﻴﻘﻌﻟ ﻢﻬﻗﺎﻨﺘﻋﺍ ﻝﺎﻤﺘﺣﺍ ﻒﻋﺎﺿُﻳ ،ﺐﻋﻼﻟ ﺔﻳﺍﺪﺒﻟﺍ ﺔﻧﺎﻳﺩ- ﺓﺪﻴﻘﻋ ﻦﻣ ﺪﺣﺍﻭ ﺮﻤﻌﺘﺴﻣ ﺩﻮﺟﻮﺑ\n\n. ﺮﻴﺛﺄﺘﻟﺍ ﻒﺼﻧُﻳ ،ﺐﻋﻼﻟ ﺔﻳﺍﺪﺒﻟﺍ ﺔﻧﺎﻳﺩ- ﺓﺪﻴﻘﻋ ﻦﻣ ﻦﻴﻨﺛﺍ ﻦﻳﺮﻤﻌﺘﺴﻣ ﺩﻮﺟﻮﺑ\n\n. ﺮﻴﺛﺄﺗ ﻱﺃ ﺍﺬﻬﻟ ﻥﻮﻜﻳ ﻻ ،ﺐﻋﻼﻟ ﺔﻳﺍﺪﺒﻟﺍ ﺔﻧﺎﻳﺩ- ﺓﺪﻴﻘﻋ ﻦﻣ ﺮﺜﻛﺃ ﻭﺃ ﻦﻳﺮﻤﻌﺘﺴﻣ ﺔﺛﻼﺛ ﺩﻮﺟﻮﺑ</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>ﺔﻳﺍﺪﺒﻟﺍ ﻊﻗﻮﻣ ﺮﺘﺧﺍ</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>ﻲﺋﺍﻮﺸﻋ ﻊﻗﻮﻣ</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>ﻊﻗﻮﻤﻟﺍ ﺮﺘﺧﺍ</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>. ﺍًﻌﻗﻮﻣ ﺮﺘﺧﺍ</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>{0}: ﻲﺌﻴﺒﻟﺍ ﻂﻤﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﻁﻮﺒﻬﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>ﺔﻗَّﺒﻃُﻣ ﺮﻴﻏ ﺔﻳﻮﻴﺣ ﺔﻘﻄﻨﻣ</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>. ﻕﺍﺮﺘﺧﻼﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﻝﺎﺒﺟ ﻰﻠﻋ ﻁﻮﺒﻬﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>. ﻙﺎﻨﻫ ﺓﺪﻋﺎﻗ ﻞﻌﻔﻟﺎﺑ ﻢﻬﻳﺪﻟ {0}</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>. ﻙﺎﻨﻫ ﻞﻌﻔﻟﺎﺑ ﺓﺩﻮﺟﻮﻣ ﺓﺪﻋﺎﻗ ﻚﻳﺪﻟ</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>. ﺔﻟﻮﻐﺸﻣ ﺔﻴﻠﺨﻟﺍ ﻩﺬﻫ</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>. ﺮﺷﺎﺒﻣ ﻞﻜﺸﺑ ﺓﺭﻭﺎﺠﺘﻣ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>ﺔﻴﺧﺎﻨﻣ ﺔﻘﻄﻨﻣ</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>ﺲﻳﺭﺎﻀﺗ</Terrain>
+  <!-- EN: Road -->
+  <Road>ﻖﻳﺮﻃ</Road>
+  <!-- EN: River -->
+  <River>ﺮﻬﻧ</River>
+  <!-- EN: Elevation -->
+  <Elevation>ﻉﺎﻔﺗﺭﺍ</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>ﺕﺍﺰﻴﻤﻣ</TileMutators>
+  <!-- EN: Fertility -->
+  <Fertility>ﺔﺑﻮﺼﺧ</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>ﺔﺑﻮﺼﺧ</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>ﺓﺭﺍﺮﺤﻟﺍ ﻂﺳﻮﺘﻣ</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>ﺭﺎﻄﻣﺃ ﻝﻮﻄﻫ</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>ﺔﺻﺎﺧ ﺕﺍﺰﻴﻤﻣ</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>ﻲﻟﺎﻤﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>ﻲﻗﺮﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>ﻲﺑﻮﻨﺠﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>ﻲﺑﺮﻐﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>ﻑﻮﻬﻛ</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>ﻞﻴﺼﻓ ﺓﺪﻋﺎﻗ</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>ﺮﺠﺤﻟﺍ ﻉﺍﻮﻧﺃ</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>ﺔﻴﻨﻣﺯ ﺔﻘﻄﻨﻣ</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>ﺔﻛﺮﺤﻟﺍ ﺔﺑﻮﻌﺻ</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>. ﻰﻋﺮﺗ ﻥﺃ ﻥﻵﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>ﻂﺳﻮﺘﻤﻟﺍ ﺽﺮﻤﻟﺍ ﺭﺍﺮﻜﺗ</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>ﺔﻨﺴﻟﺍ ﻲﻓ</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>ﺚﺤﺒﻟﺍ ﺔﻴﻠﺑﺎﻗ</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>: ﺔﻴﻟﺎﺘﻟﺍ ﻒﺋﺎﻇﻮﻟﺎﺑ ﻡﺎﻴﻘﻟﺍ ﻦﻳﺭﺎﺘﺨﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﻱﺃ ﻊﻴﻄﺘﺴﻳ ﻻ\n\n{0}\n\n؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﺪﻳﺮﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ. ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﺔﺑﻮﻌﺻ ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﺍﺬﻫ ﻞﻌﺠﻳ ﺪﻗ</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>ﺀﻮﺿ</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>ﺕﺎﻴﺼﺨﺷ ﺀﺎﺸﻧﺇ</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>. ﻝﻭﻷﺍ ﺔﻴﺼﺨﺸﻟﺍ ﻢﺳﺍ\n\n. ﺔﻨﻴﻌﻣ ﻢﺋﺍﻮﻗ ﻲﻓ ﻂﻘﻓ ﺍﺬﻫ ﺮﻬﻈﻳ</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>. ﺔﻴﺼﺨﺸﻠﻟ ﺮﻴﺼﻘﻟﺍ ﻑّﺮﻌﻤﻟﺍ\n\n. ﺍًﻣﺎﻤﺗ ًﻼﺼﻔﻨﻣ ﺍًﺒﻘﻟ ﻭﺃ ،ﺮﻴﺧﻷﺍ ﻭﺃ ﻝﻭﻷﺍ ﻢﺳﻻﺍ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ. ﺖﻗﻮﻟﺍ ﻝﺍﻮﻃ ﺍﺬﻫ ﺮﻬﻈﻳ</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>. ﺔﻴﺼﺨﺸﻠﻟ ﺔﻠﺋﺎﻌﻟﺍ ﻢﺳﺍ\n\n. ﺔﻨﻴﻌﻣ ﻢﺋﺍﻮﻗ ﻲﻓ ﻂﻘﻓ ﺍﺬﻫ ﺮﻬﻈﻳ</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>ﻲﺋﺍﻮﺸﻋ</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>{0} ﺮﻤﻌﻟﺍ</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_ageFull} ﺮﻤﻋ ،{PAWN_race}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_ageFull} ﻩﺮﻤﻋ ،{PAWN_race} {PAWN_gender}</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>ﺔﻴﺗﺍﺫ ﺓﺮﻴﺳ</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>ﺕﺍﺭﺪﻗ</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>ﺐﺒﺴﺑ</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>: ﺔﻠﻄﻌﻣ ﻞﻤﻋ ﻉﺍﻮﻧﺃ</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>ﺔﻴﻔﻠﺨﻟﺍ ﺐﺒﺴﺑ</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>ﻥﺍﻮﻨﻋ ﺐﺒﺴﺑ</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>ﺔﻤﺳ ﺐﺒﺴﺑ</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>ﺔﻤﻬﻤﻟﺍ ﺔﻟﺎﺣ ﺐﺒﺴﺑ</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>ﺭﻭﺪﻟﺍ ﺐﺒﺴﺑ</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>ﻦﻴﺟ ﺐﺒﺴﺑ</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>ﺐﺒﺴﺑ</IncapableOfTooltipMutant>
+  <!-- EN: Traits -->
+  <Traits>ﺕﺎﻤﺳ</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>ﻢﺋﺍﺩ ﺝﺍﺰﻣ ﺮﻴﺛﺄﺗ</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>ﺕﺍﺭﺎﻬﻣ</Skills>
+  <!-- EN: none -->
+  <NoneLower>ﺪﺟﻮﻳ ﻻ</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>ﻍﻮﻠﺒﻟﺍ</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>ﺔﻟﻮﻔﻃ</Childhood>
+  <!-- EN: male -->
+  <Male>ﺮﻛﺫ</Male>
+  <!-- EN: female -->
+  <Female>ﻰﺜﻧﺃ</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>ﻰﺜﻧﺃﻭ ﺮﻛﺫ</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>ﺮﻛﺫ</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>ﻰﺜﻧﺃ</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>ﻢﻟﺃ</Pain>
+  <!-- EN: Health -->
+  <Health>ﺔﺤﺻ</Health>
+  <!-- EN: Relations -->
+  <Relations>ﺕﺎﻗﻼﻋ</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>ﺕﺎﻜﻠﺘﻤﻣ</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>ﻖﻳﺮﻔﻟﺍ ﺕﺍﺭﺎﻬﻣ</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>ﺭﺎﺘﺧُﻣ</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>ﻩﺀﺍﺭﻭ ﻙﺭُﺗ</StartingPawnsLeftBehind>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>. ﻢﻬﺘﻠﻘﺘﻋﺍ ﻭﺃ ﻢﻬﺘﻣﺪﻋﺃ ﻭﺃ ﻢﻬﺘﻴﻔﻧ ﺍﺫﺇ ﻥﻭﺮﺧﻵﺍ ﻢﺘﻬﻳ ﻦﻟ. ﺍًﺒﻧﺬﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺮﺒﺘﻋُﻳ\n\nﺪﻌﺑ ﺓﺪﻤﻟﺍ ﻲﻬﺘﻨﺗ</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>ﺃﺪﺑﺍ</Start>
+  <!-- EN: Advanced -->
+  <Advanced>ﻡﺪﻘﺘﻣ</Advanced>
+  <!-- EN: Next -->
+  <Next>ﻲﻟﺎﺘﻟﺍ</Next>
+  <!-- EN: Back -->
+  <Back>ﻉﻮﺟﺭ</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>…ﺓﺩﺎﻤﻟﺍ ﺭّﻴﻏ</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃ</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>. ﻅﻮﻔﺤﻤﻟﺍ ﺮﻴﻏ ﻡﺪﻘﺘﻟﺍ ﺪﻘﻔﺘﺳ ؟ﺍًﻘﺣ ﺝﻭﺮﺨﻟﺍ ﺩﻮﺗ ﻞﻫ</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>. ﺢﻟﺎﺻ ﻢﺳﺍ ﺺﺨﺷ ﻞﻜﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>. ﻒﺋﺎﻇﻮﻟﺍ ﻩﺬﻬﺑ ﻡﺎﻴﻘﻟﺍ ﻦﻳﺭﺎﺘﺨﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﻱﺃ ﻊﻴﻄﺘﺴﻳ ﻻ</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>ﺀﺎﻬﻧﺇ</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>ﻞﻫﺎﺠﺗ</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>ﺐﻛﻮﻛ ﺪﻴﻟﻮﺗ</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>ﺔﻄﻳﺮﺧ ﺀﺎﺸﻧﺇ</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>ﺓﺪﻳﺪﺟ ﺔﻬﺟﺍﻮﻤﻟ ﺔﻄﻳﺮﺧ ﺀﺎﺸﻧﺇ</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>. ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻠﻟ ﺮﻘﻧﺍ</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>. ﺔﻴﻓﺎﺿﺇ ﺕﺎﻣﻮﻠﻌﻣ ﺮﻓﻮﺘﺗ ﻻ</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>ﺓﺭﺎﻬﻣ ﻞﻀﻓﺃ</BestSkillLabel>
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>{PAWN_nameDef} ـﻝ ﺔﻴﺋﺎﺼﺣﺇ ﻞﻀﻓﺃ</BestSkillLetterLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>{0} ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</BestSkillInfoLevel>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>ﻞﺋﺎﺼﻓ</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﺔﻴﺳﺎﺳﺃ ﻞﺋﺎﺼﻓ {0} ﻰﺼﻗﺃ</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>{0} ﻰﺼﻗﺃ</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>. ًﻻﺎﻤﺟﺇ ﻞﺋﺎﺼﻓ {0} ﻰﻟﺇ ﻞﺼﻳ ﺎﻣ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ. ﻢﻟﺎﻌﻟﺍ ﻲﻓ ﻞﺋﺎﺼﻔﻟﺍ ﺩﺪﺣ</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>. ﻞﻗﺃ ًﻯﻮﺘﺤﻣﻭ ﻡﺎﻬﻤﻟﺍ ﻉﻮﻨﺗ ﻞﻴﻠﻘﺗ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>. ﺔﻴﺋﺎﻘﻠﺘﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻲﻓ ﻞﻗﺃ ﺍًﻋﻮﻨﺗ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>. ﺔﻴﺋﺎﻘﻠﺘﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍﻭ ﻡﺎﻬﻤﻟﺍ ﻉﻮﻨﺗ ﻞﻴﻠﻘﺗ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>. ﺩﺎﺘﻌﻤﻟﺎﻛ ﻡﺎﻬﻤﻟﺍﻭ ﺓﺭﺎﺠﺘﻟﺍﻭ ﺕﺍﺭﺎﻐﻟﺍ ﺙﺪﺤﺗ ﻦﻟ ،ﻯﺮﺧﺃ ﻞﺋﺎﺼﻓ ﻥﻭﺪﺑ</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>: ﺔﻤﺳﺎﺣ ﺪﻋﺍﻮﻗ\nﻦﻴﺳﻮﻗ ﻦﻴﺑ ﺕﺎﻘﻴﻠﻌﺗ ﻭﺃ ،ﺕﺎﻈﺣﻼﻣ ،ﺕﺍﺮﻴﺴﻔﺗ ﻻ-\n[ﺧﻴﺎﺭ ﻭﺍﺣﺪ ﻓﻘﻂ، ﻞﺋﺍﺪﺑ ﻻ - ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺔﻤﺟﺮﺗ-</FactionRemovalDisabled>
+
+</LanguageData>

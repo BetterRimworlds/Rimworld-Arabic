@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->.[siteFaction_name] ﻞﻴﺼﻓ ﻪﻴﻠﻋ ﺮﻄﻴﺴﺗ ﺮﻜﺴﻌﻤﻟﺍ .ﻢﻬﻠﻓﺍﻮﻗ ﻥﻮﻤﺟﺎﻬﻳ ﺍﻮﻧﺎﻛ ﺐﻳﺮﻗ ﺮﻜﺴﻌﻣ ﻲﻓ ﻥﻮﻤﻴﻘﻤﻟﺍ [siteFaction_pawnsPlural] ،ﻭﺪﺒﻳ ﺎﻣ ﻰﻠﻋ .ﺔﻟﺎﺳﺭ ﺎﻨﻟ ﻞﺳﺭﺃ ،[asker_faction_name] ﻞﻴﺼﻓ ﻦﻣ [asker_faction_leaderTitle] ،[asker_nameFull]\n\n.[sitePart0_description] ﻥﺃ ﻝﻮﻘﻳ [asker_label] .ﺝﺍﺮﺑﺄﻟﺍﻭ ﺀﺍﺪﻋﺄﻟﺍ ﻊﻴﻤﺟ ﻰﻠﻋ ﺀﺎﻀﻘﻟﺍ ﻲﻨﻌﻳ ﺎﻤﻣ ،ﺮﻜﺴﻌﻤﻟﺍ ﺮﻴﻣﺪﺗ ﺎﻨﻣ ﺐﻠﻄﻳ [asker_nameDef]</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[bandit] ـﻞﻟ [camp]</li>
+    <li>questName->[bandit] ﻢﻴﺨﻣ [camp_indef]</li>
+    <li>questName->[camp_def] ﻭ [asker_nameDef]</li>
+    <li>camp->ﺮَﻜْﺴَﻌُﻤﻟﺍ</li>
+    <li>camp->ﻲﻣﺎﻣﺄﻟﺍ ﻊﻗﻮﻤﻟﺍ</li>
+    <li>camp->ﺄﺒﺨﻤﻟﺍ</li>
+    <li>camp->ﺮﻜﺴﻌﻤﻟﺍ</li>
+    <li>camp_def->ﺮَﻜْﺴَﻌُﻤﻟﺍ</li>
+    <li>camp_def->ﻲﻣﺎﻣﺄﻟﺍ ﻊﻗﻮﻤﻟﺍ</li>
+    <li>camp_def->ﺄﺒﺨﻤﻟﺍ</li>
+    <li>camp_def->ﺮﻜﺴﻌﻤﻟﺍ</li>
+    <li>camp_indef->ﻢﻴﺨﻣ</li>
+    <li>camp_indef->ﻡﺪﻘﺘﻣ ﻊﻗﻮﻣ</li>
+    <li>camp_indef->ﻯﻭﺄﻣ</li>
+    <li>camp_indef->ﺮَﻜْﺴَﻌُﻣ</li>
+    <li>bandit->ﺹﻮﺼﻟ</li>
+    <li>bandit->ﺓﺍﺰﻏ</li>
+    <li>bandit->ﻥﻭﺩﺮﻤﺘﻣ</li>
+    <li>bandit->ﻥﻮﻣﺮﺠﻣ</li>
+    <li>bandit->ﻥﻮﺑﺭﺎﻫ</li>
+    <li>bandit->َﻥﻭُﺮﻴِﻐُﻣ</li>
+    <li>bandit->ﺹﻮﺼﻟ</li>
+    <li>bandit->ﺹﻮﺼﻟ</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>[resolvedQuestName] :ﺔﻤﻬﻤﻟﺍ ﺖﻬﺘﻧﺍ</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>.ﺎﻬﺘﻴﺣﺎﻠﺻ ﺖﻬﺘﻧﺍ ﺪﻗ [resolvedQuestName] ﺔﻤﻬﻤﻟﺍ .ﻞﻘﺘﻧﺍﻭ ﻪﺿﺍﺮﻏﺃ ﻊﻤﺟ ﺪﻗ ﺹﻮﺼﻠﻟﺍ ﺮﻜﺴﻌﻣ</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>[resolvedQuestName] :ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>ﺔﻤﻬﻤﻟﺍ ﺖﻬﺘﻧﺍ [resolvedQuestName] ﻪﺿﺍﺮﻏﺃ ﻡﺰﺣﻭ ﺹﻮﺼﻠﻟﺍ ﺮﻜﺴﻌﻣ ّﺮﻓ ،ﻢﻬﻓﺎﺸﺘﻛﺍ ﺪﻌﺑ</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>.ﻊﻓﺪﻟﺍ ﻞﺻﻭ</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>ﺹﻮﺼﻠﻟﺍ ﺮﻜﺴﻌﻣ ﺖﻣﺰﻫ ﺪﻘﻟ\n\n.ﻞﺻﻭ [asker_faction_name] ﻞﻴﺼﻔﻟﺍ ﺓﺪﻋﺎﺴﻤﻟ ﻊﻓﺪﻟﺍ</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>.ﺔﻣﺪﺨﻟﺍ ﺍﺬﻫ ﻞﺑﺎﻘﻣ [asker_faction_royalFavorLabel] ﻦﻣ [royalFavorReward_amount] ﻰﻘﻠﺘﻳ ﻥﺃ ﺐﺠﻳ ﻦﻣ ﻑﺮﻌﻳ ﻥﺃ ﺪﻳﺮﻳ [asker_definite] .[resolvedQuestName] ﺔﻤﻬﻤﻟﺍ ﺭﺎﺼﺘﻧﺍ ﻲﻓ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﺎﻟﺆﻫ ﻙﺭﺎﺷ</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary egg (fert.) -->
+  <EggCassowaryFertilized.label>)ﺐﺼﺧ (ﻯﺭﺍﻮﺳﺎﻜﻟﺍ ﺔﻀﻴﺑ</EggCassowaryFertilized.label>
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryFertilized.description>. ﻪﻴﻬﻃ ﺪﻨﻋ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﻪﻨﻜﻟﻭ ،ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺮﻴﻐﺻ ﻱﺭﻮﺳﺎﻛ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﻱﺭﻮﺳﺎﻛ ﺔﻀﻴﺑ</EggCassowaryFertilized.description>
+  
+  <!-- EN: cassowary egg (unfert.) -->
+  <EggCassowaryUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﻯﺭﺍﻮﺳﺎﻜﻟﺍ ﺔﻀﻴﺑ</EggCassowaryUnfertilized.label>
+  <!-- EN: An unfertilized cassowary egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﻱﺭﻮﺳﺎﻛ ﺔﻀﻴﺑ</EggCassowaryUnfertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>)ﺐﺼﺧ (ﺝﺎﺟﺩ ﺔﻀﻴﺑ</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺍًﺗﻮﻜﺘﻛ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺝﺎﺟﺩ ﺔﻀﻴﺑ</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﺝﺎﺟﺩ ﺔﻀﻴﺑ</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ ،ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺝﺎﺟﺩ ﺔﻀﻴﺑ</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>)ﺐﺼﺧ (ﻰﻌﻓﺃ ﺔﻀﻴﺑ</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﺍﺮﺑﻮﻛ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺍﺮﺑﻮﻛ ﺔﻀﻴﺑ</EggCobraFertilized.description>
+  
+  <!-- EN: cobra egg (unfert.) -->
+  <EggCobraUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﻰﻌﻓﺃ ﺔﻀﻴﺑ</EggCobraUnfertilized.label>
+  <!-- EN: An unfertilized cobra egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ ،ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺍﺮﺑﻮﻛ ﺔﻀﻴﺑ</EggCobraUnfertilized.description>
+  
+  <!-- EN: duck egg (fert.) -->
+  <EggDuckFertilized.label>)ﺐﺼﺧ (ﻂﺑ ﺔﻀﻴﺑ</EggDuckFertilized.label>
+  <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
+  <EggDuckFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺮﻴﻐﺻ ﻂﺑ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﻂﺑ ﺔﻀﻴﺑ</EggDuckFertilized.description>
+  
+  <!-- EN: duck egg (unfert.) -->
+  <EggDuckUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﻂﺑ ﺔﻀﻴﺑ</EggDuckUnfertilized.label>
+  <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggDuckUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﻂﺑ ﺔﻀﻴﺑ</EggDuckUnfertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
+  <EggEmuFertilized.label>)ﺐﺼﺧ (ﻮﻤﻳﺇ ﺔﻀﻴﺑ</EggEmuFertilized.label>
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﻮﻤﻳﺇ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﻮﻤﻳﺇ ﺔﻀﻴﺑ</EggEmuFertilized.description>
+  
+  <!-- EN: emu egg (unfert.) -->
+  <EggEmuUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﻮﻤﻳﺇ ﺔﻀﻴﺑ</EggEmuUnfertilized.label>
+  <!-- EN: An unfertilized emu egg. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﻮﻤﻳﺇ ﺔﻀﻴﺑ</EggEmuUnfertilized.description>
+  
+  <!-- EN: goose egg (fert.) -->
+  <EggGooseFertilized.label>)ﺐﺼﺧ (ﺯﻭﺇ ﺔﻀﻴﺑ</EggGooseFertilized.label>
+  <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
+  <EggGooseFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﺓﺯﻭﺇ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺓﺯﻭﺇ ﺔﻀﻴﺑ</EggGooseFertilized.description>
+  
+  <!-- EN: goose egg (unfert.) -->
+  <EggGooseUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﺯﻭﺇ ﺔﻀﻴﺑ</EggGooseUnfertilized.label>
+  <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggGooseUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺓﺯﻭﺇ ﺔﻀﻴﺑ</EggGooseUnfertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>)ﺔﺒﺼﺧ (ﺎﻧﺍﻮﻏﺇ ﺔﻀﻴﺑ</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﺎﻧﺍﻮﻏﺇ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺎﻧﺍﻮﻏﺇ ﺔﻀﻴﺑ</EggIguanaFertilized.description>
+  
+  <!-- EN: iguana egg (unfert.) -->
+  <EggIguanaUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﺎﻧﺍﻮﻏﺇ ﺔﻀﻴﺑ</EggIguanaUnfertilized.label>
+  <!-- EN: An unfertilized iguana egg. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ ،ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺎﻧﺍﻮﻏﺇ ﺔﻀﻴﺑ</EggIguanaUnfertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
+  <EggOstrichFertilized.label>)ﺔﺒﺼﺧ (ﺔﻣﺎﻌﻧ ﺔﻀﻴﺑ</EggOstrichFertilized.label>
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﺔﻣﺎﻌﻧ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺔﻣﺎﻌﻧ ﺔﻀﻴﺑ</EggOstrichFertilized.description>
+  
+  <!-- EN: ostrich egg (unfert.) -->
+  <EggOstrichUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﺔﻣﺎﻌﻧ ﺔﻀﻴﺑ</EggOstrichUnfertilized.label>
+  <!-- EN: An unfertilized ostrich egg. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ ،ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺔﻣﺎﻌﻧ ﺔﻀﻴﺑ</EggOstrichUnfertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>)ﺐﺼﺧ (ﺓﺎﻔﺤﻠﺳ ﺔﻀﻴﺑ</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺓﺮﻴﻐﺻ ﺓﺎﻔﺤﻠﺳ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﺓﺎﻔﺤﻠﺳ ﺔﻀﻴﺑ</EggTortoiseFertilized.description>
+  
+  <!-- EN: tortoise egg (unfert.) -->
+  <EggTortoiseUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﺓﺎﻔﺤﻠﺳ ﺔﻀﻴﺑ</EggTortoiseUnfertilized.label>
+  <!-- EN: An unfertilized tortoise egg. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ ،ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﺓﺎﻔﺤﻠﺳ ﺔﻀﻴﺑ</EggTortoiseUnfertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
+  <EggTurkeyFertilized.label>)ﺐﺼﺧ (ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﻀﻴﺑ</EggTurkeyFertilized.label>
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyFertilized.description>. ﻪﻴﻬﻃ ﺪﻨﻋ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﻪﻨﻜﻟﻭ ،ﺍًﺌﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺮﻴﻐﺻ ﻲﻣﻭﺭ ﻚﻳﺩ ﺢﺒﺼﺘﻟ ﺲﻘﻔﺗ ﻥﺃ ﺐﺠﻳ ،ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ ﺭﻮﻣﻷﺍ ﺕﺭﺎﺳ ﺍﺫﺇ. ﺔﺒﺼﺨﻣ ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﻀﻴﺑ</EggTurkeyFertilized.description>
+  
+  <!-- EN: turkey egg (unfert.) -->
+  <EggTurkeyUnfertilized.label>)ﺔﺒﺼﺨﻣ ﺮﻴﻏ (ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﻀﻴﺑ</EggTurkeyUnfertilized.label>
+  <!-- EN: An unfertilized turkey egg. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyUnfertilized.description>. ﺔﺧﻮﺒﻄﻣ ﺮﻴﺜﻜﺑ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟ ،ﺔﺌﻴﻧ ﺎﻬﻟﻭﺎﻨﺗ ﻦﻜﻤﻳ. ﺔﺒﺼﺨﻣ ﺮﻴﻏ ﻲﻣﻭﺭ ﻚﻳﺩ ﺔﻀﻴﺑ</EggTurkeyUnfertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>ﺕﺍﺮﺸﺣ ﻡﻼﻫ</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food. -->
+  <InsectJelly.description>. ﺍًﺪﺑﺃ ﻦﻔﻌﺘﻳ ﻻﻭ ﺍًﺒﻳﺮﻘﺗ ﻦﺋﺎﻛ ﻱﺃ ﺔﻳﺬﻐﺗ ﻪﻨﻜﻤﻳ ،ﺓﺪﻳﺮﻔﻟﺍ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﻪﺼﺋﺎﺼﺨﻟ ﺍًﺮﻈﻧ. ﻪﻟﻭﺎﻨﺘﻳ ﻦﻣ ﻯﺪﻟ ﻪﻴﻓﺮﺘﻟﺍ ﺔﺟﺎﺣ ﻲﺒﻠﻳﻭ ﻲﻨﻏﻭ ﻢﻋﺎﻧ ﻪﻧﺇ. ﺔﻤﺨﻀﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻞﺒﻗ ﻦﻣ ﺀﺍﺬﻐﻛ ﻡﺪﺨﺘﺴﻣﻭ ﻥﺰﺨﻣ ﻡﻼﻫ\n\n. ﻊﺿﺮﻟﺍ ﻝﺎﻔﻃﻸﻟ ﺍًﻴﻟﺎﺜﻣ ﺍًﻣﺎﻌﻃ ﻪﻠﻌﺠﻳ ﻲﺋﺍﺬﻐﻟﺍ ﻪﻧﺯﺍﻮﺗﻭ ﻪﻣﺍﻮﻗ ﻥﺈﻓ ،ﺐﻳﺮﻏ ﻞﻜﺸﺑ</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>ﺐﻴﻠﺣ</Milk.label>
+  <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
+  <Milk.description>. ﻥﺍﻮﻴﺣ ﻦﻣ ﺐﻴﻠﺣ\n\n. ﺮﺸﺒﻟﺍ ﻦﻣ ﺓﺩﻻﻮﻟﺍ ﻲﺜﻳﺪﺤﻟ ﺐﻴﻠﺤﻟﺍ ﺀﺎﻄﻋﺇ ﻦﻜﻤﻳ</Milk.description>
+  
+  <!-- EN: skull -->
+  <Skull.label>ﺔﻤﺠﻤﺟ</Skull.label>
+  <!-- EN: A human skull. -->
+  <Skull.description>. ﺔﻳﺮﺸﺑ ﺔﻤﺠﻤﺟ</Skull.description>
+  
+</LanguageData>

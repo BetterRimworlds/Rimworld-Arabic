@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>ﺥﺎﺳﻭﺃ</DirtInEyes.label>
+  <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <DirtInEyes.description>. ﺕﺎﻈﺤﻟ ﻊﻀﺑ ﻲﻓ ﺎﻬﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻳﺅﺮﻟﺍ ﻖﻴﻌﻳ. ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﺥﺎﺳﻭﺃ</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>ﻰﻤﻋﺃ</DirtInEyes.battleStateLabel>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>ﺥﺎﺳﻭﺃ</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>ﻰﺼﺣ</GravelInEyes.label>
+  <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <GravelInEyes.description>. ﺕﺎﻈﺤﻟ ﻊﻀﺑ ﻲﻓ ﻪﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻳﺅﺮﻟﺍ ﻖﻴﻌﻳ ،ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﻰﺼﺣ</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>ﻰﻤﻋﺃ</GravelInEyes.battleStateLabel>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>ﻰﺼﺣ</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>ﻞﺣﻭ</MudInEyes.label>
+  <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <MudInEyes.description>. ﺕﺎﻈﺤﻟ ﻊﻀﺑ ﻲﻓ ﻪﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻳﺅﺮﻟﺍ ﻖﻴﻌﻳ ،ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﻞﺣﻭ</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>ﻰﻤﻋﺃ</MudInEyes.battleStateLabel>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>ﻞﺣﻭ</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>ﻞﻣﺭ</SandInEyes.label>
+  <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
+  <SandInEyes.description>. ﺔﻠﻴﻠﻗ ﺕﺎﻈﺤﻟ ﻝﻼﺧ ﻪﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻳﺅﺮﻟﺍ ﻖﻴﻌﻳ ،ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﻞﻣﺭ</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>ﻰﻤﻋﺃ</SandInEyes.battleStateLabel>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>ﻞﻣﺭ</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>ﺀﺎﻣ</WaterInEyes.label>
+  <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <WaterInEyes.description>. ﺕﺎﻈﺤﻟ ﻊﻀﺑ ﻲﻓ ﻪﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺔﻳﺅﺮﻟﺍ ﻖﻴﻌﻳ ،ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﺀﺎﻣ</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>ﻰﻤﻋﺃ</WaterInEyes.battleStateLabel>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>ﺀﺎﻣ</WaterInEyes.labelNoun>
+  
+</LanguageData>

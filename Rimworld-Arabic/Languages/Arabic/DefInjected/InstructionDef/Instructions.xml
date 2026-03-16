@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
+  <AcceptStartingPawns.text>!ﻡﺎﻤﺘﻫﻼﻟ ﺓﺭﺎﺛﺇ ﺮﺜﻛﺃ ﺔﺼﻘﻟﺍ ﻞﻌﺠﻳ ﺍﺬﻫﻭ ،ﺏﻮﻴﻋ ﻢﻬﻳﺪﻟ ﻊﻴﻤﺠﻟﺍ. ﺔﻴﻟﺎﺜﻤﻟﺍ ﻑﺮﺣﻷﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻝﻭﺎﺤﺗ ﻻ ﻦﻜﻟ – ﺕﺩﺭﺃ ﺍﺫﺇ ﺮﺒﻛﺃ ﻞﻜﺸﺑ ﺝﺰﻤﻟﺍﻭ ﺐﻴﺗﺮﺘﻟﺍ ﺪﻋﺃ\n\n. ﻢﻬﺋﺎﻤﺳﺃ ﻰﻠﻋ ﺮﻘﻨﻟﺎﺑ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ\n\n. ﺍًﺪﻌﺘﺴﻣ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﺃﺪﺑﺍ ﻰﻠﻋ ﺮﻘﻧﺍ</AcceptStartingPawns.text>
+  
+  <!-- EN: Select this -->
+  <AddBillSimpleMeal.onMapInstruction>ﺍﺬﻫ ﺮﺘﺧﺍ</AddBillSimpleMeal.onMapInstruction>
+  <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
+  <AddBillSimpleMeal.rejectInputMessage>. ﻚﺑ ﺹﺎﺨﻟﺍ ﻲﻬﻄﻟﺍ ﺪﻗﻮﻣ ﻰﻠﻋ ﺔﻄﻴﺴﺑ ﺕﺎﺒﺟﻭ ﻲﻬﻄﻟ ﺓﺭﻮﺗﺎﻓ ﻒﺿﺃ</AddBillSimpleMeal.rejectInputMessage>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
+  <AddBillSimpleMeal.text>. ﻪﻴﻬﻃ ﺐﺠﻳ ﺎﻤﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺎﺒﺧﺇ ﺐﺠﻳ\n\n. ﺍًﻴﺋﺎﻘﻠﺗ ﻞﻤﻌﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺃﺪﺒﻴﺳ ،ﺓﺭﻮﺗﺎﻓ ﺀﺎﺸﻧﺇ ﺩﺮﺠﻤﺑ. ﻪﺴﻔﻧ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﻲﻬﻄﻟﺍ ﺮﻣﺍﻭﺃ ﻑﺎﺿُﺗ\n\n. ﺪﻗﻮﻤﻟﺍ ﺀﺎﻨﺑ ﻢﺘﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ 1.\n. ﻩﺪﻳﺪﺤﺘﻟ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n. ﺮﻴﺗﺍﻮﻔﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ 3.\n. ﺓﺭﻮﺗﺎﻓ ﺔﻓﺎﺿﺇ ﻰﻠﻋ ﺮﻘﻧﺍ 4.\n. ﺔﻴﻗﺎﻴﺴﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﻲﻬﻃ ﺩﺪﺣ 5.\n10. ﻰﻟﺇ ﺩﺪﻌﻟﺍ ﺓﺩﺎﻳﺰﻟ + ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ 6.\n\n. ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺀﺎﻨﺒﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ ،ﺮﻛﺬﺗ\n\n. ﻪﺋﺎﻨﺒﻟ ﺔﻳﻮﻟﻭﻷﺍ ﺀﺎﻄﻋﻹ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻨﻟﺍﻭ ﺮﻤﻌﺘﺴﻣ ﺪﻳﺪﺤﺗ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ</AddBillSimpleMeal.text>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
+  <AddBillSimpleMeal.textController>. ﻪﻴﻬﻃ ﺐﺠﻳ ﺎﻤﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺎﺒﺧﺇ ﺐﺠﻳ\n\n. ﺍًﻴﺋﺎﻘﻠﺗ ﻞﻤﻌﻟﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺃﺪﺒﻴﺳ ،ﺓﺭﻮﺗﺎﻓ ﺀﺎﺸﻧﺇ ﺩﺮﺠﻤﺑ. ﻪﺴﻔﻧ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﻲﻬﻄﻟﺍ ﺮﻣﺍﻭﺃ ﻑﺎﺿُﺗ\n\n. ﺪﻗﻮﻤﻟﺍ ﺀﺎﻨﺑ ﻢﺘﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ 1.\n. ﻩﺪﻳﺪﺤﺘﻟ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n. ﺮﻴﺗﺍﻮﻔﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ 3.\n. ﺓﺭﻮﺗﺎﻓ ﺔﻓﺎﺿﺇ ﻰﻠﻋ ﺮﻘﻧﺍ 4.\n. ﺔﻴﻗﺎﻴﺴﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﻲﻬﻃ ﺩﺪﺣ 5.\n10. ﻰﻟﺇ ﺩﺪﻌﻟﺍ ﺓﺩﺎﻳﺰﻟ + ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ 6.\n\n. ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺀﺎﻨﺒﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ ،ﺮﻛﺬﺗ\n\n. ﻪﺋﺎﻨﺒﻟ ﺔﻳﻮﻟﻭﻷﺍ ﺀﺎﻄﻋﻹ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﻀﻟﺍﻭ ﺮﻤﻌﺘﺴﻣ ﺪﻳﺪﺤﺗ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ</AddBillSimpleMeal.textController>
+  
+  <!-- EN: Build an animal sleeping spot\ninside the room -->
+  <BuildAnimalSleepingSpot.onMapInstruction>ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻡﻮﻧ ﻥﺎﻜﻣ ﺊﺸﻧﺃ\nﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ</BuildAnimalSleepingSpot.onMapInstruction>
+  <!-- EN: Please place an animal sleeping spot inside the room. -->
+  <BuildAnimalSleepingSpot.rejectInputMessage>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻡﻮﻧ ﻥﺎﻜﻣ ﻊﺿ</BuildAnimalSleepingSpot.rejectInputMessage>
+  <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
+  <BuildAnimalSleepingSpot.text>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ِﺕﺎﻧﺍﻮﻴﺤﻠﻟ ٍﻡﻮﻧ َﺔﻌﻘﺑ َﻊﺿ ،ﻚﻌﻣ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻒﻴﻟﻷﺍ ﻚﻧﺍﻮﻴﺣ ﻡﺎﻨﻳ ﻑﻮﺳ\n\n. ﻡﻮﻨﻠﻟ ﺔﺼﺼﺨﻣ ﺽﺭﻷﺍ ﻰﻠﻋ ٍﻊﻘﺑ ﺩﺮﺠﻣ ﺎﻬﻧﺇ – ﺔﻴﻘﻴﻘﺣ ﻲﻧﺎﺒﻣ ﺖﺴﻴﻟ ﻡﻮﻨﻟﺍ ﻊﻘﺑ</BuildAnimalSleepingSpot.text>
+  
+  <!-- EN: Build three beds inside the room -->
+  <BuildBeds.onMapInstruction>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺓﺮﺳﺃ ﺔﺛﻼﺛ ِﻦﺑﺍ</BuildBeds.onMapInstruction>
+  <!-- EN: Please build wooden beds inside the room. -->
+  <BuildBeds.rejectInputMessage>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺔﻴﺒﺸﺧ ﺓﺮﺳﺃ ِﻦﺑﺍ</BuildBeds.rejectInputMessage>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
+  <BuildBeds.text>!ﺔﻓﺮﻐﻟﺍ ﺀﺎﻨﺑ ﻲﻓ ﻥﻵﺍ ﻙﻮﻨﻃﻮﺘﺴﻣ ﺃﺪﺒﻴﺳ\n\n. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺓَّﺭِﺳَﺃ ﺔﺛﻼﺛ ﻊﺿ. ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳ ﻥﻵﺍ\n\n. ﺙﺎﺛﻷﺍ ﺔﺌﻓ ﻲﻓ ﺎﻬﻨﻋ ﺚﺤﺑﺍ\n\n. ﻰﻨﺒﻤﻟﺍ ﺮﻳﻭﺪﺘﻟ {Key:Designator_RotateRight} ﻭ {Key:Designator_RotateLeft} ﻲﺣﺎﺘﻔﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ</BuildBeds.text>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can rotate the building by pressing the rotate buttons on the left. -->
+  <BuildBeds.textController>!ﻥﻵﺍ ﺔﻓﺮﻐﻟﺍ ﻙﻭﺮﻤﻌﺘﺴﻣ ﻲﻨﺒﻴﺳ\n\n. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺓَّﺭِﺳَﺃ ﺔﺛﻼﺛ ﻊﺿ. ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳ ﻥﻵﺍ\n\n. ﺙﺎﺛﻷﺍ ﺔﺌﻓ ﻲﻓ ﺎﻬﻨﻋ ﺚﺤﺑﺍ\n\n. ﺭﺎﺴﻴﻟﺍ ﻰﻠﻋ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺮﻳﻭﺪﺘﻟﺍ ﺭﺍﺭﺯﺃ ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﻰﻨﺒﻤﻟﺍ ﺮﻳﻭﺪﺗ ﻚﻨﻜﻤﻳ</BuildBeds.textController>
+  
+  <!-- EN: Build a fueled stove inside the room -->
+  <BuildFueledStove.onMapInstruction>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺩﻮﻗﻮﻟﺎﺑ ﺍًﺩَّﻗﻭُﻣ ﺍًﺪﻗﻮﻣ ِﻦﺑﺍ</BuildFueledStove.onMapInstruction>
+  <!-- EN: Please build the fueled stove inside the room you built earlier. -->
+  <BuildFueledStove.rejectInputMessage>. ﺍًﻘﺑﺎﺳ ﺎﻬﺘﻴﻨﺑ ﻲﺘﻟﺍ ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺩﻮﻗﻮﻟﺎﺑ ﻞﻤﻌﻳ ﻱﺬﻟﺍ ﺪﻗﻮﻤﻟﺍ ﺀﺎﻨﺑ ﻰﺟﺮﻳ</BuildFueledStove.rejectInputMessage>
+  <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
+  <BuildFueledStove.text>. ﻡﺎﻌﻄﻟﺍ ﻲﻬﻄﻟ ﺪﻗﻮﻣ ﻊﻨﺻ ﻰﻟﺇ ﺝﺎﺘﺤﺗ\n\n. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺍًﺩَّﻗﻭُﻣ ﺍًﺪﻗﻮﻣ ِﻦﺑﺍ</BuildFueledStove.text>
+  
+  <!-- EN: Build a horseshoes pin\noutside the room -->
+  <BuildHorseshoesPin.onMapInstruction>ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﺱﻮﺑﺩ ﻊﻨﺻﺍ\nﺔﻓﺮﻐﻟﺍ ﺝﺭﺎﺧ</BuildHorseshoesPin.onMapInstruction>
+  <!-- EN: Please place a horseshoes pin somewhere near the room. -->
+  <BuildHorseshoesPin.rejectInputMessage>. ﺔﻓﺮﻐﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻥﺎﺼﺣ ﺓﻭﺪﺣ ﻞﻜﺷ ﻰﻠﻋ ﺍًﺳﻮﺑﺩ ﻊﺿ</BuildHorseshoesPin.rejectInputMessage>
+  <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
+  <BuildHorseshoesPin.text>. ﺖﻗﻮﻟﺍ ﺭﻭﺮﻤﺑ ﻥﺰﺤﻟﺎﺑ ﻥﻭﺮﻌﺸﻴﺳ ﻻﺇﻭ ﻪﻴﻓﺮﺘﻠﻟ ﺭﺩﺎﺼﻣ ﻰﻟﺇ ﻙﻮﻨﻃﻮﺘﺴﻣ ﺝﺎﺘﺤﻳ\n\n. ﺔﻓﺮﻐﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ،ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻥﺎﺼﺣ ﺓﻭﺪﺣ َﺐﻌﻠﻣ ِﻦﺑﺍ</BuildHorseshoesPin.text>
+  
+  <!-- EN: Build a door over one wall -->
+  <BuildRoomDoor.onMapInstruction>. ﺪﺣﺍﻭ ﻂﺋﺎﺣ ﻕﻮﻓ ﺍًﺑﺎﺑ ِﻦﺑﺍ</BuildRoomDoor.onMapInstruction>
+  <!-- EN: Please build a wooden door over one of your room walls. -->
+  <BuildRoomDoor.rejectInputMessage>. ﻚﺘﻓﺮﻏ ﻥﺍﺭﺪﺟ ﺪﺣﺃ ﻕﻮﻓ ﺍًﻴﺒﺸﺧ ﺍًﺑﺎﺑ ِﻦﺑﺍ</BuildRoomDoor.rejectInputMessage>
+  <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
+  <BuildRoomDoor.text>. ﺔﻓﺮﻐﻟﺍ ﻥﺍﺭﺪﺟ ﻦﻣ ﻱﺃ ﻕﻮﻓ ﺍًﺑﺎﺑ ﻊﺿ\n\n. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ًﺓﺮﺷﺎﺒﻣ ﺭﺍﺪﺠﻟﺍ ﺭﺍﻮﺠﺑ ﺏﺎﺒﻟﺍ</BuildRoomDoor.text>
+  
+  <!-- EN: Build walls -->
+  <BuildRoomWalls.onMapInstruction>ﺍًﻧﺍﺭﺪﺟ ِﻦﺑﺍ</BuildRoomWalls.onMapInstruction>
+  <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
+  <BuildRoomWalls.rejectInputMessage>. ﺩﺪﺤﻤﻟﺍ ﻞﻴﻄﺘﺴﻤﻟﺍ ﻑﺍﻮﺣ ﻝﻮﻃ ﻰﻠﻋ ﺔﻴﺒﺸﺧ ﺍًﻧﺍﺭﺪﺟ ِﻦﺑﺍ</BuildRoomWalls.rejectInputMessage>
+  <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
+  <BuildRoomWalls.text>. ﻥﻵﺍ ﺔﻓﺮﻏ ﻲﻨﺒﻨﺳ! ﻊﺋﺍﺭ\n\n. ﺭﺎﻤﻌﻣ ﺮﻘﻧﺍ 1.\n. ﻞﻜﻴﻫ ﺮﻘﻧﺍ 2.\n. ﺭﺍﺪﺟ ﺩﺪﺣ 3.\n. ﺓﺩﺎﻤﻛ ﺐﺸﺧ ﺩﺪﺣ 4.\n. ﺔﻄﻳﺮﺨﻟﺍ ﻲﻓ ﻪﻴﻟﺇ ﺭﺎﺸﻤﻟﺍ ﻞﻜﺸﻟﺍ ﻞﻴﻜﺸﺘﻟ ﻥﺍﺭﺪﺟ ﺔﻌﺑﺭﺃ ﻢﺳﺭﺍ 5.</BuildRoomWalls.text>
+  
+  <!-- EN: Build sandbags here -->
+  <BuildSandbags.onMapInstruction>ﺎﻨﻫ ﻞﻣﺭ ﺱﺎﻴﻛﺃ ﺀﺎﻨﺑ</BuildSandbags.onMapInstruction>
+  <!-- EN: Please build sandbags in the highlighted area. -->
+  <BuildSandbags.rejectInputMessage>. ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﻴﻠﻣﺭ ﺱﺎﻴﻛﺃ ﺀﺎﻨﺑ ﻰﺟﺮﻳ</BuildSandbags.rejectInputMessage>
+  <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
+  <BuildSandbags.text>. ﻚﻟﺬﻟ ﺩﺍﺪﻌﺘﺳﻼﻟ ﺖﻗﻮﻟﺍ ﻥﺎﺣ. ﻚﺗﺮﻤﻌﺘﺴﻣ ﺀﺍﺪﻋﻷﺍ ﻢﺟﺎﻬﺘﺳ ،ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ! ﺔﻴﺳﺎﺳﺃ ﺓﺮﻤﻌﺘﺴﻣ ﻞﻴﻐﺸﺘﺑ ﻥﻵﺍ ﺖﻤﻗ ﺪﻘﻟ! ﺎﻨﻴﻧﺎﻬﺗ\n\n. ﺔﺼﺼﺨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﺐﺤﺳﺍﻭ ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﻥِّﻴﻋُﻣ ﺩﺪﺣ</BuildSandbags.text>
+  
+  <!-- EN: Build a wooden simple research bench\ninside the room -->
+  <BuildSimpleResearchBench.onMapInstruction>ﺔﻄﻴﺴﺑ ﺔﻴﺒﺸﺧ ﺙﺎﺤﺑﺃ ﺓﺪﻀﻨﻣ ِﻦﺑﺍ\nﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ</BuildSimpleResearchBench.onMapInstruction>
+  <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
+  <BuildSimpleResearchBench.rejectInputMessage>. ﺍًﻘﺑﺎﺳ ﺎﻬﺘﻴﻨﺑ ﻲﺘﻟﺍ ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﻲﺒﺸﺧ ﻂﻴﺴﺑ ﺚﺤﺑ ﺪﻌﻘﻣ ﻊﺿ</BuildSimpleResearchBench.rejectInputMessage>
+  <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
+  <BuildSimpleResearchBench.text>. ﺓﺪﻳﺪﺟ ﺕﺎﻴﻨﻘﺗ ﻦﻋ ﺚﺤﺒﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ ،ﺭﻮﻄﺘﻠﻟ\n\n. ﻚﺘﻓﺮﻏ ﻞﺧﺍﺩ ﻂﻴﺴﺑ ﻲﺒﺸﺧ ﺚﺤﺑ ﺪﻌﻘﻣ ِﻦﺑﺍ</BuildSimpleResearchBench.text>
+  
+  <!-- EN: Build a torch lamp inside the room -->
+  <BuildTorchLamp.onMapInstruction>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺍًّﻳِﻠﻌﺷ ﺍًﺣﺎﺒﺼﻣ ِﻦﺑﺍ</BuildTorchLamp.onMapInstruction>
+  <!-- EN: Please build a torch lamp inside the room. -->
+  <BuildTorchLamp.rejectInputMessage>. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺍًّﻳِﻠﻌﺷ ﺍًﺣﺎﺒﺼﻣ ِﻦﺑﺍ</BuildTorchLamp.rejectInputMessage>
+  <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
+  <BuildTorchLamp.text>. ﻡﻼﻈﻟﺍ ﻲﻓ ﻦﻳﺮﻣﺬﺘﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺢﺒﺼﻴﺳ ﻻﺇﻭ ،ﻞﺧﺍﺪﻟﺎﺑ ﺀﻮﻀﻟﺍ ﺾﻌﺑ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ\n\n. ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺍًّﻳِﻠﻌﺷ ﺍًﺣﺎﺒﺼﻣ ِﻦﺑﺍ</BuildTorchLamp.text>
+  
+  <!-- EN: Please open the 'Work' tab and change some settings. -->
+  <ChangeWorkSettings.rejectInputMessage>. ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻌﺑ ﺭّﻴﻏﻭ ' ﻞﻤﻌﻟﺍ 'ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</ChangeWorkSettings.rejectInputMessage>
+  <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
+  <ChangeWorkSettings.text>. ﻦﻴﻤﻴﻟﺍ ﻰﻟﺇ ﺭﺎﺴﻴﻟﺍ ﻦﻣ ،ﺐﻴﺗﺮﺘﻟﺎﺑ ﻡﺎﻬﻤﻟﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ. ﺭﺎﻴﺘﺧﻻﺍ ﺕﺎﻌﺑﺮﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻤﻌﻟﺍ ﻉﺍﻮﻧﺄﺑ ﻡﻮﻘﻳ ﻦﻤﻴﻓ ﻢﻜﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n. ﻥﻵﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻌﺑ ﺮﻴﻴﻐﺗ ﺏّﺮﺟ\n\n!ﺍًﺒﻟﺎﻏ ﺎﻬﻌﺟﺍﺭﻭ ،ﺔﻳﺎﻨﻌﺑ ﻞﻤﻌﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺒﺿﺍ ﺍﺬﻟ RimWorld. ﻲﻓ ﺔﻤﻬﻣ ﺓﺭﺎﻬﻣ ﻮﻫ ﻲﻛﺫ ﻞﻤﻋ ﻡﺎﻈﻧ ﺩﺍﺪﻋﺇ ﻥﺇ! ﺔﻴﺒﻏ ﺀﺎﻴﺷﺄﺑ ﻢﻬﻣﺎﻴﻗ ﻰﻟﺇ ﻚﻟﺫ ﻯﺩﺃ ﻮﻟ ﻰﺘﺣ ،ﻢﻬﻠﻤﻋ ﺕﺎﻳﻮﻟﻭﺃ ﺍًﻤﺋﺍﺩ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﺒﺘﻳ - ﺭﺬﺣﺍ</ChangeWorkSettings.text>
+  
+  <!-- EN: Please choose a temperate forest (light green color) site with no landmarks, no mixed biomes, and no hills. -->
+  <ChooseLandingSite.rejectInputMessage>. ﻝﻼﺗ ﻭﺃ ،ﺔﻄﻠﺘﺨﻣ ﺕﺎﺌﻴﺑ ﻭﺃ ،ﻢﻟﺎﻌﻣ ﻥﻭﺪﺑ) ﺢﺗﺎﻓ ﺮﻀﺧﺃ ﻥﻮﻟ (ﺔﻟﺪﺘﻌﻣ ﺔﺑﺎﻏ ﻊﻗﻮﻣ ﺮﺘﺧﺍ</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>. ﺔﻳﺍﺪﺒﻟﺍ ﻊﻗﻮﻣ ﺭﺎﺘﺨﺗ ﺎﻨﻫ\n\n. ﻲﻟﺎﺘﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ ﻢﺛ. ﺔﻴﻨﺑ ﻝﻼﺗ ﻥﻭﺪﺑ) ﺢﺗﺎﻓ ﺮﻀﺧﺃ (ﺔﻟﺪﺘﻌﻣ ﺔﺑﺎﻏ ﻰﻠﻋ ﺮﻘﻧﺍ\n\n. ﺓﺩﺪﺤﻤﻟﺍ ﺔﻃﻼﺒﻟﺍ ﻝﻮﺣ ﺕﺎﻣﻮﻠﻌﻣ ﺽﺮﻌﻟ " ﺲﻳﺭﺎﻀﺘﻟﺍ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ ،ﺍًﻳﺭﺎﻴﺘﺧﺍ</ChooseLandingSite.text>
+  
+  <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
+  <ChooseStoryteller.rejectInputMessage>. ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﺀﺎﻬﻧﻹ ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ٍﻭﺍﺭ ﺭﺎﻴﺘﺧﺍ ﺀﺎﺟﺮﻟﺍ</ChooseStoryteller.rejectInputMessage>
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click the Gameplay button in the left columm.\n4. Click the Modify button beside Storyteller settings.\n5. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
+  <ChooseStoryteller.text>!ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﺔﻳﺎﻬﻧ ﻩﺬﻫ\n\n. ﺕﺎﻴﺳﺎﺳﻷﺍ ﺖﻨﻘﺗﺃ ﻚﻨﻜﻟ. ﺮﻴﺜﻜﻟﺍ ﻚﻟﺫ ﺮﻴﻏﻭ ،ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﺭﺪﺗﻭ ،ﺓﺭﺎﺠﺘﻟﺍﻭ ،ﺪﻴﺼﻟﺍﻭ ،ﺀﺎﻨﺠﺴﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﻪﻤﻠﻌﺘﻟ ﺮﻴﺜﻜﻟﺍ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ\n\n: ﺔﻴﻘﻴﻘﺤﻟﺍ ﺔﺒﻌﻠﻟﺍ ﺀﺪﺒﻟ. ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﺍﺬﻫ ﻝﻼﺧ ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺙﺩﺍﻮﺤﻟﺍ ﻞﻴﻄﻌﺗ ﻢﺗ\n\n. ﺔﻴﻠﻔﺴﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ MENU ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ 1.\nOPTIONS. ﺩﺪﺣ 2.\n. ﺮﺴﻳﻷﺍ ﺩﻮﻤﻌﻟﺍ ﻲﻓ Gameplay ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ 3.\nStoryteller. ﺕﺍﺩﺍﺪﻋﺇ ﺭﺍﻮﺠﺑ Modify ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ 4.\n. ﻚﺒﺳﺎﻨﻳ ﻱﺬﻟﺍ ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃﻭ ﺺﺼﻘﻟﺍ ﻱﻭﺍﺭ ﺩﺪﺣ 5.\n\n. ﻊﺘﻤﺘﺳﺍﻭ ،ﺍًﺪﻴﻌﺳ ﺍًﻈﺣ</ChooseStoryteller.text>
+  
+  <!-- EN: Please drag the 'chop wood' designator over some trees. -->
+  <ChopTrees.rejectInputMessage>. ﺭﺎﺠﺷﻷﺍ ﺾﻌﺑ ﻕﻮﻓ " ﺏﺎﺸﺧﻷﺍ ﻊﻄﻗ " ﺩﺪﺣُﻣ ﺐﺤﺳ ﻰﺟﺮﻳ</ChopTrees.rejectInputMessage>
+  <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
+  <ChopTrees.text>. ﺎﻬﻌﻄﻘﻟ ﺭﺎﺠﺷﻷﺍ ﺾﻌﺑ ﺩﺪﺣ. ﺐﺸﺨﻟﺍ ﺾﻌﺑ ﻊﻤﺟ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻑﻮﺳ\n\n. ﺎﻬﻌﻄﻘﻟ ﺭﺎﺠﺷﺃ 10 ﺩﺪﺣﻭ ﺐﺸﺨﻟﺍ ﻊﻄﻗ ﺩﺪﺣُﻣ ﺮﺘﺧﺍ\n\n.) ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﺭﺎﺠﺷﺃ ﺓﺪﻋ ﺪﻳﺪﺤﺘﻟ ﺭﺎﺠﺷﻷﺍ ﻕﻮﻓ ﻊﺑﺮﻣ ﺐﺤﺳ ﻚﻨﻜﻤﻳ: ﺔﻴﻓﺍﺮﺘﺣﺍ ﺔﺤﻴﺼﻧ(</ChopTrees.text>
+  
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>. ﻚﻤﻟﺎﻋ ﺀﺎﺸﻧﻹ ﺮﻘﻧﺍ</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>RimWorld! ﻲﻓ ﻚﺑ ًﻼﻫﺃ\n\n. ﻚﻤﻟﺎﻋ ﺀﺎﺸﻧﺇ ﺔﻴﻔﻴﻛ ﻦﻳﻮﻜﺘﺑ ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ ﻡﻮﻘﺗ\n\n!ﺀﺎﺸﻧﺇ ﻰﻠﻋ ﺮﻘﻧﺍ – ﺓﺪﻴﺟ ﺎﻨﻫ ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ</CreateWorldParams.text>
+  
+  <!-- EN: Send colonists here\ntouching sandbags for cover -->
+  <DownRaider.onMapInstruction>ﺎﻨﻫ ﻰﻟﺇ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﺳﺭﺃ\n. ﺀﺎﻄﻐﻠﻟ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﻷ ﺔﺳَﻣﻼُﻤﻟﺍ</DownRaider.onMapInstruction>
+  <!-- EN: Please focus on winning the fight! -->
+  <DownRaider.rejectInputMessage>!ﺔﻛﺮﻌﻤﻟﺎﺑ ﺯﻮﻔﻟﺍ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﻰﺟﺮﻳ</DownRaider.rejectInputMessage>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.text>!ﻚﺗﺮﻤﻌﺘﺴﻣ ﺔﻤﺟﺎﻬﻤﻟ ﺍًﻳﺯﺎﻏ ﺖﻠﺳﺭﺃ ﺪﻘﻟ\n\n!{Key:TogglePause} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺔﺒﻌﻠﻟﺍ ﻒﻗﻭﺃ 1.\n. ﺔﺷﺎﺸﻟﺍ ﻦﻴﻤﻳ ﻞﻔﺳﺃ ﻲﻓ ﺀﺍﺮﻤﺤﻟﺍ ﺔﻟﺎﺳﺮﻟﺍ ﺃﺮﻗﺍ 2.\n. ﺪﻴﻨﺠﺘﻟﺍ ﺮﻣﺃ ﻰﻠﻋ ﻂﻐﻀﻟﺍﻭ ﻢﻫﺭﺎﻴﺘﺧﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺪﻨﺟ 3.\n. ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ًﺔﺴﻣﻼﻣ ،ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﻊﺑﺮﻣ ﻞﺧﺍﺩ ﻊﻗﺍﻮﻣ ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﻹ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ 4.\n. ﻑﺎﻘﻳﻹﺍ ِﻎﻟﺃ 5.\n\n. ﺍًﻴﺋﺎﻘﻠﺗ ﺭﺎﻨﻟﺍ ﻙﻭﺮﻤﻌﺘﺴﻣ ﻖﻠﻄﻴﺳ. ﻢﺟﺎﻬﻤﻟﺍ ﺏﺮﺘﻘﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ ،ﺀﺎﻄﻐﻟﺍ ﻰﻟﺇ ﻚﻟﻮﺧﺩ ﺩﺮﺠﻤﺑ. ﻪﻨﻣ ﺓﺩﺎﻔﺘﺳﻼﻟ ًﺀﺎﻄﻏ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺲﻣﻼﻳ ﻥﺃ ﺐﺠﻳ</DownRaider.text>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.textController>!ﻚﺗﺮﻤﻌﺘﺴﻣ ﺔﻤﺟﺎﻬﻤﻟ ﺍًﻳﺯﺎﻏ ﺖﻠﺳﺭﺃ ﺪﻘﻟ\n\n!{Key:TogglePause} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺔﺒﻌﻠﻟﺍ ﻒﻗﻭﺃ 1.\n. ﺔﺷﺎﺸﻟﺍ ﻦﻴﻤﻳ ﻞﻔﺳﺃ ﻲﻓ ﺀﺍﺮﻤﺤﻟﺍ ﺔﻟﺎﺳﺮﻟﺍ ﺃﺮﻗﺍ 2.\n. ﺪﻴﻨﺠﺘﻟﺍ ﺮﻣﺃ ﻰﻠﻋ ﻂﻐﻀﻟﺍﻭ ﻢﻫﺭﺎﻴﺘﺧﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺪﻨﺟ 3.\n. ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻸﻟ ًﺔﺴﻣﻼﻣ ،ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﻊﺑﺮﻣ ﻞﺧﺍﺩ ﻊﻗﺍﻮﻣ ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﻹ ﺮﺴﻳﻷﺍ ﻞﻐﺸﻤﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ 4.\n. ﻑﺎﻘﻳﻹﺍ ِﻎﻟﺃ 5.\n\n. ﺍًﻴﺋﺎﻘﻠﺗ ﺭﺎﻨﻟﺍ ﻙﻭﺮﻤﻌﺘﺴﻣ ﻖﻠﻄﻴﺳ. ﻢﺟﺎﻬﻤﻟﺍ ﺏﺮﺘﻘﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ ،ﺀﺎﻄﻐﻟﺍ ﻰﻟﺇ ﻚﻟﻮﺧﺩ ﺩﺮﺠﻤﺑ. ﻪﻨﻣ ﺓﺩﺎﻔﺘﺳﻼﻟ ًﺀﺎﻄﻏ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺲﻣﻼﻳ ﻥﺃ ﺐﺠﻳ</DownRaider.textController>
+  
+  <!-- EN: Right-click to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.text>. ﻥﻭﺰﺨﻤﻟﺍ ﺪﻳﺪﺤﺗ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ</EndStockpileDesignating.text>
+  <!-- EN: Press left trigger button to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.textController>. ﻥﻭﺰﺨﻤﻟﺍ ﺪﻳﺪﺤﺗ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ</EndStockpileDesignating.textController>
+  
+  <!-- EN: Equip this -->
+  <EquipWeapons.onMapInstruction>ﺍﺬﻫ ﺯّﻬﺟ</EquipWeapons.onMapInstruction>
+  <!-- EN: Please have your colonists equip weapons. -->
+  <EquipWeapons.rejectInputMessage>. ﺔﺤﻠﺳﻷﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺩّﻭﺯ</EquipWeapons.rejectInputMessage>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.text>: ﺡﻼﺳ ﺰﻴﻬﺠﺘﻟ. ﺔﻴﻟﻭﻷﺍ ﺔﺤﻠﺳﻷﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺩّﻭﺯ\n\n. ﻩﺪﻳﺪﺤﺘﻟ ﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 1.\n. ﻩﺰﻴﻬﺠﺗ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ 2.\n. ﺔﻴﻗﺎﻴﺴﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ' ﺡﻼﺳ ﺰﻴﻬﺠﺗ 'ﻰﻠﻋ ﺮﻘﻧﺍ 3.\n\n. ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﻊﻣ ﻚﻟﺫ ﻞﻌﻓﺍ</EquipWeapons.text>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Hover over the weapon you want to equip and press left trigger button.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.textController>: ﺡﻼﺳ ﺰﻴﻬﺠﺘﻟ. ﺔﻴﻟﻭﻷﺍ ﺔﺤﻠﺳﻷﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺩّﻭﺯ\n\n. ﻩﺪﻳﺪﺤﺘﻟ ﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 1.\n. ﻝّﻐﺸﻤﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﻩﺰﻴﻬﺠﺗ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﺡﻼﺴﻟﺍ ﻕﻮﻓ ﺮﺷﺆﻤﻟﺍ ﻙّﺮﺣ 2.\n. ﺔﻴﻗﺎﻴﺴﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ' ﺡﻼﺳ ﺰﻴﻬﺠﺗ 'ﻰﻠﻋ ﺮﻘﻧﺍ 3.\n\n. ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﻊﻣ ﻚﻟﺫ ﻞﻌﻓﺍ</EquipWeapons.textController>
+  
+  <!-- EN: Please expand the build roof area a bit, just for practice. -->
+  <ExpandAreaBuildRoof.rejectInputMessage>. ﺔﺳﺭﺎﻤﻤﻠﻟ ﻂﻘﻓ ،ًﻼﻴﻠﻗ ﻒﻘﺴﻟﺍ ﺀﺎﻨﺑ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ ﻰﺟﺮﻳ</ExpandAreaBuildRoof.rejectInputMessage>
+  <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
+  <ExpandAreaBuildRoof.text>. ﺢﻄﺳﻷﺍ ﺀﺎﻨﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻟﻭﺎﺤﻣ ﻥﺎﻜﻣ BUILD ROOF AREA ﺩﺪﺤﻳ\n\n. ﺓﺪﻳﺪﺟ ﺔﻓﺮﻏ ﻕﻼﻏﺇ ﺪﻨﻋ ﺍًﻴﺋﺎﻘﻠﺗ ﻩﺆﻠﻣ ﻢﺘﻳ\n\n. ﻝﺰﻨﻤﻟﺍ ﺔﻬﺟﺍﻭ ﻰﻠﻋ ﺔﻓﺮﺸﻟﺍ ﻒﻘﺳ ﻞﻜﺷ ﺐﺤﺳﺍﻭ EXPAND BUILD ROOF AREA ﺓﺍﺩﺃ ﺩﺪﺣ</ExpandAreaBuildRoof.text>
+  
+  <!-- EN: Please expand the home area a bit, just for practice. -->
+  <ExpandAreaHome.rejectInputMessage>. ﺐﻳﺭﺪﺘﻠﻟ ﻂﻘﻓ ،ًﻼﻴﻠﻗ ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻊﻴﺳﻮﺗ ﻰﺟﺮﻳ</ExpandAreaHome.rejectInputMessage>
+  <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
+  <ExpandAreaHome.text>. ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻊﻴﺳﻮﺗ ﻥﻵﺍ ﻢﻠﻌﺘﺘﺳ\n\n. ﺎﻬﺟﺭﺎﺧ ﺥﺎﺳﻭﻷﺍ ﻭﺃ ﻖﺋﺍﺮﺤﻟﺍ ﻥﻮﻠﻫﺎﺠﺘﻳﻭ ،ﻂﻘﻓ ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ﻥﻮﺌﻔﻄﻳﻭ ﺕﺎﻴﺿﺭﻷﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻒﻈﻨﻴﺳ\n\n. ﺍًﻳﻭﺪﻳ ﺎﻬﻌﻴﺳﻮﺗ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ ﻦﻜﻟﻭ - ﺀﺎﻴﺷﺃ ﺀﺎﻨﺑ ﺪﻨﻋ ﺍًﻴﺋﺎﻘﻠﺗ ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻑﺎﺿُﺗ\n\n. ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﺐﺤﺳﺍﻭ ﺔﻴﻨﻜﺴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻊﻴﺳﻮﺗ ﺓﺍﺩﺃ ﺩﺪﺣ</ExpandAreaHome.text>
+  
+  <!-- EN: Please wait for your colonists to finish building the sandbags. -->
+  <FinishSandbags.rejectInputMessage>. ﺔﻴﻠﻣﺮﻟﺍ ﺱﺎﻴﻛﻷﺍ ﺀﺎﻨﺑ ﻦﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻬﺘﻨﻳ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍ ﻰﺟﺮﻳ</FinishSandbags.rejectInputMessage>
+  <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
+  <FinishSandbags.text>. ﻚﺗﺂﺸﻨﻣ ﻊﻴﻤﺟ ﺀﺎﻨﺑ ﻢﺘﻳ ﻰﺘﺣ ﻂﻘﻓ ﺮﻈﺘﻨﻨﻟ\n\n. ﺀﺎﻨﺒﻠﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺺﻴﺼﺨﺘﻟ ﻞﻤﻌﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻡﺍﺪﺨﺘﺳﺍ ﻙﺭﺎﺒﺘﻋﺍ ﻲﻓ ﻊﺿ\n\n. ﺭﺎﻈﺘﻧﻻﺍ ﺓﺪﻣ ﻞﻴﻠﻘﺘﻟ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ\n\n!ﻚﺗﺎﻋﺎﻓﺩ ﺭﺎﺒﺘﺧﻻ ﺍًﻤﺟﺎﻬﻣ ﻞﺳﺭﺄﺳ ،ﺀﻴﺷ ﻞﻛ ﺀﺎﻨﺑ ﻝﺎﻤﺘﻛﺍ ﺩﺮﺠﻤﺑ</FinishSandbags.text>
+  
+  <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
+  <MakeGrowingZone.onMapInstruction>ﺎﻨﻫ ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻊﺿ\n)ﺔﻳﻭﺍﺯ ﻰﻟﺇ ﺔﻳﻭﺍﺯ ﻦﻣ ﺐﺤﺳﺍ(</MakeGrowingZone.onMapInstruction>
+  <!-- EN: Please make a growing zone on the indicated area. -->
+  <MakeGrowingZone.rejectInputMessage>. ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﻋﺍﺭﺯ ﺔﻘﻄﻨﻣ ﺊﺸﻧﺃ</MakeGrowingZone.rejectInputMessage>
+  <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
+  <MakeGrowingZone.text>!ﻝﺰﻨﻤﻟﺍ ﻰﻨﺑُﻳ\n\n. ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺢﺿﻮﻣ ﻮﻫ ﺎﻤﻛ ﺔﻋﺍﺭﺯ ﺔﻘﻄﻨﻣ ﻊﺿ ﺍﺬﻟ ،ﻪﻧﻮﻠﻛﺄﻳ ﺀﻴﺷ ﻰﻟﺇ ﻙﻮﻨﻃﻮﺘﺴﻣ ﺝﺎﺘﺤﻴﺳ\n\n. ﻞﻴﺻﺎﺤﻤﻟﺍ ﻙﻮﻨﻃﻮﺘﺴﻣ ﻉﺭﺰﻳ ﺎﻨﻫ</MakeGrowingZone.text>
+  
+  <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
+  <MakeStockpile.onMapInstruction>ﺎﻨﻫ ﻥﻭﺰﺨﻤﻟﺍ ﻊﺿ\n)ﺔﻳﻭﺍﺯ ﻰﻟﺇ ﺔﻳﻭﺍﺯ ﻦﻣ ﺐﺤﺳﺍ(</MakeStockpile.onMapInstruction>
+  <!-- EN: Please make a stockpile on the indicated area. -->
+  <MakeStockpile.rejectInputMessage>. ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺍًﻧﻭﺰﺨﻣ ﺊﺸﻧﺃ</MakeStockpile.rejectInputMessage>
+  <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
+  <MakeStockpile.text>. ﺮﺻﺎﻨﻌﻟﺍ ﻆﻔﺣ ﻥﺎﻜﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻑﺮﻌﻴﻟ ًﺎﻧﺰﺨﻣ ﻊﻨﺻﺍ\n\n. ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ " ﻱﺭﺎﻤﻌﻤﻟﺍ " ﺐﻳﻮﺒﺗ ﻰﻠﻋ ﺮﻘﻧﺍ 1.\n". ﺔﺣﺎﺴﻤﻟﺍ/ﺔﻘﻄﻨﻤﻟﺍ " ﺔﺌﻓ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n". ﻥﺰﺨﻣ ﺀﺎﺸﻧﺇ " ﺓﺍﺩﺃ ﺩﺪﺣ 3.\n. ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺢﺿﻮﻣ ﻮﻫ ﺎﻤﻛ ﻊﺑﺮﻣ ﻞﻴﻜﺸﺘﻟ ﺐﺤﺳﺍﻭ ﺮﻘﻧﺍ 4.</MakeStockpile.text>
+  
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
+  <MapCameraDolly.text>!ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺖﻧﺃ ﺎﻫ\n\n. ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺗ ﻝﻭﺎﺣ ﻥﻵﺍ\n\n. ﺓﺭﺄﻔﻠﻟ ﻂﺳﻭﻷﺍ ﺭﺰﻟﺎﺑ ﺐﺤﺳﺍﻭ ﺮﻘﻧﺍ ﻭﺃ ،{Key:MapDolly_Right}-{Key:MapDolly_Down}-{Key:MapDolly_Left}-{Key:MapDolly_Up} ﺢﻴﺗﺎﻔﻣ ﻡﺪﺨﺘﺳﺍ\n\n!ﻥﻵﺍ ﺏّﺮﺟ</MapCameraDolly.text>
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
+  <MapCameraDolly.textController>!ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺖﻧﺃ ﺎﻫ\n\n. ﻯﺮﺴﻴﻟﺍ ﻢﻜﺤﺘﻟﺍ ﺎﺼﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺗ ﻝﻭﺎﺣ ﻥﻵﺍ\n\n!ﻥﻵﺍ ﺏّﺮﺟ</MapCameraDolly.textController>
+  
+  <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
+  <MapCameraZoom.text>.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻲﺣﺎﺘﻔﻣ ﻭﺃ ،ﺱﻭﺎﻤﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻴﻐﺼﺘﻟﺍﻭ ﺮﻴﺒﻜﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n!ﻥﻵﺍ ﺏّﺮﺟ</MapCameraZoom.text>
+  <!-- EN: Great!\n\nYou can also zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nTry it now! -->
+  <MapCameraZoom.textController>.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻴﻐﺼﺘﻟﺍﻭ ﺮﻴﺒﻜﺘﻟﺍ ﺍًﻀﻳﺃ ﻚﻨﻜﻤﻳ\n\n!ﻥﻵﺍ ﺏّﺮﺟ</MapCameraZoom.textController>
+  
+  <!-- EN: Designate all this\nfor mining -->
+  <MineSteel.onMapInstruction>ﻪﻠﻛ ﺍﺬﻫ ﺹّﺼﺧ\nﻦﻳﺪﻌﺘﻠﻟ</MineSteel.onMapInstruction>
+  <!-- EN: Please use the 'mine' designator on the compacted steel. -->
+  <MineSteel.rejectInputMessage>. ﻁﻮﻐﻀﻤﻟﺍ ﺫﻻﻮﻔﻟﺍ ﻰﻠﻋ " ﺐﻴﻘﻨﺘﻟﺍ " ﺩﺪﺣُﻣ ﻡﺪﺨﺘﺳﺍ</MineSteel.rejectInputMessage>
+  <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
+  <MineSteel.text>!ﺬﻳﺬﻟ! ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻲﻬﻄﺑ ﻙﻮﻨﻃﻮﺘﺴﻣ ﻡﻮﻘﻴﺳ ﻥﻵﺍ\n\n. ﻚﺗﺪﻋﺎﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻦﻳﺪﻌﺘﻠﻟ ﻞﺑﺎﻘﻟﺍ ﺫﻻﻮﻔﻟﺍ ﺾﻌﺑ ﺖﺛﺪﺣﺃ ﺪﻘﻟ. ﻥﺩﺎﻌﻤﻟﺍ ﺾﻌﺑ ﺝﺍﺮﺨﺘﺳﺍ ﻲﻓ ﺐﻏﺮﺘﺳ ،ﻚﻟﺫ ﺪﻌﺑ\n\n. ﻦﻳﺪﻌﺘﻠﻟ ﻩﺪﻳﺪﺤﺘﻟ ﺫﻻﻮﻔﻟﺍ ﻕﻮﻓ ﺐﺤﺳﺍﻭ ﻦﻳﺪﻌﺘﻟﺍ ﻥِّﻴﻋُﻣ ﺩﺪﺣ</MineSteel.text>
+  
+  <!-- EN: Please open the 'Research' tab. -->
+  <OpenMainTabResearch.rejectInputMessage>'. ﺚﺤﺒﻟﺍ 'ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</OpenMainTabResearch.rejectInputMessage>
+  <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
+  <OpenMainTabResearch.text>. ﻪﻨﻋ ﺚﺤﺒﻟﺍ ﺪﻳﺮﺗ ﺎﻣ ﺮﺘﺧﺍ\n\n". ﺚﺤﺒﻟﺍ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</OpenMainTabResearch.text>
+  
+  <!-- EN: Please open the 'Work' tab. -->
+  <OpenMainTabWork.rejectInputMessage>'. ﻞﻤﻌﻟﺍ 'ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</OpenMainTabWork.rejectInputMessage>
+  <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
+  <OpenMainTabWork.text>. ﺮﻤﻌﺘﺴﻣ ﻞﻛ ﻪﺑ ﻡﻮﻘﻳ ﻱﺬﻟﺍ ﻞﻤﻌﻟﺍ ﻉﻮﻧ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ\n\n. ﺔﺷﺎﺸﻟﺍ ﻞﻔﺳﺃ ﻲﻓ " ﻞﻤﻌﻟﺍ " ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</OpenMainTabWork.text>
+  
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
+  <Pause.text>. ﺍًﺘﻗﺆﻣ ﺖﻗﻮﻟﺍ ﻑﺎﻘﻳﺇ ﻚﻨﻜﻤﻳ\n\n. ﺮﻣﺍﻭﻷﺍ ﺭﺍﺪﺻﻹ ﻚﺘﻗﻭ ﺬﺧﺃﻭ ﺖﻗﺆﻤﻟﺍ ﻑﺎﻘﻳﻹﺍ ﺍًﻤﺋﺍﺩ ﻚﻨﻜﻤﻳ. ﻝﺎﺠﻌﺘﺳﻻﺍ ﻰﻟﺇ ﺍًﺪﺑﺃ ﺝﺎﺘﺤﺗ ﻻ ﻚﻧﺃ ﻲﻨﻌﻳ ﺍﺬﻫ\n\n. ﻰﻠﻔﺴﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺃ ،{Key:TogglePause} ﺡﺎﺘﻔﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺖﻗﺆﻤﻟﺍ ﻑﺎﻘﻳﻹﺍ ﺏّﺮﺟ</Pause.text>
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} button, or by using the time controls in the bottom right. -->
+  <Pause.textController>. ﺍًﺘﻗﺆﻣ ﺖﻗﻮﻟﺍ ﻑﺎﻘﻳﺇ ﻚﻨﻜﻤﻳ\n\n. ﺮﻣﺍﻭﻷﺍ ﺭﺍﺪﺻﻹ ﻚﺘﻗﻭ ﺬﺧﺃﻭ ﺖﻗﺆﻤﻟﺍ ﻑﺎﻘﻳﻹﺍ ﺍًﻤﺋﺍﺩ ﻚﻨﻜﻤﻳ. ﻝﺎﺠﻌﺘﺳﻻﺍ ﻰﻟﺇ ﺍًﺪﺑﺃ ﺝﺎﺘﺤﺗ ﻻ ﻚﻧﺃ ﻲﻨﻌﻳ ﺍﺬﻫ\n\n. ﻰﻠﻔﺴﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺮﺻﺎﻨﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺃ ،{Key:TogglePause} ﺭﺰﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺖﻗﺆﻤﻟﺍ ﻑﺎﻘﻳﻹﺍ ﺏّﺮﺟ</Pause.textController>
+  
+  <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.rejectInputMessage>. ﺔﻴﺋﺍﻮﺸﻋ ﺔﻴﺼﺨﺷ ﺪﻴﻟﻮﺘﻟ ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ</RandomizeCharacter.rejectInputMessage>
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.text>!ﻚﺒﺠﻌﺗ ﻢﻟ ﺍﺫﺇ ﺔﻴﺼﺨﺸﻟﺍ ﺪﻴﻟﻮﺗ ﺓﺩﺎﻋﺇ ﻚﻨﻜﻤﻳ\n\n. ﺔﻴﺼﺨﺸﻟﺍ ﻢﻳﻮﺸﻌﺘﻟ ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ</RandomizeCharacter.text>
+  
+  <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
+  <ReorderCharacters.rejectInputMessage>).ﺭﺎﺴﻳ- ﻰﻠﻋﻷﺍ ﻲﻓ " ( ﻦﻳﺩﺪﺤﻤﻟﺍ " ﺔﻋﻮﻤﺠﻣ ﻰﻟﺇ) ﺭﺎﺴﻳ- ﻞﻔﺳﻷﺍ ﻲﻓ " ( ﻦﻴﻛﻭﺮﺘﻤﻟﺍ " ﺔﻋﻮﻤﺠﻣ ﻦﻣ ﺔﻴﺼﺨﺷ ﺐﺤﺳﺍ</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
+  <ReorderCharacters.text>. ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺮﺘﺧﺍ\n\n).ﻰﻠﻋﻷﺍ ﻲﻓ " ( ﺭﺎﺘﺧُﻤﻟﺍ " ﺀﺰﺠﻟﺍ ﻰﻟﺇ) ﻞﻔﺳﻷﺍ ﻲﻓ (ﺕﺎﻴﺼﺨﺸﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ " ّﻲﺴﻨﻤﻟﺍ " ﺀﺰﺠﻟﺍ ﻦﻣ ﺔﻴﺼﺨﺷ ﺐﺤﺳﺍ\n\n. ﺎﻬﺼﺤﻔﺑ ﻚﻟ ﺢﻤﺴﻴﺳ ﺔﻴﺼﺨﺷ ﻰﻠﻋ ﺮﻘﻨﻟﺍ ،ﺍًﻳﺭﺎﻴﺘﺧﺍ</ReorderCharacters.text>
+  
+  <!-- EN: Please choose a research project. -->
+  <SelectResearchProject.rejectInputMessage>. ﺚﺤﺑ ﻉﻭﺮﺸﻣ ﺮﺘﺧﺍ</SelectResearchProject.rejectInputMessage>
+  <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
+  <SelectResearchProject.text>. ًﻻﻭﺃ ﻪﻨﻋ ﺚﺤﺒﻟﺍ ﺪﻳﺮﺗ ﺎﻣ ﻥﻵﺍ ﺮﺘﺧﺍ\n\n. ﺐﺸﺨﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﻢﺘﻳ ﻰﺘﺣ ﻭﺃ ،ﺚﺤﺒﻟﺍ ﺪﻌﻘﻣ ﺀﺎﻨﺑ ﻢﺘﻳ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺪﻗ\n\n. ﺀﺎﻨﺒﻠﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻦﻴﻴﻌﺘﻟ WORK ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻡﺪﺨﺘﺳﺍ ،ًﻼﻳﻮﻃ ﺍًﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺮﻣﻷﺍ ﻥﺎﻛ ﺍﺫﺇ</SelectResearchProject.text>
+  
+  <!-- EN: Set this growing zone to grow rice -->
+  <SetToGrowRice.onMapInstruction>. ﺯﺭﻷﺍ ﺔﻋﺍﺭﺰﻟ ﺔﻴﻋﺍﺭﺰﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻥّﻴﻋ</SetToGrowRice.onMapInstruction>
+  <!-- EN: Please set your growing zone to grow rice. -->
+  <SetToGrowRice.rejectInputMessage>. ﺯﺭﻷﺍ ﺔﻋﺍﺭﺰﻟ ﻚﻳﺪﻟ ﺔﻋﺍﺭﺰﻟﺍ ﺔﻘﻄﻨﻣ ﻥّﻴﻋ</SetToGrowRice.rejectInputMessage>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.text>. ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻪﺘﻋﺍﺭﺯ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺐﺠﻳ ﻱﺬﻟﺍ ﺕﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ\n\n. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ 1.\n. ﺎﻫﺪﻳﺪﺤﺘﻟ ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n. ﺯﺭﻷﺍ ﻰﻟﺇ ﻩﺮﻴﻴﻐﺘﺑ ﻢﻗﻭ ﻞﻔﺳﻷﺍ ﻲﻓ ﺕﺎﺒﻨﻟﺍ ﺩﺪﺣُﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 3.</SetToGrowRice.text>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Press left trigger button to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.textController>. ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻪﺘﻋﺍﺭﺯ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺐﺠﻳ ﻱﺬﻟﺍ ﺕﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ\n\n. ﻱﺭﺎﻤﻌﻤﻟﺍ ﺱﺪﻨﻬﻤﻟﺍ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﺮﺴﻳﻷﺍ ﻞﻐﺸﻤﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ 1.\n. ﺎﻫﺪﻳﺪﺤﺘﻟ ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n. ﺯﺭﻷﺍ ﻰﻟﺇ ﻩﺮﻴﻏﻭ ﻞﻔﺳﻷﺍ ﻲﻓ ﺕﺎﺒﻨﻟﺍ ﺩﺪﺣُﻣ ﻰﻠﻋ ﺮﻘﻧﺍ 3.</SetToGrowRice.textController>
+  
+  <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.text>. ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ\n\n. ﻰﻠﻔﺴﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺃ ،{Key:TimeSpeed_Superfast} ﻭ {Key:TimeSpeed_Fast} ﻭ {Key:TimeSpeed_Normal} ﺢﻴﺗﺎﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻝﻭﺎﺣ</TimeControls.text>
+  <!-- EN: You can also speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.textController>. ﺍًﻀﻳﺃ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ\n\n. ﻰﻠﻔﺴﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺃ ،{Key:TimeSpeed_Slower} ﻭ {Key:TimeSpeed_Faster} ﻡﺍﺪﺨﺘﺳﺎﺑ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺏّﺮﺟ</TimeControls.textController>
+  
+  <!-- EN: Please un-draft your colonists. -->
+  <UndraftAll.rejectInputMessage>. ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺪﻴﻨﺠﺗ ﺍﻮﻔﻗﻭﺃ</UndraftAll.rejectInputMessage>
+  <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
+  <UndraftAll.text>. ﻖﺑﺎﺴﻟﺍ ﺮﻣﻷﺍ ﺲﻔﻧ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻊﻴﻤﺟ ﺪﻴﻨﺠﺗ ِﻎﻟَﺃ ﻥﻵﺍ! ﺡﺎﺠﻧ\n\n. ﺔﺻﺎﺨﻟﺍ ﻢﻬﻟﻭﺍﺪﺟ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺎﺑ ﻚﻟﺫ ﻢﻬﻟ ﺢﻤﺴﻴﺳ</UndraftAll.text>
+  
+  <!-- EN: Allow this -->
+  <UnforbidStartingResources.onMapInstruction>ﺍﺬﻬﺑ ﺡﺎﻤﺴﻟﺍ</UnforbidStartingResources.onMapInstruction>
+  <!-- EN: Please allow your starting items. -->
+  <UnforbidStartingResources.rejectInputMessage>. ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻳﺍﺪﺒﻟﺍ ﺮﺻﺎﻨﻌﺑ ﺢﻤﺳﺍ</UnforbidStartingResources.rejectInputMessage>
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
+  <UnforbidStartingResources.text>. ﺽﺍﺮﻏﻷﺍ ﻦﻋ " ﺭﻮﻈﺤﻣ " ﻒﻴﻨﺼﺗ ﺔﻟﺍﺯﺇ ﺐﺠﻳ ،ﻥﻭﺰﺨﻤﻟﺍ ﻰﻟﺇ ﻚﺿﺍﺮﻏﺃ ﺭﺎﻀﺣﺈﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺡﺎﻤﺴﻟ\n\n. ﺎﻫﺪﻳﺪﺤﺘﻟ ﺔﻳﺍﺪﺒﻟﺍ ﺽﺍﺮﻏﺃ ﻰﻠﻋ ﺮﻘﻧﺍ 1.\n. ﺎﻬﺑ ﺡﺎﻤﺴﻠﻟ ALLOW ﻞﻳﺪﺒﺘﻟﺍ ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ 2.\n\n.) ﻉﻮﻨﻟﺍ ﺲﻔﻧ ﻦﻣ ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋ ﻞﻜﻟﺍ ﺪﻳﺪﺤﺘﻟ ﺮﺼﻨﻋ ﻰﻠﻋ ﺍًﺟﻭﺩﺰﻣ ﺍًﺮﻘﻧ ﺮﻘﻧﺍ: ﺔﻴﻓﺍﺮﺘﺣﺍ ﺔﺤﻴﺼﻧ(\n\n: ﻚﻨﻜﻤﻳ ،ﻚﻟﺫ ﻦﻣ ﺍًﻟﺪﺑ ﻭﺃ\nARCHITECT. ﻰﻠﻋ ﺮﻘﻧﺍ 1.\nORDERS. ﻰﻠﻋ ﺮﻘﻧﺍ 2.\nALLOW. ﻰﻠﻋ ﺮﻘﻧﺍ 3.\n. ﺎﻬﺑ ﺡﺎﻤﺴﻠﻟ ﺓﺭﻮﻈﺤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ﻲﻄﻐﻳ ﺍًﻠﻜﺷ ﻢﺳﺭﺍ 4.</UnforbidStartingResources.text>
+  
+</LanguageData>
