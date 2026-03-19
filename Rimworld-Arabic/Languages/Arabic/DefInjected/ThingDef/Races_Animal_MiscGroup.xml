@@ -30,7 +30,7 @@
   <!-- EN: thrumbo -->
   <Thrumbo.label>ﻮﺒﻣﻭﺮﺛ</Thrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
-  <Thrumbo.description>. ﺍًﻈﻫﺎﺑ ﺍًﺮﻌﺳ ﺐﻠﺠﻳ ﻞﺼﻨﻟﺎﻛ ﺩﺎﺤﻟﺍ ﻪﻧﺮﻗ. ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﻒﻠﺘﻠﻟ ﺍًﻀﻳﺃ ﻡﻭﺎﻘﻣ ﻩﺪﻠﺟ ﻥﺈﻓ ،ﺔﻳﺎﻐﻠﻟ ﻞﻴﻤﺟ ﻞﻳﻮﻄﻟﺍ ﻪﺋﺍﺮﻓ ﻥﺃ ﻦﻴﺣ ﻲﻓ. ﺐﻀﻐﻳ ﺎﻣﺪﻨﻋ ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ ﻪﻨﻜﻟ ،ﻪﻌﺒﻄﺑ ﻊﻳﺩﻭ ﻮﺒﻣﻭﺮﺜﻟﺍ. ﻝﻮﻬﺠﻣ ﻞﺻﺃ ﻭﺫ ﻖﻴﺷﺭﻭ ﻢﺨﺿ ﻕﻮﻠﺨﻣ\n\n. ﺙﺪﺤﺘﻟﺍ ﻡﺪﻋ ﺭﺎﺘﺨﻳ ﺔﻃﺎﺴﺒﺑ ﻪﻧﺇ - ﻥﻮﻜﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻣ ﻢﻜﺣﺃ ﻮﻫ ﺯﻮﺠﻌﻟﺍ ﻮﺒﻣﻭﺮﺜﻟﺍ ﻥﺃ ﺮﻴﻃﺎﺳﻷﺍ ﻝﻮﻘﺗ</Thrumbo.description>
+  <Thrumbo.description>. ﺍًﻈﻫﺎﺑ ﺍًﺮﻌﺳ ﺐﻠﺠﻳ ﻞﺼﻨﻟﺎﻛ ﺩﺎﺤﻟﺍ ﻪﻧﺮﻗ. ﻒﻠﺘﻠﻟ ﺔﻳﺎﻐﻠﻟ ﻡﻭﺎﻘﻣ ﻩﺪﻠﺟ ﻥﺈﻓ ،ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻞﻴﻤﺟ ﻞﻳﻮﻄﻟﺍ ﻪﺋﺍﺮﻓ ﻥﺃ ﻦﻴﺣ ﻲﻓ. ﺐﻀﻐﻳ ﺎﻣﺪﻨﻋ ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ ﻪﻨﻜﻟﻭ ،ﻪﻌﺒﻄﺑ ﺩﻭﺩﻭ ﻮﺒﻣﻭﺮﺜﻟﺍ. ﻝﻮﻬﺠﻣ ﻞﺻﺃ ﻭﺫ ﻖﻴﺷﺭﻭ ﻢﺨﺿ ﻕﻮﻠﺨﻣ\n\n. ﺙﺪﺤﺘﻟﺍ ﻡﺪﻋ ﺭﺎﺘﺨﻳ ﺔﻃﺎﺴﺒﺑ ﻪﻧﺇ - ﻥﻮﻜﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻣ ﻢﻜﺣﺃ ﻮﻫ ﺯﻮﺠﻌﻟﺍ ﻮﺒﻣﻭﺮﺜﻟﺍ ﻥﺃ ﺮﻴﻃﺎﺳﻷﺍ ﻝﻮﻘﺗ</Thrumbo.description>
   <!-- EN: horn -->
   <Thrumbo.tools.horn.label>ﻥﺮﻗ</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
