@@ -15,4 +15,14 @@ This is an autonomously-translated Arabic translation done via the Autonomo AI p
 Total time: 9 hours 27 minutes
 Total cost: $0.00
     </description>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</downloadUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+    </loadAfter>
 </ModMetaData>
