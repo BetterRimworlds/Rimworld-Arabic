@@ -24,14 +24,7 @@ namespace BetterRimworlds
                         "NotoSansDevanagari-Regular",
                     },
                     packageName: "noto-fonts-extra",
-                    testChars: "अआइईउऊकखगघचछजझटठडढणतथदधनपफबभमयरलवशषसहािीुूृेैोौंःँ्",
-                    installInstructions:
-                        "  Arch Linux:  sudo pacman -S noto-fonts-extra\n" +
-                        "  Ubuntu/Deb:  sudo apt install fonts-noto-core\n" +
-                        "  Fedora:      sudo dnf install google-noto-sans-devanagari-fonts\n" +
-                        "  Windows:     Install 'Noto Sans Devanagari' from fonts.google.com\n" +
-                        "  macOS:       brew install --cask font-noto-sans-devanagari"
-                ),
+                    testChars: "अआइईउऊकखगघचछजझटठडढणतथदधनपफबभमयरलवशषसहािीुूृेैोौंःँ्"                ),
                 ["Bengali"] = new FontLanguageConfig(
                     language: "Bengali",
                     fontSearchNames: new[]
@@ -41,13 +34,7 @@ namespace BetterRimworlds
                         "NotoSansBengali-Regular",
                     },
                     packageName: "noto-fonts-extra",
-                    testChars: "অআইঈউঊএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহািীুূৃেৈোৌংঃঁ্",
-                    installInstructions:
-                        "  Arch Linux:  sudo pacman -S noto-fonts-extra\n" +
-                        "  Ubuntu/Deb:  sudo apt install fonts-noto-core\n" +
-                        "  Fedora:      sudo dnf install google-noto-sans-bengali-fonts\n" +
-                        "  Windows:     Install 'Noto Sans Bengali' from fonts.google.com\n" +
-                        "  macOS:       brew install --cask font-noto-sans-bengali"
+                    testChars: "অআইঈউঊএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহািীুূৃেৈোৌংঃঁ্"
                 ),
                 ["Tamil"] = new FontLanguageConfig(
                     language: "Tamil",
@@ -58,13 +45,7 @@ namespace BetterRimworlds
                         "NotoSansTamil-Regular",
                     },
                     packageName: "noto-fonts-extra",
-                    testChars: "அஆஇஈஉஊஎஏஐஒஓஔகஙசஜஞடணதநனபமயரறலளழவஷஸஹாிீுூெேைொோௌ்",
-                    installInstructions:
-                        "  Arch Linux:  sudo pacman -S noto-fonts-extra\n" +
-                        "  Ubuntu/Deb:  sudo apt install fonts-noto-core\n" +
-                        "  Fedora:      sudo dnf install google-noto-sans-tamil-fonts\n" +
-                        "  Windows:     Install 'Noto Sans Tamil' from fonts.google.com\n" +
-                        "  macOS:       brew install --cask font-noto-sans-tamil"
+                    testChars: "அஆஇஈஉஊஎஏஐஒஓஔகஙசஜஞடணதநனபமயரறலளழவஷஸஹாிீுூெேைொோௌ்"
                 ),
                 ["Arabic"] = new FontLanguageConfig(
                     language: "Arabic",
@@ -75,13 +56,18 @@ namespace BetterRimworlds
                         "NotoSansArabic-Regular",
                     },
                     packageName: "noto-fonts-extra",
-                    testChars: "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأإؤئ",
-                    installInstructions:
-                        "  Arch Linux:  sudo pacman -S noto-fonts-extra\n" +
-                        "  Ubuntu/Deb:  sudo apt install fonts-noto-core\n" +
-                        "  Fedora:      sudo dnf install google-noto-sans-arabic-fonts\n" +
-                        "  Windows:     Install 'Noto Sans Arabic' from fonts.google.com\n" +
-                        "  macOS:       brew install --cask font-noto-sans-arabic"
+                    testChars: "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأإؤئ"
+                ),
+                ["Urdu"] = new FontLanguageConfig(
+                    language: "Arabic",
+                    fontSearchNames: new[]
+                    {
+                        "Noto Sans Arabic",
+                        "Noto Sans Arabic Regular",
+                        "NotoSansArabic-Regular",
+                    },
+                    packageName: "noto-fonts-extra",
+                    testChars: "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأإؤئ"
                 ),
             };
 
@@ -97,7 +83,7 @@ namespace BetterRimworlds
                         $"[BetterRimworlds] ERROR: No suitable font found " +
                         $"for {_activeConfig.Language}.\n\n" +
                         $"Please install a {_activeConfig.Language} font:\n" +
-                        $"{_activeConfig.InstallInstructions}\n\n" +
+                        //$"{_activeConfig.InstallInstructions}\n\n" +
                         "Then restart RimWorld."
                     );
                     return;
@@ -108,7 +94,7 @@ namespace BetterRimworlds
                     $"Found system font: '{match}'"
                 );
 
-                LoadedFont = Font.CreateDynamicFontFromOSFont(match, 16);
+                LoadedFont = Font.CreateDynamicFontFromOSFont(match, 12);
 
                 if (LoadedFont == null || !LoadedFont.dynamic)
                 {
@@ -236,20 +222,17 @@ namespace BetterRimworlds
         public string[] FontSearchNames { get; }
         public string PackageName { get; }
         public string TestChars { get; }
-        public string InstallInstructions { get; }
 
         public FontLanguageConfig(
             string language,
             string[] fontSearchNames,
             string packageName,
-            string testChars,
-            string installInstructions)
+            string testChars)
         {
             Language = language;
             FontSearchNames = fontSearchNames;
             PackageName = packageName;
             TestChars = testChars;
-            InstallInstructions = installInstructions;
         }
     }
 }
