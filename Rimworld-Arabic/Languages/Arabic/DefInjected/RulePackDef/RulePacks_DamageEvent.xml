@@ -20,23 +20,23 @@
     <li>destroyed_present->breaking</li>
   -->
   <DamageEvent_Ceiling.rulePack.rulesStrings>
-    <li>damage_source->ﻕﻮﻓ [collapsed] [roof] ﻝﺍ</li>
+    <li>damage_source->ﻰﻠﻋ [collapsed] [roof] ﻝﺍ</li>
     <li>roof->ﻒﻘﺳ</li>
     <li>roof->ﻒﻘﺳ</li>
     <li>roof->ﻒﻘﺳ</li>
     <li>collapsed->ﺭﺎﻬﻧﺍ</li>
     <li>collapsed->ﺭﺎﻬﻧﺍ</li>
     <li>collapsed->ﺭﺎﻬﻧﺍ</li>
-    <li>damaged_present->ﺎًﻘِﺣﺎَﺳ</li>
-    <li>damaged_present->ﺎًﻤﺤﺘﻘﻣ</li>
+    <li>damaged_present->ﺍًﺮِّﻣَﺪُﻣ</li>
+    <li>damaged_present->ًﺎﻌﻓﺪﻨﻣ</li>
     <li>damaged_present->ﺕﺎﻣﺪﻛ</li>
     <li>damaged_present->ﺍًﺭِّﺮَﻀَﺘُﻣ</li>
-    <li>damaged_present->ﺎًﻗِﺮْﺤُﻣ</li>
-    <li>destroyed_present->ﺍًﺮِّﻣَﺪُﻣ</li>
+    <li>damaged_present->ﺎًﻋِﺰْﻋَﺰُﻣ</li>
+    <li>destroyed_present->ًﺎﻣﺪﻬﻣ</li>
     <li>destroyed_present->ﺎًﻘِﺣﺎَﺳ</li>
     <li>destroyed_present->ﺍًﺪﻴِﺒُﻣ</li>
     <li>destroyed_present->ﺍًﺪﻴِﺒُﻣ</li>
-    <li>destroyed_present->ﺍًﺮﺴﻛ</li>
+    <li>destroyed_present->ًﺍﺮﺴﻜﻣ</li>
   </DamageEvent_Ceiling.rulePack.rulesStrings>
   
   <!-- EN:
@@ -57,20 +57,20 @@
     <li>destroyed_present->cremating</li>
   -->
   <DamageEvent_Fire.rulePack.rulesStrings>
-    <li>damage_source->ﻕﺮﺣﺃ [fire]</li>
+    <li>damage_source->َﻕَﺮْﺣَﺃ [fire]</li>
     <li>fire(p=3)->ﺭﺎﻨﻟﺍ</li>
-    <li>fire(p=2)->ﺭﺎﻧ</li>
+    <li>fire(p=2)->ٌﺭﺎﻧ</li>
     <li>fire->ﺓﺭﺍﺮﺤﻟﺍ</li>
-    <li>fire->ﺓﺮﻤﺟ</li>
+    <li>fire->ﺓﺪﺣﺍﻭ ﺓﺮﻤﺟ</li>
     <li>fire->ﻢﻴﺤﺟ</li>
     <li>damaged_present->ﻱِﻮْﺸُﻳ</li>
-    <li>damaged_present->ﻱِّﻮَﺸُﻳ</li>
-    <li>damaged_present->ﻕﺮﺘﺤﻳ</li>
-    <li>damaged_present->ﺎًﺒﻘﺜﻣ</li>
-    <li>destroyed_present->ﻕﺍﺮﺘﺣﺍ</li>
+    <li>damaged_present->ﻱﻮﺸﻳ</li>
+    <li>damaged_present->ﻕِﺮْﺤُﻣ</li>
+    <li>damaged_present->ﺎًﻗِﺮْﺤُﻣ</li>
+    <li>destroyed_present->ﺎًﻤِّﺤَﻔُﻣ</li>
     <li>destroyed_present->ﻱﻮﺸﻳ</li>
     <li>destroyed_present->ﺦﺒﻄﻳ</li>
-    <li>destroyed_present->ﺎًﻗﺭﺎﺣ</li>
+    <li>destroyed_present->ﻕﺮﺤﻳ</li>
   </DamageEvent_Fire.rulePack.rulesStrings>
   
   <!-- EN:
@@ -83,7 +83,7 @@
     <li>r_logentry->.[destroyed_targets] [RECIPIENT_possessive] [destroyed_present] ،[RECIPIENT_nameDef] [damage_source]</li>
     <li>r_logentry->.[damaged_targets] [RECIPIENT_possessive] [damaged_present] ﻭ [destroyed_targets] [RECIPIENT_possessive] [destroyed_present] ،[RECIPIENT_nameDef] [damage_source]</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->.[damaged_targets] [RECIPIENT_possessive] [damaged_present] ،[RECIPIENT_nameDef] [damage_source]</li>
-    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef][مصدر الضرر] [اسم المستلم].</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
@@ -103,9 +103,9 @@
   -->
   <DamageEvent_PowerBeam.rulePack.rulesStrings>
     <li>damage_source->ﻕﻮﻓ [sky]</li>
-    <li>damage_source->[damaged_past] [power] ﻞﺋﺎﻫ ٌﻉﺎﻌﺷ</li>
+    <li>damage_source->[damaged_past] [power] ٌﻞﺋﺎﻫ ٌﻉﺎﻌﺷ</li>
     <li>damage_source->[damaged_past] [light] ﻦﻣ ﺩﻮﻤﻋ</li>
-    <li>sky->ُﺀﺎﻤَّﺴﻟﺍ ّﻖﺸﻧﺍ</li>
+    <li>sky->ﺀﺎﻤﺴﻟﺍ ﺖّﻘﺸﻧﺍ</li>
     <li>sky->ﻡﻮﻴﻐﻟﺍ ﺖّﻘﺸﻧﺍ</li>
     <li>sky->ﺕﺍﻭﺎﻤﺴﻟﺍ ﺖّﻘﺸﻧﺍ</li>
     <li>power->ﺓﻮﻗ</li>
@@ -113,7 +113,7 @@
     <li>power->ﺓﺭﺍﺮﺣ</li>
     <li>light->ﺀﻮﺿ</li>
     <li>light->ﺓﺭﺍﺮﺣ</li>
-    <li>light->ﺐﻬﻟ</li>
+    <li>light->ﺐﻴﻬﻟ</li>
     <li>light(p=0.2)->ﺞﻫﻮﺘﻣ</li>
   </DamageEvent_PowerBeam.rulePack.rulesStrings>
   
@@ -130,14 +130,14 @@
   -->
   <DamageEvent_Tornado.rulePack.rulesStrings>
     <li>damage_source->[enveloped] [spiraling] ﺭﺎﺼﻋﺇ</li>
-    <li>destroyed_present(p=3)->ﺎًﻗِّﺰَﻤُﻣ</li>
+    <li>destroyed_present(p=3)->ﺍًﺰِﻋْﺰُﻣ</li>
     <li>spiraling->ﺔﻳﻮﺘﻠﻣ</li>
-    <li>spiraling->ﺓﺭﺎّﻣُﺯ</li>
-    <li>spiraling->ﺭﺍَّﻭَﺩ</li>
+    <li>spiraling->ﺭﺎّﻣُﺯ</li>
+    <li>spiraling->ﺭِّﻭَﺪَﺘُﻣ</li>
     <li>spiraling(p=10)-></li>
     <li>enveloped(p=8)->ّﻒﻟ</li>
     <li>enveloped->ﻊﻠﺘﺑﺍ</li>
-    <li>enveloped->َﻑﺎﻃ</li>
+    <li>enveloped->ﻕّﻮﻃ</li>
   </DamageEvent_Tornado.rulePack.rulesStrings>
   
   <!-- EN:
@@ -160,23 +160,23 @@
   -->
   <DamageEvent_TrapSpike.rulePack.rulesStrings>
     <li>damage_source->ﻦﻌﻃ [spiketrap]</li>
-    <li>damage_source->ﻡﺪﻄﺻﺍ [spiketrap]</li>
+    <li>damage_source->ﺖﻣﺪﻄﺻﺍ [spiketrap]</li>
     <li>damage_source->ﻰﻠﻋ ﻖﻠﻃُﺃ [spiketrap]</li>
     <li>damage_source->ﺍﻮﻨﻌﻃ [spiketrap_pl]</li>
-    <li>damage_source->ﺖﺑﺎﺻﺃ [spiketrap_pl]</li>
-    <li>damage_source->ﻰﻠﻋ َﻲِﻘﻟُﺃ [spiketrap_pl]</li>
-    <li>spiketrap(p=3)->ﻙﺍﻮﺷﺃ ﺦﻓ</li>
-    <li>spiketrap(p=3)->ﻙﺍﻮﺷﺄﻟﺍ ﺦﻓ</li>
-    <li>spiketrap_pl->ﺲﻴﺑﺎﺑﺪﻟﺍ ﺾﻌﺑ</li>
+    <li>damage_source->ﺔﻜﺋﺎﺸﻟﺍ ﺥﺎﺨﻔﻟﺍ ﺖﺑﺎﺻﺃ [spiketrap_pl]</li>
+    <li>damage_source->ﻰﻠﻋ ﺖَﻴِﻘﻟُﺃ [spiketrap_pl]</li>
+    <li>spiketrap(p=3)->ﻙﺍﻮﺷﺃ ّﺦﻓ</li>
+    <li>spiketrap(p=3)->ﻙﺍﻮﺷﻷﺍ ﺦﻓ</li>
+    <li>spiketrap_pl->ﺮﻴﻣﺎﺴﻤﻟﺍ ﺾﻌﺑ</li>
     <li>spiketrap->ﺩﺎﺣ ﺦﻓ</li>
-    <li>spiketrap->ﻚﺋﺎﺷ ﺦﻓ</li>
-    <li>damaged_present->ﺎًﻗﺮﺘﺨﻣ</li>
-    <li>damaged_present->ﺎًﻗﺮﺘﺨﻣ</li>
+    <li>spiketrap->ﻙﺍﻮﺷﺃ ﻭﺫ ّﺦﻓ</li>
+    <li>damaged_present->ًﺎﻗﺮﺘﺨﻣ</li>
+    <li>damaged_present->ًﺎﻗﺮﺘﺨﻣ</li>
     <li>damaged_present->ﻕﺮﺘﺨﻳ</li>
-    <li>damaged_present->ﻪﺴﻔﻧ ًﺎﺳﺭﺎﻏ</li>
-    <li>destroyed_present->ﺎًﻗِّﺰَﻤُﻣ</li>
-    <li>destroyed_present->ﻖﻳﺰﻤﺗ</li>
-    <li>destroyed_present->ﺀﺎَﺸْﺣَﺄﻟﺍ ﺎًﻋِﺰَﺘﻨُﻣ</li>
+    <li>damaged_present->ﻩﺎﻳﺇ ﺍًﺯﺭﺎﻏ</li>
+    <li>destroyed_present->ﺍًﺮﻣﺪﻣ</li>
+    <li>destroyed_present->ﺎًﺘﺘﻔﻣ</li>
+    <li>destroyed_present->ﺀﺎَﺸْﺣَﻷﺍ ﺎًﻋِﺰَﺘﻨُﻣ</li>
     <li>destroyed_present->ﺍًﺮﺠﻔﻨﻣ</li>
   </DamageEvent_TrapSpike.rulePack.rulesStrings>
   

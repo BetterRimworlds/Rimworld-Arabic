@@ -26,14 +26,14 @@
     <li>image->[circumstance_group] [ORGANIZER_nameFull] ﻊﻣ ﺙﺪﺤﺘﻳ [ATTENDER_nameFull]</li>
     <li>image->[circumstance_group] [ORGANIZER_nameFull] ﻦﻣ ﺎًﺑﺍﺮﺷ ﻰﻘﻠﺘﻳ [ATTENDER_nameFull]</li>
     <li>image->[circumstance_group] [ORGANIZER_nameFull] ﻊﻣ ﺙﺩﺎﺤﺘﻳ [ATTENDER_nameFull]</li>
-    <li>image->[circumstance_group] [ATTENDER_nameFull] ﻞﺒﻘﺘﺴﻳ [ORGANIZER_nameFull]</li>
+    <li>image->[circumstance_group] [ATTENDER_nameFull] ـﺏ ﺐﺣﺮﻳ [ORGANIZER_nameFull]</li>
     <li>image->[circumstance_group] ﻖﻳﺪﺼﻟ [ATTENDER_nameFull] ﻡﺪﻘﻳ [ORGANIZER_nameFull]</li>
     <li>circumstance_phrase->ﺔﻀﻳﺮﻋ ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
     <li>circumstance_phrase->ﻚﺤﻀﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->[AdjectiveFriendly_Fem] ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
     <li>circumstance_phrase->ﺓﺪﺸﺑ ﻪﻘﻬﻘﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->[AdjectiveFriendly] ﺮﻬﻈﻤﺑ</li>
-    <li>desc_sentence->.ﺔﺛﺩﺎﺤﻤﻟﺍ ﻲﻓ [PersonJob_Plural] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﺛﺩﺎﺤﻤﻟﺍ ﻲﻓ ﻥﻮﻃﺮﺨﻨﻣ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[Color_Plural] ﻭ [Color_Plural] ﺕﺎﺟﺭﺪﺑ ﺔﻨﻳﺰﻣ ﺔﻘﻄﻨﻤﻟﺍ</li>
     <li>desc_sentence->.ﺏﺮﻘﻟﺎﺑ ﻥﻮﺒﻌﻠﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </AttendedParty.rulePack.rulesStrings>
@@ -57,20 +57,20 @@
     <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
   -->
   <BuiltSnowman.rulePack.rulesStrings>
-    <li>tale_noun->ﺞﻠﺛ ﻞﺟﺭ [PAWN_nameDef] ﻰﻨﺑ [PAWN_nameDef]</li>
+    <li>tale_noun->ﺎًﻴﺠﻠﺛ ﻼﺟﺭ ﻰﻨﺑ [PAWN_nameDef]</li>
     <li>tale_noun->ﺞﻠﺜﻟﺍ ﻲﻓ ﺐﻌﻟ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] ﺔﻴﺠﻠﺛ ﺓﺮﻛ ﻞّﻜﺸﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﺔﻗﺎﻠﻤﻋ ﺔﻴﺠﻠﺛ ﺓﺮﻛ ﺝﺮﺣﺪﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺔﻴﺠﻠﺛ ﺓﺮﻛ ﻞّﻜﺸُﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﻤﺨﺿ ﺞﻠﺛ ﺓﺮﻜﺑ ﺝﺮﺣﺪﺘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻲﺒﻳﺮﻘﺗ ﻪﺟﻭ ﻞﻴﻜﺸﺘﻟ[Vegetable] ﺐﺗﺮﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺞﻠﺜﻟﺍ ﻲﻓ ٍﻖﻠﺘﺴﻣ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﺎﻛﺭﺎﺑ ﻒﻃﺎﻌﻣ [Quantity_adjphrase] ﺖﺤﺗ</li>
-    <li>circumstance_phrase->ﺔﻴﺠﻠﺛ ﺔﻔﺻﺎﻌﺑ ﺀﺎﻤﺴﻟﺍ ﻢﺘﻌﺗ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->.ﺎًﻨﺼﺣ ﻥﻮﻨﺒﻳ ﻩﺅﺎﻗﺪﺻﺃ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->.ﻦﻳﺮﺧﺂﻟﺍ ﺞﻠﺜﻟﺍ ﻝﺎﺟﺭ ﻩﺅﺎﻗﺪﺻﺃ ﻲﻨﺒﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﺀﺎﻤﺴﻟﺍ ﺔﻴﺠﻠﺛ ﺔﻔﺻﺎﻋ ﻢﺘﻌﺗ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->.ًﺎﻨﺼﺣ ﻥﻮﻨﺒﻳ ﻩﺅﺎﻗﺪﺻﺃ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻦﻳﺮﺧﻵﺍ ﺞﻠﺜﻟﺍ ﻝﺎﺟﺭ ﻥﻮﻨﺒﻳ ﻩﺅﺎﻗﺪﺻﺃ ﺎﻤﻨﻴﺑ</li>
     <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﺀﻴﻀﻳ [Color_Fem] ﻖﻔﺷ</li>
-    <li>desc_sentence->ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
-    <li>desc_sentence->ﺞﻠﺜﻟﺍ ﻝﺎﻠﺧ ﻦﻣ ﻯﺮﻳ ﺩﺎﻜﻟﺎﺑ[Vegetable] ﻦﻣ ﻞﻘﺣ</li>
-    <li>desc_sentence->.ﺝﻮﻠﺜﻟﺎﺑ ﺓﺎﻄﻐﻣ [ميزة التضاريس] ﺪﻴﻌﺑ ﻦﻣ ﻯﺮُﻳ [TerrainFeatureIndefCap]</li>
+    <li>desc_sentence->.ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ،ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
+    <li>desc_sentence->ﺞﻠﺜﻟﺍ ﻝﻼﺧ ﻦﻣ ﻯﺮﻳ ﺩﺎﻜﻟﺎﺑ[Vegetable] ﻦﻣ ﻞﻘﺣ</li>
+    <li>desc_sentence->.ﺝﻮﻠﺜﻟﺎﺑ ﺓﺎﻄﻐﻣ ﺪﻴﻌﺑ ﻦﻣ ﻯﺮُﻳ [TerrainFeatureIndefCap]</li>
   </BuiltSnowman.rulePack.rulesStrings>
   
   <!-- EN: buried corpse -->
@@ -100,21 +100,21 @@
     <li>tale_noun->[CORPSE_nameDef] ﻦﻓﺩ [DIGGER_nameDef]</li>
     <li>tale_noun->[CORPSE_nameDef] ﻦﻓﺩ [DIGGER_nameDef]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺎًﻔﻗﺍﻭ [DIGGER_nameFull]</li>
-    <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺎًﺴﻟﺎﺟ [DIGGER_nameFull]</li>
+    <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺲﻠﺠﻳ [DIGGER_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﻰﻠﻋ ﻲﻨﺤﻨﻳ [DIGGER_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺪﻫﺎﺷ ﻰﻠﻋ ﺎًﺌﻴﺷ ﺐﺘﻜﻳ [DIGGER_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺪﻫﺎﺷ ﻰﻠﻋ ﻢﺳﺮﻳ [DIGGER_nameFull]</li>
-    <li>image->[circumstance_group] ﺮﺒﻘﻟﺍ ﻲﻓ [CORPSE_nameFull] ﺪﺴﺟ ﻊﻀﻳ [DIGGER_nameFull]</li>
+    <li>image->[circumstance_group] ﺮﺒﻘﻟﺍ ﻲﻓ [CORPSE_nameFull] ﺪﺴﺟ ﻉﺩﻮﻳ [DIGGER_nameFull]</li>
     <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
-    <li>circumstance_phrase->ﻩﺭﺎﻜﻓﺃ ﻲﻓ ﺎًﺴﻤﻐﻨﻣ</li>
+    <li>circumstance_phrase->ﻩﺭﺎﻜﻓﺃ ﻲﻓ ﺎًﻌﺋﺎﺿ</li>
     <li>circumstance_phrase->[TerrainFeature] ﺍًﺪﻴﻌﺑ ﻞﻣﺄﺘﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺮﺒﻘﻟﺍ ﺪﻫﺎﺷ ﻰﻟﺇ ﺀﻭﺪﻬﺑ ﺎًﺛﺪﺤﺘﻣ</li>
-    <li>desc_sentence->ﺔﻴﻔﻠﺨﻟﺍ ﺀﻴﻀﻳ [Color_Fem] ﻖﻔﺷ</li>
-    <li>desc_sentence->ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
-    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﺎﻠﻤﺑ ﺪﻬﺸﻤﻟﺍ ﺐﻗﺍﺮﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﻔﻴﻃ ﺓﺭﻮﺻ</li>
-    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﺎﻠﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﻔﻴﻃ ﺓﺭﻮﺻ</li>
+    <li>circumstance_phrase->ﺮﺒﻘﻟﺍ ﺪﻫﺎﺷ ﻰﻟﺇ ﺀﻭﺪﻬﺑ ﺙﺪﺤﺗﻭ</li>
+    <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﺀﻴﻀﻳ [Color_Fem] ﻖﻔﺷ</li>
+    <li>desc_sentence->.ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ،ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
+    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﻼﻤﺑ ﺪﻬﺸﻤﻟﺍ ﺐﻗﺍﺮﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﻔﻴﻃ ﺓﺭﻮﺻ</li>
+    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﻼﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﻔﻴﻃ ﺓﺭﻮﺻ</li>
     <li>desc_sentence->.[AdjectiveAngsty] ﺮﻴﺒﻌﺘﺑ ﺪﻬﺸﻤﻟﺍ ﺐﻗﺍﺮﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
-    <li>desc_sentence->.[AdjectiveAngsty] ﺢﻣﺎﻠﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
+    <li>desc_sentence->.[AdjectiveAngsty] ﺢﻣﻼﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
     <li>desc_sentence->.ﺙﺩﺎﺤﻟﺍ ﻥﺎﻜﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </BuriedCorpse.rulePack.rulesStrings>
   
@@ -140,19 +140,19 @@
   <CompletedLongConstructionProject.rulePack.rulesStrings>
     <li>tale_noun->[OBJECT_indefinite] ﺀﺎﻨﺑ ﻰﻬﻧﺃ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﻲﻨﺒﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] [OBJECT_indefinite] ﺀﺍﺰﺟﺃ ﺐِّﻛﺮُﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [OBJECT_indefinite] َﺀﺍﺰﺟﺃ ﺐِّﻛﺮُﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﺢﻄﺳ ﻞﻘﺼﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﻰﻠﻋ ﻪﻤﺳﺍ ﺶﻘﻨﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ ﻖﻳﺮﺒﺑ</li>
     <li>circumstance_phrase->ﻪﻨﻴﺒﺟ ﻦﻋ ﻕﺮﻌﻟﺍ ﺢﺴﻤﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺔﺒﻗﺮﻟﺍ ﻰﺘﺣ ﺥﺎﺳﻭﺄﻟﺎﺑ ﻰﻄﻐﻣ</li>
-    <li>circumstance_phrase->ﺮﺨﻔﺑ ﺎًﻤﺴﺘﺒﻣ</li>
+    <li>circumstance_phrase->ﺔﺒﻗﺮﻟﺍ ﻰﺘﺣ ﻞﺣﻮﻟﺎﺑ ﺎًﺨﻄﻠﺘﻣ</li>
+    <li>circumstance_phrase->ﺮﺨﻔﺑ ًﺎﻤﺴﺘﺒﻣ</li>
     <li>circumstance_phrase->ﻪﻬﺟﻭ ﻰﻠﻋ ﺎﺿﺭ ﺮﻴﺒﻌﺘﺑ</li>
     <li>desc_sentence->.[PAWN_nameDef] ﻦﻣ ﺮﻴﺜﻜﺑ ﺮﺒﻛﺃ ﻭﺪﺒﻳ [OBJECT_definite]</li>
-    <li>desc_sentence->.[Color] ﺔﻤﻋﺎﻧ ﺔﺴﻤﻠﺑ ﺞﻫﻮﺘﻳ [OBJECT_definite]</li>
+    <li>desc_sentence->.[Color] ﻢﻋﺎﻧ ﻥﻮﻠﺑ ﺞﻫﻮﺘﻳ [OBJECT_definite]</li>
     <li>desc_sentence->.ﺓﺪﻘﻌﻤﻟﺍ ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻪﻳﺪﻟ [OBJECT_definite]</li>
     <li>desc_sentence->.[OBJECT_definite] ـﺏ ﻥﻮﺒﺠﻌﺘﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻭﺮﻈﻨﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
   </CompletedLongConstructionProject.rulePack.rulesStrings>
   
   <!-- EN: completed long crafting project -->
@@ -175,21 +175,21 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongCraftingProject.rulePack.rulesStrings>
-    <li>tale_noun->[OBJECT_indefinite] ﻊﻨﺻ ﻰﻬﻧﺃ [PAWN_nameDef]</li>
+    <li>tale_noun->[OBJECT_indefinite] ﻊﻴﻨﺼﺗ ﺖﻠﻤﻛﺃ/ﻰﻬﻧﺃ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﻰﻠﻋ ﻞﻤﻌﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﺢﻄﺳ ﻞﻘﺼﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﺢﻄﺳ ﻰﻟﺇ ﻞﻴﺻﺎﻔﺗ ﻒﻴﻀﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [OBJECT_indefinite] ﻰﻠﻋ ﻪﻤﺳﺍ ﺶﻘﻨﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ ﻖﻳﺮﺒﺑ</li>
     <li>circumstance_phrase->ﻪﻨﻴﺒﺟ ﻦﻋ ﻕﺮﻌﻟﺍ ﺢﺴﻤﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺔﺒﻗﺮﻟﺍ ﻰﺘﺣ ﺥﺎﺳﻭﺄﻟﺎﺑ ﻰﻄﻐﻣ</li>
-    <li>circumstance_phrase->ﺮﺨﻔﺑ ﺎًﻤﺴﺘﺒﻣ</li>
+    <li>circumstance_phrase->ﺔﺒﻗﺮﻟﺍ ﻰﺘﺣ ﺥﺎﺳﻭﻷﺎﺑ ﻰﻄﻐﻣ</li>
+    <li>circumstance_phrase->ﺮﺨﻔﺑ ًﺎﻤﺴﺘﺒﻣ</li>
     <li>circumstance_phrase->ﻪﻬﺟﻭ ﻰﻠﻋ ﺎﺿﺭ ﺮﻴﺒﻌﺘﺑ</li>
     <li>desc_sentence->.[PAWN_nameDef] ﻦﻣ ﺮﻴﺜﻜﺑ ﺮﺒﻛﺃ ﻭﺪﺒﻳ [OBJECT_definite]</li>
     <li>desc_sentence->.[Color] ﺔﻤﻋﺎﻧ ﺔﺴﻤﻠﺑ ﻖﻟﺄﺘﻳ [OBJECT_definite]</li>
     <li>desc_sentence->.ﺓﺪﻘﻌﻤﻟﺍ ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻪﻳﺪﻟ [OBJECT_definite]</li>
-    <li>desc_sentence->.[OBJECT_definite] ـﺏ ﻥﻮﺒﺠﻌﺘﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻭﺮﻈﻨﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.[OBJECT_definite] ﻦﻣ ﻥﻮﺒﺠﻌﺘﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
   </CompletedLongCraftingProject.rulePack.rulesStrings>
   
   <!-- EN: entered cryptosleep -->
@@ -212,21 +212,21 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <EnteredCryptosleep.rulePack.rulesStrings>
-    <li>tale_noun->.ﻊّﻌﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﺗﻮﺑﺎﺗ [PAWN_nameDef] ﻞﺧﺩ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] [circumstance_group] ﻱﺭﻮﻠﺑ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻞﺧﺍﺩ ﺎًﻴﻘﻠﺘﺴﻣ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] [circumstance_group] ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﻏﺭﺎﻓ ﺎًﺗﻮﺑﺎﺗ [PAWN_nameFull] ﺢﺘﻔﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->.ﻊّﻌﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﺗﻮﺑﺎﺗ ﻞﺧﺩ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻞﺧﺍﺩ ٍﻖﻠﺘﺴُﻣ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﻏﺭﺎﻓ ﺎًﺗﻮﺑﺎﺗ ﺢﺘﻔﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺮﻔﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﺗﻮﺑﺎﺗ ﻖﻠﻐﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] [circumstance_group] ﻪﻛﺮﺗ ﻚﺷﻭ ﻰﻠﻋ ﻢﻟﺎﻋ ﻰﻟﺇ ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﻮﺑﺎﺗ ﺭﺍﺪﺟ ﻝﺎﻠﺧ ﻦﻣ [PAWN_nameFull] ﺮﻈﻨﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->[AdjectiveAngsty] ﺮﻴﺒﻌﺘﺑ</li>
+    <li>image->[circumstance_group] ﻪﻛﺮﺗ ﻚﺷﻭ ﻰﻠﻋ ﻢﻟﺎﻋ ﻮﺤﻧ ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﺔﺤﺘﻓ ﻝﻼﺧ ﻦﻣ ﺭﺍﺪﺠﻟﺍ ﻲﻓ ﻕﺪﺤﻳ [PAWN_nameFull]</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->ﻩﺭﺎﻜﻓﺃ ﻲﻓ ﺎًﺴﻤﻐﻨﻣ</li>
     <li>circumstance_phrase->[TerrainFeature] ﺍًﺪﻴﻌﺑ ﻞﻣﺄﺘﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺪﺣﺃ ﻪﻌﻤﺴﻳ ﻥﺃ ﻥﻭﺩ ﻢﺘﻤﺘﻳ</li>
     <li>desc_sentence->.ﺏﺮﻘﻟﺎﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ [الأعداء] [العدد والصفة] ﺏﺮﺘﻘﻳ[Enemy] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻤﻳﺰﻋ ّﻊﺸﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﺏﺮﺘﻘﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﻤﻳﺰﻌﺑ ّﻊﺸﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﻑﻮﺸﻜﻣ ﺡﺮﺟ ﻪﻳﺪﻟ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﺀﻴﻀﻳ [Color_Fem] ﻖﻔﺷ</li>
-    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺎﺑ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺖﻴﺑﺍﻮﺘﺑ ُﻂﻴِﺤُﺗ [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺖﻴﺑﺍﻮﺘﺑ ُﻂﻴِﺤُﺗ [Quantity_adjphrase]</li>
   </EnteredCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: gained master skill -->
@@ -250,7 +250,7 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
-    <li>tale_noun->[SKILL_label] ﺓﺭﺎﻬﻣ ﺎًﻣﺎﻤﺗ ﻦﻘﺗﺃ [PAWN_nameDef]</li>
+    <li>tale_noun->[SKILL_label] ﻲﻓ ﺓﺭﺎﻬﻣ ﻰﺼﻗﺃ ﻦﻘﺗﺃ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] [SKILL_label] ﺓﺭﺎﻬﻣ ﺱﺭﺎﻤﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [SKILL_label] ﻕﺮﻃ ﻦﻋ ﺎًﺑﺎﺘﻛ ﺃﺮﻘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [SKILL_label] ﻲﻓ ﺎًﺒﻳﺭﺪﺗ ﻰﻘﻠﺘﻳ [PAWN_nameFull]</li>
@@ -258,7 +258,7 @@
     <li>image->[circumstance_group] ًﺎﻋﻭﺮﺸﻣ ﻲﻬﻨﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ ﻩﺪﺴﺟﻭ</li>
     <li>circumstance_phrase->ﺢﺿﺍﻭ ﻕﺎﻫﺭﺈﺑ</li>
-    <li>circumstance_phrase->[AdjectiveAngsty] ﺮﻬﻈﻤﺑ</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->ّﻞﻤﻣ ﺮﻴﺒﻌﺘﺑ</li>
     <li>desc_sentence->.ﺔﻠﺷﺎﻓ ﺏﺭﺎﺠﺗ [Quantity_adjphrase] ـﺏ ﻁﺎﺤﻣ ﺪﻬﺸﻤﻟﺍ</li>
     <li>desc_sentence->.ﺐﺘﻛ [Quantity_adjphrase] ـﺏ ﻁﺎﺤﻣ ﺪﻬﺸﻤﻟﺍ</li>
@@ -269,7 +269,7 @@
   </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
   
   <!-- EN: gained master skill with passion -->
-  <GainedMasterSkillWithPassion.label>ﻒﻐﺸﺑ ﺔﻨﻘﺘﻣ ﺓﺭﺎﻬﻣ ﺏﺎﺴﺘﻛﺍ</GainedMasterSkillWithPassion.label>
+  <GainedMasterSkillWithPassion.label>ﻒﻐﺸﺑ ﻱﺭﺎﻬﻣ ﻥﺎﻘﺗﺇ</GainedMasterSkillWithPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
@@ -291,16 +291,16 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithPassion.rulePack.rulesStrings>
-    <li>tale_noun->[SKILL_label] ﺓﺭﺎﻬﻣ ﺎًﻣﺎﻤﺗ ﻦﻘﺗﺃ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] [SKILL_label] ﺓﺭﺎﻬﻣ ﺱﺭﺎﻤﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->[SKILL_label] ﻲﻓ ﺓﺭﺎﻬﻣ ﻰﺼﻗﺃ ﻦﻘﺗﺃ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] [SKILL_label] ﺓﺭﺎﻬﻣ ﺏﺭﺪﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [SKILL_label] ﻕﺮﻃ ﻦﻋ ﺎًﺑﺎﺘﻛ ﺃﺮﻘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [SKILL_label] ﻲﻓ ﺎًﺒﻳﺭﺪﺗ ﻰﻘﻠﺘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺪﻳﺪﺷ ﺱﺎﻤﺤﺑ ﻞﻤﻌﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺎًﻋﻭﺮﺸﻣ ﻲﻬﻨﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->[AdjectiveFriendly] ﺮﻬﻈﻤﺑ</li>
-    <li>circumstance_phrase->ﺞﻴﻬﺑ ﺮﻴﺒﻌﺘﺑ</li>
+    <li>image->[circumstance_group] ًﺎﻋﻭﺮﺸﻣ ﻲﻬﻨﻳ [PAWN_nameFull]</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->ﺔﺣﺮﻣ ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
     <li>circumstance_phrase->[VerbFriendly] ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺱﺎﻤﺤﻟﺎﺑ ﻢَﻌﻔُﻣ ٍﺡﺎﻴﺼﺑ</li>
+    <li>circumstance_phrase->ﺡﺮﻔﻟﺎﺑ ﺀﻴﻠﻣ ٍﺡﺎﻴﺼﺑ</li>
     <li>circumstance_phrase->ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ ﻩﺪﺴﺟﻭ</li>
     <li>circumstance_phrase->ﺢﺿﺍﻭ ﻕﺎﻫﺭﺈﺑ</li>
     <li>desc_sentence->.ﺔﻠﺷﺎﻓ ﺏﺭﺎﺠﺗ [Quantity_adjphrase] ـﺏ ﻁﺎﺤﻣ ﺪﻬﺸﻤﻟﺍ</li>
@@ -308,11 +308,11 @@
     <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﻲﻓ ﺓﺮﻫﺎﻇ ﻪﺗﺭﺎﻬﻣ</li>
     <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﺸﻫﺪﺑ ﻥﻮﺒﻗﺍﺮﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺀﺎﻤﺴﻟﺍ ﻦﻣ ﺐﻗﺍﺮﺗ ﺀﺎﻣﺪﻗ ﻦﻴﻤﻠﻌﻤﻟ ﺔﻳﺮﻴﺛﺃ ﺡﺍﻭﺭﺃ [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺀﺎﻤﺴﻟﺍ ﻦﻣ ﺐﻗﺍﺮﺗ ﻰﻣﺍﺪﻗ ﻦﻴﻤﻠﻌﻤﻟ ﺔﻳﺮﻴﺛﺃ ﺡﺍﻭﺭﺃ [Quantity_adjphrase]</li>
   </GainedMasterSkillWithPassion.rulePack.rulesStrings>
   
   <!-- EN: increased menagerie -->
-  <IncreasedMenagerie.label>ٌﺪِﻳﺍَﺰَﺘُﻣ ٌﺪْﺸَﺣ</IncreasedMenagerie.label>
+  <IncreasedMenagerie.label>ﺪﻳﺍﺰﺘﻣ ﻊﻴﻄﻗ</IncreasedMenagerie.label>
   <!-- EN:
     <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
@@ -336,16 +336,16 @@
     <li>tale_noun->[ANIMAL_nameIndef] َﻦَّﺟَﺩ [HUMAN_nameDef]</li>
     <li>image->[circumstance_group] [ANIMAL_nameIndef] ﻦّﺟﺪﻳ [HUMAN_nameFull]</li>
     <li>image->[circumstance_group] [ANIMAL_nameIndef] ـﻝ ﻯﻮﻠﺣ ﻡﺪﻘﻳ [HUMAN_nameFull]</li>
-    <li>image->[circumstance_group] ﺔﺒﻌﺻ ﺔﻘﻴﺷﺭ [ANIMAL_nameIndef] ﻝ ﻢﺘﻤﺘﻳ [HUMAN_nameFull]</li>
+    <li>image->[circumstance_group] ﺱﺍﺮﻤﻟﺍ ﺐﻌﺻ ﻊﻳﺮﺳ [ANIMAL_nameIndef] ﻝ ﻢﺘﻤﺘﻳ [HUMAN_nameFull]</li>
     <li>image->[circumstance_group] ﺶﺣﻮﺘﻣ [ANIMAL_nameIndef] ﺉﺪﻬﻳ [HUMAN_nameFull]</li>
     <li>circumstance_phrase->ﻦﻳﺪﻳﺪﺷ ﺭﺬﺣﻭ ﺔﻳﺎﻨﻌﺑ</li>
     <li>circumstance_phrase->ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
-    <li>circumstance_phrase->ﺓﺩﺎﻌﺴﻟﺍﻭ ﻕﺎﻫﺭﺈﻟﺍ ﻦﻴﺑ</li>
+    <li>circumstance_phrase->ﺓﺩﺎﻌﺳﻭ ﻕﺎﻫﺭﺈﺑ</li>
     <li>circumstance_phrase->ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ [AnimalGroupIndef] ﻊﻣ</li>
-    <li>desc_sentence->.[AnimalAnyPl] ﻰﺼﺤﻳ ﺎﻟ ﺩﺪﻋ ﻪﺑ ﻂﻴﺤﻳ [HUMAN_nameDef]</li>
-    <li>desc_sentence->.ﻡﺎﻤﻀﻧﺎﻠﻟ ﻪﺴﻨﺟ ﺀﺎﻨﺑﺃ ﻦﻣ [AnimalGroupIndef] ﻮﺤﻧ ﻪﺠﺘﻳ [ANIMAL_nameDef]</li>
+    <li>desc_sentence->.[AnimalAnyPl] ﻰﺼﺤﻳ ﻻ ﺩﺪﻋ ﻪﺑ ﻂﻴﺤﻳ [HUMAN_nameDef]</li>
+    <li>desc_sentence->.ﻡﺎﻤﻀﻧﻼﻟ ﻪﺴﻨﺟ ﺀﺎﻨﺑﺃ ﻦﻣ [AnimalGroupIndef] ﻰﻟﺇ ﻢﻀﻨﻴﻟ ﻙﺮﺤﺘﻳ [ANIMAL_nameDef]</li>
     <li>desc_sentence->.[AnimalAnyPl] ﻭ [AnimalAnyPl] ﻦﻣ ﺮﻴﺜﻜﻟﺎﺑ ﺞﻌﻳ ﺪﻬﺸﻤﻟﺍ</li>
-    <li>desc_sentence->.[HUMAN_nameDef] ﺔﻄﺳﺍﻮﺑ ﻢﻬﻨﻴﺟﺪﺗ ﻢﺘﻳ ﻥﺃ ﻥﻭﺮﻈﺘﻨﻳ [AnimalAnyPl] ﻰﺼﺤﻳ ﺎﻟ ﻦﻣ ﻒﺻ</li>
+    <li>desc_sentence->.[HUMAN_nameDef] ﺔﻄﺳﺍﻮﺑ ﻢﻬﻨﻴﺟﺪﺗ ﻢﺘﻳ ﻥﺃ ﻥﻭﺮﻈﺘﻨﻳ [AnimalAnyPl] ﻰﺼﺤﻳ ﻻ ﻦﻣ ﻒﺻ</li>
   </IncreasedMenagerie.rulePack.rulesStrings>
   
   <!-- EN: meditated -->
@@ -380,8 +380,8 @@
     <li>circumstance_phrase->[Color_Fem] ﺭﻮﻧ ﻦﻣ ﺔﻟﺎﻬﺑ [PAWN_o_a]ﺀﻭﺪﻬﺑ ﺞﻫﻮﺘﻣ</li>
     <li>desc_sentence->.ﻪﻧﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[AnimalAnyPl] [Quantity_adjphrase] ـﺏ [PAWN_o_a]ﻁﺎﺤﻣ</li>
-    <li>desc_sentence->.ﻡﺎﻠﺴﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺎﺑ [العدو] [الكمية_الصفة] ﻞﻐﺸﻨﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﻡﻼﺴﺑ ﻥﻮﺣﺎﺗﺮﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻦﻣ ﻥﻮﺸﻫﺪﻨﻣ [Enemy] [Quantity_adjphrase]</li>
   </Meditated.rulePack.rulesStrings>
   
   <!-- EN: mined valuable -->
@@ -406,22 +406,22 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <MinedValuable.rulePack.rulesStrings>
-    <li>tale_noun->[MATERIAL_label] ﻦﻣ ﻲﻨﻏ ﻕﺮﻋ ﻦﻋ [PAWN_nameDef] ﺐّﻘﻧ [PAWN_nameDef]</li>
+    <li>tale_noun->[MATERIAL_label] ﻦﻣ ﻲﻨﻏ ﻕﺮﻋ ﻦﻋ ﺐّﻘﻧ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ،ﻦﻳﺪﻌﺗ ﺕﺍﻭﺩﺄﺑ [MATERIAL_label] ﻦﻣ ﺭﺍﺪﺟ ﻰﻠﻋ ﻞﻤﻌﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺔﻌﻄﻗ ﺺﺤﻔﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺭﺍﺪﺟ ﻰﻟﺇ ﺍًﺪﻨﺘﺴﻣ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺭﺍﺪﺟ ﻮﺤﻧ ﺮﻔﺣ ﻖﻳﺮﻓ ﺩﻮﻘﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺎًﻴﻨﻏ ﺎًﻗﺮﻋ ﺪﻘﻔﺘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺎًﻴﻨﻏ ﺍًﺪﻳﺭﻭ ﺔﻳﺎﻨﻌﺑ ﺪﻘﻔﺘﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ًﺍﺮﻳﺰﻏ ًﺎﻗﺮﻋ ﺐﺒﺼﺘﻳ</li>
-    <li>circumstance_phrase->[AdjectiveFriendly] ﺓﺪﺸﺑ ﻕّﺮﻌﺘﻣ ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] ﻕّﺮﻌﺘﻣ ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->[AdjectiveFriendly] ﻪﺟﻮﺑ</li>
-    <li>circumstance_phrase->ﺮﺨﻔﺑ ﺎًﻤﺴﺘﺒﻣ</li>
+    <li>circumstance_phrase->ﺮﺨﻔﺑ ًﺎﻤﺴﺘﺒﻣ</li>
     <li>circumstance_phrase->ﻪﻬﺟﻭ ﻰﻠﻋ ﺎﺿﺭ ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
-    <li>desc_sentence->.[الحلفاء] [الكمية_صفة] ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻥﻮﻟَّﻮﺠﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ [CommunityIndef] ﺪﺟﻮﻳ</li>
     <li>desc_sentence->.ﺪﻌُﺑ ﻰﻠﻋ ٌﺔﻴﻓﺎﺿﺇ ٌﻕﻭﺮﻋ ﻯﺮُﺗ [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﻖﻓﺄﻟﺍ ﻲﻓ ﻯﺮُﻳ [TerrainFeatureIndefCap]</li>
+    <li>desc_sentence->.ﺪﻌُﺑ ﻰﻠﻋ ﻯﺮُﻳ [TerrainFeatureIndefCap]</li>
     <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﺮﺜﻛ ﻦﻣ [PAWN_o_a]ﺦﺴﺘﻣﻭ [PAWN_o_a]ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ [PAWN_nameDef]</li>
   </MinedValuable.rulePack.rulesStrings>
   
@@ -457,31 +457,31 @@
     <li>tale_noun->[OBJECT_indefinite] ﻲﻓ ﻰﺧﺮﺘﺳﺍ [PAWN_nameDef]</li>
     <li>tale_noun->[OBJECT_indefinite] ﻲﻓ ﺐﻌﻟ [PAWN_nameDef]</li>
     <li>tale_noun->[OBJECT_indefinite] ـﺏ ﻊﺘﻤﺘﺳﺍ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] ،ّﻲﺳﺮﻛ ﻰﻠﻋ [PAWN_o_a]ﺎًﺴﻟﺎﺟ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ّﻲﺳﺮﻛ ﻰﻠﻋ [PAWN_o_a]ﺎًﺴﻟﺎﺟ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[OBJECT_indefinite] ﻕﻮﻓ [PAWN_o_a]ﺪﻌﺘﺳﺍ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[OBJECT_indefinite] ﺐﻗﺍﺮﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[OBJECT_indefinite] ﻲﻓ ﺔﺒﻌﻠﻟﺎﺑ ﺯﻮﻔﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[OBJECT_indefinite] ﻲﻓ ﺮﺴﺨﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->ﺓﺩﻭﺪﺸﻣ ﺕﺎﻠﻀﻌﺑ</li>
+    <li>circumstance_phrase->ﺓﺩﻭﺪﺸﻣ ﺕﻼﻀﻌﺑ</li>
     <li>circumstance_phrase->ﻲﺧﺮﺘﺴﻤﻟﺍ ﻩﺪﺴﺟ</li>
     <li>circumstance_phrase->ﺔﻴﻟﺎﺘﻟﺍ ﻪﺗﻮﻄﺨﻟ ﻂﻄﺨﻳ</li>
-    <li>circumstance_phrase->ﻪﻳﺪﻳ ﻚّﻟﺪﻳ</li>
-    <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->ﻪﻴﻔﻛ ﻚﻟﺪﻳ</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] ﺱﻮﺒﻋ ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->ﻪﺴﻔﻨﻟ ﻢﺘﻤﺘﻳ</li>
-    <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﺄﻟﺄﻠﺘﻳ [Color_Fem] ﻖﻔﺷ</li>
+    <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻷﻸﺘﻳ [Color_Fem] ﻖﻔﺷ</li>
     <li>desc_sentence->.[CommunityIndef] ﻯﺮﻳ ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
     <li>desc_sentence->.[TerrainFeatureIndef] ﻯﺮﻳ ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
     <li>desc_sentence->.ﺎًﻀﻳﺃ ﻥﻮﺒﻌﻠﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺏﺮﻘﻟﺎﺑ ﻥﻮﺒﻌﻠﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.[Color_Fem] ﺔﻟﺎﻬﺑ ﺞﻫﻮﺘﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->ﺎﻬﻴﻓ ﻎﻟﺎﺒﻣ [PAWN_nameDef] ﺢﻣﺎﻠﻣ</li>
+    <li>desc_sentence->ﺔﻟﺎﻫ[Color_Fem] ﺔﻟﺎﻬﺑ ﺞﻫﻮﺘﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->ﺎﻬﻴﻓ ﻎﻟﺎﺒﻣ [PAWN_nameDef] ﺢﻣﻼﻣ</li>
     <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻰﻠﻋ ﺮﻄﻴﺴُﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺔﻤﻳﺰﻬﻟﺍ ﻢﻬﻴﻠﻋ ﻭﺪﺒﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
   </PlayedGame.rulePack.rulesStrings>
   
   <!-- EN: prayed -->
-  <Prayed.label>ﻰﻠﺻ</Prayed.label>
+  <Prayed.label>ﺕﺍَﻮَﻠَﺻ</Prayed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] praying</li>
     <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
@@ -500,21 +500,21 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Prayed.rulePack.rulesStrings>
-    <li>tale_noun->ﻲﻠﺼﻳ [PAWN_nameDef] ﻥﺎﻛ [PAWN_nameDef]</li>
-    <li>tale_noun->ﺎﻴﻠﻋ ﺓﻮﻗ ﻰﻟﺇ ﻉﺮﻀﺘﻳ [PAWN_nameDef] ﻥﺎﻛ [PAWN_nameDef]</li>
+    <li>tale_noun->ﻲّﻠﺼﻳ ﻥﺎﻛ [PAWN_nameDef]</li>
+    <li>tale_noun->ﺎﻴﻠﻋ ﺓﻮﻗ ﻰﻟﺇ ﻉﺮﻀﺘﻳ ﻥﺎﻛ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ﻭ ﺔﻓﺎﺴﻤﻟﺍ ﻞﻣﺄﺘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻭ ﻪﻴﻨﻴﻋ ﺾﻤﻐﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻭ ﻪﻳﺪﻳ ﺎًﻣﺎﺿ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻭ ﻪﻳﺪﻳ ّﻢﺿ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻭ ﺀﺎﻤﺴﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->ﺔﻨﻴﻜﺴﻟﺍ ﺍًﺮﺷﺎﻧ</li>
-    <li>circumstance_phrase->ﺍًﺀﻭﺪﻫ ّﻊﺸُﻳ</li>
-    <li>circumstance_phrase->ﻞﻣﺄﺘﺑ ﻪﻬﺟﻭ ﻦﻋ ﺎًﺿِﺮْﻌُﻣ</li>
-    <li>circumstance_phrase->ﺖﻓﺎﺧ ﻞﻣﺃ ﺮﻴﺒﻌﺘﺑ</li>
+    <li>circumstance_phrase->ﺔﻨﻴﻜﺴﻟﺍ ًﺍﺮﺷﺎﻧ</li>
+    <li>circumstance_phrase->ًﺔَﻨﻴِﻜَﺳ ُّﻊِﺸُﻳ</li>
+    <li>circumstance_phrase->ًﻼِّﻣَﺄَﺘُﻣ ًﺎﻬْﺟَﻭ ًﺍﺮِﻬْﻈُﻣ</li>
+    <li>circumstance_phrase->ﺕﻮﻔﺨﺑ ﺀﻴﻀﻳ</li>
     <li>circumstance_phrase->[Color_Fem] ﻦﻣ ﺔﻟﺎﻬﺑ [PAWN_o_a]ﺀﻭﺪﻬﺑ ﺞﻫﻮﺘﻣ</li>
     <li>desc_sentence->.ﻪﻧﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[AnimalAnyPl] [Quantity_adjphrase] ـﺏ [PAWN_o_a]ﻁﺎﺤﻣ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻡﺎﻠﺴﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺎﺑ [العدو] [الكمية_الصفة] ﻞﻐﺸﻨﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﻡﻼﺴﺑ ﻥﻮﺣﺎﺗﺮﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺎﺑ ﻞﻐﺸﻨﻳ[Enemy] [Quantity_adjphrase]</li>
   </Prayed.rulePack.rulesStrings>
   
   <!-- EN: put into cryptosleep -->
@@ -537,21 +537,21 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <PutIntoCryptosleep.rulePack.rulesStrings>
-    <li>tale_noun->ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ [SLEEPER_nameDef] ﻞﻘﻧ [CARRIER_nameDef]</li>
+    <li>tale_noun->ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻰﻟﺇ [SLEEPER_nameDef] ﻊﺿﻭ [CARRIER_nameDef]</li>
     <li>image->[circumstance_group] ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻞﺧﺍﺩ [SLEEPER_nameDef] ﻊﻀﻳ [CARRIER_nameFull]</li>
-    <li>image->[circumstance_group] [SLEEPER_nameDef] [circumstance_group] [SLEEPER_nameDef] ﻞﻤﺤﻳ ﺎﻤﻨﻴﺑ ﻊﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﻏﺭﺎﻓ ﺎًﺗﻮﺑﺎﺗ [CARRIER_nameFull] ﺢﺘﻔﻳ [CARRIER_nameFull]</li>
+    <li>image->[circumstance_group] [SLEEPER_nameDef] ﻞﻤﺤﻳ ﺎﻤﻨﻴﺑ ﻊﺸﻤﻟﺍ ﺕﺎﺒﺴﻠﻟ ﺎًﻏﺭﺎﻓ ﺎًﺗﻮﺑﺎﺗ ﺢﺘﻔﻳ [CARRIER_nameFull]</li>
     <li>image->[circumstance_group] ﻖﻴﻤﻋ ﺕﺎﺒﺳ ﺕﻮﺑﺎﺗ ﻞﺧﺍﺩ [SLEEPER_nameDef] ﻢﺘﺨﻳ [CARRIER_nameFull]</li>
-    <li>image->[circumstance_group] ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﻮﺑﺎﺗ ﺔﺤﺘﻓ ﻝﺎﻠﺧ ﻦﻣ ﺐﻗﺍﺮﻳ [SLEEPER_nameDef] ﺎﻤﻨﻴﺑ ﺪﻌﺘﺒﻳ ﻮﻫﻭ [CARRIER_nameFull]</li>
+    <li>image->[circumstance_group] ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺕﻮﺑﺎﺗ ﺔﺤﺘﻓ ﻝﻼﺧ ﻦﻣ ﺐﻗﺍﺮﻳ [SLEEPER_nameDef] ﺎﻤﻨﻴﺑ ﺪﻌﺘﺒﻳ ﻮﻫﻭ [CARRIER_nameFull]</li>
     <li>circumstance_phrase->[AdjectiveAny] ﺔﻟﺎﻬﺑ</li>
-    <li>circumstance_phrase->[AdjectiveFriendly] ﺮﻬﻈﻤﺑ</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] ﺱﻮﺒﻋ ﻪﺟﻮﺑ</li>
     <li>circumstance_phrase->[TerrainFeature] ﺍًﺪﻴﻌﺑ ﻞﻣﺄﺘﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻢﻠﻈﻣ ﻒﻬﻛ ﻲﻓ</li>
-    <li>desc_sentence->.ﺏﺮﻘﻟﺎﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ [الكمية والصفة] ﺀﺍﺪﻋﺃ[Enemy] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻤﻳﺰﻋ ّﻊﺸُﻳ [CARRIER_nameDef]</li>
+    <li>desc_sentence->.ﺏﺮﻘﻟﺎﺑ ﻥﻮﺣﺎﺗﺮﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ ﺀﺍﺪﻋﺃ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﻤﻳﺰﻌﺑ ّﻊﺸُﻳ [CARRIER_nameDef]</li>
     <li>desc_sentence->.[SLEEPER_o_a]ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺏﺎﺼﻣ [SLEEPER_nameDef]</li>
     <li>desc_sentence->.[SLEEPER_o_a]ﺎًﻜﻬﻨﻣ ﻭﺪﺒﻳ [SLEEPER_nameDef]</li>
-    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺎﺑ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺖﻴﺑﺍﻮﺘﺑ ُﻂﻴِﺤُﺗ [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻖﻴﻤﻌﻟﺍ ﺕﺎﺒﺴﻟﺍ ﺖﻴﺑﺍﻮﺘﺑ ُﻂﻴِﺤُﺗ [Quantity_adjphrase]</li>
   </PutIntoCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: stripped -->
@@ -575,24 +575,24 @@
   -->
   <Stripped.rulePack.rulesStrings>
     <li>tale_noun->[STRIPPED_nameDef] ﻯَّﺮَﻋ [TAKER_nameDef]</li>
-    <li>image->[circumstance_group] ﻦﻠﻌﻟﺍ ﻲﻓ [STRIPPED_nameFull] ﺲﺑﺎﻠﻣ ﻊﻠﺨﻳ [TAKER_nameFull]</li>
-    <li>image->[circumstance_group] [STRIPPED_nameFull] ﺲﺑﺎﻠﻣ ﻞﻳﺰﻳ [TAKER_nameFull]</li>
-    <li>image->[circumstance_group] ًﺎﻣﺎﻤﺗ ًﺎﻳﺭﺎﻋ ،[STRIPPED_nameFull] ﺐﻧﺎﺠﺑ ًﺎﻔﻗﺍﻭ ،[Apparel] ﺓﺪﻋ ًﺎﻠﻣﺎﺣ [TAKER_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﺴﺑﺎﻠﻣ ﻊﻠﺨﻳ [STRIPPED_nameFull] ﺎﻤﻨﻴﺑ ﺮﺒﺼﺑ ﺮﻈﺘﻨﻳ [TAKER_nameFull]</li>
-    <li>circumstance_phrase->ﺔﻤﻳﺰﻌﺑ</li>
-    <li>circumstance_phrase->ﻞﺠﺧ ﻱﺃ ﻥﻭﺪﺑ</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>image->[circumstance_group] ﻦﻠﻌﻟﺍ ﻲﻓ [STRIPPED_nameFull] ﺲﺑﻼﻣ ﻊﻠﺨﻳ [TAKER_nameFull]</li>
+    <li>image->[circumstance_group] [STRIPPED_nameFull] ﺲﺑﻼﻣ ﻞﻳﺰﻳ [TAKER_nameFull]</li>
+    <li>image->[circumstance_group] ًﺎﻣﺎﻤﺗ ﻱﺭﺎﻌﻟﺍ ،[STRIPPED_nameFull] ﺐﻧﺎﺠﺑ ًﺎﻔﻗﺍﻭ ،[Apparel] ﺓﺪﻋ ًﻼﻣﺎﺣ [TAKER_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﺴﺑﻼﻣ ﻊﻠﺨﻳ [STRIPPED_nameFull] ﺎﻤﻨﻴﺑ ﺮﺒﺼﺑ ﺮﻈﺘﻨﻳ [TAKER_nameFull]</li>
+    <li>circumstance_phrase->ﺭﺍﺮﺻﺇﻭ ﺔﻤﻳﺰﻌﺑ</li>
+    <li>circumstance_phrase->ﻞﺠﺧ ﻱﺃ ﺮﻴﻐﺑ</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺢﺿﺍﻭ ﺐﺒﺳ ﻥﻭﺪﺑ</li>
     <li>circumstance_phrase->ﺓﺮﻴﺣ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﺪﻫﺎﺸﺗ ﺎﻤﻨﻴﺑ</li>
-    <li>desc_sentence->.ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺮﻴﺜﻳ [STRIPPED_nameDef]</li>
-    <li>desc_sentence->.ﺓﺮﺴﻔﻣ ﺮﻴﻏ ﺔﺑﻮﻃﺭ [STRIPPED_nameDef] ﻲﻄﻐﻳ [STRIPPED_nameDef]</li>
-    <li>desc_sentence->.ﺢﺿﺍﻭ ﺐﺒﺳ ﻥﻭﺩ ﺔﺑﻮﻌﺼﺑ [STRIPPED_nameDef] ﺲﻔﻨﺘﺗ/ﺲﻔﻨﺘﻳ [STRIPPED_nameDef]</li>
+    <li>desc_sentence->.ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺍًﺭﺎﺜﻣ ﻭﺪﺒﻳ [STRIPPED_nameDef]</li>
+    <li>desc_sentence->.ﺓﺮﺴﻔﻣ ﺮﻴﻏ ﺔﺑﻮﻃﺭ ﻲﻄﻐﻳ [STRIPPED_nameDef]</li>
+    <li>desc_sentence->.ﺢﺿﺍﻭ ﺐﺒﺳ ﻼﺑ ﺚﻬﻠﻳ [STRIPPED_nameDef]</li>
     <li>desc_sentence->.ﺓﺮﻴﺠﺷ ﺐﻋﺍﺪﻳ [STRIPPED_nameDef]</li>
     <li>desc_sentence->.[AdjectiveAngsty] ﺍًﺮﻴﺒﻌﺗ ﻱﺪﺗﺮﻳ [STRIPPED_nameDef]</li>
   </Stripped.rulePack.rulesStrings>
   
   <!-- EN: visited grave -->
-  <VisitedGrave.label>ﻪﺗﺭﺎﻳﺯ ﺖﻤﺗ ﺮﺒﻗ</VisitedGrave.label>
+  <VisitedGrave.label>ﺭﺍﺰُﻣ ﺮﺒﻗ</VisitedGrave.label>
   <!-- EN:
     <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
     <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
@@ -617,20 +617,20 @@
     <li>tale_noun->[CORPSE_nameDef] ﺮﺒﻗ ﺭﺍﺯ [VISITOR_nameDef]</li>
     <li>tale_noun->ﻩﺮﺒﻗ ﺪﻨﻋ [CORPSE_nameDef] ﺭﺍﺯ [VISITOR_nameDef]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺎًﻔﻗﺍﻭ [VISITOR_nameFull]</li>
-    <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺎًﺴﻟﺎﺟ [VISITOR_nameFull]</li>
+    <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺐﻧﺎﺠﺑ ﺲﻠﺠﻳ [VISITOR_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﻰﻠﻋ ﻲﻨﺤﻨﻳ [VISITOR_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﺪﻫﺎﺷ ﻰﻠﻋ ﺺﻨﻟﺍ ﺃﺮﻘﻳ [VISITOR_nameFull]</li>
     <li>image->[circumstance_group] [CORPSE_nameFull] ﺮﺒﻗ ﻰﻠﻋ ﻦﻔﻟﺍ ﻞﻣﺄﺘﻳ [VISITOR_nameFull]</li>
-    <li>circumstance_phrase->[AdjectiveAngsty] ﺮﻬﻈﻤﺑ</li>
-    <li>circumstance_phrase->ﻩﺭﺎﻜﻓﺃ ﻲﻓ ﺎًﺴﻤﻐﻨﻣ</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->ﻩﺭﺎﻜﻓﺃ ﻲﻓ ﺎًﻌﺋﺎﺿ</li>
     <li>circumstance_phrase->ﺪﻴﻌﺑ [TerrainFeature] ﻞﻣﺄﺘﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺮﺒﻘﻟﺍ ﺪﻫﺎﺷ ﻰﻟﺇ ﺀﻭﺪﻬﺑ ﺎًﺛﺪﺤﺘﻣ</li>
+    <li>circumstance_phrase->ﺮﺒﻘﻟﺍ ﺪﻫﺎﺷ ﻰﻟﺇ ﺲﻤﻬﺑ ﺙﺪﺤﺗﻭ</li>
     <li>desc_sentence->ﺔﻴﻔﻠﺨﻟﺍ ﺀﻴﻀﻳ [Color_Fem] ﻖﻔﺷ</li>
-    <li>desc_sentence->ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
+    <li>desc_sentence->.ﺞﻠﺜﻟﺍ ﻪﻴﻄﻐﻳ [CommunityIndef] ،ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
     <li>desc_sentence->.[AdjectiveFriendly] ﺮﻴﺒﻌﺘﺑ ﺪﻬﺸﻤﻟﺍ ﺐﻗﺍﺮﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
-    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﺎﻠﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
+    <li>desc_sentence->.[AdjectiveFriendly] ﺢﻣﻼﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
     <li>desc_sentence->.[AdjectiveAngsty] ﺮﻴﺒﻌﺘﺑ ﺪﻬﺸﻤﻟﺍ ﺐﻗﺍﺮﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
-    <li>desc_sentence->.[AdjectiveAngsty] ﺢﻣﺎﻠﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
+    <li>desc_sentence->.[AdjectiveAngsty] ﺢﻣﻼﻤﺑ ،[VISITOR_nameDef] ﺐﻧﺎﺠﺑ ﻒﻘﻳ [CORPSE_nameDef] ـﻝ ﺔﻴﺤﺒﺷ ﺓﺭﻮﺻ</li>
     <li>desc_sentence->.ﺙﺩﺎﺤﻟﺍ ﻥﺎﻜﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻥﻮﺤﻳﺮﺘﺴﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </VisitedGrave.rulePack.rulesStrings>
   

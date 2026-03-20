@@ -30,37 +30,37 @@
     <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
   -->
   <AteRawHumanlikeMeat.rulePack.rulesStrings>
-    <li>tale_noun->.ﺎًﻳﺮﺸﺑ ﺎًﻤﺤﻟ [PAWN_nameDef] ﻞﻛﺃ [PAWN_nameDef]</li>
+    <li>tale_noun->.ﻱﺮﺸﺑ ﻢﺤﻟ ﻞﻛﺃ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ﻦﻴﻬﺑﺎﺸﺘﻤﻟﺍ ﺮﺸﺒﻟﺍ ﻦﻣ ﻖﻴﻓﺭ ﻢﺤﻟ [eat_gerund] [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻲﻟﺁ ﻥﺎﺴﻧﺇ ﻉﺍﺭﺫ ﻢﺤﻟ [eat_gerund] [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻱﺮﺸﺑ ﻦﺋﺎﻛ ﻢﺤﻟ [eat_gerund] [PAWN_nameFull]</li>
     <li>eat_gerund->ﻞﻛﺄﻳ</li>
-    <li>eat_gerund->ﻝﻭﺎﻨﺘﻳ</li>
-    <li>eat_gerund->ﻎﻀﻤﻳ</li>
-    <li>eat_gerund->ﺔﻫﺍﺮﺸﺑ ﻝﻭﺎﻨﺘﻳ</li>
     <li>eat_gerund->ﻚﻠﻬﺘﺴﻳ</li>
-    <li>eat_gerund->ﻊﻠﺘﺒﻳ</li>
+    <li>eat_gerund->ﻎﻀﻤﻳ</li>
+    <li>eat_gerund->ﺔﻫﺍﺮﺸﺑ ﻎﻀﻤﻳ</li>
+    <li>eat_gerund->ﻚﻠﻬﺘﺴﻳ</li>
+    <li>eat_gerund->ﻥﺎﻨﺳﻷﺎﺑ ﻊﻠﺘﺒﻳ</li>
     <li>eat_gerund->ﺮﺸﺒﻟﺍ ﻡﻮﺤﻟ ﻞﻛﺄﻳ</li>
     <li>circumstance_phrase->ﺐﺟﺍﻮﻟﺎﺑ ﺱﺎﺴﺣﺈﺑ</li>
-    <li>circumstance_phrase->ﻞﺠﺧ ﻱﺃ ﻥﻭﺪﺑ</li>
-    <li>circumstance_phrase->ﻞﺠﺧ ﻪﺟﻮﺑ</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻞﺠﺧ ﻱﺃ ﺮﻴﻐﺑ</li>
+    <li>circumstance_phrase->ﻝﻮﺠﺧ ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ٍﻒَﻐَﺸِﺑ</li>
     <li>circumstance_phrase->.ﻚﺤﻤﻟﺍ ﻰﻠﻋ ﺖﻧﺎﻛ ﻪﺗﺎﻴﺣ ﻥﺃ ﻮﻟ ﺎﻤﻛ ،ﺎﻳﺮﻴﺘﺴﻬﺑ</li>
-    <li>desc_sentence->.ﻞﺋﺍﻮﺴﻟﺍﻭ ﻡﺪﻟﺎﺑ ﻰﻄﻐﻣ [PAWN_nameDef] ﻪﺟﻭ</li>
+    <li>desc_sentence->ﻞﺋﺍﻮﺴﻟﺍﻭ ﻡﺪﻟﺎﺑ ﻰﻄﻐﻣ [PAWN_nameDef] ﻪﺟﻭ</li>
     <li>desc_sentence->.ﻪﻌﺑﺎﺻﺃ ﻖﻌﻠﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﻪﻬﺟﻭ ﻰﻠﻋ ﻢﺤﻟ ﻊﻄﻗﻭ ﻡﺩ ﻪﻳﺪﻟ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﺀﺎﻣﺪﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻛﺮﺑ ﻒﺼﺘﻨﻣ ﻲﻓ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﻲﻔﺧ ﻡﺎﻤﺘﻫﺎﺑ ﺐﻳﺮﻗ ﺮﺧﺁ ﺺﺨﺷ ﻰﻟﺇ [PAWN_nameDef] ﺮﻈﻨﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﺀﺎﻣﺪﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻛﺮﺑ ﻒﺼﺘﻨﻣ ﻲﻓ ﻊﻘﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﻲﻔﺧ ﻡﺎﻤﺘﻫﺎﺑ ﺐﻳﺮﻗ ﺮﺧﺁ ﺺﺨﺷ ﻰﻟﺇ ﺮﻈﻨﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺔﻳﺮﻃﻭ ﺔﻳﺎﻐﻠﻟ ﺔﻴﻬﺷ ﻡﻮﺤﻠﻟﺍ ﻭﺪﺒﺗ</li>
-    <li>desc_sentence->.ﻪﻟﻮﺣ ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﻢﺤﻠﻟﺍ ﻊﻄﻗ ﻂﻗﺎﺴﺘﺗ</li>
+    <li>desc_sentence->.ﺽﺭﻷﺍ ﻰﻠﻋ ﻪﻟﻮﺣ ﻢﺤﻠﻟﺍ ﻊﻄﻗ ﺮﺛﺎﻨﺘﺗ</li>
   </AteRawHumanlikeMeat.rulePack.rulesStrings>
   
   <!-- EN: humanlike corpse butchered -->
   <ButcheredHumanlikeCorpse.label>ﺓﺃﺰﺠُﻣ ﻥﺎﺴﻧﺇ ﺔﺜﺟ</ButcheredHumanlikeCorpse.label>
   
   <!-- EN: art crafted -->
-  <CraftedArt.label>ﻲﻨﻓ ﻊﻨﺻ</CraftedArt.label>
+  <CraftedArt.label>ﻦﻔﻟﺍ ﻊﻨﺻ</CraftedArt.label>
   <!-- EN:
     <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
     <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
@@ -96,28 +96,28 @@
     <li>image->[title_sentence] .[quality_sentence] .[circumstance_group] [THING_indefinite] ﻊﻨﺼﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻞﻣﺎﻛ ﺰﻴﻛﺮﺘﺑ</li>
     <li>circumstance_phrase->ﺎﺿﺮﻟﺍ ﻩﻮﻠﻌﻳ ﻪﺟﻮﺑ</li>
-    <li>circumstance_phrase->ﻪﻠﻤﻋ ﺓﺪﻀﻨﻣ ﻰﻠﻋ</li>
+    <li>circumstance_phrase->ﻪﻠﻤﻋ ﺔﻟﻭﺎﻃ ﺪﻨﻋ</li>
     <li>circumstance_phrase->ﺓﺮﻴﺒﻛ ﺓﺪﺸﺑ</li>
     <li>desc_sentence->.ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺓﺮﺛﺎﻨﺘﻣ ﺕﺍﻭﺩﺃ ﻙﺎﻨﻫ</li>
-    <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﺕﺎﺑﺎﺻﺇ ﻦﻣ ﺕﺎﻣﺪﻛﻭ ﺵﻭﺪﺧ ﺎﻬﻳﺪﻟ/ﻪﻳﺪﻟ</li>
-    <li>desc_sentence->.ﻕﺮﻌﻟﺎﺑ [PAWN_o_a]ﻰﻄﻐﻣ</li>
+    <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﺕﺎﺑﺎﺻﺇ ﻦﻣ ﺕﺎﻣﺪﻛﻭ ﺵﻭﺪﺧ ﻪﻳﺪﻟ</li>
+    <li>desc_sentence->.ﻕﺮﻌﻟﺎﺑ [PAWN_o_a]ﻰﻄﻐُﻣ</li>
     <li>desc_sentence->.ﺐﺳﺎﻨﻤﻟﺍ ﺎﻬﻧﺎﻜﻣ ﻲﻓ ﺓﺍﺩﺃ ﻞﻛ ﺩﻮﺟﻭ ﻊﻣ ،ﺔﻳﺎﻐﻠﻟ ﺔﻤﻈﻨﻣ ﻞﻤﻌﻟﺍ ﺔﻘﻄﻨﻣ</li>
-    <li>desc_sentence->.[PAWN_o_a]ًﺓﻮﻗ ﺮﺜﻛﺃ ﻭﺪﺒَﻴﻟ [PAWN_o_a]ﻎَﻟﺎﺒُﻣ ﻞﻜﺸﺑ ﺭَّﻮﺼُﻳ</li>
-    <li>desc_sentence->ﻪﺘﻴﻤﻫﺃ ﻰﻠﻋ ﺪﻴﻛﺄﺘﻠﻟ ﻪﻴﻓ ٌﻎَﻟﺎﺒُﻣ [THING_definite] ﻢﺠﺣ</li>
-    <li>desc_sentence->.ﺎًﻳﻭﺎﻤﺳ ﻭﺪﺒﻳ .ﻪﻟﻮﺣ ﻲﻨﻓ ﺞﻫﻮﺗ ﻪﻳﺪﻟ [THING_definite]</li>
-    <li>desc_sentence->.ﺪﻳﺪﺠﻟﺍ ﻪﻋﺍﺪﺑﺇ ﻰﻠﻋ ﺪﻴﻛﺄﺘﻠﻟ ،ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻰﺷﺎﻠﺘﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.[عدد_صفة] ﻪﺒﻗﺍﺮﻳ [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﻒﻠﺨﻟﺍ ﻦﻣ ﻒﺘﻬﻳ ﺪﺸﺣ</li>
-    <li>quality_sentence->.[THING_quality] ﺓﺩﻮﺟ ﻭﺫ ﻭﺪﺒﻳ [THING_definite]</li>
-    <li>quality_sentence->.[THING_quality] ﺓﺩﻮﺟ ﻭﺫ [THING_definite]</li>
-    <li>quality_sentence->.[THING_quality] ﺓﺩﻮﺠﺑ [PAWN_nameDef] ﻞﻤﻋ</li>
-    <li>title_sentence->[THING_title] :ﻞﻔﺳﺃ ﺏﻮﺘﻜﻣ [THING_definite] ﻝ [PAWN_nameDef] ﻥﺍﻮﻨﻋ</li>
-    <li>title_sentence->[THING_title] :ﻥﺍﻮﻨﻋ ﺎﻬﻴﻠﻋ َﺶِﻘُﻧ [THING_definite]</li>
-    <li>title_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻰﻟﺪﺘﻳ ،[THING_title] ،[THING_definite] ﻥﺍﻮﻨﻋ</li>
+    <li>desc_sentence->.[PAWN_o_a]ًﺓﻮﻗ ﺮﺜﻛﺃ ﺮﻬﻈﻴﻟ ﺔﻐَﻟﺎﺒُﻣ ﺔﻘﻳﺮﻄﺑ [PAWN_o_a]ﻎَﻟﺎﺒُﻣ ﻞﻜﺸﺑ ﺭَّﻮﺼُﻳ</li>
+    <li>desc_sentence->ﻪﺘﻴﻤﻫﺃ ﻰﻠﻋ ﺪﻴﻛﺄﺘﻠﻟ ﻪﻴﻓ ﻎﻟﺎﺒُﻣ [THING_definite] ﻢﺠﺣ</li>
+    <li>desc_sentence->.ﺎًﻳﻭﺎﻤﺳ ﻭﺪﺒﻳ .ﻪﺑ ﻂﻴﺤﻳ ﻲﻨﻓ ﺞﻫﻭ ﻪﻟ [THING_definite]</li>
+    <li>desc_sentence->.ﺪﻳﺪﺠﻟﺍ ﻪﻋﺍﺪﺑﺇ ﻰﻠﻋ ﺪﻴﻛﺄﺘﻠﻟ ،ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻰﺷﻼﺘﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﺐﻧﺎﺟ ﻞﻛ ﻦﻣ ﻪﻧﻮﺒﻗﺍﺮﻳ [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﻒﻠﺨﻟﺍ ﻦﻣ ﺩﻮﺸﺣ ﺖﻔﺘﻫ</li>
+    <li>quality_sentence->ﺓﺩﻮﺟ[THING_quality] ﺓﺩﻮﺟ ﻭﺫ ﻭﺪﺒﻳ [THING_definite]</li>
+    <li>quality_sentence->ﺓﺩﻮﺟ[THING_quality] ﺓﺩﻮﺟ ﻭﺫ [THING_definite]</li>
+    <li>quality_sentence->.[THING_quality] ﺓﺩﻮﺟ ﻭﺫ [PAWN_nameDef] ﻞﻤﻋ</li>
+    <li>title_sentence->[THING_title] :ﻪﺘﺤﺗ ﺏﻮﺘﻜﻣ [THING_definite] ﻝ [PAWN_nameDef] ﻥﺍﻮﻨﻋ</li>
+    <li>title_sentence->[THING_definite] [THING_title]</li>
+    <li>title_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻰﻟﺪﺘﻳ[THING_title] ،[THING_definite] ﻥﺍﻮﻨﻋ</li>
   </CraftedArt.rulePack.rulesStrings>
   
   <!-- EN: drunk -->
-  <Drunk.label>ﻞِﻤَﺛ</Drunk.label>
+  <Drunk.label>ﻥﺍﺮﻜﺳ</Drunk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
     <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
@@ -151,40 +151,40 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <Drunk.rulePack.rulesStrings>
-    <li>tale_noun->.ﺪﻳﺪﺷ ﺮﻜﺴﺑ [PAWN_nameDef] ﺐﻴﺻﺃ [PAWN_nameDef]</li>
-    <li>tale_noun->.ﺪﻳﺪﺷ ﺮﻜﺴﺑ [PAWN_nameDef] ّﺮﻣ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] [PAWN_o_a]ﺮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ ﺮﺜﻌﺘﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺮﻤﺨﻟﺎﺑ ﻖﻨﺘﺨﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺔﻫﺍﺮﺸﺑ ﺭﻮﻤﺨﻟﺍ ﺕﺎﺟﺎﺟﺯ ﻊﻤﺠﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->ﺔﻟﺎﻤﺜﻟﺍ ﻰﺘﺣ ﺏﺮﺷ [PAWN_nameDef]</li>
+    <li>tale_noun->.ﺪﻳﺪﺷ ﺮﻜﺴﺑ ّﺮﻣ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] [PAWN_o_a]ﺮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ ﺢﻧﺮﺘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺮﻤﺨﻟﺍِـﺏ ﻖﻨﺘﺨﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ٍﻊَﻤَﻄِﺑ ِﻝﻮﺤُﻜﻟﺍ ِﺕﺍﺮَﻄَﺑ ﻊﻤﺠﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺓﺭﺍﺰﻐﺑ ﺏﺮﺸﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻟﻮﺣ ﺙﺪﺤﻳ ﺎﻤﻟ [PAWN_o_a]ﻙﺭﺪﻣ ﺮﻴﻏ</li>
-    <li>circumstance_phrase->[PAWN_o_a]ﻖﻴﻤﻋ ﻝﻮﻫﺫ ﻲﻓ</li>
-    <li>circumstance_phrase->ﺹﺎﺨﻟﺍ ﻩﺩﻮﺟﻭ ﻦﻋ ﻝﺀﺎﺴﺘﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->[PAWN_o_a]ﻞﻣﺎﻛ ﻝﻮﻫﺫ ﻲﻓ</li>
+    <li>circumstance_phrase->ﻪﺗﺍﺫ ﻩﺩﻮﺟﻭ ﻦﻋ ﻝﺀﺎﺴﺘﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺎﻬﻴﻨﻴﻋ ﻲﻓ ﻉﻮﻣﺪﺑ</li>
     <li>circumstance_phrase->ﻥﻮﻨﺠﺑ ﻪﻘﻬﻘﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺓﺪﺸﺑ ﻲﻜﺒﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻲﻜﺒﺗ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺔﻘﻔﺸﻠﻟ ﺮﻴﺜﻣ ﻞﻜﺸﺑ</li>
-    <li>circumstance_phrase->.ﻪﻟﻮﺣ ﻦﻣ ﺹﺎﺨﺷﺄﻠﻟ ﺔﺒﺿﺎﻏ ﺕﺍﺮﻈﻧ ﻪﺟﻮﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->.ﺐﻳﺮﻗ ﺺﺨﺸﻟ ﻆﻴﻐﺑ ﻕّﺪﺤﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->.ﻪﻟﻮﺣ ﻦﻣ ﺹﺎﺨﺷﻸﻟ ﺔﺒﺿﺎﻏ ﺕﺍﺮﻈﻧ ﻪﺟﻮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->.ﺐﻳﺮﻗ ﺺﺨﺷ ﻲﻓ ٍﻆﻴﻐﺑ ﻕّﺪﺤﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻱﺮﻌﺘﻟﺍ ﺔﻟﻭﺎﺤﻣ ﺀﺎﻨﺛﺃ</li>
-    <li>circumstance_phrase->ﺎﻬﻤﻓ/ﻪﻤﻓ ﻲﻓ ﻊﺒﺻﺈﺑ</li>
-    <li>circumstance_phrase->ﺀﻴﻘﻟﺍ ﺢﺒﻜﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻪﻤﻓ ﻲﻓ ﻊﺒﺻﺈﺑ</li>
+    <li>circumstance_phrase->ﻥﺎﻴﺜﻐﻟﺍ ﺢﺒﻜﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻡﺎﻤﺘﻫﺍ ﻱﺃ ﺮﻴﻐﺑ</li>
-    <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ ﺔﻴﻧﺍﻮﻬﺷ ﺓﺮﻈﻨﺑ</li>
-    <li>circumstance_phrase->ﻪﻴﺿﺎﻣ ﺡﺎﺒﺷﺃ ﻊﺟﺮﺘﺴﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>desc_sentence->.ﻪﻄﻴﺤﻣ ﻦﻋ [PAWN_o_a]ًﺎﻠﻓﺎﻏ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ ﺔﻴﻧﺍﻮﻬﺷ ﺔﻌﻤﻠﺑ</li>
+    <li>circumstance_phrase->ﻪﻴﺿﺎﻣ ﺡﺎﺒﺷﺃ ﺮﻛﺬﺘﺴﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>desc_sentence->.ﻪﻄﻴﺤﻣ ﻦﻋ [PAWN_o_a]ًﻼﻓﺎﻏ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺎًﻣﺭﻮﺘﻣ ﻪﻬﺟﻭ ﻭﺪﺒﻳ</li>
     <li>desc_sentence->.ﻲﻟﺪﺘﻣ ﻪﻧﺎﺴﻟﻭ ،ﻲﻋﻮﻟﺍ ﺪﻘﻔﻳ ﺩﺎﻜﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﺎًﻨﻳﺰﺣﻭ ﺍًﺪﻴﻌﺳ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺓﺭﺍﺰﻐﺑ ﻕَﺮﻌُﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.[PAWN_pronoun] ﻒﻠﺧ ﺔﻏﺭﺎﻓ ﺕﺎﺟﺎﺟﺰﻟ ﺮﺛﺃ ﺪﺟﻮﻳ</li>
-    <li>desc_sentence->.ﺔﺨﺴﺘﻣﻭ ﺔﻗﺰﻤﻣ ﻪﺴﺑﺎﻠﻣ</li>
-    <li>desc_sentence->.ًﺀﺍﺬﺣ ﺪﻘﻓ ﺪﻗ [PAWN_pronoun] ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﺎًﻣﺎﻤﺗ ﺮﺜﻌﺒُﻣ ﺎﻫﺮﻌﺷ</li>
+    <li>desc_sentence->.ﺔﺨﺴﺘﻣﻭ ﺔﻗﺰﻤﻣ ﻪﺑﺎﻴﺛ</li>
+    <li>desc_sentence->.ًﺀﺍﺬﺣ ﺪﻘﻓ ﺪﻗ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺮﺛﺎﻨﺘﻣ ﺎﻫﺮﻌﺷ</li>
   </Drunk.rulePack.rulesStrings>
   
   <!-- EN: research project finished -->
-  <FinishedResearchProject.label>ﺚﺤﺒﻟﺍ ﻞﻤﺘﻛﺍ</FinishedResearchProject.label>
+  <FinishedResearchProject.label>ﻞﻤﺘﻜﻣ ﺚﺤﺑ</FinishedResearchProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
     <li>image->[PAWN_nameFull] working on the [PROJECT_label] research project [circumstance_group]</li>
@@ -202,17 +202,17 @@
   <FinishedResearchProject.rulePack.rulesStrings>
     <li>tale_noun->[PROJECT_label] ﻦﻋ ﻪﺜﺤﺑ ﻰﻬﻧﺃ [PAWN_nameDef]</li>
     <!-- Añadir los proyectos de investigación al worldinfo para usar def e indef -->
-    <li>image->[circumstance_group] [project_label] ﺚﺤﺒﻟﺍ ﻰﻠﻋ ﻞﻤﻌﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [project_label] ﺚﺤﺑ ﻰﻠﻋ ﻞﻤﻌﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [PROJECT_label] ﺭﺍﺮﺳﺃ ﺱﺭﺪﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] [PROJECT_label] ﺚﺤﺒﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﺓﺮﻴﺒﻛ ﺓﺪﺸﺑ</li>
     <li>circumstance_phrase->ﻪﺒﺘﻜﻣ ﻰﻠﻋ [PAWN_o_a]ﺍًﺪﻴﺣﻭ</li>
-    <li>circumstance_phrase->.ﻩﺪﻳ ﻲﻓ ﻕﺍﺭﻭﺄﻟﺍ ﺾﻌﺑ ﻞﻤﺤﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺔﻧﻮﺘﻔﻣ ﺓﺮﻈﻨﺑ</li>
+    <li>circumstance_phrase->ﻩﺪﻳ ﻲﻓ ﻕﺍﺭﻭﻷﺍ ﺾﻌﺑ ﻞﻤﺤﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﺔﺸﻫﺩﻭ ﺏﺎﺠﻋﺇ ﺓﺮﻈﻨﺑ</li>
     <li>desc_sentence->.ﻕّﺮﻌﺘﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﺍًﺪﻘﻌﻣ ﻞﻤﻌﻟﺍ ﻭﺪﺒﻳ</li>
-    <li>desc_sentence->ﺔﻋﻮﻨﺘﻣ ﺓﺰﻬﺟﺃﻭ ﺕﺍﻭﺩﺄﺑ [PAWN_o_a]ﻞﻣﺎﻜﻟﺎﺑ ﻁﺎﺤﻣ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﺭﻭﺮﺴﺑ ﻪﻓﺎﺸﺘﻛﺍ [PAWN_nameDef] ﺐﻗﺍﺮﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ًﺍﺪﻘﻌﻣ ﻞﻤﻌﻟﺍ ﻭﺪﺒﻳ</li>
+    <li>desc_sentence->.ﺔﻋﻮﻨﺘﻣ ﺓﺰﻬﺟﺃﻭ ﺕﺍﻭﺩﺄﺑ [PAWN_o_a]ﻞﻣﺎﻜﻟﺎﺑ ﻁﺎﺤﻣ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﺭﻭﺮﺴﺑ ﻪﻓﺎﺸﺘﻛﺍ ﺐﻗﺍﺮﻳ [PAWN_nameDef]</li>
   </FinishedResearchProject.rulePack.rulesStrings>
   
   <!-- EN: landed in pod -->
@@ -241,23 +241,23 @@
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
   <LandedInPod.rulePack.rulesStrings>
-    <li>tale_noun->ﻝﺍﺰﻧﺇ ﺔﻟﻮﺴﺒﻛ ﻲﻓ ﻂﺒﻫ [PAWN_nameDef]</li>
+    <li>tale_noun->.ﻝﺍﺰﻧﺇ ﺔﻟﻮﺴﺒﻛ ﻲﻓ ﻂﺒﻫ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ﻝﺍﺰﻧﺇ ﺔﻟﻮﺴﺒﻛ ﻲﻓ ﻂﺒﻬﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺏﻭﺮﻬﻟﺍ ﺔﻟﻮﺴﺒﻛ ﻦﻣ ﻂﺒﻬﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺏﻭﺮﻬﻟﺍ ﺔﻟﻮﺴﺒﻜﺑ ﺽﺭﺄﻟﺍ ﺏﺮﻀﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺏﻭﺮﻬﻟﺍ ﺔﻟﻮﺴﺒﻜﺑ ﺽﺭﻷﺍ ﺏﺮﻀﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺓﺎﺠﻧ ﺔﻟﻮﺴﺒﻛ ﺓﺬﻓﺎﻧ ﻦﻣ ﺮﻈﻨﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->[TerrainFeatureIndef] ﻡﺎﻣﺃ</li>
     <li>circumstance_phrase->ﺔﻠﺋﺎﻫ ﺓﻮﻘﺑ</li>
-    <li>circumstance_phrase->ﺭﻮﺨﺼﻟﺍﻭ ﺭﺎﺒﻐﻟﺍ ﻦﻣ ﺔﺑﺎﺤﺳ ﻲﻓ</li>
-    <li>circumstance_phrase->ﺔﺴﻛﺎﻌﻤﻟﺍ ﺦﻳﺭﺍﻮﺼﻟﺍ ﻦﻣ ﺓﻮﻗ ﻰﺼﻗﺄﺑ</li>
+    <li>circumstance_phrase->ﺭﻮﺨﺼﻟﺍﻭ ﺭﺎﺒﻐﻟﺍ ﻦﻣ ﻞﻴﺳ ﻲﻓ</li>
+    <li>circumstance_phrase->ﺔﺴﻛﺎﻌﻤﻟﺍ ﺦﻳﺭﺍﻮﺼﻟﺍ ﺓﻮﻗ ﻰﺼﻗﺄﺑ</li>
     <li>circumstance_phrase->ﻖﻴﻗﺩ ﻁﻮﺒﻬﺑ</li>
-    <li>desc_sentence->.ﻢﻜﺤﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻰﻠﻋ ﺎًﻣﺎﻤﺗ [PAWN_pronoun] ﺰﻛﺮﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻢﻜﺤﺘﻟﺍ ﺕﺍﻭﺩﺃ ﻰﻠﻋ ﻞﻣﺎﻛ ﻞﻜﺸﺑ ﺰﻛﺮﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.[PAWN_o_a]ﺎًﻔﺋﺎﺧ ﻭﺪﺒﻳﻭ ﻥﺎﺘﻀﻤﻐﻣ ﻥﺎﻨﻴﻋ ﻪﻳﺪﻟ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻪﺑﺎﻌﻟ ﻞﻴﺴﻳﻭ ،ﻲﻟﺪﺘﻣ ﻪﻧﺎﺴﻟﻭ ،ﻲﻋﻮﻟﺍ ﺪﻗﺎﻓ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻪﺑﺎﻌﻟ ﻞﻴﺴﻳﻭ ﻲﻟﺪﺘﻣ ﻪﻧﺎﺴﻟﻭ ،ﻲﻋﻮﻟﺍ ﺪﻗﺎﻓ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺩﻭﺮﺒﺑ ﻢﺴﺘﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻪﻠﻌﻔﻳ ﺎﻣ ﻙﺭﺪﻳ ﺎﻟ ﻪّﻧﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.[PAWN_o_a]ﺎًﻣﺎﻤﺗ ﺍًﺰﺟﺎﻋ ﻩﺪﻌﻘﻤﺑ ﺓﻮﻘﺑ ﺚﺒﺸﺘﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﺔﻟﻮﺴﺒﻜﻟﺍ ﻦﻣ ﻲﻔﻠﺨﻟﺍ ﺀﺰﺠﻟﺍ ﻦﻣ ﺝﺮﺨﺗ ﺐﻬﻟ ﺔﻨﺴﻟﺃ ﻙﺎﻨﻫ</li>
+    <li>desc_sentence->.ﻪﻠﻌﻔﻳ ﺎﻣ ﻙﺭﺪﻳ ﻻ ﻪّﻧﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.[PAWN_o_a]ﻝﻮﺣ ﻼﺑ ﺎًﻣﺎﻤﺗ ﻡﺎﻜﺣﺈﺑ ﻩﺪﻌﻘﻤﺑ ﺚﺒﺸﺘﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺔﻟﻮﺴﺒﻜﻠﻟ ﻲﻔﻠﺨﻟﺍ ﺀﺰﺠﻟﺍ ﻦﻣ ﺚﻌﺒﻨﺗ ﺐﻬﻟ ﺔﻨﺴﻟﺃ ﻙﺎﻨﻫ</li>
     <li>desc_sentence->ﺍًﺭﻮﻋﺬﻣ ،ﺀﺎﻤﺴﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻳ [Animal] ﺐﻳﺮﻗ ﻥﺍﻮﻴﺣ</li>
     <li>desc_sentence->ﺔﻋﺮﺳ ﻰﺼﻗﺄﺑ ﺮﻔﻳ [Animal] ﺪﺣﺍﻭ</li>
     <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ [TerrainFeatureIndef] ﺪﺟﻮﻳ</li>
@@ -292,25 +292,25 @@
     <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
   -->
   <MentalStateBerserk.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_o_a]َّﻦُﺠْﻧِﺍ [PAWN_nameDef]</li>
+    <li>tale_noun->[PAWN_o_a] ّﻦﺠﻧﺍ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ﻱﺮﻴﺘﺴﻫ ﺐﻀﻏ ﻪﺑﺎﺘﻨﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻥﻮﻨﺠﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻲﻓ ﻞﺧﺪﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻰﻠﻋ ﺔﻴﻧﺎﻫﺫ ﺓﺮﻈﻨﺑ ﻡﺎﻣﺄﻟﺍ ﻰﻟﺇ ﺮﺜﻌﺘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻰﻠﻋ ﺔﻴﻧﺎﻫﺫ ﺓﺮﻈﻨﺑ ﻡﺎﻣﻷﺍ ﻰﻟﺇ ﺮﺜﻌﺘﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻱﺮﻌﺘﻟﺍ ﺔﻟﻭﺎﺤﻣ ﺀﺎﻨﺛﺃ</li>
     <li>circumstance_phrase->ﺐﺒﺳ ﻥﻭﺪﺑ ﻭﺪﺒﻳ ﺎﻣ ﻰﻠﻋ</li>
-    <li>circumstance_phrase->.ﻦﻳﺭﻮﻋﺬﻣ ﻥﻭﺮﺧﺂﻟﺍ ّﺮﻔﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻦﻳﺭﻮﻋﺬﻣ ﻥﻭﺮﺧﻵﺍ ّﺮﻔﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻖﻳﺪﺻ ﺏﺮﻬﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺩﺎﻬﺟﺈﻟﺍ ﺐﺒﺴﺑ</li>
+    <li>circumstance_phrase->ﺩﺎﻬﺟﻹﺍ ﺐﺒﺴﺑ</li>
     <li>circumstance_phrase->ﺎﻳﺮﻴﺘﺴﻬﺑ ﻚﺤﻀﻳ</li>
-    <li>desc_sentence->.ﺃﺪﻬﻳ ﺎﻟ ﺎًﺒﻀﻏ ﻒﺠﺗﺮﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻲﻧﺍﻭﺪﻋ ﺐﻠﻛ ﻞﺜﻣ ﺔﻓﻮﺸﻜﻣ ﻪﻧﺎﻨﺳﺃ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻥﻮﻨﺠﻟﺍ ﺮﺌﺑ ﺎﻤﻫ ﻩﺎﻨﻴﻋ</li>
+    <li>desc_sentence->.ﺃﺪﻬﻳ ﻻ ﺐﻀﻐﺑ ﻒﺠﺗﺮﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺱﺮﺷ ﺐﻠﻛ ﺏﺎﻴﻧﺄﻛ ﻪﻧﺎﻨﺳﺃ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻥﻮﻨﺠﻟﺍ ﻦﻣ ٌﺮﺌﺑ ُﻩﺎﻨﻴﻋ</li>
     <li>desc_sentence->.ﻥﻮﻨﺠﺑ ﺥﺮﺼﻳ ﺎﻤﻨﻴﺑ ﻪﻤﻓ ﻦﻣ ﺏﺎﻌﻠﻟﺍ ﺮﻳﺎﻄﺘﻳ</li>
-    <li>desc_sentence->.ﻪﺴﺑﺎﻠﻣ ﻦﻣ ﺍًﺀﺰﺟ [اسم الضمير] ﺪﻘﻓ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻪﺴﺑﻼﻣ ﻦﻣ ﺍًﺀﺰﺟ ﺪﻘﻓ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﻪﺳﺆﺑ ﺉﺰﻬﺘﺴﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺎﻳﺮﻴﺘﺴﻬﺑ ﻢﺴﺘﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.[AnimalIndef] ﻪﺟﻭ ﻪﻳﺪﻟ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻱﺰﻣﺭ ﻞﻜﺸﺑ ﻪﺳﺃﺮﺑ ﻂﻴﺤﺗ ﺔﻴﻧﻮﺗﺮﻛ ﺕﺎﻧﺍﻮﻴﺣ [Animal_Plural]</li>
+    <li>desc_sentence->.ﻱﺰﻣﺭ ﻞﻜﺸﺑ ﺎﻬﺳﺃﺮﺑ ﻂﻴﺤﺗ ﺔﻳﺭﻮﺗﺎﻜﻳﺭﺎﻛ ﺕﺎﻧﺍﻮﻴﺣ [Animal_Plural]</li>
     <li>desc_sentence->.ﻪﻴﻨﻴﻋ ﻲﻓ ﺔﻠﺗﺎﻗ ﺓﺮﻈﻧ ﻪﻳﺪﻟ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺔﻴﻫﺍﺮﻜﻟﺍ ﻦﻣ ﻒﺠﺗﺮﻳ ﻞﻣﺎﻜﻟﺎﺑ ﻩﺪﺴﺟ ﻭﺪﺒﻳ</li>
     <li>desc_sentence->.ﺍًﺮﻴﺤﻣ ﺍًﺀﻭﺪﻫ ﺽﺮﻌﻳ ﻪﻬﺟﻭ</li>
@@ -341,25 +341,25 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   -->
   <MentalStateGaveUp.rulePack.rulesStrings>
-    <li>tale_noun->ﺱﺄﻴﻠﻟ ﻢﻠﺴﺘﺳﺍ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] [PAWN_o_a]ﻢﻠﺴﺘﺳﺍ ﺍًﺮﻴﺧﺃ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﺎﻟ ﻞﻜﺸﺑ ﻲﻜﺒﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻰﻠﻋ ﻡﻭﺰﻬﻣ ﺮﻴﺒﻌﺘﺑ ﺮﺜﻌﺘﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->.ﺱﺄﻴﻠﻟ ﻢﻠﺴﺘﺳﺍ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] [PAWN_o_a]ﻢﻠﺴﺘﺳﺍ ًﺍﺮﻴﺧﺃ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﻻ ﻞﻜﺸﺑ ﻲﻜﺒﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻰﻠﻋ ﻡﻭﺰﻬﻣ ﺮﻴﺒﻌﺘﺑ ﺢﻧﺮﺘﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻱﺮﻌﺘﻟﺍ ﺔﻟﻭﺎﺤﻣ ﺀﺎﻨﺛﺃ</li>
     <li>circumstance_phrase->ﺐﺒﺳ ﻥﻭﺪﺑ ﻭﺪﺒﻳ ﺎﻣ ﻰﻠﻋ</li>
-    <li>circumstance_phrase->ﻒﻃﺎﻌﺘﻟﺍ ﻥﻭﺮﺧﺂﻟﺍ ﻡﺪﻘﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻒﻃﺎﻌﺘﻟﺍ ﻥﻭﺮﺧﺁ ﻡﺪﻘﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺏﺮﻘﻣ ﻖﻳﺪﺻ ﻲﻜﺒﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺩﺎﻬﺟﺈﻟﺍ ﺐﺒﺴﺑ</li>
+    <li>circumstance_phrase->ﺩﺎﻬﺟﻹﺍ ﺐﺒﺴﺑ</li>
     <li>circumstance_phrase->ﺓﺮﻴﺧﺃ ﺓﻮﻄﺨﻛ</li>
-    <li>desc_sentence->.ﻪﻬﺟﻭ ﻰﻠﻋ ﺎًﻋﻮﻣﺩ ﻑﺭﺬﺗ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻪﻨﻣ ﻲﻧﺎﻌﻳ ﻱﺬﻟﺍ [PAWN_o_a]ﻪﺑﺎﺌﺘﻛﺍ ﻖﻤﻋ ﻦﻣ ﻚﺤﻀﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻪﻬﺟﻭ ﻰﻠﻋ ﻞﻴﺴﺗ ﻉﻮﻣﺩ ﻪﻳﺪﻟ [PAWN_pronoun]</li>
+    <li>desc_sentence->ﻪﻨﻣ ﻲﻧﺎﻌﻳ ﻱﺬﻟﺍ [PAWN_o_a]ﻪﺑﺎﺌﺘﻛﺍ ﻖﻤﻋ ﻦﻣ ﻚﺤﻀﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺓﺪﺠﻨﻟﺍ ﻱﺪﺠﺘﺴﻳ ﻪﻧﺄﻛﻭ ،ﺀﺎﻤﺴﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﻪﺴﺑﺎﻠﻣ ﻕﺰﻤﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->ﻪﻟﻮﺣ ﺎﻤﺑ [PAWN_o_a]ﺎﻣﺎﻤﺗ ﻙﺭﺪﻣ ﺮﻴﻏ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻪﺴﺑﻼﻣ ﻕﺰﻤﺗ/ﻕﺰﻤﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->ﻪﻟﻮﺣ ﺎﻤﺑ [PAWN_o_a]ﺎًﻣﺎﻤﺗ ﻙﺭﺪﻣ ﺮﻴﻏ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﺎًﻨﻳﺰﺣﻭ ﺍًﺪﻴﻌﺳ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺦﺴﺘﻣ ﻪﺟﻮﺑ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ًﺀﺍﺬﺣ ﺪﻘﻓ ﺪﻗ [PAWN_pronoun] ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﺎًﻣﺎﻤﺗ ﺚﻌﺷﺃ ٍﺮﻌﺸﺑ</li>
+    <li>desc_sentence->.ًﺀﺍﺬﺣ ﺪﻘﻓ ﺪﻗ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺎًﻣﺎﻤﺗ ٍﺵﻮﻔﻨﻣ ٍﺮﻌﺸﺑ</li>
   </MentalStateGaveUp.rulePack.rulesStrings>
   
   <!-- EN: read a book -->
@@ -380,17 +380,17 @@
   -->
   <ReadBook.rulePack.rulesStrings>
     <li>tale_noun->[THING_title] ﻰﻬﻧﺃ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻦﻳﺰﺗ ﺎﺿﺭ ﺔﻣﺎﺴﺘﺑﺎﺑ ﺓﺮﻴﺧﺄﻟﺍ ﺓﺮﻤﻠﻟ [THING_title] ﻖﻠﻐﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﻬﺟﻭ ﻦﻳﺰﺗ ﺎﺿﺭ ﺔﻣﺎﺴﺘﺑﺎﺑ ﺓﺮﻴﺧﻷﺍ ﺓﺮﻤﻠﻟ [THING_title] ﻖﻠﻐﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻪﻠﺧﺍﺩ ﻲﻓ ﺔﻓﺮﻌﻤﻟﺍ ﺺﺘﻤﻳﻭ ،[THING_title] ﺕﺎﺤﻔﺻ ﺢﻔﺼﺘﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻩﺪﺴﺟ ﻦﻣ ﻊﺸﻳ ﺯﺎﺠﻧﺈﻟﺎﺑ ﺱﺎﺴﺣﺇ ﺍﺩﺪﺠﻣ ﻑﺮﻟﺍ ﻰﻠﻋ [THING_title] ﻊﻀﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] [THING_title] ﻖﺋﺎﻘﺣ ﺎًﻠﻣﺄﺘﻣ ،ﺖﻣﺎﺻ ﻞﻣﺄﺗ ﻲﻓ ﺎًﺴﻟﺎﺟ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻩﺪﺴﺟ ﻦﻣ ﻊﺸﻳ ﺯﺎﺠﻧﻹﺎﺑ ﺱﺎﺴﺣﺇ ﺍﺩﺪﺠﻣ ﻑﺮﻟﺍ ﻰﻠﻋ [THING_title] ﻊﻀﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [THING_title] ﻖﺋﺎﻘﺣ ﻼﻣﺄﺘﻣ ،ﺖﻣﺎﺻ ﻞﻣﺄﺗ ﻲﻓ ﺎًﺴﻟﺎﺟ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻳﺪﻟ ﻞﻀﻔﻤﻟﺍ ﺓﺀﺍﺮﻘﻟﺍ ﻦﻛﺭ ﻲﻓ ﺢﻳﺮﺘﺴﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻱﺎﺸﻟﺍ ﻦﻣ ﺏﻮﻛ ﺐﻧﺎﺠﺑ</li>
     <li>circumstance_phrase->ﺓﺀﺍﺮﻘﻟﺍ ﺡﺎﺒﺼﻤﻟ ﻢﻋﺎﻨﻟﺍ ﺀﻮﻀﻟﺍ ﺖﺤﺗ</li>
     <li>desc_sentence->.[THING_title] ﻝﻮﺣ ﻪﻗﺍﺭﻭﺄﺑ ﻁﺎﺤﻣ [PAWN_nameDef]</li>
     <li>desc_sentence->ﺎًﺜﻳﺪﺣ ﺔﺒﺴﺘﻜﻣ ﺔﻤﻜﺤﺑ ﻖﻟﺄﺘﺗ [PAWN_nameDef] ﻥﻮﻴﻋ</li>
-    <li>desc_sentence->.[THING_title] ﻢﻴﻟﺎﻌﺗ ﻦﻣ [PAWN_gender ? o : a]ﺪﺑﺄﻟﺍ ﻰﻟﺇ َﺮِّﻴُﻏ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﺪﻌﺑ ﻒﺸﺘﻜُﺗ ﻢﻟ ﺭﺍﺮﺳﺄﻟﺍ ﺾﻌﺑ ﻥﺄﺑ ﺭﻮﻌﺷ ﻙﺎﻨﻫ</li>
+    <li>desc_sentence->.[THING_title] ﻢﻴﻟﺎﻌﺗ ﻦﻣ [PAWN_gender ? o : a]ﺪﺑﻷﺍ ﻰﻟﺇ َﺮِّﻴُﻏ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﺪﻌﺑ ﻒﺸﺘﻜُﺗ ﻢﻟ ﺭﺍﺮﺳﻷﺍ ﺾﻌﺑ ﻥﺄﺑ ﺭﻮﻌﺷ ﻙﺎﻨﻫ</li>
   </ReadBook.rulePack.rulesStrings>
   
   <!-- EN: struck mineable -->
@@ -412,24 +412,24 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <StruckMineable.rulePack.rulesStrings>
-    <li>tale_noun->[THING_label] َﺪَﺟﻭ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] [THING_label] ﺏﺮﻀﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->[THING_label] ﺪﺟﻭ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] [THING_label] ﺪﺠﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﺐﻴﻘﻨﺘﻟﺍ ﺀﺎﻨﺛﺃ</li>
     <li>circumstance_phrase->ﺮﻔﺤﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﻕﺎﻔﻧﺄﻟﺍ ﺮﻔﺤﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻕﺎﻔﻧﻷﺍ ﺮﻔﺤﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺔﺸﻫﺩ ﺓﺮﻈﻨﺑ</li>
     <li>circumstance_phrase->ٍﺽﺍﺭ ﺮﻴﺒﻌﺘﺑ</li>
-    <li>desc_sentence->.ﻪﻨﻴﺒﺟ ﺢﺴﻤﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﻪﺘﻬﺒﺟ ﺢﺴﻤﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺎًﺣﺮﻓ ﺰﻔﻘﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﺎًﻘﻳﺪﺻ ﺢﻓﺎﺼﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ًﺎﻘﻳﺪﺻ ﺢﻓﺎﺼُﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺓﺩﺎﻌﺴﻟﺍ ﻦﻣ ﺥﺮﺼﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﺎﻟ ﻞﻜﺸﺑ ﻚﺤﻀﻳ [PAWN_nameDef]</li>
-    <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﺓﺮﺜﻛ ﻦﻣ [PAWN_o_a]ﺥﺎﺳﻭﺄﻟﺍﻭ ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﻻ ﻞﻜﺸﺑ ﻚﺤﻀﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.ﻞﻤﻌﻟﺍ ﺮﺜﻛ ﻦﻣ [PAWN_o_a]ﺥﺎﺳﻭﻷﺍﻭ ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ [PAWN_nameDef]</li>
     <li>desc_sentence->.[PAWN_o_a]ًﺍﺪﺟ ﺦﺴﺘﻣﻭ ﻕّﺮﻌﺘﻣ [PAWN_nameDef]</li>
   </StruckMineable.rulePack.rulesStrings>
   
   <!-- EN: vomited -->
-  <Vomited.label>ﺄﻴﻘﺗ</Vomited.label>
+  <Vomited.label>ﺄﻴﻘﺘﻣ</Vomited.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
     <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
@@ -451,26 +451,26 @@
   -->
   <Vomited.rulePack.rulesStrings>
     <li>tale_noun->ﺄﻴﻘﺗ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﻒﻨﻌﺑ ﺄﻴﻘﺘﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﺀﻴﻘﻟﺍ ﻦﻣ ﺔﻛﺮﺑ [PAWN_o_a]ﻑﺎﺠﻟﺍ ﺀﻴﻘﻟﺍ ﺾﻌﺒﺑ ﻰﻄﻐﻣ ﻮﻫﻭ ﺀﺍﺭﺩﺯﺎﺑ ﺮﻈﻨﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺄﻴﻘﺘﻳ ﻮﻫﻭ ﻢﻟﺄﻟﺍ ﻦﻣ [PAWN_o_a]ﻯﻮﻠﺘﻳﻭ ﻰﻨﺤﻧﺍ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﺄﻴﻘﺘﻳ ،ﺎًﻌﻛﺍﺭ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->ﻢﻟﺄﻟﺍ ﻦﻋ ﺮﺒﻌﻳ ﻪﺟﻮﺑ</li>
-    <li>circumstance_phrase->ٍﺪﻳِﺪَﺷ ٍﻝﺎَﺠِﺨِﺑ</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>image->[circumstance_group] ﺽﺭﻷﺍ ﻰﻠﻋ ﻒﻨﻌﺑ ﺄﻴﻘﺘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺽﺭﻷﺍ ﻰﻠﻋ ﺀﻴﻘﻟﺍ ﻦﻣ ﺔﻛﺮﺑ [PAWN_o_a]ﻑﺎﺠﻟﺍ ﺀﻴﻘﻟﺍ ﻪﻴﻄﻐﻳ ﺎﻤﻨﻴﺑ ﺀﺍﺭﺩﺯﺎﺑ ﺐﻗﺍﺮﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺄﻴﻘﺘﻳ ﻮﻫﻭ ﻢﻟﻷﺍ ﻦﻣ [PAWN_o_a]ﻯﻮﻠﺘﻳﻭ ﻰﻨﺤﻧﺍ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺽﺭﻷﺍ ﻰﻠﻋ ﺄﻴﻘﺘﻳ ،ﺎًﻌﻛﺍﺭ [PAWN_nameFull]</li>
+    <li>circumstance_phrase->ﻢﻟﻷﺍ ﻦﻋ ﺮﺒﻌﻳ ﻪﺟﻮﺑ</li>
+    <li>circumstance_phrase->ٍﺪﻳِﺪَﺷ ٍﻞَﺠِﺨِﺑ</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
     <li>desc_sentence->ﻪﻟﻮﺣ ﺙﺪﺤﻳ ﺎﻤﺑ [PAWN_o_a]ﺎﻣﺎﻤﺗ ﺙﺮﺘﻜﻣ ﺮﻴﻏ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺎًﻣﺭﻮﺘﻣ ﻪﻬﺟﻭ ﻭﺪﺒﻳ</li>
-    <li>desc_sentence->.ﺝﺭﺎﺨﻠﻟ ﻰﻟﺪﺘﻳ ﺎﻬﻧﺎﺴﻟ/ﻪﻧﺎﺴﻟﻭ ،ﻲﻋﻮﻟﺍ ﺪﻘﻔﺗ/ﺪﻘﻔﻳ ﻥﺃ ﺕﺩﺎﻛ/ﺩﺎﻛ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻪﻧﺎﺴﻟ ﻲﻟﺪﺗ ﻊﻣ ،ﻪﻴﻋﻭ ﺪﻘﻔﻳ ﻥﺃ ﺩﺎﻛ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﻒﻨﻌﺑ ﺶﻌﺗﺮﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.[PAWN_o_a]ًﺎﻟﻮﺠﺧ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﻑﻭﺮﻈﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﻚﺤﻀﻟﺍ ﻝﻭﺎﺤﻳ [PAWN_pronoun] ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.[PAWN_o_a]ًﻻﻮﺠﺧ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﻑﻭﺮﻈﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﻚﺤﻀﻟﺍ ﻝﻭﺎﺤﻳ ﻥﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺀﻴﻘﻟﺍ ﺓﺮﺜﻛ ﻦﻣ ﺎًﻣﺎﻤﺗ ﻍﺮﻓُﺃ ﻪﻧﺃ ﻮﻟ ﺎﻤﻛ[PAWN_o_a]ﻍﺭﺎﻓ ﻪﺒﺷ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.ﺥﺎﺳﻭﺄﻟﺍ ﻦﻣ ﺔﻴﻨﻓ ﺔﻟﺎﻫ [PAWN_o_a]ـﺏ ﻁﺎﺤﻣ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺔﻴﻨﻓ ﺔﻟﺎﻫ [PAWN_o_a]ـﺏ ﻁﺎﺤﻣ [PAWN_pronoun]</li>
     <li>desc_sentence->ﺪﻴﻌﺑ ﻦﻣ ﺐﻗﺍﺮﻳ [Animal] ﺪﺣﺍﻭ</li>
   </Vomited.rulePack.rulesStrings>
   
   <!-- EN: walked naked -->
-  <WalkedNaked.label>ﺎًﻳِﺭﺎﻋ ﻰَﺸَﻣ</WalkedNaked.label>
+  <WalkedNaked.label>ﺲﺑﻼﻣ ﻥﻭﺪﺑ ﺎًﻴﺸﻣ</WalkedNaked.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] walking around naked</li>
     <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
@@ -497,26 +497,26 @@
     <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
   -->
   <WalkedNaked.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_o_a]ﺎًﻳﺭﺎﻋ ﻝﻮﺠﺘﻳ [PAWN_nameDef] ﻥﺎﻛ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] ﺎًﻣﺎﻤﺗ ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ [nude_action] [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﺋﺍﺬﺣ ﻯﻮﺳ ﻱﺪﺗﺮﻳ ﺎﻟ [nude_action] [PAWN_nameFull]</li>
+    <li>tale_noun->[PAWN_o_a]ﺎًﻳﺭﺎﻋ ﻝﻮﺠﺘﻳ ﻥﺎﻛ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] ﺎًﻣﺎﻤﺗ ﺔﻴﻌﻴﺒﻃ ﺔﻘﻳﺮﻄﺑ [nude_action] [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻪﺋﺍﺬﺣ ﻯﻮﺳ ﻱﺪﺗﺮﻳ ﻻ [nude_action] [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[PAWN_o_a]ًﺎﻳﺭﺎﻋ ،[nude_action] [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺲﺑﺎﻠﻣ ﻱﺃ ﻥﻭﺪﺑ [nude_action] [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺲﺑﻼﻣ ﻱﺃ ﻥﻭﺪﺑ [nude_action] [PAWN_nameFull]</li>
     <li>nude_action->ﺎًﺼﻗﺍﺭ</li>
-    <li>nude_action->ﺡﺮﻤﻳﻭ ﺐﻌﻠﻳ</li>
+    <li>nude_action->ُﺡﺮﻤﻳﻭ ُﺐﻌﻠﻳ</li>
     <li>nude_action->ﻙﺎﻨﻫﻭ ﺎﻨﻫ ﻝﻮﺠﺘﻳ</li>
     <li>nude_action->ﻲﺸﻤﻳ</li>
-    <li>nude_action->ﻪﺋﺎﻴﺷﺄﺑ ﺮﺧﺎﻔﺘﻳ</li>
-    <li>nude_action->ﺮﺘﺨﺒﺘﻳ</li>
-    <li>nude_action->ﻊﺑﺎﺻﺄﻟﺍ ﻑﺍﺮﻃﺃ ﻰﻠﻋ</li>
-    <li>nude_action->ﻝﻮﺠﺘﻳ</li>
+    <li>nude_action->ﻪﻟﺰﻨﻣ ﻒﻈﻨﻳ</li>
+    <li>nude_action->ﻥﻭﺮﺘﺨﺒﺘﻳ</li>
+    <li>nude_action->ﻊﺑﺎﺻﻷﺍ ﻑﺍﺮﻃﺃ ﻰﻠﻋ ﻲﺸﻤﻳ</li>
+    <li>nude_action->ﻰّﺸﻤﺘﻳ</li>
     <li>nude_action->ﺔﻘﻄﻨﻤﻟﺍ ﻒﺸﻜﺘﺴﻳ</li>
     <li>circumstance_phrase->ﺐﺟﺍﻮﻟﺎﺑ ﺱﺎﺴﺣﺈﺑ</li>
     <li>circumstance_phrase->ﻞﺠﺧ ﻰﻧﺩﺃ ﻥﻭﺩ</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺢﺿﺍﻭ ﺐﺒﺳ ﻥﻭﺪﺑ</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﺢﺿﺍﻭ ﺐﺒﺳ ﻥﻭﺩ</li>
     <li>circumstance_phrase->ﺔﻜﺑﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﺪﻫﺎﺸﺗ ﺎﻤﻨﻴﺑ</li>
-    <li>desc_sentence->.[PAWN_o_a]ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺍًﺭﺎﺜﻣ ﻭﺪﺒﻳ [PAWN_nameDef]</li>
+    <li>desc_sentence->.[PAWN_o_a]ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﺎًﺴﻤﺤﺘﻣ ﻭﺪﺒﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.[PAWN_o_a]ﺓﺭﺮﺒﻣ ﺮﻴﻏ ﺔﺑﻮﻃﺮﺑ ﻰﻄﻐﻣ [PAWN_nameDef]</li>
     <li>desc_sentence->.[PAWN_o_a]ﺔﻳﺎﻐﻠﻟ ﺎًﺠﻋﺰﻨﻣ ﻭﺪﺒﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﻲﺠﻴﺗﺍﺮﺘﺳﺍ ﻊﻗﻮﻣ ﻲﻓ ﺓﺮﻴﺠﺷ ﺀﺍﺭﻭ [PAWN_nameDef]</li>
@@ -546,23 +546,23 @@
   -->
   <WasOnFire.rulePack.rulesStrings>
     <li>tale_noun->ﻲﻓ ﻥﺍﺮﻴﻨﻟﺍ ﺖﻠﻌﺘﺷﺍ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] .ﻊﻠﻬﺑ ﻩﺪﺴﺟ ﻲﻓ ﺔﻠﻌﺘﺸﻤﻟﺍ ﺭﺎﻨﻟﺍ ﺩﺎﻤﺧﺇ [PAWN_nameFull] ﻝﻭﺎﺤﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] .ﻊﻠﻬﺑ ﻩﺪﺴﺟ ﻲﻓ ﺔﻠﻌﺘﺸﻤﻟﺍ ﺭﺎﻨﻟﺍ ﺩﺎﻤﺧﺇ ﻝﻭﺎﺤﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﻥﺍﺮﻴﻨﻟﺎﺑ [PAWN_o_a]ﻰَّﻄَﻐُﻣ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻪﻤﻬﺘﻠﻳ ﻱﺬﻟﺍ ﺐﻬﻠﻟﺍ ﺀﺎﻔﻃﺇ ًﺎﻟﻭﺎﺤﻣ ﻪﺳﺃﺭ ﻰﻠﻋ ﻪﻳﺪﻳﻭ ،ﺎًﻌﻛﺍﺭ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻕﺮﺘﺤﻳ ﺎﻤﻨﻴﺑ ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﺝﺮﺣﺪﺘﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>image->[circumstance_group] ﻪﻤﻬﺘﻠﻳ ﻱﺬﻟﺍ ﺐﻬﻠﻟﺍ ﺀﺎﻔﻃﺇ ًﻻﻭﺎﺤﻣ ﻪﺳﺃﺭ ﻰﻠﻋ ﻩﺍﺪﻳﻭ ،ﺎًﻌﻛﺍﺭ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻕﺮﺘﺤﻳ ﻮﻫﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﺝﺮﺣﺪﺘﻳ [PAWN_nameFull]</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->[PAWN_o_a]ًﺎﻣﺎﻤﺗ ًﺎﻳﺭﺎﻋ</li>
     <li>circumstance_phrase->ﺔﻳﻮﻗ ﺔﻤﻳﺰﻌﺑ</li>
-    <li>desc_sentence->.ًﺍﺪﺟ ٌﺔﻤﺤﻔﺘﻣ ُﻪﻤﺤﻟ</li>
+    <li>desc_sentence->.ًﺍﺪﺟ ٌﻢِّﺤﻔﺘﻣ ﻪُﻤﺤﻟ</li>
     <li>desc_sentence->.ﺎﻤﻬﻋﺎﺴﺗﺍ ﻰﻠﻋ ﻥﺎﺘﺣﻮﺘﻔﻣ ﻩﺎﻨﻴﻋ</li>
     <li>desc_sentence->.ﺎًﻴﻋﺍﻭ ﺩﺎﻜﻟﺎﺑ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﺓﺪﻋﺎﺴﻤﻠﻟ ًﺎﺒﻠﻃ ﺥﺮﺼﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﻢﻬﺳﺃﺭ ﻒﻠﺗ ﻥﺃ ﻚﺷﻭ ﻰﻠﻋ ﻥﺍﺮﻴﻨﻟﺍ</li>
     <li>desc_sentence->.ﻪﻬﺟﻮﺑ ﻂﻴﺤﺗ ﺭﺎﻨﻟﺍ ﻦﻣ ﺔﻳﺰﻣﺭ ﺔﻟﺎﻫ</li>
     <li>desc_sentence->.ﺎﻳﺮﻴﺘﺴﻬﺑ ﻚﺤﻀﻳ [PAWN_pronoun]</li>
-    <li>desc_sentence->.[PAWN_o_a]ﻪﻠﻘﻋ ﺪﻘﻔﻳ ﻪﻧﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->ﻪﺗﺍﺫ[PAWN_o_a]ﻪﻠﻘﻋ ﺪﻘﻔﻳ ﻪﻧﺃ ﻭﺪﺒﻳ [PAWN_pronoun]</li>
     <li>desc_sentence->.ﻩﺪﺴﺟ ﻦﻣ ﺀﺎﻤﺴﻟﺍ ﻰﻟﺇ ﺪﻋﺎﺼﺘﻳ ﻥﺎﺧﺪﻟﺍ ﻦﻣ ﺩﻮﻤﻋ</li>
-    <li>desc_sentence->.ﺔﺜﺠﻟﺎﺑ ﺔﻬﻴﺒﺷ ﺔﻘﻳﺮﻄﺑ ﺎًﻴﻨﻓ [PAWN_pronoun] ﺭَّﻮﺼُﻳ [PAWN_pronoun]</li>
+    <li>desc_sentence->.ﺔﺜﺠﻟﺎﺑ ﺔﻬﻴﺒﺷ ﺔﻘﻳﺮﻄﺑ ﺎًﻴﻨﻓ ﺭَّﻮﺼُﻳ [PAWN_pronoun]</li>
   </WasOnFire.rulePack.rulesStrings>
   
 </LanguageData>

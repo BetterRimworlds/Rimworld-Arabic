@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: chitchat -->
   <Chitchat.label>ﺓﺮﺛﺮﺛ</Chitchat.label>
   <!-- EN:
@@ -48,7 +48,7 @@
     <li>commentedabout->ﻰﻠﻋ ﻖّﻠﻋ</li>
     <li>commentedabout->ﻦﻋ ﺔﺘﻜﻧ ﻯﻭﺭ</li>
   </Chitchat.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: deep talk -->
   <DeepTalk.label>ﻖﻴﻤﻋ ﺚﻳﺪﺣ</DeepTalk.label>
   <!-- EN:
@@ -93,7 +93,7 @@
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: insult -->
   <Insult.label>ﺔﻧﺎﻫﺇ</Insult.label>
   <!-- EN:
@@ -124,38 +124,38 @@
     <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->.[صفة] ﺐﺒﺴﺑ [اسم_المُهان] ﻥﺎﻫﺃ [اسم_المُهيج][targetDef] [characteristicDef] [insulted] [INITIATOR_nameDef]</li>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted2] [characteristicDef2] [targetDef][اسم_المُهيج] [أهان2] [خاصية2] [الهدف].</li>
-    <li>r_logentry->.[insultcomparisonIndef] ـﺏ [target] ﻥﺭﺎﻗ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[insultcomparison] [target] ﻯﺩﺎﻧ [INITIATOR_nameDef]</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] أهان [characteristicDef] لدى [targetDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] شبّه [target] بـ [insultcomparisonIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] نادى [target] بـ [insultcomparison].</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] وصف [target] بأنه عابد أصنام زائفة.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] لمّح إلى أن [target] فقد عقله بسبب المكعب الذهبي.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] [insulted] المكعب الذهبي.</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[characteristicDef]</li>
-    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube] ﺎﻬﻟ/ﻪﻟ</li>
-    <li>characteristicDef->[PersonalCharacteristic_fem] ـﻝﺍ</li>
-    <li>characteristicDef->[PersonalCharacteristic] ﻝﺍ</li>
-    <li>characteristicDef2->[PersonalCharacteristic_fem] ﻦﻣ</li>
-    <li>characteristicDef2->[PersonalCharacteristic] ﻦﻣ</li>
-    <li>target(p=4)->[RECIPIENT_nameDef] ـﺏ</li>
-    <li>target->[RECIPIENT_nameDef] ـﻝ [PersonFamilyAal]</li>
-    <li>targetDef(p=4)->[RECIPIENT_nameDef] ـﻝ</li>
-    <li>targetDef->[RECIPIENT_nameDef] ﻦﻣ [PersonFamilyDef]</li>
-    <li>insulted(p=3)->ﻥﺎﻫﺃ</li>
-    <li>insulted->ﺎًﻨﻠﻋ ﻥﺎﻫﺃ</li>
-    <li>insulted->ًﺔﻴﻧﺎﻠﻋ ﻥﺎﻫﺃ</li>
-    <li>insulted2->ًﺓﺮﺷﺎﺒﻣ ﺮﺨﺳ</li>
-    <li>insulted->ﺥﺭﺎﺻ ﻞﻜﺸﺑ ﻥﺎﻫﺃ</li>
-    <li>insulted->ًﺓﺮﺷﺎﺒﻣ ﻥﺎﻫﺃ</li>
-    <li>insulted->ﺓﺪﺸﺑ ﻥﺎﻫﺃ</li>
-    <li>insulted2->ﺮﺨﺳ</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube] له/لها</li>
+    <li>characteristicDef->[PersonalCharacteristic_fem] الـ</li>
+    <li>characteristicDef->[PersonalCharacteristic] الـ</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamilyAal] لـ [RECIPIENT_nameDef]</li>
+    <li>targetDef(p=4)->[RECIPIENT_nameDef]</li>
+    <li>targetDef->[PersonFamilyDef] من [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)->أهان</li>
+    <li>insulted->أهان علنًا</li>
+    <li>insulted->أهان بصوت عالٍ</li>
+    <li>insulted->أهان بشكل صارخ</li>
+    <li>insulted->أهان مباشرةً</li>
+    <li>insulted->أهان بشدة</li>
+    <li>insulted->سخر من</li>
+    <li>insulted->سخر مباشرةً من</li>
     <li>insultcomparisonIndef(INITIATOR_cubeInterest==false,p=2)->[AnimalIndef]</li>
     <li>insultcomparisonIndef(INITIATOR_cubeInterest==false)->[EnemyIndef]</li>
-    <li>insultcomparisonIndef(INITIATOR_cubeInterest==true)->ٌﺓﺮﻛ</li>
-    <li>insultcomparisonIndef(INITIATOR_cubeInterest==true)->ﺐﻌﻜﻣ ﺮﻴﻏ ﻲﺳﺪﻨﻫ ﻞﻜﺷ</li>
+    <li>insultcomparisonIndef(INITIATOR_cubeInterest==true)->كرةٌ</li>
+    <li>insultcomparisonIndef(INITIATOR_cubeInterest==true)->شكل هندسي غير مكعب</li>
     <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->[AnimalAny]</li>
     <li>insultcomparison(INITIATOR_cubeInterest==false)->[Enemy]</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==true)->ﺓﺮﻛ</li>
-    <li>insultcomparison(INITIATOR_cubeInterest==true)->ﺐﻌﻜﻣ ﺎﻟ ﻲﺳﺪﻨﻫ ﻞﻜﺷ</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->كرة</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->شكل هندسي أفلاطوني غير مكعب</li>
   </Insult.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: kind words -->
   <KindWords.label>ﻡﺎﻠﻛ ﻒﻄﻟ</KindWords.label>
   <!-- EN:
@@ -196,7 +196,7 @@
     <li>complimented->ـﻝ ﻩﺮﻳﺪﻘﺗ ﻦﻋ ﺮّﺒﻋ</li>
     <li>complimented->ﻦﻋ ﺓﺪﻴﺟ ﺀﺎﻴﺷﺃ ﻝﺎﻗ</li>
   </KindWords.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: slight -->
   <Slight.label>ﺔﻧﺎﻫﺇ</Slight.label>
   <!-- EN:
@@ -239,5 +239,5 @@
     <li>madefunof->ﺮﺧﺎﺳ ﻖﻴﻠﻌﺘﺑ ﻰﻟﺩﺃ</li>
     <li>madefunof->ﻦﻋ ﻲﺒﻠﺳ ﻖﻴﻠﻌﺘﺑ ﻰﻟﺩﺃ</li>
   </Slight.logRulesInitiator.rulesStrings>
-  
+
 </LanguageData>

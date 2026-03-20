@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: became lover -->
-  <BecameLover.label>ﺎًﺒﻴﺒﺣ ﺢﺒﺻﺃ</BecameLover.label>
+  <BecameLover.label>ﺓﺪﻳﺪﺟ ﺔﻴﻣﺍﺮﻏ ﺔﻗﻼﻋ</BecameLover.label>
   <!-- EN:
     <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
     <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
@@ -26,12 +26,12 @@
     <li>image->[circumstance_group] ﺵﺍﺮﻔﻟﺍ ﻮﺤﻧ ﺪﻴﻟﺎﺑ [ACCEPTER_nameFull] ﺩﻮﻘﻳ [PURSUER_nameFull]</li>
     <li>image->[circumstance_group] [ACCEPTER_nameFull] ﻊﻣ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺰﻔﻘﻳ [PURSUER_nameFull]</li>
     <li>image->[circumstance_group] [ACCEPTER_nameFull] ﻒﻐﺸﺑ ﻞّﺒﻘُﻳ [PURSUER_nameFull]</li>
-    <li>circumstance_phrase->ﻝﻮﻘﻌﻣ ﺮﻴﻏ ﻞﻜﺸﺑ ﺮﻴﺒﻛ ﺮﻳﺮﺳ ﻲﻓ</li>
-    <li>circumstance_phrase->ﺕﺍﺀﺎﻠﻤﻟﺍ ﻦﻴﺑ</li>
-    <li>circumstance_phrase->ﻥﺎﻴﻌﻠﻟ ﺓﺮﻫﺎﻇ ﺔﻠﻴﻠﻗ ﺲﺑﺎﻠﻤﺑ</li>
-    <li>circumstance_phrase->ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ ﺎﻤﻫﺎﻠﻛ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻒﻴﺨﺳ ﻞﻜﺸﺑ ﺮﻴﺒﻛ ﺮﻳﺮﺳ ﻲﻓ</li>
+    <li>circumstance_phrase->ﺕﺍﺀﻼﻤﻟﺍ ﻦﻴﺑ</li>
+    <li>circumstance_phrase->ﻥﺎﻴﻌﻠﻟ ﺓﺮﻫﺎﻇ ﺔﻠﻴﻠﻗ ﺲﺑﻼﻤﺑ</li>
+    <li>circumstance_phrase->.ﻕﺮﻌﻟﺎﺑ ﻰﻄﻐﻣ ﺎﻤﻫﻼﻛ ﺎﻤﻨﻴﺑ</li>
     <li>desc_sentence->.[ACCEPTER_nameDef] ﺭﺍﻮﺠﺑ ﻦﻀﺘﺤﻳ [PURSUER_nameDef]</li>
-    <li>desc_sentence->ﺕﺍﺮﻈﻨﻟﺍ ﻥﺎﻟﺩﺎﺒﺘﻳ [ACCEPTER_nameDef] ﻭ [PURSUER_nameDef]</li>
+    <li>desc_sentence->ﺕﺍﺮﻈﻨﻟﺍ ﻥﻻﺩﺎﺒﺘﻳ [ACCEPTER_nameDef] ﻭ [PURSUER_nameDef]</li>
     <li>desc_sentence->.[ACCEPTER_nameDef] ﻥﺫﺃ ﻲﻓ ﺦﻔﻨﻳ [PURSUER_nameDef]</li>
     <li>desc_sentence->.[ACCEPTER_nameDef] ﻊﻣ ﺏﻮﻠﺳﺄﺑ ﻂﺒﺗﺮﻳ [PURSUER_nameDef]</li>
     <li>desc_sentence->.[ACCEPTER_nameDef] ﻞﺜﻣ ﺎًﻣﺎﻤﺗ ﻞﻌﻔﻳ [PURSUER_nameDef]</li>
@@ -55,15 +55,15 @@
   -->
   <BondedWithAnimal.rulePack.rulesStrings>
     <li>tale_noun->[ANIMAL_nameDef] ﻊﻣ ﺔﻄﺑﺍﺭ ﻡﺎﻗﺃ [HUMAN_nameDef]</li>
-    <li>image->[circumstance_group] [ANIMAL_nameFull] ﻊﻣ ﻂﺑﺍﺮﺘﻳ [HUMAN_nameFull]</li>
+    <li>image->[circumstance_group] [ANIMAL_nameFull] ـِﻝ ﺎًّﺒُﺣ َﻝَّﻭَﺃ [HUMAN_nameFull]</li>
     <li>image->[circumstance_group] [ANIMAL_nameFull] ﻊﻣ ﺔﻘﻴﻤﻋ ﺔﻄﺑﺍﺭ ﻞّﻜﺸُﻳ [HUMAN_nameFull]</li>
     <li>image->[circumstance_group] [ANIMAL_nameFull] ـﻝ ﻪﺒﺣ ﻙﺭﺪﻳ [HUMAN_nameFull]</li>
-    <li>circumstance_phrase->ﻯﺮﺧﺃ ﺕﺎﻧﺍﻮﻴﺣ ﺪﻫﺎﺸﺗ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻯﺮﺧﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻗﺍﺮﺗ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﻥﻮﻴﻌﻟﺍ [ANIMAL_nameDef] ﻲﻨﻴﻋ ﻰﻟﺇ [human_pronoun] ﻰﻟﺇ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺎﺿﺭ ﺔﻣﺎﺴﺘﺑﺎﺑ</li>
     <li>desc_sentence->.[TRAINER_nameDef] ـﺏ ﻚﺘﺤﻳ [ANIMAL_nameDef]</li>
-    <li>desc_sentence->.ﺐﺤﻟﺍ ﻦﻣ ﺎًﻧﺍﺮﻜﺳ [اسم الحيوان] ﻭﺪﺒﻳ [ANIMAL_nameDef]</li>
-    <li>desc_sentence->.ﺎًﻳﻮﻗ ،ﺎًﻠﻴﺒﻧ ﻭﺪﺒﻳ [ANIMAL_nameDef]</li>
+    <li>desc_sentence->.ﺐﺤﻟﺍ ﻦﻣ ﺎًﻧﺍﺮﻜﺳ ﻭﺪﺒﻳ [ANIMAL_nameDef]</li>
+    <li>desc_sentence->.ﺎًﻳﻮﻗ ،ﻼﻴﺒﻧ ﻭﺪﺒﻳ [ANIMAL_nameDef]</li>
     <li>desc_sentence->.ﻲﺑﺎﺠﻳﺇ ﻞﻜﺸﺑ ﺐﻴﺠﺘﺴﻳ [ANIMAL_nameDef]</li>
   </BondedWithAnimal.rulePack.rulesStrings>
   
@@ -86,19 +86,19 @@
     <li>desc_sentence->[REJECTED_nameDef] is gesticulating angrily at [DUMPER_nameDef].</li>
   -->
   <Breakup.rulePack.rulesStrings>
-    <li>tale_noun->ﺎﻤﻬﺘﻗﺎﻠﻋ [REJECTED_nameDef] ﻞﺼﻔﻧﺍﻭ [DUMPER_nameDef]</li>
-    <li>image->[circumstance_group] ﺭﺎﺳ ﺮﻴﻏ ﺚﻳﺪﺤﻟ ﺓﺪﺋﺎﻤﻟﺍ ﻰﻟﺇ [REJECTED_nameFull] ﺲﻠﺠﻳ [DUMPER_nameFull]</li>
+    <li>tale_noun->ﺎﻬﺘﻗﻼﻋﻭ [REJECTED_nameDef] ﻞﺼﻔﻧﺍﻭ [DUMPER_nameDef]</li>
+    <li>image->[circumstance_group] ﺭﺎﺴﻟﺍ ﺮﻴﻏ ﺚﻳﺪﺤﻠﻟ [REJECTED_nameFull] ﺲﻠﺠﻳ [DUMPER_nameFull]</li>
     <li>image->[circumstance_group] [REJECTED_nameFull] ﻦﻣ ﺓﺮﻴﺼﻗ ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﻒﻘﻳ [DUMPER_nameFull]</li>
     <li>image->[circumstance_group] ﺮﻳﺮﺴﻟﺍ ﺝﺭﺎﺧ [REJECTED_nameFull] ﻊﻓﺪﻳ [DUMPER_nameFull]</li>
     <li>image->[circumstance_group] [REJECTED_nameFull] ﻦﻣ ﺎًﻗﺎﻨﻋ ﺾﻓﺮﻳ [DUMPER_nameFull]</li>
     <li>circumstance_phrase->ﺪﻳﺪﺷ ﻥﺰﺣ ﺔﻈﺤﻟ ﻲﻓ</li>
-    <li>circumstance_phrase->.ﺝﺮﺤﺑ ﺍًﺪﻴﻌﺑ ﻥﻭﺮﺧﺂﻟﺍ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﻥﻭﺮﺧﺂﻟﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>desc_sentence->.ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﺎﻟ ﺎﻳﺮﻴﺘﺴﻬﺑ ﻲﻜﺒﻳ [REJECTED_nameDef]</li>
+    <li>circumstance_phrase->.ﻙﺎﺒﺗﺭﺎﺑ ﺍًﺪﻴﻌﺑ ﻥﻭﺮﺧﻵﺍ ﺮﻈﻨﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>desc_sentence->.ﻪﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﻦﻜﻤﻳ ﻻ ﺎﻳﺮﻴﺘﺴﻬﺑ ﻲﻜﺒﻳ [REJECTED_nameDef]</li>
     <li>desc_sentence->.ﻪﺴﻔﻧ ﺖﻗﻮﻟﺍ ﻲﻓ ﺥﺮﺼﻳﻭ ﻲﻜﺒﻳ [REJECTED_nameDef]</li>
     <li>desc_sentence->.ﺔﻣﺪﺼﻟﺍ ﻪﻴﻠﻋ ﻭﺪﺒﻳ [REJECTED_nameDef]</li>
     <li>desc_sentence->.[REJECTED_nameDef] ﻦﻋ ﻅﻮﺤﻠﻣ ﻞﻜﺸﺑ ﺪﻋﺎﺒﺘﻣ [DUMPER_nameDef]</li>
-    <li>desc_sentence->.ﻒﺠﺗﺮﻳﻭ ﺽﺭﺄﻟﺍ ﻰﻠﻋ [REJECTED_nameDef] ﺭﺎﻬﻧﺍ [REJECTED_nameDef]</li>
+    <li>desc_sentence->.ﻒﺠﺗﺮﻳﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﺭﺎﻬﻧﺍ [REJECTED_nameDef]</li>
     <li>desc_sentence->.[DUMPER_nameDef] ﻩﺎﺠﺗ ﺐﻀﻐﺑ ﺡﻮﻠﻳ [REJECTED_nameDef]</li>
   </Breakup.rulePack.rulesStrings>
   
@@ -125,16 +125,16 @@
     <li>image->[circumstance_group] [SPOUSE2_nameFull] ﻦﻣ ﺝﻭﺰﺘﻳ [SPOUSE1_nameFull]</li>
     <li>image->[circumstance_group] [SPOUSE2_nameFull] ـﻝ ﺝﺍﻭﺰﻟﺍ ﺕﺍﺪﻬﻌﺗ ﻝﻮﻘﺗ/ﻝﻮﻘﻳ [SPOUSE1_nameFull]</li>
     <li>image->[circumstance_group] [SPOUSE2_nameFull] ﻊﻣ ﺝﺍﻭﺰﻟﺍ ﺢﺑﺬﻣ ﻮﺤﻧ ﺎًﻬﺟﻮﺘﻣ [SPOUSE1_nameFull]</li>
-    <li>image->[circumstance_group] ﻑﺎﻓﺰﻟﺍ ﻞﻔﺣ ﻝﺎﻠﺧ [SPOUSE2_nameFull] ﺪﻴﺑ ﺎًﺜﺒﺸﺘﻣ [SPOUSE1_nameFull]</li>
-    <li>circumstance_phrase->ﺐﻴﻬﻣ ﻞﻔﺣ ﻲﻓ</li>
+    <li>image->[circumstance_group] ﻑﺎﻓﺰﻟﺍ ﻞﻔﺣ ﻝﻼﺧ [SPOUSE2_nameFull] ﺪﻴﺑ ﺎًﺜﺒﺸﺘﻣ [SPOUSE1_nameFull]</li>
+    <li>circumstance_phrase->ﺐﻴﻬﻣ ﻝﺎﻔﺘﺣﺍ ﻲﻓ</li>
     <li>circumstance_phrase->ﺓﺩﺎﻌﺴﺑ ﻥﺎﻤﺴﺘﺒﻳ ﺎﻤﻨﻴﺑ</li>
-    <li>circumstance_phrase->ﺭﺎﻗﻮﺑ ﻥﻭﺮﺧﺂﻟﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
+    <li>circumstance_phrase->ﺭﺎﻗﻮﺑ ﻥﻭﺮﺧﻵﺍ ﺐﻗﺍﺮﻳ ﺎﻤﻨﻴﺑ</li>
     <li>desc_sentence->.[SPOUSE2_nameDef] ﻦﻀﺘﺤﻳ [SPOUSE1_nameDef]</li>
-    <li>desc_sentence->.ﺕﺍﺮﻈﻨﻟﺍ ﻥﺎﻟﺩﺎﺒﺘﻳ [SPOUSE2_nameDef] ﻭ [SPOUSE1_nameDef]</li>
+    <li>desc_sentence->.ﺕﺍﺮﻈﻨﻟﺍ ﻥﻻﺩﺎﺒﺘﻳ [SPOUSE2_nameDef] ﻭ [SPOUSE1_nameDef]</li>
     <li>desc_sentence->.[SPOUSE2_nameDef] ﻥﺫﺃ ﻲﻓ ﺲﻤﻬﻳ [SPOUSE1_nameDef]</li>
     <li>desc_sentence->.[SPOUSE2_nameDef] ﻊﻣ ﻖﻴﻧﺃ ﻞﻜﺸﺑ ﻂﺒﺗﺮﻣ [SPOUSE1_nameDef]</li>
     <li>desc_sentence->.[SPOUSE2_nameDef] ﻞﺜﻣ ﺎًﻣﺎﻤﺗ ﻞﻌﻔﻳ [SPOUSE1_nameDef]</li>
-    <li>desc_sentence->ﻒﻨﻌﺑ[SPOUSE2_nameDef] ﺓﻮﻘﺑ ﺲﻤﻠﻳ [SPOUSE1_nameDef]</li>
+    <li>desc_sentence->.[SPOUSE2_nameDef] ﻒﻨﻌﺑ ﺲﻤﻠﻳ [SPOUSE1_nameDef]</li>
   </Marriage.rulePack.rulesStrings>
   
 </LanguageData>

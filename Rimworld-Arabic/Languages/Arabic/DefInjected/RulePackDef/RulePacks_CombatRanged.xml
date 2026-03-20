@@ -44,40 +44,40 @@
     <li>prefix->[projectileD] {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
     <li>prefix->[WEAPON_definite] {replace: de [INITIATOR_definite]; ">el "-">del "}</li>
     <li>r_logentry->.{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [injured] ﺪﻗ [prefix]</li>
-    <li>r_logentry->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﻪﻳﺪﻟ [prefix]</li>
-    <li>r_logentry->.[strikeAdv] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﻪﻳﺪﻟ [prefix]</li>
-    <li>r_logentry->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [strikeAdv] [destroyed_past] ﻪﻳﺪﻟ [prefix]</li>
+    <li>r_logentry->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [prefix]</li>
+    <li>r_logentry->.[strikeAdv] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [prefix]</li>
+    <li>r_logentry->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [strikeAdv] [destroyed_past] ﺪﻗ [prefix]</li>
     <li>r_logentry->.[damaged_targets] [RECIPIENT_possessive] [damaged_past] ﺪﻗ ﺎًﻀﻳﺃﻭ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [prefix]</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﻪﻳﺪﻟ [prefix]</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﺪﻗ [prefix]</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->.[strikeAdv] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﻪﻳﺪﻟ [prefix]</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [strikeAdv] [damaged_past] ﻪﻳﺪﻟ [prefix]</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [strikeAdv] [damaged_past] ﺪﻗ [prefix]</li>
     <li>r_logentry->ﺔﻄﺳﺍﻮﺑ{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [damaged_past] ﻥﺎﻛ [INITIATOR_definite]</li>
     <li>r_logentry->ﺔﻄﺳﺍﻮﺑ{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [strikeAdv] [damaged_past] ﻥﺎﻛ [INITIATOR_definite]</li>
     <li>r_logentry(RECIPIENT_gender!=Female)->.ﻭﺃ[damaged_past1] ﻥﺎﻛ [RECIPIENT_definite]</li>
-    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->.ﺭﺎﺠﻔﻧﺍ ﻲﻓ [المُتَلَقِّي] ﻊﻗﻭ [RECIPIENT_definite]</li>
-    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->.ﺭﺎﺠﻔﻧﺍ ـﺏ ﺐﻴﺻُﺃ [RECIPIENT_definite]</li>
-    <li>r_logentry(RECIPIENT_gender==Female)->.ﻰﻟﺇ[damaged_past1] ﻥﺎﻛ [RECIPIENT_definite]</li>
-    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->.ﺭﺎﺠﻔﻧﺍ ﻲﻓ ْﺖَﻘِﻠَﻋ [RECIPIENT_definite]</li>
-    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->.ﺭﺎﺠﻔﻧﺎﺑ ْﺖﺒﻴﺻُﺃ [RECIPIENT_definite]</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->.ﺭﺎﺠﻔﻧﺍ ﻲﻓ ﻊﻗﻭ [RECIPIENT_definite]</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender!=Female)->.ﺭﺎﺠﻔﻧﺎﺑ َﺐﻴﺻُﺃ [RECIPIENT_definite]</li>
+    <li>r_logentry(RECIPIENT_gender==Female)->ﻰﻟﺇ[damaged_past1] ﻥﺎﻛ [RECIPIENT_definite]</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->.ﺭﺎﺠﻔﻧﺍ ﻲﻓ ﺖﻘﻠﻋ [RECIPIENT_definite]</li>
+    <li>r_logentry(p=0.001,RECIPIENT_gender==Female)->.ﺭﺎﺠﻔﻧﺎﺑ ﺔﻴﻘﻠﺘﻤﻟﺍ ﺖﺒﻴﺻُﺃ [RECIPIENT_definite]</li>
     <li>blast->ﺭﺎﺠﻔﻧﺍ</li>
     <li>blastMas->ﺭﺎﺠﻔﻧﺍ</li>
-    <li>blast->ﺔﻴﻣﺪﺻ ﺔﺟﻮﻣ</li>
+    <li>blast->ﺔﻣﺪﺼﻟﺍ ﺔﺟﻮﻣ</li>
     <li>blast->ﺔﻴﺟﻮﻣ ﺔﻣﺪﺻ</li>
     <li>blast->ﺭﺎﺠﻔﻧﺍ</li>
     <li>blastMas->ﺔﻣﺪﺻ</li>
     <li>blastDefCap->[blast] ـﻝﺍ</li>
-    <li>blastDefCap->[blastMas] ﻝﺍ</li>
+    <li>blastDefCap->[blastMas] ـﻝﺍ</li>
     <li>fromof->ﻦﻣ</li>
     <li>fromof->ﻦﻣ</li>
     <li>injured->ﺏﺎﺼُﻣ</li>
     <li>injured->ﺢﻳﺮﺟ</li>
     <li>injured->ﺏﺎﺼﻣ</li>
     <!--OJO "herid", "Lastimad" No es un error, se complementa con otras reglas para establecer el sexo del colono, damaged_past = herido o herida y así con el resto de damaged_past (zerstrick 16-10-2020) -->
-    <li>damaged_past1->َﺙَﺭَﻭ</li>
+    <li>damaged_past1->ﺚﻳﺭﻭ</li>
     <li>damaged_past1->ﺏﺎﺼُﻣ</li>
     <li>damaged_past1->ﺏﻮﻘﺜﻣ</li>
     <li>damaged_past1->ﻒﻟﺎﺗ</li>
-    <li>damaged_past1->ﺍﻮﻗﺮﺘﺧﺍ</li>
+    <li>damaged_past1->ﺍﻭﺮﺒﻋﺍ</li>
   </Combat_ExplosionImpact.rulePack.rulesStrings>
   
   <!-- EN:
@@ -152,14 +152,14 @@
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
     <li>r_logentry->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [INITIATOR_definite] ﻦﻣ [projectile]</li>
-    <li>r_logentry->.[destroyed_suffix] [to] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [INITIATOR_definite] ﻦﻣ [projectile]</li>
-    <li>r_logentry(p=2)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ ﻭ [ORIGINALTARGET_definite] ﻰﻟﺇ [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
+    <li>r_logentry->.[destroyed_suffix] [to] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ [INITIATOR_definite] ـﻝ [projectile]</li>
+    <li>r_logentry(p=2)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_past] ﺪﻗ ﻭ [ORIGINALTARGET_definite] ﻰﻟﺇ [missed] [INITIATOR_definite] ـﻝ [projectile]</li>
     <li>r_logentry(p=2)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef] [destroyed_present] ،[ORIGINALTARGET_definite] ﻰﻟﺇ [missed] [INITIATOR_definite] ـﻝ [projectile]</li>
     <li>r_logentry->.[INITIATOR_definite] ﻦﻣ [projectile] ﺔﻄﺳﺍﻮﺑ [destroyed_past] ﻥﺎﻛ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef1]</li>
     <li>r_logentry->.[INITIATOR_definite] ﻦﻣ [projectile] ﺔﻄﺳﺍﻮﺑ[destroyed_past] ﺍﻮﻧﺎﻛ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef2]</li>
     <li>r_logentry->.[INITIATOR_definite] ﻦﻣ [projectile] ﺔﻄﺳﺍﻮﺑ [destroyed_suffix] ﻲﻓ [destroyed_past] ﻥﺎﻛ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef1]</li>
     <li>r_logentry->.[INITIATOR_definite] ﻦﻣ [projectile] ﺔﻄﺳﺍﻮﺑ [destroyed_suffix] ﻲﻓ[destroyed_past] ﺍﻮﻧﺎﻛ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_targetsDef2]</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﺪﻗ [INITIATOR_definite] ﻦﻣ [projectile]</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﺪﻗ [INITIATOR_definite] ـﻝ [projectile]</li>
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_past] ﺪﻗ ﻭ [ORIGINALTARGET_definite] [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->.{replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef] [damaged_present] ،[ORIGINALTARGET_definite] [missed] [INITIATOR_definite] ـﻝ [projectile]</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->.[INITIATOR_definite] ﻦﻣ [projectile] ﺔﻄﺳﺍﻮﺑ [damaged_past] ﻥﺎﻛ {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [damaged_targetsDef1]</li>
@@ -170,46 +170,46 @@
     <li>r_logentry(p=0.4)->.[projectile] ـﺏ {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} ﺏﺎﺻﺃﻭ [ORIGINALTARGET_definite] [missed] [INITIATOR_definite]</li>
     <li>r_logentry(p=0.4)->.{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} ﺏﺎﺻﺃﻭ [ORIGINALTARGET_definite] [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
     <li>r_logentry(p=0.2)->.[ORIGINALTARGET_definite] ﻑﺪﻬﺘﺴﻳ ﻥﺎﻛ [projectile] ـﺏ {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} ﺏﺮﺿ [INITIATOR_definite]</li>
-    <li>WEAPON_projectile_label(p=0.05)->ﺔﻘﻠﻃ</li>
+    <li>WEAPON_projectile_label(p=0.05)->ﺭﺎﻧ ﻕﻼﻃﺇ</li>
     <!--Dejar WEAPON_projectile_indefinite con este nombre aunque no sea indefinido zerstrick(5/3/2022) -->
     <li>WEAPON_projectile_indefinite(p=0.05)->ﺔﻘﻠﻄﻟﺍ</li>
-    <li>destroyed_past->ﻢَّﻄَﺤُﻣ</li>
-    <li>destroyed_past->ﻕﻮﺤﺴﻣ</li>
+    <li>destroyed_past->ﻢّﻄﺤﻣ</li>
+    <li>destroyed_past->ﻢﺸﻬﻣ</li>
     <li>destroyed_past->ّﻮﺤﻤﻣ</li>
     <li>destroyed_past->ٌﺩﺎَﺒُﻣ</li>
     <li>destroyed_past->ﺏﻮﻘﺜﻣ</li>
     <li>destroyed_past->ﺏﻮﻘﺜﻣ</li>
     <li>destroyed_past->ﺏﻮﻘﺜﻣ</li>
-    <li>destroyed_present->ﺎًﻤِّﻄَﺤُﻣ</li>
-    <li>destroyed_present->ﺎًﻘِﺣﺎَﺳ</li>
-    <li>destroyed_present->ﻮﺤﻤﻳ</li>
+    <li>destroyed_present->ﺍًﺮِّﻣَﺪُﻣ</li>
+    <li>destroyed_present->ﺎًﻘِﺤﺴﻣ</li>
+    <li>destroyed_present->ﺎًﻴِﺤﻤُﻣ</li>
     <li>destroyed_present->ﺍًﺪﻴِﺒُﻣ</li>
-    <li>destroyed_present->ﺎًﺒﻘﺜﻣ</li>
+    <li>destroyed_present->ًﺎﺒﻘﺜﻣ</li>
     <li>destroyed_present->ﺎًﻗﺮﺘﺨﻣ</li>
-    <li>destroyed_present->ﺎًﺒﻘﺜﻣ</li>
+    <li>destroyed_present->ًﺎﺒﻘﺜﻣ</li>
     <li>destroyed_suffix->ﻊﻄﻗ</li>
     <li>destroyed_suffix->ﻊﻄﻗ</li>
     <li>destroyed_suffix->ﻒﻴﻔﺧ ﺏﺎﺒﺿ</li>
     <li>destroyed_suffix->ﺎﻳﺎﻈﺷ</li>
-    <li>destroyed_suffix(p=0.5)->ﺔَﻜِﻟﺎَﻬَﺘُﻣ ﺓَﺮْﻔُﺣ</li>
+    <li>destroyed_suffix(p=0.5)->ﺔَﻜِﻟﺎَﻬَﺘُﻣ ٌﺓَﺮْﻔُﺣ</li>
     <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid,p=0.2)->ﻡﻭﺮﻔﻣ ﻢﺤﻟ</li>
     <li>damaged_past->ﺢﻳﺮﺟ</li>
-    <li>damaged_past->ﺏﺎﺼُﻣ</li>
+    <li>damaged_past->ﺏﺎﺼﻣ</li>
     <li>damaged_past->ﺏﻮﻘﺜﻣ</li>
     <li>damaged_past(p=0.5)->ﻒﻟﺎﺗ</li>
     <li>damaged_past(p=0.5)->ﻕﺮﺘﺨﻣ</li>
     <li>damaged_present->ﺎًﺣﺮﺟ</li>
     <li>damaged_present->ﺎًﺣِﺮْﺠُﻣ</li>
-    <li>damaged_present->ﺎًﺒﻘﺜﻣ</li>
-    <li>damaged_present->ﺍًﺭِّﺮَﻀَﺘُﻣ</li>
+    <li>damaged_present->ًﺎﺒﻘﺜﻣ</li>
+    <li>damaged_present->ﺎًﻔِﻠْﺘُﻣ</li>
     <li>damaged_present(p=0.5)->ﺭﺎﻨﻟﺍ ﻖﻠﻄﻳ</li>
-    <li>damaged_suffix->ﺢﻴﺒﻗ ﻞﻜﺸﺑ</li>
-    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->ﺔﻳﻮﻴﺤﻟﺍ ﺎﻬﻠﺋﺍﻮﺳ ﺭﺎﻬﻇﺈﺑ</li>
+    <li>damaged_suffix->ﻊﺸﺑ ﻞﻜﺸﺑ</li>
+    <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->ﺔﻳﻮﻴﺤﻟﺍ ﻪﻠﺋﺍﻮﺳ ﺮﻬﻈُﻳ</li>
     <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->ﻢﺤﻠﻟﺍ ﻑﺎﺸﻜﻧﺍ ﻊﻣ</li>
     <li>to->ﻰﻟﺇ</li>
     <li>to->ﻰﻟﺇ</li>
     <li>missed->ﻞﺸﻓ</li>
-    <li>missed->ﻞﻴﻠﻘﻟﺍ ﻞﻗﺄﺑ ﻖﻔﺧﺃ</li>
+    <li>missed->ﻞﻴﻠﻘﻟﺍ ﻞﻗﺄﺑ ﺄﻄﺧﺃ</li>
   </Combat_RangedDamage.rulePack.rulesStrings>
   
   <!-- EN:
@@ -239,29 +239,29 @@
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>
     <li>r_logentry->.[deflected_result][damaged_targetsDef] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [damaged_past] ﺪﻗ [INITIATOR_definite] ﻦﻣ [projectile]</li>
-    <li>r_logentry(p=2)->.[deflected_result][RECIPIENT_definite][damaged_target_possessive_opt] [damaged_past] ﻭ [ORIGINALTARGET_definite] [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
+    <li>r_logentry(p=2)->.[deflected_result][RECIPIENT_definite][damaged_target_possessive_opt] [damaged_past] ﺪﻗ ﻭ [ORIGINALTARGET_definite] [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
     <li>r_logentry->.[deflected_result][INITIATOR_definite] ﻦﻣ [projectile] ـﺏ [damaged_past] ﻊﻣ [damaged_target_possessive_opt]</li>
     <li>r_logentry(p=0.2)->.[deflected_result][projectile] ـﺏ [damaged_target_possessive_opt] ﺏﺮﺿ [INITIATOR_definite]</li>
     <li>r_logentry(p=0.2)->.[deflected_result][damaged_target_possessive_opt] ﺏﺮﺿ [INITIATOR_definite] ـﻝ [projectile]</li>
     <li>r_logentry(p=0.4)->.[deflected_result][projectile] ـﺏ [damaged_target_possessive_opt] ﺏﺮﺿ ﻭ {replace: a [ORIGINALTARGET_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [missed] [INITIATOR_definite]</li>
     <li>r_logentry(p=0.4)->.[deflected_result][damaged_target_possessive_opt] ﺏﺮﺿ ﻭ {replace: a [ORIGINALTARGET_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [missed] [INITIATOR_definite] ﻦﻣ [projectile]</li>
     <li>r_logentry(p=0.2)->.[deflected_result][ORIGINALTARGET_definite] ﻰﻟﺇ ًﺎﻬﺟﻮﻣ ﻥﺎﻛ [projectile] ـﺏ [damaged_target_possessive_opt] ﺏﺮﺿ [INITIATOR_definite]</li>
-    <li>WEAPON_projectile_label(p=0.05)->ﺔﻘﻠﻃ</li>
+    <li>WEAPON_projectile_label(p=0.05)->ﺭﺎﻧ ﻕﻼﻃﺇ</li>
     <li>projectile(p=0.05)->ﺔﻘﻠﻄﻟﺍ</li>
     <li>damaged_target_possessive_opt->{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}</li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[recipient_part_damaged0_definite] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "}</li>
     <li>deflected_result-> [adverb_deflected]</li>
-    <li>deflected_result->[deflected_consequence] [النتيجة_المنحرفة] ،</li>
+    <li>deflected_result->[deflected_consequence] ،</li>
     <li>adverb_deflected_opt(p=4)-></li>
     <li>adverb_deflected_opt->[adverb_deflected]</li>
-    <li>adverb_deflected->ٍﺫﺆﻣ ﺮﻴﻏ ﻞﻜﺸﺑ</li>
+    <li>adverb_deflected->ﻡﻼﺴﺑ</li>
     <li>adverb_deflected->ﻯﻭﺪﺟ ﺮﻴﻐﺑ</li>
     <li>deflected_consequence->[adverb_deflected_opt] [scraped_past] ﻦﻜﻟ</li>
     <li>deflected_consequence->[adverb_deflected_opt] ﻪﻋﺭﺩ ﻰﻠﻋ [scraped_present]</li>
     <li>scraped_past->ﺕّﺪﺗﺭﺍ</li>
     <li>scraped_present->ﺓﺪﺗﺮﻣ</li>
     <li>missed->ﻞﺸﻓ</li>
-    <li>missed->ﻞﻴﻠﻘﻟﺍ ﻞﻗﺄﺑ</li>
+    <li>missed->ﻞﻴﻠﻘﻟﺍ ﻞﻗﺄﺑ ﺄﻄﺧﺃ</li>
   </Combat_RangedDeflect.rulePack.rulesStrings>
   
   <!-- EN:
@@ -297,11 +297,11 @@
     <li>r_logentry->.[WEAPON_label] [INITIATOR_possessive] ـﺏ {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [shotat] [INITIATOR_definite]</li>
     <li>r_logentry->.[WEAPON_label] [INITIATOR_possessive] ـﺏ [RECIPIENT_indefinite] [shotatC] [INITIATOR_definite]</li>
     <li>r_logentry->.[RECIPIENT_indefinite] ﻰﻠﻋ [WEAPON_label] [INITIATOR_possessive] [shot] [INITIATOR_definite]</li>
-    <li>r_logentry->.[RECIPIENT_definite] ﻰﻠﻋ [projectile] [INITIATOR_definite] ﻰﻣﺭ{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [shotat] [INITIATOR_definite]</li>
-    <li>r_logentry->.[RECIPIENT_indefinite] ﻰﻠﻋ [shotatC] [INITIATOR_definite] ﻰﻣﺭ[RECIPIENT_indefinite] [shotatC] [INITIATOR_definite]</li>
+    <li>r_logentry->ﻰﻠﻋ ﻖﻠﻃﺃ.{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [shotat] [INITIATOR_definite]</li>
+    <li>r_logentry->ﻰﻠﻋ ﻖﻠﻃﺃ.[RECIPIENT_indefinite] [shotatC] [INITIATOR_definite]</li>
     <li>r_logentry(p=0.5)->.[projectile] ﻦﻣ [burst] ـﺏ [RECIPIENT_definite] ﺪﺿ [shot_an] [INITIATOR_definite]</li>
-    <li>r_logentry(RECIPIENT_missing==True)->.[projectile_indefinite] [shot_a] [INITIATOR_definite] ﻖﻠﻃﺃ[projectile_indefinite] [shot_a] [INITIATOR_definite]</li>
-    <li>r_logentry(RECIPIENT_missing==True)->.[INITIATOR_possessive] ـﺏ ﺹﺎﺨﻟﺍ [WEAPON_label] ـﺏ ﺭﺎﻨﻟﺍ [INITIATOR_definite] ﻖﻠﻃﺃ[WEAPON_label] [INITIATOR_possessive] [shot] [INITIATOR_definite]</li>
+    <li>r_logentry(RECIPIENT_missing==True)->.ﻖﻠﻃﺃ[projectile_indefinite] [shot_a] [INITIATOR_definite]</li>
+    <li>r_logentry(RECIPIENT_missing==True)->.ﻦﻣ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ[WEAPON_label] [INITIATOR_possessive] [shot] [INITIATOR_definite]</li>
     <li>shot_an(p=2)->[verb_shot]</li>
     <li>shot_an->[skillAdv] [verb_shot]</li>
     <li>shot_a(p=2)->[verb_shot]</li>
@@ -310,7 +310,7 @@
     <li>shot->[skillAdv] [verb_shot]</li>
     <li>shotat->[aburst] ﻖﻠﻃﺃ</li>
     <li>shotat->[aburst] ﻖﻠﻃﺃ [skillAdv]</li>
-    <li>shotat(p=0.5)->[aburst] ﺭﺎﻨﻟﺍ ﻕﺎﻠﻃﺇ ﻝﻭﺎﺣ</li>
+    <li>shotat(p=0.5)->[aburst] ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻝﻭﺎﺣ</li>
     <li>shotat(p=0.3)->ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ</li>
     <li>shotat(p=0.2)->ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ [skillAdv]</li>
     <li>shotat->[aburst] ﻖﻠﻃﺃ</li>
@@ -319,11 +319,11 @@
     <li>shotat(p=0.5)->[aburst] ﻖﻠﻃﺃﻭ ﺏّﻮﺻ [skillAdv]</li>
     <li>shotatC(p=0.3)->ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﺢﺘﻓ</li>
     <li>aburst-></li>
-    <li>aburst(BURST==True,p=3)->ﺔﻌﻓﺩ</li>
+    <li>aburst(BURST==True,p=3)->ﺓﺪﺣﺍﻭ ﺔﻌﻓﺩ</li>
     <li>burst(BURST==True,p=0.5)->ﻎﻳﺮﻔﺗ</li>
-    <li>burst(BURST==True,p=3)->ﺔﻌﻓﺩ</li>
+    <li>burst(BURST==True,p=3)->ﺔﻘﻓﺩ</li>
     <li>verb_shot->ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ</li>
-    <li>verb_shot->ﺭﺎﻨﻟﺍ ﻖﻠﻃﺃ</li>
+    <li>verb_shot->ﺭﺎﻨﻟﺍ ﺢﺘﻓ</li>
     <li>verb_shot(p=0.2)->ﻍّﺮﻓ</li>
   </Combat_RangedFire.rulePack.rulesStrings>
   
@@ -353,23 +353,23 @@
     <li>adjective_threw(INITIATOR_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->.[RECIPIENT_definite] ﻩﺎﺠﺗﺎﺑ [projectile1] [INITIATOR_definite] ﺄﻄﺧﺃ{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [projectile1] [INITIATOR_possessive] [threw] [INITIATOR_definite]</li>
-    <li>r_logentry->.[ORIGINALTARGET_definite] [INITIATOR_definite] ﺄﻄﺧﺃ{replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [projectile] [threw_a] [INITIATOR_definite]</li>
-    <li>r_logentry(RECIPIENT_missing==True)->.[INITIATOR_possessive] ـﺏ ﺹﺎﺨﻟﺍ [projectile1] [INITIATOR_definite] ﻰﻣﺭ[projectile1] [INITIATOR_possessive] [threw] [INITIATOR_definite]</li>
-    <li>r_logentry(RECIPIENT_missing==True)->.[projectile] [INITIATOR_definite] ﻰﻣﺭ[projectile] [threw_a] [INITIATOR_definite]</li>
+    <li>r_logentry->.ﻑﺪﻬﻟﺍ ﺄﻄﺧﺃ ﻪﻨﻜﻟ ،ﻩﺎﺠﺗﺎﺑ ﻰﻣﺭ{replace: a ; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [projectile1] [INITIATOR_possessive] [threw] [INITIATOR_definite]</li>
+    <li>r_logentry->.ﻑﺪﻬﻟﺍ ﺄﻄﺧﺃ ﻪﻨﻜﻟ ،ﻮﺤﻧ ﻰﻣﺭ{replace: a ; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [projectile] [threw_a] [INITIATOR_definite]</li>
+    <li>r_logentry(RECIPIENT_missing==True)->.ﻪﺑ ﺹﺎﺨﻟﺍ ﻰﻣﺭ[projectile1] [INITIATOR_possessive] [threw] [INITIATOR_definite]</li>
+    <li>r_logentry(RECIPIENT_missing==True)->.ﻲﻣﺮﺑ ﻡﺎﻗ.[projectile] [threw_a] [INITIATOR_definite]</li>
     <li>threw_a->[adjective_threw] [verb_threw]</li>
     <li>threw_a->[adverb_threw] [verb_threw]</li>
     <li>threw_a(p=2)->[verb_threw]</li>
     <li>threw(p=2)->[verb_threw]</li>
     <li>threw->[adverb_threw] [verb_threw]</li>
     <li>verb_threw->ﻰَﻣَﺭ</li>
-    <li>verb_threw->ﻰَﻣَﺭ</li>
+    <li>verb_threw->َﻑَﺬَﻗ</li>
     <li>verb_threw->ﻖﻠﻃﺃ</li>
     <li>adverb_threw->ﺔﻳﺎﻨﻌﺑ</li>
     <li>adverb_threw->ﺔﻋﺮﺴﺑ</li>
-    <li>adverb_threw->ﺔﻗﺪﺑ</li>
-    <li>adverb_threw->ﺍًﺪﻤﻌﺘﻣ</li>
-    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->ﺭﺬﺤﺑ</li>
+    <li>adverb_threw->ﻢَﻜْﺤُﻣ ٍﻞْﻜَﺸِﺑ</li>
+    <li>adverb_threw->ًﺍﺪﻤﻌﺘﻣ</li>
+    <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->ﺪﻳﺪﺷ ﺭﺬﺤﺑ</li>
     <li>adverb_threw(INITIATOR_flesh!=Mechanoid)->ﺭﺬﺤﺑ</li>
     <li>adjective_threw->ﺭﺬﺤﺑ</li>
     <li>adjective_threw->ﺔﻋﺮﺴﺑ</li>
@@ -423,7 +423,7 @@
     <li>ducked->hid</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->.[ORIGINALTARGET_definite] ﻑﺪﻬﻟﺍ [projectile] [INITIATOR_definite] ﺄﻄﺧﺃ[missed] {replace: de [INITIATOR_definite]; ">el "-">del "} [projectileD]</li>
+    <li>r_logentry->.ﻮﺤﻧ ـﺏ ﺄﻄﺧﺃ[missed] {replace: de ; ">el "-">del "} [projectileD]</li>
     <li>r_logentry->. [RECIPIENT_nameAl] ﻞﺸﻓ [INITIATOR_definite]</li>
     <li>r_logentry->.[missing] {replace: de [INITIATOR_definite]; ">el "-">del "} [projectileD] ﻞﻌﺠﻳ ﺎﻤﻣ[avoidance] [ORIGINALTARGET_definite]</li>
     <li>missed(p=4)->ﺄﻄﺧﺃ</li>
@@ -432,31 +432,31 @@
     <li>missed->ًﺍﺪﻴﻌﺑ ﺐﻫﺫ</li>
     <li>missed->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ًﺎﻴﻟﺎﻋ ﺭﺎﻃ</li>
     <li>missed->ﺀﺎﻤﺴﻟﺍ ﻰﻟﺇ ﺭﺎﻃ</li>
-    <li>missed->ﺽﺭﺄﻟﺍ ﻲﻓ ﺮﻔﺣ</li>
-    <li>missed->.ﻉﺎﺿﻭ ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﻂﻘﺳﻭ ﻖﻟﺰﻧﺍ</li>
-    <li>missed->ﺽﺭﺄﻟﺍ ﻲﻓ ﺓﺮﻔﺣ ﺮﻔﺣ</li>
+    <li>missed->ﺽﺭﻷﺍ ﻲﻓ ﺮﻔﺣ</li>
+    <li>missed->.ﻉﺎﺿﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﻖﻟﺰﻧﺍ</li>
+    <li>missed->ﺽﺭﻷﺍ ﻲﻓ ﺓﺮﻔﺣ ﺮﻔﺣ</li>
     <li>missed(p=0.2)->{replace: de [ORIGINALTARGET_definite]; ">el "-">del "} .ﺕﺍﺮﺘﻤﻴﻠﻣ ﺔﻌﻀﺑ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
-    <li>missed->{replace: de [ORIGINALTARGET_definite]; ">el "-">del "} .ﺔﻠﻴﻠﻗ ﺕﺍﺮﺘﻤﻴﺘﻨﺳ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
+    <li>missed->{replace: de [ORIGINALTARGET_definite]; ">el "-">del "} ﺔﻠﻴﻠﻗ ﺕﺍﺮﺘﻤﻴﺘﻨﺳ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
     <li>missed->{replace: de [ORIGINALTARGET_definite]; ">el "-">del "} .ﺮﺘﻣ ﻦﻣ ﻞﻗﺃ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
     <li>missed->ﻩﺭﺎﺴﻣ ﻦﻋ ﻑﺮﺤﻧﺍ</li>
     <li>missing->ﺩﻮﻘﻔﻣ</li>
     <li>missing->ﻞﻴﺌﺿ ﻕﺭﺎﻔﺑ ﻖﻔﺧﺃ</li>
     <li>missing->ﺮﻴﺒﻛ ﻕﺭﺎﻔﺑ ﻖﻔﺧﺃ</li>
     <li>missing->ًﺍﺮﻴﺜﻛ ﺪﻌﺘﺑﺍ</li>
-    <li>missing->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺭﺎﻃ</li>
+    <li>missing->ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺮﻴﻄﻴﺳ</li>
     <li>missing->ﺀﺎﻤﺴﻟﺍ ﻲﻓ ًﺎﻴﻟﺎﻋ ﺭﺎﻃ</li>
-    <li>missing->ﺽﺭﺄﻟﺍ ﻲﻓ ﺐﻘﻨﻴﺳ</li>
-    <li>missing->.ﻉﺎﺿﻭ ﺽﺭﺄﻟﺍ ﻰﻠﻋ ﻖﻟﺰﻧﺍ</li>
-    <li>missing->ﺽﺭﺄﻟﺍ ﻲﻓ ﺓﺮﻔﺣ ﺮﻔﺣ</li>
-    <li>missing(p=0.2)->[ORIGINALTARGET_definite] ﻦﻣ ﺕﺍﺮﺘﻤﻴﻠﻣ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
+    <li>missing->ﺽﺭﻷﺍ ﻲﻓ ﺐﻘﻨﻴﺳ</li>
+    <li>missing->ﻉﺎﺿﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﻖﻟﺰﻧﺍ</li>
+    <li>missing->ﺽﺭﻷﺍ ﻲﻓ ﺓﺮﻔﺣ ﺮﻔﺤﻴﺳ</li>
+    <li>missing(p=0.2)->[ORIGINALTARGET_definite] ﻦﻣ ﺕﺍﺮﺘﻤﻴﺘﻨﺳ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
     <li>missing->[ORIGINALTARGET_definite] ﻦﻣ ﺕﺍﺮﺘﻤﻴﺘﻨﺳ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
     <li>missing->[ORIGINALTARGET_definite] ﻦﻣ ﺪﺣﺍﻭ ﺮﺘﻣ ﺪﻌﺑ ﻰﻠﻋ ّﺮﻣ</li>
     <li>missing->ﺭﺎﺴﻤﻟﺍ ﻦﻋ ﻑﺮﺤﻧﺍ</li>
-    <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moment] ﺓﺮﻴﺧﺄﻟﺍ ﺔﻈﺤﻠﻟﺍ ﻲﻓ ﺐﻧﺎﺠﻟﺍ ﻰﻟﺇ [moved]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moment] ﺓﺮﻴﺧﻷﺍ ﺔﻈﺤﻠﻟﺍ ﻲﻓ ﺐﻧﺎﺠﻟﺍ ﻰﻟﺇ [moved]</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[COVER_definite] ﻒﻠﺧ [ducked]</li>
     <li>moved->ﻙﺮﺤﺗ</li>
     <li>moved->ﺾﻔﺘﻧﺍ</li>
-    <li>moved->ﻒﺠﺗﺭﺍ</li>
+    <li>moved->ﻰﻨﺤﻧﺍ</li>
     <li>moved(p=0.05)->ﻰﻨﺤﻧﺍ</li>
     <li>moment->ﺔﻈﺤﻟ</li>
     <li>moment->ٍﻥﺎﺛ</li>

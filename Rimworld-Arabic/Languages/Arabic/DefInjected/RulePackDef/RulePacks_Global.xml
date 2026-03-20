@@ -247,90 +247,90 @@
     <!--Reglas Especiales-->
     <!--asker-->
     <li>asker_o_a(asker_gender!=Female)->ﻭﺃ</li>
-    <li>asker_o_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_o_a(asker_gender==Female)->ﻰﻟﺇ</li>
     <li>asker_e_a(asker_gender!=Female)->ﻭ</li>
-    <li>asker_e_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_e_a(asker_gender==Female)->ﻰﻟﺇ</li>
     <li>asker_x_a(asker_gender!=Female)-></li>
-    <li>asker_x_a(asker_gender==Female)->ﺍ</li>
+    <li>asker_x_a(asker_gender==Female)->ﻰﻟﺇ</li>
     <li>asker_a(asker_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>asker_a(asker_gender==Female)->ﺓﺪﺣﺍﻭ</li>
-    <li>asker_aCap(asker_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>asker_aCap(asker_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>asker_aCap(asker_gender==Female)->ﺓﺪﺣﺍﻭ</li>
     <li>asker_TheCap(asker_gender!=Female)->ﻝﺍ</li>
-    <li>asker_TheCap(asker_gender==Female)->ﺎﻟ</li>
+    <li>asker_TheCap(asker_gender==Female)->ﻻ</li>
     <li>asker_The(asker_gender!=Female)->ﻝﺍ</li>
-    <li>asker_The(asker_gender==Female)->ﺎﻟ</li>
-    <li>asker_a_al(asker_gender!=Female)->ﻝﺍ</li>
+    <li>asker_The(asker_gender==Female)->ﻻ</li>
+    <li>asker_a_al(asker_gender!=Female)->ﻰﻟﺇ</li>
     <li>asker_a_al(asker_gender==Female)->ﻰﻟﺇ</li>
     <li>titleHeir_o_a(titleHeir_gender==Male)->ﻭﺃ</li>
-    <li>titleHeir_o_a(titleHeir_gender==Female)->ﺍ</li>
+    <li>titleHeir_o_a(titleHeir_gender==Female)->ﻰﻟﺇ</li>
     <li>titleHeir_o_a(titleHeir_gender==None)->ﻭﺃ</li>
     <li>titleHeirDef(titleHeir_gender==Male)->ﻝﺍ</li>
-    <li>titleHeirDef(titleHeir_gender==Female)->ﺎﻟ</li>
+    <li>titleHeirDef(titleHeir_gender==Female)->ﻻ</li>
     <li>titleHeirDef(titleHeir_gender==None)->ﻝﺍ</li>
     <!--INITIATOR-->
     <li>INITIATOR_o_a(INITIATOR_gender!=Female)->ﻭﺃ</li>
-    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﺍ</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﻰﻟﺇ</li>
     <!--PRISONER-->
     <li>PRISONER_o_a(PRISONER_gender!=Female)->ﻭﺃ</li>
-    <li>PRISONER_o_a(PRISONER_gender==Female)->ﺍ</li>
+    <li>PRISONER_o_a(PRISONER_gender==Female)->ﻰﻟﺇ</li>
     <!--PATIENT-->
     <li>PATIENT_o_a(PATIENT_gender!=Female)->ﻭﺃ</li>
-    <li>PATIENT_o_a(PATIENT_gender==Female)->ﺍ</li>
+    <li>PATIENT_o_a(PATIENT_gender==Female)->ﻰﻟﺇ</li>
     <!--RECIPIENT-->
     <li>RECIPIENT_o_a(RECIPIENT_gender!=Female)->ﻭﺃ</li>
-    <li>RECIPIENT_o_a(RECIPIENT_gender==Female)->ﺍ</li>
+    <li>RECIPIENT_o_a(RECIPIENT_gender==Female)->ﻰﻟﺇ</li>
     <!--INITIATOR-->
     <li>INITIATOR_o_a(INITIATOR_gender!=Female)->ﻭﺃ</li>
-    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﺍ</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->ﻰﻟﺇ</li>
     <!--refugee-->
     <li>refugee_o_a(refugee_gender!=Female)->ﻭﺃ</li>
-    <li>refugee_o_a(refugee_gender==Female)->ﺍ</li>
+    <li>refugee_o_a(refugee_gender==Female)->ﻰﻟﺇ</li>
     <li>refugee_ununa(refugee_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>refugee_ununa(refugee_gender==Female)->ﺓﺪﺣﺍﻭ</li>
     <!--joiner-->
     <li>joiner_a(joiner_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>joiner_a(joiner_gender==Female)->ﺓﺪﺣﺍﻭ</li>
-    <li>joiner_A(joiner_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>joiner_A(joiner_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>joiner_A(joiner_gender==Female)->ﺓﺪﺣﺍﻭ</li>
     <li>joiner_o_a(joiner_gender!=Female)->ﻭﺃ</li>
-    <li>joiner_o_a(joiner_gender==Female)->ﺍ</li>
+    <li>joiner_o_a(joiner_gender==Female)->ﻰﻟﺇ</li>
     <!-- regla especial para la misión JoinerTheat-->
-    <li>joiner_especial(joiner_gender!=Female)->ﺔﻨﺑﺎﻟﺍ</li>
-    <li>joiner_especial(joiner_gender==Female)->ﻦﺑﺎﻟﺍ</li>
+    <li>joiner_especial(joiner_gender!=Female)->ﺔﻨﺑﻻﺍ</li>
+    <li>joiner_especial(joiner_gender==Female)->ﻦﺑﻻﺍ</li>
     <!--lodgers-->
-    <li>o_a(lodgers0_gender==Female)->ﺍ</li>
+    <li>o_a(lodgers0_gender==Female)->ﻰﻟﺇ</li>
     <li>o_a(lodgers0_gender!=Female)->ﻭﺃ</li>
-    <li>e_a(lodgers0_gender==Female)->ﺍ</li>
+    <li>e_a(lodgers0_gender==Female)->ﻰﻟﺇ</li>
     <li>e_a(lodgers0_gender!=Female)->ﻭ</li>
     <li>arrived(lodgerCount==1)->َﻞﺻﻭ</li>
     <li>arrived(lodgerCount>=2)->ﺍﻮﻠﺻﻭ</li>
     <li>Un_Cap(lodgers0_gender==Female)->ﺓﺪﺣﺍﻭ</li>
-    <li>Un_Cap(lodgers0_gender!=Female)->ٌﺪﺣﺍﻭ</li>
+    <li>Un_Cap(lodgers0_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>un_una(lodgers0_gender==Female)->ﺓﺪﺣﺍﻭ</li>
     <li>un_una(lodgers0_gender!=Female)->ﺪﺣﺍﻭ</li>
-    <li>insults(lodgers0_gender==Female)->ِﺔَﺑﺎَﺘْﻐُﻤﻠﻟ</li>
+    <li>insults(lodgers0_gender==Female)->ﺔَﺑﺎَﺘْﻐُﻤﻠﻟ</li>
     <li>insults(lodgers0_gender!=Female)->ﻱِﺮَﺘْﻔُﻤﻟﺍ</li>
     <li>arrived(lodgerCount==1)->َﻞﺻﻭ</li>
     <li>arrived(lodgerCount>=2)->ﺍﻮﻠﺻﻭ</li>
     <li>willStay(lodgerCount==1)->ﻰﻘﺒﻴﺳ</li>
     <li>willStay(lodgerCount>=2)->ﻥﻮﻘﺒﻴﺳ</li>
-    <li>last(lodgers0_gender==Male)->ﺮﻴﺧﺄﻟﺍ</li>
-    <li>last(lodgers0_gender!=Male)->ﺓﺮﻴﺧﺄﻟﺍ</li>
+    <li>last(lodgers0_gender==Male)->ﺮﻴﺧﻷﺍ</li>
+    <li>last(lodgers0_gender!=Male)->ﺓﺮﻴﺧﻷﺍ</li>
     <li>lodgersLeave(lodgersCount==1)->ﻙﺮﺘﻴﺳ</li>
     <li>lodgersLeave(lodgersCount>=2)->ﻥﻮﻛﺮﺘﻴﺳ</li>
     <li>lodgersella(lodgers0_gender==Male)->ﻝﺍ</li>
-    <li>lodgersella(lodgers0_gender!=Male)->ﺎﻟ</li>
+    <li>lodgersella(lodgers0_gender!=Male)->ﻻ</li>
     <li>lodgersellaCap(lodgers0_gender==Male)->ﻝﺍ</li>
-    <li>lodgersellaCap(lodgers0_gender!=Male)->ﺎﻟ</li>
+    <li>lodgersellaCap(lodgers0_gender!=Male)->ﻻ</li>
     <li>HadSingOrPlural(lodgerCount==1)->ﻚﻠﻤﻳ ﻥﺎﻛ</li>
     <li>HadSingOrPlural(lodgerCount>=2)->ﻥﻮﻜﻠﻤﻳ ﺍﻮﻧﺎﻛ</li>
     <li>hostedSingOrPlural(lodgers0_gender==Male,lodgerCount==1)->ﻒﻴِﻀَﺘْﺴُﻣ</li>
-    <li>hostedSingOrPlural(lodgers0_gender!=Male,lodgerCount==1)->ﺔَﻔﻴِﻀَﺘْﺴُﻣ</li>
+    <li>hostedSingOrPlural(lodgers0_gender!=Male,lodgerCount==1)->ﺔﻔﻴِﻀَﺘْﺴُﻣ</li>
     <li>hostedSingOrPlural(lodgerCount>=2)->َﻥﻮُﻔﻴِﻀَﺘْﺴُﻣ</li>
     <!-- EnemyFaction -->
     <li>el_la(enemyFaction_leader==Male)->ﻝﺍ</li>
-    <li>el_la(enemyFaction_leader!=Male)->ﺎﻟ</li>
+    <li>el_la(enemyFaction_leader!=Male)->ﻻ</li>
     <li>factionOpponentun_una(factionOpponent==Male)->ﺪﺣﺍﻭ</li>
     <li>factionOpponentun_una(factionOpponent!=Male)->ﺓﺪﺣﺍﻭ</li>
     <!--Quest Hospitality -->
@@ -339,90 +339,90 @@
     <!--Scrip_LongRangeMineralScanner-->
     <li>targetMineable_labelVar(targetMineable==MineableGold)->ﺐﻫﺫ ﻢﺠﻨﻣ</li>
     <li>targetMineable_labelVar(targetMineable==MineableSilver)->ﺔﻀﻓ ﻢﺠﻨﻣ</li>
-    <li>targetMineable_labelVar(targetMineable==MineableSteel)->ﺪﻳﺪﺣ ﻕﺮﻋ</li>
-    <li>targetMineable_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﺎﻠﺑ ﻕﺮﻋ</li>
-    <li>targetMineable_labelVar(targetMineable==MineableComponentsIndustrial)->ﻁﻮﻐﻀﻣ ﻲﻧﺪﻌﻣ ﻕﺮﻋ</li>
-    <li>targetMineable_labelVar(targetMineable==MineableUranium)->ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻢﺠﻨﻣ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSteel)->ﻱﺫﻻﻮﻓ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﻼﺑ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableComponentsIndustrial)->ﻒَّﺜﻜُﻣ ﻲﻧﺪﻌﻣ ﻕﺮﻋ</li>
+    <li>targetMineable_labelVar(targetMineable==MineableUranium)->ﻡﻮﻴﻧﺍﺭﻮﻳ ﻢﺠﻨﻣ</li>
     <li>targetMineable_labelVar(targetMineable==MineableJade)->ﻢﺸﻴﻟﺍ ﻕﺮﻋ</li>
     <li>targetMineable_labelVar(p=0.00000000001)->[targetMineable_label]</li>
     <li>targetMineableThing_labelVar(targetMineable==MineableGold)->ﺐﻫﺫ</li>
     <li>targetMineableThing_labelVar(targetMineable==MineableSilver)->ﺔﻀﻓ</li>
-    <li>targetMineableThing_labelVar(targetMineable==MineableSteel)->ﺫﺎﻟﻮﻓ</li>
-    <li>targetMineableThing_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﺎﻠﺑ</li>
-    <li>targetMineableThing_labelVar(targetMineable==MineableComponentsIndustrial)->ﺔﺠﻣﺪﻣ ﺕﺎﻟﺁ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSteel)->ﺫﻻﻮﻓ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineablePlasteel)->ﻞﻴﺘﺳﻼﺑ</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableComponentsIndustrial)->ﺔﺠﻣﺪﻣ ﺕﻻﺁ</li>
     <li>targetMineableThing_labelVar(targetMineable==MineableUranium)->ﻡﻮﻴﻧﺍﺭﻮﻳ</li>
     <li>targetMineableThing_labelVar(targetMineable==MineableJade)->ﻢﺸﻳ</li>
     <li>targetMineableThing_labelVar(p=0.00000000001)->[targetMineableThing_label]</li>
     <!-- Scrip Uitlity helpers -->
     <li>helpersSent(helpersCount==1,helpers0_gender!=Female)->ﻞﺳﺮﻣ</li>
     <li>helpersSent(helpersCount==1,helpers0_gender==Female)->ﺔﻠﺳﺮﻣ</li>
-    <li>helpersSent(helpersCount>=2)->ﻥﻮﻠَﺳﺮُﻣ</li>
-    <li>helpersArrived(helpersCount==1)->ﻞﺻﻭ ﺪﻗ</li>
+    <li>helpersSent(helpersCount>=2)->ﻥﻮﻠﺳﺮﻣ</li>
+    <li>helpersArrived(helpersCount==1)->.ﻞﺻﻭ ﺪﻗ</li>
     <li>helpersArrived(helpersCount>=2)->ﺍﻮﻠﺻﻭ</li>
     <li>helpersLeaving(helpersCount==1)->ﻑﺮﺼﻨﻳ</li>
     <li>helpersLeaving(helpersCount>=2)->ﻥﻮﻓﺮﺼﻨﻳ</li>
     <li>helpersTheCap(helpersCount==1,helpers0_gender!=Female)->ﻝﺍ</li>
-    <li>helpersTheCap(helpersCount==1,helpers0_gender==Female)->ﺎﻟ</li>
-    <li>helpersTheCap(helpersCount>=2)->ﻝﺍ</li>
-    <li>helpersSpent(helpersCount==1)->ٰﻰَﻀَﻣ</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender==Female)->ﻻ</li>
+    <li>helpersTheCap(helpersCount>=2)->ـﻝﺍ</li>
+    <li>helpersSpent(helpersCount==1)->َّﺮَﻣ</li>
     <li>helpersSpent(helpersCount>=2)->ﺍﻭُّﺮَﻣ</li>
     <!-- ShuttleCrash-->
     <li>crashedLanded(civilians_count==1)->ﻢّﻄﺤﺗ</li>
     <li>crashedLanded(civilians_count>=2)->ﺍﻮﻤّﻄﺤﺗ</li>
     <li>thesePeople(civilians_count==1)->ﺺﺨﺸﻟﺍ ﺍﺬﻫ</li>
-    <li>thesePeople(civilians_count>=2)->ﺹﺎﺨﺷﺄﻟﺍ ﺀﺎﻟﺆﻫ</li>
+    <li>thesePeople(civilians_count>=2)->ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</li>
     <!-- beggar -->
     <li>beggars_o_a(beggars0_gender==Male)->ﻭﺃ</li>
-    <li>beggars_o_a(beggars0_gender!=Male)->ﺍ</li>
+    <li>beggars_o_a(beggars0_gender!=Male)->ﻰﻟﺇ</li>
     <li>beggars_e_a(beggars0_gender==Male)->ﻭ</li>
-    <li>beggars_e_a(beggars0_gender!=Male)->ﺍ</li>
+    <li>beggars_e_a(beggars0_gender!=Male)->ﻰﻟﺇ</li>
     <!-- founder -->
     <li>founder_o_a(founder_gender==Male)->ﻭﺃ</li>
-    <li>founder_o_a(founder_gender!=Male)->ﺍ</li>
-    <li>founder_Heroe(founder_gender==Male)->ﻞﻄﺑ</li>
-    <li>founder_Heroe(founder_gender!=Male)->ﺔﻠﻄﺑ</li>
+    <li>founder_o_a(founder_gender!=Male)->ﻰﻟﺇ</li>
+    <li>founder_Heroe(founder_gender==Male)->ٌﻞﻄﺑ</li>
+    <li>founder_Heroe(founder_gender!=Male)->ٌﺔﻠﻄﺑ</li>
     <!-- pilgrim -->
     <li>childGender(pawns0==Male)->ﻞﻔﻃ</li>
-    <li>childGender(pawns0!=Male)->ﺓﺎﺘﻓ</li>
-    <li>siendo(pilgrimCount==1,pawns0==Male)->ﻡﺮﺘﺤُﻳ</li>
-    <li>siendo(pilgrimCount==1,pawns0!=Male)->ﻡﺮﺘﺤُﻳ</li>
+    <li>childGender(pawns0!=Male)->ﺓﺮﻴﻐﺻ ﺓﺎﺘﻓ</li>
+    <li>siendo(pilgrimCount==1,pawns0==Male)->ًﺎﻣﺮﺘﺤﻣ ﻦُﻛ</li>
+    <li>siendo(pilgrimCount==1,pawns0!=Male)->ﻡﺮﺘﺤُﺗ</li>
     <li>siendo(pilgrimCount>=2)->ﻥﻮﻣَﺮﺘﺤُﻳ</li>
-    <li>mayOffers(pilgrimCount==1)->ﺪﻗ</li>
-    <li>mayOffers(pilgrimCount>=2)->ْﻥﺃ ُﻦِﻜْﻤُﻳ</li>
+    <li>mayOffers(pilgrimCount==1)->ﻥﻮﻜﻳ ﺪﻗ</li>
+    <li>mayOffers(pilgrimCount>=2)->ﻥﻮﻌﻴﻄﺘﺴﻳ</li>
     <!--Tales Jobs-->
     <!-- PAWN-->
     <li>PAWN_o_a(PAWN_gender!=Female)->ﻭﺃ</li>
-    <li>PAWN_o_a(PAWN_gender==Female)->ﺍ</li>
+    <li>PAWN_o_a(PAWN_gender==Female)->ﻰﻟﺇ</li>
     <li>pawn_o_a(pawn_gender!=Female)->ﻭﺃ</li>
-    <li>pawn_o_a(pawn_gender==Female)->ﺍ</li>
+    <li>pawn_o_a(pawn_gender==Female)->ﻰﻟﺇ</li>
     <!-- SURGEON-->
     <li>SURGEON_o_a(SURGEON_gender!=Female)->ﻭﺃ</li>
-    <li>SURGEON_o_a(SURGEON_gender==Female)->ﺍ</li>
+    <li>SURGEON_o_a(SURGEON_gender==Female)->ﻰﻟﺇ</li>
     <!-- VICTIM-->
     <li>VICTIM_o_a(VICTIM_gender!=Female)->ﻭﺃ</li>
-    <li>VICTIM_o_a(VICTIM_gender==Female)->ﺍ</li>
+    <li>VICTIM_o_a(VICTIM_gender==Female)->ﻰﻟﺇ</li>
     <!-- KILLER-->
     <li>KILLER_o_a(KILLER_gender!=Female)->ﻭﺃ</li>
-    <li>KILLER_o_a(KILLER_gender==Female)->ﺍ</li>
+    <li>KILLER_o_a(KILLER_gender==Female)->ﻰﻟﺇ</li>
     <!-- JOINER-->
     <li>JOINERTales_o_a(JOINER_gender!=Female)->ﻭﺃ</li>
-    <li>JOINERTales_o_a(JOINER_gender==Female)->ﺍ</li>
+    <li>JOINERTales_o_a(JOINER_gender==Female)->ﻰﻟﺇ</li>
     <!--TRAINER-->
     <li>TRAINER_o_a(TRAINER_gender!=Female)->ﻭﺃ</li>
-    <li>TRAINER_o_a(TRAINER_gender==Female)->ﺍ</li>
+    <li>TRAINER_o_a(TRAINER_gender==Female)->ﻰﻟﺇ</li>
     <!--SLEEPER-->
     <li>SLEEPER_o_a(SLEEPER_gender!=Female)->ﻭﺃ</li>
-    <li>SLEEPER_o_a(SLEEPER_gender==Female)->ﺍ</li>
+    <li>SLEEPER_o_a(SLEEPER_gender==Female)->ﻰﻟﺇ</li>
     <!--ATTENDER-->
     <li>ATTENDER_o_a(ATTENDER_gender!=Female)->ﻭﺃ</li>
-    <li>ATTENDER_o_a(ATTENDER_gender==Female)->ﺍ</li>
+    <li>ATTENDER_o_a(ATTENDER_gender==Female)->ﻰﻟﺇ</li>
     <!--SENDER-->
     <li>un_una_sender(ATTENDER_gender!=Female)->ﺪﺣﺍﻭ</li>
     <li>un_una_sender(ATTENDER_gender==Female)->ﺓﺪﺣﺍﻭ</li>
     <!-- Book_Descriptions -->
     <!--ANYPAWN -->
     <li>ANYPAWN_o_a(ANYPAWN_gender!=Female)->ﻭﺃ</li>
-    <li>ANYPAWN_o_a(ANYPAWN_gender==Female)->ﺍ</li>
+    <li>ANYPAWN_o_a(ANYPAWN_gender==Female)->ﻰﻟﺇ</li>
     <!--Reglas Normales-->
     <li>TransOf->ﻦﻣ</li>
     <li>Trans->ِﻝ</li>
@@ -436,7 +436,7 @@
     <li>AnimalBadassAny->[AnimalBadass_Fem]</li>
     <li>AnimalBadassAny_Cap->[AnimalBadass_Cap]</li>
     <li>AnimalBadassAny_Cap->[AnimalBadass_FemCap]</li>
-    <li>AnimalBadassDefCap->[AnimalBadass] ﻝﺍ</li>
+    <li>AnimalBadassDefCap->[AnimalBadass] ـﻝﺍ</li>
     <li>AnimalBadassDefCap->[AnimalBadass_Fem] ـﻝﺍ</li>
     <li>AnimalBadassAnyPl->[AnimalBadass_Plural]</li>
     <li>AnimalBadassAnyPl->[AnimalBadass_FemPlural]</li>
@@ -454,11 +454,11 @@
     <li>ApparelIndef->[Apparel_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>BusinessTypeAny->[BusinessType]</li>
     <li>BusinessTypeAny->[BusinessType_Fem]</li>
-    <li>BusinessTypeAny_def->[BusinessType] ﻝﺍ</li>
+    <li>BusinessTypeAny_def->[BusinessType] ـﻝﺍ</li>
     <li>BusinessTypeAny_def->[BusinessType_Fem] ـﻝﺍ</li>
     <li>BusinessTypeAny_def->[BusinessType_Plural] ـﻝﺍ</li>
     <li>BusinessTypeAny_def->[BusinessType_FemPlural] ـﻝﺍ</li>
-    <li>BusinessTypeAny_def_Cap->[BusinessType_Cap] ﻝﺍ</li>
+    <li>BusinessTypeAny_def_Cap->[BusinessType_Cap] ـﻝﺍ</li>
     <li>BusinessTypeAny_def_Cap->[BusinessType_FemCap] ـﻝﺍ</li>
     <li>BodyPartAny->[BodyPart]</li>
     <li>BodyPartAny->[BodyPart_Fem]</li>
@@ -472,7 +472,7 @@
     <li>ConceptAny_Fem->[ConceptPositive_Fem]</li>
     <li>ConceptAny_Fem->[ConceptBadass_Fem]</li>
     <li>ConceptAny_Fem->[ConceptAngsty_Fem]</li>
-    <li>ConceptAnyDef->[ConceptAny] ﻝﺍ</li>
+    <li>ConceptAnyDef->[ConceptAny] ـﻝﺍ</li>
     <li>ConceptAnyDef->[ConceptAny_Fem] ـﻝﺍ</li>
     <li>ConceptAnyFull->[ConceptAny]</li>
     <li>ConceptAnyFull->[ConceptAny_Fem]</li>
@@ -497,17 +497,17 @@
     <li>CharacterIndef(p=6)->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>CharacterIndef(p=4)->[Animal] ﺪﺣﺍﻭ</li>
     <li>CharacterIndef(p=4)->[Animal_Fem] ﺓﺪﺣﺍﻭ</li>
-    <li>CharacterIndef(p=3)->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndef(p=3)->[Enemy] ّﻭﺪﻋ</li>
     <li>CharacterIndef->[Mechanoid] ﻲﻜﻴﻧﺎﻜﻴﻣ</li>
     <li>CharacterIndefMas(p=6)->[PersonJob] ﺪﺣﺍﻭ</li>
     <li>CharacterIndefMas(p=4)->[Animal] ﺪﺣﺍﻭ</li>
-    <li>CharacterIndefMas(p=3)->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>CharacterIndefMas(p=3)->[Enemy] ّﻭﺪﻋ</li>
     <li>CharacterIndefMas->[Mechanoid] ﻲﻜﻴﻧﺎﻜﻴﻣ</li>
     <li>CharacterIndefFem(p=6)->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>CharacterIndefFem(p=4)->[Animal_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>CommunityIndef->[Community] ﺪﺣﺍﻭ</li>
     <li>CommunityIndef->[Community_Fem] ﺓﺪﺣﺍﻭ</li>
-    <li>CommunityDef->[Community] ﻝﺍ</li>
+    <li>CommunityDef->[Community] ـﻝﺍ</li>
     <li>CommunityDef->[Community_Fem] ـﻝﺍ</li>
     <li>CommunityAny->[Community]</li>
     <li>CommunityAny->[Community_Fem]</li>
@@ -515,7 +515,7 @@
     <li>GameAny->[Game_Fem]</li>
     <li>GameAny->[Game_Plural]</li>
     <li>GameAny->[Game_FemPlural]</li>
-    <li>EnemyIndef->[Enemy] ﺪﺣﺍﻭ</li>
+    <li>EnemyIndef->[Enemy] ّﻭﺪﻋ</li>
     <li>EnemyIndef->[Enemy_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>PersonJobIndef->[PersonJob] ﺪﺣﺍﻭ</li>
     <li>PersonJobIndef->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
@@ -526,7 +526,7 @@
     <li>MechanoidAnyPl->[Mechanoid_FemPl]</li>
     <li>MechanoidAnyPl->[Mechanoid_Plural]</li>
     <li>Quantity_adjphrase->ﻥﺎﻨﺛﺇ</li>
-    <li>Quantity_adjphrase->ﺔﺛﺎﻠﺛ</li>
+    <li>Quantity_adjphrase->ﺔﺛﻼﺛ</li>
     <li>Quantity_adjphrase->ﺔﻌﺑﺭﺃ</li>
     <li>Quantity_adjphrase->ﺔﺴﻤﺧ</li>
     <li>Quantity_adjphrase->ﺔﺘﺳ</li>
@@ -534,13 +534,13 @@
     <li>Quantity_adjphrase->ﺔﻴﻧﺎﻤﺛ</li>
     <li>Quantity_adjphrase->ﺔﻌﺴﺗ</li>
     <li>Quantity_adjphrase->ﺓﺮﺸﻋ</li>
-    <li>Quantity_adjphrase->ﺩﺪﻌﺘﻣ</li>
+    <li>Quantity_adjphrase->ﺓﺩﺪﻌﺘﻣ</li>
     <li>Quantity_adjphrase->ﻦﻣ ﺔﻋﻮﻤﺠﻣ</li>
     <li>Quantity_adjphrase->ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻋﻮﻤﺠﻣ</li>
     <li>Quantity_adjphrase->ﻦﻣ ﺕﺍﺮﺸﻋ</li>
     <li>Quantity_adjphrase->ﻦﻣ ﺕﺎﺌﻣ</li>
     <li>Quantity_adjphrase->ﻒﻟﺃ</li>
-    <li>Quantity_adjphrase->ﻦﻣ ﻑﺎﻟﺁ</li>
+    <li>Quantity_adjphrase->ﻦﻣ ﻑﻻﺁ</li>
     <li>Shape->ﺚﻠﺜﻣ</li>
     <li>Shape->ﻊﺑﺮﻣ</li>
     <li>Shape->ﻞﻴﻄﺘﺴﻣ</li>
@@ -556,7 +556,7 @@
     <li>ShapeDef->[Shape_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>ShapeAny->[Shape]</li>
     <li>ShapeAny->[Shape_Fem]]</li>
-    <li>Shape_Plural->ﻝﺎﻜﺷﺃ[ShapeAny]</li>
+    <li>Shape_Plural->ﺱ[ShapeAny]</li>
     <li>Shape_Plural->[Shape_VarPl]</li>
     <li>PersonJobAny->[PersonJob]</li>
     <li>PersonJobAny->[PersonJob_Fem]</li>
@@ -564,18 +564,18 @@
     <li>PersonIndef->[PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>PersonFamilyAny->[PersonFamily]</li>
     <li>PersonFamilyAny->[PersonFamily_Fem]</li>
-    <li>PersonFamilyAal->[PersonFamily] ﻝﺍ</li>
+    <li>PersonFamilyAal->[PersonFamily] ﻝﺁ</li>
     <li>PersonFamilyAal->[PersonFamily_Fem] ﻰﻟﺇ</li>
     <li>PersonFamilyDef->[PersonFamily] ﺔﻠﺋﺎﻋ ﻦﻣ</li>
-    <li>PersonFamilyDef->[PersonFamily_Fem] ﻦﻣ</li>
+    <li>PersonFamilyDef->[PersonFamily_Fem] ـﻝﺍ ﻦﻣ</li>
     <li>PersonalCharacteristic(p=0.15)->ﺔﻴﻠﺳﺎﻨﺗ ﺀﺎﻀﻋﺃ</li>
     <li>PersonalCharacteristic(p=0.15)->ﺔﻧﺎﻌﻟﺍ ﺮﻌﺷ</li>
     <li>PersonalCharacteristic(p=0.15)->ﻢﺴﺠﻟﺍ ﺮﻌﺷ</li>
-    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺼﺨﺸﻟﺍ ﺔﻓﺎﻈﻨﻟﺍ ﺕﺍﺩﺎﻋ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻓﺎﻈﻨﻟﺍ ﺓﺩﺎﻋ</li>
     <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺴﻨﺟ ﺔﻋﺍﺮﺑ</li>
-    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺴﻨﺟ ﺕﺎﻠﻴﻀﻔﺗ</li>
+    <li>PersonalCharacteristic(p=0.15)->ﺔﻴﺴﻨﺟ ﺕﻼﻴﻀﻔﺗ</li>
     <li>PersonalCharacteristic_Fem(p=0.15)->ﺔﻴﺴﻨﺟ ﺔﺑﺮﺠﺗ</li>
-    <li>PersonalCharacteristicDef->[PersonalCharacteristic] ﻝﺍ</li>
+    <li>PersonalCharacteristicDef->[PersonalCharacteristic] ـﻝﺍ</li>
     <li>PersonalCharacteristicDef->[PersonalCharacteristic_Fem] ـﻝﺍ</li>
     <li>TerrainFeatureAny->[TerrainFeature]</li>
     <li>TerrainFeatureAny->[TerrainFeature_Fem]</li>
@@ -591,7 +591,7 @@
     <li>TreeTypeIndef->[TreeType_Fem] ﺓﺪﺣﺍﻭ</li>
     <li>VegetableAny->[Vegetable]</li>
     <li>VegetableAny->[Vegetable_Fem]</li>
-    <li>VegetableDef->[Vegetable] ﻝﺍ</li>
+    <li>VegetableDef->[Vegetable] ـﻝﺍ</li>
     <li>VegetableDef->[Vegetable_Fem] ـﻝﺍ</li>
     <li>VegetableIndef->[Vegetable] ﺪﺣﺍﻭ</li>
     <li>VegetableIndef->[Vegetable_Fem] ﺓﺪﺣﺍﻭ</li>
@@ -653,40 +653,40 @@
     <li>TalkTopicAny->[TalkTopicHeavy]</li>
     <li>TalkTopicHeavy->[talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﻂﺑﺍﺮﻟﺍ</li>
-    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﻝﺎﺼﺗﺎﻟﺍ</li>
-    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﺔﻗﺎﻠﻌﻟﺍ</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﻝﺎﺼﺗﻻﺍ</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicheavyfile] ﻭ [talktopicheavyfile] ﻦﻴﺑ ﺔﻗﻼﻌﻟﺍ</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
     <li>TalkTopicLight->ﺕﺍﻭﺮﻀﺧ[VegetableAny]</li>
-    <li>TalkTopicLight->ﺓ[VegetableAny] ﻞﻛﺃ</li>
-    <li>TalkTopicLight->ﺱ[VegetableAny] ﺦﺒﻃ</li>
+    <li>TalkTopicLight->ﺓ[VegetableAny] ﻞﻛﺄﻳ</li>
+    <li>TalkTopicLight->ﺓ[VegetableAny] ﺦﺒﻃ</li>
     <li>TalkTopicLight->[GameAny]</li>
     <li>TalkTopicLight->[GameAny] ﺐﻌﻠﻳ</li>
     <li>TalkTopicLight->[GameAny] ﺱﺭﺎﻤﻳ</li>
     <li>TalkTopicLight->[GameAny] ﻢّﻠﻌﺗ</li>
     <li>TalkTopicLight->[AnimalAnyPl]</li>
-    <li>TalkTopicLight->[AnimalAnyPl] ﺐﻳﺭﺪﺗ</li>
-    <li>TalkTopicLight->[AnimalAnyPl] [AnimalAnyPl] ﻦﻴِﺟْﺪَﺗ</li>
+    <li>TalkTopicLight->[AnimalAnyPl] ﺕﺍ ﺐﻳﺭﺪﺗ</li>
+    <li>TalkTopicLight->[AnimalAnyPl] ﻦﻴِﺟْﺪَﺗ</li>
     <li>TalkTopicLight->[AnimalAnyPl] ﻞﺗﺎﻘﻳ</li>
     <li>TalkTopicLight->ﺔﻧﻮﻨﺠﻣ [Animal_Plural]</li>
     <li>TalkTopicLight->ﺕﺎﻧﻮﻨﺠﻣ [Animal_FemPlural]</li>
     <li>TalkTopicLight->[WeaponAnyPl]</li>
     <li>TalkTopicLight->[WeaponAnyPl] ﻡﺍﺪﺨﺘﺳﺍ</li>
     <li>TalkTopicLight->[WeaponAnyPl] ﻰﻠﻋ ﺏﺭﺪﺘﻟﺍ</li>
-    <li>TalkTopicLight->ﺔﻴﻌﻴﺒﻃ ﺀﺎﻴﺷﺃ[TerrainFeatureAny]</li>
-    <li>TalkTopicLight->[نوع الشجرة] ﺭﺎﺠﺷﺃ[NaturalObject]</li>
-    <li>TalkTopicLight->ﻥﻭـ[TreeTypeAny]</li>
-    <li>TalkTopicLight->[وظيفة الشخص] ﺩﺍﺮﻓﺃ[PersonJobAny]</li>
-    <li>TalkTopicLight->ﻥﻭﺩﻭﺩﻭ[PersonJobAny]</li>
-    <li>TalkTopicLight->ﺀﺍﺪﻋﺃ[PersonJobAny]</li>
-    <li>TalkTopicLight->s[العدو] ﻞﺗﺎﻘﻳ[Enemy]</li>
+    <li>TalkTopicLight->ﺱ[TerrainFeatureAny]</li>
+    <li>TalkTopicLight->ﺭﺎﺠﺷﺃ[NaturalObject]</li>
+    <li>TalkTopicLight->ﺱ[TreeTypeAny]</li>
+    <li>TalkTopicLight->ﺩﺍﺮﻓﺃ[PersonJobAny]</li>
+    <li>TalkTopicLight->ﻥﻭﺩﻭﺩﻭ ﺩﺍﺮﻓﺃ[PersonJobAny]</li>
+    <li>TalkTopicLight->ﻥﻮﻳﺩﺎﻌﻣ ﺀﺍﺪﻋﺍ[PersonJobAny]</li>
+    <li>TalkTopicLight->ﻞﺗﺎﻘﻳ[Enemy]</li>
     <li>TalkTopicLight->s[Enemy] ﻊﻣ ﻞﺗﺎﻘﻳ</li>
-    <li>TalkTopicLight->[الملابس] ﻱﺪﺗﺮﻳ[Apparel]</li>
-    <li>TalkTopicLight->s[Apparel] ﻊﻨﺻ</li>
-    <li>TalkTopicLight->ﺱ[Apparel] ﻊﻨﺼﻳ</li>
+    <li>TalkTopicLight->ﻱﺪﺗﺮﻳ[Apparel]</li>
+    <li>TalkTopicLight->ﺓ[Apparel] ﻊﻨﺻ</li>
+    <li>TalkTopicLight->ﺏﺎﻴﺛ[Apparel] ﻊﻨﺼﻳ</li>
     <li>talktopicheavyfile(p=0.15)->ﺲﻨﺠﻟﺍ</li>
-    <li>talktopicheavyfile(p=0.15)->ﺀﺍﻮﻏﺈﻟﺍ</li>
-    <li>talktopicheavyfile(p=0.15)->ﻥﺍﻮﻴﺤﻟﺍ ﺲﻨﺟ</li>
-    <li>talktopicheavyfile(p=0.15)->ﺔَّﻴِﺴْﻨِﺟ ﺕﺎَﺳَﻮَﻫ</li>
+    <li>talktopicheavyfile(p=0.15)->ﺀﺍﻮﻏﻹﺍ</li>
+    <li>talktopicheavyfile(p=0.15)->ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺲﻨﺟ</li>
+    <li>talktopicheavyfile(p=0.15)->ٌﺔَّﻴِﺴْﻨِﺟ ٌﺕﺎَﺳَﻮَﻫ</li>
   </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: try to get to know -->
   <BuildRapport.label>ﻰﻠﻋ ﻑﺮﻌﺘﻠﻟ ﺔﻟﻭﺎﺤﻣ</BuildRapport.label>
   <!-- EN:
@@ -40,41 +40,42 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>r_logentry->.[RECIPIENT_nameDef] ﻰﻟﺇ [subject] ﻦﻋ [toldastoryabout] [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[subject] ﻦﻋ [RECIPIENT_nameDef] ﺮﺒﺧﺃ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[subject] ﻦﻋ [RECIPIENT_nameDef] ﻝ ﻒﺻﻭ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[subject] ﻦﻋ [talkabout] ﻰﻟﺇ [RECIPIENT_nameDef] ﻊﺠﺷ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[subject] ﻝﻮﺣ [talkabout] [RECIPIENT_nameDef] ـﻝ ﻡﺪﻗ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[RECIPIENT_nameDef] ـﻝ [PersonalCharacteristicDef] ـﺏ ﻪﻣﺎﻤﺘﻫﺍ ﻯﺪﺑﺃ [INITIATOR_nameDef]</li>
-    <li>r_logentry->.[PersonalCharacteristic] ﻦﻋ [RECIPIENT_nameDef] ﻝﺄﺳ [INITIATOR_nameDef]</li>
-    <li>toldastoryabout(p=2)->ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->ﺔﻜﺤﻀﻣ ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->.ﺔﻗﺩﺎﺻ ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->ﺔﻤﻳﺪﻗ ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->ﺔﻴﻠﺋﺎﻋ ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->ﻪﺘﻟﻮﻔﻃ ﻦﻋ ﺔﺼﻗ ﻯﻭﺭ</li>
-    <li>toldastoryabout->ﺔﻳﺎﻜﺣ ﺮﻛﺫ</li>
-    <li>talkabout->ﻦﻋ ﺙﺪﺤﺘﻳ</li>
-    <li>talkabout->ﺶﻗﺎﻨﻳ</li>
-    <li>talkabout->ﺶﻗﺎﻨﻳ</li>
-    <li>talkabout->ﻦﻋ ﻝﺄﺴﻳ</li>
-    <li>talkabout->ﻲﻓ ﺮﻜﻓﺃ</li>
-    <li>talkabout->ﺔﻛﺮﺘﺸﻣ ﻁﺎﻘﻧ ﺩﺎﺠﻳﺇ</li>
-    <li>subject->ﺓﺮﻤﻌﺘﺴﻤﻟﺍ</li>
-    <li>subject->ﻊﻤﺘﺠﻤﻟﺍ</li>
-    <li>subject->ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﺎﻤﻀﻧﺍ</li>
-    <li>subject->ﻕﺮﻔﻟﺍ ﻞﻳﺪﺒﺗ</li>
-    <li>subject->ﺔﻗﺍﺪﺻ</li>
-    <li>subject->ﺩﺪﺟ ﺹﺎﺨﺷﺃ ﺀﺎﻘﻟ</li>
-    <li>subject->ﻦﻳﺩ</li>
-    <li>subject->[المالك] ﺕﺍﺀﺎﻟﻭ ﻢﻴﻴﻘﺗ ﺓﺩﺎﻋﺇ</li>
-    <li>subject->ﻢﻬﺘﺤﺻ</li>
-    <li>subject->ﻢﻬﻠﺒﻘﺘﺴﻣ</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] إلى [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] أخبر [RECIPIENT_nameDef] عن [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] وصف [subject] لـ [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] شجع [RECIPIENT_nameDef] على [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] قدّم لـ [RECIPIENT_nameDef] فرصة لـ [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] أبدى اهتمامه بـ [PersonalCharacteristicDef] لدى [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] سأل [RECIPIENT_nameDef] عن [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->روى قصة</li>
+    <li>toldastoryabout->روى قصة مضحكة</li>
+    <li>toldastoryabout->روى قصة صادقة</li>
+    <li>toldastoryabout->روى قصة قديمة</li>
+    <li>toldastoryabout->روى قصة عائلية</li>
+    <li>toldastoryabout->روى قصة من طفولته</li>
+    <li>toldastoryabout->ذكر حكاية</li>
+    <li>talkabout->يتحدث عن</li>
+    <li>talkabout->يناقش</li>
+    <li>talkabout->يتداول</li>
+    <li>talkabout->يسأل عن</li>
+    <li>talkabout->أفكر في</li>
+    <li>talkabout->إيجاد نقاط مشتركة</li>
+    <li>subject->المستعمرة</li>
+    <li>subject->المجتمع</li>
+    <li>subject->الانضمام إلى المستعمرة</li>
+    <li>subject->تبديل الفريق</li>
+    <li>subject->صداقة</li>
+    <li>subject->لقاء أشخاص جدد</li>
+    <li>subject->إعادة النظر في أفكار [RECIPIENT_possessive]</li>
+    <li>subject->إعادة تقييم ولاءات [RECIPIENT_possessive]</li>
+    <li>subject->الصحة</li>
+    <li>subject->المستقبل</li>
+    <li>subject->التخلي</li>
     <li>subject(p=4)->[ConceptPositive]</li>
-    <li>subject(p=2)->[PersonalCharacteristic] ﻪﺑ</li>
+    <li>subject(p=2)->[PersonalCharacteristic] لـ [INITIATOR_possessive]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: recruit attempt -->
   <RecruitAttempt.label>ﺪﻴﻨﺠﺗ ﺔﻟﻭﺎﺤﻣ</RecruitAttempt.label>
   <!-- EN:
@@ -96,7 +97,7 @@
     <li>goodthing->ﻢﻬﺗﺎﻴﺣ ﻦﻴﺴﺤﺗ</li>
     <li>goodthing->ﺔﻤﻌﻃﺄﻟﺍ ﻞﻀﻓﺃ</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: spark jailbreak -->
   <SparkJailbreak.label>ﻦﺠﺴﻟﺍ ﻲﻓ ﺓﺭﻮﺛ ﻉﺎﻟﺪﻧﺍ</SparkJailbreak.label>
   <!-- EN:
@@ -119,5 +120,5 @@
     <li>freedom->ﺮﻳﺮﺤﺗ</li>
     <li>freedom->ﻲﺗﺍﺫ ﻢﻜﺣ</li>
   </SparkJailbreak.logRulesInitiator.rulesStrings>
-  
+
 </LanguageData>

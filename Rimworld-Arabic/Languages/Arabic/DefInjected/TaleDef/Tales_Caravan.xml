@@ -31,24 +31,24 @@
     <li>tale_noun->ﺡﺎﺠﻨﺑ ﺖﻌﻓﺍﺩ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>tale_noun->ًﺎﻨﻴﻤﻛ ﺖﻠﺗﺎﻗ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ ﻉﺎﻓﺪﻟﺍ ﻢﻈﻨﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺀﺎﻨﺛﺃ ﺎًﻋﺎﻓﺩ [WeaponIndef] ـﺏ ﺎًﻜﺴﻤﻣ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺀﺎﻨﺛﺃ ﺎًﻌﻓﺍﺪﻣ [WeaponIndef] ـﺏ ﺎًﻜﺴﻤﻣ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ [WeaponIndef] ـﺏ ًﺍﺩﺭ ﻢﺟﺎﻬﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ ﺀﺎﻨﺒﻛ ﺎًﻠﻳﻮﻃ ﻒﻘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ ﺀﺎﻨﺒﻟﺎﻛ ﺎًﺨﻣﺎﺷ ﻒﻘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ[AdjectiveBadass] ﻪﺟﻮﺑ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺎﻤﻨﻴﺑ[AdjectiveAngsty] ﻪﺟﻮﺑ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->.ﻡﺪﻘﺘﻤﻟﺍ ﺪﺸﺤﻟﺍ ﺔﻬﺟﺍﻮﻤﻟ ﺪﻌﺘﺴﻳ</li>
-    <li>circumstance_phrase->ﺕﺎﺑﺮﻌﻟﺍ ﻝﻮﺣ ﺭﻭﺪﻳ</li>
+    <li>circumstance_phrase->.ﻒﺣﺍﺰﻟﺍ ﺪﺸﺤﻟﺍ ﺔﻬﺟﺍﻮﻤﻟ ﺪﻌﺘﺴﻳ</li>
+    <li>circumstance_phrase->ﺕﺎﺑﺮﻌﻟﺍ ﻝﻮﺣ ﻥﻭﺭﻭﺪﻳ</li>
     <li>circumstance_phrase->!ًﺍﺮﺼﺘﻨﻣ ﻒﺘﻬﻳ</li>
-    <li>circumstance_phrase->[WeaponAnyPl] [WeaponAnyPl]ـﺏ ﺡّﻮﻠﺗ/ّﺰﻬﻳ</li>
-    <li>circumstance_phrase->[Gore_Plural] ـﺏ ﻰﻄﻐﻣ</li>
+    <li>circumstance_phrase->[WeaponAnyPl] ّﺰﻬﻳ</li>
+    <li>circumstance_phrase->[Gore_Plural] ـﺏ ﺪﺴﺠﻟﺍ ﻰﻄﻐﻣ</li>
     <li>desc_sentence->.[WeaponCacAnyPl] ـﺏ ﻥﻮﺣﻮﻠﻳ ﻢﻫﻭ ﻥﻮﻣﺪﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[WeaponCacAnyPl] ـﺏ ﺎﻜﺴﻤﻣ ﻡﺪﻘﺘﻳ[Enemy] ﻦﻣ ﻢﻴﻈﻋ ﺶﻴﺟ</li>
     <li>desc_sentence->.[AdjectiveBadass] ﺓﺮﻈﻨﺑ ﻥﻮﻣﺪﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.[AdjectiveAngsty] ﺓﺮﻈﻨﺑ ﻥﻮﻣﺪﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.[AdjectiveAngsty] ﻪﺟﻮﺑ ﻥﻮﻣﺪﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﻢﻬﻨﻴﻋﺃ ﻲﻓ [Color] ﺞﻫﻮﺑ ﻥﻮﻣﺪﻘﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[Gore_Plural] ﺏ ﺓﺎﻄﻐﻣ ﻥﻮﻣﺪﻘﺘﻳ [Animal_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.[Gore_Plural] ﺏ ﺓﺎﻄﻐﻣ ﻡﺪﻘﺘﺗ [Animal_FemPlural] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.[Gore_Plural] ﺏ ﺓﺎﻄﻐﻣ ﺽﺭﺄﻟﺍ</li>
+    <li>desc_sentence->.[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ ﺽﺭﻷﺍ</li>
     <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﻬﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﻬﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
@@ -75,21 +75,21 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <CaravanAssaultSuccessful.rulePack.rulesStrings>
-    <li>tale_noun->ًﺎﻳﻭﺪﻋ ًﺎﻠﻘﻌﻣ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
+    <li>tale_noun->ًﺎﻳﻭﺪﻋ ًﻼﻘﻌﻣ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>image->[circumstance_group] ،[Enemy] ﻮﺤﻧ ﺾﻛﺮﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[WeaponCacIndef] ـﺏ ﺎًﻜﺴﻤﻣ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[WeaponCacIndef] ـﺏ ﻢﺟﺎﻬﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ،ﺮﺨﻔﺑ ﺎًﺒﺼﺘﻨﻣ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ،ﺎًﺨﻣﺎﺷ ﻒﻘﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ [AdjectiveBadass] ﺮﻴﺒﻌﺘﺑ</li>
-    <li>circumstance_phrase->ﺎﻬﻴﻨﻴﻋ ﻲﻓ [AdjectiveAngsty] ﺮﻴﺒﻌﺘﺑ</li>
+    <li>circumstance_phrase->ﻪﻴﻨﻴﻋ ﻲﻓ [AdjectiveAngsty] ﺮﻴﺒﻌﺘﺑ</li>
     <li>circumstance_phrase->[PAWN_o_a]ًﺍﺮﺼﺘﻨﻣ ﻒﺘﻬﻳ</li>
-    <li>circumstance_phrase->[Gore_Plural] ـﺏ ﻰﻄﻐﻣ</li>
-    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ [العدو] [الكمية_الصفة] ﺏﺮﻬﻳ[Enemy] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ [الأعداء] [الكمية_الصفة] ﺏﺮﻬﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>circumstance_phrase->[Gore_Plural] ـﺏ ﺪﺴﺠﻟﺍ ﻰﻄﻐﻣ</li>
+    <li>desc_sentence->.ﻡﻮﺠﻬﻟﺍ ﻦﻣ ﺏﺮﻬﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﺏﺮﻬﻳ[Enemy] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺢﺿﺍﻭ ﻞﻜﺸﺑ ﻥﻮﺑﺎﺼﻣ ﺀﺍﺪﻋﺃ[Enemy] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ ﻞﻌﺘﺸﺗ [CommunityIndef]</li>
-    <li>desc_sentence->.ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ ُﻦِّﺧَﺪُﺗ [CommunityIndef]</li>
-    <li>desc_sentence->.[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ ﺽﺭﺄﻟﺍ</li>
+    <li>desc_sentence->.ﻖﻓﻷﺍ ﻲﻓ ﻞﻌﺘﺸﺗ [CommunityIndef]</li>
+    <li>desc_sentence->.ﺪْﻌُﺑ ﻰﻠﻋ ُﻦِّﺧَﺪُﺗ [CommunityIndef]</li>
+    <li>desc_sentence->.[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ ﺽﺭﻷﺍ</li>
     <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﻬﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻦﻣ ﻥﻮﺑﺮﻬﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
@@ -122,20 +122,20 @@
     <li>tale_noun->ﺮﻄﺨﻟﺍ ﻦﻣ ﺏﺮﻬﺗ ﺖﻧﺎﻛ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>tale_noun->ﺮﻄﺨﻟﺍ ﻦﻣ ﺏﺮﻬﺗ ﺖﻧﺎﻛ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>tale_noun->ﺮﻄﺨﻟﺍ ﻦﻣ ﺩﺎﻜﻟﺎﺑ ﺏﺮﻬﺗ ﺖﻧﺎﻛ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
-    <li>tale_noun->ﺀﺍﺪﻋﺄﻟﺍ ﻞﺒﻗ ﻦﻣ ﺓﺩﺭﺎﻄﻣ ﺖﻧﺎﻛ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
+    <li>tale_noun->ﺀﺍﺪﻋﻷﺍ ﻞﺒﻗ ﻦﻣ ﺓﺩﺭﺎﻄﻣ ﺖﻧﺎﻛ [PAWN_nameDef] ﺔﻠﻓﺎﻗ</li>
     <li>image->[circumstance_group] ﺎﻳﺮﻴﺘﺴﻬﺑ ﺾﻛﺮﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺔﻋﺮﺴﺑ ﺾﻛﺮﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺎًﺌﺒﺘﺨﻣ[TerrainFeature] ﻒﻠﺧ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺔﺌﺒﺘﺨﻣ[TerrainFeature_Fem] ﻒﻠﺧ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻝﺎﺘﻘﻟﺍ ﻦﻣ ﺏﺎﺤﺴﻧﺎﻠﻟ ﺪﻌﺘﺴﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺀﻭﺪﻬﺑ ﻰﺸﻤﺘﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻝﺎﺘﻘﻟﺍ ﻦﻣ ﺏﺎﺤﺴﻧﻼﻟ ﺪﻌﺘﺴﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ٍﻥﺄﺘﺑ ﻲﺸﻤﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﻪﻧﻭﺩﺭﺎﻄﻳ[Enemy] [Quantity_adjphrase] ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->ﺎﻬﻨﻋ ﻥﻮﺜﺤﺒﻳ[Enemy] [Quantity_adjphrase] ﺎﻤﻨﻴﺑ</li>
     <li>circumstance_phrase->s[Enemy] [Quantity_adjphrase] ﻦﻣ</li>
     <li>circumstance_phrase->[AnimalAnyPl] [Quantity_adjphrase] ﻦﻣ</li>
     <li>circumstance_phrase->[Enemy] [AdjectiveLarge] ﻦﻣ</li>
-    <li>desc_sentence->.[WeaponCacAnyIndefPl] ﻥﺎﺧﺩ [PAWN_nameDef] ﻭﺩﺭﺎﻄﻣ</li>
-    <li>desc_sentence->.[Color] ﺮﻴﺑﺎﻌﺗ [PAWN_nameDef] ﻭﺩﺭﺎﻄﻣ</li>
+    <li>desc_sentence->.[WeaponCacAnyIndefPl] ﻥﺎﺧﺩ ﻢﻬﻔﻠﻳ [PAWN_nameDef] ﻭﺩﺭﺎﻄﻣ</li>
+    <li>desc_sentence->.[Color] ﺕﺍﺮﻴﺒﻌﺗ ﻥﻭﺪﺗﺮﻳ [PAWN_nameDef] ﻭﺩﺭﺎﻄﻣ</li>
     <li>desc_sentence->.[AdjectiveAngsty] ﺮﻴﺒﻌﺗ ﻢﻬﻳﺪﻟ [PAWN_nameDef] ﻭﺩﺭﺎﻄﻣ</li>
     <li>desc_sentence->.ﻕّﺮﻌﺘﻳ [PAWN_nameDef]</li>
     <li>desc_sentence->.ﺚﻬﻠﻳ [PAWN_nameDef]</li>
@@ -163,23 +163,23 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
   -->
   <CaravanFormed.rulePack.rulesStrings>
-    <li>tale_noun->ﺓﺮﻣﺎﻐﻣ ﻲﻓ ﻖﻠﻄﻧﺍ [PAWN_nameDef]</li>
+    <li>tale_noun->ﺓﺮﻣﺎﻐﻤﻟﺍ ﻮﺤﻧ ﻖﻠﻄﻧﺍ [PAWN_nameDef]</li>
     <li>tale_noun->ًﺔﻠﻓﺎﻗ ﻞّﻜﺷ [PAWN_nameDef]</li>
     <li>image->[circumstance_group] ﺔﻌﺳﺍﻭ ﻰﻄﺨﺑ ﻡﺪﻘﺘﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﻖﻓﺄﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ﺔﻠﺣﺮﻟ ﺕﺍﺩﺍﺪﻣﺈﻟﺍ ّﺪِﻌُﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﻖﻓﻷﺍ ﻮﺤﻧ ﺮﻈﻨﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ﺔﻠﺣﺮﻟ ﺕﺍﺩﺍﺪﻣﻹﺍ ﺰّﻬﺠﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ﺔﻠﺣﺮﻟ ﻂﻄﺨﻳ [PAWN_nameFull]</li>
     <li>circumstance_phrase->ﺔﻛﺮﻌﻤﻠﻟ [PAWN_o_a]ﺰﻬﺟﻭ</li>
-    <li>circumstance_phrase->ﺍﻮﺸﻴﻌﻳ ﻲﻜﻟ [PAWN_o_a]ﺰﻬﺠﻣﻭ</li>
-    <li>circumstance_phrase->ﻑﺎﺸﻜﺘﺳﺎﻠﻟ [PAWN_o_a]ﺰﻬﺠﻣﻭ</li>
+    <li>circumstance_phrase->ﺶﻴﻌﻳ ﻲﻜﻟ [PAWN_o_a]ﺰﻬﺠﻣﻭ</li>
+    <li>circumstance_phrase->ﻑﺎﺸﻜﺘﺳﻼﻟ [PAWN_o_a]ﺰﻬﺠﻣﻭ</li>
     <li>circumstance_phrase->ﺔﻔﻬﻠﺘﻣ ﺓﺮﻈﻨﺑ</li>
     <li>circumstance_phrase->ﻪﻧﻮﻴﻋ[PAWN_possessive] ﻲﻓ [AdjectiveAny] ﺓﺮﻈﻨﺑ</li>
-    <li>desc_sentence->.ﺕﺍﺩﺍﺪﻌﺘﺳﺎﻟﺍ [الحلفاء] [عدد_صفة] ﺐﻗﺍﺮﻳ[ally] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺕﺍﺮﻴﻀﺤﺘﻟﺍ ﻲﻓ [الحلفاء] [الكمية_العبارة_الصفية] ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻦﻣ [العدو] [الكمية_العبارة_الصفية] ﺮﻘﻬﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺕﺍﺩﺍﺪﻌﺘﺳﻻﺍ ﺐﻗﺍﺮﻳ[ally] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺕﺍﺩﺍﺪﻌﺘﺳﻻﺍ ﻲﻓ ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺪﻬﺸﻤﻟﺍ ﻦﻋ ﺮﻘﻬﻘﺘﻳ[Enemy] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺪﻴﻌﺑ ﻦﻣ ﻲﺋﺮﻣ [TerrainFeatureIndefCac]</li>
     <li>desc_sentence->.ﺪﻴﻌﺑ ﻦﻣ ﻥﻮﺒﻗﺍﺮﻳ [PersonJob_Plural] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﻡﺎﻠﺴﺑ ﻥﻮﻟﻮﺠﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﻡﻼﺴﺑ ﻥﻮﻟَّﻮﺠﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
   </CaravanFormed.rulePack.rulesStrings>
   
   <!-- EN: caravan remote mining -->
@@ -204,19 +204,19 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <CaravanRemoteMining.rulePack.rulesStrings>
-    <li>tale_noun->ﺓﺪﻴﻌﺑ ﺽﺭﺃ ﻲﻓ [MATERIAL_label] ﻦﻣ ﺎًﻴﻨﻏ ﺍًﺪﻳﺭﻭ {[PAWN_nameDef]} ﺔﻠﻓﺎﻗ ﻒﺸﻜﺘﺳﺍ [PAWN_nameDef]</li>
-    <li>image->[circumstance_group] , [MATERIAL_label] ﻦﻣ ﺔﻌﻄﻗ ﻞﻤﺤﻳ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺔﻌﻄﻗ ﻰﻟﺇ ﺍًﺪﻨﺘﺴﻣ [PAWN_nameFull]</li>
-    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﻲﻨﻏ ﺪﻳﺭﻭ ﺪﺿ ﺮﻔﺣ ﻖﻳﺮﻓ ﻖﺴﻨﻳ [PAWN_nameFull]</li>
+    <li>tale_noun->ﺓﺪﻴﻌﺑ ﺽﺭﺃ ﻲﻓ [MATERIAL_label] ﻦﻣ ًﺎﻴﻨﻏ ًﺎﻗﺮﻋ ﻒﺸﻜﺘﺳﺍ [PAWN_nameDef]</li>
+    <li>image->[circumstance_group] ، [MATERIAL_label] ﻦﻣ ﺔﻌﻄﻗ ﻞﻤﺤﻳ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺔﻌﻄﻘﺑ ﺎًﻜﺴﻤﻣ [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺭﺍﺪﺟ ﻰﻠﻋ ﺡﺪﺴﻨﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﻲﻨﻏ ﻕﺮﻋ ﻲﻓ ﻞﻤﻌﻠﻟ ﺮﻔﺣ ﻖﻳﺮﻓ ﺩﻮﻘﻳ [PAWN_nameFull]</li>
     <li>image->[circumstance_group] ،[MATERIAL_label] ﻦﻣ ﺎًﻴﻨﻏ ﺍًﺪﻳﺭﻭ ﺔﻳﺎﻨﻌﺑ ﺺﺤﻔﺘﻳ [PAWN_nameFull]</li>
-    <li>circumstance_phrase->ﺓﺭﺍﺰﻐﺑ ﻕﺮﻌﺘﻳ</li>
+    <li>circumstance_phrase->ًﺍﺮﻳﺰﻏ ًﺎﻗﺮﻋ ﺐﺒﺼﺘﻳ</li>
     <li>circumstance_phrase->[AdjectiveFriendly] ﺮﻴﺒﻌﺘﺑ</li>
     <li>circumstance_phrase->ﺮﺨﻔﺑ ﺎًﻤﺴﺘﺒﻣ</li>
     <li>circumstance_phrase->ﻪﺟﻭ [PAWN_possessive] ﻰﻠﻋ ﺎﺿﺭ ﺮﻴﺒﻌﺘﺑ</li>
-    <li>circumstance_phrase->.ﺮﻄﺨﻟﺍ ﻦﻋ ﺎًﺜﺤﺑ ﺔﻄﻴﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺪﻘﻔﺘﻳ</li>
-    <li>desc_sentence->.[الحلفاء] [الكمية_صفة] ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
-    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻥﻮﻟﻮﺠﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
+    <li>circumstance_phrase->.ﺮﻄﺧ ﻦﻋ ﺎًﺜﺤﺑ ﺔﻘﻄﻨﻤﻟﺍ ﺪﻘﻔﺘﻳ</li>
+    <li>desc_sentence->.ﺪﻋﺎﺴﻳ[ally] [Quantity_adjphrase]</li>
+    <li>desc_sentence->.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻝّﻮﺠﺘﻳ [AnimalAnyPl] [Quantity_adjphrase]</li>
     <li>desc_sentence->.ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﺖﻗﺆﻣ ﺄﺠﻠﻣ ﺪﺟﻮﻳ</li>
     <li>desc_sentence->ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ ﺔﻴﺋﺮﻣ ﻕﻭﺮﻋ [Quantity_adjphrase] ﻯﺮﺧﺃ</li>
     <li>desc_sentence->.ﺪﻴﻌﺑ ﻦﻣ ﻲﺋﺮﻣ [TerrainFeatureIndefCap]</li>

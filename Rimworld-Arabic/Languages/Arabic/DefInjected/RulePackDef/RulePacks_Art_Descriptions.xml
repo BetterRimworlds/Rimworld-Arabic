@@ -207,22 +207,22 @@
     <li>style_group->[artextra_clause].</li>
     <li>style_group-></li>
     <li>artconjunction(p=6)-></li>
-    <li>artconjunction->،ﻡﺎﻤﺘﻫﺎﻠﻟ ﺮﻴﺜﻣ ﺾﻗﺎﻨﺘﻛ</li>
-    <li>artconjunction->،ﻞﻤﻌﻟﺍ ﻝﺎﻤﻛﺈﻟ</li>
-    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﺈﻟﺎﺑ</li>
-    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﺈﻟﺎﺑ</li>
-    <li>artconjunction->ٍﺯﺍﺰﻔِﺘْﺳﺎِﺑ</li>
+    <li>artconjunction->،ﻡﺎﻤﺘﻫﻼﻟ ﺮﻴﺜﻣ ﺾﻗﺎﻨﺘﻛ</li>
+    <li>artconjunction->،ﻞﻤﻌﻟﺍ ﻝﺎﻤﻛﻹ</li>
+    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ</li>
+    <li>artconjunction->،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ</li>
+    <li>artconjunction->،ﺓﺭﺎﺛﺈﺑ</li>
     <li>artconjunction->ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻬﻟ ﺩﺎﺘﻌﻣ ﺮﻴﻏ ﻞﻜﺸﺑ</li>
-    <li>artconjunction->،ﻪﻌﻗﻮﺘﻳ ﻢﻬﻨﻣ ﻞﻴﻠﻘﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</li>
+    <li>artconjunction->،ﻪﻌﻗﻮﺘﻳ ﺪﻗ ﻞﻴﻠﻘﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</li>
     <li>artconjunction->،ﻚﻟﺫ ﻊﻣﻭ</li>
     <li>artextra_clause->[subimageplural] ـﺏ ﺔﻃﺎﺤﻣ ﺓﺭﻮﺼﻟﺍ</li>
-    <li>artextra_clause->[subimageplural] ﺪﺟﻮﻳ ﺓﺭﻮﺼﻟﺍ ﺔﻓﺎﺣ ﻰﻠﻋ</li>
+    <li>artextra_clause->[subimageplural] ﺪﺟﻮﺗ ﺓﺭﻮﺼﻟﺍ ﺔﻓﺎﺣ ﻰﻠﻋ</li>
     <li>artextra_clause->[side_position] [subimagesingle] ﻙﺎﻨﻫ</li>
     <li>artextra_clause->[subimageany] ﻡﺎﻣﺃ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺎﻴﺼﺨﺸﻟﺍ</li>
     <li>artextra_clause->[subimageany] ﻰﻠﻋ ﺓﺭﻮﺼﻟﺍ ﻦﻣ ﻲﻠﻔﺴﻟﺍ ﺀﺰﺠﻟﺍ ﻦﻤﻴﻬﻳ</li>
-    <li>artextra_clause->[CommunityIndef] ﻂﺳﻭ ﻲﻓ ﺙﺍﺪﺣﺄﻟﺍ ﻱﺮﺠﺗ</li>
-    <li>artextra_clause->[CommunityIndef] ﻑﺍﺮﻃﺃ ﻲﻓ ﺙﺍﺪﺣﺄﻟﺍ ﺭﻭﺪﺗ</li>
-    <li>artextra_clause->[TerrainFeatureIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [CommunityIndef] ﻞﺧﺍﺩ ﺙﺍﺪﺣﺄﻟﺍ ﻱﺮﺠﺗ</li>
+    <li>artextra_clause->[CommunityIndef] ﻂﺳﻭ ﻲﻓ ﺙﺍﺪﺣﻷﺍ ﻱﺮﺠﺗ</li>
+    <li>artextra_clause->[CommunityIndef] ﻲﺣﺍﻮﺿ ﻲﻓ ﺙﺍﺪﺣﻷﺍ ﺭﻭﺪﺗ</li>
+    <li>artextra_clause->[TerrainFeatureIndef] ﻦﻣ ﺏﺮﻘﻟﺎﺑ [CommunityIndef] ﻞﺧﺍﺩ ﺙﺍﺪﺣﻷﺍ ﻱﺮﺠﺗ</li>
     <li>artextra_clause->[CharacterIndef] [idles] [side_position]</li>
     <li>artextra_clause->[CharacterIndefMas] [PAWN_adj] [idles] [side_position]</li>
     <li>artextra_clause->[CharacterIndefFem] [PAWN_adj_Fem] [idles] [side_position]</li>
@@ -230,13 +230,13 @@
     <li>artextra_clause->[side_position] ﻯﺮُﺗ[PAWN_adj] [CharacterEnemyPlural] [Quantity_adjphrase]</li>
     <li>artextra_clause->[AnimalIndef] [idles] [side_position]</li>
     <li>artextra_clause->[subimageany] ـﻝ ﺔﻴﻠﻇ ﺓﺭﻮﺻ ﻦﻋ ﻒﺸﻜﻳ ﺓﺭﻮﺼﻟﺍ ﻦﻳﻮﻜﺗ ﻥﺃ ﻯﺮﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ،ﻚﻴﻨﻴﻋ ﺖﻘﻴﺿ ﺍﺫﺇ</li>
-    <li>artextra_clause->ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [emotional_expression] [PersonJob] ﺱﺃﺭ</li>
-    <li>artextra_clause->ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj_Fem] [emotional_expression] [PersonJob_Fem] ُﺱﺃﺭ</li>
-    <li>artextra_clause->[emotional_expression] ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺔﻠﻣﺎﻛ ﺓﺭﻮﺻ</li>
-    <li>artextra_clause->ﻰﻠﻋﺄﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺪﺣﺍﻭ</li>
+    <li>artextra_clause->ﺎﻤﻨﻴﺑ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [emotional_expression] [PersonJob] ﺱﺃﺭ</li>
+    <li>artextra_clause->ٍﺀﻴﺷ َّﻞﻛ ُﺐﻗﺍﺮﻳ [PAWN_adj_Fem] [emotional_expression] [PersonJob_Fem] ُﺱﺃﺭ</li>
+    <li>artextra_clause->[emotional_expression] ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺪﺣﺍﻭ</li>
+    <li>artextra_clause->ﻰﻠﻋﻷﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﻳ [PAWN_adj] [PersonJob] ﺪﺣﺍﻭ</li>
     <li>artextra_clause->[emotional_expression] ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﺗ [PAWN_adj_Fem] [PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
-    <li>artextra_clause->ﻰﻠﻋﺄﻟﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﺗ [PAWN_adj_Fem] [PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
-    <li>artextra_clause->[subimageplural] ـﻝ ﻖﻴﻗﺪﻟﺍ ﺐﻴﺗﺮﺘﻟﺍ ﻦﻣ ﺔﻠﻣﺎﻜﻟﺍ ﺓﺭﻮﺼﻟﺍ ﻞﻜﺸﺘﺗ</li>
+    <li>artextra_clause->ﻰﻠﻋﻷﺍ ﻦﻣ ﺀﻴﺷ ﻞﻛ ﺐﻗﺍﺮﺗ [PAWN_adj_Fem] [PersonJob_Fem] ﺓﺪﺣﺍﻭ</li>
+    <li>artextra_clause->[subimageplural] ـﻝ ﻖﻴﻗﺩ ﺐﻴﺗﺮﺘﺑ ﺔﻠﻣﺎﻜﻟﺍ ﺓﺭﻮﺼﻟﺍ ﻞﻜﺸﺘﺗ</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
     <li>subimagesingle(p=4)->[CharacterIndef]</li>
@@ -246,21 +246,21 @@
     <li>subimagesingle->[VegetableIndef]</li>
     <li>subimagesingle->[AnimalIndef]</li>
     <li>subimageplural(p=3)->[Quantity_adjphrase] [Character_Plural]</li>
-    <li>subimageplural->[Quantity_adjphrase] [VegetableAny][كمية وصفية] [خضروات]</li>
+    <li>subimageplural->[Quantity_adjphrase] [VegetableAny]</li>
     <li>subimageplural->[Quantity_adjphrase] [Shape_Plural]</li>
-    <li>pawn_adj->ﺖﻴﻣ</li>
+    <li>pawn_adj->ﻢﺴﺘﺒﻣ</li>
     <li>pawn_adj->ﺮﻀﺘﺤﻣ</li>
     <li>pawn_adj->ﺏﺎﺼﻣ</li>
     <li>pawn_adj->ﻢﺋﺎﻧ</li>
     <li>pawn_adj->ﻢﺋﺎﻗ</li>
     <li>pawn_adj->ﺲﻟﺎﺟ</li>
     <li>pawn_adj->ﻥﻮﻨﺠﻣ</li>
-    <li>pawn_adj->ﺏﺎﺷ</li>
-    <li>pawn_adj->ّﻦﺴﻟﺍ ﻲﻓ ﻡِّﺪَﻘَﺘُﻣ</li>
+    <li>pawn_adj->ﺐﺿﺎﻏ</li>
+    <li>pawn_adj->ّﻦِﺴﻟﺍ ﻲﻓ ٌﻡِّﺪَﻘَﺘُﻣ</li>
     <li>pawn_adj->[Gore_Plural] ـﺏ ﻰﻄﻐﻣ</li>
     <li>pawn_adj->ﺦﺴﺘﻣ</li>
     <li>pawn_adj->[ApparelIndef] ﺎًﻳﺪﺗﺮﻣ</li>
-    <li>pawn_adj->[WeaponIndef] ًﺎﻠﻣﺎﺣ</li>
+    <li>pawn_adj->[WeaponIndef] ـﺏ ﺎًﺤﻠﺴﺘﻣ</li>
     <li>pawn_adj->[VegetableIndef] ﻞﻛﺄﻳ</li>
     <li>pawn_adjPl->ﻥﻮﻤﺴﺘﺒﻣ</li>
     <li>pawn_adjPl->ﻥﻮﻤﺋﺎﻧ</li>
@@ -270,7 +270,7 @@
     <li>pawn_adjPl->ﻦﺴﻟﺍ ﺭﺎﺒﻛ</li>
     <li>pawn_adjPl->ﻦﻴﻧﺎﺠﻣ</li>
     <li>pawn_adjPl->ﻥﻮﺒﺿﺎﻏ</li>
-    <li>pawn_adjPl->ﻥﻭﺮﻈﺘﻨﻣ</li>
+    <li>pawn_adjPl->ﻦﻳﺮﻈﺘﻨﻣ</li>
     <li>pawn_adjPl->[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ</li>
     <li>pawn_adjPl->ﻥﻮﻴﺒﺼﻋ</li>
     <li>pawn_adj_Fem->ﻢﺴﺘﺒﻣ</li>
@@ -285,34 +285,34 @@
     <li>pawn_adj_Fem->[Gore_Plural] ـﺏ ﺓﺎﻄﻐﻣ</li>
     <li>pawn_adj_Fem->ﺔﻴﺒﺼﻋ</li>
     <li>pawn_adj_Fem->[ApparelIndef] ﻱﺪﺗﺮﻳ</li>
-    <li>pawn_adj_Fem->[WeaponIndef] ًﺎﻠﻣﺎﺣ</li>
+    <li>pawn_adj_Fem->[WeaponIndef] ًﻼﻣﺎﺣ</li>
     <li>pawn_adj_Fem->[VegetableIndef] ﻞﻛﺄﻳ</li>
     <li>emotional_expression->ًﺎﻤﺴﺘﺒﻣ</li>
     <li>emotional_expression->ﺎًﺴِﺑﺎﻋ</li>
     <li>emotional_expression->ﺎًﺴِﺑﺎﻋ</li>
     <li>emotional_expression->ﻚﺤﻀﻳ</li>
-    <li>emotional_expression->ﺎًﺛّﺪﺤﺘﻣ</li>
+    <li>emotional_expression->ﺎًﺒﺋﺎﺜﺘﻣ</li>
     <li>emotional_expression->ﺥﺮﺼﻳ</li>
-    <li>emotional_expression->ﻱِﻮْﻌُﻳ</li>
+    <li>emotional_expression->ﻱﻮﻌُﻳ</li>
     <li>emotional_expression->ﺎًﺠﻬﺘﺒﻣ</li>
     <li>idles->ﺲﻠﺠﻳ</li>
     <li>idles->ﻒﻘﻳ</li>
     <li>idles->ﺮﻈﺘﻨﻳ</li>
     <li>idles->ﻢﺴﺘﺒﻳ</li>
     <li>idles->ﻲﻘﻠﺘﺴﻳ</li>
-    <li>idles->ُﻒَّﻗَﻮَﺘَﻳ</li>
+    <li>idles->ٌﻒُّﻗَﻮَﺗ</li>
     <li>idles->ﺮﻬﻈﻳ</li>
     <li>idles->ﺮﻬﻈﻳ</li>
-    <li>idles->ﻰﺷﺎﻠﺘﻳ</li>
+    <li>idles->ﻰﺷﻼﺘﻳ</li>
     <li>idles->ﻮﻔﻄﻳ</li>
-    <li>side_position->ﺔﻴﻔﻠﺨﻟﺍ ﻰﻟﺇ</li>
     <li>side_position->ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ</li>
-    <li>side_position->ﺓﺪﻴﻌﺒﻟﺍ ﺔﻓﺎﺴﻤﻟﺍ ﻲﻓ</li>
+    <li>side_position->ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ</li>
+    <li>side_position->ﺓﺭﻮﺼﻟﺍ ﻞﻔﺳﺃ ﻲﻓ</li>
     <li>side_position->ﺓﺭﻮﺼﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ</li>
     <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﺭﺎﺴﻳ ﻰﻟﺇ</li>
     <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻦﻴﻤﻳ ﻰﻟﺇ</li>
-    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻦﻴﻤﻳ ﻰﻟﺇ</li>
     <li>side_position->ﺓﺭﻮﺼﻟﺍ ﺔﻓﺎﺣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ</li>
+    <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﻉﻮﺿﻮﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ</li>
     <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﻉﻮﺿﻮﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ</li>
     <li>side_position->ﻲﺴﻴﺋﺮﻟﺍ ﻉﻮﺿﻮﻤﻟﺍ ﻦﻋ ﺍًﺪﻴﻌﺑ</li>
     <li>side_position->ﺔﻳﺭﻮﺤﻤﻟﺍ ﺔﻄﻘﻨﻟﺍ ﺖﺤﺗ</li>
@@ -320,37 +320,37 @@
     <li>artextra_clause->[ConceptAnyDef] [symbolizes] ﻱﺬﻟﺍ [side_position] [subimagesingle]</li>
     <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﺑ ﻊﻨﺻﻭ [ConceptAnyDef] ﺓﺮﻜﻔﺑ ﻊﺒﺸﻣ ﻞﻤﻌﻟﺍ</li>
     <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﺑ ﻞﻤﻌﻟﺍ ﺬّﻔُﻧ</li>
-    <li>style_clause->ﺔﻴﻔﻠﺨﻟﺍ [artstyle_adj] ﻂﻤﻨﻟﺍ ﻊﻣ ﺾﻗﺎﻨﺘﻳ ﻱﺰﻛﺮﻤﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻊﻣ ﻂﻤﻨﻟﺍ [artstyle_adj] ﻂﻤﻨﻟﺍ</li>
+    <li>style_clause->ﺔﻴﻔﻠﺨﻟﺍ [artstyle_adj] ﻂﻤﻨﻟﺍ ﻊﻣ ﺾﻗﺎﻨﺘﻳ ﻱﺰﻛﺮﻤﻟﺍ ﺪﻬﺸﻤﻟﺍ ﻂﻤﻧ [artstyle_adj] ﻂﻤﻨﻟﺍ</li>
     <li>style_clause->[composition] ﻞﻜﻴﻫ ﻪﻟﻭ [artstyle_adj] ﻭﺪﺒﻳ ﻞﻤﻌﻟﺍ</li>
     <li>style_clause->[composition] ﻮﻫ ﻡﺎﻌﻟﺍ ﻦﻳﻮﻜﺘﻟﺍ</li>
-    <li>style_clause->ﺓ[artstyle_adj] ﺮﺻﺎﻨﻋ ﻊﻣ [artstyle_adj] ﻮﻫ ﺏﻮﻠﺳﺄﻟﺍ</li>
-    <li>style_clause->[ConceptAnyFull] ﻭ [ConceptAnyFull] ﺎﻠﻛ ﻦﻋ ﺮﺒﻌﺗ ﺎﻣ ﺔﻘﻳﺮﻄﺑ ﺓﺭﻮﺼﻟﺍ</li>
+    <li>style_clause->ﺓ[artstyle_adj] ﺮﺻﺎﻨﻌﺑ [artstyle_adj] ﻮﻫ ﺏﻮﻠﺳﻷﺍ</li>
+    <li>style_clause->[ConceptAnyFull] ﻭ [ConceptAnyFull] ﻼﻛ ﻦﻋ ﺮﺒﻌﺗ ﺎﻣ ﺔﻘﻳﺮﻄﺑ ﺓﺭﻮﺼﻟﺍ</li>
     <li>style_clause->[ConceptAnyFull] ﻊﻣ [ConceptAnyFull] ﺓﺭﻮﺼﻟﺍ ﺾﻗﺎﻨﺘﺗ</li>
-    <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﺄﻟﺍ ﻊﻣ ﺽﺭﺎﻌﺘﻳ ﺩﺎﻜﻳ ﺓﺭﻮﺼﻟﺍ [composition] ﻞﻜﻴﻬﻟﺍ</li>
-    <li>style_clause->[Color] ﻭ [Color] ﻦﻣ ﺕﺎﺟﺭﺪﺘﺑ ﺮﻬﻈﻳ ﻞﻤﻌﻟﺍ</li>
-    <li>style_clause->[composition] ﻥﻮﻜﻳ ﻥﺃ ﺎًﺒﻳﺮﻘﺗ ﻞﻜﺷ ﻞﻛ ﻭﺪﺒﻳ</li>
+    <li>style_clause->[artstyle_adj] ﺏﻮﻠﺳﻷﺍ ﻊﻣ ﺽﺭﺎﻌﺘﻳ ﺩﺎﻜﻳ ﺓﺭﻮﺼﻟﺍ ﻞﻜﻴﻫ [composition] ﻞﻜﻴﻬﻟﺍ</li>
+    <li>style_clause->[Color] ﻭ [Color] ﻦﻣ ﺕﺎﺟﺭﺪﺗ ﻭﺫ ﻞﻤﻌﻟﺍ</li>
+    <li>style_clause->[composition] ﻮﻫ ﻲﻠﻇ ﻢﺳﺭ ﻞﻛ ﻥﺃ ﻭﺪﺒﻳ</li>
     <li>symbolizes->ﻰﻟﺇ ﺰﻣﺮﻳ</li>
-    <li>symbolizes->ﻰﻟﺇ ﺰﻣﺮﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
+    <li>symbolizes->ﺰﻣﺮﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
     <li>symbolizes->ﻞﺜﻤﻳ</li>
     <li>symbolizes->ﻞﺜﻤﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
     <li>symbolizes->ﺮﺒﻌﻳ ﻪﻧﺃ ﻭﺪﺒﻳ</li>
     <li>symbolizes->ﺪﻫﺎﺸﻤﻟﺍ ﺮّﻛﺬﻳ</li>
     <li>symbolizes->ﺮﻋﺎﺸﻣ ﻦﻋ ﺮّﺒﻌﻳ</li>
-    <li>symbolizes->ﻲﻓ ﺮﻜﻔﻳ ﺪﻫﺎﺸﻤﻟﺍ ﻞﻌﺠﻳ</li>
+    <li>symbolizes->ﻲﻓ ﺮﻜﻔﺘﻳ ﺀﺮﻤﻟﺍ ﻞﻌﺠﻳ</li>
     <li>symbolizes->ﻦﻋ ﻥﺎﻨﻔﻟﺍ ﺓﺮﻜﻓ ﻞﺜﻤﻳ</li>
     <li>symbolizes->ﻡﻮﻬﻔﻣ ﺡﺮﺘﻘﻳ</li>
-    <li>depicts->ُﺭِّﻮَﺼُﻳ</li>
-    <li>depicts->ُﺮِﻬْﻈُﻳ</li>
+    <li>depicts->ﺭِّﻮﺼُﻳ</li>
+    <li>depicts->ﺮﻬﻈُﻳ</li>
     <li>depicts->ﻞﺜﻤﻳ</li>
-    <li>depicts->ﻪﺒﺸﻳ</li>
-    <li>depicts->ُﺭِّﻮﺼُﻳ</li>
+    <li>depicts->ـﻙ ﻭﺪﺒﻳ</li>
+    <li>depicts->ﺭِّﻮﺼُﻳ</li>
     <li>depicts->ﻞﺜﻤﻳ</li>
-    <li>depicts->ﻪﺒﺸﻳ</li>
-    <li>depiction->ﺓﺭﻮﺻ</li>
+    <li>depicts->ﻪﺒﺸُﻳ</li>
+    <li>depiction->ﺮﻳﻮﺼﺗ</li>
     <li>depiction->ﺓﺭﻮﺻ</li>
     <li>depiction->ﺮﻳﻮﺼﺗ</li>
     <li>depiction->ﺢﻴﺿﻮﺗ</li>
-    <li>depiction->ﻲﺤﻴﺿﻮﺗ ﻢﺳﺭ</li>
+    <li>depiction->ﺔﻴﺤﻴﺿﻮﺗ ﺔﻤﺳﺭ</li>
     <li>depiction->ﺔﻤﺳﺭ</li>
     <li>composition->ﻲﺜﻠﺜﻣ</li>
     <li>composition->ﻞﻴﻄﺘﺴﻣ</li>
@@ -366,7 +366,7 @@
     <li>artstyle_adj->ﻂﻴﺴﺑ</li>
     <li>artstyle_adj->ﻲﻌﻗﺍﻭﻭ ﺪﻘﻌﻣ</li>
     <li>artstyle_adj->ﻲﻟﺎﻳﺮﺳ</li>
-    <li>artstyle_adj->ﻲﻜﻴﺳﺎﻠﻛ</li>
+    <li>artstyle_adj->ﻲﻜﻴﺳﻼﻛ</li>
     <li>artstyle_adj->ﺚﻳﺪﺣ</li>
     <li>artstyle_adj->ﻱﺰﻣﺭ</li>
     <li>artstyle_adj->ٍﻭﺎﻫ</li>
@@ -378,25 +378,25 @@
     <li>artstyle_adj->ﻲﻣﺍﺭﺩ</li>
     <li>artstyle_adj->ﻲﻛﻭﺭﺎﺑ</li>
     <li>artstyle_adj->ﻲﺋﺎﻳﺩﺍﺩ</li>
-    <li>artstyle_adj->ﻱﺮﺼﺒﻟﺍ ﺶﻳﻮﺸﺘﻟﺍ ﻦﻓ</li>
+    <li>artstyle_adj->ﺏﻮﻴﻌﻟﺍ ﻦﻓ</li>
     <li>artstyle_adj->ﻞﺴﻜﺒﻟﺎﺑ ﻂﻘﻨﻣ</li>
-    <li>artstyle_adj->ّﻲﺸﺣﻭ</li>
+    <li>artstyle_adj->ﻮﻧﺎﻴﺑﺎﻓ</li>
     <li>artstyle_adj->ﻱﺪﻴﻠﻘﺗ</li>
-    <li>artstyle_adj->ﻱﺯﺎﺠﻣ</li>
+    <li>artstyle_adj->ﻱﺮﻳﻮﺼﺗ</li>
     <li>artstyle_adj->ٍﻮﺘﻠﻣ</li>
     <li>artstyle_adj->ﻲﺳﺪﻨﻫ</li>
-    <li>artstyle_adj->ﺩّﺮﺠﻣ</li>
+    <li>artstyle_adj->ﺩﺮﺠﻣ</li>
     <li>artstyle_adj->ﺔﻴﻌﻗﺍﻮﻟﺍ ﻖﺋﺎﻓ</li>
     <li>artstyle_adj->ﻢﺗﺎﻗ</li>
-    <li>artstyle_adj->ﻂﻴﺴﺑ</li>
-    <li>artstyle_adj->ﻲﻜﻴﺳﺎﻠﻛﻮﻴﻧ</li>
-    <li>artstyle_adj->ّﻲﻧﻮﺗﺮﻛ ﻲّﻠﻇ</li>
-    <li>artstyle_adj->ﺔﻴﻋﺎﺒﻄﻧﺎﻟﺍ ﺪﻌﺑ ﺎﻣ</li>
+    <li>artstyle_adj->ﺔﻳﺎﻐﻠﻟ ﻂﻴﺴﺑ</li>
+    <li>artstyle_adj->ﻲﻜﻴﺳﻼﻛﻮﻴﻧ</li>
+    <li>artstyle_adj->ﻱﺭﻮﺗﺎﻜﻳﺭﺎﻛ</li>
+    <li>artstyle_adj->ﺔﻴﻋﺎﺒﻄﻧﻻﺍ ﺪﻌﺑ ﺎﻣ</li>
     <li>artstyle_adj->ﺩﺪﺸﺘﻣ</li>
     <li>artstyle_adj->ﻮﻛﻮﻛﻭﺭ</li>
     <li>artstyle_adj->ﻲﻜﺴﻧﺎﻣﻭﺭ</li>
     <li>artstyle_adj->ﻲﺴﻧﺎﻣﻭﺭ</li>
-    <li>artstyle_adj->ﻲﺘﻴﻓﺍﺮﻐﻟﺎﺑ ﻪﻴﺒﺷ</li>
+    <li>artstyle_adj->ﻥﺍﺭﺪﺠﻟﺍ ﻰﻠﻋ ﺔﺑﺎﺘﻜﻟﺍ ﻪﻴﺒﺷ</li>
     <li>artstyle_adj->ﻲﺣﺎﺑﺇ</li>
     <li>artstyle_adj->ّﻲﺴﺣ</li>
     <li>artstyle_adj->ﺺﻠﺨﻣ</li>
