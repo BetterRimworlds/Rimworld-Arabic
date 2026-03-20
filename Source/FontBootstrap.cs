@@ -87,15 +87,6 @@ namespace BetterRimworlds
 
         public static void Init(string language)
         {
-            if (!LanguageFonts.TryGetValue(language, out _activeConfig))
-            {
-                Log.Error(
-                    $"[BetterRimworlds] No font config for language '{language}'. " +
-                    $"Supported: {string.Join(", ", LanguageFonts.Keys)}"
-                );
-                return;
-            }
-
             try
             {
                 string match = FindSystemFont(_activeConfig);
